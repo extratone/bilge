@@ -1,6 +1,8 @@
 # Colophon
 
-*The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. [**My theme**](https://write.as/themes/bilge) is adapted from [Anxiety](https://write.as/themes/anxiety) by Max Henderson. The full CSS can be found below.
+*The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. 
+
+[**My theme**](https://write.as/themes/bilge) is adapted from [Anxiety](https://write.as/themes/anxiety) by Max Henderson. The full CSS can be found below and on [this GitHub repository](https://github.com/extratone/bilge). 
 
 ## Colors
 
@@ -15,7 +17,7 @@
 /* Written in 2020 by Max Henderson.
 Modified in April 2020 by David Blue for bilge.world.
 
-Version 2.3
+Version 2.4 (Caston Bilge!)
 
    To the extent possible under law, the author(s) have dedicated all
    copyright and related and neighboring rights to this software to the
@@ -31,25 +33,32 @@ Version 2.3
 
 */
 
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed:wght@100;500;700&family=Merriweather:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://use.typekit.net/kst2rrh.css');
 
-body {background-color: #FFF4E6;}
+body {
+  font-family: adobe-caslon-pro, serif !important;
+  font-weight: 400;
+  font-style: normal;
+  background-color: #FFF4E6;}
 /* old background-color: #f2f2f2 */
 
 #blog-title a {
-    font-family: 'IBM Plex Sans Condensed', sans-serif !important;
+    font-family: proxima-nova-condensed, sans-serif; font-weight: 900;    
+    font-style: normal;
     /* font-style:bold !important; */
     color: #00006b;
 }
 
 header nav a {
-  font-family: 'IBM Plex Sans Condensed', sans-serif !important;
+  font-family: proxima-nova-condensed, sans-serif !important;
+  font-weight: 900;
   font-size: 1.2em;
 }
 
 header p.description {
    /* font-style: italic; */
-    font-family: 'IBM Plex Sans Condensed', sans-serif !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
     line-height: 200% !important;
     color: #00006b !important;
     font-size: 1em;
@@ -64,15 +73,17 @@ body#collection header {
 
 header nav a {
     color: #00006b;
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
     /* margin-bottom: 1em; */
 }
 
 body, article {
-    font-family: Merriweather, sans-serif !important;
-    line-height: 150% !important;
-    font-size: 1em !important;
-    color: #0d0d0d;
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    line-height: 155%;
+    font-size: 1.1em !important;
+    color: #000000;
     /* margin-top:1rem !important; */
 }
 
@@ -87,55 +98,62 @@ body, article a:visited {
 
  h1 {
      color:#00006b !important;
-     font-family: 'IBM Plex Sans Condensed', sans-serif;
+     font-family: proxima-nova-condensed, sans-serif;
+     font-weight: 900;
      font-size: 2em !important;
  }
 
 h2 {
     color:#00006b !important;
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
     font-size: 1.4em !important;
 }
 
 h3 {
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
     font-size: 1.15em !important;
 }
 
 h4 {
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h5 {
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h6 {
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
     font-size: .85em !important;
 }
 
 .post-title a:visited, .post-title a:link {
-    font-family: 'IBM Plex Sans Condensed', sans-serif !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
     color: #00006b !important;
     font-size: 1.7rem !important;
 }
 
 body#post article time.dt-published, body#subpage article time.dt-published {
-  font-family: 'IBM Plex Sans Condensed', sans-serif !important;
-  color: dimgray !important;
+  font-family: proxima-nova-condensed, sans-serif !important;
+  color: #00006b !important;
   font-size: 1rem !important;
 }
 
 body footer nav {
-    color: #0d0d0d;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b;
 }
 
 blockquote {
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
     color: #333333 !important;
+    border-left: 2.5px solid #00006b !important;
 }
 
 hr{
@@ -144,32 +162,47 @@ hr{
 
 
 body footer a.home:link, body footer a.home:visited {
-    color: #000000;
+    color: #00006b;
 }
 
 .action {
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
 }
 
 nav#manage ul a {
-    color: #0d0d0d;
+    color: #00006b;
 }
 
 nav#paging a {
-    color: #0d0d0d !important;
-    font-family: 'IBM Plex Sans Condensed', sans-serif !important;
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
 }
 
 
 a.bt {
    background-color:#0d0d0d !important;
-   color: #0d0d0d !important;
+   color: #00006b !important;
 }
+
+a.hashtag {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: #00006b !important;
+}
+
+body#collection #wrapper time, body#subpage #wrapper time, body#post article time.dt-published, body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 0.95em;
+    color: #00006b !important;
+}
+
 
 .custom-nav {
   text-align: center;
   text-transform: uppercase;
-  font-family: 'IBM Plex Sans Condensed', sans-serif;
+  font-family: proxima-nova-condensed, sans-serif;
+  font-weight: 700;
   color: red;
 }
 .custom-nav a:link, .custom-nav a:visited, .custom-nav a:hover, .custom-nav a:active {
@@ -182,8 +215,14 @@ a.bt {
 #subscribe-btn {
     border: 1px #FF0000;
     background: #00006b;
-    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
     font-size: 1em;
     color: #FFF4E6;
+}
+
+#emailsub {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
 }
 ~~~
