@@ -4,6 +4,12 @@
 
 A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. (*That means you can see [current in-progress drafts](https://github.com/extratone/bilge/tree/main/Drafts)!*)
 
+* Download the entirety of this blog in EPUB format **[here](http://bilge.world/.epub)**.
+* Subscribe to this blog's RSS feed **[here](https://bilge.world/feed/)**.
+* This blog is federated at **@b@bilge.world**.
+
+<!--emailsub-->
+
 ## Typography
 
 **Body Text**: [Adobe Caslon Pro](https://fonts.adobe.com/fonts/adobe-caslon)
