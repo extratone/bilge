@@ -5,6 +5,16 @@ I proudly use [Write.as](https://write.as) as my blog's CMS. I am relatively new
 
 ***
 
+![Writeas Customization](https://i.snap.as/xpwZqmy4.png)
+
+# Installation (Bilge Theme)
+
+To "install" my theme on your own Writeas blog, copy and paste the contents of [Custom CSS.css](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css) and [Custom Javascript.js](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js) into the respective "Custom CSS" and "Custom Javascript" fields in your blog's customization menu. 
+
+See: "[Customizing Writeas](https://guides.write.as/customizing/)"
+
+***
+
 # [Colophon](https://bilge.world/colophon)
 
 *The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. 
