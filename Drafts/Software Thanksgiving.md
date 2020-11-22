@@ -14,7 +14,7 @@ This sort of encounter - with a service that significantly alters one's percepti
 
 <iframe src="https://mastodon.social/@wada/105251660497584580/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="auto" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
 
-A week ago, I shared [this Google Form](https://bit.ly/softthank) and asked you to reflect with me on the "really great" software/services *you* have encountered in your using life built by "technology companies who's business ethics align toward the benefit of us users and who's products are well-priced (or free!)"
+A week ago, I shared [this Google Form](https://bit.ly/softthank) and asked you to reflect with me on the "really great" software/services *you* have encountered in your using life built by "technology companies who's business ethics align toward the benefit of us users and who's products are well-priced (or free!)" 
 
 ***
 
@@ -40,11 +40,17 @@ Yes, I have tirelessly promoted [my essay about Bandcamp's holiness](https://bil
 
 ### 5. Audacity
 
-
-
-"[Audacity exceeds 100 million downloads](https://blog.fosshub.com/audacity-exceeds-100-million-downloads/)" | *FOSSHub Blog*
+I was browsing some FOSS-related article aggregation page a few weeks ago when a post caught my eye: "[Audacity exceeds 100 million downloads](https://blog.fosshub.com/audacity-exceeds-100-million-downloads/)." In reflection, I realized in that moment that perhaps no other single piece of software has been so thoroughly present in my "workflows" across all sorts of projects through the years, largely because of its God-sent [Truncate Silence feature](https://manual.audacityteam.org/man/truncate_silence.html), which I have used to remove silence from audio files for as long as I've been working within the medium, basically. Every podcast episode I have ever published has passed through Audacity for this reason and others, as have voiceovers, high school punk band demo tapes, personal voice notes, and more.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">the world would actually be perfect if audacity&#39;s truncate silence feature could be autotied to video timecodes.</p>&mdash; David Blue (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/766786796898357248?ref_src=twsrc%5Etfw">August 19, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Until OBS came along, Audacity was where all recorded audio started for myself and my creative friends. It was Audacity that captured (and caused, technically) the [death of my friend's soundcard in audio form](https://clyp.it/ycvt1wij) during the recording process for [*Hamura*](https://ihadtopee.bandcamp.com/album/hamura), the first Drywall album, back in October of 2011.
+
+<iframe width="100%" height="auto" src="https://clyp.it/ycvt1wij/widget" frameborder="0"></iframe>
+
+Fucking around in Audacity through the years has led to some halfway creative results on my part, including ["SLOWED 'N' THROWED" Hilary Duff tracks](https://soundcloud.com/digivoid/hilary-duff-with-love-slowed-n-throwed) and [legacy Windows sounds remixes](https://soundcloud.com/chordoslut/windows-operatic). I still use it for every episode of [*End User*](https://anchor.fm/davidblue) and have recently created a macro for remastering [*Drycast*](https://anchor.fm/drycast) episodes. (A big feat for me and reflective of Audacity's ingenuity.) As far as I know, there are *zero* competitors, proprietary or not, which can replicate Audacity's particular usefulness as an audio utility.
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/516674979&color=%2300006b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 ### 6. NeoCities
 
