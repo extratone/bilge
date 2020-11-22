@@ -14,11 +14,11 @@ If you listen a bit more carefully, you'll intercept a new one:
 
 *Mastodon*.
 
-It's the open source brainchild of Eugen Rochko, who's known colloquially as [Gargron](https://web.archive.org/web/20170407072251/https://mastodon.social/@Gargron).
+It's the open source brainchild of Eugen Rochko, who's known colloquially as [Gargron](https://mastodon.social/@Gargron).
 
 He's had one hell of a week.
 
-Between the night of our first emails and our conversation, his flagship [mastadon.social](https://web.archive.org/web/20170407072251/http://mastodon.social/) instance had doubled in users. Less than two hours after we said our goodbyes, his name was on *The Verge*'s front page.
+Between the night of our first emails and our conversation, his flagship [mastadon.social](http://mastodon.social/) instance had doubled in users. Less than two hours after we said our goodbyes, his name was on *The Verge*'s front page.
 
 Despite the urgency of it all, he graciously lent me his time just after breakfast on Tuesday to discuss himself and the story behind the project, while the most significant day of his life was building around him.
 
@@ -32,7 +32,7 @@ Though the ink's still fresh on his compsci diploma, he's clearly prepared for t
 
 **What's the story behind the project? Do you remember the specific moment when you decided to do this?**
 
-Many years ago, I had a friend that was really into federated networks when they were a new thing. That was when [identi.ca](https://web.archive.org/web/20170407072251/http://identi.ca/) was first created - at the very beginning of my developer knowledge and career.
+Many years ago, I had a friend that was really into federated networks when they were a new thing. That was when [identi.ca](http://identi.ca/) was first created - at the very beginning of my developer knowledge and career.
 
 A good portion of the stories written so far on his platform have framed it as an alternative to Twitter, which early Masto adopters refer to as "Hellbird," or "the bird website." Eugen isn't afraid to acknowledge his investment in the format.
 
@@ -42,9 +42,9 @@ He began building on his own, with Tweetdeck's standard in mind.
 
 > I thought 'if I'm going to do something, it needs to have realtime updates and it needs to have columns.' I started with a bare-bones prototype while still [at University] in May or April of last year. It had no user interface, only an API that I was using from the command line. And I thought 'okay, it works. that's great.' Then, exams came.
 
-Academics had to come before the project at first, but it soon supplied an ample post-graduation diversion. He focused his energy on building something more complete and eventually launched a [Patreon page](https://web.archive.org/web/20170407072251/https://www.patreon.com/user?u=619786).
+Academics had to come before the project at first, but it soon supplied an ample post-graduation diversion. He focused his energy on building something more complete and eventually launched a [Patreon page](https://www.patreon.com/user?u=619786).
 
-> I [announced](https://web.archive.org/web/20170407072251/https://news.ycombinator.com/item?id=13303346) it on HackerNews, and that was the first public release of the project. That's when I got my first users who weren't my friends, and some who were new to federated networks.
+> I [announced](https://news.ycombinator.com/item?id=13303346) it on HackerNews, and that was the first public release of the project. That's when I got my first users who weren't my friends, and some who were new to federated networks.
 
 That was just over 100 days ago, and it gave way to his first feedback.
 
@@ -52,7 +52,7 @@ That was just over 100 days ago, and it gave way to his first feedback.
 
 It compelled him to change things, and his work was well received.
 
-> Over time, I kept working on new features, and waves of new users came when it went viral in certain circles. The first was HackerNews and Product Hunt. [Aral Balkan](https://web.archive.org/web/20170407072251/https://twitter.com/aral) - a Twitter user with over 30,000 followers - picked up the project, gave it a shout out, and even did a giveaway of his app. He had a lot of followers from Holland; the Mastodon timelines became mostly Dutch.
+> Over time, I kept working on new features, and waves of new users came when it went viral in certain circles. The first was HackerNews and Product Hunt. [Aral Balkan](https://twitter.com/aral) - a Twitter user with over 30,000 followers - picked up the project, gave it a shout out, and even did a giveaway of his app. He had a lot of followers from Holland; the Mastodon timelines became mostly Dutch.
 
 Next was Marxist anime Twitter (including *[Extratone](http://mastodon.social/@extratone)* and [I](http://bit.ly/dbmastodon).)
 
@@ -68,13 +68,13 @@ And the last - now a bit out of date - is this week's spike, which is nearly dou
 
 **Are you responsible for all of the code?**
 
-You can look at the [GitHub page](https://web.archive.org/web/20170407072251/https://github.com/tootsuite/mastodon) to see a specific breakdown of who contributed and how many lines of code, each. You'll see I'm at the top by a large margin, but there are [additional] people who've contributed interesting, good features & fixes, localizations, user guides, and documentation.
+You can look at the [GitHub page](https://github.com/tootsuite/mastodon) to see a specific breakdown of who contributed and how many lines of code, each. You'll see I'm at the top by a large margin, but there are [additional] people who've contributed interesting, good features & fixes, localizations, user guides, and documentation.
 
 **What's the story behind the name?**
 
 It's not particularly interesting. I'm a progressive metal fan, and I listen to *Mastodon* sometimes. They have a really cool name that refers to a really cool animal. It's a fluffy elephant! What's not to love?
 
-It's also the inspiration for Mastodon's mascot, which was penned by Rochko's YouTuber friend [Dopatwo](https://web.archive.org/web/20170407072251/https://www.youtube.com/user/dopatwo) after he realized how urgently he required an error page.
+It's also the inspiration for Mastodon's mascot, which was penned by Rochko's YouTuber friend [Dopatwo](https://www.youtube.com/user/dopatwo) after he realized how urgently he required an error page.
 
 **What does "federated" mean to you?**
 
@@ -95,7 +95,7 @@ Yes, I suppose on your own instance, you could change the stylesheet...
 
 **So if I set up my own instance and started charging for its use, I'd be in the clear, legally?**
 
-Yes, that's okay. The code is licensed under [AGPL](https://web.archive.org/web/20170407072251/https://www.gnu.org/licenses/agpl-3.0.html) version three, which I picked because other projects in the same space are using it. The difference between AGPL and GPL is that [the former] forces you to contribute back to the appstream code repository if you make any breaking changes.
+Yes, that's okay. The code is licensed under [AGPL](https://www.gnu.org/licenses/agpl-3.0.html) version three, which I picked because other projects in the same space are using it. The difference between AGPL and GPL is that [the former] forces you to contribute back to the appstream code repository if you make any breaking changes.
 
 For example, Eugen explained that WhatsApp originally used XMPP for its chat protocol, which meant that Facebook and Google Talk users could connect to it, too. However, the company progressively locked down the platform over time, leaving virtually nothing visible that was unique to XMPP in its current iteration.
 
@@ -125,7 +125,7 @@ It's leaner, quicker-to-change, much more flexible & democratized, and less corr
 
 It's been a privilege to be observer and participant in the first lightening of a new online community. In the moment, we enjoy our lavender haze -when the spaces are filling primarily with users who are sincerely interested enough in discourse to have sought it out.
 
-Sarah Jeong's [account](https://web.archive.org/web/20170407072251/https://motherboard.vice.com/en_us/article/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it) of her Twitter exile is a good, long read if you're craving more specifics, and Eugen's [Medium](https://web.archive.org/web/20170407072251/https://medium.com/@Gargron) offers a more complete explanation of federation and its place in the industry, straight from the source. Apparently, he's just as articulate with words as he is with code.
+Sarah Jeong's [account](https://motherboard.vice.com/en_us/article/mastodon-is-like-twitter-without-nazis-so-why-are-we-not-using-it) of her Twitter exile is a good, long read if you're craving more specifics, and Eugen's [Medium](https://medium.com/@Gargron) offers a more complete explanation of federation and its place in the industry, straight from the source. Apparently, he's just as articulate with words as he is with code.
 
 If I had to hazard a guess, I'd bet it's [not the last we'll hear from him](https://usesthis.com/interviews/eugen.rochko/).
 
