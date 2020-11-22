@@ -32,4 +32,4 @@ Follow me on [**Mastodon**](https://mastodon.social/@DavidBlue), [**Twitter**](h
 
 <!--emailsub-->
 
-*Technical details about this blog can be found on the [Colophon](https://bilge.world/colophon).*
+*Technical details about this blog can be found on the [Colophon](https://bilge.world/colophon) and in [this GitHub repository](https://github.com/extratone).*
