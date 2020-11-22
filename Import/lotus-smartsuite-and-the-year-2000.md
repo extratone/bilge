@@ -1,8 +1,4 @@
----
-title: "Lotus SmartSuite and the year 2000"
-date: "2018-09-23"
----
-
+# Lotus SmartSuite and the year 2000
 ![Lotus SmartSuite and the year 2000](https://i.snap.as/qBzkbjEA.png)_I stumbled across this wonderful help document in [Lotus SmartSuite 9.8](https://winworldpc.com/product/lotus-smartsuite/9-8) and my head just shot right off._
 
 All of the programs in this release of Lotus SmartSuite meet Lotus guidelines for Year 2000 (Y2K) readiness. When used in accordance with its associated documentation, each of the SmartSuite programs is capable of correctly processing, providing and/or receiving date data within and between the 20th and 21st centuries, provided that all products (for example, hardware, software and firmware) used with the program properly exchange accurate date data with it.
