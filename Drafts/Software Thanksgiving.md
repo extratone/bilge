@@ -52,5 +52,8 @@ Fucking around in Audacity through the years has led to some halfway creative re
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/516674979&color=%2300006b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
+![NeoCities Interactions](https://i.snap.as/10geW13j.png)
+
 ### 6. NeoCities
 
+Last week, I moved my inactive automotive blog ([dieselgoth.com](https://dieselgoth.com)) from a Writeas blog to a purely-HTML [NeoCities website](https://neocities.org/site/dieselgoth) with disturbingly little friction. (I challenge you to spot any differences.) After discovering a backup of the original Drywall Website in my archives, NeoCities was the only reasonable host on which to [archive it](https://iowa.neocities.org/). 
