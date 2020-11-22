@@ -7,6 +7,7 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 * Download the entirety of this blog in EPUB format **[here](http://bilge.world/.epub)**.
 * Subscribe to this blog's RSS feed **[here](https://bilge.world/feed/)**.
 * This blog is federated at **@b@bilge.world**.
+* This blog is integrated with [Hypothes.is](https://hypothes.is/users/DavidBlue). (See [CJ Eller's guide](https://discuss.write.as/t/adding-comments-to-your-blog/1146).)
 
 <!--emailsub-->
 
