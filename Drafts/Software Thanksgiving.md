@@ -20,25 +20,43 @@ A week ago, I shared [this Google Form](https://bit.ly/softthank) and asked you 
 
 ## THANK
 
-### 1. Bandcamp
+### 1. [Bandcamp](https://bandcamp.com/)
 
-Yes, I have tirelessly promoted [my essay about Bandcamp's holiness](https://bilge.world/bandcamp-streaming-music) for years now, but I have done so with good reason: here is a for-profit technology company which is building a one-of-a-kind product that is 
+Yes, I have tirelessly promoted [my essay about Bandcamp's holiness](https://bilge.world/bandcamp-streaming-music) for years now, but I have done so with good reason: here is a for-profit technology company which is building a one-of-a-kind product that invests directly in independent artists. I spent a whole summer scouring The Web looking for *a single misstep* or controversy and found absolutely none.
 
 > Over the course of this super link-laden journey, we’d consider the alarmingly hypocritical possibility that it’s been overlooked by mainstream conversations only because it has so long operated in the precise manner we claim is so hopelessly absent from its neighbors in its deliberate, principled, and innovative journey towards a transparent, progressive vision.
 
-### 2. OBS
+### 2. [OBS](https://obsproject.com/)
 
+Before OBS (Open Broadcaster Software,) streaming video was an absolute mess that usually involved paying for or pirating some proprietary software. Remember Ustream? Good God... 
 
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/EPZXkvl8cT0?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### 3. Typora
+OBS is the streaming video equivalent of Audacity and GIMP: an extremely powerful, infinitely-malleable set of tools that allow one to take full advantage of their hardware to capture and/or stream video and audio. 
 
+![Typora - Gitbooks Slate Theme](https://i.snap.as/uWDyI56s.png)
 
+### 3. [Typora](https://typora.io/)
 
-### 4. GIMP
+There's a file entitled "[My Darling, Typora](https://github.com/extratone/bilge/blob/main/Drafts/My%20Darling%2C%20Typora.md)" sitting in my [essay drafts folder](https://github.com/extratone/bilge/tree/main/Drafts), currently, which describes this text editor as "the perfect writing software." (See its [notes page on Notion](https://www.notion.so/rotund/My-Darling-Typora-b20ac14f9d7e4b20b9c823b0d8292c8f) for more.) 
 
+From another recommendation I wrote:
 
+> Typora is an infinitely-customizable markdown editor spanning all platforms that's managed to become my primary word processor (and I'm someone who demands *a lot* from word processors.) It's immensely powerful in all the important ways - my use over the past two years has stress tested it with both enormous (100,000+ words) and extremely complicated (100+ images and embeds) documents. It's able to export even these chunkos to any format you can imagine instantaneously and never crashes.
 
-### 5. Audacity
+From a comment I made on [*The Information*'s notetaking software comparison](https://www.theinformation.com/articles/tech-execs-are-obsessing-over-note-taking-apps-we-tested-them-out):
+
+> Typora is a Markdown editor with left sidebar file sorting, very much like Bear (several available themes can make it look actually identical, in fact,) but without its native iCloud-based file syncing. It is cross-platform, open-source, and definitely more powerful, though.
+
+### 4. [GIMP](https://www.gimp.org/)
+
+The GNU Image Manipulation Program - which just celebrated its [*25th* anniversary](https://www.gimp.org/news/2020/11/21/25-years-of-gimp/) last week - is one of the most powerful tools in its space and perhaps *the* number one exemplary example of open source software to cite when explaining the concept for the first time. I have used it my entire creative life for all manner of tasks and evangelized it plenty, but it wasn't until I [returned to college](https://www.davidblue.wtf/college-return/) this Fall and took advantage of Adobe's student discounts that I had an opportunity to thoroughly explore its proprietary nemesis, Photoshop. 
+
+<iframe width="auto" height="auto" src="https://www.youtube.com/embed/CezNvZ-TQlY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+What I found was indeed a very powerful piece of software, albeit as arrogant as ever in its stubborn commitment to the original keyboard shortcuts set by default and other legacy artifacts, though not one I would compare to GIMP, necessarily. This shouldn't be breaking news: as far as I know, there are billions of posts comparing the two going back to [the beginning of the written word](https://www.wired.com/1998/03/a-thrifty-photoshop-built-for-the-web/). My personal conclusion: I can accomplish much more, much faster with GIMP in every single one of my own use cases. 
+
+### 5. [Audacity](https://www.audacityteam.org/)
 
 I was browsing some FOSS-related article aggregation page a few weeks ago when a post caught my eye: "[Audacity exceeds 100 million downloads](https://blog.fosshub.com/audacity-exceeds-100-million-downloads/)." In reflection, I realized in that moment that perhaps no other single piece of software has been so thoroughly present in my "workflows" across all sorts of projects through the years, largely because of its God-sent [Truncate Silence feature](https://manual.audacityteam.org/man/truncate_silence.html), which I have used to remove silence from audio files for as long as I've been working within the medium, basically. Every podcast episode I have ever published has passed through Audacity for this reason and others, as have voiceovers, high school punk band demo tapes, personal voice notes, and more.
 
@@ -54,6 +72,6 @@ Fucking around in Audacity through the years has led to some halfway creative re
 
 ![NeoCities Interactions](https://i.snap.as/10geW13j.png)
 
-### 6. NeoCities
+### 6. [NeoCities](https://neocities.org/)
 
 Last week, I moved my inactive automotive blog ([dieselgoth.com](https://dieselgoth.com)) from a Writeas blog to a purely-HTML [NeoCities website](https://neocities.org/site/dieselgoth) with disturbingly little friction. (I challenge you to spot any differences.) After discovering a backup of the original Drywall Website in my archives, NeoCities was the only reasonable host on which to [archive it](https://iowa.neocities.org/). 
