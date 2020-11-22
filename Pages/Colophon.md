@@ -2,7 +2,13 @@
 
 *The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. 
 
-[**My theme**](https://write.as/themes/bilge) is adapted from [Anxiety](https://write.as/themes/anxiety) by Max Henderson. The full CSS can be found below and on [this GitHub repository](https://github.com/extratone/bilge). 
+A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. (*That means you can see [current in-progress drafts](https://github.com/extratone/bilge/tree/main/Drafts)!*)
+
+## Typography
+
+**Body Text**: [Adobe Caslon Pro](https://fonts.adobe.com/fonts/adobe-caslon)
+
+**Nav/Headers/Other**: [Proxima Nova](https://fonts.adobe.com/fonts/proxima-nova) & Variations
 
 ## Colors
 
@@ -13,9 +19,12 @@
 
 ---
 
+### CSS
+
 ~~~css
-/* Written in 2020 by Max Henderson.
-Modified in April 2020 by David Blue for bilge.world.
+/* Written in April 2020 by David Blue for bilge.world.
+
+Full, up-to-date source code available at https://github.com/extratone/bilge/
 
 Version 2.4 (Caston Bilge!)
 
@@ -226,3 +235,38 @@ body#collection #wrapper time, body#subpage #wrapper time, body#post article tim
     font-weight: 700;
 }
 ~~~
+
+### Javascript
+
+```javascript
+var topP = document.createElement("p");
+//topP.style.textAlign = "center";
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> // <a href="https://twitter.com/NeoYokel">Twitter</a> // <a href="https://discord.gg/4hdQcVd">Discord</a></div>';
+var cont = document.getElementById("wrapper");
+if (cont !== null) {
+    // Add to blog index and tag pages
+    cont.appendChild(topP);
+} else {
+    // Add to individual blog post page
+    cont = document.getElementById("post-body");
+    cont.insertAdjacentHTML("afterend", topP.outerHTML);
+}
+
+// src: https://platform.twitter.com/widgets.js
+
+// src: https://hypothes.is/embed.js
+
+window.hypothesisConfig = function () {
+  return {
+    "openSidebar": false, 
+    "theme": "clean",
+    branding: {
+      appBackgroundColor: '#f7ff85',
+      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
+      ctaTextColor: '#00006b',
+      selectionFontFamily: 'Georgia, serif'
+    }
+  };
+};
+```
+
