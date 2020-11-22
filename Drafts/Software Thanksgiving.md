@@ -42,5 +42,9 @@ Yes, I have tirelessly promoted [my essay about Bandcamp's holiness](https://bil
 
 
 
+"[Audacity exceeds 100 million downloads](https://blog.fosshub.com/audacity-exceeds-100-million-downloads/)" | *FOSSHub Blog*
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">the world would actually be perfect if audacity&#39;s truncate silence feature could be autotied to video timecodes.</p>&mdash; David Blue (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/766786796898357248?ref_src=twsrc%5Etfw">August 19, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ### 6. NeoCities
 
