@@ -12,7 +12,11 @@ This sort of encounter - with a service that significantly alters one's percepti
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfPdoP8oKIG6UhpK515D4x6khPNJqJlHPYAYflwKSpuV_sUDw/viewform?embedded=true" width="auto" height="auto" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-A week ago, I shared [this Google Form](https://bit.ly/softthank) and asked you to reflect with me on the "really great" software/services *you* have encountered in your using life built by "technology companies who's business ethics align toward the benefit of us users and who's products are well-priced (or free!)" 
+A week ago, I shared [this Google Form](https://bit.ly/softthank) and asked you to reflect with me on the "really great" software/services *you* have encountered in your using life built by "technology companies who's business ethics align toward the benefit of us users and who's products are well-priced (or free!)" As of the time of this writing, nearly 80 responses have been recorded on the form, itself, and several more via [comments on *Hacker News*](https://news.ycombinator.com/item?id=25177582). I deeply appreciate your participation! They're far from predictable, too - I've ended up learning a lot. 
+
+Here's a [very bad spreadsheet](https://bit.ly/thanksheet) full of these very *good* responses. (My apologies - I have absolutely no idea how to use Google Sheets.)
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc4c0ARq1lVx2egcxqoxL0KrkAK-j70Ejc064f4Krpjptg0maDoP0pPWhQXqzL4FXmCucFl8NMGWmT/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ---
 
