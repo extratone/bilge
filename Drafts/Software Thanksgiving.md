@@ -6,21 +6,36 @@
 
 I've never been a big fan of holidays, nor do I think Thanksgiving should be a federal one, given its shitty, undebatably imperialist origins, but these opinions are entirely inconsequential. Regardless of how I feel, Thanksgiving will remain as pervasive as ever in the spaces around me, so I thought I'd change things up this year and *actually participate* in a substantial way. I did my best to travel back to a vastly less complicated self, letting all of the crud that's accumulated atop my love of computers in the past twenty years: wokeness, adtech, Obama wearing VR glasses, etc... When I thought the Native Americans were *glad*  to see white people because they gave them guns and horses and assumed people made things because good ideas were the apex of currency. When I was able to respond to new software discoveries by screwing around aimlessly without wondering if they'd been stolen entirely from a handful of talented developers lacking in the resources and know how required to protect their ideas in the face of Microsoft's ruthless *Embrace, Extend, Extinguish* crusade. 
 
-Forgive yourself for a moment and return there with me. Or perhaps somewhere else, if you need - wherever and whenever you last remember feeling genuinely enthralled with *The Future of Computers*. (Perhaps it was yesterday! If so, Gourd bless you. Never change.) Let's take ourselves back to kindergarten, before we knew anything about the rapid cyclical consolidation and monopolization within the technology industry that had already established itself as a trend, by then, when all we knew of the software we interacted with was contained within our most visceral reactions: *I like Ask Jeeves because I like red and I like Jeeves.* I vaguely remember when Google (the search engine) first broached the general awareness of my elementary school's computer lab. I'm fairly sure I even remember the sort of feelings that were elicited the first time I actually set eyes on the Google.com homepage: it looked so modern, then, compared to the rest of the web. (After two decades, it currently looks like shit.) After only a few minutes of use, it was immediately clear that Google was superior to any of the other search engines we'd been using.
+Forgive yourself for a moment and return there with me. Or perhaps somewhere else, if you need - wherever and whenever you last remember feeling genuinely enthralled with *The Future of Computers*. (Perhaps it was yesterday! If so, Gourd bless you. Never change.) Let's take ourselves back to kindergarten, before we knew anything about the rapid cyclical consolidation and monopolization within the technology industry that had already established itself as a trend, by then, when all we knew of the software we interacted with was contained within our most visceral reactions: *I like Ask Jeeves because I like red and I like Jeeves.* I vaguely remember when Google (the search engine) first broached the general awareness of my elementary school's computer lab. I'm fairly sure I even remember the sort of feelings that were elicited the first time I actually set eyes on the Google.com homepage: it looked so modern, then, compared to the rest of the web. (After two decades, it currently looks like shit.) Upon the first first query, it was immediately clear that Google was superior to any of the other search engines we'd been using.
 
-This sort of encounter - with a service that significantly alters one's perception of a given set of tasks - is precious in our lives as users. A few from my own life: first witnessing a Skype call, using the Evernote beta in Junior High, the first time I used Bandcamp's backend publishing software to edit metadata and package an album, Discord's first public release, discovering Markdown, and most recently, exploring Notion. The atmosphere of elation about the future on which I so often lament has been replaced by wariness for most of us - from Californian software developers to tractor-hacking farmers. Now, the conversation is saturated with CEO appearances before legal committees, corporate memo leaks, and somber interviews. Of course, I have contributed my share. In fact, I wish I could be twice as critical in twice the written volume, and [I believe](https://twitter.com/NeoYokel/status/1329078973691695117) the tech media industry to be far too culturally-embedded within Silicon Valley to be nearly critical enough. For this holiday, though, I think a respite from the negative is worthwhile and essential. I know it is for *my* personal sanity, at least.
+This sort of encounter - with a service that significantly alters one's perception of a given set of tasks - is precious in our lives as users.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfPdoP8oKIG6UhpK515D4x6khPNJqJlHPYAYflwKSpuV_sUDw/viewform?embedded=true" width="auto" height="auto" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+A few examples from my own using life which come to mind: 
+
+- The first time I witnessed a Skype call.
+- Downloading and using the beta Evernote client on the school machines in Junior High. 
+- The first album I uploaded on Bandcamp. 
+- Discord's first public release.
+- The "moment" I first put a name to Markdown. (I'd been using bits of the syntax for years before I actually read the word.)
+- And most recently, exploring Notion as personal catch-all documentation software. 
+
+The atmosphere of elation about the future on which I so often lament has been replaced by wariness for most of us - from Californian software developers to tractor-hacking farmers. Now, the conversation is saturated with CEO appearances before legal committees, corporate memo leaks, and somber interviews. Of course, I have unquestionably contributed *more* than my share. In fact, I wish I could be twice as critical in twice the written volume, and [I believe](https://twitter.com/NeoYokel/status/1329078973691695117) the tech media industry to be far too culturally-embedded within Silicon Valley to be nearly critical enough. For this holiday, though, I think a respite from the negative is worthwhile and essential. I know it is for *my* personal sanity, at least.
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfPdoP8oKIG6UhpK515D4x6khPNJqJlHPYAYflwKSpuV_sUDw/viewform?embedded=true" width="285" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 A week ago, I shared [this Google Form](https://bit.ly/softthank) and asked you to reflect with me on the "really great" software/services *you* have encountered in your using life built by "technology companies who's business ethics align toward the benefit of us users and who's products are well-priced (or free!)" As of the time of this writing, nearly 80 responses have been recorded on the form, itself, and several more via [comments on *Hacker News*](https://news.ycombinator.com/item?id=25177582). I deeply appreciate your participation! They're far from predictable, too - I've ended up learning a lot. The very first submission was for [Logos Bible Software](https://en.wikipedia.org/wiki/Logos_Bible_Software), which has [quite a fascinating history](https://blogs.bible.org/bible-software-history-101/). I feel like those less-secular of us go unexposed to theological software without participants such as the human who submitted this one (thank you, human!,) and end up missing out on an entire segment of software development. Having studied The Good Book in a very much analog fashion through Lutheran school, I wonder in retrospect how software solutions could've changed the experience.
 
-Here's a [very bad spreadsheet](https://bit.ly/thanksheet) full of these very *good* responses. (My apologies - I have absolutely no idea how to use Google Sheets.)
+I have never received this volume of feedback in my prompts before, nor have I ever really seen a reason to close any of them to responses, so I'm going to take a blind shot at the dartboard and plan to close the form on **New Year's Day, 2021**. Until then, please feel free to respond in any way you'd like and/or view all the live answers in this [**very bad spreadsheet**](https://bit.ly/thanksheet) full of these very *good* responses. (My apologies - I have absolutely no idea how to use Google Sheets.)
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc4c0ARq1lVx2egcxqoxL0KrkAK-j70Ejc064f4Krpjptg0maDoP0pPWhQXqzL4FXmCucFl8NMGWmT/pubhtml?widget=true&amp;headers=false"></iframe>
 
 ---
 
-## THANK
+## ⓣⓗⓐⓝⓚⓢ
+
+
+
+
 
 ### 1. [Bandcamp](https://bandcamp.com/)
 
@@ -84,5 +99,11 @@ Last week, I moved my inactive automotive blog ([dieselgoth.com](https://dieselg
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">LOOK AT THIS GORGEOUS WEBSITE! <a href="https://t.co/nahoRCEkeE">https://t.co/nahoRCEkeE</a> <a href="https://t.co/mzEfhGygWz">pic.twitter.com/mzEfhGygWz</a></p>&mdash; David Blue (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1328337497416458247?ref_src=twsrc%5Etfw">November 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Trust me when I tell you that **some of the best web design, *ever* can be found on NeoCities**. What's even better: after my deep dive, I was pleasantly surprised by strangers [commenting on what I'd found](https://neocities.org/site/davidblue?event_id=1301289)! A Post you should probably expect soon: "NeoCities is 2020's Best Social Network." Going forward, I'd like to [digitize my poetry collection on NeoCities](https://neocities.org/site/davidblue) in the near future while continuing to otherwise study HTML again.
+Trust me when I tell you that **some of the best web design, *ever* can be found on NeoCities**. What's even better: after my deep dive, I was pleasantly surprised by strangers [commenting on what I'd found](https://neocities.org/site/davidblue?event_id=1301289)! A Post you should probably expect soon: "NeoCities is 2020's Best Social Network." Going forward, I'd like to [digitize my poetry collection on NeoCities](https://neocities.org/site/feebles) in the near future while continuing to otherwise study HTML again.
+
+![DryBuy](https://i.snap.as/MKqV97y9.png)
+
+<script src="https://gist.github.com/extratone/e572fece4d1f064c1abb10ee9d913fcf.js"></script>
+
+
 
