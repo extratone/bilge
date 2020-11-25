@@ -27,15 +27,13 @@ A week ago, I shared [this Google Form](https://bit.ly/softthank) and asked you 
 
 I have never received this volume of feedback in my prompts before, nor have I ever really seen a reason to close any of them to responses, so I'm going to take a blind shot at the dartboard and plan to close the form on **New Year's Day, 2021**. Until then, please feel free to respond in any way you'd like and/or view all the live answers in this [**very bad spreadsheet**](https://bit.ly/thanksheet) full of these very *good* responses. (My apologies - I have absolutely no idea how to use Google Sheets.)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTc4c0ARq1lVx2egcxqoxL0KrkAK-j70Ejc064f4Krpjptg0maDoP0pPWhQXqzL4FXmCucFl8NMGWmT/pubhtml?widget=true&amp;headers=false"></iframe>
+![Software Thanksgiving Cloud](https://i.snap.as/bj3zAfNm.png)
 
 ---
 
 ## ⓣⓗⓐⓝⓚⓢ
 
-
-
-
+I originally intended to go into relatively extensive detail for each of the entities on my own Most Thankful For list, but I do have to *actually stop somewhere*, so the commentary on these isn't remarkably insightful or educational. It *is* genuine, though, which is worth something, I hope.
 
 ### 1. [Bandcamp](https://bandcamp.com/)
 
@@ -65,13 +63,15 @@ From a comment I made on [*The Information*'s notetaking software comparison](ht
 
 > Typora is a Markdown editor with left sidebar file sorting, very much like Bear (several available themes can make it look actually identical, in fact,) but without its native iCloud-based file syncing. It is cross-platform, open-source, and definitely more powerful, though.
 
+The Typora theming community has been especially on-point, as of late. In the screenshot embedded above, it's wearing the Slate variation of [H16nning's Gitbook theme](https://theme.typora.io/theme/Gitbook/), which is by far the most beautiful configuration I've yet to see the editor in.
+
 ### 4. [GIMP](https://www.gimp.org/)
 
 The GNU Image Manipulation Program - which just celebrated its [*25th* anniversary](https://www.gimp.org/news/2020/11/21/25-years-of-gimp/) last week - is one of the most powerful tools in its space and perhaps *the* number one exemplary example of open source software to cite when explaining the concept for the first time. I have used it my entire creative life for all manner of tasks and evangelized it plenty, but it wasn't until I [returned to college](https://www.davidblue.wtf/college-return/) this Fall and took advantage of Adobe's student discounts that I had an opportunity to thoroughly explore its proprietary nemesis, Photoshop. 
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/CezNvZ-TQlY?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-What I found was indeed a very powerful piece of software, albeit as arrogant as ever in its stubborn commitment to the original keyboard shortcuts set by default and other legacy artifacts, though not one I would compare to GIMP, necessarily. This shouldn't be breaking news: as far as I know, there are billions of posts comparing the two going back to [the beginning of the written word](https://www.wired.com/1998/03/a-thrifty-photoshop-built-for-the-web/). My personal conclusion: I can accomplish much more, much faster with GIMP in every single one of my own use cases. 
+What I found was indeed a very powerful piece of software, albeit as arrogant as ever in its stubborn commitment to the original keyboard shortcuts set by default and other legacy artifacts, though not one I would compare to GIMP, necessarily. This shouldn't be breaking news: as far as I know, there are billions of posts comparing the two going back to [the beginning of the written word](https://www.wired.com/1998/03/a-thrifty-photoshop-built-for-the-web/). My personal conclusion: **I can accomplish much more, much faster with GIMP** in every single one of my own use cases. 
 
 ### 5. [Audacity](https://www.audacityteam.org/)
 
@@ -95,15 +95,24 @@ Shortly after I discovered NeoCities last Spring, I signed up to be a [Supporter
 
 ![The Drywall Website](https://i.snap.as/UhS9a89b.png)
 
-Last week, I moved my inactive automotive blog ([dieselgoth.com](https://dieselgoth.com)) from a Writeas blog to a purely-HTML [NeoCities website](https://neocities.org/site/dieselgoth) with disturbingly little friction. (I challenge you to spot any differences.) After discovering a backup of the original Drywall Website deep within my old files, NeoCities was the only reasonable host on which to [archive it](https://iowa.neocities.org/). After I'd finished uploading, I fell down what the youth call a "rabbit hole" of discovery, mesmerized by what I found on page after page of [NeoCities' site browser](https://neocities.org/browse). I did my best to save the best finds by [following them](https://neocities.org/site/davidblue/follows) within the sites dashboard. 
+Last week, I moved my inactive automotive blog ([dieselgoth.com](https://dieselgoth.com)) from a Writeas blog to a purely-HTML [NeoCities website](https://neocities.org/site/dieselgoth) with disturbingly little friction. (I challenge you to spot any differences.) After discovering a backup of the original Drywall Website deep within my old files, NeoCities was the only reasonable host on which to [archive it](https://iowa.neocities.org/). After I'd finished uploading, I fell down what the youth call a "rabbit hole" of discovery, mesmerized by what I found on page after page of [NeoCities' site browser](https://neocities.org/browse). I did my best to save the best finds by [following them](https://neocities.org/site/davidblue/follows) within the sites dashboard and have since set up a [*Best of NeoCities* GitHub repository](https://github.com/extratone/neocollect) with my absolute favorites among them archived thanks to [wget](https://www.gnu.org/software/wget/). 
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">LOOK AT THIS GORGEOUS WEBSITE! <a href="https://t.co/nahoRCEkeE">https://t.co/nahoRCEkeE</a> <a href="https://t.co/mzEfhGygWz">pic.twitter.com/mzEfhGygWz</a></p>&mdash; David Blue (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1328337497416458247?ref_src=twsrc%5Etfw">November 16, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Trust me when I tell you that **some of the best web design, *ever* can be found on NeoCities**. What's even better: after my deep dive, I was pleasantly surprised by strangers [commenting on what I'd found](https://neocities.org/site/davidblue?event_id=1301289)! A Post you should probably expect soon: "NeoCities is 2020's Best Social Network." Going forward, I'd like to [digitize my poetry collection on NeoCities](https://neocities.org/site/feebles) in the near future while continuing to otherwise study HTML again.
+Trust me when I tell you that **some of the best web design, *ever* can be found on NeoCities**. What's even better: after my deep dive, I was pleasantly surprised by strangers [commenting on what I'd found](https://neocities.org/site/davidblue?event_id=1301289)! Replying in a timely, substantial, and genuine manner seems to be a hallmark of the community: my (rather verbose) question regarding the well-manneredness of publishing such an archive without permission in [the community Discord](https://discord.gg/pF7wHrf9tb) I discovered just this morning was almost immediately met with encouraging replies.
+
+A Post you should probably expect soon: "NeoCities is 2020's Best Social Network." Going forward, I'd like to [digitize my poetry collection on NeoCities](https://neocities.org/site/feebles) in the near future while continuing to otherwise brush back up on HTML and CSS - both of which I am *also* very thankful for, come to think of it.
+
+Thank you again for your correspondence! May your Imperialism Day be a positive experience!
+
+[ʰᵉʳᵉ](https://iowa.neocities.org/hacked)
+	[ᵃʳᵉ](https://iowa.neocities.org/signout)
+		[ᵗʰᵉ](https://iowa.neocities.org/mackie)
+			[ᵈʳʸʷᵃˡˡ](https://iowa.neocities.org/dicks)
+				[ʷᵉᵇˢᶤᵗᵉ](https://iowa.neocities.org/mackie)
+					[ᵉᵃˢᵗᵉʳ](https://iowa.neocities.org/test)
+						[ᵉᵍᵍˢ](https://iowa.neocities.org/goodmorning)
 
 ![DryBuy](https://i.snap.as/MKqV97y9.png)
 
-<script src="https://gist.github.com/extratone/e572fece4d1f064c1abb10ee9d913fcf.js"></script>
-
-
-
+#software
