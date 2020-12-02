@@ -26,7 +26,7 @@ Originally, I wrote about our relationship with **cars** ([2019 Volkswagen Atlas
 
 After publishing a [**collection of poetry**](http://bit.ly/Feebles) from my adolescence and early adulthood in the Spring of 2016, I launched an online magazine called [**Extratone**](http://extratone.com) in the interest of pursuing and defining new culture and ideas. The project and I have been indistinguishable in the four years since, and I’m extremely proud of what I’ve done with it, but I’ve recently refocused my effort back onto my own voice so that we may both benefit in the future.
 
-Currently, I’m working on a novel project called *[**Blimp’s Burden**](https://bilge.world/blimps-burden-chapter-6)* which I’d been outlining since 2015 about a jaded software engineer who’s new, ridiculously-eccentric boss presents a future which forces him to reckon with his mishandled grief.
+Currently, I'm working on a nonfiction project entitled ***[For God's Sake, Just Sit Down to Piss](https://davidblue.wtf/piss)*** - a self-help/advice-ish book for young American men which I’ve tinkered with since 2015 commenting on behavior I have personally witnessed from white, straight, CIS American males ages 15-35. Given the sensitivity of its topic along with my own curiosity regarding the idea, I am writing the book in public [via Git](https://github.com/extratone/piss).
 
 Follow me on [**Mastodon**](https://mastodon.social/@DavidBlue), [**Twitter**](http://twitter.com/neoyokel), [**Discord**](http://bit.ly/holeguest), and/or send me an [**Email**](mailto:davidblue@extratone.com).
 
