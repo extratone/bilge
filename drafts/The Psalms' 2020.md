@@ -22,9 +22,25 @@ I had wanted to write about [*The Langoliers*](https://letterboxd.com/film/the-l
 
 These two sentences begin the sixth chapter of my indefinitely-postponed novel, [*Blimp's Burden*](https://github.com/extratone/pith), and are almost certainly my best writing, ever. My vanity simply wouldn't allow them to go forgotten, so I [published the chapter as an excerpt on *The Psalms*](https://bilge.world/blimps-burden-chapter-6). It may seem an intimidating wall of text, but give it your attention and you'll be amused, I think. 
 
+![The Psalms Stats by Post - 2020](https://i.snap.as/W3crmS2L.png)
+
 ## Summer
 
+The general, distinctly 21st-century wisdom regarding one's content popularity seems to be something like *you never know what's going to blow up*. I experienced this phenomena quite severely for the first time in my writing life after posting "[Google Is Not God of The Web](https://bilge.world/google-page-experience)" on [HackerNews](https://news.ycombinator.com/item?id=23383548) right before going out-of-touch for some 13 straight hours amidst a local BLM protest. I did not intend to write a baity title, nor did I expect anything to come of sharing it, there - I only did so simply because the thought crossed my mind. Honestly, it is probably the least-considered content I'd ever published on *The Psalms* - I only put it up when I did because I knew *all* of my energy was about to be absorbed for an entire weekend or more. I only started the thing because I felt it important to raise a small voice in reminder that tech media had started using language when discussing code/online development which had begun to assume the existence of a single, objective standard of measure for *good web design*. (Fuck your bootstrap baloney, [*The Drywall Website*](https://iowa.neocities.org/test) was a *real* *paradigm shit*.)
 
+And yet... That single goddamned post would end up accruing more pageviews than all of my writing on the web, combined (I suspect.) Tens of thousands of words were written in hundreds of comments, which I did my best to parse in [a *for the hell of it* substack email](https://davidblue.substack.com/p/witness-google-god-and-local-history):
+
+> Out of everything I’ve shared on *Bilge* recently, it’s hilarious that this particular post - on which I spent a cumulative total of perhaps 25 minutes writing and made less effort than ever to edit - became probably my most widely-shared work of all time.
+
+Once again, I *am* thankful for the readership and correspondence, I just *really fucking wish* it had been on literally *anything* else I've written about technology.
+
+In retrospect, it really is bonkers that I was excited about yet another vague promise to *re-imagine email* in the days surrounding [the launch of Basecamp's HEY](https://www.theverge.com/2020/6/15/21286466/hey-email-basecamp-price-availability-platforms-launch), but I feel it's important to nurture what paltry genuine enthusiasm remains about technology and the future, so I decided to respond to the service's homepage prompt, asking interested visitors to write in with their own thoughts on email. I spent a morning clacking out "[Email and I: An Abridged History](https://bilge.world/hey-email-history)," which I hope will one day serve as a part-foundation for a thorough, composed extension to my [*Why I Write About Technology*](https://gist.github.com/extratone/91ebe16b0c620f309e70b40f5d4dcd9e) series. This would be *The Psalms* last relevant work for a few months, while I played around with [an experimental WordPress website](https://www.davidblue.wtf/wordpress-experimentation/) and dove into [*fuckin' school*](https://www.davidblue.wtf/college-return/) for the first time in seven years.
+
+![WTF](https://i.snap.as/cwm5gKqi.png)
+
+## Fall
+
+I returned in late September with a partial recount of what I'd discovered: "[Indulging Once More in Digital Excess](https://bilge.world/digital-excess)." After exploring the concept of [*Digital Gardens*](https://tomcritchlow.com/blogchains/digital-gardens/), buying [my first pro-ready desktop PC](https://www.davidblue.wtf/hp-envy-desktop/) in 10 years, playing with Big Boy Adobe software for the first time, and reading [a delightful book](https://www.hup.harvard.edu/catalog.php?isbn=9780674417076) documenting the history of word processing, I arrived upon the term *Software Historian* with which to partially describe myself. It doesn't mean all that much at the moment, but will no doubt be explored imminently on this Web Site. 
 
 ## Three Point Oh
 
@@ -38,6 +54,7 @@ Beginning with today's changes,
 - [ ] [In-Progress Drafts](https://github.com/extratone/bilge/tree/main/Drafts)
 - [ ] [October 18th, 2018 Capture](http://web.archive.org/web/20181101000000*/bilge.world)
 - [x] [May 1st Capture](https://web.archive.org/web/20200501203946/https://bilge.world/)
+- [ ] Migrating WTF here, moving the domain to a NeoCities landing page.
 
 
 
@@ -54,11 +71,12 @@ Beginning with today's changes,
 - [x] "[Star Trek Online Lives](https://bilge.world/star-trek-online)" - May 25th
 - [x] "[Excerpt: Blimp's Burden, Chapter VI](https://bilge.world/blimps-burden-chapter-6)" - May 26th
 - [ ] "[Changes and Updates](https://bilge.world/changes-updates)" - May 27th
-- [ ] "[Google Is Not God of The Web](https://bilge.world/google-page-experience)" - June 1st
-- [ ] "[Email and I: An Abridged History](https://bilge.world/hey-email-history)" - June 22nd
+- [x] "[Google Is Not God of The Web](https://bilge.world/google-page-experience)" - June 1st
+- [x] "[Email and I: An Abridged History](https://bilge.world/hey-email-history)" - June 22nd
 - [ ] "['Greyhound''s Top-Side Pot Shot](https://bilge.world/greyhound-tom-hanks)" - July 29th
 - [ ] "[Indulging Once More in Digital Excess](https://bilge.world/digital-excess)" - September 24th
 - [ ] "[The Social Dilemma's Dilemma](https://bilge.world/the-social-dilemma)" - October 19th
 - [ ] "[Software Thanksgiving](https://bilge.world/big-thank)" - November 25th
 - [ ] ~35,000 words, ~2 hours of reading.
 - [ ] Most Overdue Drafts!
+- [ ] Imported "[Through an iPhone 4's Lens](https://bilge.world/iphone4-photography)"

@@ -16,13 +16,13 @@ Another great tool I recently discovered is [**Reading**](https://www.reading.am
 
 An ongoing list of my favorite email publications.
 
+### [Art & Letters Daily](https://aldaily.com/)
+
+*The Chronicle of Education*'s [ancient](http://web.archive.org/web/19990203021844/http://www.nzine.co.nz/features/ald.html) "web portal" is a bit overwhelming, but their [weekly newsletter](https://aldaily.com/subscribe/) has somehow become perhaps my most unmissable email subscription.
+
 ### [Nextdraft](https://nextdraft.com/)
 
-Dave Pell's [*Nextdraft* newsletter](https://nextdraft.com/) is the only hard news mailer I would ever recommend. If you can stand his puns, you need to subscribe.
-
-### [The Interface](https://www.getrevue.co/profile/caseynewton)
-
-Casey Newton is quite simply the best reporter on the social media beat. His daily output is absolutely astounding.
+Dave Pell's [*Nextdraft* newsletter](https://nextdraft.com/) is the only hard news mailer I would ever recommend. If you can stand his puns, you need to subscribe. I've recently reduced my actual clicking on hardnews in a big way, so *Nextdraft* has become the singular hard news-ish aggregator I make sure to skim regularly.
 
 ### [The Browser](https://thebrowser.com/)
 
@@ -35,10 +35,6 @@ The [*Columbia Journalism Review*](https://www.cjr.org)'s daily in-depth email i
 ### [Memoir Monday](https://memoirmonday.substack.com/about)
 
 A weekly collaborative effort between [Catapult](https://catapult.co/), [Longreads](https://longreads.com/), [Granta](https://granta.com/), [Guernica](https://www.guernicamag.com/), [Narratively](https://narratively.com/), and [The Rumpus](https://therumpus.net/) that provides memoirs I *actually want to read*, which is astonishing.
-
-### [Cyberdeck Users Weekly](https://paul.lol/)
-
-Ex-*Verge* [Paul Miller](https://twitter.com/futurepaul)'s new bi-weekly newsletter and [podcast](https://anchor.fm/futurepaul). There is nobody in tech media quite like Paul.
 
 ### [Tedium](https://tedium.co/)
 
