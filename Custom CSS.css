@@ -48,8 +48,11 @@ For more information, please refer to <https://unlicense.org>
 body {
     font-family: adobe-caslon-pro, serif !important;
     font-weight: 400;
+    font-size: 21px !important;
+    line-height: 1.5em !important;
     font-style: normal;
-    background-color: #FFF4E6;
+    background-color: #e6f7ff;
+    color: #000000 !important;
 }
 
 /* old background-color: #f2f2f2 */
@@ -63,8 +66,8 @@ body {
 }
 
 header nav a {
-    font-family: proxima-nova-condensed, sans-serif !important;
-    font-weight: 900;
+    font-family: proxima-nova-extra-condensed, sans-serif !important;
+    font-weight: 700;
     font-size: 1.2em;
 }
 
@@ -86,8 +89,8 @@ body#collection header {
 
 header nav a {
     color: #00006b;
-    font-family: proxima-nova-condensed, sans-serif;
-    font-weight: 900;
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    font-weight: 700;
     /* margin-bottom: 1em; */
 }
 
@@ -98,6 +101,8 @@ article {
     line-height: 155%;
     font-size: 1.1em !important;
     color: #000000;
+    padding-left: 0.5rem !important;
+    padding-right: 0.5rem !important;
     /* margin-top:1rem !important; */
 }
 
@@ -115,7 +120,7 @@ article a:visited {
 h1 {
     color: #00006b !important;
     font-family: proxima-nova-condensed, sans-serif;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 2em !important;
 }
 
@@ -150,7 +155,7 @@ h6 {
 .post-title a:visited,
 .post-title a:link {
     font-family: proxima-nova-condensed, sans-serif !important;
-    font-weight: 900;
+    font-weight: 700;
     color: #00006b !important;
     font-size: 1.7rem !important;
 }
@@ -247,12 +252,10 @@ body#subpage article time.dt-published {
     font-family: proxima-nova-condensed, sans-serif;
     font-weight: 700;
     font-size: 1em;
-    color: #FFF4E6;
+    color: #e6f7ff;
 }
 
 #emailsub {
     font-family: proxima-nova-condensed, sans-serif !important;
     font-weight: 700;
 }
-
-<a rel="me"href="https://mastodon.social/@DavidBlue">Mastodon</a>

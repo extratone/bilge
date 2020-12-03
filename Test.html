@@ -1,0 +1,265 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="Custom CSS.css">
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<title>README</title></head>
+<body><p><img src="https://i.snap.as/p8Om7PxX.png" referrerpolicy="no-referrer" alt="Bilge Three Point Oh Header"></p>
+<h1><a href='https://bilge.world'>The Psalms</a> (Writeas Blog)</h1>
+<h2>Documentation for my blog, <a href='https://bilge.world'>bilge.world</a>.</h2>
+<p>I proudly use <a href='https://write.as'>Write.as</a> as my blog&#39;s CMS. I am relatively new to Git and GitHub, but it occurred to me that a repository would be a great place to track technical changes and even versions/revisions of drafts.</p>
+<hr />
+<p><img src="https://i.snap.as/xpwZqmy4.png" referrerpolicy="no-referrer" alt="Writeas Customization"></p>
+<h1>Installation (Bilge Theme)</h1>
+<p>To &quot;install&quot; my theme on your own Writeas blog, copy and paste the contents of <a href='https://github.com/extratone/bilge/blob/main/Custom%20CSS.css'>Custom CSS.css</a> and <a href='https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js'>Custom Javascript.js</a> into the respective &quot;Custom CSS&quot; and &quot;Custom Javascript&quot; fields in your blog&#39;s customization menu. </p>
+<p>See: &quot;<a href='https://guides.write.as/customizing/'>Customizing Writeas</a>&quot;</p>
+<hr />
+<p><img src="https://i.snap.as/B3D5JvZ4.png" referrerpolicy="no-referrer" alt="Bilge Three Point Oh Footer"></p>
+<h1><a href='https://bilge.world/colophon'>Colophon</a></h1>
+<p><em>The Psalms</em> is proudly hosted by <a href='http://write.as/about'>Write.as</a> - a new sort of blogging content management system built atop <a href='https://daringfireball.net/projects/markdown/'>Markdown</a> and maintained by a company which <a href='https://write.as/principles'>explicitly shares</a> my commitment to a better, Open web. </p>
+<p>A somewhat-outdated version of this site&#39;s theme is <a href='https://write.as/themes/bilge'>listed among others</a> in Writeas&#39; official themes list. The full, up-to-date CSS and JS can be found below and on in <a href='https://github.com/extratone/bilge'>this GitHub repository</a>, which I created in November, 2020 as an experiment in using Git to track editorial changes. (<em>That means you can see <a href='https://github.com/extratone/bilge/tree/main/Drafts'>current in-progress drafts</a>!</em>)</p>
+<ul>
+<li>Download the entirety of this blog in EPUB format <strong><a href='http://bilge.world/.epub'>here</a></strong>.</li>
+<li>Subscribe to this blog&#39;s RSS feed <strong><a href='https://bilge.world/feed/'>here</a></strong>.</li>
+<li>This blog is federated at <strong>@b@bilge.world</strong>.</li>
+
+</ul>
+<h2>Typography</h2>
+<p><strong>Body Text</strong>: <a href='https://fonts.adobe.com/fonts/adobe-caslon'>Adobe Caslon Pro</a></p>
+<p><strong>Nav/Headers/Other</strong>: <a href='https://fonts.adobe.com/fonts/proxima-nova'>Proxima Nova</a> &amp; Variations</p>
+<h2>Colors</h2>
+<p><img src="https://i.snap.as/yREEslm5.png" referrerpolicy="no-referrer" alt="The Psalms Colors"></p>
+<ul>
+<li><a href='https://colornames.org/color/fff4e6'>Expired Sour Cream</a> </li>
+<li><a href='https://colornames.org/color/00006b'>David Blue</a> </li>
+<li><a href='https://colornames.org/color/ff0000'>Red</a></li>
+<li><a href='https://colornames.org/color/f43f32'>Alarmed Suburbanite</a></li>
+
+</ul>
+<h3>CSS</h3>
+<pre><code class='language-css' lang='css'>@import url(&#39;https://use.typekit.net/kst2rrh.css&#39;);
+
+body {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #FFF4E6;
+}
+
+/* old background-color: #f2f2f2 */
+
+#blog-title a {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    /* font-style:bold !important; */
+    color: #00006b;
+}
+
+header nav a {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+header p.description {
+    /* font-style: italic; */
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    line-height: 200% !important;
+    color: #00006b !important;
+    font-size: 1em;
+    margin-left: inherit;
+    margin-right: inherit;
+}
+
+body#collection header {
+    margin-bottom: 1em !important;
+}
+
+
+header nav a {
+    color: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    /* margin-bottom: 1em; */
+}
+
+body,
+article {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    line-height: 155%;
+    font-size: 1.1em !important;
+    color: #000000;
+    /* margin-top:1rem !important; */
+}
+
+
+body,
+article a:link {
+    color: #00006b;
+}
+
+body,
+article a:visited {
+    color: #F43B28;
+}
+
+h1 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-size: 2em !important;
+}
+
+h2 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1.4em !important;
+}
+
+h3 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    font-size: 1.15em !important;
+}
+
+h4 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h5 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h6 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: .85em !important;
+}
+
+.post-title a:visited,
+.post-title a:link {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    color: #00006b !important;
+    font-size: 1.7rem !important;
+}
+
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b !important;
+    font-size: 1rem !important;
+}
+
+body footer nav {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b;
+}
+
+blockquote {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    color: #333333 !important;
+    border-left: 2.5px solid #00006b !important;
+}
+
+hr {
+    border: 2px solid red;
+}
+
+
+body footer a.home:link,
+body footer a.home:visited {
+    color: #00006b;
+}
+
+.action {
+    font-family: proxima-nova-condensed, sans-serif;
+}
+
+nav#manage ul a {
+    color: #00006b;
+}
+
+nav#paging a {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+}
+
+
+a.bt {
+    background-color: #0d0d0d !important;
+    color: #00006b !important;
+}
+
+a.hashtag {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: #00006b !important;
+}
+
+body#collection #wrapper time,
+body#subpage #wrapper time,
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 0.95em;
+    color: #00006b !important;
+}
+
+
+.custom-nav {
+    text-align: center;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: red;
+}
+
+.custom-nav a:link,
+.custom-nav a:visited,
+.custom-nav a:hover,
+.custom-nav a:active {
+    color: #00006b;
+}
+
+.custom-nav a:hover,
+.custom-nav a:active {
+    text-decoration: underline;
+}
+
+#subscribe-btn {
+    border: 1px #FF0000;
+    background: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: #FFF4E6;
+}
+
+#emailsub {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+}
+</code></pre>
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!">
+    </a>
+</p>
+<p>      </p>
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px" src="http://jigsaw.w3.org/css-validator/images/vcss" alt="Valid CSS!">
+    </a>
+</p>
+<p>(Remember these? lol)</p>
+</body>
+</html>
