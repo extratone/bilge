@@ -19,6 +19,8 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 
 ## Colors
 
+![The Psalms Colors](https://i.snap.as/yREEslm5.png)
+
 [Expired Sour Cream](https://colornames.org/color/fff4e6)
 [David Blue](https://colornames.org/color/00006b)
 [Red](https://colornames.org/color/ff0000)
@@ -26,53 +28,38 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 
 ---
 
-### CSS
+## [BILGE Version 3.0](https://github.com/extratone/bilge/releases/tag/3.0)
+
+### [CSS](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css)
 
 ~~~css
-/* Written in April 2020 by David Blue for bilge.world.
-
-Full, up-to-date source code available at https://github.com/extratone/bilge/
-
-Version 2.4 (Caston Bilge!)
-
-   To the extent possible under law, the author(s) have dedicated all
-   copyright and related and neighboring rights to this software to the
-   public domain worldwide. This software is distributed without any
-   warranty.
-
-   You should have received a copy of the CC0 Public Domain Dedication
-   along with this software. If not, see
-   http://creativecommons.org/publicdomain/zero/1.0
-
-   I am not a web designer or coder. This code is messy. Hope you enjoy.
-   Open to any suggestions.
-
-*/
-
 @import url('https://use.typekit.net/kst2rrh.css');
 
 body {
-  font-family: adobe-caslon-pro, serif !important;
-  font-weight: 400;
-  font-style: normal;
-  background-color: #FFF4E6;}
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #FFF4E6;
+}
+
 /* old background-color: #f2f2f2 */
 
 #blog-title a {
-    font-family: proxima-nova-condensed, sans-serif; font-weight: 900;    
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
     font-style: normal;
     /* font-style:bold !important; */
     color: #00006b;
 }
 
 header nav a {
-  font-family: proxima-nova-condensed, sans-serif !important;
-  font-weight: 900;
-  font-size: 1.2em;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    font-size: 1.2em;
 }
 
 header p.description {
-   /* font-style: italic; */
+    /* font-style: italic; */
     font-family: proxima-nova-condensed, sans-serif !important;
     font-weight: 700;
     line-height: 200% !important;
@@ -83,7 +70,7 @@ header p.description {
 }
 
 body#collection header {
-   margin-bottom: 1em !important;
+    margin-bottom: 1em !important;
 }
 
 
@@ -94,7 +81,8 @@ header nav a {
     /* margin-bottom: 1em; */
 }
 
-body, article {
+body,
+article {
     font-family: adobe-caslon-pro, serif !important;
     font-weight: 400;
     line-height: 155%;
@@ -104,23 +92,25 @@ body, article {
 }
 
 
-body, article a:link {
+body,
+article a:link {
     color: #00006b;
 }
 
-body, article a:visited {
+body,
+article a:visited {
     color: #F43B28;
- }
+}
 
- h1 {
-     color:#00006b !important;
-     font-family: proxima-nova-condensed, sans-serif;
-     font-weight: 900;
-     font-size: 2em !important;
- }
+h1 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-size: 2em !important;
+}
 
 h2 {
-    color:#00006b !important;
+    color: #00006b !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-weight: 700;
     font-size: 1.4em !important;
@@ -147,17 +137,19 @@ h6 {
     font-size: .85em !important;
 }
 
-.post-title a:visited, .post-title a:link {
+.post-title a:visited,
+.post-title a:link {
     font-family: proxima-nova-condensed, sans-serif !important;
     font-weight: 900;
     color: #00006b !important;
     font-size: 1.7rem !important;
 }
 
-body#post article time.dt-published, body#subpage article time.dt-published {
-  font-family: proxima-nova-condensed, sans-serif !important;
-  color: #00006b !important;
-  font-size: 1rem !important;
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b !important;
+    font-size: 1rem !important;
 }
 
 body footer nav {
@@ -172,12 +164,13 @@ blockquote {
     border-left: 2.5px solid #00006b !important;
 }
 
-hr{
-  border: 2px solid red;
+hr {
+    border: 2px solid red;
 }
 
 
-body footer a.home:link, body footer a.home:visited {
+body footer a.home:link,
+body footer a.home:visited {
     color: #00006b;
 }
 
@@ -196,8 +189,8 @@ nav#paging a {
 
 
 a.bt {
-   background-color:#0d0d0d !important;
-   color: #00006b !important;
+    background-color: #0d0d0d !important;
+    color: #00006b !important;
 }
 
 a.hashtag {
@@ -206,7 +199,10 @@ a.hashtag {
     color: #00006b !important;
 }
 
-body#collection #wrapper time, body#subpage #wrapper time, body#post article time.dt-published, body#subpage article time.dt-published {
+body#collection #wrapper time,
+body#subpage #wrapper time,
+body#post article time.dt-published,
+body#subpage article time.dt-published {
     font-family: proxima-nova-condensed, sans-serif;
     font-weight: 700;
     font-size: 0.95em;
@@ -215,17 +211,24 @@ body#collection #wrapper time, body#subpage #wrapper time, body#post article tim
 
 
 .custom-nav {
-  text-align: center;
-  text-transform: uppercase;
-  font-family: proxima-nova-condensed, sans-serif;
-  font-weight: 700;
-  color: red;
+    text-align: center;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: red;
 }
-.custom-nav a:link, .custom-nav a:visited, .custom-nav a:hover, .custom-nav a:active {
-   color: #00006b;
+
+.custom-nav a:link,
+.custom-nav a:visited,
+.custom-nav a:hover,
+.custom-nav a:active {
+    color: #00006b;
 }
-.custom-nav a:hover, .custom-nav a:active {
-   text-decoration: underline;
+
+.custom-nav a:hover,
+.custom-nav a:active {
+    text-decoration: underline;
 }
 
 #subscribe-btn {
@@ -241,14 +244,16 @@ body#collection #wrapper time, body#subpage #wrapper time, body#post article tim
     font-family: proxima-nova-condensed, sans-serif !important;
     font-weight: 700;
 }
+
+<a rel="me"href="https://mastodon.social/@DavidBlue">Mastodon</a>
 ~~~
 
-### Javascript
+### [Javascript](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js)
 
 ```javascript
 var topP = document.createElement("p");
 //topP.style.textAlign = "center";
-topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> // <a href="https://twitter.com/NeoYokel">Twitter</a> // <a href="https://discord.gg/4hdQcVd">Discord</a></div>';
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://discord.gg/4hdQcVd">Discord</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
 var cont = document.getElementById("wrapper");
 if (cont !== null) {
     // Add to blog index and tag pages
@@ -265,7 +270,7 @@ if (cont !== null) {
 
 window.hypothesisConfig = function () {
   return {
-    "openSidebar": false, 
+    "openSidebar": true, 
     "theme": "clean",
     branding: {
       appBackgroundColor: '#f7ff85',
@@ -276,4 +281,3 @@ window.hypothesisConfig = function () {
   };
 };
 ```
-

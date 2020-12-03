@@ -35,6 +35,8 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 
 ## Colors
 
+![The Psalms Colors](https://i.snap.as/yREEslm5.png)
+
 * [Expired Sour Cream](https://colornames.org/color/fff4e6) 
 * [David Blue](https://colornames.org/color/00006b) 
 * [Red](https://colornames.org/color/ff0000)
@@ -255,3 +257,22 @@ body#subpage article time.dt-published {
     font-weight: 700;
 }
 ```
+
+<p>
+<a href="http://jigsaw.w3.org/css-validator/check/referer">
+    <img style="border:0;width:88px;height:31px"
+        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
+        alt="Valid CSS!" />
+    </a>
+</p>
+​      
+
+<p>
+    <a href="http://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="http://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+(Remember these? lol)
