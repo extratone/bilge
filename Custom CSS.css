@@ -51,11 +51,12 @@ body {
     font-size: 21px !important;
     line-height: 1.5em !important;
     font-style: normal;
-    background-color: #e6f7ff;
-    color: #000000 !important;
+    background-color: #fff4e6;
+    /*color: #000000 !important; */
 }
 
 /* old background-color: #f2f2f2 */
+/* in consideration: #e6f7ff */
 
 #blog-title a {
     font-family: proxima-nova-condensed, sans-serif;
@@ -86,9 +87,16 @@ body#collection header {
     margin-bottom: 1em !important;
 }
 
+body#collection #wrapper h2+time {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 1.1em;
+}
 
-header nav a {
-    color: #00006b;
+header nav a,
+#post nav a:not(.home) {
+    color: #00006b !important;
     font-family: proxima-nova-extra-condensed, sans-serif;
     font-weight: 700;
     /* margin-bottom: 1em; */
@@ -102,7 +110,7 @@ article {
     font-size: 1.1em !important;
     color: #000000;
     padding-left: 0.5rem !important;
-    padding-right: 0.5rem !important;
+    padding-right: 0.45rem !important;
     /* margin-top:1rem !important; */
 }
 
@@ -154,10 +162,10 @@ h6 {
 
 .post-title a:visited,
 .post-title a:link {
-    font-family: proxima-nova-condensed, sans-serif !important;
+    font-family: proxima-nova-extra-condensed, sans-serif !important;
     font-weight: 700;
     color: #00006b !important;
-    font-size: 1.7rem !important;
+    font-size: 1.85em !important;
 }
 
 body#post article time.dt-published,
@@ -252,7 +260,7 @@ body#subpage article time.dt-published {
     font-family: proxima-nova-condensed, sans-serif;
     font-weight: 700;
     font-size: 1em;
-    color: #e6f7ff;
+    color: #fff4e6;
 }
 
 #emailsub {
