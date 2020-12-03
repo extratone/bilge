@@ -39,9 +39,7 @@ Beginning with today's changes,
 - [ ] [October 18th, 2018 Capture](http://web.archive.org/web/20181101000000*/bilge.world)
 - [x] [May 1st Capture](https://web.archive.org/web/20200501203946/https://bilge.world/)
 
-![Bilge, 05-01-2020](https://i.snap.as/VocaJCt8.png)
 
-![Bilge, 05-01-2020](https://i.snap.as/5kLMVMds.png)
 
 - [x] "[You Know I'm Blogging](https://bilge.world/you-know-im-blogging)" - April 17th
 - [x] "[Dirty Dave's Poweruser Tips](https://bilge.world/poweruser-tips-software-shortcuts)" - April 21st
@@ -54,7 +52,7 @@ Beginning with today's changes,
 - [x] "[Craig Toomey's Coronavirus](https://bilge.world/the-langoliers-stephen-king)" - May 20th
 - [x] "[Discord is Better Than Slack](https://bilge.world/discord-slack-comparison)" - May 24th
 - [x] "[Star Trek Online Lives](https://bilge.world/star-trek-online)" - May 25th
-- [ ] "[Excerpt: Blimp's Burden, Chapter VI](https://bilge.world/blimps-burden-chapter-6)" - May 26th
+- [x] "[Excerpt: Blimp's Burden, Chapter VI](https://bilge.world/blimps-burden-chapter-6)" - May 26th
 - [ ] "[Changes and Updates](https://bilge.world/changes-updates)" - May 27th
 - [ ] "[Google Is Not God of The Web](https://bilge.world/google-page-experience)" - June 1st
 - [ ] "[Email and I: An Abridged History](https://bilge.world/hey-email-history)" - June 22nd
@@ -63,3 +61,4 @@ Beginning with today's changes,
 - [ ] "[The Social Dilemma's Dilemma](https://bilge.world/the-social-dilemma)" - October 19th
 - [ ] "[Software Thanksgiving](https://bilge.world/big-thank)" - November 25th
 - [ ] ~35,000 words, ~2 hours of reading.
+- [ ] Most Overdue Drafts!

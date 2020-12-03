@@ -1,0 +1,283 @@
+<HTML>
+<HEAD>
+	<SCRIPT LANGUAGE="VBScript">
+	<!--
+	'Auto-install for Internet Explorer 3.0 to 3.02 -- Iframe that calls ocx
+	'Manual-install for Internet Explorer 4.0 PP1 -- dialog box
+	option explicit
+	dim majorver
+	dim ua
+	dim ie3
+	dim ie4
+	dim aol
+	dim minorver4
+	dim update
+	dim winplat
+	dim win32
+	dim nav
+	dim intButton
+	ua = navigator.userAgent
+	minorver4 = ""
+	intButton = 0
+	
+	if len(ua)>=1 then 'nav object is supported
+		winplat = mid(ua,instr(ua,"Windows") + 8, 2)
+		win32 = mid(ua,instr(ua,"Win") + 3, 2) 		'some user agent strings display the platform is referred to as Win32
+		majorver = mid(ua,instr(ua,"MSIE") + 5, 1)
+		ie3 = majorver = 3 and (winplat = "NT" or winplat = "95" or win32 = "32")
+		ie4 = majorver = 4 and (winplat = "NT" or winplat = "95" or win32 = "32")
+		update = instr(ua,"Update a")		
+		aol = instr(ua,"AOL")
+        if ie4 then minorver4 = mid(ua,instr(ua,"MSIE") + 7, 3)				
+		if minorver4 = "0b1" and update = 0 and aol = 0 then
+		    intButton = msgbox ("Get Authenticode 2.0 now!  This update provides valuable new features and renews key Authenticode certificates that help you safely download software from the Web. The update should take less than 5 minutes to download over a 28.8 Kbps modem. Do you want to visit our Authenticode Update page?", 4 + 64, "Download the Authenticode 2.0 Update Now!") 
+			If intButton = 6 then
+				location.href="http://www.microsoft.com/ie/security/authent2.htm"			
+			end if
+		end if
+		
+		If ie3 and update = 0 and aol = 0 then 'filter down to ie3 or ie40b1(PP1) then see if "update a" is true and not AOL
+			'In the next line after SRC set the path to that of your server or virtual root
+			document.write"<IFRAME ID='auth2' SRC="'auth2_object.html'" WIDTH=1 HEIGHT=1 BORDER=0 FRAMEBORDER=0 FRAMESPACING=0 HSPACE=0 VSPACE=0 NORESIZE SCROLLING=NO></IFRAME>"
+		end if	
+	end if
+	-->
+	</SCRIPT> 
+
+	<TITLE>Microsoft's Internet Explorer 4.0: Download Instructions</TITLE>
+	<META name="author" content="ICD#MMO">
+    <META name="new" content="06-10-1997">
+    <META name="updated" content="05-03-1998">
+    <META name="alternate_title" content="Microsoft's Internet Explorer 4.0: Download Instructions">
+    <style>
+              <!--
+              .body           {font:  10pt/13pt Arial, Helvetica; color: #000000; text-decoration: none}
+			  .emphasis		  {font:  12pt/13pt Arial, Helvetica; color: #FF0000; font-weight: bold}
+              .btntext        {font:  7pt Arial, Helvetica; color: #000000; text-decoration: none}
+              .title          {font:  12pt Arial, Helvetica; color: #000000; text-decoration: none}
+              .disclaimer     {font:  8pt Arial, Helvetica; color: #000000; text-decoration: none}
+              h1            {font:  16pt Verdana, Helvetica; color: #000000; font-weight: extra-bold}
+              h2			{font:  13pt Verdana, Helvetica; color: #000000; text-decoration: bold}
+			  h3			{font:  12pt Verdana, Helvetica; color: #000000; text-decoration: none}
+			  -->
+    </style>
+	 
+</HEAD>
+<BODY BGCOLOR="#ffffff">
+<center>
+<!--  begin std header -->
+<table border="0" cellpadding="0" cellspacing="0" width="640">
+	<TR>
+		<TD WIDTH="310"><A HREF="/index.html"><IMG SRC="/images/logosml.gif" ALT="Compaq.com" WIDTH="100" HEIGHT="20" border="0"></A></TD>
+		<TD ALIGN="RIGHT" VALIGN="TOP" WIDTH="310"><A HREF="/index.html"><IMG SRC="/images/us.gif" ALT="United States" WIDTH="87" HEIGHT="15" border="0"></A></TD>
+	</TR>
+</TABLE>
+<!-- end std header -->
+
+<!-- content -->
+&nbsp;<br>
+<img src="images/athomehead.gif" width=637 height=56 border=0 alt="Compaq AtHome"><br>
+
+<table width="635" border="0" cellpadding="0" cellspacing="0">
+	<tr>
+		<td width="530" nowrap>
+			<font face="Arial" size="3"><b>Microsoft<sup>&#174;</sup> Internet Explorer 4.0 Provided by Compaq</b><br>Download Instructions</font>
+			<ul><font face="Arial" size="2">It's easy!  Just follow these simple, step-by-step instructions to download and install Internet Explorer 4.0</font></ul>
+		</td>
+		<td width="105" nowrap valign="top" align="center">
+			<IMG SRC="images/spacer.gif" BORDER=0 ALT="IE4 logo" WIDTH=82 HEIGHT=100 vspace="0">
+		</td>
+	</tr>							
+	<tr>
+		<td colspan="2" width="640" nowrap>
+			<table border="0" cellpadding="0" cellspacing="0" width="638">
+				<tr>
+					<td width="120" nowrap>
+						&nbsp;
+					</td>
+					<td valign="bottom" colspan="2">
+						<IMG SRC="images/dwnld_msg.gif" WIDTH=512 HEIGHT=12 BORDER=0 ALT="">
+						<br>
+						<img src="images/dot-black.gif" height="1" width="512" border="0" vspace="0" hspace="0"><br>
+					</td>
+				</tr>
+				<tr valign="top">
+					<td>
+						<IMG SRC="images/d_index.gif" WIDTH=120 HEIGHT=279 BORDER=0 ismap usemap="#d_index.map">
+					</td>
+					<td valign="top" width="21" nowrap>
+						<img src="images/dot-black.gif" height="825" width="1" border="0">
+					</td>
+					<td>
+						<font face="arial" size="2"><br>
+<!-- Home Base note ------------------------------------------------------------------------------------------------------------------- 
+						<p><B>Important: </B>If you're using a Compaq Presario 1000 Series, 
+						3000 Series, 4100 Series, 4400 Series, 	4700 Series, 6700 Series, or 
+						8700 Series Personal Computer, <B>do not install Internet Explorer 4.0 
+						until after you've <A HREF="hbmodels.html">clicked here and read 
+						this important information.</A></B>
+// -------------------------------------------------------------------------------------------------------------------------------------------------- -->
+
+
+
+<!-- Download instructions ------------------------------------------------------------------------------------------------------------ -->
+						<p><B>Note: </B>We recommend printing these instructions for future 
+						reference before installing Internet Explorer 4.0. And be sure to review the 
+						<A HREF="#instnotes">Installation notes</A> before you start. </p>
+
+						<ol>
+							<li>Click on the Download button to the left to run setup.
+							<li>In the first dialog box, choose either <B>Save As</B> to save
+							the setup files on your hard drive or <B>Open File</B> to open the
+							setup files directly.
+							<ul>
+							<li>If you choose <B>Open File,</B> Internet Explorer setup
+								begins automatically, and you remain connected to the Internet
+								while the setup program downloads the necessary files, then
+								installs and configures Internet Explorer.
+								<li>If you chose <B>Save As,</B> select the location on your
+								hard disk where you want to save the Internet Explorer setup files.
+								After the setup files have been saved to your hard drive, and
+								while you're still connected to the Internet, run setup by
+								double-clicking on the ie4setup.exe file in Windows Explorer.
+							</ul>
+							<li>In the first setup dialog box, select which package of Internet
+							Explorer 4.0 Suite components you want to download. You can choose
+							from the following Internet Explorer 4.0 Suite component packages:
+							<ul>
+								<li><b>Minimal:</b> Includes Internet Explorer 4.0, Java Support,
+								and Microsoft Internet Connection Wizard.
+								<li><b>Standard:</b> To the Minimal installation we add Microsoft
+								OutLook Express and Microsoft Wallet. 
+								<li><b>Full:</b> To the Standard installation we add NetMeeting,
+								NetShow, FrontPage Express, Microsoft Web Publishing Wizard, and
+								Microsoft Chat 2.0. 
+							</ul>
+							<p><b>Note:</b> All of these packages include the Compaq customizations
+							described previously. Be sure to allow enough disk space for your chosen 
+							package; see the <A HREF="sysreq.html">system requirements.</A></p>
+							<li>Restart your computer after the setup program ends.
+								<p><b>Important: </b>In the event that your computer doesn't restart properly 
+								after the Internet Explorer 4.0 installation program prompts you to shut down, 
+								you should turn your computer's power switch OFF. Wait 10 
+								seconds, then turn your computer on to complete your installation successfully. 
+						
+<!-- Old Home Base section (Revision #2) ---------------------------------------------------------------------------------  
+							<p><b>Important:</b> If you're running the Home Base interface on your 
+								computer, the icons on your desktop may disappear after the Internet Explorer 
+								4.0 setup ends. To correct this, restart your computer three times by following 
+								these instructions:
+								<ol>
+									<li>Press <B>Ctrl+Alt+Delete.</B>
+									<li>In the Close Program window, click on <B>Shut Down.</B>
+									<li>When the message, &quot;It is now safe to turn off your computer,&quot; appears, 
+									turn the power switch on the back of your computer to the OFF position.
+									<li>Wait at least 10 seconds, then turn the power switch ON.
+									<li>Repeat steps 1 through 4 two more times. After the computer restarts the 
+									third time, your desktop icons and taskbar reappear.
+								</ol>
+// End --------------------------------------------------------------------------------------------------------------------------------------------  -->						
+						</ol>		
+						<hr>
+						<p><a name="instnotes"><b>Installation notes</b></a></p>
+						<ul>
+<!--Old Home Base instructions
+							<li>Internet Explorer 4.0 may conflict with the Home Base software installed on 
+							some Compaq Presario 1000 Series, 3000 Series, 4100 Series, 4400 Series, 
+							4700 Series, 6700 Series, and 8700 Series Personal Computers. If your 
+							computer is running the Home Base user interface, you should disable the 
+							Home Base shell before installing Internet Explorer 4.0. <A HREF="/athome/support/paqtip/20072.html">For instructions, see this Paqtip.</A>
+--> 
+<!-- Start Home Base fix info ----------------------------------------------------------------------------------------------------------------------- -->
+<!-- Old Home Base 3 reboot info -------------------------------------------------------------------------------------------------------------------							
+							<li>Internet Explorer 4.0 may conflict with the user interfaces installed on some 
+							Compaq Presario Personal Computers. This Compaq version of Internet 
+							Explorer 4.0 corrects the conflict. However, if you've downloaded another 
+							version of Internet Explorer 4.0 or an older version of Internet Explorer 4.0 
+							provided by Compaq and are using a Compaq Presario with 
+							the Home Base user interface, you may experience problems. Follow the 
+							instructions below to eliminate the conflict.
+								<ol>
+									<li>Press <B>Ctrl+Alt+Delete.</B>
+									<li>In the Close Program window, click on <B>Shut Down.</B>
+									<li>When the message, &quot;It is now safe to turn off your computer,&quot; appears, 
+									turn your computer's power switch to the OFF position.
+									<li>Wait at least 10 seconds, then turn the power switch ON.
+									<li>Repeat steps 1 through 4 two more times. After the computer restarts the 
+									third time, your desktop icons and taskbar reappear.
+								</ol>
+// End Old Home Base 3 reboot info ------------------------------------------------------------------------------------------------------------ -->
+<!-- End Home Base fix info ----------------------------------------------------------------------------------------------------------------------- -->
+							<!-- Removed IE2/IE4 incompatibility issue 10/20
+							<li>Installing Internet Explorer 4.0 over Internet Explorer 2.0 may result in 
+							an incomplete installation. If you're using Internet Explorer 2.0 to browse the 
+							Web, you should <A HREF="http://www.microsoft.com/ie/download/">upgrade to Internet Explorer 3.x</A> before installing this version.
+							-->
+							<li>If your computer stops responding during installation, restart the computer. 
+							Internet Explorer 4.0 will complete the installation when your computer restarts.
+							<li>If you have installed a version of Internet Explorer 4.0 previously and are not 
+							using a Web page as your background, the Presario Planet Active Desktop 
+							wallpaper won't be set up during this installation. After the installation ends, 
+							click on <B>Start.</B>  Point to <B>Settings,</B> then to <B>Active Desktop,</B> 
+							then to <B>Customize my Desktop.</B> On the <B>Background</B> tab, select 
+							the Oct97 file from the list of wallpapers. Click on <B>OK</B> to set up the Presario 
+							Planet wallpaper.
+							<li>Some channels and newsgroups may be inappropriate for children. Be sure to 
+							supervise your children when they're surfing the Web.
+						</ul> 
+						</font>
+					</td>
+				</tr>
+			</TABLE>
+		</td>
+	</tr>
+</table>
+</center>
+<!-- End content -->
+&nbsp;<br>
+
+<CENTER>
+
+<!-- begin std footer -->
+<TABLE BORDER=0 CELLPADDING=0 CELLSPACING=0 WIDTH=650 BGCOLOR="#FFFFFF">
+<TR>
+	<TD WIDTH=133 ALIGN="left">
+	<A HREF="/index.html"><IMG SRC="/images/home.gif" WIDTH=133 HEIGHT=93 BORDER=0 ALT="Compaq Home"></A>
+	</TD>
+	<TD WIDTH=83 ALIGN="left">
+	<A HREF="/search.html"><IMG SRC="/images/l2search.gif" WIDTH=83 HEIGHT=93 BORDER=0 ALT="Search"></A>
+	</TD>
+	<TD WIDTH=81 ALIGN="left">
+	<A HREF="/showroom/index.html"><IMG SRC="/images/showroom.gif" WIDTH=81 HEIGHT=93 BORDER=0 ALT="Products"></A>
+	</TD>
+	<TD WIDTH=75 ALIGN="left">
+	<A HREF="/support/index.html"><IMG SRC="/images/service.gif" WIDTH=75 HEIGHT=93 BORDER=0 ALT="Service"></A>
+	</TD>
+	<TD WIDTH=100 ALIGN="left">
+	<A HREF="/worldwide/index.html"><IMG SRC="/images/world.gif" WIDTH=100 HEIGHT=93 BORDER=0 ALT="Worldwide"></A>
+	</TD>
+	<TD WIDTH=178 ALIGN="left">
+	<A HREF="/index.html"><IMG SRC="/images/logo.gif" WIDTH=178 HEIGHT=93 BORDER=0 ALT="Compaq.com"></A>
+	</TD>
+</TR>
+<TR>
+<TD WIDTH=650 ALIGN="left" COLSPAN=6>
+<A HREF="/comments.html"><IMG SRC="/images/comments_bar.gif" WIDTH=577 HEIGHT=13 BORDER=0 ALT="Comments?"></A><BR>
+<A HREF="/copyright.html"><IMG SRC="/images/copyright_bar.gif" WIDTH=586 HEIGHT=15 BORDER=0 ALT="Legal Notices &amp; Privacy Statement"></A><BR>
+<FONT SIZE="1">Revised:  19 November 1998</FONT><BR>
+<IMG SRC="/images/white-mask.gif" ALIGN="top" WIDTH=645 HEIGHT=50 BORDER=0>
+</TD>
+</TR>
+</TABLE>
+<!-- end std footer -->
+
+</CENTER>
+<MAP NAME="d_index.map">
+<AREA SHAPE=RECT COORDS="0,0,119,58" HREF="sysreq.html">
+<AREA SHAPE=RECT COORDS="0,58,119,123" HREF="instructions.html">
+<AREA SHAPE=RECT COORDS="0,123,119,190" HREF="downtime.html">
+<AREA SHAPE=RECT COORDS="0,190,120,279" HREF="ftp://208.240.91.216/pub/ie4/consumer/downloads/ie4setup.exe">
+<AREA SHAPE=default HREF="/athome/ie40/howto.html">
+</MAP>
+</BODY>
+</HTML>

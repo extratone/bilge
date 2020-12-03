@@ -1,0 +1,264 @@
+<html>
+<head>
+<meta name="author" content="wwimc#aab">
+<meta name="new" content="11-11-1998">
+<meta name="updated" content="25-01-1999">
+<meta name="rev_author" content="wwimc#jal">
+<meta name="expires" content="25-12-1999">
+<meta name="alternate_title" content="Welcome to Compaq.com">
+<META HTTP-EQUIV="pragma" CONTENT="NO-CACHE">
+<META HTTP-EQUIV="expires" CONTENT="-1">
+<title>Welcome to Compaq.com</title>
+<script language="JavaScript">
+<!--
+
+var pong;
+
+function makeArray(n){
+  this.length = n;
+  for (i=1;i<=n;i++){
+    this[i]=0;
+  }
+  return this;
+}
+
+// standard date display function with y2k compatibility
+
+function displayDate() {
+  var this_month = new makeArray(12);
+    this_month[0]  = "January";
+    this_month[1]  = "February";
+    this_month[2]  = "March";
+    this_month[3]  = "April";
+    this_month[4]  = "May";
+    this_month[5]  = "June";
+    this_month[6]  = "July";
+    this_month[7]  = "August";
+    this_month[8]  = "September";
+    this_month[9]  = "October";
+    this_month[10] = "November";
+    this_month[11] = "December";
+  var today = new Date();
+  var day   = today.getDate();
+  var month = today.getMonth();
+  var year  = today.getYear();
+  if (year < 1000) {
+    year += 1900;
+  }
+  
+  return(this_month[month]+" "+day+", "+year);
+}
+
+function adjustMenu (itemNum) {
+        if (itemNum != "default") {
+                document.LocationRedirect.siteProduct.selectedIndex = itemNum;
+        } else {
+                document.LocationRedirect.siteProduct.selectedIndex = 0;
+        }
+}
+function setPage (newAddress) {
+        if (newAddress != "") { window.location.href = newAddress; }
+}
+// -->
+</script>
+<style type="text/css">
+<!--
+.sidenav {
+  color:#ffffff;
+  text-decoration:none;
+}
+a:hover {
+  color:#cc0000;
+}
+-->
+</style>
+</head>
+<body bgcolor="#ffffff" text="#333333" link="#333333" vlink="#333333" alink="#cc0000" TOPMARGIN="0" onLoad="if (self != top) top.location = self.document.location; adjustMenu('default');">
+<form method="post" action="/cgi/qfind.exe" name="LocationRedirect">
+<!-- Begin datestamp table -->
+<table border="0" cellpadding="0" cellspacing="0" width="640">
+<tr valign="top" align="right">
+<td width="640"><font face="arial, helvetica" size="2" color="#666666">
+<script language="JavaScript"><!-- 
+document.write (displayDate()); 
+//--></script>
+</font></td>
+</tr>
+</table>
+<!-- End datestamp table -->
+<!-- Begin Body Table -->
+<table border="0" cellpadding="0" cellspacing="0" width="640">
+<tr valign="top">
+
+<!-- Begin Left Content Cell -->
+
+<td bgcolor="#000000" width="205">
+<!-- Logo Type and Main Graphic -->
+<table cellspacing="0" cellpadding="0" border="0" width="205">
+<tr valign="top">
+<td colspan="2" align="center"><img src="images/pix.gif" width="1" height="17" border="0" alt=""><br clear="all"><a href="/"><img src="images/ua_redlogo.gif" width="160" height="30" border="0" alt="Compaq.com"></a><br clear="all"><a href="/BetterAnswers/"><img src="images/sidenav_betteranswers.gif" width="111" height="16" border="0" alt="Better answers."></a><br clear="all"><img src="images/pix.gif" width="1" height="25" border="0" alt=""><br clear="all"><img src="images/pix.gif" width="123" height="30" border="0" alt="" align="top"></td>
+</tr>
+<!-- Home/Prosignia navigation elements -->
+
+<tr valign="top">
+<td COLSPAN="2">
+<img src="images/homepage/homepage_fast.gif" width=205 height=123 border=0 alt="World's Fast Workstations"><br>
+</td>
+</tr>
+
+<tr>
+<td colspan="2"><img src="images/homepage/sidenav_fast_copy.gif" width=205 height=60 border=0 alt="Compaq Introduces the World's Fastest Servers and Workstations" vspace=5><br><BR>
+<a href="http://webevents.broadcast.com/compaq/home.html"><img src="images/homepage/sidenav_fast_webcast.gif" width=205 height=33 border=0 alt="View the announcement webcast."></a><br>
+<a href="/newsroom/presspaq/020199/"><img src="images/homepage/sidenav_fast_presspaq.gif" width=205 height=33 border=0 alt="See PressPaq for all the news."></a><BR><BR>
+</td>
+</tr>
+
+</table>
+</td>
+
+<!-- End Left Content Table -->
+
+<!-- Start Full-Bleed Header Graphics with Top Navigation followed by table with product shots -->
+<td width="435" nowrap><img src="images/ypix.gif" width="105" height="27" border="0" alt="" align="top"><a href="/inside/"><img src="images/homepage/topnav_home_inside.gif" width="90" height="27" border="0" alt="Inside Compaq" align="top"></a><a href="/search.html"><img src="images/homepage/topnav_home_search.gif" width="79" height="27" border="0" alt="Search" align="top"></a><a href="/siteguide/"><img src="images/homepage/topnav_home_siteguide.gif" width="79" height="27" border="0" alt="Site Guide" align="top"></a><a href="/comments.html"><img src="images/topnav_comments.gif" width="82" height="27" border="0" alt="Comments" align="top"></a><br clear="all"><table cellspacing="0" cellpadding="0" border="0" width="435">
+<tr valign="top">
+<td width="191" align="RIGHT"><img src="images/homepage/n_bestprod.gif" width=191 height=103 border=0 alt="The best products and prices, direct from Compaq"><br clear="all"><a href="/buynow/online.html"><img src="images/homepage/n_onstore.gif" width=191 height=15 border=0 alt="Online Store" align="top"></a><br clear="all"><a href="http://compaq.infonow.net/bin/findNow?CLIENT_ID=COMPAQ_RM_USA&MARKET=SALES_SERVICE&PRODUCT=BUS_LG"><img src="images/homepage/n_conres.gif" width=191 height=15 border=0 alt="Contact a Reseller"></a><br clear="all"><img src="images/homepage/n_blank.gif" width=191 height=19 border=0 alt=""></td>
+<td width="124"><a href="http://www.directplus.compaq.com/cdpdoorway.asp?product=prosignia"><img src="images/homepage/n_prosignia.gif" width=124 height=152 border=0 alt="Prosignia"></a></td>
+<td width="120"><a href="http://athome.compaq.com/"><img src="images/homepage/n_presario.gif" width=120 height=152 border=0 alt="Presario"></a></td>
+</tr>
+</table>
+<table cellspacing="0" cellpadding="0" border="0" width="435">
+<tr valign="top">
+<td width="155"><img src="images/homepage/h2_callcompaq.gif" width="155" height="23" border="0" alt="1-800-AT-COMPAQ"></td>
+<td width="23"><a href="/showroom/"><img src="images/homepage/h2_products_arrow.gif" width="23" height="23" border="0" alt="Products"></a></td>
+<td width="95"><a href="/showroom/"><img src="images/homepage/h2_products.gif" width="95" height="53" border="0" alt="Products"></a></td>
+<td width="46"><a href="/services/"><img src="images/homepage/h2_services_arrow.gif" width="46" height="23" border="0" alt="Services"></a></td>
+<td width="115"><a href="/services/"><img src="images/homepage/h2_services.gif" width="115" height="53" border="0" alt="Services"></a></td>
+</tr>
+</table><br clear="all">
+
+<!-- section links and news links -->
+
+<table cellspacing="0" cellpadding="0" border="0" width="435">
+<tr valign="top">
+<td width="16"><img src="images/pix.gif" width="16" height="1" border="0" alt=""></td>
+<td width="191"><a href="/business/"><img src="images/homepage/m_enterprise.gif" width="191" height="25" border="0" alt="Enterprise Computing"></a><br clear="all"><a href="/smb/"><img src="images/homepage/m_smb.gif" width="173" height="25" border="0" alt="For Businesses Under 500 Employees"></a><br clear="all"><a href="/athome/"><img src="images/homepage/m_athome.gif" width="122" height="25" border="0" alt="Home Computing"></a><br clear="all"><a href="/govt/"><img src="images/homepage/m_govt.gif" width="164" height="35" border="0" alt="Government, Education and Healthcare"></a><br clear="all"><a href="/resellers/"><img src="images/homepage/m_resellers.gif" width="151" height="15" border="0" alt="Resellers and Partners"></a><br clear="all"><br><a href="/worldwide/"><img src="images/homepage/m_worldwide.gif" width="191" height="25" border="0" alt="Worldwide"></a><br clear="all"><font size="2"><img src="images/pix.gif" width="25" height="1" border="0" alt="" align="top"><select name="siteProduct"  style="font-family: Arial,Helvetica; font-size: 8pt; font-weight: bold" onChange="setPage(this.options[this.selectedIndex].value)">
+<option selected value="/index.html">Pick a country site
+<option value="http://www.compaq.com.ar/">Argentina
+<option value="http://ap.compaq.com.sg/">Asia Pacific
+<option value="http://www.compaq.com.au/">Australia
+<option value="http://www.compaq.at/">Austria
+<option value="http://www.mideast.compaq.com/">Bahrain
+<option value="http://www.compaq.be/">Belgium
+<option value="http://clac.compaq.com/bo/">Bolivia
+<option value="http://www.compaq.com.br/">Brazil
+<option value="http://www.compaq.ca/">Canada
+<option value="http://clac.compaq.com/cac/">Caribbean
+<option value="http://clac.compaq.com/cac/">Central America
+<option value="http://www.compaq.cl/">Chile
+<option value="http://www.compaq.com.cn/">China
+<option value="http://www.compaq.com.co/">Colombia
+<option value="http://www.compaq.dk/">Denmark
+<option value="http://clac.compaq.com/ec/">Ecuador
+<option value="http://www.mideast.compaq.com/">Egypt
+<option value="http://www.compaq.co.za/">Eritrea   
+<option value="http://www.compaq.co.za/">Ethiopia  
+<option value="http://www.compaq.fi/">Finland
+<option value="http://www.compaq.fr/">France
+<option value="http://www.compaq.de/">Germany
+<option value="http://www.compaq.com.gr/">Greece
+<option value="http://www.compaq.com.hk/">Hong Kong
+<option value="http://www.compaq.hu/">Hungary
+<option value="/india/">India
+<option value="http://www.compaq.co.uk/homeus.html">Ireland
+<option value="http://www.compaq.co.il/">Israel
+<option value="http://www.compaq.it/">Italy
+<option value="http://www.compaq.co.jp/">Japan
+<option value="http://www.mideast.compaq.com/">Jordan
+<option value="http://www.compaq.co.za/">Kenya
+<option value="http://www.compaq.co.kr/">Korea, Republic of
+<option value="http://www.mideast.compaq.com/">Kuwait
+<option value="http://www.mideast.compaq.com/">Lebanon
+<option value="http://www.compaq.lu/">Luxemburg
+<option value="http://www.compaq.co.za/">Malawi 
+<option value="http://www.compaq.com/malaysia">Malaysia
+<option value="http://www.compaq.co.za/">Mauritius   
+<option value="http://www.compaq.com.mx/">Mexico
+<option value="http://www.compaq.co.za/">Mozambique  
+<option value="http://www.compaq.co.za/">Namibia   
+<option value="http://www.compaq.nl/">Netherlands, The
+<option value="http://www.compaq.no/">Norway
+<option value="http://www.mideast.compaq.com/">Oman
+<option value="http://clac.compaq.com/py/">Paraguay
+<option value="http://clac.compaq.com/pe/">Per&uacute;
+<option value="http://www.compaq.com.pl/">Poland
+<option value="http://www.compaq.pt/">Portugal
+<option value="http://clac.compaq.com/pr/">Puerto Rico
+<option value="http://www.mideast.compaq.com/">Qatar
+<option value="http://www.compaq.ru/">Russia and CIS
+<option value="http://www.mideast.compaq.com/">Saudi Arabia
+<option value="http://www.compaq.co.za/">Seychelles  
+<option value="http://club.compaq.com/">Singapore
+<option value="http://www.compaq.co.za/">South Africa 
+<option value="http://www.compaq.se/">Sweden
+<option value="http://www.compaq.ch/">Switzerland
+<option value="http://www.compaq.com.tw/">Taiwan
+<option value="http://www.compaq.co.za/">Tanzania  
+<option value="http://www.compaq.co.za/">Uganda  
+<option value="http://www.mideast.compaq.com/">United Arab Emirates
+<option value="http://www.compaq.co.uk/homeus.html">United Kingdom
+<option value="/index.html">United States
+<option value="http://clac.compaq.com/uy/">Uruguay
+<option value="http://www.compaq.com.ve/">Venezuela
+<option value="http://www.mideast.compaq.com/">Yemen
+<option value="http://www.compaq.co.za/">Zambia    
+<option value="http://www.compaq.co.za/">Zimbabwe  
+</select><noscript><input type="Image" name="Go" align="RIGHT" src="images/newgo.gif" border="0" width="40" height="20"></noscript></font><BR><BR>
+<A HREF="copyright.html"><IMG SRC="images/legal.gif" width=197 height=12 border=0 alt="Legal Notices &amp; Privacy Statement"></A>
+</td>
+<td width="36"><img src="images/pix.gif" width="36" height="1" border="0" alt=""></td>
+<td width="191"><a href="/infomessenger/"><img src="images/homepage/m_messenger.gif" width="191" height="25" border="0" alt="Info Messenger"></a><br clear="all"><a href="/year2000/"><img src="images/homepage/m_year2000.gif" width="84" height="25" border="0" alt="Year 2000"></a><br clear="all"><a href="/newsroom/"><img src="images/homepage/m_news.gif" width=100 height=25 border=0 alt="News"></a><br clear="all"><table cellspacing="0" cellpadding="0" border="0" width="191">
+<tr valign="top">
+<td width="26"><img src="images/pix.gif" width="26" height="1" border="0" alt=""></td>
+<td width="165"><font size="1" face="arial, helvetica">
+<!-- news links start -->
+
+<A HREF="/newsroom/pr/1999/pr010299a.html">Compaq Stakes Claim for Enterprise Computing Leadership</a><br clear="all">
+<img src="images/pix.gif" width="1" height="4" border="0" alt=""><br clear="all">
+
+<A HREF="/newsroom/pr/1999/pr290199b.html">Compaq Forms Compaq.com Business Division</a><br clear="all">
+<img src="images/pix.gif" width="1" height="4" border="0" alt=""><br clear="all">
+
+<A HREF="/newsroom/pr/1999/pr290199a.html">Worldwide PC Leadership Position Reaches All-Time High</a>
+<br clear="all">
+<img src="images/pix.gif" width="1" height="4" border="0" alt=""><br clear="all">
+
+<A HREF="/newsroom/pr/1999/pr250199f.html">Latest Technologies and Customer Choice with New Consumer Internet Notebook PCs</a><br clear="all">
+<img src="images/pix.gif" width="1" height="4" border="0" alt=""><br clear="all">
+
+
+
+<!-- news links end -->
+</font></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+
+<br clear="all"><img src="images/pix.gif" width="435" height="1" border="0" alt=""></td>
+
+<!-- End Main Content Cell -->
+
+</tr>
+</table>
+
+<!-- Call Compaq image/link and bottom navigation set -->
+<table border="0" cellpadding="0" cellspacing="0" width="640">
+<tr valign="middle">
+<td bgcolor="#000000" width="205" align="center"><img src="images/sidenav_callcompaq.gif" width="152" height="13" border="0" alt="Call: 1-800-AT-COMPAQ"><br clear="all"><img src="images/pix.gif" width="205" height="1" border="0" alt=""></td>
+<td bgcolor="#666666" width="435" nowrap><img src="images/ypix.gif" width="159" height="27" border="0" alt="" align="top"><a href="http://www.altavista.com/"><img src="images/homepage/botnav_altavista.gif" width="102" height="27" border="0" alt="Altavista.com" align="top"></a><a href="http://www.digital.com/"><img src="images/homepage/botnav_digital.gif" width="84" height="27" border="0" alt="Digital.com" align="top"></a><a href="http://www.tandem.com/"><img src="images/homepage/botnav_tandem.gif" width="87" height="27" border="0" alt="Tandem.com" align="top"></a></td>
+</tr>
+</table>
+</form>
+</body>
+</html>
