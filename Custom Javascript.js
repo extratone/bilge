@@ -1,6 +1,6 @@
 var topP = document.createElement("p");
 //topP.style.textAlign = "center";
-topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> // <a href="https://twitter.com/NeoYokel">Twitter</a> // <a href="https://discord.gg/4hdQcVd">Discord</a></div>';
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://discord.gg/4hdQcVd">Discord</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
 var cont = document.getElementById("wrapper");
 if (cont !== null) {
     // Add to blog index and tag pages
@@ -17,7 +17,7 @@ if (cont !== null) {
 
 window.hypothesisConfig = function () {
   return {
-    "openSidebar": false, 
+    "openSidebar": true, 
     "theme": "clean",
     branding: {
       appBackgroundColor: '#f7ff85',
