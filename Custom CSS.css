@@ -2,7 +2,7 @@
 
 Full, up-to-date source code available at https://github.com/extratone/bilge/
 
-Version 3.0 ＣＡＳＬＯＮ ＢＩＬＧＥ: https://github.com/extratone/bilge/releases/tag/3.0
+Version 3.0 ?????? ?????: https://github.com/extratone/bilge/releases/tag/3.0
 
 # [The Unlicense, Dave Edition](https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1)
 
@@ -98,6 +98,8 @@ article {
     line-height: 155%;
     font-size: 1.1em !important;
     color: #000000;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     /* margin-top:1rem !important; */
 }
 
@@ -127,9 +129,9 @@ h2 {
 }
 
 h3 {
-    font-family: proxima-nova-condensed, sans-serif;
-    font-weight: 400;
-    font-size: 1.15em !important;
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    font-weight: 600;
+    font-size: 1.3em !important;
 }
 
 h4 {
@@ -254,5 +256,3 @@ body#subpage article time.dt-published {
     font-family: proxima-nova-condensed, sans-serif !important;
     font-weight: 700;
 }
-
-<a rel="me"href="https://mastodon.social/@DavidBlue">Mastodon</a>

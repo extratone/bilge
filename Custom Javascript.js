@@ -20,8 +20,8 @@ window.hypothesisConfig = function () {
     "openSidebar": true, 
     "theme": "clean",
     branding: {
-      appBackgroundColor: '#f7ff85',
-      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
+      appBackgroundColor: '#e6f7ff',
+      ctaBackgroundColor: '#da2573',
       ctaTextColor: '#00006b',
       selectionFontFamily: 'Georgia, serif'
     }
