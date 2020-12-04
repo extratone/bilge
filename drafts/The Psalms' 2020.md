@@ -52,7 +52,7 @@ Somewhere along the research process for one of my school essays, I came across 
 
 The "automated" [Project Board](https://github.com/extratone/bilge/projects/1) I set up has so far been a very impressive replacement for the simple todo list. It tracks and categorizes Post Ideas in their various stages in my process: Mulling, Documentation (research,) Drafting, and actual Publication. Technical "[Issues](https://github.com/extratone/bilge/issues)" regarding the CMS and/or the Repository, itself, have also fit in these categories well, so far. Just today, I discovered that one can simply tag Issues by their number to describe [Commits](https://github.com/extratone/bilge/commits/main), which form an impressive revision-tracking changelog when aggregated together. I also figured out the general idea behind Milestones and set [*The Psalms*' first one](https://github.com/extratone/bilge/milestone/1) for my 27th birthday, next month. The goal is to have figured this all out well enough by then that I'm no longer randomly stumbling upon entire featuresets multiple times in a workday. [*Thinking in Public*](https://tomcritchlow.com/2020/07/23/thinking-in-public/) - as my friend Tom Critchlow and his crowd say - is what I'm trying to do here, I think. Obviously, this really means that you are more than welcome to hop the fuck in at any time, in any manner you'd prefer. If Git is still no more than a conundrum for you - as it was for me just weeks ago - I would suggest the directory for [In-Progress Drafts](https://github.com/extratone/bilge/tree/main/Drafts) as a starting point.
 
-
+GitHub Actions are still more or less a mystery to me, but I am unbothered - *The Psalms*' seems to be producing green text instead of red, now, in the midst of whatever I set it up to do.
 
 Let me loose with a .edu email account and I *will* find new and interesting ways of utilizing student discounts.
 
@@ -63,7 +63,7 @@ Let me loose with a .edu email account and I *will* find new and interesting way
 - [x] [The Project Board](https://github.com/extratone/bilge/projects/1)
 - [x] [In-Progress Drafts](https://github.com/extratone/bilge/tree/main/Drafts)
 - [ ] [October 18th, 2018 Capture](http://web.archive.org/web/20181101000000*/bilge.world)
-- [ ] The list of discounted/free dev programs for students on GitHub.
+- [ ] The [list of discounted/free dev programs for students on GitHub](https://education.github.com/pack/offers).
 - [x] [May 1st Capture](https://web.archive.org/web/20200501203946/https://bilge.world/)
 - [ ] Migrating WTF here, moving the domain to a NeoCities landing page. (Gonna really miss those redirects tho...)
 - [ ] [GitWord](https://github.com/vigente/gerardus/wiki/Integrate-git-diffs-with-word-docx-files) ([My backup Gist](https://gist.github.com/extratone/72ad6ae736ae871fb3026bf73f229750))
