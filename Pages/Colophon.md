@@ -1,5 +1,7 @@
 # Colophon
 
+![Single Page, All of Unicode (Inverted)](https://i.snap.as/GGPoR0yN.png)
+
 *The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. 
 
 A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. (*That means you can see [current in-progress drafts](https://github.com/extratone/bilge/tree/main/Drafts)!*)
@@ -88,6 +90,8 @@ article {
     line-height: 155%;
     font-size: 1.1em !important;
     color: #000000;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     /* margin-top:1rem !important; */
 }
 
@@ -117,9 +121,9 @@ h2 {
 }
 
 h3 {
-    font-family: proxima-nova-condensed, sans-serif;
-    font-weight: 400;
-    font-size: 1.15em !important;
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    font-weight: 600;
+    font-size: 1.3em !important;
 }
 
 h4 {
@@ -244,8 +248,6 @@ body#subpage article time.dt-published {
     font-family: proxima-nova-condensed, sans-serif !important;
     font-weight: 700;
 }
-
-<a rel="me"href="https://mastodon.social/@DavidBlue">Mastodon</a>
 ~~~
 
 ### [Javascript](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js)
@@ -273,8 +275,8 @@ window.hypothesisConfig = function () {
     "openSidebar": true, 
     "theme": "clean",
     branding: {
-      appBackgroundColor: '#f7ff85',
-      ctaBackgroundColor: 'rgba(3, 11, 16, 1)',
+      appBackgroundColor: '#e6f7ff',
+      ctaBackgroundColor: '#da2573',
       ctaTextColor: '#00006b',
       selectionFontFamily: 'Georgia, serif'
     }

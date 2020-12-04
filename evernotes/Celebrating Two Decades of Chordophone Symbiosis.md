@@ -14,6 +14,8 @@ I sincerely believe that I have never met anyone so entirely consumed by unwaver
 
 I'm not descending into an autobiography: this defining truth is the foundation of my entire history of chordoaction.
 
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=704108849/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://davidblue.bandcamp.com/album/four">Four by David Blue</a></iframe>
+
 I went every week at first (it eventually slowed to bi-weekly, then monthly) to see a teacher in the basement of a small town Baptist church for close to a decade, and I _did_ practice reciting lessonbook literature during that time. Perhaps 10 cumulative hours. 60 minutes of practice a year, if you averaged it all out.
 
 And I did learn to play simplified melodies over that time. A few pages from scholastic lessonbooks, here and there; recitals, duets, and the occasional tolerated holiday ambiance. I remember my theory knowledge - though stunted significantly by my apathy - just beginning to become something usable before I quit entirely at 14. 

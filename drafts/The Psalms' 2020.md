@@ -40,7 +40,11 @@ In retrospect, it really is bonkers that I was excited about yet another vague p
 
 ## Fall
 
-I returned in late September with a partial recount of what I'd discovered: "[Indulging Once More in Digital Excess](https://bilge.world/digital-excess)." After exploring the concept of [*Digital Gardens*](https://tomcritchlow.com/blogchains/digital-gardens/), buying [my first pro-ready desktop PC](https://www.davidblue.wtf/hp-envy-desktop/) in 10 years, playing with Big Boy Adobe software for the first time, and reading [a delightful book](https://www.hup.harvard.edu/catalog.php?isbn=9780674417076) documenting the history of word processing, I arrived upon the term *Software Historian* with which to partially describe myself. It doesn't mean all that much at the moment, but will no doubt be explored imminently on this Web Site. 
+I returned in late September with a partial recount of what I'd discovered: "[Indulging Once More in Digital Excess](https://bilge.world/digital-excess)." After exploring the concept of [*Digital Gardens*](https://tomcritchlow.com/blogchains/digital-gardens/), buying [my first pro-ready desktop PC](https://www.davidblue.wtf/hp-envy-desktop/) in 10 years, playing with Big Boy Adobe software for the first time, and reading [a delightful book](https://www.hup.harvard.edu/catalog.php?isbn=9780674417076) documenting the history of word processing, I arrived upon the term *Software Historian* with which to partially describe myself. It doesn't mean all that much at the moment, but will no doubt be explored imminently on this Web Site.
+
+Addressing "[The Social Dilemma's Dilemma](https://bilge.world/the-social-dilemma)" and "[Software Thanksgiving](https://bilge.world/big-thank)" in detail would be awfully redundant, but I would at least note how they represent diametrically opposed perspectives through which to discuss this stuff. Going forward into 2021, I think it's important that I hold short on the progress I've made in moderating my voice since 2018. *Digestibility* is not a virtue I am at all interested in, nor is it an appropriate one in which to invest any more effort. Any non-*radical* argument will inevitably prove enormously unoriginal, which makes for a huge waste of all our time. For the moment, that's all the editorializing I've done.
+
+![Blogging vs.](https://i.snap.as/T4Z1w1nI.jpg)
 
 ## Three Point Oh
 
@@ -54,7 +58,7 @@ Beginning with today's changes,
 - [ ] [In-Progress Drafts](https://github.com/extratone/bilge/tree/main/Drafts)
 - [ ] [October 18th, 2018 Capture](http://web.archive.org/web/20181101000000*/bilge.world)
 - [x] [May 1st Capture](https://web.archive.org/web/20200501203946/https://bilge.world/)
-- [ ] Migrating WTF here, moving the domain to a NeoCities landing page.
+- [ ] Migrating WTF here, moving the domain to a NeoCities landing page. (Gonna really miss those redirects tho...)
 
 
 
