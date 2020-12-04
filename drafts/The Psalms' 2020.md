@@ -48,17 +48,25 @@ Addressing "[The Social Dilemma's Dilemma](https://bilge.world/the-social-dilemm
 
 ## Three Point Oh
 
-Beginning with today's changes, 
+Somewhere along the research process for one of my school essays, I came across the concept of academic [revision tracking and peer review via Git](https://www.davidblue.wtf/git-peer-review/). Having dipped my toe back in academia, any such circumvention of its penchant for the most archaic practices possible was naturally intriguing. *Just wait until I show these goons how to use hyperlinks.* Perhaps inevitably, I was launched into the Git-Gone Bender I'm still riding simply because I finally had ample reason to actually understand it. In just two months, I've created and forked a total of nearly 80 repositories on [my new GitHub account](https://github.com/extratone). Though I'd created one for each of my web properties ages ago, I had absolutely no idea how to actually make use of them, so they were all quickly abandoned. In the past two weeks or so, I think I've actually begun to get the hang of the system's core intricacies, best exemplified by [*The Psalms*' Repository](https://github.com/extratone/bilge) as it stands.
+
+The "automated" [Project Board](https://github.com/extratone/bilge/projects/1) I set up has so far been a very impressive replacement for the simple todo list. It tracks and categorizes Post Ideas in their various stages in my process: Mulling, Documentation (research,) Drafting, and actual Publication. Technical "[Issues](https://github.com/extratone/bilge/issues)" regarding the CMS and/or the Repository, itself, have also fit in these categories well, so far. Just today, I discovered that one can simply tag Issues by their number to describe [Commits](https://github.com/extratone/bilge/commits/main), which form an impressive revision-tracking changelog when aggregated together. I also figured out the general idea behind Milestones and set [*The Psalms*' first one](https://github.com/extratone/bilge/milestone/1) for my 27th birthday, next month. The goal is to have figured this all out well enough by then that I'm no longer randomly stumbling upon entire featuresets multiple times in a workday. [*Thinking in Public*](https://tomcritchlow.com/2020/07/23/thinking-in-public/) - as my friend Tom Critchlow and his crowd say - is what I'm trying to do here, I think. Obviously, this really means that you are more than welcome to hop the fuck in at any time, in any manner you'd prefer. If Git is still no more than a conundrum for you - as it was for me just weeks ago - I would suggest the directory for [In-Progress Drafts](https://github.com/extratone/bilge/tree/main/Drafts) as a starting point.
+
+
+
+Let me loose with a .edu email account and I *will* find new and interesting ways of utilizing student discounts.
 
 ***
 
 ## GitHub
 
-- [ ] [The Project Board](https://github.com/extratone/bilge/projects/1)
-- [ ] [In-Progress Drafts](https://github.com/extratone/bilge/tree/main/Drafts)
+- [x] [The Project Board](https://github.com/extratone/bilge/projects/1)
+- [x] [In-Progress Drafts](https://github.com/extratone/bilge/tree/main/Drafts)
 - [ ] [October 18th, 2018 Capture](http://web.archive.org/web/20181101000000*/bilge.world)
+- [ ] The list of discounted/free dev programs for students on GitHub.
 - [x] [May 1st Capture](https://web.archive.org/web/20200501203946/https://bilge.world/)
 - [ ] Migrating WTF here, moving the domain to a NeoCities landing page. (Gonna really miss those redirects tho...)
+- [ ] [GitWord](https://github.com/vigente/gerardus/wiki/Integrate-git-diffs-with-word-docx-files) ([My backup Gist](https://gist.github.com/extratone/72ad6ae736ae871fb3026bf73f229750))
 
 
 
@@ -84,3 +92,8 @@ Beginning with today's changes,
 - [ ] ~35,000 words, ~2 hours of reading.
 - [ ] Most Overdue Drafts!
 - [ ] Imported "[Through an iPhone 4's Lens](https://bilge.world/iphone4-photography)"
+- [ ] Tevin Futureland episode
+
+<iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling=no width="100%" height="auto" frameborder="0" src="https://embed.radiopublic.com/e?if=extratone-radio-WYDa1L&ge=s1!8745637f40247e604f90a6eb871ba02f104cab10"></iframe>
+
+### Archive?
