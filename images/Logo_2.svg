@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <defs>
+    <style>
+      .cls-1, .cls-5 {
+        font-size: 32px;
+      }
+
+      .cls-1, .cls-10, .cls-13, .cls-17, .cls-2, .cls-4, .cls-5 {
+        fill: #ec687b;
+        font-family: AktivGroteskCd-Bold, Aktiv Grotesk Cd;
+        font-weight: 700;
+      }
+
+      .cls-13, .cls-2 {
+        font-size: 29px;
+      }
+
+      .cls-2 {
+        letter-spacing: 0.54em;
+      }
+
+      .cls-3 {
+        letter-spacing: 0.55em;
+      }
+
+      .cls-4 {
+        font-size: 120px;
+        letter-spacing: 0.28em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0.64em;
+      }
+
+      .cls-6 {
+        letter-spacing: 0.61em;
+      }
+
+      .cls-7 {
+        letter-spacing: 0.65em;
+      }
+
+      .cls-8 {
+        letter-spacing: 0.64em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0.65em;
+      }
+
+      .cls-10 {
+        font-size: 30px;
+        letter-spacing: 0.35em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0.33em;
+      }
+
+      .cls-12 {
+        letter-spacing: 0.35em;
+      }
+
+      .cls-13 {
+        letter-spacing: 0.55em;
+      }
+
+      .cls-14 {
+        letter-spacing: 0.56em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0.5em;
+      }
+
+      .cls-16 {
+        letter-spacing: 0.54em;
+      }
+
+      .cls-17 {
+        font-size: 28px;
+        letter-spacing: 0.3em;
+      }
+    </style>
+  </defs>
+  <g id="_YOUR_TEXT_HERE_" data-name="[YOUR TEXT HERE]">
+    <text class="cls-1" transform="matrix(0.86, 0.52, -0.52, 0.86, 242.06, 423.14)">C</text>
+    <text class="cls-1" transform="matrix(0.93, 0.38, -0.38, 0.93, 277.61, 442.55)">U</text>
+    <text class="cls-1" transform="translate(316.22 456.59) rotate(13.95)">R</text>
+    <text class="cls-1" transform="matrix(0.99, 0.12, -0.12, 0.99, 355.02, 464.55)">I</text>
+    <text class="cls-1" transform="matrix(1, -0.01, 0.01, 1, 385.67, 467.27)">O</text>
+    <text class="cls-1" transform="translate(427.62 465.4) rotate(-8.19)">S</text>
+    <text class="cls-1" transform="translate(465.42 458.38) rotate(-15.17)">I</text>
+    <text class="cls-1" transform="translate(494.69 449.28) rotate(-22.21)">T</text>
+    <text class="cls-1" transform="translate(529.84 433.17) rotate(-30.56)">Y</text>
+    <text class="cls-2" transform="translate(640.2 148.75) rotate(90)">V<tspan class="cls-3" x="31.44" y="0">OCAB</tspan></text>
+    <text class="cls-4" transform="translate(228.89 312.47)">WIKI</text>
+    <text class="cls-5" transform="translate(223.87 172.38)">D<tspan class="cls-6" x="39.81" y="0">A</tspan><tspan class="cls-7" x="77.38" y="0">VID B</tspan><tspan class="cls-8" x="249.85" y="0">L</tspan><tspan class="cls-9" x="285.31" y="0">UE</tspan></text>
+    <text class="cls-10" transform="translate(308.34 374.73)">INDU<tspan class="cls-11" x="104.43" y="0">L</tspan><tspan class="cls-12" x="128.61" y="0">GE</tspan></text>
+    <text class="cls-13" transform="translate(137.35 148.75) rotate(90)">E<tspan class="cls-14" x="30.48" y="0">S</tspan><tspan x="61.77" y="0">S</tspan><tspan class="cls-15" x="92.83" y="0">A</tspan><tspan class="cls-16" x="123.83" y="0">Y</tspan><tspan class="cls-3" x="154.57" y="0">S</tspan></text>
+    <text class="cls-17" transform="translate(368.74 417.17)">MY</text>
+  </g>
+</svg>
