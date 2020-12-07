@@ -93,6 +93,7 @@ Let me loose with a .edu email account and I *will* find new and interesting way
 - [ ] Most Overdue Drafts!
 - [ ] Imported "[Through an iPhone 4's Lens](https://bilge.world/iphone4-photography)"
 - [ ] Tevin Futureland episode
+- [ ] [Dinkus Discord channel](https://bit.ly/extdinkus)
 
 <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling=no width="100%" height="auto" frameborder="0" src="https://embed.radiopublic.com/e?if=extratone-radio-WYDa1L&ge=s1!8745637f40247e604f90a6eb871ba02f104cab10"></iframe>
 
