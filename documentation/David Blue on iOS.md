@@ -1,4 +1,4 @@
-# David Blue on iPhone & iOS
+![Two Phones](https://i.snap.as/Vf2oj55.jpg)
 
 ## A collection of my writing on Apple's revolutionary handset and its operating system.
 
@@ -17,3 +17,7 @@
 ⁜ "[**Z̴͏a͞l͟g͝o͏ ̕G͟͝e͞n͞҉è̛ŗ͡a͝͞t̴o҉r͞ for iOS**](https://bilge.world/zalgo-generator-ios-app-review)" - May 15th, 2020
 
 ⁜ "iPhone 12 Pro Max" - [*Coming Soon*](https://github.com/extratone/bilge/issues/45)
+
+### Other Stuff
+
+* [iOS Apps To Watch](http://simp.ly/p/kq5Khv) (Pretty out of date Simplenote.)
