@@ -13,6 +13,7 @@
 ⁜ "[**Tweetbot 5 iOS Review**](https://bilge.world/tweetbot-5-ios-review)" - November 27th, 2018
 
 ⁜ "[**Profound Revelations in iOS 12**](https://bilge.world/siri-shortcuts-ios12-review)" - December 5th, 2018
+"[Siri Shortcuts Are iOS 12's Most Profound Addition](https://anchor.fm/davidblue/episodes/Siri-Shortcuts-Are-iOS-12s-Most-Profound-Addition-e2eepe/a-a235vs3)" | *End User* Episode 3 (Audio)
 
 ⁜ "[**Z̴͏a͞l͟g͝o͏ ̕G͟͝e͞n͞҉è̛ŗ͡a͝͞t̴o҉r͞ for iOS**](https://bilge.world/zalgo-generator-ios-app-review)" - May 15th, 2020
 
@@ -21,3 +22,4 @@
 ### Other Stuff
 
 * [iOS Apps To Watch](http://simp.ly/p/kq5Khv) (Pretty out of date Simplenote.)
+* [Siri Shortcuts GitHub Repo](https://github.com/extratone/shortcuts)

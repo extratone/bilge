@@ -23,7 +23,8 @@ This is the last sentence of [my very sentimental iPhone 8 Plus review](https://
 - [ ] I wish part of starting over included re-downloading all my shortcuts, tbh. ([Shortcuts Repo](https://github.com/extratone/shortcuts))
 - [ ] I played my first *Call of Duty* match in something like 10 years and got MVP. I don't know if this means anything or not. [*Call of Duty: Mobile*](https://apps.apple.com/us/app/call-of-duty-mobile/id1287282214) (The title alone... lmao.)
 - [ ] As always with new phone reviews, I am presented with a dilemma: the device, itself is by far the best camera I own. (Technically, my only other imaging device is my [Nikon COOLPIX 990](https://www.flickr.com/gp/davidblue/V861Vx), which has long since eaten up every last AA battery I had.) I must use the device, itself to take any images of the device.
-- [ ] "[The Precarious Legacy of the iPhone 8](https://bilge.world/iphone-8-plus-review)"
+- [ ] "[The Precarious Legacy of the iPhone 8](https://bilge.world/iphone-8-plus-review)" 
+- [ ] "[David Blue on iPhone & iOS](https://bit.ly/dbipwiki)"
 - [ ] I finally own the *mid*-capacity option instead of the lowest-capacity option!
 
 ### Physical Controls
