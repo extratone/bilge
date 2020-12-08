@@ -42,7 +42,7 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 * [Red](https://colornames.org/color/ff0000)
 * [Alarmed Suburbanite](https://colornames.org/color/f43f32)
 
-### CSS
+### [CSS](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css)
 
 ```css
 @import url('https://use.typekit.net/kst2rrh.css');
@@ -100,6 +100,8 @@ article {
     line-height: 155%;
     font-size: 1.1em !important;
     color: #000000;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
     /* margin-top:1rem !important; */
 }
 
@@ -111,7 +113,7 @@ article a:link {
 
 body,
 article a:visited {
-    color: #F43B28;
+    color: #FF0000;
 }
 
 h1 {
@@ -129,9 +131,9 @@ h2 {
 }
 
 h3 {
-    font-family: proxima-nova-condensed, sans-serif;
-    font-weight: 400;
-    font-size: 1.15em !important;
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    font-weight: 600;
+    font-size: 1.3em !important;
 }
 
 h4 {
@@ -256,6 +258,27 @@ body#subpage article time.dt-published {
     font-family: proxima-nova-condensed, sans-serif !important;
     font-weight: 700;
 }
+
+.footnote, .footnote-ref {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /* margin-left:2.5px; */
+    color: #da2573 !important;
+    font-size: 1.1em;
+    text-decoration:underline #FF0000;
+}
+
+.footnote-ref {
+    margin-left:25px;
+}
+
+.footnote-ref-text {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+    color: #1c0021 !important;
+    font-size: 1em;
+    border-top: #00006b dotted 1px;
+}
 ```
 
 <p>
@@ -274,5 +297,52 @@ body#subpage article time.dt-published {
             alt="Valid CSS!" />
     </a>
 </p>
-
 (Remember these? lol)
+
+### [Javascript](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js)
+
+```javascript
+var topP = document.createElement("p");
+//topP.style.textAlign = "center";
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://discord.gg/4hdQcVd">Discord</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
+var cont = document.getElementById("wrapper");
+if (cont !== null) {
+    // Add to blog index and tag pages
+    cont.appendChild(topP);
+} else {
+    // Add to individual blog post page
+    cont = document.getElementById("post-body");
+    cont.insertAdjacentHTML("afterend", topP.outerHTML);
+}
+
+// src: https://platform.twitter.com/widgets.js
+
+// src: https://hypothes.is/embed.js
+
+window.hypothesisConfig = function () {
+  return {
+    "openSidebar": true, 
+    "theme": "clean",
+    branding: {
+      appBackgroundColor: '#e6f7ff',
+      ctaBackgroundColor: '#da2573',
+      ctaTextColor: '#00006b',
+      selectionFontFamily: 'Georgia, serif'
+    }
+  };
+};
+
+// Footnote hyperlinks in the body.
+var notePattern = /\[\^(\d+)\]/g;
+var noteText = "<a name=\"fn$1\"></a><sup><a class=\"footnote\" href=\"#fnref$1\">$1</a></sup>";
+
+// Footnote references at the bottom.
+var refPattern = /\[(\d+)\](.*)/g;
+var refText = "<a name=\"fnref$1\"></a><sup><a class=\"footnote-ref\" href=\"#fn$1\">$1</a></sup><span class=\"footnote-ref-text\">$2</span>";
+
+var postContent = document.getElementById("post-body").innerHTML;
+postContent = postContent.replace(notePattern, noteText);
+postContent = postContent.replace(refPattern, refText);
+document.getElementById("post-body").innerHTML = postContent;
+```
+

@@ -111,7 +111,7 @@ article a:link {
 
 body,
 article a:visited {
-    color: #F43B28;
+    color: #FF0000;
 }
 
 h1 {
@@ -255,4 +255,25 @@ body#subpage article time.dt-published {
 #emailsub {
     font-family: proxima-nova-condensed, sans-serif !important;
     font-weight: 700;
+}
+
+.footnote, .footnote-ref {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /* margin-left:2.5px; */
+    color: #da2573 !important;
+    font-size: 1.1em;
+    text-decoration:underline #FF0000;
+}
+
+.footnote-ref {
+    margin-left:25px;
+}
+
+.footnote-ref-text {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+    color: #1c0021 !important;
+    font-size: 1em;
+    border-top: #00006b dotted 1px;
 }
