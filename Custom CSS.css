@@ -149,6 +149,17 @@ h6 {
     font-size: .85em !important;
 }
 
+code {
+    background-color:#f7ff85 !important;
+    border: 1px solid #00006b !important;
+    border-radius: 2px !important;
+    font-size: 0.75em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    padding: 0px 0px 0px 0px !important;
+}
+
 .post-title a:visited,
 .post-title a:link {
     font-family: proxima-nova-condensed, sans-serif !important;
