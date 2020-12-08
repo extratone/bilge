@@ -3,6 +3,8 @@ title: "John Godley's Redirection"
 date: "2020-09-24"
 ---
 
+## Can you believe it? A WordPress plugin so clever, it’s actually worth writing about.
+
 I can't say I've ever been compelled to write about something so seemingly petty as a WordPress plugin, before, but Automatic's own John Godley once upon a time created a plugin that now represents a large contributor to WordPress' whole value as a CMS, personally. It's called **[Redirection](https://redirection.me/)**, and it allows the user to point any ole' directory off their domain to point to any _other_ URL, anywhere on the web. (For instance, [davidblue.wtf/**facebook**](https://davidblue.wtf/facebook) will send you directly to my Facebook profile.)
 
 ![](images/Redirection-1.png)
@@ -35,3 +37,5 @@ For ye who would seek functionality _beyond_ simple redirects, Redirection offer
 Also included is **404 error tracking**, native **Apache server compatibility**, **customizable per-user permissions**, **import/export**, and **[Search Regex](https://searchregex.com/) integration**. Regarding pricing, Godley has this to say: "Yes, it’s really free. There’s no premium version and no need to pay money to get access to features. This is a dedicated redirect management plugin."
 
 My take? You're not making full use of WordPress unless you're actively using this plugin.
+
+#software
