@@ -1,6 +1,7 @@
 # Test
 
 ---
+
 __Advertisement :)__
 
 - __[pica](https://nodeca.github.io/pica/demo/)__ - high quality and fast image
@@ -13,10 +14,15 @@ You will like those projects!
 ---
 
 # h1 Heading 8-)
+
 ## h2 Heading
+
 ### h3 Heading
+
 #### h4 Heading
+
 ##### h5 Heading
+
 ###### h6 Heading
 
 
@@ -59,7 +65,9 @@ _This is italic text_
 
 
 > Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
+>
+> > ...by using additional greater-than signs right next to each other...
+> >
 > > > ...or with spaces between arrows.
 
 
@@ -68,11 +76,17 @@ _This is italic text_
 Unordered
 
 + Create a list by starting a line with `+`, `-`, or `*`
+
 + Sub-lists are made by indenting 2 spaces:
+
   - Marker character change forces new list start:
+
     * Ac tristique libero volutpat at
+
     + Facilisis in pretium nisl aliquet
+
     - Nulla volutpat aliquam velit
+
 + Very easy!
 
 Ordered
@@ -88,7 +102,7 @@ Ordered
 Start numbering with offset:
 
 57. foo
-1. bar
+58. bar
 
 
 ## Code
@@ -121,19 +135,19 @@ console.log(foo(5));
 
 ## Tables
 
-| Option | Description |
-| ------ | ----------- |
+| Option | Description                                                  |
+| ------ | ------------------------------------------------------------ |
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| ext    | extension to be used for dest files.                         |
 
 Right aligned columns
 
-| Option | Description |
-| ------:| -----------:|
-| data   | path to data files to supply the data that will be passed into templates. |
+| Option |                                                  Description |
+| -----: | -----------------------------------------------------------: |
+|   data | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+|    ext |                         extension to be used for dest files. |
 
 
 ## Links
@@ -189,10 +203,13 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ==Marked text==
 
-
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
-Footnote 1 link[^first].
+This is some text.[^1] This is some more text in a different sentence.
+
+This is some text anticipating a footnote[^2] in the middle of the fucking sentence.
+
+*/ Footnote 1 link[^first]. */
 
 Footnote 2 link[^second].
 
@@ -219,7 +236,7 @@ Term 2 with *inline markup*
 :   Definition 2
 
         { some code, part of Definition 2 }
-
+    
     Third paragraph of definition 2.
 
 _Compact style:_
@@ -245,3 +262,7 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ::: warning
 *here be dragons*
 :::
+
+[1] This is a reference to some text.
+
+[2] This is some fucking text jumping out of the middle of a sentence.
