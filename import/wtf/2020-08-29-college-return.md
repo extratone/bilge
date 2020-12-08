@@ -3,9 +3,9 @@ title: "Back to Fucking School"
 date: "2020-08-29"
 ---
 
-At the beginning of this week, I existed under the _intention_ to go back to school this Fall, but after "meeting" with an especially patient academic advisor from the same community college I dropped out of in 2013\[efn\_note\]Specifically, the same "campus" based in the same mostly-abandoned old mall I also _worked_ full-time in.\[/efn\_note\] on Wednesday, he mentioned just in the last seconds of a 90-minute conversation that I actually had class _that night_ at 6PM, and seemingly all at once, I felt both more anxious and more excited than I had ever been about anything in recent memory. The two days since have been a truly unique experience, so I thought I would fucking _journal_ for you to give myself a bit of a break (yes, I'm already feeling overwhelmed,) so I created the [_Chronicle_ category](http://davidblue.wtf/chronicle) on this goddamned website.
+At the beginning of this week, I existed under the _intention_ to go back to school this Fall, but after "meeting" with an especially patient academic advisor from the same community college I dropped out of in 2013[^1] on Wednesday, he mentioned just in the last seconds of a 90-minute conversation that I actually had class _that night_ at 6PM, and seemingly all at once, I felt both more anxious and more excited than I had ever been about anything in recent memory. The two days since have been a truly unique experience, so I thought I would fucking _journal_ for you to give myself a bit of a break (yes, I'm already feeling overwhelmed,) so I created the [_Chronicle_ category](http://davidblue.wtf/chronicle) on this goddamned website.
 
-https://twitter.com/NeoYokel/status/1298334207299801091
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">I am officially a college student again for the first time in 7 years...</p>&mdash; ※ David Blue ※ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1298334207299801091?ref_src=twsrc%5Etfw">August 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 My anxiety is especially silly considering I only signed up for just **four classes** and also received the wonderful news that I _do not need another math class_ in order to graduate with an Associate of Arts degree in approximately three semesters. You really wanna know what they are? Okay:
 
@@ -14,19 +14,19 @@ My anxiety is especially silly considering I only signed up for just **four clas
 3. American History From 1865
 4. Geology
 
-[https://calendar.google.com/calendar/embed?src=9lfkmr0nfgo4sgv7cf27gn6j3iou546l%40import.calendar.google.com&ctz=America%2FChicago](https://calendar.google.com/calendar/embed?src=9lfkmr0nfgo4sgv7cf27gn6j3iou546l%40import.calendar.google.com&ctz=America%2FChicago)
+[My Fall 220 Calendar](https://calendar.google.com/calendar/embed?src=9lfkmr0nfgo4sgv7cf27gn6j3iou546l%40import.calendar.google.com&ctz=America%2FChicago) (Google Calendar)
 
 I ended up particularly excited about and engaged in my first assignment for Comp II - it was especially dangerous of my instructor to prompt about my personal writing history:
 
 > Your background as a writer: when did you take Comp I, where? What do you remember about it? Do you write on your own--letters, poetry, fiction, etc? What aspect of the writing process do you enjoy most/least? What type of writing do you enjoy most/least? What are your strengths and weaknesses as a writer? What do you expect to get out of this course (I do not mean in terms of credit or grade)? What do you expect to put into the course?
 > 
-> The prompt for my first assignment in Composition II: "Introduction of self as writer"
+> *The prompt for my first assignment in Composition II: "Introduction of self as writer"*
 
 As of this moment, I am fucking 2500 words into the goddamned thing and already feel very sorry for my instructor - so much so that I've included a huge amount of disclaimers like "please feel no _personal_ obligation to actually read this essay in its entirety." It's probably highly telling that I fell so deeply so quickly into it that _I still haven't finished_ even though it was due at midnight on Wednesday. May Gourd save my idiotic soul.
 
-https://twitter.com/NeoYokel/status/1299472928027930627
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">part of the upcoming new suite: Adobe Exploitive Cloud ™</p>&mdash; ※ David Blue ※ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1299472928027930627?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-I'm just going to sprinkle embeds throughout this post that don't have any relevance to the actual content... sorry.
+*I'm just going to sprinkle embeds throughout this post that don't have any relevance to the actual content... sorry.*
 
 Naturally, my vanity led me to run away with the opportunity to be autobiographical. I think I might eventually adapt the submission to be posted here or on _Extratone_'s Wiki because it's a relatively entertaining review of my public projects in adult life. Therefore, I should probably minimize quoting from it in this particular post beyond this one particularly funny story from my last college writing class experience (Composition I:)
 
@@ -34,17 +34,17 @@ Naturally, my vanity led me to run away with the opportunity to be autobiographi
 
 There _are_ a bunch of very-insightful bullet points in my notes so far, so I'll include an HTML export of my notes file so far:
 
-["Introduction of self as a writer" Notes](https://www.davidblue.wtf/wp-content/uploads/Introduction-of-self-as-a-writer-Notes.html)[Download](https://www.davidblue.wtf/wp-content/uploads/Introduction-of-self-as-a-writer-Notes.html)
+["Introduction of self as a writer" Notes](https://www.davidblue.wtf/wp-content/uploads/Introduction-of-self-as-a-writer-Notes.html)
 
 ## Process & Tools
 
 While we're on the subject: it took going to college for me to _finally_ give Notion a real try. Since my friend CJ Eller [first told me about it](https://twitter.com/CJEller3/status/1255638639268311049) in late-April\[efn\_note\]The concept of publishing to the web via Notion-to-Static HTML is actually quite interesting as explained in [the blog post he linked](https://azlen.me/blog/new_website/).\[/efn\_note\], I have installed and then shortly uninstalled both the Windows and iOS application _four or five times_. Out of all the notetaking applications I've tried throughout the past ten years, it was/is the only one that makes as overwhelming a first impression as Evernote originally tends to.\[efn\_note\]Though I do _not_ agree that Notion and Evernote's use cases overlap at all significantly (at least so far.)\[/efn\_note\] I both quickly understood why it appears to likewise have a comparatively cultish usership and almost immediately felt the urge to _run away_.\[efn\_note\]As I explained in my [oft-hyperlinked interview with CJ](https://write.as/community/chat-with-david-blue), the software designed for the "tweaker" tends to quickly lead me to act like the drug-related use of the term.\[/efn\_note\]
 
-https://twitter.com/jane\_c\_hu/status/1299406653838643200?s=20
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">writing is a gas: it always expands to take up as much space as the container (word count, time/deadline) will allow</p>&mdash; jane c. hu (@jane_c_hu) <a href="https://twitter.com/jane_c_hu/status/1299406653838643200?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The handful of recommendation listicles for college apps I perused rated Notion as the general best choice for more "detail-obsessed" users, but they also overwhelmingly recommended OneNote, for some reason, which should probably incinerate any chances they had at credibility (see more about that below.) Once I could actually justify to myself the time and attention required to set up one's own Notion workspace, I've found the process relatively engaging and - at least so far - fairly capable for what I think I'd like my school-specific notetaking/documentation workspace to look like. It wasn't until just tonight that I discovered how to use one's student email to get the "[Personal Pro](https://www.notion.so/pricing)" plan for free, which ups the file limit from 5MB to (supposedly) "Unlimited,"\[efn\_note\]I'll let you know what the limits actually are if/when I manage to break something, of course.\[/efn\_note\] and allows one to add unlimited members. I'm pretty sure that means any Notion users among you can stop by **[notion.so/rotund](https://www.notion.so/rotund)**\[efn\_note\]I'd really appreciate if you'd take the time to let me know whether or not you were successful.\[/efn\_note\], or [this public share link](https://www.notion.so/rotund/764a6619ca084d03ac725ac23e8fb167?v=b63e46809c464d888fcbfe1228cefa6e) if you so desire. Despite how obscure my school is in the grand scheme, I found the process of [verifying my school email](https://www.notion.so/students) _literally_ instantaneous. If you'd like to hear more about my experience with Notion, you can literally just watch my notes file progress and/or keep an eye out for my upcoming _[Little Review](https://www.davidblue.wtf/c/software/little/)_.
 
-https://twitter.com/kylegaddo/status/1299484200630919168
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">spotted <a href="https://t.co/lrmhHl22x3">pic.twitter.com/lrmhHl22x3</a></p>&mdash; Kyle Gaddo (@kylegaddo) <a href="https://twitter.com/kylegaddo/status/1299484200630919168?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Hopping back to Microsoft OneNote for a moment... I was gifted/promised a lifelong Microsoft 365 Business subscription by a client a few years ago, so I have grown accustomed to indulging my curiosity regarding applications in the suite whenever I set out to accomplish something new.\[efn\_note\]For instance: I just discovered [two weeks ago](https://twitter.com/NeoYokel/status/1293975448364482562) that Microsoft Publisher still exists and is even included and _fucking downloaded by default_ with 365 to this day.\[/efn\_note\] I've tried to give OneNote a real fighting chance for _years_ - generously leaving it pinned to the 5th position on my taskbar\[efn\_note\]This is quite relevant considering how dependent my Windows workflow is on using the **Ctrl+**(Number Key) keyboard shortcuts.\[/efn\_note\] after Firefox and before Word - but Notion finally toppled and replaced it today... Only after I'd taken the time to create a new OneNote notebook entitled "Academia" and layed out a "Section" for each of my classes did I actually engage upon the simple task of pasting from my in-class notes in Typora, which all at once reminded me that the damnest quirk of the thing actually makes it totally unusable for me: the fundamental layout design with its movable sections is just impossible to work with, for whatever reason.
 
@@ -84,3 +84,5 @@ Hopefully, I can finally manage to conclude by briefly remarking how good one pa
 https://youtu.be/cY1yRDEfDEM
 
 **Finally**... I would like to leave you with this [gem of a creation](https://youtu.be/cY1yRDEfDEM) of mine which I only made looking for _any_ excuse not to actually be writing about fucking _[Clerks](https://twitter.com/NeoYokel/status/1299018446131339264)_ today. I managed to unconsciously find myself downloading the [Media Kit](https://www.instructure.com/media-resources) of the company who makes the software which runs my school's online learning platform... I may require help sooner than I thought.
+
+[1] Specifically, the same “campus” based in the same mostly-abandoned old mall I also worked full-time in.
