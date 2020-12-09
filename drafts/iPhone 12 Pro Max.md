@@ -8,6 +8,10 @@
 
 This is the last sentence of [my very sentimental iPhone 8 Plus review](https://bilge.world/iphone-8-plus-review) from May, 2018, in which I bemoaned Apple's decision to finally retire the basic hardware configuration which had defined the marque's first ten years, citing my "loyalty." 
 
+![The Original](https://i.snap.as/Ep06W6A9.jpg)
+
+Ya know, I'm actually astonished by how much of this ritual *hasn't* changed.
+
 ---
 
 - [ ] [Twitter thread](https://twitter.com/NeoYokel/status/1335313244949508101)
@@ -26,9 +30,12 @@ This is the last sentence of [my very sentimental iPhone 8 Plus review](https://
 - [ ] "[The Precarious Legacy of the iPhone 8](https://bilge.world/iphone-8-plus-review)" 
 - [ ] "[David Blue on iPhone & iOS](https://bit.ly/dbipwiki)"
 - [ ] I finally own the *mid*-capacity option instead of the lowest-capacity option!
+- [ ] The Screen Recording badge is finally subtle! 
+- [ ] I see how "threaded replies" work in iMessage now.
 
 ## External
 
+- [ ] [The Test iCloud Photos Album](https://bit.ly/12bbbp)
 - [ ] "[Apple is reportedly canceling some Arcade contracts to focus on ‘engagement’](https://www.theverge.com/2020/6/30/21308657/apple-arcade-canceling-games-subscription-service-engagement)" | *The Verge*
 - [ ] [My Geekbench 4 results](https://browser.geekbench.com/v4/cpu/15929025)
 - [ ] [My SpeedTest results page](https://www.speedtest.net/results?sh=889e0d5b2307328d5161bcee81bc6a75)
@@ -39,4 +46,5 @@ This is the last sentence of [my very sentimental iPhone 8 Plus review](https://
 ### Physical Controls
 
 - [ ] [morganath on Mastodon regarding the Home Button](https://social.tchncs.de/@morganth/105330295770710815)
+- [ ] The case!
 
