@@ -17,7 +17,7 @@ if (cont !== null) {
 
 window.hypothesisConfig = function () {
   return {
-    "openSidebar": true, 
+    "openSidebar": false, 
     "theme": "clean",
     branding: {
       appBackgroundColor: '#e6f7ff',
