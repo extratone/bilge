@@ -67,7 +67,8 @@ Let me loose with a .edu email account and I *will* find new and interesting way
 - [x] [May 1st Capture](https://web.archive.org/web/20200501203946/https://bilge.world/)
 - [ ] Migrating WTF here, moving the domain to a NeoCities landing page. (Gonna really miss those redirects tho...)
 - [ ] [GitWord](https://github.com/vigente/gerardus/wiki/Integrate-git-diffs-with-word-docx-files) ([My backup Gist](https://gist.github.com/extratone/72ad6ae736ae871fb3026bf73f229750))
-- [ ] The Bilge Wiki, especially "[David Blue on iPhone & iOS](https://bit.ly/dbipwiki)"
+- [ ] [The Bilge Wiki](https://github.com/extratone/bilge/wiki), especially "[David Blue on iPhone & iOS](https://bit.ly/dbipwiki)"
+  [David Blue on Television & Film](https://bit.ly/dbtvwiki)
 
 
 
