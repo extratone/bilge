@@ -41,6 +41,28 @@ In a desire to quantify/document my own personal preferences in composition, I h
 
 ![Really Struck Me](https://github.com/extratone/bilge/blob/main/images/Really_Struck_Me.jpg)
 
+### Words I Will Not Tolerate
+
+(As in, I might actually excommunicate you if you insist upon using them repeatedly. I copied directly from my list of muted words on Twitter.)
+
+* matrix
+* blue pilled
+* red pilled
+* the matrix
+* morpheus
+* bromance
+* awesome sauce
+* meh
+* amazeballs
+* awesomesauce
+* methinks
+* because internet
+* feels
+* rick and morty
+* freddie mercury
+
+---
+
 
 ## Scribam Quid Non Legerim *I will write what I have not read.*
 
