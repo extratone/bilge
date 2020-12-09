@@ -14,7 +14,7 @@ So far, I have maintained that my first generation iPhone was the best handset o
 
 In part, they did. Native apps got a major overhaul — including Mail, which was startling, considering that I’d been looking at what was near as makes no difference the same UI my eldest phone shipped with. As a result, it alone constitutes my benchmark for an email service, and I have been left without a clue as to what *a good one* looks like. (Apparently it was [really bad](https://www.pcmag.com/article/342889/the-best-mobile-email-client-apps)?) Since time began, there has always been at least one alternative email app of the moment that tech journos refer to as the must-have, end-all replacement. [Edison Mail](https://itunes.apple.com/us/app/email-edison-mail/id922793622?mt=8) is currently the smoother, faster, most modular option — at least for another few minutes– but I’ll never know it as I know Mail, and I’ll never want to. Playing around with experimental email apps is too scary. What if I decide once again to kill that massive number in the red badge and need to immediately mark 40,000 emails as read? It took all of my iPhone 4’s 1.0Ghz CPU and proprietary software over 18 hours — how am I supposed to trust a shabby little 6-month-old startup with such an important task? Anybody with a hundred bucks can make an app, you know.
 
-### Why is the App Store now the best-looking publishing software on iOS?
+**Why is the App Store now the best-looking publishing software on iOS?**
 
 One might interpret the App Store’s redesign as an attempt by Apple to control this conversation — of both the trending *new thing* and the old“essentials” that you’ve probably had tucked away in an untouched folder for years. Technically, whoever the hell is writing those gorgeously-presented daily bits has made them a publishing company, though I’m not so sure I’m not the last remaining user who’s continued semi-regularly visiting their “Today” section. If I *did* want to actually read about apps (I don’t — who does?) it wouldn’t make much sense to seek critical reviews from the faceless boffins behind the platform itself, regardless of how much better it may look than all of the tech news sites, paywall or no.
 
@@ -30,7 +30,7 @@ Honestly — even if I’d actually been at all informed in my haste, the ph
 
 *The vast majority of the samples in my iPhone 8 Flickr Album were taken within the native Camera app as it ships and left unedited. (Especially before just a few weeks ago, when I [discovered Halide](https://extratone.com/race-day-at-hodges).*
 
-<a data-flickr-embed="true" data-context="true"  href="https://www.flickr.com/photos/davidblue/37929502412/in/album-72157685772166202/" title="favorites from the past few days."><img src="https://live.staticflickr.com/4509/37929502412_6d23e45a9f_b.jpg" width="1024" height="768" alt="favorites from the past few days."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+![Oregon Coast - iPhone 8 Plus](https://i.snap.as/C2LLJAl5.jpg)
 
 Here is an unquestionably sensible progression from which iPhone has never wavered far since its fourth generation [set the standard](http://www.extratone.com/words/inred/iphone4/), but it’s one of an unfortunate few. Siri is still useless and silly apart from its “disable all alarms” feature and its ability to sound itself off in response when you’re hysterically screaming and digging for it through the vast plush of a forty-year-old Lincoln. The customizable Control Center makes toggling low power mode, orientation lock, Wi-Fi, and Bluetooth less frustrating (note the last two [aren’t quite hard switches](https://www.wired.com/story/how-to-turn-off-wifi-and-bluetooth-in-ios11/),) though it should’ve come years ago. Notifications are slightly more sensible -certainly better than they were on Android Gingerbread, but I’ve heard things’ve changed quite a bit since then.
 
@@ -45,4 +45,4 @@ One could argue that good execution of consumer electronic design means minimizi
 
 If the 6S Plus was indeed the key to my immortality, I’m afraid the 8 Plus heralds my imminent demise. Whether or not it’s an early one is for you to decide. This *really is* my last iPhone.
 
-#hardware
+#hardware #software
