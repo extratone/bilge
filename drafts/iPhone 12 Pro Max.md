@@ -53,6 +53,10 @@ down to a depth of six feetYa know, I'm actually astonished by how much of this 
 - [ ] I am still sufficiently hung up on the idea of attaching "Pro" (as in "*professional grade*") to the name of a handset, but it at least makes *far* more sense than "PlayStation Pro."
 - [ ] Probably revisit Type to Siri - I just discovered that you can enable "Hey, Siri" support all the time and *leave Type to Siri on*!
 
+## Apple, Inc.
+
+- [ ] I'm not so sure the "Walled Garden" term really applies when I can now connect my phone to a shared folder on my PC over my local network with zero trouble. And *then*... there's all that one can do with Shortcuts. (Or at least... That they could do in the very beginning.)
+
 ## External
 
 - [ ] [The Test iCloud Photos Album](https://bit.ly/12bbbp)
