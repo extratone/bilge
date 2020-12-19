@@ -54,7 +54,7 @@ The "automated" [Project Board](https://github.com/extratone/bilge/projects/1) I
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">requesting support on how to &quot;leverage discussions&quot; to talk about pee pee and poo poo. <a href="https://twitter.com/hashtag/GitHubUniverse?src=hash&amp;ref_src=twsrc%5Etfw">#GitHubUniverse</a></p>&mdash; ※ David Blue ※ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1336374708753797123?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-GitHub Actions are still more or less a mystery to me, but I am unbothered - *The Psalms*' seems to be producing green text instead of red, now, in the midst of whatever I set it up to do.
+[GitHub Actions](https://github.com/extratone/bilge/actions) are still more or less a mystery to me, but I am unbothered - *The Psalms*' seems to be producing green text instead of red, now, in the midst of whatever I set it up to do. I poked around the livestreams for "GitHub Universe" a few weeks ago, when dark mode and GitHub Discussions were opened up to more users. At the moment, I cannot imagine a single application for forums in the context of my blog's repository, but [I turned them on, anyway](https://github.com/extratone/bilge/discussions).
 
 
 
