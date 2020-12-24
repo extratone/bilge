@@ -54,7 +54,9 @@ The "automated" [Project Board](https://github.com/extratone/bilge/projects/1) I
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">requesting support on how to &quot;leverage discussions&quot; to talk about pee pee and poo poo. <a href="https://twitter.com/hashtag/GitHubUniverse?src=hash&amp;ref_src=twsrc%5Etfw">#GitHubUniverse</a></p>&mdash; ※ David Blue ※ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1336374708753797123?ref_src=twsrc%5Etfw">December 8, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[GitHub Actions](https://github.com/extratone/bilge/actions) are still more or less a mystery to me, but I am unbothered - *The Psalms*' seems to be producing green text instead of red, now, in the midst of whatever I set it up to do. I poked around the livestreams for "GitHub Universe" a few weeks ago, when dark mode and GitHub Discussions were opened up to more users. At the moment, I cannot imagine a single application for forums in the context of my blog's repository, but [I turned them on, anyway](https://github.com/extratone/bilge/discussions).
+[GitHub Actions](https://github.com/extratone/bilge/actions) are still more or less a mystery to me, but I am unbothered - *The Psalms*' seems to be producing green text instead of red, now, in the midst of whatever I set it up to do. I poked around the livestreams for "GitHub Universe" a few weeks ago, when dark mode and GitHub Discussions were opened up to more users. At the moment, I cannot imagine a single application for forums in the context of my blog's repository, but [I turned them on, anyway](https://github.com/extratone/bilge/discussions). It's very possible that all of the documentation-generating functions of Git are entirely unnecessary in this case, but - as I entrust GitHub with the eternal task of archiving such work - it is my hope that it will help me add further structure to my process.
+
+If you've found yourself in possession of a .edu email address and are interested in GitHub related experimentation, see [this list of discounted/free dev programs/services for students](https://education.github.com/pack/offers).
 
 
 
@@ -65,7 +67,7 @@ The "automated" [Project Board](https://github.com/extratone/bilge/projects/1) I
 - [x] [The Project Board](https://github.com/extratone/bilge/projects/1)
 - [x] [In-Progress Drafts](https://github.com/extratone/bilge/tree/main/Drafts)
 - [ ] [October 18th, 2018 Capture](http://web.archive.org/web/20181101000000*/bilge.world)
-- [ ] The [list of discounted/free dev programs for students on GitHub](https://education.github.com/pack/offers).
+- [x] The [list of discounted/free dev programs for students on GitHub](https://education.github.com/pack/offers).
 - [x] [May 1st Capture](https://web.archive.org/web/20200501203946/https://bilge.world/)
 - [ ] Migrating WTF here, moving the domain to a NeoCities landing page. (Gonna really miss those redirects tho...)
 - [ ] [GitWord](https://github.com/vigente/gerardus/wiki/Integrate-git-diffs-with-word-docx-files) ([My backup Gist](https://gist.github.com/extratone/72ad6ae736ae871fb3026bf73f229750))

@@ -20,6 +20,7 @@
 - [ ] I see how "threaded replies" work in iMessage now.
 - [ ] I am still sufficiently hung up on the idea of attaching "Pro" (as in "*professional grade*") to the name of a handset, but it at least makes *far* more sense than "PlayStation Pro."
 - [ ] Probably revisit Type to Siri - I just discovered that you can enable "Hey, Siri" support all the time and *leave Type to Siri on*!
+- [ ] It fits in my (male) pockets without fuss.
 
 ## Apple, Inc.
 
