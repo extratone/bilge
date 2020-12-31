@@ -56,7 +56,9 @@ The "automated" [Project Board](https://github.com/extratone/bilge/projects/1) I
 
 [GitHub Actions](https://github.com/extratone/bilge/actions) are still more or less a mystery to me, but I am unbothered - *The Psalms*' seems to be producing green text instead of red, now, in the midst of whatever I set it up to do. I poked around the livestreams for "GitHub Universe" a few weeks ago, when dark mode and GitHub Discussions were opened up to more users. At the moment, I cannot imagine a single application for forums in the context of my blog's repository, but [I turned them on, anyway](https://github.com/extratone/bilge/discussions). It's very possible that all of the documentation-generating functions of Git are entirely unnecessary in this case, but - as I entrust GitHub with the eternal task of archiving such work - it is my hope that it will help me add further structure to my process.
 
-If you've found yourself in possession of a .edu email address and are interested in GitHub related experimentation, see [this list of discounted/free dev programs/services for students](https://education.github.com/pack/offers).
+![Caslon Bilge Type Capture](https://i.snap.as/vMsQQHSG.png)
+
+If you've found yourself in possession of a .edu email address and are interested in GitHub related experimentation, see [this list of discounted/free dev programs/services for students](https://education.github.com/pack/offers), which includes a free subscription to "GitHub Pro." (Apparently, equivalent to a $4/month service.)
 
 
 
@@ -73,7 +75,7 @@ If you've found yourself in possession of a .edu email address and are intereste
 - [ ] [GitWord](https://github.com/vigente/gerardus/wiki/Integrate-git-diffs-with-word-docx-files) ([My backup Gist](https://gist.github.com/extratone/72ad6ae736ae871fb3026bf73f229750))
 - [ ] [The Bilge Wiki](https://github.com/extratone/bilge/wiki), especially "[David Blue on iPhone & iOS](https://bit.ly/dbipwiki)"
   [David Blue on Television & Film](https://bit.ly/dbtvwiki)
-- [ ] Let me loose with a .edu email account and I *will* find new and interesting ways of utilizing student discounts. (I guess I would normally be paying $4/month for the same features?)
+- [x] Let me loose with a .edu email account and I *will* find new and interesting ways of utilizing student discounts. (I guess I would normally be paying $4/month for the same features?)
 
 
 - [x] "[You Know I'm Blogging](https://bilge.world/you-know-im-blogging)" - April 17th
@@ -104,3 +106,9 @@ If you've found yourself in possession of a .edu email address and are intereste
 <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling=no width="100%" height="auto" frameborder="0" src="https://embed.radiopublic.com/e?if=extratone-radio-WYDa1L&ge=s1!8745637f40247e604f90a6eb871ba02f104cab10"></iframe>
 
 ### Archive?
+
+- [ ] [David Blue Draws Gallery](https://www.notion.so/rotund/7f4664a737d1429eb94d33cb3486e9e0?v=aad96df288034d2dbe4dd667d6b7f543)
+
+## Notes on Upcoming Work
+
+[Siri Shortcuts Repository](https://github.com/extratone/shortcuts)
