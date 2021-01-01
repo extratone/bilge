@@ -22,7 +22,7 @@ I'm mostly blogging because I am fairly stuck on the [Volkwagen Atlas review](ht
 
 [This feature](https://daily.bandcamp.com/features/uk-bleep-and-bass-feature) on the *Bandcamp Daily* regarding "Bleep" has really been my shit. Imagine my 70-year-old mother dancing to [this](https://ceasedesist1.bandcamp.com/track/nightmares-on-wax-21st-kong).
 
-> [Matt] Anniss subsequently went on a local Bristol internet station, penned a blog post, and posted [a DJ set of Bleep](https://www.mixcloud.com/sellbydave/bass-ment-jacks-bleep-history-mix-for-hivemindfm/), as a way to convince those same DJs that his thesis had some merit. He  wrote an in-depth feature on the form for electronic music site [Resident Advisor](https://www.residentadvisor.net/features/2349)—which caused him to think bigger about this formative, unsung moment in UK  dance music history. “I found the sound itself alien and otherworldly,  but also endlessly fascinating for some reason,” he says. “It seemed so  fresh and futuristic still, but also mysterious.”
+> [Matt] Anniss subsequently went on a local Bristol internet station, penned a blog post, and posted [a DJ set of Bleep](https://www.mixcloud.com/sellbydave/bass-ment-jacks-bleep-history-mix-for-hivemindfm/), as a way to convince those same DJs that his thesis had some merit. He wrote an in-depth feature on the form for electronic music site [Resident Advisor](https://www.residentadvisor.net/features/2349)—which caused him to think bigger about this formative, unsung moment in UK dance music history. “I found the sound itself alien and otherworldly, but also endlessly fascinating for some reason,” he says. “It seemed so fresh and futuristic still, but also mysterious.”
 
 ## Software and Stuff
 
@@ -38,7 +38,7 @@ The *other* project I've been trying to distract myself from the Atlas review wi
 
 In late March *Nieman Lab*'s [Laura Hazard Owen](https://twitter.com/laurahazardowen) published "[The long, complicated, and extremely frustrating history of Medium, 2012–present](https://www.niemanlab.org/2019/03/the-long-complicated-and-extremely-frustrating-history-of-medium-2012-present/#footnote_0_169692)," which includes the most complete, linear timeline of the website's existence anyone could ever ask for. Naturally - in classic medium fashion - she begins many of her sentences with "But," which [I really hate](https://twitter.com/NeoYokel/status/1250153204014288902).
 
-> Why spend so much time worrying about what Medium is? Maybe because we  wanted to know whether it was a friend or an enemy. The answer is that  it’s neither. It’s a reflection of what the media industry has worried  about, and hoped for, and not received. But Medium was never something  that we would get to define. Instead, it’s turned out to be an endless  thought experiment into what publishing on the internet could look like. That’s not much fun for people who got burned along the way, but Medium was never exactly ours to begin with.
+> Why spend so much time worrying about what Medium is? Maybe because we wanted to know whether it was a friend or an enemy. The answer is that it’s neither. It’s a reflection of what the media industry has worried about, and hoped for, and not received. But Medium was never something that we would get to define. Instead, it’s turned out to be an endless thought experiment into what publishing on the internet could look like. That’s not much fun for people who got burned along the way, but Medium was never exactly ours to begin with.
 
 ## Other Stuff
 
