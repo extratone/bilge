@@ -4,7 +4,7 @@
 
 ## Screens and software subjects big & small discussed within my most moderate 35,000 words ever.
 
-Believe it or not, the cyclical cold season has once again come to pass! Oh, the [W̘͖̯E̟̹À̫T̯̫͓̪̮͓̼H̝E̪͇̰̘̖͍ͅŔ͍̖̱̟̪](https://youtu.be/qg0ZPmSux_4)!! If the past two days on Twitter were any indication, it is indeed time for a year's-end retrospective on what has been published on this Web Site. Given the extent of the attention I've devoted to bilge.world this past year - both technically and editorially - I thought it would be nice to chuck in a bit more in the pursuit of whacking myself on the back.
+Believe it or not, the cyclical cold season has once again come to pass! Oh, the [W̘͖̯E̟̹À̫T̯̫͓̪̮͓̼H̝E̪͇̰̘̖͍ͅŔ͍̖̱̟̪](https://youtu.be/qg0ZPmSux_4)!! If the past two days on Twitter were any indication, it is indeed time for a year's-end retrospective on what has been published on this Web Site. Given the extent of the attention I've devoted to bilge.world this past year - both technically and editorially - I thought it would be nice to chuck in a bit more in the pursuit of whacking myself on the back. I understand that 2020 has been one helluva catastrophic marker of linear time for just about everyone on Earth - as I write this on its last day, the [inexplicable news of MF Doom's death](https://www.complex.com/music/2020/12/mf-doom-dead-49) has just surfaced and has already hit my adjacent communities remarkably hard.
 
 <blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr"><a href="https://t.co/qb7NsZ8os6">https://t.co/qb7NsZ8os6</a> - May 1st of this year vs. today.<br><br>I had forgotten *a lot* more about CSS and HTML than I originally thought. glad I ended up comfortable enough to find myself with a completely original stylesheet before the end of the year, I suppose. <a href="https://t.co/4QwlbEJECU">pic.twitter.com/4QwlbEJECU</a></p>&mdash; ※ David Blue ※ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1334355680078270464?ref_src=twsrc%5Etfw">December 3, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -62,6 +62,10 @@ If you've found yourself in possession of a .edu email address and are intereste
 
 
 
+## Coming Soon
+
+For better or worse, all of these new exploratory avenues have so far led directly away from the business of *actually writing*
+
 ***
 
 ## GitHub
@@ -99,16 +103,20 @@ If you've found yourself in possession of a .edu email address and are intereste
 - [ ] "[Software Thanksgiving](https://bilge.world/big-thank)" - November 25th
 - [ ] ~35,000 words, ~2 hours of reading.
 - [ ] Most Overdue Drafts!
-- [ ] Imported "[Through an iPhone 4's Lens](https://bilge.world/iphone4-photography)"
-- [ ] Tevin Futureland episode
 - [ ] [Dinkus Discord channel](https://bit.ly/extdinkus)
+  (I may or may not have made the *Extratone* Discord totally uninhabitable with automated posts.)
 
 <iframe sandbox="allow-same-origin allow-scripts allow-top-navigation allow-popups allow-forms" scrolling=no width="100%" height="auto" frameborder="0" src="https://embed.radiopublic.com/e?if=extratone-radio-WYDa1L&ge=s1!8745637f40247e604f90a6eb871ba02f104cab10"></iframe>
 
 ### Archive?
 
 - [ ] [David Blue Draws Gallery](https://www.notion.so/rotund/7f4664a737d1429eb94d33cb3486e9e0?v=aad96df288034d2dbe4dd667d6b7f543)
+- [ ] Imported "[Through an iPhone 4's Lens](https://bilge.world/iphone4-photography)"
+- [ ] [Tevin Futureland episode](https://anchor.fm/extratone/episodes/Esporting-Psycholiterates--Favored-of-Email-en398f/a-a3vklt8)
 
 ## Notes on Upcoming Work
 
-[Siri Shortcuts Repository](https://github.com/extratone/shortcuts)
+- [ ] [Siri Shortcuts Repository](https://github.com/extratone/shortcuts)
+- [ ] [iPhone 12 Pro Max Review](https://github.com/extratone/bilge/issues/45)
+- [ ] [Underdocumented iOS Manuevers](https://github.com/extratone/bilge/issues/56) 
+- [ ] [The Notion Cult](https://github.com/extratone/bilge/issues/12)
