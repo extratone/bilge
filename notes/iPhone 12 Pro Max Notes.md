@@ -29,11 +29,14 @@
 
 ## External
 
+- [ ] [The Flickr Album](https://flic.kr/s/aHsmTiT46W)
 - [ ] [The Test iCloud Photos Album](https://bit.ly/12bbbp)
 - [ ] "[Apple is reportedly canceling some Arcade contracts to focus on ‘engagement’](https://www.theverge.com/2020/6/30/21308657/apple-arcade-canceling-games-subscription-service-engagement)" | *The Verge*
 - [ ] [My Geekbench 4 results](https://browser.geekbench.com/v4/cpu/15929025)
 - [ ] [My SpeedTest results page](https://www.speedtest.net/results?sh=889e0d5b2307328d5161bcee81bc6a75)
 - [ ] [Fucking Twitch Streaming from your iPhone](https://www.twitch.tv/videos/830771152)
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1677747693/size=large/bgcol=fff4e6/linkcol=00006b/tracklist=false/artwork=small/track=3800958501/transparent=true/" seamless><a href="https://dreamutilation.bandcamp.com/album/foar-everywun-frum-mimi">FOAR EVERYWUN FRUM MIMI by MIMIDEATH</a></iframe>
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/6mvt_aAPyhw?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

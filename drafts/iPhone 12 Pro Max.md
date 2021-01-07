@@ -4,15 +4,13 @@
 
 ## I lied.
 
-##  A masterfully- begat 
-
 "This *really is* my last iPhone."
 
 This is the last sentence of [my very sentimental iPhone 8 Plus review](https://bilge.world/iphone-8-plus-review) from May, 2018, in which I bemoaned Apple's decision to finally retire the basic hardware configuration which had defined the marque's first ten years, citing my "loyalty." 
 
 In the past few weeks, I have come to realize that the device which I now hold in my hands - which I *cling to*, in fact, at all hours and completely without reason - is the absolute manifestation of everything my 14-year-old, first generation iPhone-adopting self could have possibly dreamt of in its future.
 
-Unlike my iPhone 8 Plus review - which was a very sentimental reflection on "the last iPhone" designed in the configuration I had understood for a decade and therefore accompanied by a bunch of foolhardy lamentations *bitching* about the iPhone X - this review will be one of sincere wonderment regarding *the thing, itself.* Taken out of 2020 context and placed in my 14-year-old hand in 2009, this Pacific Blue iPhone 12 Pro Max would not have disappointed me in the slightest. By that, I mean... It is as unimaginably capable as I would have imagined. 
+Unlike that iPhone 8 Plus review - which was a very sentimental reflection on "the last iPhone" designed in the configuration I had understood for a decade and therefore accompanied by a bunch of foolhardy lamentations *bitching* about the iPhone X - this review will be one of sincere wonderment regarding *the thing, itself.* Taken out of 2020 context and placed in my 14-year-old hand in 2009, this Pacific Blue iPhone 12 Pro Max would not have disappointed me in the slightest. By that, I mean... It is as unimaginably capable as I would have imagined. 
 
 ![The Original](https://i.snap.as/Ep06W6A9.jpg)
 
@@ -22,7 +20,7 @@ about the tools we use to make things: how we learned to make them, how we learn
 
  into a hypothetical future which 
 
-
+![iPhone 12 Pro Max Physical Controls Diagram](https://i.snap.as/aln4F1N2.png)
 
 
 
