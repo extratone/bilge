@@ -19,6 +19,8 @@
 
 ⁜ "iPhone 12 Pro Max" - [*Coming Soon*](https://github.com/extratone/bilge/issues/45)
 
+⁜ "Underdocumented iOS Maneuvers" - [*Coming Soon*](https://github.com/extratone/bilge/issues/56)
+
 ### Other Stuff
 
 * [iOS Apps To Watch](http://simp.ly/p/kq5Khv) (Pretty out of date Simplenote.)
