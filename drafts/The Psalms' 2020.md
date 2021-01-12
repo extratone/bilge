@@ -112,7 +112,7 @@ For better or worse, all of these new exploratory avenues have so far led direct
 
 - [ ] [David Blue Draws Gallery](https://www.notion.so/rotund/7f4664a737d1429eb94d33cb3486e9e0?v=aad96df288034d2dbe4dd667d6b7f543)
 - [ ] Imported "[Through an iPhone 4's Lens](https://bilge.world/iphone4-photography)"
-- [ ] [Tevin Futureland episode](https://anchor.fm/extratone/episodes/Esporting-Psycholiterates--Favored-of-Email-en398f/a-a3vklt8)
+- [ ] [Tevin *Futureland* ep0q0isode](https://anchor.fm/extratone/episodes/Esporting-Psycholiterates--Favored-of-Email-en398f/a-a3vklt8)
 
 ## Notes on Upcoming Work
 
