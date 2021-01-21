@@ -1,6 +1,6 @@
 # Underdocumented iOS Maneuvers
 
-Since the very moment the iPhone was first unveiled to the world, we have have been told over and over again how wonderfully intuitive and easy to use its operating system is/was. Ease of use was leaned heavily upon by Apple in iPhone OS' adolescence as justification for its omission of certain features (both actively and by chance) which
+Since the very moment the iPhone was first unveiled to the world, we have have been told over and over again how wonderfully intuitive and easy to use its operating system is/was. Ease of use was leaned heavily upon by Apple in iPhone OS' adolescence as justification for its omission of certain features (both actively and by chance) which its direct, Android-running rivals would then often make their next flagship int
 
 
 

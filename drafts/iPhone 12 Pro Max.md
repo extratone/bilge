@@ -10,6 +10,8 @@ This is the last sentence of [my very sentimental iPhone 8 Plus review](https://
 
 In the past few weeks, I have come to realize that the device which I now hold in my hands - which I *cling to*, in fact, at all hours and completely without reason - is the absolute manifestation of everything my 14-year-old, first generation iPhone-adopting self could have possibly dreamt of in its future.
 
+![Original iPhone Activation](https://i.snap.as/nqhmSK4U.png)
+
 Unlike that iPhone 8 Plus review - which was a very sentimental reflection on "the last iPhone" designed in the configuration I had understood for a decade and therefore accompanied by a bunch of foolhardy lamentations *bitching* about the iPhone X - this review will be one of sincere wonderment regarding *the thing, itself.* Taken out of 2020 context and placed in my 14-year-old hand in 2009, this Pacific Blue iPhone 12 Pro Max would not have disappointed me in the slightest. By that, I mean... It is as unimaginably capable as I would have imagined. 
 
 ![The Original](https://i.snap.as/Ep06W6A9.jpg)
