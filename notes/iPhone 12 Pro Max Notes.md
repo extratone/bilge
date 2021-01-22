@@ -45,3 +45,6 @@
 - [ ] [morganath on Mastodon regarding the Home Button](https://social.tchncs.de/@morganth/105330295770710815)
 - [ ] The case!
 
+# Software (Apps)
+
+### An age old question: how long do you cling on to native iOS apps (Mail, Podcasts, Weather, etc.) after other offerings have surpassed them simply because they integrate better(?)
