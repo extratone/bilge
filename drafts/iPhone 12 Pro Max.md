@@ -2,6 +2,8 @@
 
 ![Big Boy; Big Phone](https://i.snap.as/KtqMF5Ky.jpg)
 
+![iPhone 12 Pro Max](https://i.snap.as/z14yUmRp.jpeg)
+
 ## I lied.
 
 "This *really is* my last iPhone."
