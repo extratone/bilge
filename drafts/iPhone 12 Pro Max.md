@@ -31,3 +31,8 @@ about the tools we use to make things: how we learned to make them, how we learn
 it is a guarantee that no matter where I may go or who I may find myself unwittingly surrounded by, the option to escape into my own Computing World *in its entirety* and more - not just an abbreviated, **Mobile** facsimile - shall from now on and forever be with me, there against my right asscheek, just a grab and a glance away. Like The Holy Spirit was it pledged and prepared to stay by my side.
 
 down to a depth of six feetYa know, I'm actually astonished by how much of this ritual *hasn't* changed.
+
+```html
+<a class="twitter-timeline" data-theme="light" href="https://twitter.com/NeoYokel/timelines/1354848736350973953?ref_src=twsrc%5Etfw">iPhone 12 Pro Max - Curated tweets by NeoYokel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+
