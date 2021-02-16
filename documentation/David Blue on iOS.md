@@ -21,6 +21,12 @@
 
 ⁜ "Underdocumented iOS Maneuvers" - [*Coming Soon*](https://github.com/extratone/bilge/issues/56)
 
+## Video
+
+* "[**Toot! for iOS Demo: All of Your Billion Dollar Social Apps are For SCRUBS**](https://youtu.be/LdBFMibyh3Y)"
+* "[Creating a New WordPress Site - WordPress for iOS Demonstration](https://youtu.be/BYOdugyqV34)"
+* "[iOS App Demo: Unichar](https://youtu.be/AS2S9_vBcDs)"
+
 ### Other Stuff
 
 * [iOS Apps To Watch](http://simp.ly/p/kq5Khv) (Pretty out of date Simplenote.)
