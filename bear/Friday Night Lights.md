@@ -1,3 +1,0 @@
-# Friday Night Lights
-Save for golf, I have always been less interested in football than literally any other spectator sport and yet I am *so* glad I watched this film again as an adult and actually gave it my attention. What a tremendous filmmaking triumph! Surely there is no other that matches its portrayal of the gargantuan, tragic spectacle that is American football. I couldn’t help but marvel this time at the thought of just how difficult it must have been to create this movie... I don’t know anything about choreography, but reenacting those plays without making them look choreographed must have been daunting as fuck. 
-Most of all, though, I’m glad I actually understand the meaning behind the title of Big KRIT’s “[Boobie Miles](https://youtu.be/B9KiXVom3H0).”

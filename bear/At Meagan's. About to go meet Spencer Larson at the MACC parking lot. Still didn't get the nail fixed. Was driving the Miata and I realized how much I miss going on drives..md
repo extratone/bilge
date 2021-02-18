@@ -1,1 +1,0 @@
-At Meagan's. About to go meet Spencer Larson at the MACC parking lot. Still didn't get the nail fixed. Was driving the Miata and I realized how much I miss going on drives.

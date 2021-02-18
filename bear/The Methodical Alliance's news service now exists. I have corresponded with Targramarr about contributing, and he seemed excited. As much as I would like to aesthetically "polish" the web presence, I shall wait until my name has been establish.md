@@ -1,1 +1,0 @@
-The Methodical Alliance's news service now exists. I have corresponded with Targramarr about contributing, and he seemed excited. As much as I would like to aesthetically "polish" the web presence, I shall wait until my name has been established before I do so.

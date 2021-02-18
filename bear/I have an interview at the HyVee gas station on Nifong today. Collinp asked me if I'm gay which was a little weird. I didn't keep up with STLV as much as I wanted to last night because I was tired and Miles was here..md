@@ -1,1 +1,0 @@
-I have an interview at the HyVee gas station on Nifong today. Collinp asked me if I'm gay which was a little weird. I didn't keep up with STLV as much as I wanted to last night because I was tired and Miles was here.
