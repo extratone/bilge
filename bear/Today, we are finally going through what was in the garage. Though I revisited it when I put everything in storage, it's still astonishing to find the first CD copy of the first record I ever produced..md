@@ -1,0 +1,3 @@
+Today, we are finally going through what was in the garage. Though I revisited it when I put everything in storage, it's still astonishing to find the first CD copy of the first record I ever produced.
+
+![](Today,%20we%20are%20finally%20going%20through%20what%20was%20in%20the%20garage.%20Though%20I%20revisited%20it%20when%20I%20put%20everything%20in%20storage,%20it's%20still%20astonishing%20to%20find%20the%20first%20CD%20copy%20of%20the%20first%20record%20I%20ever%20produced./b0bdd2e56bb9b4f0787cfeca97331892.jpeg)

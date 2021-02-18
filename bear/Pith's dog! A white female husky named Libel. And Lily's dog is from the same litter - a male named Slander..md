@@ -1,0 +1,1 @@
+Pith's dog! A white female husky named Libel. And Lily's dog is from the same litter - a male named Slander.

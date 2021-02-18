@@ -1,0 +1,2 @@
+# iPhone 12 Pro Max
+Precisely 4750 days ago (give or take a few hours,) my First Generation iPhone was activated on an exceptionally cold Saturday – January 19th, 2008, just eight days before my fourteenth birthday. Obviously, it would be ridiculous for me to try and conjure up any realistic image of my day-to-day thoughts back then, but I remember watching [Steve Jobs’ original introduction of The Apple Phone](https://youtu.be/e7EfxMOElBE) at MacWorld 2007 one year prior and how *of the future* it seemed - more than any other consumer technology product I’d ever seen. 

@@ -1,0 +1,1 @@
+Eating at Flat Branch after the wedding. I walked in during the vows....  It was bad. But Meagan's mom isn't mad. Her sister and crew are here too + Adam and Andy. We might move them into the Clinton house with the truck today.

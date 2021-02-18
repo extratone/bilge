@@ -1,0 +1,1 @@
+I dreamt I was in a classroom. Meagan was there along with Rocky and some other people I may know. We were being taught by the president of the United States, who wasn't Obama. Crop dusting was discussed, along with other things that could only come from me.

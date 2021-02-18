@@ -1,0 +1,2 @@
+# Another Good Prospect
+I think I’ve arrived upon my best potential solution yet for this whole life ordeal: at this point, it’s absolutely idiotic that I’m not doing whatever it takes to simply get as rich as fucking possible.

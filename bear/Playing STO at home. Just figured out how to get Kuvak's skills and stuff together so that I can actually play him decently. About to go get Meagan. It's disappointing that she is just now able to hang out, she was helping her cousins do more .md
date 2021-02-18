@@ -1,0 +1,1 @@
+Playing STO at home. Just figured out how to get Kuvak's skills and stuff together so that I can actually play him decently. About to go get Meagan. It's disappointing that she is just now able to hang out, she was helping her cousins do more moving stuff. Mom talked to me today and said basically "you'd better get a fucking job soon" so yeah.

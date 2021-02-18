@@ -1,0 +1,1 @@
+At Mike's. The last day here. Tired as hell. Algebra final went badly. Moving more stuff with Adam tomorrow.
