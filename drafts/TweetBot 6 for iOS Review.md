@@ -1,4 +1,4 @@
-# TweetBot 6 for iOS Review
+# Tweetbot 6 for iOS Review
 
 ![Tweetbot Resurrection](https://i.snap.as/hAYKYfwL.jpg)
 
