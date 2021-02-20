@@ -1,4 +1,6 @@
-# TweetBot 6 for iOS Review
+# Tweetbot 6 for iOS Review
+
+![Tweetbot Resurrection](https://i.snap.as/hAYKYfwL.jpg)
 
 ![Various - Tweetbot 6](https://i.snap.as/OgxERkXE.png)
 
@@ -51,17 +53,25 @@ shortcuts, I *will* shit out my whole ass.)
 ## Present
 Before I dig into the controversy and hypotheticals surrounding what Tweetbot 6 might become, let’s take a moment to qualify it vs all of one’s options to interact with Twitter on iOS *currently* (as in, Feb 11, 2021 at 19:24.) It’s almost certainly premature to do so, but skeptical readers would note, I’m sure, that its listing on the App Store is “early release” in name only, that I have just spent money on this specific version, which should therefore render inert the normal exceptions a review would make for beta or pre-release software.
 
-<iframe src="https://cybre.space/@caesarologia/105718644120433124/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
-
-
-
-
+<iframe src="https://cybre.space/@caesarologia/105718644120433124/embed" class="mastodon-embed" style="max-width: 100%; border: 0" height="200" width="400" allowfullscreen="allowfullscreen"></iframe>
 
 ![All Tweetbot Themes](https://i.snap.as/W884QXpS.png)
 
 ## The Subscription Issue
-Notice that almost every single one of the stories linked above contains mention of Tweetbot’s move to recurring subscriptions in its header. 
+For as long as I can remember, both the MacOS and iOS versions of Tweetbot have always possessed a more-or-less undefinable (perhaps Apple Development- specific) quality that’s noticeably set them apart from their direct competitors. I didn’t fully understand why they “feel” so much more “right” until I started making my way through this [list of all the interviews/podcast appearances](https://github.com/extratone/bilge/issues/59#issuecomment-778762784) by Tapbots’ iOS code wizard, [Paul Haddad](https://twitter.com/tapbot_paul), who comments in variations the same argument for a *very* deliberate developmental pace. The first time, with a *MacWorld* journalist on some steps outside WWDC 2013, I assumed he was just tossing some self-deprecation around to casualize the interview:
 
-Now that you’re familiar with my personal investment in Twitter and Tweetbot, perhaps you’re better equipped to understand 
+*Frankly, we’re slow at doing stuff.*
 
-#software
+Yes, you are, Tapbot… From a returning user’s perspective, it’s hard to understand what in Gourd’s name they’ve been doing. I listened and read through every Tapbots interview I could find - all but one with Paul, who has through the years continued to come across as a sensitive, well-read, even *wise* professional developer with a healthy, professional outlook on the work of his little (relatively) weathered company and its place within the warp speed nightmare that is the mobile software industry. I suppose I was expecting to find an explanation for what I saw initially as a minimal regard for Tweetbot’s history, in contrast to 6’s announcement. I wouldn’t find it, though, because in truth, I was sure I already knew it: Twitter made it clear over a decade ago - just after they’d purchased Tweetie and slapped their own name on it - that they had no intention of competing in the client space, so [third-party developers were no longer welcome](https://www.macstories.net/stories/twitter-to-developers-enough-with-the-twitter-clients/).
+
+> Developers have told us that they’d like more guidance from us about the best opportunities to build on Twitter.  More specifically, developers ask us if they should build client apps that mimic or reproduce the mainstream Twitter consumer client experience. The answer is no.  
+>
+> As we point out above, we need to move to a less fragmented world, where every user can experience Twitter in a consistent way.  
+
+I’ve spent enough time in The App Space (read: Phone Dude Hell) to expect a lot of melodrama, largely without judgement, considering how generally awful the big vendors have made the whole situation. The business legality of the story was [spiked into the mainstream conversation](https://www.nytimes.com/2020/06/19/opinion/apple-app-store-hey.html) last year by [controversy](https://reddit.com/r/extratown/comments/hbncn6/news_surrounding_hey_the_upcoming_email_service/) encouraged by Basecamp following some pretty toxic, retaliatory correspondence from Apple regarding their plan to subsidize their new email service, HEY. Frankly, I’ve found such stories - about clashes between big software companies over mediocre, uninspiring, and sometimes just downright *bad* software - ridiculously exhausting and less and less interesting, lately, as I’ve realized that the most innovative, quality work I have experienced has basically all come from the tiniest teams. The most groundbreaking projects and products I’ve bothered to show and tell, here - [Unichar](https://bilge.world/unichar-for-ios-app-review), [Zalgo Generator](https://bilge.world/zalgo-generator-ios-app-review), [Bear](https://bilge.world/poweruser-tips-software-shortcuts), [Toot!](https://youtu.be/LdBFMibyh3Y), [Mastonaut](https://youtu.be/k7KDk-VV6wc), [Mast](https://youtu.be/8Sss0gzpoeQ), etc. - were all built by individual developers except for Shiny Frog’s Bear. (Their team currently numbers 16, by my count.) Each one of those hyperlinks eventually leads to a form of my same rant: **why the fuck won’t tech media talk about genuine innovation anymore**. 
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/mark-jardine-and-paul-haddad-tapbots-founders-talk-21/id1164554936?i=1000388739028"></iframe>
+
+> I personally hate that question because, you know… it just will get done when it gets done… We’re definitely slow. We go over every screen, every detail over and over again until we get it right. That takes time, which is why we don’t talk about upcoming projects.  
+
+ 
