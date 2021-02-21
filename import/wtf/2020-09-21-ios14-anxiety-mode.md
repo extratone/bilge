@@ -58,8 +58,6 @@ To focus a bit, let's look specifically at a _Gizmodo_ article published this pa
 16. **Get cycling directions in Apple Maps**: No! Cut that out!
 17. **Plan a journey in an electric vehicle**: I'm not joking when I suggest that this fits perfectly into iOS 14's _Anxiety Mode Enchancement_ theme: all this really means is _We've added the new Apple Range Anxiety app_!
 
-[![](images/Apple-Maps-Guide-on-The-Web.png)](https://guides.apple.com/?ug=ChNDb2x1bWJpYSBFc3NlbnRpYWxzEg0Irk0Q9afRyfG15J1VEg4Irk0QjZS24KKtt%2FaIARINCK5NEM3DzPio6eW5bxINCK5NEIiv4bu1z92nCA%3D%3D)
-
 [David Blue's Guide to Columbia, Missouri](https://davidblue.wtf/columbiaguide) renders surprisingly beautifully on a desktop browser.
 
 Yes, there _are_ examples of genuine progress. The Guides feature in Maps (seen above) probably could/should have been added a long time ago, but at least Apple executed it quite elegantly. I'm could've _sworn_ sharing your ETA has been possible from within Maps since like... iOS 7 or something, but perhaps I was thinking of [Waze](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106). **Wallpapers for CarPlay** are one of those features that didn’t occur to me to want, but I did/do. Also - though my personal experience with CarPlay has been limited - I can definitely imagine more layout options (“Horizontal status bar”) will be useful in _fringe_ use cases.
