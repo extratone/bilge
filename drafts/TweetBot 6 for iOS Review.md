@@ -1,4 +1,4 @@
-# Tweetbot 6 for iOS Review
+
 
 ![Tweetbot Resurrection](https://i.snap.as/hAYKYfwL.jpg)
 
@@ -68,7 +68,7 @@ For as long as I can remember, both the MacOS and iOS versions of Tweetbot have 
 
 Yes, you are, Tapbot… From a returning user’s perspective, it’s hard to understand what in Gourd’s name they’ve been doing. I listened and read through every Tapbots interview I could find - all but one with Paul, who has through the years continued to come across as a sensitive, well-read, even *wise* professional developer with a healthy, professional outlook on the work of his little (relatively) weathered company and its place within the warp speed nightmare that is the mobile software industry. I suppose I was expecting to find an explanation for what I saw initially as a minimal regard for Tweetbot’s history, in contrast to 6’s announcement. I wouldn’t find it, though, because in truth, I was sure I already knew it: Twitter made it clear over a decade ago - just after they’d purchased Tweetie and slapped their own name on it - that they had no intention of competing in the client space, so [third-party developers were no longer welcome](https://www.macstories.net/stories/twitter-to-developers-enough-with-the-twitter-clients/).
 
-> Developers have told us that they’d like more guidance from us about the best opportunities to build on Twitter.  More specifically, developers ask us if they should build client apps that mimic or reproduce the mainstream Twitter consumer client experience. The answer is no.
+> Developers have told us that they’d like more guidance from us about the best opportunities to build on Twitter. More specifically, developers ask us if they should build client apps that mimic or reproduce the mainstream Twitter consumer client experience. The answer is no.
 >
 > As we point out above, we need to move to a less fragmented world, where every user can experience Twitter in a consistent way.
 
