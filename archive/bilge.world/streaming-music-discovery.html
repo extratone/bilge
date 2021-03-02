@@ -1,0 +1,659 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+	<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+		<meta charset="utf-8">
+
+		<title>Concerning Discovery in Streaming Music &mdash; The Psalms</title>
+		
+		<link rel="stylesheet" type="text/css" href="https://files.writeas.org/css/write.a4a766dc8aba9afdc8e24.css" />
+		
+		<link rel="shortcut icon" href="https://i.snap.as/iTL3WJk.png" />
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<link rel="canonical" href="streaming-music-discovery.html" />
+		<meta name="generator" content="Write.as">
+		<meta name="title" content="Concerning Discovery in Streaming Music &mdash; The Psalms">
+		<meta name="description" content="Dark Wrapped 2020 - Spotify  Reclaiming tastemaking for listeners in the Spotify era.  Last week, Spotify users were treated to the servi...">
+		
+		<meta name="twitter:label1" value="Views">
+		<meta name="twitter:data1" value="399">
+		<link rel="author" href="index.html" />
+		<meta name="author" content="The Psalms" />
+		<meta itemprop="description" content="Dark Wrapped 2020 - Spotify  Reclaiming tastemaking for listeners in the Spotify era.  Last week, Spotify users were treated to the servi...">
+		<meta itemprop="datePublished" content="2020-12-09" />
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:description" content="Dark Wrapped 2020 - Spotify  Reclaiming tastemaking for listeners in the Spotify era.  Last week, Spotify users were treated to the servi...">
+		<meta name="twitter:title" content="Concerning Discovery in Streaming Music &mdash; The Psalms">
+		<meta name="twitter:image" content="https://i.snap.as/BROnhF3Z.png">
+		<meta property="og:title" content="Concerning Discovery in Streaming Music" />
+		<meta property="og:description" content="Dark Wrapped 2020 - Spotify  Reclaiming tastemaking for listeners in the Spotify era.  Last week, Spotify users were treated to the servi..." />
+		<meta property="og:site_name" content="The Psalms" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="http://bilge.world/streaming-music-discovery" />
+		<meta property="og:updated_time" content="2020-12-09T06:00:29Z" />
+		<meta property="og:image" content="https://i.snap.as/BROnhF3Z.png" /><meta property="og:image" content="https://i.snap.as/jKs57Tfw.png" />
+		<meta property="article:published_time" content="2020-12-09T06:00:29Z">
+		
+        
+		<style type="text/css">/* Written in November 2020 by David Blue for bilge.world.
+
+Full, up-to-date source code available at https://github.com/extratone/bilge/
+
+Version 3.0 ?????? ?????: https://github.com/extratone/bilge/releases/tag/3.0
+
+# [The Unlicense, Dave Edition](https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1)
+
+Considering my use of Git as a means to track revisions on my own writing, it's important to note that you should feel free to replace all instances of "software" in the above statement with "words," "writing," "expression," etc.
+
+While I appreciate tremendously the work and contribution of [Arlo Bendiken](https://ar.to/2010/01/set-your-code-free) in the form of The Unlicense, I would like to add that I see no need, personally, to make the refutation of Intellectual Property law regarding my own work into some profound ethical statement. As it stands, I have not to my knowledge been the victim of any sort of theft of any kind, and find the suggestion highly unlikely. If I *am*  made aware of such a case, there is certainly a possibility that I may change my mind on this issue, so I suppose I should highlight that **THESE TERMS ARE SUBJECT TO CHANGE**, though I suspect I would be more flattered and/or amused than actually offended. 
+
+I would also like to annotate that my use of this license should not be regarded as a suggestion that anyone else follow my example, or that I "believe in" taking such action regarding one's work, generally. While I did indeed take the time to set up [a repository](https://github.com/extratone/eoi) of John Perry Barlow's "[The Economy of Ideas](https://www.wired.com/1994/03/economy-ideas/)" in a bunch of different document formats, I do not necessarily agree with all of what he argued, especially in the context of the world 27 years later. If you *are* particularly interested in my opinion on the matter for whatever reason, here is what I have to say to you:
+
+The principled beginning of The Open Web was a great moment in history, but - like all historical principles - it is extremely important that we consider *context* and maintain an appropriate level of criticism when looking back on old manifestos written by old white guys. In general, try your best to *be reasonable*.
+
+***
+
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <https://unlicense.org>
+
+*/
+
+@import url('https://use.typekit.net/kst2rrh.css');
+
+body {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #FFF4E6;
+}
+
+/* old background-color: #f2f2f2 */
+
+#blog-title a {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    /* font-style:bold !important; */
+    color: #00006b;
+}
+
+header nav a {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+header p.description {
+    /* font-style: italic; */
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    line-height: 200% !important;
+    color: #00006b !important;
+    font-size: 1em;
+    margin-left: inherit;
+    margin-right: inherit;
+}
+
+body#collection header {
+    margin-bottom: 1em !important;
+}
+
+
+header nav a {
+    color: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    /* margin-bottom: 1em; */
+}
+
+body,
+article {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    line-height: 155%;
+    font-size: 1.1em !important;
+    color: #000000;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    /* margin-top:1rem !important; */
+}
+
+
+body,
+article a:link {
+    color: #00006b;
+}
+
+body,
+article a:visited {
+    color: #FF0000;
+}
+
+h1 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-size: 2em !important;
+}
+
+h2 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1.4em !important;
+}
+
+h3 {
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    font-weight: 600;
+    font-size: 1.3em !important;
+}
+
+h4 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h5 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h6 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: .85em !important;
+}
+
+code {
+    background-color:#f7ff85 !important;
+    border: 1px solid #00006b !important;
+    border-radius: 2px !important;
+    font-size: 0.75em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    padding: 0px 0px 0px 0px !important;
+}
+
+.post-title a:visited,
+.post-title a:link {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    color: #00006b !important;
+    font-size: 1.7rem !important;
+}
+
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b !important;
+    font-size: 1rem !important;
+}
+
+body footer nav {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b;
+}
+
+blockquote {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    color: #333333 !important;
+    border-left: 2.5px solid #00006b !important;
+}
+
+hr {
+    border: 2px solid red;
+}
+
+
+body footer a.home:link,
+body footer a.home:visited {
+    color: #00006b;
+}
+
+.action {
+    font-family: proxima-nova-condensed, sans-serif;
+}
+
+nav#manage ul a {
+    color: #00006b;
+}
+
+nav#paging a {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+}
+
+
+a.bt {
+    background-color: #0d0d0d !important;
+    color: #00006b !important;
+}
+
+a.hashtag {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: #00006b !important;
+}
+
+body#collection #wrapper time,
+body#subpage #wrapper time,
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 0.95em;
+    color: #00006b !important;
+}
+
+
+.custom-nav {
+    text-align: center;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: red;
+}
+
+.custom-nav a:link,
+.custom-nav a:visited,
+.custom-nav a:hover,
+.custom-nav a:active {
+    color: #00006b;
+}
+
+.custom-nav a:hover,
+.custom-nav a:active {
+    text-decoration: underline;
+}
+
+#subscribe-btn {
+    border: 1px #FF0000;
+    background: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: #FFF4E6;
+}
+
+#emailsub {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+}
+
+.footnote, .footnote-ref {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /* margin-left:2.5px; */
+    color: #da2573 !important;
+    font-size: 1.1em;
+    text-decoration:underline #FF0000;
+}
+
+.footnote-ref {
+    margin-left:25px;
+}
+
+.footnote-ref-text {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+    color: #1c0021 !important;
+    font-size: 1em;
+    border-top: #00006b dotted 1px;
+}</style>
+		
+
+	</head>
+	<body id="post">
+		
+		<div id="overlay"></div>
+
+		<header>
+		<h1 dir="ltr" id="blog-title"><a rel="author" href="index.html" class="h-card p-author">The Psalms</a></h1>
+			<nav>
+				
+				<a class="pinned" href="about.html">About</a><a class="pinned" href="reading.html">Reading</a><a class="pinned" href="podcast.html">Podcast</a>
+				
+				
+			</nav>
+		</header>
+
+		
+
+		<article id="post-body" class="norm h-entry "><h2 id="title" class="p-name dated">Concerning Discovery in Streaming Music</h2><time class="dt-published" datetime="2020-12-09T06:00:29Z" pubdate itemprop="datePublished" content="2020-12-09 06:00:29 &#43;0000 UTC">December 9, 2020</time><div class="e-content"><p><img src="https://i.snap.as/BROnhF3Z.png" alt="Dark Wrapped 2020 - Spotify"/></p>
+
+<h2 id="reclaiming-tastemaking-for-listeners-in-the-spotify-era">Reclaiming tastemaking for listeners in the Spotify era.</h2>
+
+<p>Last week, Spotify users were treated to the service’s annual “<a href="https://newsroom.spotify.com/2020-12-01/6-new-features-to-unwrap-in-your-spotify-2020-wrapped/" rel="nofollow">Spotify Wrapped</a>” feature: a visual summary of an account’s listening habits throughout the year, including their most listened-to artists. New for 2020 are “in-app quizzes,” a chronological “Story of Your 2020,” and detailed podcast listening statistics. For premium users, “badges” will “crown listeners with various titles based on the ways they listened.”</p>
+
+<blockquote><p>For example, if a number of your playlists gained significant new followers, you’ll be a <em>Tastemaker.</em> If you listened to a song before it was cool (aka hit 50,000 streams), you’ll get the <em>Pioneer</em> badge. And based on the number of songs you added to playlists this year, you just might become a <em>Collector</em>.</p></blockquote>
+
+<p>Their use of the term <em>Tastemaker</em> is particularly interesting. “Tastemaking” – a function once relegated to magazines – has taken a concerning bent in the Algorithmic Age. Very much contemporary terms like “<a href="https://megaphone.link/VMP4291212808" rel="nofollow">filter bubble</a>” and “<a href="https://www.culturedmag.com/shouts-echo-chamber/" rel="nofollow">echo chamber</a>” – applied more and more often to social platforms like Facebook and Twitter, now – can also be associated with music streaming services like Spotify, who’s “playlistification” of content has had a number of alarming effects on American culture.</p>
+
+<p><img src="https://i.snap.as/jKs57Tfw.png" alt="Premium Badges - Spotify"/></p>
+
+<p>In 2018, <em>The Baffler</em>’s Liz Pelly explored Spotify playlists’ gender bias in “<a href="https://thebaffler.com/latest/discover-weakly-pelly" rel="nofollow">Discover Weekly</a>:”</p>
+
+<blockquote><p>On Today’s Top Hits, I found that over the course of one month, 64.5 percent of the tracks were by men as the lead artist, with 20 percent by women and 15.5 percent relying on collaborations between men and women artists. When all features were taken into consideration, I found that 85.5 percent of tracks included men artists, while only 45.5 percent included women. This was one of the highest percentages of women artists out of all the playlists I examined.</p></blockquote>
+
+<p>She also quotes a LinkedIn post by “Jerry Daykin, the Head of Media Partnerships at Diageo,” in which he observes, “The most popular tracks on Spotify get featured in more playlists and become even more popular as a result.” In January of the same year, the online music magazine <em>Pitchfork</em> published an op-ed by musician Damon Krukowski entitled “<a href="https://pitchfork.com/features/oped/how-to-be-a-responsible-music-fan-in-the-age-of-streaming/" rel="nofollow">How to Be a Responsible Music Fan in the Age of Streaming</a>,” which provided concrete statistics on this phenomenon (emphasis mine:)</p>
+
+<blockquote><p>According to the data trackers at <a href="http://www.buzzanglemusic.com/" rel="nofollow">BuzzAngle Music</a>, [on Spotify,] more than <strong>99 percent of audio streaming is of the top 10 percent most-streamed tracks</strong>. Which means <strong>less than 1 percent of streams account for all other music</strong>.</p></blockquote>
+
+<p>“While streaming media is pitched to us as tailored to our taste, or at least to our browsing history,” Krukowski goes on to note, “the business of it is in fact closer to one-size-fits-all.” Clearly, this is an issue, but technically <strong>only insofar as Spotify advertises itself as a means to discover new music</strong>, which <a href="https://www.spotify.com/us/about-us/contact/" rel="nofollow">it does consistently</a>.</p>
+
+<p>The company has faced criticism in other areas, most recently by <em>The New Yorker</em>’s Alex Ross in a widely-read review of “<a href="https://mitpress.mit.edu/books/decomposed" rel="nofollow">Decomposed: The Political Ecology of Music</a>,” a new book by University of Oslo professor Kyle Devine, entitled “<a href="https://www.newyorker.com/culture/cultural-comment/the-hidden-costs-of-streaming-music" rel="nofollow">The Hidden Costs of Streaming Music</a>.” Ross first cites a statement by Spotify CEO Daniel Elk, “The artists today that are making it realize that it’s about creating a continuous engagement with their fans,” arguing the true meaning of his words to be “to make a living as a musician, you need to claw desperately for attention at every waking hour.” His most original (as in, yet to be considered in the mainstream discourse) argument, though, involves the service’s environmental impact. He cites Devine’s depiction of a profound cultural delusion surrounding the consumption of music, suggesting that music is “seen as a special pursuit that somehow transcends the conditions of its production.”</p>
+
+<blockquote><p>In a chapter on the digital and streaming era, Devine drives home the point that there is no such thing as a nonmaterial way of listening to music: “The so-called cloud is a definitely material and mainly hardwired network of fiber-optic cables, servers, routers, and the like.” This concealment of industrial reality, behind a phantasmagoria of virtuality, is a sleight of hand typical of Big Tech, with its genius for persuading consumers never to wonder how transactions have become so shimmeringly effortless.</p></blockquote>
+
+<p>Also noteworthy are questions of Spotify’s viability as a business, which Ross includes by citing <a href="https://www.barrons.com/articles/spotifys-losses-widen-as-subscribers-keep-growing-51596034688" rel="nofollow">a July article in <em>Barrons</em></a> quoting Spotify Technology’s second-quarter earnings report: “The streaming music company lost $418 million, or $2.24 per share, versus analysts’ expectations for a 41-cent loss.” Spearheading this year’s news conversation surrounding the company, though, were its widespread acquisitions in the Podcasting industry, including <a href="https://www.theverge.com/2019/2/6/18213462/spotify-podcasts-gimlet-anchor-acquisition" rel="nofollow">Anchor</a>, <a href="https://www.theverge.com/2020/11/10/21557458/spotify-megaphone-podcast-streaming-ad-insertion" rel="nofollow">Megaphone</a>, <a href="https://www.vox.com/2019/2/7/18214941/alex-blumberg-matt-lieber-gimlet-spotify-deal-acquisition-peter-kafka-media-podcast-audio-interview" rel="nofollow">Gimlet Media</a>, and – <a href="https://www.nytimes.com/2020/05/25/opinion/joe-rogan-spotify-podcast.html" rel="nofollow">most controversially</a> – the exclusive rights to the most listened-to property in the medium, <a href="https://www.theverge.com/21265005/spotify-joe-rogan-experience-podcast-deal-apple-gimlet-media-ringer" rel="nofollow"><em>The Joe Rogan Experience</em></a>. Though details of their implications are beyond the scope of this essay, it is reasonable to assume its concerns – if not its proposed solutions – should apply to the future of podcasting as well.</p>
+
+<h2 id="responsible-curation">Responsible Curation</h2>
+
+<p>For solutions to address Spotify’s overwhelming skew toward rewarding popular music with even more popularity, we can first look within its own history to just a few years earlier, when human curation was more equally matched in its fight against algorithmic curation. In 2015, the company claimed that “<a href="https://pitchfork.com/features/article/9686-up-next-how-playlists-are-curating-the-future-of-music/" rel="nofollow">Half of Spotify users stream from other users’ playlists at least monthly</a>.” <em>Pitchfork</em>’s Marc Hogan profiled a number of “power users” within the upper percentile in terms of followers and personal playlist popularity. Notably, all of his examples are male.</p>
+
+<p>Generally, human curation should hypothetically combat its algorithmic counterpart in terms of favoring already commercially successful content, if not its gender disparity. The industry’s other biggest player, Apple Music, has invested heavily and successfully in the former. (Disclosure: I have been an Apple Music subscriber since its launch.) <em>Fast Company</em> addressed this contrast in a 2018 long read entitled “<a href="https://www.fastcompany.com/90205519/spotifys-playlist-for-global-domination" rel="nofollow">Spotify’s $30 billion playlist for global domination</a>:”</p>
+
+<blockquote><p>Cook’s words embody Apple’s longstanding critique of Spotify, which is that its algorithms are eroding music’s spiritual role in our lives. Cook doesn’t mention Spotify by name but says, “We worry about the humanity being drained out of music, about it becoming a bits-and-bytes kind of world instead of the art and craft.”</p></blockquote>
+
+<p>Then again, the same article also quotes Tim Cook – the CEO of the most valuable company in the history of the world – as insisting “We’re not in it for the money.” In turn, Daniel Elk is quoted, saying “Music is everything we do all day, all night, and that clarity is the difference between the average and the really, really good,” though what exactly he is quantifying as “really, really good” is not entirely clear. In context, the words of both leaders seem untrustworthy – vague, at best.</p>
+
+<iframe src="https://www.youtube.com/embed/At_K4FVY198" frameborder="0" allowfullscreen=""></iframe>
+
+<p>In tremendous and relevant contrast to the voices of these CEOs is that of Ethan Diamond, CEO and co-founder of Bandcamp, a music streaming service unlike any other. In <a href="https://mtflabs.net/podcast076/" rel="nofollow">an interview with Music Tech Fest director Andrew Dubber this May</a>, Diamond exemplifies an entirely different mentality in running a for-profit service for independent music artists.</p>
+
+<p>In 2007, Diamond and former colleagues Shawn Grunberger, Joe Holt, and Neal Tucker set out to build the equivalent of blogging services like Blogger, WordPress, MovableType, etc. for musicians. As Holt bemoaned in <a href="http://htmltimes.com/band-camp.php" rel="nofollow">a 2008 interview with <em>The HTML Times</em></a>, creating an online presence for one’s music had long been “a pain in the ass:”[^1]</p>
+
+<blockquote><p>You need to find a place to host it, you’ve gotta get the metadata right, it’s just hard. So we just decided we would do that hard part for musicians so that they didn’t have to be so nerdy.</p></blockquote>
+
+<p>From its very origin, the team designed Bandcamp to make the process of publishing one’s music as easy as possible. In <a href="https://blog.bandcamp.com/2008/09/16/hello-cleveland/" rel="nofollow">the first post on the company’s blog from September, 2008</a>, Diamond details the results of their engineering:</p>
+
+<blockquote><p>We keep your music streaming and downloading quickly and reliably, whether it’s 3am on a Sunday, or the hour your new record drops and Pitchfork gives it a scathingly positive review. We make your tracks available in every format under the sun, so the audiophilic nerderati can have their FLAC and eat mp3 v2. We adorn your songs with all the right metadata, so they sail into iTunes with artwork, album, band and track names intact. We mutter the various incantations necessary to keep your site top-ranked in Google, so when your fans search for your hits, they find your music long before they find bonkersforlyrics.com or iMyFace. We give your fans easy ways to share your music with their friends, and we give you gorgeous tools that reveal exactly how your music is spreading, so you can fan the fire.</p></blockquote>
+
+<p>In the years since, Bandcamp has demonstrated time and time again the sincerity in its commitment to artists through programs like “Bandcamp Fridays,” when the service waives its cut of artists’ revenue (ten percent on physical releases, fifteen percent of digital.) In 2017, the company <a href="https://pitchfork.com/news/bandcamp-donating-proceeds-to-transgender-law-center-this-friday/" rel="nofollow">donated a Friday’s share of proceeds to the Transgender Law Center</a> in response to the Presidential Administration’s proposal to ban trans people from serving in the U.S. military. This year, throughout the Coronavirus pandemic, the company has repeatedly <a href="https://daily.bandcamp.com/features/bandcamp-covid-19-fundraiser" rel="nofollow">brought back the program</a> in recognition of its impact on independent artists, and the results have been profound. On March 20th, for a specific example, $4.3 million worth of purchases was distributed.</p>
+
+<p>Unlike Spotify, Bandcamp <em>is</em> a profitable company, and has been for nearly a decade. In Dubber’s interview, Diamond explains their financial origins:</p>
+
+<blockquote><p>In 2007/2008 we took a little bit of VC funding and then focused on getting to profitability. So we did that and got there in 2012, and that’s helped us maintain the mission, maintain the vision that we’ve had for the company for a long time.</p></blockquote>
+
+<p>Also in contrast to Spotify, Bandcamp explicitly invests in less popular, fringe content, through its online publication the <a href="https://daily.bandcamp.com" rel="nofollow"><em>Bandcamp Daily</em></a>:</p>
+
+<blockquote><p>The mission of the Daily, it’s our editorial arm, and it’s just to highlight this incredibly diverse world of music that’s on a site where anybody can upload anything. And the result of that is that you have weird subgenres and a lot of music, I think, that wouldn’t necessarily be covered anywhere else.</p></blockquote>
+
+<p>Bandcamp has long demonstrated an anthesis to the business models technology companies have been so criticized for upholding and has done so in relative obscurity from the media. In his interview, Dubber asks Diamond one of the primary questions prompting the creation of this essay: “how come Bandcamp doesn’t get mentioned in all these press articles about music services?” In answer, Diamond offers his own business decisions out of “[his] personal preference:”</p>
+
+<blockquote><p>I like the idea that Bandcamp hangs out in the background and just makes all of this stuff work, and also, hopefully, helps the artist promote themselves, and it’s not about “Bandcamp, Bandcamp, Bandcamp.”[^2]</p></blockquote>
+
+<p>As a <em>Tastemaking</em> enterprise, Bandcamp has combined magazine-style editorial publishing with user-created content in the form of Collections – which allow listeners to display music they’ve purchased on a customizable web page – and Artist Recommendations, which extend from a creator’s Collection to those who follow them. This system has demonstrably lead to community and cultural wellness by genre via responsible commentary and selection from curating creators with authority, while still profiting its parent company tremendously. Bandcamp has grown from four to seventy employees in its 13-year lifespan, <a href="https://bandcamp.com/about" rel="nofollow">while helping artists earn $634 million</a> as of December 2020. In the music industry, it is unquestionably an outlier. Diamond inadvertently explains Bandcamp’s success in response to a question from Dubber on the company’s comparatively slow pace in terms of technological features (emphasis mine:)</p>
+
+<blockquote><p>Deciding what to work on next, that has always felt like the easiest part of the job because it’s whatever benefits artists the most. Because <strong>the way Bandcamp makes money is if artists make a lot more money</strong>, so that’s what we try to spend every day doing.</p></blockquote>
+
+<p>The solution to the “debacle” of streaming music, then, is not necessarily charity or socioeconomic revolution. It would seem that all it takes is a sincere investment in the real people who create music.</p>
+
+<hr/>
+
+<p>[1] While Bandcamp set out from the beginning to make it easier for artists to publish music, getting music on Spotify has always been a grueling process.</p>
+
+<p>[2] I fully intended to quote Kaitlyn Tiffany on how organizations <em>only</em> get tech media attention if a significant amount of capital is involved in some form, but I haven’t been able to find it. I’ll certainly come back and add it if/when I do.</p>
+
+<p><a href="tag%253Asoftware.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a> <a href="tag%253Amusic.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">music</span></a></p>
+</div></article>
+
+		
+
+		
+		<footer dir="ltr"><hr><nav><p style="font-size: 0.9em">published with <a class="home pubd" href="https://write.as/">write.as</a></p></nav></footer>
+		
+
+		<noscript><p><img src="https://analytics.write.as/piwik.php?idsite=16" style="border:0;" alt="" /></p></noscript>
+	</body>
+	
+	
+		<script type="text/javascript" src="https://platform.twitter.com/widgets.js" async></script><script type="text/javascript" src="https://hypothes.is/embed.js" async></script>
+		<script type="text/javascript">var topP = document.createElement("p");
+//topP.style.textAlign = "center";
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://discord.gg/4hdQcVd">Discord</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
+var cont = document.getElementById("wrapper");
+if (cont !== null) {
+    // Add to blog index and tag pages
+    cont.appendChild(topP);
+} else {
+    // Add to individual blog post page
+    cont = document.getElementById("post-body");
+    cont.insertAdjacentHTML("afterend", topP.outerHTML);
+}
+
+// src: https://platform.twitter.com/widgets.js
+
+// src: https://hypothes.is/embed.js
+
+window.hypothesisConfig = function () {
+  return {
+    "openSidebar": false, 
+    "theme": "clean",
+    branding: {
+      appBackgroundColor: '#e6f7ff',
+      ctaBackgroundColor: '#da2573',
+      ctaTextColor: '#00006b',
+      selectionFontFamily: 'Georgia, serif'
+    }
+  };
+};
+
+// Footnote hyperlinks in the body.
+var notePattern = /\[\^(\d+)\]/g;
+var noteText = "<a name=\"fn$1\"></a><sup><a class=\"footnote\" href="https://bilge.world/\&quot;#fnref$1\"">$1</a></sup>";
+
+// Footnote references at the bottom.
+var refPattern = /\[(\d+)\](.*)/g;
+var refText = "<a name=\"fnref$1\"></a><sup><a class=\"footnote-ref\" href="https://bilge.world/\&quot;#fn$1\"">$1</a></sup><span class=\"footnote-ref-text\">$2</span>";
+
+var postContent = document.getElementById("post-body").innerHTML;
+postContent = postContent.replace(notePattern, noteText);
+postContent = postContent.replace(refPattern, refText);
+document.getElementById("post-body").innerHTML = postContent;
+
+<script type="text/javascript">
+    (function(c,l,a,r,i,t,y){
+        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+    })(window, document, "clarity", "script", "5727h83alj");
+</script></script>
+	
+	
+<script>
+  
+  addEventListener('DOMContentLoaded', function () {
+    var hlbaseUri = "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/";
+    var lb = document.querySelectorAll("code[class^='language-']");
+
+    
+    var aliasmap = {
+      "elisp"      : "lisp",
+      "emacs-lisp" : "lisp",
+      "c"          : "cpp",
+      "cc"         : "cpp",
+      "h"          : "cpp",
+      "c++"        : "cpp",
+      "h++"        : "cpp",
+      "hpp"        : "cpp",
+      "hh"         : "cpp",
+      "hxx"        : "cpp",
+      "cxx"        : "cpp",
+      "sh"         : "bash",
+      "js"         : "javascript",
+      "jsx"        : "javascript",
+      "html"       : "xml"
+    };
+
+    
+    var langs = ["apache", "bash", "coffeescript", "cpp", "cs", "css", "diff",
+                 "http", "ini", "java", "javascript", "json", "makefile", "xml",
+                 "markdown", "nginx", "objectivec", "perl", "php", "properties",
+                 "python", "ruby", "shell", "sql"];
+
+    
+    function highlight(nodes) {
+      for (i=0; i < nodes.length; i++) {
+        hljs.highlightBlock(nodes[i]);
+      }
+    }
+
+    
+    function loadLanguages(uris, callback) {
+      uris.forEach(function(uri) {
+        var sc = document.createElement('script');
+        sc.src = uri;
+        sc.async = false; 
+        
+        if (uris.indexOf(uri) == uris.length-1) {
+          
+          
+          
+          sc.onload = callback;
+          sc.onerror = callback;
+        }
+        document.head.appendChild(sc);
+      });
+    }
+
+    
+    if (lb.length > 0) {
+      
+      var st = document.createElement('link');
+      st.rel = "stylesheet";
+      st.href = hlbaseUri + "styles/atom-one-light.min.css";
+      document.head.appendChild(st);
+
+      
+      var jss = [hlbaseUri + "highlight.min.js"];
+      
+      for (i=0; i < lb.length; i++) {
+        lang = lb[i].className.replace('language-','');
+        
+        if (aliasmap[lang]) lang = aliasmap[lang];
+        lurl = hlbaseUri + "languages/" + lang + ".min.js";
+        if (!(langs.includes(lang) || jss.includes(lurl))) {
+          jss.push(lurl);
+        }
+      }
+      
+      loadLanguages(jss, () => {highlight(lb)});
+    }
+  });
+</script>
+
+	<script src="https://files.writeas.org/js/localdate.js" integrity="sha384-2h0jAAXW06POyeBB2kpmJH+tWBF2mCWnv4DucLFRZXs+D8NX/MjGV7C/aCC2Ywki" crossorigin="anonymous"></script>
+	<script type="text/javascript">
+
+var pinning = false;
+function unpinPost(e, postID) {
+	e.preventDefault();
+	if (pinning) {
+		return;
+	}
+	pinning = true;
+
+	var $header = document.getElementsByTagName('header')[0];
+	var callback = function() {
+		
+		var $pinnedNavLink = $header.getElementsByTagName('nav')[0].querySelector('.pinned.selected');
+		$pinnedNavLink.style.display = 'none';
+		try { _paq.push(['trackEvent', 'Post', 'unpin', 'post']); } catch(e) {}
+	};
+
+	var $pinBtn = $header.getElementsByClassName('unpin')[0];
+	$pinBtn.innerHTML = '...';
+
+	var http = new XMLHttpRequest();
+	var url = "/api/collections/bilge/unpin";
+	var params = [ { "id": postID } ];
+	http.open("POST", url, true);
+	http.setRequestHeader("Content-type", "application/json");
+	http.onreadystatechange = function() {
+		if (http.readyState == 4) {
+			pinning = false;
+			if (http.status == 200) {
+				callback();
+				$pinBtn.style.display = 'none';
+				$pinBtn.innerHTML = 'Pin';
+			} else if (http.status == 409) {
+				$pinBtn.innerHTML = 'Unpin';
+			} else {
+				$pinBtn.innerHTML = 'Unpin';
+				alert("Failed to unpin." + (http.status>=500?" Please try again.":""));
+			}
+		}
+	}
+	http.send(JSON.stringify(params));
+};
+
+var $form = document.getElementById('emailsub');
+if ($form != null) {
+	$form.onsubmit = function() {
+		var $sub = document.getElementById('subscribe-btn');
+		$sub.disabled = true;
+		$sub.value = 'Subscribing...';
+	}
+}
+
+	
+
+	
+	try { 
+	  var _paq = _paq || [];
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  _paq.push(['enableHeartBeatTimer']);
+	  (function() {
+		var u="https://analytics.write.as/";
+		_paq.push(['setTrackerUrl', u+'piwik.php']);
+		_paq.push(['setSiteId', 16]);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  })();
+	} catch (e) {   }
+	
+	try { 
+	  WebFontConfig = {
+		custom: { families: [ 'Lora:400,700:latin', 'Open+Sans:400,700:latin' ], urls: [ 'https://files.writeas.org/css/fonts.4ce1882.css' ] }
+	  };
+	  (function() {
+		var wf = document.createElement('script');
+		wf.src = 'https://files.writeas.org/js/webfont.js';
+		wf.type = 'text/javascript';
+		wf.async = 'true';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(wf, s);
+	  })();
+	} catch (e) {   }
+	</script>
+
+    
+</html>
