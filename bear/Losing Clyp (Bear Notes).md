@@ -1,10 +1,15 @@
 # Losing Clyp (Bear Notes)
 - [ ] [Clyp Wants To Be An Imgur For Sound](https://techcrunch.com/2015/02/06/clyp-wants-to-be-an-imgur-for-sound/) | *TechCrunch*
+### Vocaroo
 
-- [ ] Ammnontet
+- [ ] I almost forgot about [Vocaroo](https://voca.ro/1ciKtZh2HmMY)
 
+### Instaudio
+
+* "[Instaudio Announces Shutdown Citing Legal Pressure](https://www.techworm.net/2019/08/instaudio-shutdown.html)" | *TECHWORM*
+
+- [ ] Ammnontet ([Scrimshaw Carver](https://clyp.it/user/xul3du32))
 - [ ] What this story means in the context of the [audio social service frenzy](https://www.vox.com/recode/22311703/clubhouse-influencer-andreessen).
-
 - [ ] [The Kofi Page](https://ko-fi.com/whypwebsite)
 > Hi, my name is Brad and I'm a web developer and music enthusiast living in the UK.  
 >   
