@@ -1,0 +1,5 @@
+# The Apple Clergy
+
+When I was at my most caught up in the Apple ecosystem - when the walls of the garden were at their peak height, debatably, and I found wearing a sweatshirt with a Mac vs. PC joke to high school as a Junior to be a completely reasonable fashion choice - the zeal about the company in the middle->upper-middle-class culture surrounding me was so thick that even I could not help but gawk. At 13-15, virtually anything one does seems most prone to somehow transform into a question of our own identities, as we try to define them for ourselves and others.
+
+<iframe width="315" height="560" src="https://www.youtube.com/embed/0rhSDfm1ZEc?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
