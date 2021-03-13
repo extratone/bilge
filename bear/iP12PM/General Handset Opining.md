@@ -1,0 +1,6 @@
+# General Handset Opining
+I was just about to Tweet “I’m surprised there’s not a better solution for browsing/interacting with Stack Overflow on iOS” before stopping myself and realizing what’s probably the general word among the stack types: *just use your web browser*. This led to a key differentiation I want to make. I often lament the recent emphasis on the development of Progressive Web Apps, Electron apps, and other variations of web browser-based containers masquerading as desktop-class software, saying the same thing: we really need to remember how powerful modern web browser are and accept that right now, a huge amount of what one should seek to do on a desktop-class operating system, specifically, instead of a mobile OS like iOS, is going to be done on the web from within a desktop web browser. I realize this direction of desktop development which I find detestable is the result of the industry’s fairly-recent emphasis on combining mobile and desktop operating systems/desire to create a platform mutable enough to work on both. 
+
+Obviously, there are benefits to be had from the influence mobile OSs have had on traditional desktop OS development. The recent, quite monumental rollout of ARM-based Macs has probably been the single most poignant real-world example, ever, but I just wish to say this
+
+#iP12PM
