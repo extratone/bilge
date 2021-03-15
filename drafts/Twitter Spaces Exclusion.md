@@ -1,4 +1,7 @@
 # Twitter Spaces Exclusion
+
+![Periscope Death](https://i.snap.as/RVwkZ4Gu.png)
+
 ## Periscope’s successor is explicitly built to silence those who are unable to or uncomfortable with using their voice.
 Today, I came to a few revelations that led me to feel obligated to write about Twitter’s “new” live audio broadcasting feature, Spaces. Considering how much I read on a daily basis on media and the web, it’s quite pitiful that I would end up discovering their existence as the majority of eventual users will, I suspect: the app relaunching lands on the Home tab, which now features the Instagram Stories-derived Fleets gallery as the top header. I’m not sure what this looks like for the average user, but for me, it is always stocked with blue-embossed circular profile pictures - all people I followed in the decade+ before I hit my limit., but often cannot recall when or why. Suffice it to say, it’s unlikely I would easily run out of Fleets to watch if I ever find myself in a stage of obsessive Fleet consumption. Spaces only came to my attention when I happened to spot a *purple* cluster of rounded profile pictures in this menu. Naturally, I tapped immediately, and found myself in a Space run by [Matt Daniels](https://twitter.com/mygunisquick) and including [Mike Elgan](https://twitter.com/mikeelgan) as speaker. You might notice, now, following those hyperlinks, that both have the Purple Circle emoji 🟣 in front of their display names on their Profiles. They explained that it’s become a trend among those who’ve been granted Spaces access to indicate that they are testing and *discussing* Spaces.
 
@@ -10,24 +13,22 @@ For myself, the general praise of Spaces (and Clubhouse, adjacently) as a democr
 
 https://www.youtube.com/watch?v=ZZH-SHzE8XQ
 
-
 Yet another former *Verge* staffer, [Sam Scheffer](https://twitter.com/samsheffer), has been the most active Spaces user on my Timeline. Notably, he is one of the only Twitter Tech Media folks I know who has continued to be honest with himself and the world about his feelings about the service. Among a crop of people who once exclaimed shit like “I *love* Twitter” and “I *live* on Twitter,” his singular continued use of such terms reflects something significant, I think. Understandably given Tump Hell, it is now very popular to lament Twitter whenever possible, even among those who’s volume of use has not changed in any measurable way. I don’t think it’s reaching to say that Sam and I are alike in our desire to try out whatever we’re tossed the keys to in as extreme a degree as possible. I’ve stopped by a handful of his Spaces - which are often also about Spaces, itself. Most recently however, he approved me to speak in a Space including a host of Silicon Valley folk and at least one Microsoft employee, talking about the future of AR and VR, vaguely in response to Microsoft’s Ignite event, which legitimately disturbed me.
 
-[Scary Ignite Thing Embed]
 https://twitter.com/neoyokel/status/1366804088629919744
 
 I probably waited too long to speak up, until he was trying to wrap up the Space - but I did chime in about the way the Ignite keynote made me feel and attempted to convey the contrast between the goals of the tech industry and the general attitudes toward AR and VR present in the Midwesterners around me. Essentially, I was granted yet another unique *opportunity* to ask a question that’s been bothering me for years, now: *what the fuck are you doing and why???* It was the Microsoft Man (I can’t find his account, now, sorry) who responded very promptly, considering, with an explanation that actually made a lot of sense. The gist of it was *we are contending with the idea that we may never work in an office again, and these technologies offer a difficult-to-explain amends*. He specifically used the term “fatigue” in describing his own experiences trying to collaborate remotely and reflected on the benefits of virtual context on the most elemental, sensory components of interaction throughout a workday. From that ~45 second response, I feel as though I gained more understanding than I have from years of reading on my own, which further reinforces his observations, in retrospect.
 
+https://twitter.com/kalibration/status/1371021244762619904
+
 Already, it would seem Twitter Spaces might have a lot to offer David Blue, going forward. Though I signed up for Clubhouse’s waiting list last year (twice, in fact, but please don’t tell on me,) I have yet to hear back from them. If I was a bitter person, I would be up in arms about this, citing the fact that I would probably contribute more to the wellbeing of the project, technically, than 90% of those who’ve been invited. (I am the physical manifestation of the *Stress Test*, and I spend an absurd amount of time on beta feedback, [even on software *I’m fucking paying for*](https://twitter.com/neoyokel/status/1362822335041048577).) From what I originally heard, though, Clubhouse was showing real promise as a space where creators of color felt in control of their experience. I hope this has continued to be true and - if it has - I say *never* invite me. 
 
-[Buhby Periscope Embed]
 https://youtube.com/watch?v=DajJqoufzAg
 
-## The Bed We Lie In
+## The Bed in which Twitter Shall Lie
 Crucially, though, enabling [my tech bro ass](https://twitter.com/neoyokel/status/1370838780333146118) to engage with famous tech bros about tech bro shit is never going to justifiably occupy anyone’s list of priorities in my lifetime (including my own.) The original promise of the internet did not include amplification of voices already/otherwise at max volume. Instead, it was using technology to deliver new, varying, and universally-empowering tools of expression to those who’d been minimized for all of human history.
-
 It didn’t have to be philanthropic - in fact, it was and shall always remain in the best interest of the loudest folks to hear from the other side of the spectrum. The possibilities of this dynamic should be *thrilling* to all involved, and it used to be for Twitter, Inc. Or so it seemed, anyway. As the company has honed its various loglines over the years, their actions have reflected their truth less and less. 
 
-[Kayvon Beykpour Interview Embed]
+<iframe src="https://www.listennotes.com/embedded/e/0bcb7943a0c14921bcb46470395d9f53/" height="auto" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
-Coincidentally, the most visible co-founder of Periscope, [Kayvon Beykpour](https://twitter.com/kayvz), is now Twitter’s Head of Consumer product, and he spent this past week doing interviews about Twitter’s late feature frenzy.
+Coincidentally, the most visible co-founder of Periscope, [Kayvon Beykpour](https://twitter.com/kayvz), is now Twitter’s Head of Consumer product, and he spent this past week doing interviews about Twitter’s late feature frenzy. Naturally, [Nilay Patel’s interview](https://www.theverge.com/22319527/twitter-kayvon-beykpour-interview-consumer-product-decoder) is the one I’ve chosen to highlight, here, largely because of how often Beykpour references Periscope in talking about
