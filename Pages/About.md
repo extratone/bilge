@@ -1,5 +1,3 @@
-# About
-
 ![Bilge by David Blue](https://i.snap.as/kT0kagG.png)
 
 # Huh‽
@@ -28,7 +26,7 @@ After publishing a [**collection of poetry**](http://bit.ly/Feebles) from my ado
 
 Currently, I'm working on a nonfiction project entitled ***[For God's Sake, Just Sit Down to Piss](https://davidblue.wtf/piss)*** - a self-help/advice-ish book for young American men which I’ve tinkered with since 2015 commenting on behavior I have personally witnessed from white, straight, CIS American males ages 15-35. Given the sensitivity of its topic along with my own curiosity regarding the idea, I am writing the book in public [via Git](https://github.com/extratone/piss).
 
-Follow me on [**Mastodon**](https://mastodon.social/@DavidBlue), [**Twitter**](http://twitter.com/neoyokel), [**Discord**](http://bit.ly/holeguest), and/or send me an [**Email**](mailto:davidblue@extratone.com).
+Follow me on [**Mastodon**](https://mastodon.social/@DavidBlue), [**Twitter**](http://twitter.com/neoyokel), [**Discord**](http://bit.ly/holeguest), and/or send me an [**Email**](mailto:davidblue@extratone.com). A bunch more options can be found in my “[Social Directory](https://bit.ly/dbrolodex)” (which is a Notion database.)
 
 <!--emailsub-->
 
