@@ -1,0 +1,26 @@
+- 快速开始
+  - [关于](cn/README.md)
+  - [常见问题](cn/faq.md)
+  - [剪贴板](cn/quick-start/clipboard.md)
+  - [编辑器](cn/quick-start/editor.md)
+  - [文本动作](cn/quick-start/actions.md)
+- 编辑器
+  - [你好，Markdown](cn/editor/hello-markdown.md)
+  - [进阶技巧](cn/editor/pro-tips.md)
+  - [数学公式](cn/editor/math.md)
+  - [绘制图表](cn/editor/diagrams.md)
+- 文本动作
+  - [基础知识](cn/actions/basics.md)
+  - [动作分类](cn/actions/categories.md)
+  - [模板字符串](cn/actions/template-strings.md)
+  - [控制流](cn/actions/control-flow.md)
+  - [变量](cn/actions/variables.md)
+  - [进阶脚本编程](cn/actions/scripting.md)
+- 应用集成
+  - [快捷指令](cn/integration/shortcuts.md)
+  - [Working Copy](cn/integration/working-copy.md)
+  - [TextExpander](cn/integration/text-expander.md)
+  - [URL Schemes](cn/integration/url-schemes.md)
+- 隐私和条款
+  - [隐私政策](cn/privacy.md)
+  - [使用条款](cn/terms.md)
