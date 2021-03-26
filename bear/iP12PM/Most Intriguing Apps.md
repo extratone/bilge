@@ -89,3 +89,4 @@ I’ve privately maintained a list like this for as long as I can remember, to b
 
 #i #documentation #iP12PM
 [Adobe Fresco: A Fun and Powerful iPad Drawing and Painting App For Pros and Novices - MacStories](https://www.macstories.net/reviews/adobe-fresco-a-fun-and-powerful-ipad-drawing-and-painting-app-for-pros-and-novices/)
+
