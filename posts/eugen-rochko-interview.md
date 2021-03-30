@@ -26,7 +26,9 @@ Despite the urgency of it all, he graciously lent me his time just after breakfa
 
 Though the ink's still fresh on his compsci diploma, he's clearly prepared for the American press.
 
-<iframe src="https://anchor.fm/davidblue/embed/episodes/Mastodons-Big-Moment--20-Months-Later-e2iq20/a-a6ia3l" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+https://open.spotify.com/episode/6QKhv7jaZsAHJxBjyiyZf7?si=I_eqn5Q6Q2aXi04Nq10LJw
+
+<iframe src="https://www.listennotes.com/embedded/e/03ad43227da74d489d11dd6a804fe09d/" height="auto" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
 
 ------
 
@@ -87,6 +89,7 @@ Though instances are infrastructurally independent, they can communicate with on
 **What if Twitter comes to you in the near future with a job offer?**
 
 [Rochko laughs.]
+
 If it was any other company, I would think about it. A job is a staple source of income, and - depending on the company - could involve doing something important, but I have zero faith in Twitter.
 
 **Does this all mean that I finally get to live out my serif Twitter dream?**
@@ -129,4 +132,4 @@ Sarah Jeong's [account](https://motherboard.vice.com/en_us/article/mastodon-is-l
 
 If I had to hazard a guess, I'd bet it's [not the last we'll hear from him](https://usesthis.com/interviews/eugen.rochko/).
 
-#software
+#software #media
