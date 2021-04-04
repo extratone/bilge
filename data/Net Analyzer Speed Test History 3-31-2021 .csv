@@ -1,0 +1,10 @@
+Name,Type,Date,Download Speed,Upload Speed
+AT&T,Cell,"03/31/21, 03:00",183 Mbps (22.9 MB/s),29.3 Mbps (3.67 MB/s)
+long1950-5G,Wi-Fi,"03/29/21, 01:19",380 Mbps (47.5 MB/s),23.1 Mbps (2.89 MB/s)
+AT&T,Cell,"03/16/21, 14:51",124 Mbps (15.5 MB/s),24.3 Mbps (3.04 MB/s)
+long1950-5G,Wi-Fi,"03/10/21, 18:33",140 Mbps (17.5 MB/s),13.8 Mbps (1.73 MB/s)
+long1950-5G,Wi-Fi,"03/3/21, 13:51",507 Mbps (63.4 MB/s),3.73 Mbps (466 kB/s)
+long1950-5G,Wi-Fi,"03/1/21, 07:21",139 Mbps (17.4 MB/s),3.68 Mbps (459 kB/s)
+long1950-5G,Wi-Fi,"02/18/21, 00:35",501 Mbps (62.6 MB/s),3.10 Mbps (388 kB/s)
+long1950,Wi-Fi,"02/17/21, 07:05",63.9 Mbps (7.99 MB/s),5.18 Mbps (648 kB/s)
+long1950-5G,Wi-Fi,"02/17/21, 07:00",415 Mbps (51.9 MB/s),7.71 Mbps (964 kB/s)
