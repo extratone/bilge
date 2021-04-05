@@ -1,0 +1,234 @@
+[
+  {
+    "base" : [
+      {
+        "text color" : "#444444"
+      },
+      {
+        "text secondary color" : "#888888"
+      },
+      {
+        "text tertiary color" : "#d9d9d9"
+      },
+      {
+        "background color" : "#ffffff",
+      },
+      {
+        "background secondary color" : "#F3F5F7",
+      },
+      {
+        "background tertiary color" : "#E4E5E6",
+      },
+      {
+        "stroke color" : "#B4B4B4"
+      },
+      {
+        "stroke secondary color" : "#d9d9d9"
+      },
+      {
+        "accent color" : "#DD4C4F",
+      },
+      {
+        "search color" : "#F7E81C",
+      },
+      {
+        "highlight color" : "#D3FFA4",
+      },
+      {
+        "selection color" : "#B4D8FE",
+      },
+      
+    ]
+  },    
+  {
+    "debug" : [
+    {
+        "show grid" : 0,
+      },
+      {
+        "show editing range" : 0,
+      },
+   ]
+  },    
+  {
+    "editor" : [
+      {
+         "background color" : "$base.background color"
+      },
+      {
+        "text color" : "$base.text color"
+      },
+      {
+        "text light color" : "$base.text secondary color"
+      },
+      {
+        "accent color" : "$base.accent color"
+      },
+      {
+        "cursor color" : "$base.accent color"
+      },
+      {
+        "link color" : "$base.accent color"
+      },      
+      {
+        "list marker color" : "$base.accent color"
+      },
+      {
+        "marker color" : "$base.text tertiary color"
+      },
+      {
+        "selection color" : "$base.selection color"
+      },
+      {
+        "selection inactive color" : "$base.background tertiary color"
+      },
+      {
+        "text font" : "AvenirNext-Regular"
+      },
+      {
+        "text size" : 15
+      },
+      {
+        "line height multiplier" : 1.5
+      },
+      {
+        "headers" : [
+          {
+            "text color" : "$base.text color"
+          },
+          {
+            "font" : "AvenirNext-DemiBold"
+          },
+          {
+            "modular scale" : 1.125
+          },
+          {
+            "line height multiplier" : 1.4
+          },
+          {
+            "add top bottom padding" : 1
+          },
+          {
+            "padding top multiplier" : 0.5
+          },
+          {
+            "padding bottom multiplier" : 0.3
+          },
+        ]
+      },
+      {
+        "code" : [
+          {
+            "text color" : "$base.text color"
+          },
+          {
+            "border color" : "$base.text tertiary color"
+          },
+          {
+            "background color" : "$base.background secondary color"
+          },
+          {
+            "font" : "Menlo-Regular"
+          },
+          {
+            "text size multiplier" : 0.9
+          },
+          {
+            "syntax highlight" : [
+              {
+                 "comment" : "#65798c"
+              },  
+              {
+                 "constant" : "#0095c9"
+              },  
+              {
+                 "number" : "#0095c9"
+              },  
+              {
+                 "string" : "#d12f1b"
+              }, 
+              {
+                 "entity" : "#4a838b"
+              }, 
+              {
+                 "keyword" : "#ad3da4"
+              }, 
+              {
+                 "function" : "#4a838b"
+              }, 
+              {
+                 "variable" : "#4a838b"
+              }, 
+            ]
+          }          
+        ]
+      },
+      {
+        "task" : [
+          {
+            "background color" : "$base.background color"
+          },
+          {
+            "border color" : "$base.stroke color"
+          },
+          {
+            "check color" : "$base.text color"
+          },
+        ]
+      },
+      {
+        "tag" : [
+          {
+            "background color" : "$base.background tertiary color"
+          },
+          {
+            "text color" : "$base.text color"
+          },
+          {
+            "marker color" : "$base.text secondary color"
+          },
+        ]
+      },
+      {
+        "highlighter" : [
+          {
+            "background color" : "$base.highlight color"
+          },
+          {
+            "text color" : "$base.text color"
+          },
+        ]
+      },
+      {
+        "file" : [
+          {
+            "fold color" : "$base.background tertiary color"
+          },
+          {
+            "background color" : "$base.background secondary color"
+          },
+        ]
+      },
+      {
+        "separator" : [
+          {
+            "border color" : "$base.stroke secondary color"
+          },
+        ]
+      },
+      {
+        "table" : [
+          {
+            "border color" : "$base.stroke secondary color"
+          },
+          {
+            "cell background color" : "$base.background color"
+          },
+          {
+            "cell alternate background color" : "$base.background secondary color"
+          },
+        ]
+      }
+    ]
+  }
+]
