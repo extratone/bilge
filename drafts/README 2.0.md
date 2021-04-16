@@ -1,8 +1,8 @@
+# README 2.0
+
 ![Unicode Banner - The Psalms](https://i.snap.as/5fdq4LxC.png)
 
 # *The Psalms* Editorial Documentation
-
-*(**Please note**: This document is currently [under revision](https://github.com/extratone/bilge/issues/98).)*
 
 **This repository encompasses the whole of both the editorial and developmental processes involved in creating [bilge.world](https://bilge.world).**
 
@@ -393,4 +393,3 @@ postContent = postContent.replace(notePattern, noteText);
 postContent = postContent.replace(refPattern, refText);
 document.getElementById("post-body").innerHTML = postContent;
 ```
-
