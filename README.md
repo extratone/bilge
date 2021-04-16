@@ -6,8 +6,18 @@
 
 **This repository encompasses the whole of both the editorial and developmental processes involved in creating [bilge.world](https://bilge.world).**
 
-[TOC]
-
+- [*The Psalms* Editorial Documentation](#-the-psalms--editorial-documentation)
+  * [Git](#git)
+  * [[About](https://bilge.world/about)](#-about--https---bilgeworld-about-)
+  * [Contact](#contact)
+- [Technical Documentation (Writeas Blog)](#technical-documentation--writeas-blog-)
+  * [Documentation for my blog, [bilge.world](https://bilge.world).](#documentation-for-my-blog---bilgeworld--https---bilgeworld-)
+  * [Installation (Bilge Theme)](#installation--bilge-theme-)
+  * [[Colophon](https://bilge.world/colophon)](#-colophon--https---bilgeworld-colophon-)
+    + [Typography](#typography)
+    + [Colors](#colors)
+    + [[CSS](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css)](#-css--https---githubcom-extratone-bilge-blob-main-custom-20csscss-)
+    + [[Javascript](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js)](#-javascript--https---githubcom-extratone-bilge-blob-main-custom-20javascriptjs-)
 ## Git
 
 As part of [my continued exploration of Git as an editorial tool](https://github.com/extratone/bilge/discussions/86), I have done my best to make use of as many GitHub-specific features as possible.
