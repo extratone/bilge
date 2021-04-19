@@ -6,6 +6,12 @@ iphone-ios-music-apps
 
 ![Music on iOS](https://i.snap.as/mTEozs2r.png)
 
+*Listen to this article read (with some bugs) by Siri Voice 3 below...*
+
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/TTS/iPhone%20and%20Music%20-%20For%20Artists%2C%20Curators%2C%20and%20Enthusiasts%20TTS.mp3">
+</audio>
+
 ## Reporting from deep within the iOS cult on essential apps/methods for real-life music people.
 
 As you may or may not be aware, I’ve spent all of my 2021 so far diving real deep into iOS, considering all that has changed since “an iPod, a phone, a personal computer.” I’ve tuned in to the output of explicitly Apple-adjacent publications both old (*MacRumors*, *Apple Insider*, *9to5 Mac*, etc,) and new (*Apple Scoop*, *MacStories*,) which have all metamorphosed in huge, mostly-redeemable ways just as their primary subject has. I have my own pubescent stories of Mac occultism, but I do not consider my relationship with the brand to be an essential part of my identity, as so many do and have. Apple, Inc’s story is spectacular and infinitely-relevant so long as they remain “the most valuable company in the history of the world,” as I so love to describe them. Like many of you, I’m sure, I am often compelled to bring up the humongous contrasts in the historical context of the company - to scream infinitely many variations of the observation that Apple was basically the fucking *indie*, premium-tier consumer tech manufacturer owned by the Creative Class for the first half+ of their existence, and have somehow maintained that *Think Different*™ brand narrative as they have definitively become the Big Blue of their time.
