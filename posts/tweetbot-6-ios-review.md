@@ -4,6 +4,12 @@
 
 ## In the bleak face of Twitter’s centralization, Tapbots refuses to give up on its mobile client.
 
+*Listen to this article read (with some bugs) by Siri below...*
+
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/TTS/Tweetbot%206%20for%20iOS%20Review%20TTS.mp3">
+</audio>
+
 Were it just I who came to you with only my voice on this cold night, proclaiming the imminent release of a whole numerical version of a third-party mobile Twitter client in 2021, you really would have no choice but to send for the laws, for you’d be left no consideration other than my comprehensive descent into absolute insanity. [825 days ago](https://bilge.world/tweetbot-5-ios-review), I told you lots about the history surrounding the development of Tweetbot 5, which I confidently described as “likely the last com­pet­i­tive third-par­ty Twit­ter app for iOS.” After spending the past few months diving deep into iOS in preparation to [review and reflect](https://github.com/extratone/bilge/issues/45) upon Apple’s current flagship handset, my eyes have been opened to the exponentially-increasing pace of the whole environment’s metamorphosis during the course of my lapsed attention. In the name of progress, I’ve done my best to make a point of looking back, too, yet something astonishingly personally relevant managed to slip past me until just last week: **there is a sixth version of the Tweetbot app**. At this moment, [it is listed on the App Store](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834) as an “Early Release” version, though its predecessor can still be downloaded by those who’ve already purchased it in the past, like me. This is an unusual practice - usually, pre-release versions of iOS apps can only be distributed through Apple’s developer beta testing infrastructure, though Testflight. Notably, Tweetbot developer company Tapbots was [apparently required](https://twitter.com/tapbot_paul/status/1354145779494100992?s=21) to take down Tweetbot 5’s store listing 30 days before releasing Tweetbot 6.
 
 https://soundcloud.com/compaqclub/macstories-on-tweetbot-6
