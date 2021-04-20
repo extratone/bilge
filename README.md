@@ -2,9 +2,13 @@
 
 # *The Psalms* Editorial Documentation
 
-*(**Please note**: This document is currently [under revision](https://github.com/extratone/bilge/issues/98).)*****
+*(**Please note**: This document is currently [under revision](https://github.com/extratone/bilge/issues/98).)*
 
 ## This repository encompasses the whole of both the editorial and developmental processes involved in creating [bilge.world](https://bilge.world).
+
+See [**my 2020 reflectory post**](https://bilge.world/2020) for a few more details.
+
+![Psalms Project Board](/images/Project Board.png)
 
 ## Git
 
