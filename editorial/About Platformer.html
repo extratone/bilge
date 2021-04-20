@@ -1,0 +1,631 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>About Platformer</title><style>
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.highlight-default {
+}
+.highlight-gray {
+	color: rgb(155,154,151);
+}
+.highlight-brown {
+	color: rgb(100,71,58);
+}
+.highlight-orange {
+	color: rgb(217,115,13);
+}
+.highlight-yellow {
+	color: rgb(223,171,1);
+}
+.highlight-teal {
+	color: rgb(15,123,108);
+}
+.highlight-blue {
+	color: rgb(11,110,153);
+}
+.highlight-purple {
+	color: rgb(105,64,165);
+}
+.highlight-pink {
+	color: rgb(173,26,114);
+}
+.highlight-red {
+	color: rgb(224,62,62);
+}
+.highlight-gray_background {
+	background: rgb(235,236,237);
+}
+.highlight-brown_background {
+	background: rgb(233,229,227);
+}
+.highlight-orange_background {
+	background: rgb(250,235,221);
+}
+.highlight-yellow_background {
+	background: rgb(251,243,219);
+}
+.highlight-teal_background {
+	background: rgb(221,237,234);
+}
+.highlight-blue_background {
+	background: rgb(221,235,241);
+}
+.highlight-purple_background {
+	background: rgb(234,228,242);
+}
+.highlight-pink_background {
+	background: rgb(244,223,235);
+}
+.highlight-red_background {
+	background: rgb(251,228,228);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(55, 53, 47, 0.6);
+	fill: rgba(55, 53, 47, 0.6);
+}
+.block-color-brown {
+	color: rgb(100,71,58);
+	fill: rgb(100,71,58);
+}
+.block-color-orange {
+	color: rgb(217,115,13);
+	fill: rgb(217,115,13);
+}
+.block-color-yellow {
+	color: rgb(223,171,1);
+	fill: rgb(223,171,1);
+}
+.block-color-teal {
+	color: rgb(15,123,108);
+	fill: rgb(15,123,108);
+}
+.block-color-blue {
+	color: rgb(11,110,153);
+	fill: rgb(11,110,153);
+}
+.block-color-purple {
+	color: rgb(105,64,165);
+	fill: rgb(105,64,165);
+}
+.block-color-pink {
+	color: rgb(173,26,114);
+	fill: rgb(173,26,114);
+}
+.block-color-red {
+	color: rgb(224,62,62);
+	fill: rgb(224,62,62);
+}
+.block-color-gray_background {
+	background: rgb(235,236,237);
+}
+.block-color-brown_background {
+	background: rgb(233,229,227);
+}
+.block-color-orange_background {
+	background: rgb(250,235,221);
+}
+.block-color-yellow_background {
+	background: rgb(251,243,219);
+}
+.block-color-teal_background {
+	background: rgb(221,237,234);
+}
+.block-color-blue_background {
+	background: rgb(221,235,241);
+}
+.block-color-purple_background {
+	background: rgb(234,228,242);
+}
+.block-color-pink_background {
+	background: rgb(244,223,235);
+}
+.block-color-red_background {
+	background: rgb(251,228,228);
+}
+.select-value-color-default { background-color: rgba(206,205,202,0.5); }
+.select-value-color-gray { background-color: rgba(155,154,151, 0.4); }
+.select-value-color-brown { background-color: rgba(140,46,0,0.2); }
+.select-value-color-orange { background-color: rgba(245,93,0,0.2); }
+.select-value-color-yellow { background-color: rgba(233,168,0,0.2); }
+.select-value-color-green { background-color: rgba(0,135,107,0.2); }
+.select-value-color-blue { background-color: rgba(0,120,223,0.2); }
+.select-value-color-purple { background-color: rgba(103,36,222,0.2); }
+.select-value-color-pink { background-color: rgba(221,0,129,0.2); }
+.select-value-color-red { background-color: rgba(255,0,26,0.2); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="3b5e27c1-4a5a-4b41-9a39-88218b9f6ceb" class="page sans"><header><img class="page-cover-image" src="About%20Platformer%203b5e27c14a5a4b419a3988218b9f6ceb/platformer-twitter-header.jpg" style="object-position:center 50%"/><div class="page-header-icon page-header-icon-with-cover"><img class="icon" src="About%20Platformer%203b5e27c14a5a4b419a3988218b9f6ceb/platformer-twitter-profile.jpg"/></div><h1 class="page-title">About Platformer</h1></header><div class="page-body"><p id="854c4f3a-9892-4d1f-a7ea-2eb9e23daecc" class=""><strong>Platformer</strong> is an independent publication devoted to exploring the intersection of technology platforms and society. It was founded in 2020 by me, Casey Newton, former Silicon Valley editor of <em>The Verge</em>.</p><p id="9bd7d134-a4f0-45c5-b9c2-3abf9bb389fd" class="">
+</p><p id="3d05415d-3fe7-47b1-b382-d08e479ad4e4" class=""><strong>Platformer</strong> arrives Monday through Thursday at 5PM PT, and sometimes on particularly newsy Fridays. <a href="https://www.platformer.news/">You can subscribe here</a>. Offering a mix of original reporting, analysis, commentary, and curated links, the newsletter effectively serves as a daily live blog for a tumultuous period in the history of technology and governance.</p><p id="964efc16-59cc-4f81-a12d-f90796bc88c4" class="">
+</p><p id="7b42ebfd-f788-4c6d-85f5-08a249da09c1" class="">More than 20,000 people trust <strong>Platformer</strong> to keep them informed on the day’s most important developments. Subscribers include executives at Facebook, Twitter, Google, Amazon, Apple, and Snap, along with their counterparts in academia, government, and journalism.</p><p id="b400be4a-f393-4efb-a74a-a024bb155e49" class="">
+</p><p id="f04992d9-8cd3-4ceb-9067-0f1f18c191b5" class="">This guide is based on and borrows heavily from a guide that I wrote for <strong>Platformer</strong>&#x27;s predecessor, <em>The Interface.</em></p><h2 id="7d583f8f-9d1c-44f3-baee-1494a91065f6" class="">What does <strong>Platformer</strong> cover?</h2><p id="f6cd54a5-bbeb-4505-9367-36dabee1148d" class="">My focus evolves with the news, and I intend to update this list at least quarterly. Here’s what I’m obsessed with right now:</p><ul id="caedbf97-dc9d-4928-8d76-43d8e5dc6801" class="bulleted-list"><li>How do social networks affect human behavior and politics?</li></ul><ul id="50492049-ca8c-43d6-9fc8-056a4dd91cbf" class="bulleted-list"><li>How will governments regulate tech platforms, and what are the effects of those regulations?</li></ul><ul id="edb96d0f-42bf-4705-887f-8f7d215c4913" class="bulleted-list"><li>How will content moderation evolve as platforms attempt to balance free speech with security? What are the best ways to strike that balance?</li></ul><ul id="387da6de-6924-47a0-9190-6cd711bcf97a" class="bulleted-list"><li>How will social networks, governments, and activists act to reduce the spread of misinformation, disinformation, hate speech, and coordinated influence campaigns? How will their adversaries respond?</li></ul><ul id="d29d932d-8f61-4a0c-84aa-a3b14dad1ea2" class="bulleted-list"><li>Should platforms make efforts to create a shared sense of reality among their users? If they choose not to, what consequences will that have?</li></ul><ul id="b509e57e-3ccb-444b-a925-450bfe33a10b" class="bulleted-list"><li>What are potential solutions to the sharp decline in trust in our media environment?</li></ul><ul id="f6ff3ba2-1088-4131-918a-6a33c20bf92d" class="bulleted-list"><li>How will the cultural reckoning over tech platforms affect their businesses?</li></ul><ul id="36f7d288-f7ed-46d7-8d76-f34e796d5e26" class="bulleted-list"><li>What new products and services are social platforms building, and what consequences will they have?</li></ul><ul id="be445ee5-627f-4853-b882-28b87d166572" class="bulleted-list"><li>How will the COVID-19 pandemic change tech giants? Will they use this period to consolidate power? How effective will technological interventions like exposure notification turn out to be?</li></ul><h2 id="cd86f100-16cf-40c1-a3b8-149ec0a1dbb3" class=""><strong>How do you see the world?</strong></h2><p id="13785989-6d92-4b1e-9199-1db213befade" class="">Like many people, my views about technology were reshaped by the events of 2016. Revelations that foreign actors had manipulated Facebook, Twitter, and other sites caused me to reevaluate my old, blinkered assumption that social networks were only harmless fun. Before 2016, my primary concern about Facebook <a href="https://www.theverge.com/2015/12/29/10662356/facebook-instant-articles-future-of-media-2016">was that the News Feed would crush most digital media</a>. After 2016, my concern shifted from a business concern to a more patriotic one: are social networks undermining democracy?</p><p id="a36fcf43-f180-4263-86ba-e4652b780956" class="">As more journalists explored those questions, events began to unfold so quickly that even the most diligent beat reporters had trouble keeping up with the news. Certainly, I did. I started a newsletter to organize the day’s events for myself, and it soon became clear that others felt a similar need for such a service. (The first people to sign up were my fellow beat reporters.)</p><p id="9ef63750-b386-4a54-bdc6-690e18470961" class=""><strong>Platformer</strong> picks up where that newsletter left off.</p><p id="a8867bd3-6263-422e-ac4d-dd03ab41fe31" class="">As a reference point, here are some things I’ve come to believe about social networks and democracy since I started covering the topic. I plan to update this list at least quarterly.</p><ul id="e1c13aae-9fd8-4cd6-9ed1-2c6c63960299" class="bulleted-list"><li>We can’t say definitively whether Russian interference with social networks changed the outcome of the 2016 US presidential election. But we should respond to the threat as if it did.</li></ul><ul id="9b86f6c6-c7ce-475f-ad89-6bbcb658ade1" class="bulleted-list"><li>We ought to put at least as much pressure on the government to make change as we do on tech companies. But tech companies are more responsive, and so they face more pressure.</li></ul><ul id="d3d9a921-e280-464f-b65f-2a7ab2a5fa3e" class="bulleted-list"><li>Television news has proven corrosive to democracy in ways that are likely as or more important than any created by social networks.</li></ul><ul id="7613c52f-e1a1-4c68-957e-933b001be1dd" class="bulleted-list"><li>Facebook, YouTube, and Twitter have grown large enough that the platforms are essentially beyond the control of their executives. The <em>companies</em> are under the control of their executives. But executives are often months or years late to understanding the unintended consequences of the platforms, and they don’t always respond effectively even after they do understand the consequences.</li></ul><ul id="7d9b16f0-7d3e-472d-aa15-39894c4b5e29" class="bulleted-list"><li>Most tech CEOs are intelligent, kind, hard-working people who want to make the world a better place, and this is largely beside the point.</li></ul><ul id="b6050715-b0d2-4b84-a937-bb1289971852" class="bulleted-list"><li>Social media platforms face very difficult governance problems, and also they largely brought those problems upon themselves by working to grow as much as possible, as quickly as possible.</li></ul><ul id="f21a407f-8c9a-442a-907c-36812bbb9ffd" class="bulleted-list"><li>Political polarization predated social networks, but social networks have failed at reducing it and may, in fact, be accelerating it.</li></ul><ul id="eaf660d3-2143-4869-888e-549b22d7da47" class="bulleted-list"><li>Plenty of good still takes place on social networks every day: small-group chats among people with shared interests; cute viral Twitter threads; fundraisers and disaster relief. Social networks are one long talent show, and many of the performers are very good.</li></ul><ul id="4c6603f0-3d54-4030-adfb-42e9a1f923a9" class="bulleted-list"><li>The fewer people involved in a conversation, the more privacy and speech protections should be granted. The more people are involved, the more suspicious we should be of anonymity and end-to-end encryption. A service like WhatsApp ought to be able to have end-to-end encryption <em>or</em> viral forwarding mechanics, in other words, but not both.</li></ul><ul id="c3a9d57a-4945-4733-be1b-dd7cdb083081" class="bulleted-list"><li>There is no significant bias against conservatives or any other partisan ideology on big tech platforms.</li></ul><ul id="beff0165-ab08-4088-8be4-0f7f0ff8fb83" class="bulleted-list"><li>The COVID-19 pandemic is likely to make big technology companies more powerful rather than less, that power demands additional scrutiny.</li></ul><h2 id="3d0cfc77-7c52-4055-837c-6af22666f6e3" class=""><strong>How do you get your information?</strong></h2><p id="e54a17da-1fc4-4e4f-8f72-9a1edfac497e" class="">In addition to being an avid reader of the day’s news, I’m also a beat reporter focused on social networks and other technology platforms. I’m in regular, direct communication with most of the companies I write about, and that perspective informs my reporting and analysis. I also talk each week with current and former employees of those companies, on and off the record, to broaden my perspective — and, whenever I can, to break news.</p><p id="29070477-005d-49ca-ad7a-05c6ae847bf8" class="">I bring as much original reporting to <strong>Platformer</strong> as I can, quoting sources by name whenever possible. Sometimes, sources ask me not to name them, in order to preserve their employment or business relationships. In these cases, I publish the best description of their roles as I can. In all cases, these conversations shape the views you’ll find in my columns.</p><p id="5ae1f0cf-ec1a-49ac-82ce-4a7dbe5df079" class=""><strong>Platformer</strong> is also a showcase for the extraordinary journalism being done around the world on a series of vital questions facing governments and their citizens. I am indebted to (and frequently in awe of) the excellent journalists whose work I feature each day. Links come to me via Twitter, Nuzzel, email, reader tips, and academic papers, to name the five most common sources. (I also rely heavily on the tech industry’s premier link aggregator, <a href="http://www.techmeme.com/">Techmeme</a>.)</p><h2 id="9259d16f-a9a1-47a5-9ee0-49538337d88b" class="">What&#x27;s in each edition?</h2><p id="8c07a875-4ccb-4d24-a7d5-854793a9bade" class="">The newsletter has six regular sections:</p><ul id="71f59626-15cd-4e09-bb9d-43f27a791985" class="bulleted-list"><li><strong>The lede</strong>. A column about the day’s most important happenings.</li></ul><ul id="10306eb3-a979-4e36-bebd-80260f3f90e6" class="bulleted-list"><li><strong>The Ratio.</strong> Items that could change public perception of the big tech companies, whether it’s up, down, or sideways.</li></ul><ul id="fd81e546-1fbc-4c36-b289-fcbbc9e59399" class="bulleted-list"><li><strong>Governing. </strong>Links to the day’s most important events regarding how tech platforms are governed in the countries where they operate, and how they attempt to govern themselves.</li></ul><ul id="3352430d-4a08-455e-b6c7-433d82fe7283" class="bulleted-list"><li><strong>Industry. </strong>A more eclectic set of links focused on tech companies’ business performance, product launches, and the phenomena that emerge on the platforms.</li></ul><ul id="f9bd9e8e-7ac5-43c7-b36f-858c2df1a9a9" class="bulleted-list"><li><strong>Those good tweets. </strong>In which we try to end the newsletter with something funny.</li></ul><p id="5821bbb1-f050-4922-82ed-9eece3b9c359" class="">Another section that appears sometimes is <strong>Pushback</strong>, in which I include reader responses to items from the previous day. I also occasionally include <strong>Things to do</strong>, featuring recommendations for life lived well online.</p><p id="50e0dda6-da5f-46a6-b369-77208e31453d" class="">While I try to include the day’s biggest events in each newsletter, I will roll items into the next day if the current edition has become too crowded. An average edition ranges between 2,500 and 3,000 words, so this happens with some frequency. If you feel I missed something, please send me a direct message on Twitter or Instagram or email <a href="mailto:casey@platformer.news">casey@platformer.news</a>.</p><h2 id="42488ea2-d8b9-41b6-ae7b-bb2b4a2138ab" class="">How can I get in contact with <strong>Platformer?</strong></h2><p id="71a289b5-0eaf-4f03-ab44-f9818bfcc0b3" class="">Email <a href="mailto:casey@platformer.news">casey@platformer.news</a>, or send me a direct message on Twitter or Instagram. I am especially grateful to readers who help me fix my mistakes: I strive to correct any errors in the offending article as close to instantly as possible.</p><p id="991f9f3a-7450-4f69-a079-6c5bc42e3ce8" class="">In addition to pointing out typos and factual errors, you should write to me with story tips; suggested links; alternate perspectives; suggestions for additional reading; relevant academic papers; the view from Washington, DC; the view from the research community; or anything else you think I should know. If you would prefer to communicate on an encrypted messaging app, such as Signal, DM me, and I’ll tell you how to get in touch.</p><p id="61cd6d55-7aa8-4f60-b484-83843b017969" class="">
+</p><p id="02b0792a-a9b4-4dbc-93b4-9bf5d209be92" class=""><strong>Updated January 5, 2021. </strong>Added a coverage question: &quot;<em>Should platforms make efforts to create a shared sense of reality among their users? If they choose not to, what consequences will that have?&quot;</em></p></div></article></body></html>
