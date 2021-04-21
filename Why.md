@@ -2,7 +2,9 @@
 
 ![Why](https://i.snap.as/OXW0FOqh.jpeg)
 
-[May 22nd, 2018](https://bilge.world/why)
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/Why.mp3">
+</audio>
 
 ## An autobiographical overview of my personal history with technology and its contributions to my current perspective.
 
