@@ -36,7 +36,7 @@ _Download The Psalms 3.0 color pack for a limited time [here](https://github.com
 
 [_The Psalms’_ GitHub Repository](https://github.com/extratone/bilge) also hosts the technical documentation for its Write.as theme. Download the latest “release,” [**here**](https://github.com/extratone/bilge/releases) and/or view the raw CSS [here](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css).
 
-![image](https://user-images.githubusercontent.com/43663476/115518102-71c74b80-a24d-11eb-9b83-4538b198c98a.png)
+![The Psalms Drafts Theme](https://user-images.githubusercontent.com/43663476/115521804-23b44700-a251-11eb-84da-77b446e59c37.png)
 
 ## Drafts Theme
 
