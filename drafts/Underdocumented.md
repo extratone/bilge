@@ -1,4 +1,5 @@
 # Underdocumented Maneuvers in iOS
+
 ![Underdocumented iOS Maneuvers ](https://i.snap.as/vYlsxofN.jpg)
 
 ## Peep this dope listicle of iPhone Pro Tips
@@ -7,4 +8,8 @@ It became most apparent during my research for my iPhone 12 Pro Max Review that 
 
 Apple does make an effort to educate new users, mainly through the [Tips app](https://apps.apple.com/us/app/tips/id1069509450), which has indeed become more useful and insightful over time, but still leaves a whole lot to be desired. They also publish an owner’s manual-esque *[iPhone Users Guide](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=1515995528)*, which is unfortunately completely inaccessible in any format outside of the native Books app. (I made a not-insignificant effort to convert the volume to a PDF for your sake, but found myself completely defeated by DRM, hilariously.) Some of the functions listed in this post are accompanied by links to Apple Support web pages, but far too many have no such entries, which - from my perspective - is absolutely inexcusable on Apple’s part. Inexcusable, but perhaps not inexplicable. 
 
-It would seem that the vast ecosystem of both professional and amateur technology media which reports on iOS has inadvertently filled in for Apple in the role of documentarian. Search YouTube for “iPhone Tips” and you’ll manifest a multitude of results with titles like *[16 ACTUAL iPhone Tricks You Didn’t Know Existed!](https://youtu.be/YKOY6-ZdUo8)* which haphazardly (and often distastefully) do the company’s job for them.
+It would seem that the vast ecosystem of both professional and amateur technology media which reports on iOS has inadvertently filled in for Apple in the role of documentarian. Search YouTube for “iPhone Tips” and you’ll manifest a multitude of results with titles like *[16 ACTUAL iPhone Tricks You Didn’t Know Existed!](https://youtu.be/YKOY6-ZdUo8)* which haphazardly (and often distastefully) do the company’s job for them. Scrolling through said search results, I am compelled to reflect on all the *largely unpaid labor* for Apple, Inc. found there. 
+
+## Syntax
+
+For this "guide," I think it's worth establishing a sort of micro-styleguide to begin with. When referring to a *function* or *task* I'm about to show you how to accomplish, its name will be in **bold text**. (Ex. **Close all Tabs in Safari**.) The *action(s)* or *input(s)* required to complete said task <u>will be underlined</u>. (Ex. <u>Long press on Tabs Icon</u>.)

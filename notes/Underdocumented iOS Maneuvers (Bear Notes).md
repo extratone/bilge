@@ -52,6 +52,3 @@ What was once called 3D Touch is now called “Long Press” - in order to close
 * [Update name and photo](https://www.imore.com/how-create-edit-and-customize-your-contact-profile-imessages).  
 
 - [ ] [iPhone Settings You Need to Turn Off Now | by Hear Aboutit](https://medium.com/swlh/iphone-settings-you-need-to-turn-off-now-5b66b9556df1) | *The Startup*
-- - - -
-
-#i
