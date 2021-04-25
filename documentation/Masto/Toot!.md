@@ -1,6 +1,6 @@
 Name = Toot!
 
-Artist = Dag Agren
+Artist = Dag Ågren
 
 Store URL = https://apps.apple.com/us/app/toot/id1229021451?uo=4
 
