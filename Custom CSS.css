@@ -129,35 +129,50 @@ h2 {
 }
 
 h3 {
+    color: #1c0021 !important;
     font-family: proxima-nova-extra-condensed, sans-serif;
     font-weight: 600;
     font-size: 1.3em !important;
 }
 
 h4 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h5 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h6 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: .85em !important;
 }
 
 code {
-    background-color:#f7ff85 !important;
-    border: 1px solid #00006b !important;
-    border-radius: 2px !important;
-    font-size: 0.75em !important;
+    /* background-color:#f7ff85 !important; */
+    /* border: 1px solid #da2573 !important;
+    border-radius: 1px !important; */
+    font-size: 0.85em !important;
     color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-weight: 400;
-    padding: 0px 0px 0px 0px !important;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+body #post pre, body#collection pre, body#post pre, body#subpage pre {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
 }
 
 .post-title a:visited,
