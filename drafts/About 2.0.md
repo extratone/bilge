@@ -2,14 +2,6 @@
 
 ![Unicode Banner (Centered) - The Psalms](https://i.snap.as/zk0pP5fk.png)
 
-#### Reference 
-
-* [*Platformer*'s About page](https://www.notion.so/About-Platformer-22cd48a5514d404b9c2dd130d7724b93)
-* [Current About page](https://bilge.world/about)
-* “[Why I Write About Technology](https://gist.github.com/extratone/91ebe16b0c620f309e70b40f5d4dcd9e)”
-
----
-
 ## ‽‽‽
 
 *The Psalms* (alternatively/interchangeably entitled *Bilge*) is a monobyline World Wide Web Blog written by David Blue (good morning!) observing and selectively amplifying the characters, organizations, and stories surrounding the most abrupt, profound, and spectacular communicative renaissance in the history of the human species. 
@@ -34,7 +26,8 @@ Two more _significant_ examples: [my interview with Mastodon creator Eugen Rochk
 
 Anyone _truly_ curious about the answer to this question, for whatever reason, should read my very-autobiographical essay “[Why I Write About Technology](https://bilge.world/why)” from 2018, though my perspective has changed quite significantly in the time, since. 
 
-I’m going to take further queue from Casey Newton’s about page format and list a few important assumptions of mine about consumer technology in bullet point form:
+I’m going to take further queue from [Casey Newton’s about page format](https://www.notion.so/About-Platformer-22cd48a5514d404b9c2dd130d7724b93) and list a few important assumptions of mine about consumer technology in bullet form:
+
 * The delivery of technology media to the mainstream has lessened its ability to truly write critically about the big tech companies it now shares office buildings with.
 * The Open Source/Open Web community continues to struggle with their _brand image_ (if you will) in both old and new ways that needlessly alienate (and sometimes obfuscate) some of their most important contributions from the average user. Technology media has failed in their responsibility to address this issue.
 * Women have had a more than equal share in building the digital age and have yet to be recognized for it. 
@@ -46,9 +39,18 @@ I’m going to take further queue from Casey Newton’s about page format and li
 
 ### How do you get your information?
 
+Very likely from the same sources you do. As a "self-taught" technology writer, my go-to sources are constantly changing over time. Recently, I have been actively making cold emailing a habit whenever I set upon a given subject, which has produced good results so far. I will more often than not mention any particulars regarding how I found a specific piece of information, reference, web page, etc. *in the post itself*. Handily, [my various Raindrop feeds](https://raindrop.io/user/517010) should prove particularly useful in answering this question in infinite detail. On the social side, [my public Twitter Lists](https://twitter.com/NeoYokel/lists) should perform the same function.
+
 ### How can I interact with *The Psalms*?
 
+Emailing [**davidblue@extratone.com**](mailto:davidblue@extratone.com) and/or engaging me on [Twitter](https://twitter.com/NeoYokel)/[Mastodon](https://mastodon.social/@DavidBlue) are the simplest ways of getting in touch, but for those interested and/or uncomfortable with those, there are infinitely many more:
 
+* Because *The Psalms* is integrated with the annotation service [Hypothesis](https://hypothes.is/), users can literally post public annotations/page notes via the pullout bar on your right.
+* GitHub users can engage with [*The Psalms* Repository](https://github.com/extratone/bilge). (In theory... This has yet to be tested, so I'd very much appreciate you giving it a try if you've got time.)
+* I've continued to use [*Extratone*'s Discord server](https://discord.gg/0b9KQUKP858b0iZF) as my general hangout - don't be afraid to post there.
+* All other social profiles of mine can be found in this "[Social Directory](https://www.notion.so/rotund/Social-Directory-aea1bee51a64461b91bf4de241a4a16d)" (which is a Notion database.)
+
+<!--emailsub-->
 
 ---
 
