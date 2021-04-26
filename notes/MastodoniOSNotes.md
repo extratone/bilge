@@ -12,13 +12,22 @@
 * [Mercury](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200)
 * [Metatext](https://apps.apple.com/us/app/metatext/id1523996615)
 
+### Linky
+
+* [‎Linky for Twitter and Mastodon on the App Store (apple.com)](https://apps.apple.com/us/app/linky-for-twitter-and-mastodon/id438090426)
+
+* Discovered via [u/GummyKibble](https://www.reddit.com/user/GummyKibble/), who created a single-step custom Drafts action that publishes to Mastodon directly from Drafts:
+  `linky://x-callback-url/compose?text=[[draft]]`
 
 ### Metatext
+
 * [Apparently looks great on iPad](https://reddit.com/r/Mastodon/comments/mxymr1/_/gvrz8mz/?context=1).
 
 ### Toot!
 ![Toot! Settings](https://i.snap.as/30YJR456.png)
-https://imgur.com/gallery/Ze9jtOZ
+
+`https://imgur.com/gallery/Ze9jtOZ`
+
 * Toot!’s colored thread display
 
 ### Mast
