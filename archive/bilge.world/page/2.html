@@ -5,14 +5,14 @@
 
 		<title>The Psalms</title>
 		
-		<link rel="stylesheet" type="text/css" href="https://files.writeas.org/css/write.a4a766dc8aba9afdc8e24.css" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.writeas.net/css/write.047b205d26a3512599f2d.css" />
 		
 		<link rel="shortcut icon" href="https://i.snap.as/iTL3WJk.png" />
 		
 		<link rel="canonical" href="../index.html">
 		<link rel="prev" href="../index.html">
 		<link rel="next" href="3.html">
-		<link rel="alternate" type="application/rss+xml" title="The Psalms &raquo; Feed" href="../feed/index.html" />
+		<link rel="alternate" type="application/rss+xml" title="The Psalms &raquo; Feed" href="../feed.1" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
 		<meta name="generator" content="Write.as">
@@ -26,7 +26,7 @@
 		<meta property="og:title" content="The Psalms" />
 		<meta property="og:site_name" content="The Psalms" />
 		<meta property="og:type" content="article" />
-		<meta property="og:url" content="http://bilge.world/" />
+		<meta property="og:url" content="https://bilge.world/" />
 		<meta property="og:description" content="A narcoleptic yokel on software and culture." />
         
 		<style type="text/css">/* Written in November 2020 by David Blue for bilge.world.
@@ -160,35 +160,50 @@ h2 {
 }
 
 h3 {
+    color: #1c0021 !important;
     font-family: proxima-nova-extra-condensed, sans-serif;
     font-weight: 600;
     font-size: 1.3em !important;
 }
 
 h4 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h5 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h6 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: .85em !important;
 }
 
 code {
-    background-color:#f7ff85 !important;
-    border: 1px solid #00006b !important;
-    border-radius: 2px !important;
-    font-size: 0.75em !important;
+    /* background-color:#f7ff85 !important; */
+    /* border: 1px solid #da2573 !important;
+    border-radius: 1px !important; */
+    font-size: 0.85em !important;
     color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-weight: 400;
-    padding: 0px 0px 0px 0px !important;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+body #post pre, body#collection pre, body#post pre, body#subpage pre {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
 }
 
 .post-title a:visited,
@@ -216,6 +231,22 @@ blockquote {
     font-weight: 400;
     color: #333333 !important;
     border-left: 2.5px solid #00006b !important;
+}
+
+table {
+    background-color: #FFFdeb !important;
+    font-size: 0.8em !important;
+    line-height: 1.2em;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    border: 1px solid #f43f32 !important;
+    border-radius: 1px !important;
+}
+
+article table td, article table th {
+    border: 1px solid !important;
+    border-color: #da2573 !important;
 }
 
 hr {
@@ -325,6 +356,8 @@ body#subpage article time.dt-published {
 	<body id="collection" itemscope itemtype="http://schema.org/WebPage">
 		
 
+		
+
 		<header>
 		<h1 dir="" id="blog-title"><a href="../index.html" class="h-card p-author u-url" rel="me author">The Psalms</a></h1>
 		<p class="description p-note">A narcoleptic yokel on software and culture.</p>
@@ -333,6 +366,8 @@ body#subpage article time.dt-published {
 			<a class="pinned" href="../about.html">About</a><a class="pinned" href="../reading.html">Reading</a><a class="pinned" href="../podcast.html">Podcast</a></nav>
 		
 		</header>
+
+		
 		
 		<section id="wrapper" itemscope itemtype="http://schema.org/Blog">
 
@@ -340,7 +375,80 @@ body#subpage article time.dt-published {
 			
 
 			
-<article id="post-ls2z3rh0wt1dz7qo" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+<article id="post-26apoewjlxliyw99" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+	
+	<h2 class="post-title" itemprop="name" class="p-name"><a href="../finally-broke-windows.html" itemprop="url" class="u-url">Finally Broke Windows</a>
+		
+	</h2>
+	<time class="dt-published" datetime="2020-08-31T19:58:10Z" pubdate itemprop="datePublished" content="2020-08-31 19:58:10 &#43;0000 UTC">August 31, 2020</time>
+
+
+<div lang="en" dir="ltr" class="book e-content"><p><img src="https://i.snap.as/CF3xPXEF.jpg" alt="Broke Windows"/></p>
+
+<h2 id="an-attempt-to-fix-a-windows-insider-build-issue-led-to-soft-bricking-my-surface-laptop-2">An attempt to fix a Windows Insider Build issue led to soft-bricking my Surface Laptop 2.</h2>
+
+<p>I finally did it, ladies and gentlemen... I managed to break the Windows installation on my <a href="https://www.davidblue.wtf/t/surface/" rel="nofollow">Microsoft Surface Laptop 2</a> to such an extent that it has been unrecoverable. I am currently borrowing my mother&#39;s MacBook Pro and waiting on a Windows 10 installation .ISO file to download so that I can hope to mount it correctly on the last, shitty USB thumb drive I still have lying around.</p>
+
+<p><img src="https://i.snap.as/GG9y4pmC.png" alt="Fuck Grammarly"/></p>
+
+<p><em>YEAH, THAT&#39;S RIGHT BITCH.</em></p>
+
+<p>I now suspect I began down this path a few months ago when I discovered <a href="https://blogs.windows.com/windows-insider/2020/06/15/introducing-windows-insider-channels/" rel="nofollow">Windows Insider Channels</a> and rejoiced... As I&#39;ve discovered that one can relatively easily find a beta version of virtually <em>any</em> piece of software, it&#39;s become a bit of a habit for me. More or less unconsciously, I’ve ended up with an application library full of <em>Developer Beta</em> and <em>Nightly</em> <em>Build</em>-type shit. I don&#39;t think there was/is a single web browser installed on that machine that is not the given entity&#39;s “Developer Edition” which – considering most of the regular installs allow you to opt into dev tools, anyway – seem like they might be redundant. I don&#39;t particularly care, anymore – I mostly just love their icons. <a href="https://www.mozilla.org/en-US/firefox/developer/" rel="nofollow">Firefox Developer Edition</a>&#39;s logo is a blue Firefox(!,) <a href="https://www.microsoftedgeinsider.com/en-us/download" rel="nofollow">Edge Chromium Dev</a>&#39;s is... more interesting than the regular version. <a href="https://www.google.com/chrome/canary/" rel="nofollow">Google Chrome Canary</a>&#39;s icon is a surprisingly-tasteful variation of the company&#39;s usually-horrendous color palette.</p>
+
+<p>What I&#39;m trying to say is... I have continued upon this habit of opting for unstable versions of software in a sort of defiance against the common sense notion that relying upon them is generally a <em>bad idea</em>.[^1] I suppose I was just <strong>waiting to experience any consequences</strong> from such a decision, and well... Here they are!</p>
+
+<p>It all began when my Surface&#39;s integrated webcam became invisible to all applications that used a video input – including Microsoft&#39;s own Camera app and OBS. It showed up in Device Manger, where I did the generally-recommended troubleshooting task of uninstalling it completely (including its drivers) and rebooting to force Windows to reinstall it. It did so successfully every time, to no effect on the original issue. I also went into the Surface&#39;s BIOS menu, where its hardware devices are explicitly listed, and disabled/re-enabled the camera, to no effect. Normally, the absence of a webcam function would be more or less irrelevant to my day-to-day workflow, but now that <a href="https://www.davidblue.wtf/college-return/" rel="nofollow">I&#39;m partaking in “virtual” college courses</a>, at least one of my professors has pressured me to appear <em>on cam</em> as soon as possible.</p>
+
+<p>On Sunday night, I decided to revisit the problem with greater commitment, diving into a variety of deeper troubleshooting steps which I do not recall. The crucial one, though, was my decision to use the System File Checker tool <code>(sfc /scannow)</code> with the added instruction to <em>fix</em> whatever errors it found.[^2] This drove my dearest little laptop into a cycle of self-diagnoses which results in an option screen including “Reset PC.” After trying virtually every other option, I decided to try resetting, only to be met with connectivity error messages after pursuing the “Install via Network” option, leaving the use of a bootable Windows 10 recovery USB as my only choice, in theory.</p>
+
+<p>Another problem now arose: my mother&#39;s MacBook Pro is the only other machine I have any sort of access to at the moment, and MacOS no longer supports the creation of such a bootable USB for Windows via the Boot Camp Utility any longer. Nevertheless, I tried to make one by downloading the correct OS ISO and mounting it via UNetbootin, which didn&#39;t work. I then called <a href="https://www.colcomputers.com/" rel="nofollow">Columbia Computer Center</a>, who very generously agreed to make one for me and only charge me for the drive itself ($10!)</p>
+
+<p>Unfortunately, that one hasn&#39;t worked either, so I&#39;m afraid I&#39;m just going to have to take the thing to them... <a href="https://www.davidblue.wtf/t/surface/" rel="nofollow">Stay tuned</a> for the Final Verdict.</p>
+
+<p>[1] This is why I’ve always downloaded the developer iOS beta releases on my actual, daily driver handset.</p>
+
+<p>[2] I’m pretty sure it was “-f” but I’m not going to do the research to verify that… Sorry!</p>
+
+<p><a href="../tag%253Asoftware.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
+</div></article><article id="post-d9g3r8kf9lm910hk" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+	
+	<h2 class="post-title" itemprop="name" class="p-name"><a href="../soundcloud-go.html" itemprop="url" class="u-url">SoundCloud Go+</a>
+		
+	</h2>
+	<time class="dt-published" datetime="2020-08-09T19:27:32Z" pubdate itemprop="datePublished" content="2020-08-09 19:27:32 &#43;0000 UTC">August 9, 2020</time>
+
+
+<div lang="en" dir="ltr" class="book e-content"><p><img src="https://i.snap.as/2eB6JrY.png" alt="SoundCloud Tile"/></p>
+
+<h2 id="i-ve-got-some-fucking-opinions-about-soundcloud">I’ve got some fucking opinions about SoundCloud…</h2>
+
+<p>My friend Sierra has used SoundCloud almost exclusively for her music discovery, consumption, and recommendations, but has remained resolute in her unwillingness to financially invest in the service. As such, her listening is regularly interrupted by ads and limited to bitrates <a href="https://www.magneticmag.com/2018/01/soundcloud-lowers-sound-quality-uploads-half/" rel="nofollow">as low as 64kbps</a>. Since I was last employed, I have maintained a vow to her that I would pay for a subscription to SoundCloud Go+ – the premium <em>listener</em> tier of the service – with my own money, once I was once again in place at a steady job. This move would remove all advertising from her listening and <a href="https://help.soundcloud.com/hc/en-us/articles/360010227514-High-Quality-Streaming" rel="nofollow">up its bitrate to 256kbps</a>, among <a href="https://checkout.soundcloud.com/go" rel="nofollow">other benefits</a>.</p>
+
+<p>Two nights ago, we were refueling her car in preparation for another one of our recreational drives into rural Missouri when I made the decision on a whim to simply signup for a trial of Go+ on <a href="https://soundcloud.com/chordoslut" rel="nofollow">my own account</a> using Apple Pay, mostly because I knew we’d be going out of effective cell network range and one of Go+’s most emphasized features is its ability to download music locally. (Since my Apple Music subscription expired earlier this year, I only have <a href="https://bigkrit.com/music/king-remembered-in-time/" rel="nofollow">a single album</a> actually downloaded on my phone.)</p>
+
+<p><iframe allow="monetization" class="embedly-embed" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttps%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F255811428%26show_artwork%3Dtrue&amp;display_name=SoundCloud&amp;url=https%3A%2F%2Fsoundcloud.com%2Fkeithjarrettofficial%2Frio-part-v&amp;image=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-4o6X0NzCmNjZ-0-t500x500.jpg&amp;key=d932fa08bf1f47efbbe54cb3d746839f&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" title="SoundCloud embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe></p>
+
+<p>***
+The above is what I wrote several weeks ago, just as I was beginning my trial period. Now, having experienced a significant amount of time as a SoundCloud Go user, I am a bit sad that my trial is over. To be honest, I fully intended to become a paying subscriber, but my PayPal account was $0.70 short of the $12.99 monthly fee when the first billing cycle came, two weeks ago. This is not a conclusion I expected to come to, as SoundCloud’s fundamental arrangement could not possibly differ any more from the music streaming service I long claimed as my ideal own: Apple Music.</p>
+
+<p>One major worry I would imagine potential subscribers may have when approaching SoundCloud as a replacement for their single music subscription service would revolve around the extent of SoundCloud’s establishment music industry library. There’s no way your Dad’s Sunday barbecue playlist is going to be on <em>SoundCloud</em>, right? Strangely enough, I was unable to find a single track that <em>was not</em> in the library. From my own favorite <a href="https://soundcloud.com/keithjarrettofficial" rel="nofollow">Keith Jarrett’s archives</a> to <a href="https://soundcloud.com/dixiechicks/sets/gaslighter-2" rel="nofollow">the new Dixie Chicks album</a>, every bit of big time record label-distributed music I could conceieve of could be found aside the Go+ badge (though notably, neither of these showed significant playcounts.) As far as the app experience goes, I <em>swear</em> it got smoother as soon as I signed up for Go+. This is probably bullshit, but regardless, with the seemingly ever-widening disparity in the experiences of free vs. premium users, SoundCloud appears to be moving actively away from the former.</p>
+
+<p><img src="https://i.snap.as/78HwnfKK.png" alt="SoundCloud Desktop Keyboard Shortcuts"/></p>
+
+<p>I have long said (somewhat in jest) that <a href="https://soundcloud.com/chancetherapper" rel="nofollow">Chance The Rapper</a> is the only reason SoundCloud still exists.</p>
+
+<blockquote><p>From a future historian’s perspective, the battle for the definitive name in independent digital music distribution has already won, largely thanks to its relationship with Chance The Rapper, who’s quickly become a “cultural influencer, thought leader, global star,” and one of my generation’s upmost celebrity champions. Obviously, there is little sense trying to determine whether SoundCloud <em>earned</em> his partnership or landed their popular association with his name as long as the artist maintains it publicly, while continuing to <a href="https://soundcloud.com/pitchfork/pitchfork-presents-in-sight-out-chance-the-rapper" rel="nofollow">give new meaning</a> to the phrase “serially likable.”
+-“<a href="../bandcamp-streaming-music.html" rel="nofollow">Bandcamp: Streaming’s Secret Savior</a>” | July, 2018</p></blockquote>
+
+<p>If <em><a href="https://www.cnet.com/news/chance-the-rapper-soundcloud/" rel="nofollow">CNET_ was asking the question</a> a year before that Bandcamp essay, I think I can feel properly varified. What I’d really like to know, now: does Chance still feel the same way about the streaming service after the launch of SoundCloud Go+? Considering that I am far from a <em>real</em> music journalist, I do not have any more contact resources than you have. That said, I left [a comment on his Facebook Page](<a href="https://www.facebook.com/chancetherapper/posts/3299672310124810?comment=" rel="nofollow">https://www.facebook.com/chancetherapper/posts/3299672310124810?comment</a></em>id=3319045628187478). I guess we’ll see.</p>
+
+<p>Some more technical bits: SoundCloud is now castable on Chromecast, but <em>not</em> supported by Apple CarPlay, for whatever that’s worth. Notably apart from Bandcamp and Apple Music and aligned with Spotify, SoundCloud is explicitly investing in algorithmic music discovery, which means its users are doing the curatorial work. <em>I</em> am doing/have done the curatorial work. That means the DnB crowd is going to receieve Toto recommendations, given what I sought out for this post. You’re welcome, and sorry…</p>
+<ol><li>While I was surprisingly unable to find any Tweets or Evernotes further evangelizing Apple Music (I suspect I’m thinking of an old, untranscribed <em>Drycast</em> episode,) I found real magic in the service as I perceieved it: $9.99 a month for <em>all of iTunes</em>. 13 year-old me would considerthat one helluva deal.</li>
+<li>Naturally, if you know of one, please do comment and/or <a href="https://www.davidblue.wtf/contact/" rel="nofollow">drop me a line</a>.</li>
+<li>In fact, it is the only streaming app I found that _does not _have CarPlay support. Even Bandcamp and MixCloud for iOS do!</li></ol>
+
+<p><a href="../tag%253Amusic.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">music</span></a> <a href="../tag%253Asoftware.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
+</div></article><article id="post-ls2z3rh0wt1dz7qo" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 	
 	<h2 class="post-title" itemprop="name" class="p-name"><a href="../greyhound-tom-hanks.html" itemprop="url" class="u-url">&#39;Greyhound&#39;&#39;s Top-Side Pot Shot</a>
 		
@@ -420,7 +528,7 @@ not the hound on the run.</p>
 
 <p>The result is an emotionally effective film constrained by a very specific dramatic aim: another war movie every father can juice for decades&#39; worth of Sunday afternoons on the sofa. “As befits his status as America&#39;s Dad, Hanks has constructed for us the ultimate Dad Movie — all the action you could ever need or want, with no annoying characters hanging around, harboring pesky needs and wants of their own,” <a href="https://www.npr.org/2020/07/10/888899608/world-war-ii-naval-drama-greyhound-charts-a-trim-efficient-course" rel="nofollow">quips Glen Weldon for <em>NPR</em></a>. Undoubtedly, though, the subject matter is fresh. I wouldn&#39;t say my youth desire for a surface-side Atlantic-theatre film is 100% satiated, but <em>Greyhound</em> managed to accomplish much more than I expected.</p>
 
-<p><a href="../tag%253Afilm.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">film</span></a></p>
+<p><a href="../tag%253Afilm.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">film</span></a></p>
 </div></article><article id="post-4fkc9vocvs70zu6f" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 	
 	<h2 class="post-title" itemprop="name" class="p-name"><a href="../hey-email-history.html" itemprop="url" class="u-url">Email and I: An Abridged History</a>
@@ -453,7 +561,7 @@ not the hound on the run.</p>
 
 <p>It still sounds a bit silly to say, but I&#39;ve spent the past few years coming to believe more and more strongly that my first-generation iPhone changed my life forever in a profound way – <em>especially</em> my relationship with email. After watching <a href="https://www.howtogeek.com/674796/how-to-archive-or-delete-a-facebook-group/" rel="nofollow">Steve Job&#39;s introduction at MacWorld 2007</a> live, I promised to skip a year of Christmas gifts if my mom would agreed to buy me one, and she did. Obviously, it was like nothing else I&#39;d ever experienced, and it completely changed how I responded to and thought about technology. Before smartphones, there was no checking email outside of time in the computer lab, which was intended to be quite strictly-regulated. I had a real advantage when I started bringing my iPhone to school – absolutely no one knew what it was (a bizarre thought in contrast,) including teachers. Suddenly able to browse and read my inbox in class, at lunch, and on the bus, my use and consideration of email was propelled far ahead of my peers&#39;.</p>
 
-<p><blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RealFriendsIn5Words?ref_src=twsrc%5Etfw&src=hash" rel="nofollow"><a href="../tag%253ARealFriendsIn5Words.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">RealFriendsIn5Words</span></a></a> sent it to your email.</p>— David Blue (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/906468410976079872?ref_src=twsrc%5Etfw" rel="nofollow">September 9, 2017</a></blockquote> </p>
+<p><blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/RealFriendsIn5Words?ref_src=twsrc%5Etfw&src=hash" rel="nofollow"><a href="../tag%253ARealFriendsIn5Words.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">RealFriendsIn5Words</span></a></a> sent it to your email.</p>— David Blue (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/906468410976079872?ref_src=twsrc%5Etfw" rel="nofollow">September 9, 2017</a></blockquote> </p>
 
 <p>When I started an online magazine in 2016, I don&#39;t think I could&#39;ve conceived of the extent to which running a modern media company – even one targeted toward tech-savvy, early-adopting youth – still involves email. I assumed that my audience rarely <em>actually read</em> from their inboxes and relied almost exclusively on social networks for content discovery, so I originally forwent any implementation of a newsletter. As I grew more and more interested in and engaged with the media beat, I was exposed to the email renaissance of the past 2-3 years thanks to services like Revue and Substack, saw that it was good, and decided to give it a try for myself. I launched our semi-regular newsletter in April, 2017 on the subjects of “<strong>Division</strong>, <strong>Art</strong>, and <strong>Media</strong>” and published a little over 30 issues over the course of 18 months. To be honest, I&#39;m not sure I&#39;ve ever had so much fun writing.</p>
 
@@ -467,7 +575,7 @@ not the hound on the run.</p>
 
 <p>Thank you!</p>
 
-<p><a href="../tag%253Asoftware.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
+<p><a href="../tag%253Asoftware.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
 </div></article><article id="post-lij5wkct77uokp1l" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 	
 	<h2 class="post-title" itemprop="name" class="p-name"><a href="../google-page-experience.html" itemprop="url" class="u-url">Google Is Not God of The Web</a>
@@ -532,7 +640,7 @@ not the hound on the run.</p>
 
 <p>Google has <a href="https://dev.to/chromiumdev/announcing-web-dev-live-a-three-day-digital-event-2640" rel="nofollow">announced</a> a three-day live digital event at the end of this month (June 30th-July 2nd) in which viewers will “celebrate our community&#39;s actions, learn modern web techniques and connect with each other.” “Over three days, we&#39;ll share quick tips on aspects of modern web development,” explains the company on its <a href="https://web.dev/live/" rel="nofollow">web.dev/live page</a>. I am planning to attend and bitch as much as I am allowed. <a href="../subscribe.html" rel="nofollow">Stay tuned</a> to hear a chronicle.</p>
 
-<p><a href="../tag%253Asoftware.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
+<p><a href="../tag%253Asoftware.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
 </div></article><article id="post-v8sxr35jsq8kl557" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 	
 	<h2 class="post-title" itemprop="name" class="p-name"><a href="../changes-updates.html" itemprop="url" class="u-url">Changes and Updates</a>
@@ -580,7 +688,7 @@ A short academic essay about how little the illiteracy issue is covered in Ameri
 
 
 
-<p><a href="../tag%253Ameta.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">meta</span></a></p>
+<p><a href="../tag%253Ameta.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">meta</span></a></p>
 </div></article><article id="post-xcgqarmhntl2nz41" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 	
 	<h2 class="post-title" itemprop="name" class="p-name"><a href="../blimps-burden-chapter-6.html" itemprop="url" class="u-url">Excerpt: Blimp&#39;s Burden, Chapter VI</a>
@@ -709,7 +817,7 @@ A short academic essay about how little the illiteracy issue is covered in Ameri
 
 <p>Though the Lake Geneva Police Department was shown the security footage of that first theft by management, the theatricality of their matching getup had inadvertently obscured their identities, and the organization’s extreme deficit of imagination had left them stumped by the lack of license plates on the car, despite the free and effortless ability of just about any casual enthusiast of early American luxury automobiles and/or lackadaisical disciple of the Concours religion to immediately identify <em>BLOOD</em> by <em>name</em> from the grainiest image, if consulted. If anything, their incompetence rewarded Pith and Lather’s continued focus on the products of the same store’s cheese artisan, as intelligence on the state of her latest flagship incubation was freely available with no more effort than it took to simply stop by her display amid regular shopping trips. Twice in two weeks, they stole both of her replacements for the biggest child without any significant alternation of their method, which frustrated her and the management nearly to the point of crises, and quickly lost all potential for fun in a third attempt – their kicks were in their absurdity, not their <em>effectiveness</em>, and neither of them cared much for the cheese.</p>
 
-<p><a href="../tag%253Afiction.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">fiction</span></a></p>
+<p><a href="../tag%253Afiction.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">fiction</span></a></p>
 </div></article><article id="post-uylmcdyrenzr2k67" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 	
 	<h2 class="post-title" itemprop="name" class="p-name"><a href="../star-trek-online.html" itemprop="url" class="u-url">Star Trek Online Lives</a>
@@ -822,7 +930,7 @@ A short academic essay about how little the illiteracy issue is covered in Ameri
 
 <p>🗎 <a href="https://eileenlong-my.sharepoint.com/:b:/g/personal/david_eileenlonglcsw_com/EXpysApLgutGv5Dl_I1TZOoB_gkj5DeLdeIu4xO0BY45Og" rel="nofollow"><strong>PRINT/PDF</strong></a></p>
 
-<p><a href="../tag%253Asoftware.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
+<p><a href="../tag%253Asoftware.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
 </div></article><article id="post-g61kh6ju0li1yrv0" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 	
 	<h2 class="post-title" itemprop="name" class="p-name"><a href="../discord-slack-comparison.html" itemprop="url" class="u-url">Discord is Better Than Slack</a>
@@ -845,7 +953,7 @@ A short academic essay about how little the illiteracy issue is covered in Ameri
 
 <p>Never before have so many VoIP, video, and text chat features been offered together, or in such a beautiful package. “What we really did was create an all-in-one voice, video, and text chat app that replaced this constellation of tools that people would use,” said CEO Jason Citron in <a href="https://youtu.be/NNJ2n6XKmmA" rel="nofollow">an interview with CNBC</a>. Technically in terms of these details, Discord <em>has no competition</em>. Slack offers text and voice chat with its paid plans, yes, but nothing close in terms of video – especially considering <a href="https://www.polygon.com/2019/8/9/20798559/discord-go-live-private-stream-voice-channel" rel="nofollow">Discord Go Live</a>, its fairly-new streaming feature, which allows users to stream game video directly to 10 other users in the server. With some jury-rigging, it&#39;s possible to simply screen share this way, which is an essential sell for business video communication applications like Skype.</p>
 
-<p><blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Does anyone else have a discord server where you&#39;re the only member and you use different text channels to plan your weekly schedules lmaoooo</p>— Jab 🏳️‍🌈 <a href="../tag%253ABLM.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">BLM</span></a> (@jab50yen) <a href="https://twitter.com/jab50yen/status/1270886743395520512?ref_src=twsrc%5Etfw" rel="nofollow">June 11, 2020</a></blockquote> </p>
+<p><blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Does anyone else have a discord server where you&#39;re the only member and you use different text channels to plan your weekly schedules lmaoooo</p>— Jab 🏳️‍🌈 <a href="../tag%253ABLM.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">BLM</span></a> (@jab50yen) <a href="https://twitter.com/jab50yen/status/1270886743395520512?ref_src=twsrc%5Etfw" rel="nofollow">June 11, 2020</a></blockquote> </p>
 
 <p>“Discord and Slack have many similarities, but Discord is the superior tool,” says <a href="https://medium.com/ardentunited/why-we-use-discord-and-not-slack-500ac8027824" rel="nofollow">esports team Ardent United</a>. “Discord has voice channels, which allows us to easily chat with our supporters and other team members. Discord also allows us to set user roles and permissions which makes moderation extremely simple.” It&#39;s not just gaming companies, though. Decentralized cloud platform Sia also <a href="https://blog.sia.tech/sia-is-moving-from-slack-to-discord-195f87feb6a6" rel="nofollow">moved their community</a> to Discord:</p>
 
@@ -874,7 +982,7 @@ A short academic essay about how little the illiteracy issue is covered in Ameri
 <li>“<a href="https://miguelpiedrafita.com/slack-discord/" rel="nofollow">Should you be using Discord instead of Slack?</a>” | Miguel Piedrafita</li>
 <li>“<a href="https://www.theverge.com/21269875/slack-ceo-stewart-butterfield-interview-microsoft-remote-work-vergecast" rel="nofollow">Slack CEO Stewart Butterfield on Competing With Microsoft, the Future of Work, and Managing All Those Notifications</a>” | <em>The Verge</em></li></ul>
 
-<p><a href="../tag%253Asoftware.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
+<p><a href="../tag%253Asoftware.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
 </div></article><article id="post-uxc10tpgeoian10b" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
 	
 	<h2 class="post-title" itemprop="name" class="p-name"><a href="../the-langoliers-stephen-king.html" itemprop="url" class="u-url">Craig Toomey&#39;s Coronavirus</a>
@@ -925,100 +1033,7 @@ A short academic essay about how little the illiteracy issue is covered in Ameri
 
 <p>Little Prophet notes that the sound she&#39;s been hearing is once again getting louder. Mr. Toomey&#39;s face is shoved in the floor, his nose bent.</p>
 
-<p><a href="../tag%253Atelevision.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">television</span></a> <a href="../tag%253Afilm.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">film</span></a></p>
-</div></article><article id="post-g8g12eare41caz90" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-	
-	<h2 class="post-title" itemprop="name" class="p-name"><a href="../microsoft-build-2020-edge-browser.html" itemprop="url" class="u-url">Microsoft Build 2020 in Dogs</a>
-		
-	</h2>
-	<time class="dt-published" datetime="2020-05-19T22:21:33Z" pubdate itemprop="datePublished" content="2020-05-19 22:21:33 &#43;0000 UTC">May 19, 2020</time>
-
-
-<div lang="en" dir="ltr" class="book e-content"><p><img src="https://i.snap.as/oDUqtqe.png" alt="Microsoft Build Olive Tracker"/></p>
-
-<h2 id="new-microsoft-office-features-the-powertoys-run-preview-and-a-test-of-edge-chromium">New Microsoft Office features, the PowerToys Run Preview, and a test of Edge Chromium.</h2>
-
-<p>I have no idea why I signed up to attend Microsoft&#39;s virtual 2020 Build Conference, but I did. I thought I&#39;d add my <a href="https://anchor.fm/davidblue" rel="nofollow">End User</a> commentary to the mix. Sorry. My first event was called “Every developer is welcome, with Scott Hanselman and guests.” Hanselman is listed as a <a href="https://www.hanselman.com/" rel="nofollow">blogger</a> and <a href="http://hanselminutes.com" rel="nofollow">podcaster</a> living (of course) in Portland. I&#39;m not a “real” developer, but I know what Microsoft Teams is, and I recognized the event as a desktop screenshare of his calls with different Microsoft employees. There was a <a href="https://twitter.com/JuanKRuiz/status/1262789374128816128" rel="nofollow">child invasion</a> and a dropped phone. I also noticed the icon for the <a href="https://www.zdnet.com/article/meet-the-new-microsoft-edge-your-move-google/" rel="nofollow">“new” Microsoft Edge</a> browser in his taskbar and realized that I hadn&#39;t downloaded it yet. I remedied that for the conference&#39;s sake – I thought it only appropriate that I try to use as much Microsoft software as possible in this context. I also installed the new <a href="https://www.theverge.com/2020/5/19/21262060/microsoft-windows-10-launcher-powertoy-spotlight-alfred-download-build" rel="nofollow">PowerTools Run preview</a> which I mentioned in my <a href="../poweruser-tips-software-shortcuts.html" rel="nofollow">tips post</a>.</p>
-
-<p><blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Epic <a href="https://twitter.com/shanselman?ref_src=twsrc%5Etfw" rel="nofollow">@shanselman</a> moment! awesome, glad to share our new realities. Kids are awesome, let&#39;s celebre them. <a href="https://twitter.com/hashtag/MSBuild2020?ref_src=twsrc%5Etfw&src=hash" rel="nofollow"><a href="../tag%253AMSBuild2020.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">MSBuild2020</span></a></a> <a href="https://twitter.com/hashtag/BUILD2020?ref_src=twsrc%5Etfw&src=hash" rel="nofollow"><a href="../tag%253ABUILD2020.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">BUILD2020</span></a></a> <a href="https://t.co/Boe2cLnZXi" rel="nofollow">pic.twitter.com/Boe2cLnZXi</a></p>— JuanK – 🤖 (@JuanKRuiz) <a href="https://twitter.com/JuanKRuiz/status/1262789374128816128?ref_src=twsrc%5Etfw" rel="nofollow">May 19, 2020</a></blockquote> </p>
-
-<p>Build allows an attendee to build one&#39;s own event schedule, but I neglected to find those focused on what I really care about: <strong>Office 365</strong>. As <a href="https://www.theverge.com/2020/5/19/21260005/microsoft-office-fluid-web-document-features-build" rel="nofollow">reported by <em>The Verge</em></a>, <a href="https://eileenlong-my.sharepoint.com/:u:/g/personal/david_eileenlonglcsw_com/EXd7qVaXqRlHlnnllT7_A5gBRw-ypXkANGTIWlzEPlLzQA?e=PrLfh6" rel="nofollow">Microsoft Fluid</a> is going to change a lot:</p>
-
-<blockquote><p>Microsoft’s Fluid Framework sounds a lot like Google Docs, but it’s actually Google Docs on steroids. Microsoft is so confident it has built the future of productivity, it’s now open-sourcing its Fluid Framework so the rest of the world can help shape what it has created.</p></blockquote>
-
-<p>There&#39;s also <a href="https://www.engadget.com/microsoft-lists-150002899.html" rel="nofollow">Microsoft Lists</a>, which is reportedly going to revolutionize SharePoint Lists into something more modern and useful:</p>
-
-<blockquote><p>It builds off the <a href="https://support.office.com/en-us/article/what-is-a-list-in-sharepoint-93262a88-20ad-4edc-8410-b6909b2f59a5" rel="nofollow">existing feature in SharePoint</a>, and will let you track progress and data to organize your teams, potentially making the company’s offerings more streamlined and productive.</p></blockquote>
-
-<p><img src="https://i.snap.as/XmboQGr.png" alt="Microsoft PowerToys Run"/></p>
-
-<h2 id="microsoft-edge-chromium">Microsoft Edge Chromium</h2>
-
-<p>As an Office 365 administrator, I basically only use Edge for administrative/management tasks. Otherwise, I can&#39;t imagine a reason to use it over Firefox, Brave, Vivaldi, Chrome, Opera, etc, but I thought I&#39;d give the “new” (as of January) Edge a tryout for your sake and make it my default browser for a day as well as Microsoft&#39;s Bing search engine. There&#39;s also news specific to Build: <a href="https://techcrunch.com/2020/05/19/microsoft-edge-gets-a-pinterest-integration-sidebar-search-and-automatic-profile-switching/" rel="nofollow">Edge is integrating with Pinterest</a>, of all things:</p>
-
-<blockquote><p>Now, Edge will feature a Pinterest-powered tool that will show suggestions from Pinterest at the bottom of a collection. Clicking on that, Microsoft says, will take users to a Pinterest board “of similar, trending Pins so users can quickly find and add ideas relevant to their collection.” Users will also be able to export collections to Pinterest.</p></blockquote>
-
-<p>I&#39;m in no position to “test” a browser, but the new Edge is noticeably faster at rendering pages and much <em>much</em> smoother when navigating between tabs/preference windows. It looks much more like Chrome, which makes sense. Perhaps because my install is absent of third-party extensions, opening new tabs and windows was much faster than my other browsers. I recorded a <a href="https://vimeo.com/420430704" rel="nofollow">~2 minute demo</a> of normal browsing on <a href="https://extratone.com/microsoft-surface-laptop-2-review-windows-future" rel="nofollow">my Surface Laptop 2</a>.</p>
-
-<iframe src="https://player.vimeo.com/video/420430704" frameborder="0" allowfullscreen=""></iframe>
-
-<p>In terms of touch support, Edge remains the only acceptable browser on Windows 10. If you&#39;ve spent money on a new PC recently, chances are your device is touch-enabled. If you&#39;re like me, you&#39;ve already <a href="https://support.microsoft.com/en-us/help/4028019/windows-enable-and-disable-your-touchscreen-in-windows-10" rel="nofollow">disabled it</a>. If not, you&#39;ll find scrolling and navigation in Edge have improved tremendously – it&#39;s like an entirely new browser <a href="https://www.theverge.com/2019/5/6/18527550/microsoft-chromium-edge-google-history-collaboration" rel="nofollow">because it is</a>.</p>
-
-<blockquote><p>Because Edge used a different rendering engine than Chrome or Safari, it meant that it would sometimes have problems on websites. Testing a website against multiple browsers has always been difficult, and because Edge had so little uptake, it meant optimizing for it often fell off the priority list for web developers.</p></blockquote>
-
-<p>I really like how easy it is to mute audio from tabs and how much better <a href="https://write.as" rel="nofollow">my CMS</a> is rendered. I still prefer Firefox&#39;s method of tab switching (by last-used chronologically instead of in the order presented.) The reader view is smoother than its competitors and offers a beautiful selection of themes as well as the best “Read aloud” feature in the business.</p>
-
-<p><img src="https://i.snap.as/jWqG85f.png" alt="Microsoft Edge Reader View"/></p>
-
-<p>I&#39;m not going to quote you measurements – check out <a href="https://www.computerworld.com/article/3513973/microsofts-new-edge-browser-third-times-the-charm.html" rel="nofollow"><em>Computerworld</em>&#39;s browser review</a> for that – but I can say that Edge Chromium is using more RAM than Firefox but a bit less than Chrome. <a href="http://office.com" rel="nofollow">Office.com</a> also looks and works incredibly well. Overall, I&#39;m extremely impressed with Edge Chromium and the improvements to Bing. As of my experiences today, it&#39;s the fastest and smoothest web browser I have, which is a complete flip from that of the old Edge.</p>
-
-<hr/>
-
-<h2 id="further-reading">Further Reading</h2>
-<ul><li>“<a href="https://www.theverge.com/2020/5/19/21262098/microsoft-edge-sidebar-search-pinterest-integration-features" rel="nofollow">Microsoft Edge is getting a new sidebar search feature and Pinterest integration</a>” | <em>The Verge</em></li>
-<li>“<a href="https://www.theverge.com/2020/1/15/21066767/microsoft-edge-chromium-new-browser-windows-mac-download-os" rel="nofollow">Microsoft’s new Edge Chromium browser launches on Windows and macOS</a>” | <em>The Verge</em></li>
-<li>“<a href="https://arstechnica.com/gadgets/2020/01/browser-review-microsofts-new-edgium-chromium-based-edge/" rel="nofollow">Browser review: Microsoft’s new “Edgium” Chromium-based Edge</a>” | <em>Ars Technica</em></li>
-<li>“<a href="https://www.androidauthority.com/microsoft-edge-chromium-review-1065152/" rel="nofollow">Microsoft Edge Chromium is already a viable alternative to Chrome and Firefox</a>” | <em>Android Authority</em></li>
-<li>“<a href="https://techcrunch.com/2020/05/19/microsofts-fluid-framework-is-now-open-source-comes-to-office-365/" rel="nofollow">Microsoft’s Fluid Framework is now open source, comes to Office 365</a>” | <em>TechCrunch</em></li>
-<li>“<a href="https://www.theverge.com/2020/5/19/21263377/microsoft-windows-10-linux-gui-apps-gpu-acceleration-wsl-features" rel="nofollow">Microsoft is bringing Linux GUI apps to Windows 10</a>” | <em>The Verge</em></li>
-<li>“<a href="https://www.theverge.com/2020/5/18/21262103/microsoft-open-source-linux-history-wrong-statement" rel="nofollow">Microsoft: we were wrong about open source</a>” | <em>The Verge</em></li>
-<li>“<a href="https://www.theverge.com/2020/5/19/21263400/microsoft-lists-app-sharepoint-teams-outlook-integration-web-app-build" rel="nofollow">Microsoft Lists is a new app designed for Teams, SharePoint, and Outlook</a>” | <em>The Verge</em></li>
-<li>“<a href="https://www.thurrott.com/windows/windows-10/236301/windows-10-is-getting-its-own-built-in-package-manager" rel="nofollow">Windows 10 Is Getting Its Own Built-In Package Manager</a>” | <em>Thurrott</em></li>
-<li>“<a href="https://www.thurrott.com/microsoft/236331/microsoft-build-2020-summarised" rel="nofollow">Microsoft Build 2020, Summarised</a>” | <em>Thurrott</em></li>
-<li>“<a href="https://www.zdnet.com/article/microsoft-office-365-for-business-everything-you-need-to-know/#ftag=CAD-00-10aag7e" rel="nofollow">Microsoft 365 (formerly Office 365) for business: Everything you need to know</a>” | <em>ZDNet</em></li>
-<li>“<a href="https://www.wired.com/story/microsoft-build-2020/" rel="nofollow">Microsoft Build Looks Very Different This Year</a>” | <em>Wired</em></li>
-<li>“<a href="https://www.pcworld.com/article/3543765/why-cortana-wont-be-at-microsoft-build.html" rel="nofollow">Why Cortana won&#39;t be at Microsoft Build</a>” | <em>PC World</em></li></ul>
-
-<p><a href="../tag%253Asoftware.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
-</div></article><article id="post-xpth7chp2ir44dhh" class="norm h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-	
-	<h2 class="post-title" itemprop="name" class="p-name"><a href="../zalgo-generator-ios-app-review.html" itemprop="url" class="u-url">Z̴͏a͞l͟g͝o͏ ̕G͟͝e͞n͞҉è̛ŗ͡a͝͞t̴o҉r͞ for iOS</a>
-		
-	</h2>
-	<time class="dt-published" datetime="2020-05-15T20:22:54Z" pubdate itemprop="datePublished" content="2020-05-15 20:22:54 &#43;0000 UTC">May 15, 2020</time>
-
-
-<div lang="en" dir="ltr" class="book e-content"><p><img src="https://i.snap.as/2ixUKqT.png" alt="Zalgo Generator for iOS"/></p>
-
-<h2 id="a-powerful-ios-utility-for-fucking-digital-text-with-ruthless-efficiency">A powerful iOS utility for fucking digital text with ruthless efficiency.</h2>
-
-<p>A warning siren sounds louder still for the current state of the <em>Digital Divide</em> than the profoundly ignorant spectacle of Mark Zuckerberg’s drooling, ghoulish interrogators last year from the digital hole of none other than <a href="https://validator.w3.org" rel="nofollow">W3School’s trusty web validator</a>, which would surely be rated as the Most Anxious Being in History if it were to acquire sentience. The CSS file this very webpage referenced returned no fewer than <em><a href="https://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=http%3A%2F%2Fwww.extratone.com&usermedium=all&vextwarning=&warning=1" rel="nofollow">350 syntax errors</a></em> at the time of this writing; <strong><a href="https://jigsaw.w3.org/css-validator/validator?lang=en&profile=css3svg&uri=http%3A%2F%2Ffacebook.com&usermedium=all&vextwarning=&warning=1" rel="nofollow">Facebook dot com’s login page</a></strong> set off only 55. For going on a <em>decade</em>, now, the web has continued to expand into a grotesque, diseased mass.</p>
-
-<p>Yet another piece of software I have notably been using for 10 years: the infamous <a href="http://www.eeemo.net/" rel="nofollow">eemo.net</a> Zalgo web text fucker. Ideally, I’d now proceed to embed some special examples of the hedonistic online text vandalism which the tool enabled me to inflict widely throughout my adolescence. However – as you can probably imagine – <em>searching</em> for these criminally-broken posts using standard tools provided by the services that have hosted them is virtually futile. In retrospect, I do not recall ever eliciting any acknowledgment of Zalgo’s effects, yet I’m positive that at least the <em>majority</em> of my victims set eyes upon the mess at some point – their silence is actually more entertaining than not, I think. Despite my extensive use of the format, I made a point to maintain my total ignorance about the origin of “<a href="https://knowyourmeme.com/memes/zalgo" rel="nofollow">Zalgo</a>” for the past decade – only spoiling it <strong>in the name of good journalism</strong> for your sake and this review.</p>
-
-<blockquote><p>On forums and image boards, scrambled text began being associated with Zalgo with phrases like “he comes” and “he waits behind the wall.” David Higgins revealed that the text is an ~abuse~ of a Unicode feature that enables the user to combine multiple superscript and subscript characters into a vertical line.</p></blockquote>
-
-<p>By bizarre coincidence or some ridiculously obscure, intractable common cultural thread (which would probably take a lifetime to successfully trace,) <a href="https://octodon.social/@DaveHiggins" rel="nofollow">Dave Higgins</a> and I were <em>already mutuals</em> on Mastodon before I had any idea his name was at all associated with Zalgo. More bizarre still: Dave must’ve been watching his timeline at the exact moment when I <a href="https://mastodon.social/@DavidBlue/102564857843257870" rel="nofollow">posted the above quote</a> mentioning him.</p>
-
-<iframe src="https://octodon.social/@DaveHiggins/102565065494333224/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="300" height="250" allowfullscreen="allowfullscreen"></iframe>
-
-<p>Unfortunately, it seems his blog has moved, killing the hyperlink citation in one of the two relevant search engine results for “zalgo”: <a href="https://knowyourmeme.com/memes/zalgo" rel="nofollow">its <em>Know Your Meme</em> page</a>. <a href="https://davidjhiggins.wordpress.com/?s=zalgo" rel="nofollow">Searching the same term</a> on his new WordPress blog yields <em>absolutely nothing</em>, so perhaps “I deny everything” was a more sincere response than one expected. A thread on <em>Stack Overflow</em> entitled <a href="https://stackoverflow.com/questions/6579844/how-does-zalgo-text-work" rel="nofollow">“How does Zalgo text work?”</a> explains the fuckery in more detail than I ever could:</p>
-
-<blockquote><p>You can easily construct a character sequence, consisting of a base character and “combining above” marks, of any length, to reach any desired visual height, assuming that the rendering software conforms to the Unicode rendering model.</p></blockquote>
-
-<p>There is something artistic about destroyed text like this – something that&#39;s more than just edgy chaos. I believe in “<a href="https://mashable.com/article/surreal-memes/" rel="nofollow">surreal memes</a>” that can break Facebook and Twitter posts. I believe in Zalgo, and I believe you need <a href="https://apps.apple.com/us/app/zalgo-generator/id1178473555" rel="nofollow">Zalgo Generator for iOS</a> on your phone <em>right now</em>.</p>
-
-<p><a href="../tag%253Asoftware.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">software</span></a></p>
+<p><a href="../tag%253Atelevision.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">television</span></a> <a href="../tag%253Afilm.1.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">film</span></a></p>
 </div></article>
 
 
@@ -1035,7 +1050,7 @@ A short academic essay about how little the illiteracy issue is covered in Ameri
 		
 		<form method="post" action="https://bilge.world/api/collections/bilge/email/subscribe">
 			<input type="hidden" name="web" value="1" />
-			<p>Enter your email to subscribe to updates.</p> <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="email" name="PA62scWad9zk6cJVMPfPZ7zqHr4zRnfN0NDC0FP" tabindex="-1" value="" /><input type="password" name="fake_password" tabindex="-1" placeholder="password" autocomplete="new-password" /></div>
+			<p>Enter your email to subscribe to updates.</p> <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="email" name="LWl5hLZF7fkVjUnYX3QZXDn0Bn4eRYCsxSpfJRv" tabindex="-1" value="" /><input type="password" name="fake_password" tabindex="-1" placeholder="password" autocomplete="new-password" /></div>
 			<input type="email" name="email" placeholder="me@example.com" />
 			<input type="submit" id="subscribe-btn" value="Subscribe" />
 		</form>
@@ -1095,7 +1110,7 @@ window.hypothesisConfig = function () {
     "openSidebar": false, 
     "theme": "clean",
     branding: {
-      appBackgroundColor: '#e6f7ff',
+      appBackgroundColor: '#fffdeb',
       ctaBackgroundColor: '#da2573',
       ctaTextColor: '#00006b',
       selectionFontFamily: 'Georgia, serif'
@@ -1124,9 +1139,9 @@ document.getElementById("post-body").innerHTML = postContent;
     })(window, document, "clarity", "script", "5727h83alj");
 </script></script>
 	
-	<script src="https://files.writeas.org/js/h.e0acb11.js" integrity="sha384-7OIR2KMVixcdRfkUZAjhN+f1/4fm+DHqMVMpmrAggzKDH1sFzHN5gZSSkfK0BjpB" crossorigin="anonymous"></script>
-	<script src="https://files.writeas.org/js/postactions.8532dc2.js" integrity="sha384-0CdjNfYuZCswXbq2nM3x8397yvUlWSHFXhwJXUx5Bf8E7u+BqXphLHrJSp7qB38K" crossorigin="anonymous"></script>
-	<script src="https://files.writeas.org/js/localdate.js" integrity="sha384-2h0jAAXW06POyeBB2kpmJH+tWBF2mCWnv4DucLFRZXs+D8NX/MjGV7C/aCC2Ywki" crossorigin="anonymous"></script>
+	<script src="https://cdn.writeas.net/js/h.d26a351.js" integrity="sha384-+fagLDxVvnJG/wKIQ1ZwKrJPzb2JFj32O5Z2FeldmhjEHtUm1WTNemVZhbmZUqt7" crossorigin="anonymous"></script>
+	<script src="https://cdn.writeas.net/js/postactions.8532dc2.js" integrity="sha384-0CdjNfYuZCswXbq2nM3x8397yvUlWSHFXhwJXUx5Bf8E7u+BqXphLHrJSp7qB38K" crossorigin="anonymous"></script>
+	<script src="https://cdn.writeas.net/js/localdate.js" integrity="sha384-2h0jAAXW06POyeBB2kpmJH+tWBF2mCWnv4DucLFRZXs+D8NX/MjGV7C/aCC2Ywki" crossorigin="anonymous"></script>
 	
 <script>
   
@@ -1196,7 +1211,7 @@ document.getElementById("post-body").innerHTML = postContent;
       var jss = [hlbaseUri + "highlight.min.js"];
       
       for (i=0; i < lb.length; i++) {
-        lang = lb[i].className.replace('language-','');
+        lang = lb[i].className.replace('language-','').toLowerCase();
         
         if (aliasmap[lang]) lang = aliasmap[lang];
         lurl = hlbaseUri + "languages/" + lang + ".min.js";
@@ -1210,8 +1225,10 @@ document.getElementById("post-body").innerHTML = postContent;
   });
 </script>
 
-	<script src="https://files.writeas.org/js/menu.js"></script>
+	<script src="https://cdn.writeas.net/js/menu.js"></script>
 	<script type="text/javascript">
+	
+
 var deleting = false;
 function delPost(e, id, owned) {
 	e.preventDefault();
@@ -1331,11 +1348,11 @@ function pinPost(e, postID, slug, title) {
 
 	try {
 	  WebFontConfig = {
-		custom: { families: [ 'Lora:400,700:latin', 'Open+Sans:400,700:latin' ], urls: [ 'https://files.writeas.org/css/fonts.4ce1882.css' ] }
+		custom: { families: [ 'Lora:400,700:latin', 'Open+Sans:400,700:latin' ], urls: [ 'https:\/\/cdn.writeas.net/css/fonts.4ce1882.css' ] }
 	  };
 	  (function() {
 		var wf = document.createElement('script');
-		wf.src = 'https://files.writeas.org/js/webfont.js';
+		wf.src = 'https:\/\/cdn.writeas.net/js/webfont.js';
 		wf.type = 'text/javascript';
 		wf.async = 'true';
 		var s = document.getElementsByTagName('script')[0];
