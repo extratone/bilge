@@ -1,0 +1,60 @@
+// Insert CriticMarkup Comment
+
+/* --- Elements --- */
+// {--deletion--} 
+// {~~sub~>substitution~~}
+// {++addition++}
+// {==highlight==}
+// {>>comment<<}
+
+// get selected text
+var sel = editor.getSelectedText();
+var selRange = editor.getSelectedRange();
+
+// cursor position adjustment based on selected text length
+if (sel.length == 0) {
+	var cursorPos = -3;
+	}
+else {
+	var cursorPos = 0;
+}
+var cursorSel = 0;
+
+/* --- Element Prompt --- */
+var elements = ["Addition","Comment","Deletion","Highlight","Substitution"];
+var p = Prompt.create();
+p.title = "Select Element Type";
+for (var element of elements) {
+  p.addButton(element);
+}
+var con = p.show();
+
+/* --- switch statement --- */
+if (con) {
+	var button = p.buttonPressed;
+	switch (button)
+	{
+		case "Addition":
+			text = "{++"+sel+"++}";
+			break;
+		case "Comment":
+			text = "{>>"+sel+"<<}";
+			break;
+		case "Deletion":
+			text = "{--"+sel+"--}";
+			break;
+		case "Highlight":
+			text = "{=="+sel+"==}";
+			break;
+		case "Substitution":
+			cursorPos = -4;
+			cursorSel = 1;
+			text = "{~~"+sel+"~> "+"~~}";			break;
+	}
+	editor.setSelectedText(text);
+	editor.setSelectedRange(selRange[0]+text.length+cursorPos,cursorSel);
+	editor.activate();
+}
+else {
+  context.cancel();
+}
