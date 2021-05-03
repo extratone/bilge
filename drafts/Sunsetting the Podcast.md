@@ -1,0 +1,13 @@
+# Sunsetting the Podcast
+## Paid iTunes podcast subscriptions really do mark the end of an old, quaint medium called Pod Casts, but that’s okay.
+_Audio is having a moment_, says the cacophony about heavy wood transistor radios humming in the private spaces of a populace under a plague’s siege. In the end, it could only have been the scent of such beautiful desperation to finally lure the money in, followed single-file by the American story, as always. The Undisputed OG of Broadcast Media rises like a Tucson from the embers of ad tech’s Great Crusades not to seek revenge, but to comfort the only known complex verbal species amid their Biggest Babel Breakdown yet. All it requires, truthfully, is a decent _approximation_ of a real two+-sided conversation. Well… An _infinite list_ of such approximations, anyway, to leave playing in the background. To just hear two people taking turns speaking and then listening.
+
+Honestly, I had absolutely zero intention of contributing any more to this _Digital Audio Renaissance_ conversation. Though I have been stipulating about _The Fateful Day_ when Apple might finally give in to its perception of competition and implement any sort of paid/premium content differentiation function in its directory of RSS feeds as the certain beginning of The End of the medium we recognize as “Podcasting,” I still didn’t consider the recent news of this day’s scheduled manifestation worthy of another meta-media post. Nay, it wasn’t until I overheard a _Windows Weekly_ host describe podcasting as a “new medium” with apparent sincerity at some point within its [**seven hundred twenty-first** episode](https://twit.tv/shows/windows-weekly/episodes/721) that I truly lost my mind.
+
+My third, fourth and fifth eyes all opened wide, and I realized **he and I were definitely _not_ attributing the same thing to that term, anymore**. You probably shouldn’t already be aware that it’s long been produced by This Week in Tech (stylized popularly as _TWiT_) - which happens to be _the_ oldest podcast-first, for profit media group I can remember - surviving or not. The live, compressed, fucky frame rate image of Leo Laporte sitting alone in a studio-lit room wearing the crown of studio headphones with a mic pointed vaguely at his face is darn near old enough to be considered a _childhood memory_ of mine.
+
+<audio controls>
+  <source src="http://www.evilgeniuschronicles.org/audio/egc-9-18-2004.mp3">
+</audio>
+
+https://twitter.com/mattcassinelli/status/1385254668335341569
