@@ -1,4 +1,4 @@
-((( O )))
+​	((( O )))
 (G)I-DLE
 1-800 GIRLS
 18 Carat Affair
