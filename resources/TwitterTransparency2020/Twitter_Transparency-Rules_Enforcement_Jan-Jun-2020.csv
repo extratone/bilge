@@ -1,0 +1,96 @@
+Table 1/3: Accounts Actioned,,,,
+Time period start,Accounts actioned,Accounts suspended,Content removed,
+2018-07-01,1307725,775909,1226872,
+2019-01-01,1578795,687397,1914471,
+2019-07-01,2316314,872855,2863181,
+2020-01-01,1940082,925744,1927063,
+,,,,
+,,,,
+Table 2/3: Actions by Policy,,,,
+Time period start,Rule name,Accounts actioned,Accounts suspended,Content removed
+2020-01-01,Abuse/harassment,398057,72139,609253
+2020-01-01,Child sexual exploitation,444781,438809,10343
+2020-01-01,Civic integrity,2351,(null),2710
+2020-01-01,COVID-19 misleading information,4658,1751,4647
+2020-01-01,Hateful conduct,635415,127954,955212
+2020-01-01,Illegal or certain regulated goods or services,56513,54070,16663
+2020-01-01,Impersonation,131136,120066,12484
+2020-01-01,Non-consensual nudity,9227,2217,15546
+2020-01-01,Private information,25756,3390,37614
+2020-01-01,Promoting suicide or self-harm,64610,3302,73656
+2020-01-01,Sensitive media,167697,10706,170670
+2020-01-01,Terrorism/violent extremism,90684,90684,(null)
+2020-01-01,Violence,23835,17493,24161
+2019-07-01,Abuse/harassment,602622,94608,944209
+2019-07-01,Child sexual exploitation,264625,257768,11026
+2019-07-01,Civic integrity,1721,(null),2146
+2019-07-01,Hateful conduct,970109,170994,1445469
+2019-07-01,Illegal or certain regulated goods or services,60807,56236,37361
+2019-07-01,Impersonation,181800,168061,16505
+2019-07-01,Non-consensual nudity,17769,4960,36664
+2019-07-01,Private information,22523,3527,34564
+2019-07-01,Promoting suicide or self-harm,127736,5612,142930
+2019-07-01,Sensitive media,146356,17525,150767
+2019-07-01,Terrorism/violent extremism,86799,86799,(null)
+2019-07-01,Violence,45447,34196,49172
+2019-01-01,Abuse/harassment,308452,54059,542959
+2019-01-01,Child sexual exploitation,246642,245341,2751
+2019-01-01,Civic integrity,1305,(null),1714
+2019-01-01,Hateful conduct,629095,103316,1036230
+2019-01-01,Impersonation,139283,126176,16961
+2019-01-01,Non-consensual nudity,8494,3117,22292
+2019-01-01,Private information,15956,2844,25000
+2019-01-01,Promoting suicide or self-harm,99158,4419,113494
+2019-01-01,Sensitive media,105422,10896,108664
+2019-01-01,Terrorism/violent extremism,95887,95887,(null)
+2019-01-01,Violence,47642,36266,53344
+2018-07-01,Abuse/harassment,188504,42643,330397
+2018-07-01,Child sexual exploitation,457231,455651,2777
+2018-07-01,Civic integrity,2028,(null),2333
+2018-07-01,Hateful conduct,364355,69891,661329
+2018-07-01,Non-consensual nudity,8130,2626,15080
+2018-07-01,Private information,8172,1882,12997
+2018-07-01,Promoting suicide or self-harm,60462,3840,75468
+2018-07-01,Sensitive media,89561,10147,86700
+2018-07-01,Terrorism/violent extremism,106446,106446,(null)
+2018-07-01,Violence,36691,24326,43734
+,,,,
+,,,,
+Table 3/3: Accounts Reported,,,,
+Time period start,Rule name,Accounts reported,,
+2020-01-01,Abuse/harassment,5138663,,
+2020-01-01,Child sexual exploitation,92485,,
+2020-01-01,Hateful conduct,6055642,,
+2020-01-01,Impersonation,1571672,,
+2020-01-01,Non-consensual nudity,609842,,
+2020-01-01,Private information,1115655,,
+2020-01-01,Promoting suicide or self-harm,1579155,,
+2020-01-01,Sensitive media,3365868,,
+2020-01-01,Violence and extremism,2203411,,
+2019-07-01,Abuse/harassment,3906683,,
+2019-07-01,Child sexual exploitation,110355,,
+2019-07-01,Hateful conduct,4634583,,
+2019-07-01,Impersonation,1372798,,
+2019-07-01,Non-consensual nudity,228159,,
+2019-07-01,Private information,742098,,
+2019-07-01,Promoting suicide or self-harm,833058,,
+2019-07-01,Sensitive media,2443380,,
+2019-07-01,Violence and extremism,1722576,,
+2019-01-01,Abuse/harassment,3181682,,
+2019-01-01,Child sexual exploitation,64958,,
+2019-01-01,Hateful conduct,3837765,,
+2019-01-01,Impersonation,1283320,,
+2019-01-01,Non-consensual nudity,4639,,
+2019-01-01,Private information,542723,,
+2019-01-01,Promoting suicide or self-harm,279442,,
+2019-01-01,Sensitive media,1375307,,
+2019-01-01,Violence and extremism,1530603,,
+2018-07-01,Abuse/harassment,2605633,,
+2018-07-01,Child sexual exploitation,52731,,
+2018-07-01,Hateful conduct,3074185,,
+2018-07-01,Impersonation,1380945,,
+2018-07-01,Non-consensual nudity,3160,,
+2018-07-01,Private information,407056,,
+2018-07-01,Promoting suicide or self-harm,234297,,
+2018-07-01,Sensitive media,1258657,,
+2018-07-01,Violence and extremism,1408627,,

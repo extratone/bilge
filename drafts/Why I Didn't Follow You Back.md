@@ -18,8 +18,13 @@ I also want you to know that I am available to speak directly about this if you 
 
 For whatever it's worth, *thanks for the follow*. I hope to hear from you but if I don't, thanks okay, too.
 
+`https://gist.github.com/extratone/8b762de50de414f8a4be05f9b0407fd8`
+
 ***
 
+I've recently been compelled to a
+
+***
 `![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
 
 For a good part of my Junior and Senior years of high school, 
