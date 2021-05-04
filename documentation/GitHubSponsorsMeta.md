@@ -8,7 +8,7 @@
 
 G̏̽͋ͩͬ͊̈́o͌ͭ͆̂̍̈́̌oͩ͒ͩd̋̃͑ ͐ͣm̌orͬͥͤͣ̊n̋ͧͩ͐i͛̉n̔̎g̏͂̔ͦ̈!̿̍͆̽͒̍
 
-I'm David Blue and **I am not a software developer**. Though I do fairly regularly author and distribute various tool-adjacent configurations you may find of value, I am fundamentally *not a builder*, though I am relentlessly compelled to seek out spaces like GitHub where builders congregate around the context of work 
+I'm David Blue and **I am not a software developer**. Though I do fairly regularly author and distribute various tool-adjacent configurations you may find of value, I am fundamentally *not a builder*, though I am relentlessly compelled to seek out spaces like GitHub where builders congregate around the context of work 	
 
 
 
