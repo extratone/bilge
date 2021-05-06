@@ -2,7 +2,7 @@
 
 
 
-`![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
+​	![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
 
 For a good part of my Junior and Senior years of high school, 
 
@@ -33,7 +33,7 @@ For a good part of my Junior and Senior years of high school,
 * “[3 Reasons Your Twitter Follower Ratio Is More Important Than You Know | Inc.com](https://www.inc.com/hillel-fuld/3-reasons-your-twitter-follower-ratio-is-more-important-than-you-know.html)”
 > If you follow more people than follow you, what you are in essence saying to that person is "I followed all these people, but only some of them found me interesting enough to follow me back."
 > Not only that, but you are also saying "Yes, I may have recently followed you, but don't take it too personally, I like to follow a lot of people, so really, the fact that I cared enough to follow you doesn't mean I am genuinely interested in what you have to say."
-> Not doing great on A
+> ==Not doing great on the first impression scale...==
 
 
 

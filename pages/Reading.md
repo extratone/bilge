@@ -51,6 +51,7 @@ Ernie Smith's *Tedium* is unlike any other publication on the web.
 
 An ongoing list of some of my absolute favorite reads on The Net.
 
+* "[**a comprehensive guide to being really annoying on the internet**](https://ill.neocities.org/index.php/2020/07/16/the-actual-guide-to-being-really-annoying-on-the-internet)" | ILL
 * "[Let's Learn About Waveforms](https://pudding.cool/2018/02/waveforms/)" | *The Pudding*
 * "[The Lottery Hackers](https://highline.huffingtonpost.com/articles/en/lotto-winners/)" | *Huffpost Highline*
 * "[The Curse of the Bahia Emerald](https://www.wired.com/2017/03/curse-bahia-emerald-giant-green-rock-wreaks-havoc-ruins-lives/)" | *Wired*
@@ -73,3 +74,4 @@ An ongoing list of some of my absolute favorite reads on The Net.
 * "[Space, Time and DVR Mechanics](https://grantland.com/features/space-time-dvr-mechanics/)" | *Grantland*
 * "[Fish: A Tap Essay](https://www.robinsloan.com/fish/)" | Robin Sloan
 * "[The Sentence is a Lonely Place](https://believermag.com/the-sentence-is-a-lonely-place) | *The Believer*
+* “[When in Need of the Right Word, Great Writers Simply Make Them Up](https://lithub.com/when-in-need-of-the-right-word-great-writers-simply-make-them-up) | *LitHub*
