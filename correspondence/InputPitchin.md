@@ -1,0 +1,9 @@
+<blockquote class="twitter-tweet twi-align-center"><p lang="en" dir="ltr">JOBS! We&#39;re still looking for freelancers to write reviews on a regular basis. I&#39;m looking for *STRONG* opinions and bigger picture review ideas beyond the &quot;Should you buy this? Here&#39;s pros/cons/bottom line BS&quot;<br><br>👇👇👇Can&#39;t stress the PITCHES + EXECUTION part enough <a href="https://t.co/mmTTGwJeen">https://t.co/mmTTGwJeen</a></p>&mdash; Ray Wong #StopAAPIHate (@raywongy) <a href="https://twitter.com/raywongy/status/1387765522872377359?ref_src=twsrc%5Etfw">April 29, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">It&#39;s true! Send your review pitches to pitches@inputmag.com<br><br>(Make it weird, make it strongly angled, and maybe don&#39;t pitch me another phone or tablet or laptop please — we do enough of those already...) <a href="https://t.co/4yEt8goQW2">https://t.co/4yEt8goQW2</a></p>&mdash; Ray Wong #StopAAPIHate (@raywongy) <a href="https://twitter.com/raywongy/status/1385626010213883906?ref_src=twsrc%5Etfw">April 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">Also: don&#39;t just drop a link to your bylines. I&#39;m looking for your ideas/pitches and specifically what you want to write/report/review and HOW you&#39;re gonna do it not your old work</p>&mdash; Ray Wong #StopAAPIHate (@raywongy) <a href="https://twitter.com/raywongy/status/1385637483992567810?ref_src=twsrc%5Etfw">April 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
