@@ -2,7 +2,7 @@
 
 
 
-​	![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
+`![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
 
 For a good part of my Junior and Senior years of high school, 
 
@@ -15,7 +15,14 @@ For a good part of my Junior and Senior years of high school,
 
 1. For the vast majority of mainstream social users, no amount of [insert vague overused marketing jargon noun] will *ever* result in a substantial accumulation of money/"influence" (which seems to be the diluted zag of "POWER" of the moment.) Those interested in learning about "marketing" should know that no authority on the subject would ever tell you to *start* with Twitter - this I can say with certainty. 
 2. Though Twitter was designed upon certain frameworks with certain rules which form quantifiable formulas where they are dependent upon a user's choices/methodology to produce results which we *have*, indeed, become more adept at predicting with study over time, it was *not* created as a *game to be won*. Perhaps more importantly, the "prize" of "winning" in the sense held by those who resist this assumption (notoriety, "influence," relevance) has continued to prove ultimately worthless (or worse) time and time again throughout the very short history of the cultural element as it exists today.
-3. If both 1 and 2 pass scrutiny, c
+3. If both 1 and 2 pass scrutiny, the only remaining reasonable prerogatives in one’s social media use is to engage with _both_ strangers and friends in a manner which generally **adds value to the lives of all involved**.
+4. 3 is not only _possible_ - it is easily _reproducible_. Most of my evidence is centered around my own experiences, but I believe - if I took the time - I would be able to find infinitely many publicly-facing examples. 
+5. Though I am going to use my own methods to demonstrate 4, **neither my ideas nor my behavior are the only means of interacting positively on social media**.
+
+### Specific public examples of positively-acting individual accounts
+* [Jon Male](https://twitter.com/mrjaydeeem)
+* [Matt Farah](https://twitter.com/thesmokingtire) - An example of a celebrity who for the most part sticks to subjects on which he is an authority and invests a lot of intellectual and emotional energy engaging in discussion. In turn, he is also an example of someone who is *actually* “leveraging” his social media use for his business, but in a way that adds value to everybody’s lives. 
+
 
 > The exchange of **information or services** among individuals, groups, or institutions.
 > *Specifically*, the cultivation of **productive relationships** for employment or business.
@@ -33,8 +40,8 @@ For a good part of my Junior and Senior years of high school,
 * “[3 Reasons Your Twitter Follower Ratio Is More Important Than You Know | Inc.com](https://www.inc.com/hillel-fuld/3-reasons-your-twitter-follower-ratio-is-more-important-than-you-know.html)”
 > If you follow more people than follow you, what you are in essence saying to that person is "I followed all these people, but only some of them found me interesting enough to follow me back."
 > Not only that, but you are also saying "Yes, I may have recently followed you, but don't take it too personally, I like to follow a lot of people, so really, the fact that I cared enough to follow you doesn't mean I am genuinely interested in what you have to say."
-> ==Not doing great on the first impression scale...==
-
+> Not doing great on A
+* [Twitter is testing a new Tip Jar feature for sending money to your favorite accounts - The Verge](https://www.theverge.com/2021/5/6/22423583/twitter-tip-jar-feature-sending-money-venmo-cashapp)
 
 
 ***
