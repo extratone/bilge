@@ -1,0 +1,59 @@
+*|MC_PREVIEW_TEXT|*
+
+View this email in your browser (*|ARCHIVE|*)
+
+
+** SHADETREE MECHANICS
+------------------------------------------------------------
+
+
+** WRENCHING TIPS FOR DIY'ERS
+------------------------------------------------------------
+In this month's Shadetree Mechanics, we'll go old-school and teach you how to clean a carburetor, then we'll get back to basics with a brake pad install tutorial.
+
+
+** CLEANING A CARBURETOR
+------------------------------------------------------------
+Required Tools
+
+• Screwdrivers [Several sizes, flat & phillips]
+• Needle-nose Pliers
+• Socket Wrench [Several sizes, SAE or Metric]
+• Pick Tool [AKA Booger Hook]
+• Carb Cleaner
+• Shop Towels
+
+Continue Tutorial → (#)
+
+
+** INSTALLING BRAKE PADS
+------------------------------------------------------------
+Required Tools
+
+• Vehicle Jack & Torque Wrench
+• Screwdrivers [Several sizes, flat & phillips]
+• Socket Wrench [Several sizes, SAE or Metric]
+• Brake Fluid
+• Brake Cleaner
+• Shop Towels
+
+Continue Tutorial → (#)
+NEED MORE HELP?
+
+Visit our site's forums, where you can ask questions and find answers. European, American, or Japanese; Forced Induction or Normally Aspirated; Auto Newbie or Old Garage Hand — Shadetree Mechanics has the resources you need to help you wrench away on your beloved ride of choice.
+
+Join The Discussion → (#)
+
+============================================================
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

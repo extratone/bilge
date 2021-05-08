@@ -1,0 +1,102 @@
+*|MC_PREVIEW_TEXT|*
+
+Essential curiosities from us and our favorites.
+------------------------------------------------------------
+NEVER TO WORRY ABOUT WHOM YOU MAY KILL IF ALL YOU CONSUME IS CONTAINED IN A PILL (http://bit.ly/veneat)
+
+
+** DIVISION
+------------------------------------------------------------
+» Julian, via The New Yorker. (http://www.newyorker.com/magazine/2017/08/21/julian-assange-a-man-without-a-country)
+
+» More and more content, isolated from the horrifying world of the educated thirty-something professional. (https://twitter.com/FickleCrux/status/898286072744091653)
+
+» SHOOT THE GUN. (https://www.newyorker.com/news/news-desk/how-the-nra-manipulates-gun-owners-and-the-media)
+
+» YOU JERK. (https://aeon.co/essays/so-you-re-surrounded-by-idiots-guess-who-the-real-jerk-is)
+
+» How to play stupid games in prison. (https://waypoint.vice.com/en_us/article/padk7z/how-inmates-play-tabletop-rpgs-in-prisons-where-dice-are-contraband)
+
+» If you'd really like to read about breasts... (http://www.playboy.com/articles/pornhub-breast-data)
+
+» Honestly, though. (https://www.wired.com/2017/08/robots-will-not-take-your-job/)
+
+» Not PC, dude. (https://theoutline.com/post/2102/political-correctness-doesn-t-kill-people)
+
+» VOCAB: Alt-right. (https://www.nytimes.com/2017/08/15/us/politics/alt-left-alt-right-glossary.html)
+
+» Mass shooter relatability. (https://www.washingtonpost.com/news/post-nation/wp/2017/08/15/the-persistent-crime-that-connects-mass-shooters-and-terror-suspects-domestic-violence/)
+
+
+** ART
+------------------------------------------------------------
+» iPhone 4, remembered in pictures. (http://bit.ly/ip4inred)
+
+» There's still enough summertime left for one more relaxing read! (http://bit.ly/summerberg)
+
+» EAT. (http://bit.ly/jackbilge)
+
+» "The only thing that makes you an artist is making art, and that takes the opposite of 'hanging out.'" (https://www.thisamericanlife.org/radio-archives/episode/472/our-friend-david)
+
+» Oklahoma. (https://www.poetryfoundation.org/poetrymagazine/poems/142865/oklahoma)
+
+» Glow Like Dat. (http://pigeonsandplanes.com/music/2017/08/rich-chigga-glow-like-dat)
+
+» "The first professional female wedding DJs in the Jordan Valley." (http://www.middleeasteye.net/in-depth/features/palestinian-female-wedding-djs-925987199)
+
+» The words of Robert E. Lee in a social card. (https://www.nytimes.com/2017/08/18/us/robert-e-lee-slaves.html)
+
+» Illumination. (http://lucaszimmermann.com/traffic-lights.html)
+
+
+** MEDIA
+------------------------------------------------------------
+» What you see here. (http://bit.ly/junctionfavs)
+
+» Was Jack Conte - Patreon CEO - Peter Kafka's ultimate test? (https://www.recode.net/2017/8/10/16115548/patreon-jack-conte-fan-pledges-subscription-paywall-recode-media-peter-kafka-podcast)
+
+» Your advice? (https://www.vox.com/first-person/2017/6/14/15782712/advice-columns-dear-abby-history)
+
+» """"Movement journalism."""" (http://www.niemanlab.org/2017/08/a-survey-of-independent-media-in-the-south-asks-if-movement-journalism-can-help-newsrooms-better-cover-social-justice-strife/)
+
+» The Daily Stormer is no fucking more. (https://www.recode.net/2017/8/16/16158292/twitter-facebook-cloudflare-google-godaddy-daily-stormer-alt-right-nazi-charlottesville)
+
+» Oops. (http://www.poynter.org/2017/news-or-opinion-online-its-hard-to-tell/470559/)
+
+» Leah Laments. (https://theoutline.com/post/2119/the-internet-is-making-me-sick)
+
+» Nice. (https://www.poynter.org/2017/in-a-few-hours-the-marshall-project-raised-a-five-figure-sum-from-its-new-membership-program/470599/)
+
+» The Email Angels. (http://www.niemanlab.org/2017/08/inside-the-collection-of-industry-newsletters-continues-to-bet-on-email-the-largest-social-network/)
+
+» How to do the job. (https://www.cjr.org/analysis/toledo-blade-charlottesville.php)
+
+» And what 'objectivity' *actually* means, objectively. (https://www.americanpressinstitute.org/journalism-essentials/bias-objectivity/lost-meaning-objectivity/)
+
+» More on 'Ear Hustle.' (http://www.newyorker.com/culture/podcast-dept/ear-hustle-the-podcast-made-inside-san-quentin)
+
+» Amazonian nonsense. (https://theoutline.com/post/2124/these-amazon-ads-are-an-eternal-mystery)
+
+» Facebook for Horses. (https://motherboard.vice.com/en_us/article/evvx5w/facebook-for-horses-is-mongolias-hot-new-social-app)
+Still wanting for words?
+Look for an editor's companion (http://extratone.com/junction) ,
+or keep up with the best
+digital has to offer,
+in real time,
+with our reading list (http://bit.ly/extraread) .
+
+============================================================
+** Twitter (https://www.twitter.com/extratone/)
+** YouTube (http://www.youtube.com/extratone)
+** Facebook (https://www.facebook.com/extratonemagazine)
+** Instagram (http://instagram.com/extratonemag)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

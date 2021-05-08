@@ -1,0 +1,74 @@
+*|MC_PREVIEW_TEXT|*
+
+Essential curiosities from us and our favorites.
+------------------------------------------------------------
+REVEALED: Secrets of the Kayak... (http://bit.ly/kayaktruth)
+
+
+** DIVISION
+------------------------------------------------------------
+» The Ghouls. (https://theoutline.com/post/2020/left-with-rage-what-happens-when-trump-is-gone)
+
+» Chastity is lit. (http://nypost.com/2017/07/29/why-millennials-cheat-less-than-their-parents/)
+
+» The nuances of the American mistress. (http://www.pewsocialtrends.org/2017/06/22/americas-complex-relationship-with-guns/)
+
+» Three strikes. (http://www.newyorker.com/magazine/2017/07/24/the-life-of-a-south-central-statistic)
+
+» "It’s important to remain suspicious of situations where you find yourself feeling vulnerable." (https://computerlab.io/2017/07/17/a-critique-of-vulnerability/)
+
+» Scoooped. (http://www.politico.com/story/2017/08/01/trump-wall-street-journal-interview-full-transcript-241214)
+
+» Unicode dehumanization. (http://pinknews.co.uk/2017/08/05/sad-poop-chosen-over-trans-pride-flag-for-new-set-of-emoji/)
+
+
+** ART
+------------------------------------------------------------
+» WANTED: Reckless, Bitter, Possibly-Suicidal Old Money, Willing to Blur Lines. (https://www.patreon.com/posts/verge-does-13640130)
+
+» The forgotten... The neglected... (https://twitter.com/brendohare/status/892546026707574784)
+
+» Tilda Swinton's groceries. (https://theoutline.com/post/2043/pondering-sports-and-westworld-with-rose-eveleth)
+
+» The First Kevin. (http://www.newyorker.com/magazine/2017/08/07/notes-from-a-baby-names-obsessive)
+
+» Gary Busey could use your help. (https://twitter.com/thegarybusey/status/893678331790413824)
+
+» "Setting back cinema by 900 years." (http://bit.ly/moviecloset47)
+
+
+** MEDIA
+------------------------------------------------------------
+» Send Prayers To: TheFloodmag at Gee-Mail Dot Com. (http://thefloodmag.com/)
+
+» Lids, blown. (http://www.niemanlab.org/2017/08/after-blowing-the-lid-off-of-the-marines-united-scandal-the-war-horse-wants-to-improve-journalism-on-veterans-and-trauma/)
+
+» Hip-Hop's on-air misogyny. (https://theoutline.com/post/2037/the-token-women-of-hip-hop-radio)
+
+» Oops. (https://www.cjr.org/criticism/politico-wsj-trump-transcript.php)
+
+» YouTube v. Extremists: Now 75% Autonomous. (https://www.theguardian.com/technology/2017/aug/01/google-says-ai-better-than-humans-at-scrubbing-extremist-youtube-content)
+
+» How to save our hexicodal sanity in less than sixty seconds. (http://bit.ly/extrapeached)
+Still wanting for words?
+Look for an editor's companion (http://extratone.com/junction) ,
+or keep up with the best
+digital has to offer,
+in real time,
+with our reading list (http://bit.ly/extraread) .
+
+============================================================
+** Twitter (https://www.twitter.com/extratone/)
+** YouTube (http://www.youtube.com/extratone)
+** Facebook (https://www.facebook.com/extratonemagazine)
+** Instagram (http://instagram.com/extratonemag)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

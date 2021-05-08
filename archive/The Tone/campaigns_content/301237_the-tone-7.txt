@@ -1,0 +1,86 @@
+Essential curiosities from us and our favorites.
+------------------------------------------------------------
+The birthday vacation was grand,
+but we've got a helluva lot of catching up to do.
+We're all on an island, basically. (http://bit.ly/moviecloset39)
+But at least we have blessings to print. (https://www.theguardian.com/technology/2017/may/30/robot-priest-blessu-2-germany-reformation-exhibition)
+
+
+** DIVISION
+------------------------------------------------------------
+» Ye Ole Crate. (https://www.theverge.com/2017/5/13/15635006/microsoft-windows-xp-security-patch-wannacry-ransomware-attack)
+
+» Butch. (http://www.wnyc.org/story/nancy-podcast-episode-6-butch-hair/)
+
+» Teeth and the wolf. (http://www.washingtonpost.com/sf/national/2017/05/13/the-painful-truth-about-teeth/)
+
+» Lola. (https://www.theatlantic.com/magazine/archive/2017/06/lolas-story/524490/)
+
+» The dangerousness of a hollow man. (https://www.nytimes.com/2017/05/15/opinion/trump-classified-data.html)
+
+» Sounds of the populace. (https://theoutline.com/post/1557/labor-jobs-playlist)
+
+» Dubai's imminent dystopia. (https://theoutline.com/post/1569/dubai-has-a-robot-cop-now)
+
+» Followed swiftly by the sentient kitchen. (http://www.niemanlab.org/2017/05/how-npr-considers-what-new-platforms-from-smartwatches-to-fridges-will-get-its-programming/)
+
+
+** ART
+------------------------------------------------------------
+» David Roberts. (https://twitter.com/Swagadore/status/863301525279571968)
+
+» Mapping American climate sentiments. (https://www.nytimes.com/interactive/2017/03/21/climate/how-americans-think-about-climate-change-in-six-maps.html)
+
+» Shife. (http://www.niemanlab.org/2017/05/what-an-academic-hoax-can-teach-us-about-journalism-in-the-age-of-trump/)
+
+» John... (https://theoutline.com/post/1574/why-trolls-posted-photos-of-fake-victims-in-the-manchester-attack)
+
+» Lest we forget shitty video games. (http://www.ign.com/articles/2017/05/24/why-the-world-needs-more-trashgames)
+
+» Under the spell of the country's past. (http://www.newyorker.com/magazine/2017/06/05/i-have-fallen-in-love-with-american-names)
+
+
+** TUMP
+------------------------------------------------------------
+» How to go potty. (https://theoutline.com/post/1570/strategies-trans-people-use-to-stay-safe-in-public-restrooms)
+
+» We said it first. (https://theoutline.com/post/1572/mark-zuckerberg-will-be-our-downfall)
+
+
+** MEDIA
+------------------------------------------------------------
+» Errol Email. (https://gimletmedia.com/episode/11-did-errol-morris-brother-invent-email/)
+
+» 15 years of Radiolab (http://www.radiolab.org/story/15-years/) .
+
+» Careful - don't let The Light charm you into Love at First Site. (https://www.cjr.org/local_news/the-poet-editor-of-west-marin.php)
+
+» Tennis Journalism: definitely what's most needed right now. (http://www.niemanlab.org/2017/05/theres-almost-no-journalism-in-tennis-but-the-print-quarterly-racquet-is-trying-to-change-that/)
+
+» Jia Tolentino's essays. (http://www.newyorker.com/culture/jia-tolentino/the-personal-essay-boom-is-over)
+
+» BratShit, ranked. (https://theoutline.com/post/1558/a-guide-to-conservative-publications)
+
+» Depression is not on this list? (http://www.niemanlab.org/2017/05/whos-really-driving-traffic-to-articles-depends-on-the-subject-facebook-lifestyle-entertainment-or-google-tech-business-sports/)
+
+» DESTROY ALL NEWS APPS. (http://www.niemanlab.org/2017/06/the-wall-street-journal-is-killing-its-whats-news-app-but-bringing-lessons-from-it-to-its-main-app/)
+
+» Imagine if Google's most popular misspelling was "googe." (http://gizmodo.com/porm-1795754981)
+Itching for more?
+Read our reading list (http://extratone.com/read) .
+
+============================================================
+** Twitter (https://www.twitter.com/extratone/)
+** YouTube (http://www.youtube.com/extratone)
+** Facebook (https://www.facebook.com/extratonemagazine)
+** Instagram (http://instagram.com/extratonemag)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

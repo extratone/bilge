@@ -1,0 +1,77 @@
+*|MC_PREVIEW_TEXT|*
+
+Essential curiosities from us and our favorites.
+
+BIOPIC: a biographical movie. (http://bit.ly/moviecloset54)
+
+
+The Dos and Don'ts of Flying in Minecraft. (http://bit.ly/craftflight)
+
+
+** DIVISION
+------------------------------------------------------------
+⊚ The New Yorker's Benjmain Wallace Wells on Hurricane Irma. (https://www.newyorker.com/news/benjamin-wallace-wells/the-change-hurricane-irma-brings)
+"Perhaps it is easier to see a pattern when facing the country’s second cataclysmic storm within a week."
+
+⊚ The Swedish student who spent a year undercover with the alt-right. (https://www.thelocal.se/20170920/meet-the-swede-who-went-undercover-with-the-alt-right-for-a-whole-year)
+"Perhaps it is easier to see a pattern when facing the country’s second cataclysmic storm within a week."
+
+⊚ Why it's all on fire. (https://www.outsideonline.com/2239836/why-west-burning)
+
+⊚ Our hellish neo-war. (https://www.nytimes.com/2017/09/13/magazine/rt-sputnik-and-russias-new-theory-of-war.html)
+"It’s hard to imagine Russia’s state-backed media getting any traction in the United States if there wasn’t already an audience for it."
+
+⊚ The Amish vs. The Future. (https://www.nytimes.com/2017/09/15/business/amish-technology.html)
+"Here we say we don't bow down to idols, and that's getting dangerously close, I think."
+
+⊚ For-profit opioid treatment startups. (https://www.theverge.com/2017/9/20/16335562/groups-recovery-addiction-treatment-heroin-opioid-epidemic-suboxone-medication-access)
+"Groups has gathered enough data over the last three years to convince insurance companies that its approach is worth covering."
+
+⊚ What the hell is happening? (http://www.wweek.com/news/2017/09/10/police-in-vancouver-arrest-man-for-nearly-running-down-antifa-protesters-with-his-truck/)
+
+
+** ART
+------------------------------------------------------------
+⊚ Some gorgeous vintage government design. (http://www.niemanlab.org/2017/03/voice-of-san-diegos-what-we-stand-for-is-straightforward-and-a-bold-stance-against-objectivity/)
+The "master plans" for American National Parks were mouth-wateringly gorgeous in the 1930s. The official 2018 Guide to Medicare document your grandmother just received in the mail is... not.
+
+⊚ Ihaza's case against South Park. (https://theoutline.com/post/2234/south-park-is-not-subversive)
+"A case study in what happens when woke white dudes keep making art for other woke white dudes."
+
+⊚ The Most Annoying Man in Music Journalism. (https://theoutline.com/post/2305/nardwuar-the-most-mysterious-man-in-music-journalism)
+
+
+** MEDIA
+------------------------------------------------------------
+⊚ Pewds is definitively racist. (https://techcrunch.com/2017/09/10/pewdiepie-is-back-making-more-racist-comments/)
+The world's richest gamer used the n-word in a PUB stream.
+
+⊚ The mobile web is expanding in the correct direction. (https://www.recode.net/2017/9/11/16273578/smartphones-google-facebook-apps-new-online-traffic)
+While handsets continue to drive the majority of traffic, they're being used to browse much more sensibly. "Americans have opened apps 22 percent less on smartphones and nearly 50 percent less on tablets compared with the beginning of 2016."
+
+⊚ The New York Times is combining The Wirecutter and Sweethome for a possible review monopoly. (https://www.bloomberg.com/news/articles/2017-09-13/new-york-times-rebrands-wirecutter-as-product-review-sales-grow)
+It just keeps getting bigger and bigger...
+
+⊚ The legacy of Bea Feitler. (http://www.anothermag.com/art-photography/10134/the-pioneering-female-art-director-youve-never-heard-of)
+Still wanting for words?
+Look for an editor's companion (http://extratone.com/junction) ,
+or keep up with the best
+digital has to offer,
+in real time,
+with our reading list (http://bit.ly/extraread) .
+
+============================================================
+** Twitter (https://www.twitter.com/extratone/)
+** YouTube (http://www.youtube.com/extratone)
+** Facebook (https://www.facebook.com/extratonemagazine)
+** Instagram (http://instagram.com/extratonemag)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+** Unsubscribe (*|UNSUB|*)
+.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+*|REWARDS_TEXT|*

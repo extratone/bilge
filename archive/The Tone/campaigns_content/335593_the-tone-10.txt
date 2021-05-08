@@ -1,0 +1,78 @@
+*|MC_PREVIEW_TEXT|*
+
+Essential curiosities from us and our favorites.
+------------------------------------------------------------
+Tump lies. (http://www.nytimes.com/interactive/2017/06/23/opinion/trumps-lies.html)
+
+
+** DIVISION
+------------------------------------------------------------
+» POWER. (https://www.theatlantic.com/magazine/archive/2017/07/power-causes-brain-damage/528711/)
+
+» Gwyn... (https://theoutline.com/post/1745/gwyneth-paltrows-goop-conference-made-me-sick)
+
+» Another rural reminder. (http://www.dailyyonder.com/effective-rural-programs-grave-risk/2017/06/19/19922/)
+
+» Navalism returns. (http://warisboring.com/to-grow-the-fleet-the-u-s-navy-could-recommission-retired-warships/)
+
+» NatGeo's young refugees. (http://news.nationalgeographic.com/2016/02/160224-refugees-children-syria-migrants-wennman-photos/)
+
+» Russians might be killing American Putin critics. (http://www.newyorker.com/news/news-desk/are-russian-operatives-attacking-putin-critics-in-the-us)
+
+» Chocolate milk comes from brown cows. (https://www.cjr.org/analysis/brown-milk-study-cows.php)
+
+» Amazon's part in The Book of Revelation. (https://theoutline.com/post/1767/the-end-will-be-delivered-by-amazon-drone)
+
+» Stop with the Fucking Sinners. (https://fivethirtyeight.com/features/fidget-spinners-are-over/)
+
+» And start reading books, instead. (https://www.cjr.org/the_feature/serious-reader-adam-gopnik-new-yorker-tanehisi-coates-atlantic-rebecca-traister-jia-tolentino.php)
+
+» Or prepare for post-apocalyptic, possibly-imperial (again) America. (http://www.npr.org/2017/06/21/533711528/in-the-event-of-attack-heres-how-the-government-plans-to-save-itself)
+
+
+** ART
+------------------------------------------------------------
+» The symptoms of dying. (https://www.nytimes.com/2017/06/20/well/live/the-symptoms-of-dying.html)
+
+» How to be in love, via Nug. (https://twitter.com/nugpapi/status/878758755260932097)
+
+» Don't stop drinking. (http://www.newyorker.com/books/page-turner/writers-and-rum)
+
+» Hey! It's Johnny Sun! (http://thechrisbuck.tumblr.com/post/161891068527/sun-from-another-mum-artist-jonathan-sun-and-i)
+
+» Mayors really need more gun memes. (https://theoutline.com/post/1805/rodrigo-duterte-s-daughter-is-an-irony-instagram-star)
+
+» Taking a dive. (https://theoutline.com/post/1782/stage-diving-rappers-travis-scott-lil-uzi-vert)
+
+
+** MEDIA
+------------------------------------------------------------
+» Postcard journalism. (http://www.niemanlab.org/2017/06/how-one-journalist-used-postcards-to-report-on-gentrification-in-boston/)
+
+» Feminism, defined by Playboy. (https://theoutline.com/post/1773/playboy-s-cooper-hefner-writes-an-essay-on-feminism-and-its-not-good)
+
+» Dissecting Apple's podcast changes. (http://www.niemanlab.org/2017/06/apples-new-analytics-for-podcasts-mean-a-lot-of-change-some-good-some-inconvenient-is-on-the-way/)
+
+» (And more from Kafka.) (https://www.recode.net/2017/6/10/15774936/apple-podcast-analytics-wwdc)
+
+» Robotoic newsrooms. (Still... yikes.) (https://www.cjr.org/tow_center/artificial-intelligence-newsrooms.php)
+
+» STOP with the fucking news apps. (http://www.niemanlab.org/2017/06/news-apps-are-making-a-comeback-more-young-americans-are-paying-for-news-2017-is-weird/)
+Itching for more?
+Read our reading list (http://bit.ly/extraread) .
+
+============================================================
+** Twitter (https://www.twitter.com/extratone/)
+** YouTube (http://www.youtube.com/extratone)
+** Facebook (https://www.facebook.com/extratonemagazine)
+** Instagram (http://instagram.com/extratonemag)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*
