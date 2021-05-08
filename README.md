@@ -21,6 +21,8 @@ As part of [my continued exploration of Git as an editorial tool](https://github
 * [**Discussions**](https://github.com/extratone/bilge/discussions) are an intriguing possibility for external feedback (stop by and say something! really!,) but explaining why my general audience should have a GitHub account to participate even if they have zero interest in *dev* shit is going to be difficult.
 * Within the code, you'll find my [**voice notes**](https://github.com/extratone/bilge/tree/main/audio/Voice%20Notes), an [**image library**](https://github.com/extratone/bilge/tree/main/images), and a variety of other miscellaneous associated files (better organization [is coming](https://github.com/extratone/bilge/milestone/1).)
 
+![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
+
 ***
 
 ## [About](https://bilge.world/about)
