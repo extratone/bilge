@@ -39,9 +39,12 @@ It was _very_  recently that I observed in my notes for “[Editorial Git](https
 
 I’d ask that _you_ proceed with the knowledge that this guide is far from absolute - you can and _should_ pick and choose different components to form your own workflow - and that it is definitely not exclusive to Write.as/WriteFreely, considering our end output is markdown-formatted text. I have chosen to frame it around the .as suite because it (debatably) [saved my life](https://write.as/community/chat-with-david-blue) and I am therefore quite personally invested in the growth of its userbase and the health of its community. On that vein, I’ve recently [committed to starting the WriteFreely Community Discord Server](https://discuss.write.as/t/write-as-writefreely-community-discord/2831) and published [a new version of this blog’s theme](https://github.com/extratone/bilge/releases/tag/3.1) which I hope will prove useful to newcomers interested in customizing their Write.as/WriteFreely blogs.
 
-I also want to make it clear that this guide was written as a exploration of what is technically *possible* on iOS/iPhone at the moment, _not_ what I’d consider actually _advisable_. While I myself have been playing around across the spectrum of tools listed here on my 12 Pro Max - including drafting all of this guide, itself, as well as the vast majority of my [iPhone × Music overview](https://bilge.world/iphone-ios-music-apps) - I can’t say I expect to continue using my cellular phone in this way except for any special away-from-desktop circumstances.
+I also want to make it clear that this guide was written as a exploration of what is technically *possible* on iOS/iPhone at the moment, _not_ what I’d consider actually _advisable_. While I myself have been playing around across the spectrum of tools listed here on my 12 Pro Max - including drafting all of this guide, itself, as well as the vast majority of my [iPhone × Music overview](https://bilge.world/iphone-ios-music-apps) - I can’t say I expect to continue using my cellular phone in this way except for any special away-from-desktop circumstances. As someone who has used i
+
+![WriteFreely for iOS](https://i.snap.as/PkQ4kr11.png)
 
 ## Composing
+
 I’m starting out of order because I feel it’s impor 
 
  
