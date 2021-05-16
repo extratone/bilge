@@ -10,3 +10,7 @@ audio/Capture Testing/iPhone 12 Pro Max Microphone Test.wav
 audio/Voice Notes/Chatting with Jack about Big Blue.mp3
 documentation/docs/
 .DS_Store
+.obsidian/workspace
+.obsidian/templates.json
+.obsidian/config
+video/WWDC2010.m4v

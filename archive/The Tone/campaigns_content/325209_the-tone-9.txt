@@ -1,0 +1,84 @@
+Essential curiosities from us and our favorites.
+------------------------------------------------------------
+Isiah's five-day Soylent fast. (http://bit.ly/isiahsoylent)
+
+
+** DIVISION
+------------------------------------------------------------
+» You're rich, dude. (https://nytimes.com/2017/06/10/opinion/sunday/stop-pretending-youre-not-rich.html)
+
+» The unfortunate Princess of Dislocation. (https://www.nytimes.com/2017/06/12/magazine/the-long-lonely-road-of-chelsea-manning.html)
+
+» Missing the $point$, a bit. (https://www.theverge.com/2017/6/12/15782328/zelle-us-banks-instant-payment-processing-app-venmo-square-cash)
+
+» Politics | sexual violence. (https://theoutline.com/post/1716/stop-comparing-politics-to-sexual-violence)
+
+» A bit more Uber sexism. (https://theoutline.com/post/1720/uber-board-member-women-talk-too-much)
+
+» What the hell have things come to. (https://www.wired.com/story/will-roper-pentagon-video-games/)
+
+» (It was just as scary in '97.) (https://www.wired.com/1997/04/ff-doom/)
+
+» College v. Computer Science. (https://www.technologyreview.com/s/607946/you-dont-have-to-major-in-computer-science-to-do-it-as-a-career/)
+
+» ... (https://theoutline.com/post/1742/woman-convicted-for-telling-her-boyfriend-to-kill-himself-by-text)
+
+» Tump knows he's bad! (https://www.apnews.com/0172a576e8124251b5478818d1944632)
+
+» Here's the shit he did on the DL, this week. (http://www.politico.com/agenda/story/2017/06/16/5-things-trump-did-while-you-werent-looking-week-2-000462)
+
+» And his full financial report. (http://bit.ly/tump2017financial)
+
+
+** ART
+------------------------------------------------------------
+» Served. (http://bit.ly/servedsermon)
+
+» Your own book. (http://www.deathandtaxesmag.com/333926/man-who-promised-to-eat-his-own-book-for-incorrect-uk-election-prediction-chickens-out-on-live-tv/)
+
+» Or high school yearbook. (https://theoutline.com/post/1701/exclusive-leaked-james-comey-high-school-yearbook-photo)
+
+» The Xerox enigma... (https://theoutline.com/post/1713/the-history-of-the-secret-printer-code-that-may-have-caught-the-nsa-leaker)
+
+» Lorde of Onion Rings. (http://www.complex.com/music/2017/06/conspiracy-theorists-believe-lorde-is-onion-ring-reviewer)
+
+» The last iPhone saga. (https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt)
+
+» Articulating victimization. (http://www.politico.com/magazine/story/2017/06/17/shooting-scalise-congressional-baseball-game-practice-oral-history-215269)
+
+
+** MEDIA
+------------------------------------------------------------
+» Walt Mossberg is still a dork mogul. (https://www.theverge.com/2017/6/12/15779450/walt-mossberg-original-iphone-ibm-thinkpad-amazon-kindle-video)
+
+» Google: Eugenics. (https://theoutline.com/post/1705/google-is-perpetuating-a-very-bad-definition-of-eugenics)
+
+» We're not as crazy as you thought. (http://www.niemanlab.org/2017/06/membership-programs-are-paying-off-for-news-outlets-and-so-is-helping-them-set-up-their-programs/)
+
+» Leah Finnegan says 'no' to Mr. Jones. (https://theoutline.com/post/1711/alex-jones-is-a-piece-of-shit-and-interviewing-him-is-idiotic)
+
+» (Charlie Warzel says 'okay.') (https://www.buzzfeed.com/charliewarzel/the-case-for-interviewing-alex-jones)
+
+» The Rolling Stone stumper. (http://www.cbsnews.com/news/uva-fraternity-rolling-stone-settle-lawsuit-rape-story/)
+
+» A long-awaited alternative source for stock photos. (https://theoutline.com/post/1724/tonl-diversity-stock-photography)
+
+» Somehow, Twitter Nazis are still a thing. (https://theoutline.com/post/1743/twitter-s-nazi-problem-is-still-out-of-control)
+Itching for more?
+Read our reading list (http://bit.ly/extraread) .
+
+============================================================
+** Twitter (https://www.twitter.com/extratone/)
+** YouTube (http://www.youtube.com/extratone)
+** Facebook (https://www.facebook.com/extratonemagazine)
+** Instagram (http://instagram.com/extratonemag)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Matt Daniels
+N;CHARSET=UTF-8:Matt Daniels;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;213 11th St;Brooklyn;NY;11215;USA
+EMAIL:matthew.f.daniels@gmail.com
+ORG;CHARSET=UTF-8:The Pudding
+URL:https://pudding.cool
+END:VCARD

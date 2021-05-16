@@ -1,0 +1,98 @@
+*|MC_PREVIEW_TEXT|*
+
+Essential curiosities from us and our favorites.
+SPEEDY
+After two years of sluggishness, The Extranet is now 10 times faster (http://bit.ly/exfastp) , and I'm celebrating. Also, it's on Fonts in Use (http://bit.ly/extrfonts) now, if you're that sort of enthusiast.
+
+Perhaps you recall our extremely creative Australian friend Ryan Dell (https://twitter.com/ryandeel) from Drycast (http://bit.ly/drycast18) , or maybe from that weird video I did (https://youtu.be/6od6SnPNhVQ) , or possibly from his excellent YouTube account (https://www.youtube.com/user/thatdarnaccount) , or probably from The Tone's last issue (http://bit.ly/thetone29) . Regardless, you absolutely must read "Unsolicited Creative Advice (http://bit.ly/creativeadvice) ," his first piece on Extratone from last month.
+
+I wrote about Twitter lists (http://bit.ly/uselists) (for the last time, I promise,) and their new Windows 10 PWA and clacked out nearly 7000 words about the current state of word processing (http://bit.ly/textinred) this week. Most of this edition is a bit dated, but no less intriguing.
+
+David Blue
+Editor-in-Chief
+
+
+** DIVISION
+------------------------------------------------------------
+⊚ The suburban/rural divide from PRC. (http://www.pewsocialtrends.org/2018/05/22/what-unites-and-divides-urban-suburban-and-rural-communities/)
+"Urban areas are at the leading edge of racial and ethnic change, with nonwhites now a clear majority of the population in urban counties while solid majorities in suburban and rural areas are white."
+
+⊚ I'm not so sure old Tumpers actually knows what "negotiation" means. (https://www.politico.com/magazine/story/2018/06/01/donald-trump-deals-negotiation-art-of-deal-218584)
+"Why do so many people think Trump is such a skilled negotiator? Because he says so—over and over and over."
+
+⊚ Rounding off our science-fiction existence with "Instagram celebrity surgeons." (https://theoutline.com/post/4863/instagram-cosmetic-surgeons)
+"According to a recent study, 70 percent of surgeons believe that social media benefits professional development."
+
+⊚ I also lug around my own toilet, but it's significantly smaller than Kim Jong-un's. (https://slate.com/news-and-politics/2018/06/kim-jong-un-why-did-he-bring-own-toilet-to-trump-summit.html)
+"Why do so many people think Trump is such a skilled negotiator? Because he says so—over and over and over."
+
+
+** ART
+------------------------------------------------------------
+⊚ Another beautifully fascinating dissemination from The Pudding. (https://pudding.cool/2018/02/stand-up/)
+You'll never get the opportunity to see Ali Wong's process presented this way.
+
+⊚ ...and just one more. (https://pudding.cool/2018/05/similarity/)
+"It’s a movement directed, for the first time, not by the tastes of gay men but gay women: a specific brand of humor, manners, and sensibilities guided by lesbian identity."
+
+⊚ Porn and The Butterfly Effect from TechCrunch. (https://techcrunch.com/2018/05/27/pornography-and-the-butterfly-effect/)
+"It’s hard to escape the awkward bad-San-Francisco-liberal conclusion that porn, as is, has both positive and negative aspects, and that the latter are neither trivial or tiny in number."
+
+⊚ Com-mon! (Com-mon.) Com-mon! (Com-mon.) (https://theoutline.com/post/4724/common-starbucks-racism-why)
+"It’s a movement directed, for the first time, not by the tastes of gay men but gay women: a specific brand of humor, manners, and sensibilities guided by lesbian identity."
+
+⊚ Star Wars fans are bad. (https://www.polygon.com/2018/6/5/17429164/kelly-marie-tran-leaves-instagram)
+
+⊚ Surprise surprise: Online existence is depressing the masses. (https://theoutline.com/post/4852/being-extremely-online-can-only-bring-you-pain)
+
+⊚ Up Tight and Out of Sight. (http://theoutline.com/post/4790/these-vintage-nsa-posters-are-weird-as-hell)
+
+⊚ The Fader's cover profile of Rico Nasty. (http://www.thefader.com/2018/06/07/rico-nasty-cover-story-interview)
+
+⊚ YouTube owns your teens. (https://www.theverge.com/2018/5/31/17382058/youtube-teens-preferred-platform)
+"On the other end of the spectrum are platforms like Twitter (32 percent), Tumblr (9 percent), and Reddit (7 percent). Although more teens use YouTube than any other platform, it’s worth noting that respondents say they use Snapchat the most often."
+
+⊚ And Steam owns your... zines? (Sorry.) (https://www.theverge.com/2018/6/1/17417790/steam-pornography-rules-guidelines-porn-visual-novels)
+"The notices and their retraction not only raised more questions about Steam’s irregular application of vague rules, but about their particular focus on visual novels, a genre that is especially vulnerable to this sort of content-based censorship."
+
+
+** MEDIA
+------------------------------------------------------------
+⊚ More on the business of clickbait from The Outline. (https://theoutline.com/post/4716/how-everything-on-the-internet-became-clickbait)
+"Everyone knew that everyone knew about it, so you could talk about it with anyone, but writing a new 'take' on it didn’t require investing the type of journalistic time or effort that, say, traveling to Flint to keep tabs on the water quality would have."
+
+⊚ The GDPR vs. adtech from Doc Searls. (http://blogs.harvard.edu/doc/2018/05/12/gdpr/)
+"See, adtech looks like advertising, and is called advertising; but it’s really direct marketing, which is descended from junk mail and a cousin of spam."
+
+⊚ Peter Kafka is very good at his job. (https://www.recode.net/2018/5/22/17380908/youtube-music-launch-10-lyor-cohen-interview-peter-kafka-recode-media-kanye-west-childish-gambino)
+"Everyone knew that everyone knew about it, so you could talk about it with anyone, but writing a new 'take' on it didn’t require investing the type of journalistic time or effort that, say, traveling to Flint to keep tabs on the water quality would have."
+
+⊚ Nobody told the DHS about MuckRack. (https://biglawbusiness.com/homeland-security-to-compile-database-of-journalists-bloggers/)
+"The DHS request says the selected vendor will set up an online “media influence database” giving users the ability to browse based on location, beat, and type of influence."
+
+⊚ The infinite meta of the ICA papers. (http://www.niemanlab.org/2018/05/what-is-it-that-journalism-studies-is-studying-these-days-a-lot-about-newsrooms-less-about-everybody-else-in-the-news-ecosystem/)
+"Apart from one paper with the phrase “political economy” in the title, I could not find any work on the business of journalism. I find that extraordinary, and extraordinarily troubling."
+
+⊚ The internet is just now catching up with television's numbers. (https://qz.com/1303375/internet-usage-will-finally-surpass-tv-in-2019-zenith-predicts/)
+Still wanting for words?
+Look for an editor's companion (http://extratone.com/junction) ,
+or keep up with the best
+digital has to offer,
+in real time,
+with our reading list (http://bit.ly/extraread) .
+
+============================================================
+** Twitter (https://www.twitter.com/extratone/)
+** YouTube (http://www.youtube.com/extratone)
+** Facebook (https://www.facebook.com/extratonemagazine)
+** Instagram (http://instagram.com/extratonemag)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+** Unsubscribe (*|UNSUB|*)
+.
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+*|REWARDS_TEXT|*

@@ -1,0 +1,53 @@
+Welcome to The Tone - a short 'n' sweet weekly memo with essential curiosities from us and our favorites.
+------------------------------------------------------------
+Insectoid cybernoir. (http://bit.ly/harveythalloway)
+
+
+** NOISE
+------------------------------------------------------------
+» Gimlet's tiny bits. (https://gimletmedia.com/episode/rapture-chasers/)
+
+» Nick Bilton's chat log hell. (https://www.recode.net/2017/5/4/15536114/nick-bilton-american-kingpin-ross-ulbricht-silk-road-dread-pirate-roberts-recode-podcast)
+
+» PJ Vogt's surveillance. (https://gimletmedia.com/episode/96-the-secret-life-of-alex-goldman/)
+
+» The Movie Closet's anime. (http://bit.ly/spanktranime)
+
+» Our bodies' population. (http://www.radiolab.org/story/funky-hand-jive/)
+
+
+** CYBER
+------------------------------------------------------------
+» Pay attention and know your goals, please. (http://"Most of the time, we don't know our goals when we're using software." https://www.recode.net/2017/2/7/14542504/recode-decode-transcript-time-well-spent-founder-tristan-harris)
+
+» The world of Clueless is closing upon full realization. (https://www.theverge.com/2017/5/3/15522792/amazon-echo-look-alexa-style-assistant-ai-fashion)
+
+
+** HYPOCRISY
+------------------------------------------------------------
+» Cinco de Mayo has been stolen. (https://www.washingtonpost.com/news/post-nation/wp/2017/03/19/philadelphias-cinco-de-mayo-festival-was-just-canceled-amid-fears-of-an-ice-raid/)
+
+
+** MEDIA
+------------------------------------------------------------
+» Ja ja. (https://www.cjr.org/innovations/news-startup-crowdfunding-switzerland.php)
+
+» Visual essays.cool. (http://www.niemanlab.org/2017/05/this-site-publishes-high-touch-time-intensive-data-visualizations-and-has-a-business-that-sustains-it/)
+Itching for more?
+Read our reading list (http://extratone.com/read) .
+
+============================================================
+** Twitter (https://www.twitter.com/extratone/)
+** YouTube (http://www.youtube.com/extratone)
+** Facebook (https://www.facebook.com/extratonemagazine)
+** Instagram (http://instagram.com/extratonemag)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

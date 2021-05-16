@@ -1,0 +1,2485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>downloadables</key>
+        <array>
+            <!-- These first dicts are to reference the docsets that come installed with Xcode -->
+            <dict>
+                <key>identifier</key>
+                <string>com.apple.adc.documentation.AppleXcode.DeveloperTools</string>
+                <key>version</key>
+                <string>1</string>
+                <key>name</key>
+                <string>Xcode 5 doc set</string>
+                <key>source</key>
+                <string>https://apple.com/none.dmg</string>
+                <key>userInfo</key>
+                <dict>
+                    <key>ActivationPredicate</key>
+                    <string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt; '6.0'</string>
+                    <key>Category</key>
+                    <string>Documentation</string>
+                    <key>InstallPrefix</key>
+                    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                    <key>InstalledIfAllPathsArePresent</key>
+                    <array>
+                        <string>$(DEVELOPER)/Documentation/DocSets/com.apple.ADC_Reference_Library.DeveloperTools.5_0.docset</string>
+                    </array>
+                    <key>RequiresADCAuthentication</key>
+                    <false/>
+                    <key>Summary</key>
+                    <string>My description of content</string>
+                    <key>IconType</key>
+                    <string>IDEDownloadablesTypeDocSet</string>
+                </dict>
+            </dict>
+            <dict>
+                <key>identifier</key>
+                <string>com.apple.adc.documentation.AppleOSX10.9.CoreReference</string>
+                <key>version</key>
+                <string>1</string>
+                <key>name</key>
+                <string>OS X 10.9 doc set</string>
+                <key>source</key>
+                <string>https://apple.com/none.dmg</string>
+                <key>userInfo</key>
+                <dict>
+                    <key>ActivationPredicate</key>
+                    <string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt; '6.1'</string>
+                    <key>Category</key>
+                    <string>Documentation</string>
+                    <key>InstallPrefix</key>
+                    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                    <key>InstalledIfAllPathsArePresent</key>
+                    <array>
+                        <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.AppleOSX10.9.CoreReference.docset</string>
+                    </array>
+                    <key>RequiresADCAuthentication</key>
+                    <false/>
+                    <key>Summary</key>
+                    <string>My description of content</string>
+                    <key>IconType</key>
+                    <string>IDEDownloadablesTypeDocSet</string>
+                </dict>
+            </dict>
+<!-- iOS 7.0 submission doc set -->
+            <dict>
+                <key>identifier</key>
+                <string>com.apple.adc.documentation.AppleiOS7.0.iOSLibrary</string>
+                <key>version</key>
+                <string>1</string>
+                <key>name</key>
+                <string>iOS 7 doc set</string>
+                <key>source</key>
+                <string>https://apple.com/none.dmg</string>
+                <key>userInfo</key>
+                <dict>
+		    <key>ActivationPredicate</key>
+                    <string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt; '5.1'</string>
+                    <key>Category</key>
+                    <string>Documentation</string>
+                    <key>InstallPrefix</key>
+                    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                    <key>InstalledIfAllPathsArePresent</key>
+                    <array>
+                        <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.AppleiOS7.0.iOSLibrary.docset</string>
+                    </array>
+                    <key>RequiresADCAuthentication</key>
+                    <false/>
+                    <key>Summary</key>
+                    <string>My description of content</string>
+                    <key>IconType</key>
+                    <string>IDEDownloadablesTypeDocSet</string>
+                </dict>
+            </dict>
+<!-- iOS 7.1 submission doc set -->
+            <dict>
+                <key>identifier</key>
+                <string>com.apple.adc.documentation.AppleiOS7.1.iOSLibrary</string>
+                <key>version</key>
+                <string>1</string>
+                <key>name</key>
+                <string>iOS 7.1 doc set</string>
+                <key>source</key>
+                <string>https://apple.com/none.dmg</string>
+                <key>userInfo</key>
+                <dict>
+		    <key>ActivationPredicate</key>
+                    <string>$XCODE_VERSION &gt;= '5.1' &amp;&amp; $XCODE_VERSION &lt; '6.0'</string>
+                    <key>Category</key>
+                    <string>Documentation</string>
+                    <key>InstallPrefix</key>
+                    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                    <key>InstalledIfAllPathsArePresent</key>
+                    <array>
+                        <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.AppleiOS7.1.iOSLibrary.docset</string>
+                    </array>
+                    <key>RequiresADCAuthentication</key>
+                    <false/>
+                    <key>Summary</key>
+                    <string>My description of content</string>
+                    <key>IconType</key>
+                    <string>IDEDownloadablesTypeDocSet</string>
+                </dict>
+            </dict>
+
+            <!--<dict>-->
+                <!--<key>identifier</key>-->
+                <!--<string>com.apple.adc.documentation.AppleOSX10_8.CoreReference</string>-->
+                <!--<key>version</key>-->
+                <!--<string>1</string>-->
+                <!--<key>name</key>-->
+                <!--<string>OS X 10.9 doc set</string>-->
+                <!--<key>source</key>-->
+                <!--<string>https://apple.com/none.dmg</string>-->
+                <!--<key>userInfo</key>-->
+                <!--<dict>-->
+                    <!--<key>Category</key>-->
+                    <!--<string>Documentation</string>-->
+                    <!--<key>InstallPrefix</key>-->
+                    <!--<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>-->
+                    <!--<key>InstalledIfAllPathsArePresent</key>-->
+                    <!--<array>-->
+                        <!--<string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.AppleOSX10_8.CoreReference.docset</string>-->
+                    <!--</array>-->
+                    <!--<key>RequiresADCAuthentication</key>-->
+                    <!--<false/>-->
+                    <!--<key>Summary</key>-->
+                    <!--<string>My description of content</string>-->
+                    <!--<key>IconType</key>-->
+                    <!--<string>IDEDownloadablesTypeDocSet</string>-->
+                <!--</dict>-->
+            <!--</dict>-->
+            <!-- Starting New downloads -->
+
+<!-- DP 5 Downloads -->
+
+    <!-- DevTools DocSet -->
+		<dict>
+			<key>fileSize</key>
+			<integer>197989399</integer>
+			<key>identifier</key>
+			<string>com.apple.adc.documentation.AppleXcode.DeveloperTools</string>
+			<key>name</key>
+			<string>Xcode 5 doc set</string>
+			<key>source</key>
+      <string>https://devimages-cdn.apple.com/docsets/20130918/091-9915-A.dmg</string>
+			<key>userInfo</key>
+			<dict>
+				<key>ActivationPredicate</key>
+				<string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt;= '5.0.999'</string>
+				<key>Category</key>
+				<string>Documentation</string>
+				<key>IconType</key>
+				<string>IDEDownloadablesTypeDocSet</string>
+				<key>InstallPrefix</key>
+				<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+				<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+				<dict>
+					<key>com.apple.pkg.5.0.DevToolsDocset</key>
+					<string>10.9.0.0.1.1379481829</string>
+				</dict>
+				<key>RequiresADCAuthentication</key>
+				<false/>
+				<key>Summary</key>
+				<string>My description of content</string>
+			</dict>
+			<key>version</key>
+			<string>511.16</string>
+		</dict>
+
+    <!-- iOS DocSet -->
+
+		<dict>
+			<key>fileSize</key>
+			<integer>353309839</integer>
+			<key>identifier</key>
+			<string>com.apple.adc.documentation.AppleiOS7.0.iOSLibrary</string>
+			<key>name</key>
+			<string>iOS 7 doc set</string>
+			<key>source</key>
+			<string>https://devimages-cdn.apple.com/docsets/20130918/091-9917-A.dmg</string>
+			<key>userInfo</key>
+			<dict>
+			        <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt; '5.1'</string>
+				<key>Category</key>
+				<string>Documentation</string>
+				<key>IconType</key>
+				<string>IDEDownloadablesTypeDocSet</string>
+				<key>InstallPrefix</key>
+				<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+				<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+				<dict>
+					<key>com.apple.pkg.7.0.iOSDocset</key>
+					<string>10.9.0.0.1.1379481829</string>
+				</dict>
+				<key>RequiresADCAuthentication</key>
+				<false/>
+				<key>Summary</key>
+				<string>My description of content</string>
+			</dict>
+			<key>version</key>
+			<string>44.17</string>
+    </dict>
+
+    <!-- Legacy DocSet -->
+    <dict>
+			<key>fileSize</key>
+			<integer>20051292</integer>
+			<key>identifier</key>
+			<string>com.apple.adc.documentation.AppleLegacy.CoreReference</string>
+			<key>name</key>
+			<string>Retired Documents Library</string>
+			<key>source</key>
+			<string>https://devimages-cdn.apple.com/docsets/20130918/091-5300-A.dmg</string>
+			<key>userInfo</key>
+			<dict>
+				<key>ActivationPredicate</key>
+				<string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt; '5.1'</string>
+				<key>Category</key>
+				<string>Documentation</string>
+				<key>IconType</key>
+				<string>IDEDownloadablesTypeDocSet</string>
+				<key>InstallPrefix</key>
+				<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+				<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+				<dict>
+					<key>com.apple.pkg.1.0.LegacyDocset</key>
+					<string>10.9.0.0.1.1379481829</string>
+				</dict>
+				<key>RequiresADCAuthentication</key>
+				<false/>
+				<key>Summary</key>
+				<string>My description of content</string>
+			</dict>
+			<key>version</key>
+			<string>14.12</string>
+    </dict>
+
+    <!-- 15043411 OSX 10.8 update -->
+
+    <dict>
+            <key>fileSize</key>
+            <integer>322817325</integer>
+            <key>identifier</key>
+            <string>com.apple.adc.documentation.AppleOSX10_8.CoreReference</string>
+            <key>name</key>
+            <string>OS X 10.8 doc set</string>
+            <key>source</key>
+            <string>https://devimages-cdn.apple.com/docsets/20130926/091-9926-A.dmg</string>
+            <key>userInfo</key>
+            <dict>
+                <key>ActivationPredicate</key>
+                <string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt; '5.1'</string>
+                <key>Category</key>
+                <string>Documentation</string>
+                <key>IconType</key>
+                <string>IDEDownloadablesTypeDocSet</string>
+                <key>InstallPrefix</key>
+                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                <dict>
+                    <key>com.apple.pkg.10.9.OSXDocsetTenEight</key>
+                    <string>10.9.0.0.1.1380152198</string>
+                </dict>
+                <key>RequiresADCAuthentication</key>
+                <false/>
+                <key>Summary</key>
+                <string>My description of content</string>
+            </dict>
+            <key>version</key>
+            <string>419.38</string>
+        </dict>
+
+
+    <!-- FCS -->
+    <dict>
+       <key>fileSize</key>
+       <integer>209251858</integer>
+       <key>identifier</key>
+       <string>com.apple.adc.documentation.AppleXcode.DeveloperTools</string>
+       <key>name</key>
+       <string>Xcode 5 doc set</string>
+       <key>source</key>
+       <string>https://devimages-cdn.apple.com/docsets/20131022/031-1316-A.dmg</string>
+       <key>userInfo</key>
+       <dict>
+          <key>ActivationPredicate</key>
+          <string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt;= '5.0.999'</string>
+          <key>Category</key>
+          <string>Documentation</string>
+          <key>IconType</key>
+          <string>IDEDownloadablesTypeDocSet</string>
+          <key>InstallPrefix</key>
+          <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+          <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+          <dict>
+                  <key>com.apple.pkg.5.0.DevToolsDocset</key>
+                  <string>10.9.0.0.1.1382462642</string>
+          </dict>
+          <key>RequiresADCAuthentication</key>
+          <false/>
+          <key>Summary</key>
+          <string>My description of content</string>
+       </dict>
+       <key>version</key>
+       <string>512.13</string>
+    </dict>
+
+
+    <dict>
+        <key>fileSize</key>
+        <integer>399638620</integer>
+        <key>identifier</key>
+        <string>com.apple.adc.documentation.AppleOSX10.9.CoreReference</string>
+        <key>name</key>
+        <string>OS X 10.9 doc set</string>
+        <key>source</key>
+        <string>https://devimages-cdn.apple.com/docsets/20131022/031-1317-A.dmg</string>
+        <key>userInfo</key>
+        <dict>
+                <key>ActivationPredicate</key>
+                <string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt; '6.1'</string>
+                <key>Category</key>
+                <string>Documentation</string>
+                <key>IconType</key>
+                <string>IDEDownloadablesTypeDocSet</string>
+                <key>InstallPrefix</key>
+                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                <dict>
+                        <key>com.apple.pkg.10.9.OSXDocset</key>
+                        <string>10.9.0.0.1.1382462642</string>
+                </dict>
+                <key>RequiresADCAuthentication</key>
+                <false/>
+                <key>Summary</key>
+                <string>My description of content</string>
+        </dict>
+        <key>version</key>
+        <string>418.52</string>
+    </dict>
+
+
+                    <dict>
+                        <key>fileSize</key>
+                        <integer>21839797</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleLegacy.CoreReference</string>
+                        <key>name</key>
+                        <string>Retired Documents Library</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20131022/031-0568-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt; '5.1'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.1.0.LegacyDocset</key>
+                                        <string>10.9.0.0.1.1382392029</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                                <key>SortKey</key>
+                                <string>ZZZ</string>
+                        </dict>
+                        <key>version</key>
+                        <string>13.13</string>
+                      </dict>
+
+      <dict>
+                        <key>fileSize</key>
+                        <integer>327767968</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleiOS7.0.iOSLibrary</string>
+                        <key>name</key>
+                        <string>iOS 7 doc set</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20131022/031-1318-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.0' &amp;&amp; $XCODE_VERSION &lt; '5.1'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.7.0.iOSDocset</key>
+                                        <string>10.9.0.0.1.1382462642</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                        </dict>
+                        <key>version</key>
+                        <string>45.12</string>
+                </dict>
+
+<!-- FCS -->
+
+                <dict>
+                        <key>fileSize</key>
+                        <integer>333619828</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleiOS7.1.iOSLibrary</string>
+                        <key>name</key>
+                        <string>iOS 7.1 doc set</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20140311/031-1467-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.1' &amp;&amp; $XCODE_VERSION &lt; '6.0'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.7.0.iOSDocset</key>
+                                        <string>10.9.0.0.1.1394553637</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                        </dict>
+                        <key>version</key>
+                        <string>46.26</string>
+                </dict>
+
+                <dict>
+                        <key>fileSize</key>
+                        <integer>407647454</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleOSX10.9.CoreReference</string>
+                        <key>name</key>
+                        <string>OS X v10.9 doc set</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20140311/031-1468-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.1' &amp;&amp; $XCODE_VERSION &lt; '6.1'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.10.9.OSXDocset</key>
+                                        <string>10.9.0.0.1.1394553637</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                        </dict>
+                        <key>version</key>
+                        <string>420.21</string>
+                </dict>
+
+                <dict>
+                        <key>fileSize</key>
+                        <integer>244317035</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleXcode.DeveloperTools</string>
+                        <key>name</key>
+                        <string>Xcode 5.1 doc set</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20140311/031-5160-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.1' &amp;&amp; $XCODE_VERSION &lt;= '5.1.999'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.5.0.DevToolsDocset</key>
+                                        <string>10.9.0.0.1.1394592404</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                        </dict>
+                        <key>version</key>
+                        <string>513.33</string>
+                </dict>
+
+                <dict>
+                        <key>fileSize</key>
+                        <integer>18429248</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleLegacy.CoreReference</string>
+                        <key>name</key>
+                        <string>Retired Documents Library</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20140311/031-1319-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.1' &amp;&amp; $XCODE_VERSION &lt; '6.0'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.1.0.LegacyDocset</key>
+                                        <string>10.9.0.0.1.1394553637</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>SortKey</key>
+                                <string>ZZZ</string>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                        </dict>
+                        <key>version</key>
+                        <string>14.12</string>
+                </dict>
+
+
+                <!-- WWDC 2014 Entries -->
+                <!-- Summer 2014 Refresh -->
+
+                <dict>
+                        <key>fileSize</key>
+                        <integer>256661082</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleXcode.DeveloperTools</string>
+                        <key>name</key>
+                        <string>Xcode 5.1 doc set</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20140716/031-03250-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.1' &amp;&amp; $XCODE_VERSION &lt;= '5.1.999'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.5.0.DevToolsDocset</key>
+                                        <string>10.9.0.0.1.1405462940</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                        </dict>
+                        <key>version</key>
+                        <string>514.5</string>
+                </dict>
+
+                <dict>
+                        <key>fileSize</key>
+                        <integer>319056034</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleiOS7.1.iOSLibrary</string>
+                        <key>name</key>
+                        <string>iOS 7.1 doc set</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20140716/031-03245-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.1' &amp;&amp; $XCODE_VERSION &lt; '6.0'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.7.0.iOSDocset</key>
+                                        <string>10.9.0.0.1.1405462940</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                        </dict>
+                        <key>version</key>
+                        <string>47.5</string>
+                </dict>
+
+                <dict>
+                        <key>fileSize</key>
+                        <integer>18402688</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleLegacy.CoreReference</string>
+                        <key>name</key>
+                        <string>Retired Documents Library</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20140716/031-5161-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.1' &amp;&amp; $XCODE_VERSION &lt; '6.0'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.1.0.LegacyDocset</key>
+                                        <string>10.9.0.0.1.1405462940</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>SortKey</key>
+                                <string>ZZZ</string>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                        </dict>
+                        <key>version</key>
+                        <string>14.14</string>
+                </dict>
+
+                <dict>
+                        <key>fileSize</key>
+                        <integer>429650143</integer>
+                        <key>identifier</key>
+                        <string>com.apple.adc.documentation.AppleOSX10.9.CoreReference</string>
+                        <key>name</key>
+                        <string>OS X v10.9 doc set</string>
+                        <key>source</key>
+                        <string>https://devimages-cdn.apple.com/docsets/20140716/031-03248-A.dmg</string>
+                        <key>userInfo</key>
+                        <dict>
+                                <key>ActivationPredicate</key>
+                                <string>$XCODE_VERSION &gt;= '5.1' &amp;&amp; $XCODE_VERSION &lt; '6.1'</string>
+                                <key>Category</key>
+                                <string>Documentation</string>
+                                <key>IconType</key>
+                                <string>IDEDownloadablesTypeDocSet</string>
+                                <key>InstallPrefix</key>
+                                <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+                                <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+                                <dict>
+                                        <key>com.apple.pkg.10.9.OSXDocset</key>
+                                        <string>10.9.0.0.1.1405462940</string>
+                                </dict>
+                                <key>RequiresADCAuthentication</key>
+                                <false/>
+                                <key>Summary</key>
+                                <string>My description of content</string>
+                        </dict>
+                        <key>version</key>
+                        <string>421.5</string>
+                </dict>
+
+<!-- START WWDC 2014 Beta 4 refresh -->
+<!-- END WWDC 2014 Beta 4 refresh -->
+<!-- START iOS 8 9/17 refresh -->
+<!-- START Xcode 6 -->
+<dict>
+    <key>fileSize</key>
+    <integer>293926109</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.AppleXcode.DeveloperTools</string>
+    <key>name</key>
+    <string>Xcode 6</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20140917/031-07736-A.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.0' &amp;&amp; $XCODE_VERSION &lt;= '6.1'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.5.0.DevToolsDocset</key>
+            <string>10.9.0.0.1.1410994471</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>521.57</string>
+</dict>
+<!-- END Xcode 6 -->
+<!-- START iOS 8 -->
+<dict>
+    <key>fileSize</key>
+    <integer>438780988</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.AppleiOS8.0.iOSLibrary</string>
+    <key>name</key>
+    <string>iOS 8</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20140917/031-06020-A.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.0' &amp;&amp; $XCODE_VERSION &lt;= '6.1'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.7.0.iOSDocset</key>
+            <string>10.9.0.0.1.1410552693</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>52.50</string>
+</dict>
+<!-- END iOS 8 -->
+<!-- END iOS 8 9/17 refresh -->
+
+<!-- START iOS 8.1 rollout -->
+<!-- START Xcode 6.1 -->
+<dict>
+    <key>fileSize</key>
+    <integer>348141389</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.AppleXcode.DeveloperTools</string>
+    <key>name</key>
+    <string>Xcode 6.1</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20141020/031-07892-A.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.1' &amp;&amp; $XCODE_VERSION &lt; '6.2'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.5.0.DevToolsDocset</key>
+            <string>10.9.0.0.1.1413843168</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>522.18</string>
+</dict>
+<!-- END Xcode 6.1 -->
+
+<!-- START iOS 8.1 -->
+<dict>
+    <key>fileSize</key>
+    <integer>426419333</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.AppleiOS8.1.iOSLibrary</string>
+    <key>name</key>
+    <string>iOS 8.1</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20141020/031-07735-A.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.1' &amp;&amp; $XCODE_VERSION &lt; '6.2'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.7.0.iOSDocset</key>
+            <string>10.9.0.0.1.1413843168</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>53.13</string>
+</dict>
+<!-- END iOS 8.1 -->
+
+<!-- START OS X 10.10 -->
+<dict>
+    <key>fileSize</key>
+    <integer>480171066</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.AppleOSX10.10.CoreReference</string>
+    <key>name</key>
+    <string>OS X 10.10</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20141020/031-07890-A.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.1' &amp;&amp; $XCODE_VERSION &lt; '6.2'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.10.9.OSXDocset</key>
+            <string>10.9.0.0.1.1413843168</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>431.69</string>
+</dict>
+<!-- END OS X 10.10 -->
+<!-- END iOS 8.1 rollout -->
+
+<!-- Start Xcode 6.2 / iOS 8.2 -->
+<!-- iOS 8.2 built-in doc set -->
+<dict>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.iOS</string>
+    <key>name</key>
+    <string>iOS 8.2</string>
+    <key>source</key>
+    <string>https://apple.com/none.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.2' &amp;&amp; $XCODE_VERSION &lt; '7.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllPathsArePresent</key>
+        <array>
+            <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.iOS.docset</string>
+        </array>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+    </dict>
+    <key>version</key>
+    <string>82.00</string>
+</dict>
+<!-- END iOS 8.2 build-in doc set -->
+
+<!-- OS X 10.10 built-in doc set -->
+<dict>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.OSX</string>
+    <key>name</key>
+    <string>OS X 10.10</string>
+    <key>source</key>
+    <string>https://apple.com/none.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.2' &amp;&amp; $XCODE_VERSION &lt; '7.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllPathsArePresent</key>
+        <array>
+            <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.OSX.docset</string>
+        </array>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+    </dict>
+    <key>version</key>
+    <string>1010</string>
+</dict>
+<!-- END OS X 10.10 build-in doc set -->
+
+<!-- Xcode 6.2 built-in doc set -->
+<dict>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.Xcode</string>
+    <key>name</key>
+    <string>Xcode 6.2</string>
+    <key>source</key>
+    <string>https://apple.com/none.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.2' &amp;&amp; $XCODE_VERSION &lt; '7.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllPathsArePresent</key>
+        <array>
+            <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.Xcode.docset</string>
+        </array>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+    </dict>
+    <key>version</key>
+    <string>620</string>
+</dict>
+<!-- END Xcode 6.2 build-in doc set -->
+
+<!-- START OS X 10.10 full -->
+<dict>
+    <key>fileSize</key>
+    <integer>615820828</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.OSX</string>
+    <key>name</key>
+    <string>OS X 10.10</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20150309/Xcode_6.2_OS_X_Docset.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.2' &amp;&amp; $XCODE_VERSION &lt; '7.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.10.9.OSXDocset</key>
+            <string>10.9.0.0.1.1425669769</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>1010.1</string>
+</dict>
+<!-- END OS X 10.10 full -->
+
+<!-- START iOS 8.2 full -->
+<dict>
+    <key>fileSize</key>
+    <integer>470141792</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.iOS</string>
+    <key>name</key>
+    <string>iOS 8.2</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20150309/Xcode_6.2_iOS_Docset.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.2' &amp;&amp; $XCODE_VERSION &lt; '7.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.7.0.iOSDocset</key>
+            <string>10.9.0.0.1.1425669769</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>82.47</string>
+</dict>
+<!-- END iOS 8.2 full -->
+
+<!-- START Xcode 6.2 full -->
+<dict>
+    <key>fileSize</key>
+    <integer>283886123</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.Xcode</string>
+    <key>name</key>
+    <string>Xcode 6.2</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20150309/Xcode_6.2_DevTools_Docset.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.2' &amp;&amp; $XCODE_VERSION &lt; '7.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.5.0.DevToolsDocset</key>
+            <string>10.9.0.0.1.1425669769</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>620.55</string>
+</dict>
+<!-- END Xcode 6.2 full -->
+<!-- END Xcode 6.2 / iOS 8.2 -->
+
+<!-- START iOS 8.3 full -->
+<dict>
+    <key>fileSize</key>
+    <integer>437051958</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.iOS</string>
+    <key>name</key>
+    <string>iOS 8.3</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20150408/Xcode_6.3_iOS_Docset.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.3' &amp;&amp; $XCODE_VERSION &lt; '7.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.7.0.iOSDocset</key>
+            <string>10.9.0.0.1.1428532740</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>83.3</string>
+</dict>
+<!-- END iOS 8.3 full -->
+<!-- START Xcode 6.3 full -->
+<dict>
+    <key>fileSize</key>
+    <integer>351699366</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.Xcode</string>
+    <key>name</key>
+    <string>Xcode 6.3</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20150408/Xcode_6.3_DevTools_Docset.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.3' &amp;&amp; $XCODE_VERSION &lt; '7.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.5.0.DevToolsDocset</key>
+            <string>10.9.0.0.1.1428532740</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>630.4</string>
+</dict>
+<!-- END Xcode 6.3 full -->
+<!-- START OS X 10.10.3 full -->
+<dict>
+    <key>fileSize</key>
+    <integer>615749973</integer>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.OSX</string>
+    <key>name</key>
+    <string>OS X 10.10.3</string>
+    <key>source</key>
+    <string>https://devimages-cdn.apple.com/docsets/20150408/Xcode_6.3_OS_X_Docset.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '6.3' &amp;&amp; $XCODE_VERSION &lt; '7.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+        <dict>
+            <key>com.apple.pkg.10.9.OSXDocset</key>
+            <string>10.9.0.0.1.1428532740</string>
+        </dict>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+    </dict>
+    <key>version</key>
+    <string>1010.4</string>
+</dict>
+<!-- START OS X 10.10.3 -->
+<!-- WWDC 2015 / Xcode 7 -->
+<!-- iOS 9.0 built-in doc set -->
+<dict>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.iOS</string>
+    <key>name</key>
+    <string>iOS 9 Documentation</string>
+    <key>source</key>
+    <string>https://apple.com/none.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '7.0' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllPathsArePresent</key>
+        <array>
+            <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.iOS.docset</string>
+        </array>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+    </dict>
+    <key>version</key>
+    <string>90.00</string>
+</dict>
+<!-- END iOS 9.0 build-in doc set -->
+<!-- OS X 10.11 built-in doc set -->
+<dict>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.OSX</string>
+    <key>name</key>
+    <string>OS X 10.11 Documentation</string>
+    <key>source</key>
+    <string>https://apple.com/none.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '7.0' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllPathsArePresent</key>
+        <array>
+            <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.OSX.docset</string>
+        </array>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+    </dict>
+    <key>version</key>
+    <string>1011.0</string>
+</dict>
+<!-- END OS X 10.11 build-in doc set -->
+<!-- Xcode 7 built-in doc set -->
+<dict>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.Xcode</string>
+    <key>name</key>
+    <string>Xcode 7 Documentation</string>
+    <key>source</key>
+    <string>https://apple.com/none.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '7.0' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllPathsArePresent</key>
+        <array>
+            <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.Xcode.docset</string>
+        </array>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+    </dict>
+    <key>version</key>
+    <string>700</string>
+</dict>
+<!-- END Xcode 7 build-in doc set -->
+<!-- watchOS 2 built-in doc set -->
+<dict>
+    <key>identifier</key>
+    <string>com.apple.adc.documentation.watchOS</string>
+    <key>name</key>
+    <string>Xcode 7 Documentation</string>
+    <key>source</key>
+    <string>https://apple.com/none.dmg</string>
+    <key>userInfo</key>
+    <dict>
+        <key>ActivationPredicate</key>
+        <string>$XCODE_VERSION &gt;= '7.0' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+        <key>Category</key>
+        <string>Documentation</string>
+        <key>InstallPrefix</key>
+        <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+        <key>InstalledIfAllPathsArePresent</key>
+        <array>
+            <string>$(DEVELOPER)/Documentation/DocSets/com.apple.adc.documentation.watchOS.docset</string>
+        </array>
+        <key>RequiresADCAuthentication</key>
+        <false/>
+        <key>Summary</key>
+        <string>My description of content</string>
+        <key>IconType</key>
+        <string>IDEDownloadablesTypeDocSet</string>
+    </dict>
+    <key>version</key>
+    <string>2.0</string>
+</dict>
+<!-- END watchOS 2 build-in doc set -->
+<!-- END WWDC 2015 / Xcode 7 -->
+
+<!-- START Xcode 7 FCS -->
+<!-- START Xcode 7 doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>231621997</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.Xcode</string>
+  <key>name</key>
+  <string>Xcode 7 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20150916/031-34986-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7' &amp;&amp; $XCODE_VERSION &lt; '7.1'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.5.0.DevToolsDocset</key>
+      <string>10.9.0.0.1.1442278660</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>700.10</string>
+</dict>
+<!-- END Xcode 7 doc set -->
+<!-- START watchOS 2 doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>437400345</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.watchOS</string>
+	<key>name</key>
+	<string>watchOS 2.0 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20150916/031-34989-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.0' &amp;&amp; $XCODE_VERSION &lt; '7.1'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.1.0.WatchOSDocset</key>
+			<string>10.9.0.0.1.1442278660</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>2.6</string>
+</dict>
+<!-- END watchOS 2 doc set -->
+<!-- START iOS 9 doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>1065107366</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.iOS</string>
+  <key>name</key>
+  <string>iOS 9.0 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20150916/031-34987-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.0' &amp;&amp; $XCODE_VERSION &lt; '7.1'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.7.0.iOSDocset</key>
+      <string>10.9.0.0.1.1442278660</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>90.9</string>
+</dict>
+<!-- END iOS 9 doc set -->
+<!-- START OS X 10.11 doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>1288416181</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.OSX</string>
+  <key>name</key>
+  <string>OS X 10.11 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20150916/031-34988-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.0' &amp;&amp; $XCODE_VERSION &lt; '7.1'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.10.9.OSXDocset</key>
+      <string>10.9.0.0.1.1442278660</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>1011.10</string>
+</dict>
+<!-- END OS X 10.11 doc set -->
+<!-- END Xcode 7 FCS -->
+
+<!-- START Xcode 7.1 GM -->
+<!-- START Xcode doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>239281987</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.Xcode</string>
+  <key>name</key>
+  <string>Xcode 7.1 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20151021/031-36882-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.1' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.5.0.DevToolsDocset</key>
+      <string>10.9.0.0.1.1445309574</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>701.12</string>
+</dict>
+<!-- END Xcode doc set -->
+
+<!-- START iOS doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>1078280878</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.iOS</string>
+	<key>name</key>
+	<string>iOS 9.1 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20151021/031-36883-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.1' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.7.0.iOSDocset</key>
+			<string>10.9.0.0.1.1445309574</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>91.7</string>
+</dict>
+<!-- END iOS doc set -->
+
+<!-- START OS X doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>1301337732</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.OSX</string>
+	<key>name</key>
+	<string>OS X 10.11 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20151021/031-36884-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.1' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.10.9.OSXDocset</key>
+			<string>10.9.0.0.1.1445309574</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>1011.14</string>
+</dict>
+<!-- END OS X doc set -->
+
+<!-- START watchOS doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>400309947</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.watchOS</string>
+  <key>name</key>
+  <string>watchOS 2.0 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20151021/031-36885-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.0' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.WatchOSDocset</key>
+      <string>10.9.0.0.1.1445309574</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>2.11</string>
+</dict>
+<!-- END watchOS doc set -->
+
+<!-- START tvOS doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>399121030</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.tvOS</string>
+  <key>name</key>
+  <string>tvOS 9.0 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20151021/031-36886-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.1' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.tvOSDocset</key>
+      <string>10.9.0.0.1.1445309574</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>90.10</string>
+</dict>
+<!-- END tvOS doc set -->
+<!-- END Xcode 7.1 GM -->
+
+<!-- START Xcode 7.2 FCS -->
+<!-- START Xcode doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>232961511</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.Xcode</string>
+	<key>name</key>
+	<string>Xcode 7.2 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20160108/031-45829-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.2' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.5.0.DevToolsDocset</key>
+			<string>10.9.0.0.1.1452210081</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>702.5.0</string>
+</dict>
+<!-- END Xcode doc set-->
+<!-- START iOS doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>804566048</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.iOS</string>
+  <key>name</key>
+  <string>iOS 9.2 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160108/031-45830-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.2' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.7.0.iOSDocset</key>
+      <string>10.9.0.0.1.1452210081</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>92.7.0</string>
+</dict>
+<!-- END iOS doc set -->
+<!-- START OS X doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>888250219</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.OSX</string>
+  <key>name</key>
+  <string>OS X 10.11.2 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160108/031-45831-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.2' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.10.9.OSXDocset</key>
+      <string>10.9.0.0.1.1452210081</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>1012.5.0</string>
+</dict>
+<!-- END OS X doc set -->
+<!-- START watchOS doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>293606164</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.watchOS</string>
+  <key>name</key>
+  <string>watchOS 2.0 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160108/031-45832-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.2' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.WatchOSDocset</key>
+      <string>10.9.0.0.1.1452210081</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>3.3.0</string>
+</dict>
+<!-- END watchOS doc set -->
+<!-- START tvOS doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>290329190</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.tvOS</string>
+  <key>name</key>
+  <string>tvOS 9.1 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160108/031-45833-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.2' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.tvOSDocset</key>
+      <string>10.9.0.0.1.1452210081</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>91.5.0</string>
+</dict>
+<!-- END tvOS doc set -->
+<!-- END Xcode 7.2 FCS -->
+
+<!-- START Xcode 7.3 Beta 1 -->
+<!-- START tvOS doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>293802828</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.tvOS</string>
+  <key>name</key>
+  <string>tvOS 9.2 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160111b/031-47786-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.tvOSDocset</key>
+      <string>10.9.0.0.1.1452292500</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>tvOS Documentation</string>
+  </dict>
+  <key>version</key>
+  <string>92.1</string>
+</dict>
+<!-- END tvOS doc set -->
+
+<!-- START watchOS doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>336858331</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.watchOS</string>
+  <key>name</key>
+  <string>watchOS 2.2 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160111b/031-47787-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.WatchOSDocset</key>
+      <string>10.9.0.0.1.1452292500</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>watchOS Documentation</string>
+  </dict>
+  <key>version</key>
+  <string>4.1</string>
+</dict>
+<!-- END watchOS doc set -->
+
+<!-- START OS X doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>893081825</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.OSX</string>
+  <key>name</key>
+  <string>OS X 10.11.4 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160111b/031-47788-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.10.9.OSXDocset</key>
+      <string>10.9.0.0.1.1452292500</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>OS X Documentation</string>
+  </dict>
+  <key>version</key>
+  <string>1013.1</string>
+</dict>
+<!-- END OS X doc set -->
+
+<!-- START iOS doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>815749332</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.iOS</string>
+  <key>name</key>
+  <string>iOS 9.3 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160111b/031-47789-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.7.0.iOSDocset</key>
+      <string>10.9.0.0.1.1452292500</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>93.1</string>
+</dict>
+<!-- END iOS doc set -->
+
+<!-- START Xcode doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>242898940</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.Xcode</string>
+  <key>name</key>
+  <string>Xcode 7.3 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160111b/031-47790-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.5.0.DevToolsDocset</key>
+      <string>10.9.0.0.1.1452292500</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>703.1</string>
+</dict>
+<!-- END Xcode doc set-->
+<!-- END Xcode 7.3 Beta 1 -->
+
+<!-- START Xcode 7.3 Beta 3 -->
+<!-- START tvOS doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>295222308</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.tvOS</string>
+	<key>name</key>
+	<string>tvOS 9.2 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20160208b/031-47791-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.1.0.tvOSDocset</key>
+			<string>10.9.0.0.1.1454655079</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>92.2</string>
+</dict>
+<!-- END tvOS doc set -->
+<!-- START watchOS doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>358572416</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.watchOS</string>
+	<key>name</key>
+	<string>watchOS 2.2 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20160208b/031-47792-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.1.0.WatchOSDocset</key>
+			<string>10.9.0.0.1.1454655079</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>4.2</string>
+</dict>
+<!-- END watchOS doc set -->
+<!-- START iOS doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>820098205</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.iOS</string>
+	<key>name</key>
+	<string>iOS 9.3 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20160208b/031-47794-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.7.0.iOSDocset</key>
+			<string>10.9.0.0.1.1454655079</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>93.2</string>
+</dict>
+<!-- END iOS doc set -->
+<!-- START Xcode doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>265542934</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.Xcode</string>
+	<key>name</key>
+	<string>Xcode 7.3 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20160208b/031-47795-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.5.0.DevToolsDocset</key>
+			<string>10.9.0.0.1.1454655079</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>703.2</string>
+</dict>
+<!-- END Xcode doc set -->
+<!-- START OS X doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>894025030</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.OSX</string>
+  <key>name</key>
+  <string>OS X 10.11.4 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160208b/031-47793-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.10.9.OSXDocset</key>
+      <string>10.9.0.0.1.1454655079</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>1014.2</string>
+</dict>
+<!-- END OS X doc set -->
+<!-- END Xcode 7.3. Beta 3 -->
+
+<!-- START Xcode 7.3 FCS -->
+<!-- START tvOS doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>307693046</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.tvOS</string>
+	<key>name</key>
+	<string>tvOS 9.2 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20160321/031-52214-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.1.0.tvOSDocset</key>
+			<string>10.9.0.0.1.1458364023</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>92.5</string>
+</dict>
+<!-- END tvOS doc set -->
+<!-- START watchOS doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>364483392</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.watchOS</string>
+	<key>name</key>
+	<string>watchOS 2.2 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20160321/031-52210-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.1.0.WatchOSDocset</key>
+			<string>10.9.0.0.1.1458364023</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>4.5</string>
+</dict>
+<!-- END watchOS doc set -->
+<!-- START iOS doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>872151234</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.iOS</string>
+	<key>name</key>
+	<string>iOS 9.3 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20160321/031-52212-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.7.0.iOSDocset</key>
+			<string>10.9.0.0.1.1458364023</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>93.5</string>
+</dict>
+<!-- END iOS doc set -->
+<!-- START Xcode doc set -->
+<dict>
+	<key>fileSize</key>
+	<integer>263982236</integer>
+	<key>identifier</key>
+	<string>com.apple.adc.documentation.Xcode</string>
+	<key>name</key>
+	<string>Xcode 7.3 Documentation</string>
+	<key>source</key>
+	<string>https://devimages-cdn.apple.com/docsets/20160321/031-52213-A.dmg</string>
+	<key>userInfo</key>
+	<dict>
+		<key>ActivationPredicate</key>
+		<string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+		<key>Category</key>
+		<string>Documentation</string>
+		<key>IconType</key>
+		<string>IDEDownloadablesTypeDocSet</string>
+		<key>InstallPrefix</key>
+		<string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+		<key>InstalledIfAllReceiptsArePresentOrNewer</key>
+		<dict>
+			<key>com.apple.pkg.5.0.DevToolsDocset</key>
+			<string>10.9.0.0.1.1458364023</string>
+		</dict>
+		<key>RequiresADCAuthentication</key>
+		<false/>
+		<key>Summary</key>
+		<string>My description of content</string>
+	</dict>
+	<key>version</key>
+	<string>703.5</string>
+</dict>
+<!-- END Xcode doc set -->
+<!-- START OS X doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>931959772</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation.OSX</string>
+  <key>name</key>
+  <string>OS X 10.11.4 Documentation</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160321/031-52211-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '7.3' &amp;&amp; $XCODE_VERSION &lt; '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.10.9.OSXDocset</key>
+      <string>10.9.0.0.1.1458364023</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>1014.5</string>
+</dict>
+<!-- END OS X doc set -->
+<!-- END Xcode 7.3 FCS -->
+
+<!-- START Xcode 8 FCS -->
+<!-- START conceptual doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>1139892082</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation</string>
+  <key>name</key>
+  <string>Guides and Sample Code</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20160913/031-77711-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '8.0'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.ConceptualDocset</key>
+      <string>10.9.0.0.1.1473735752</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>1.35</string>
+</dict>
+<!-- END conceptual doc set -->
+<!-- END Xcode 8 FCS -->
+
+<!-- START Xcode 8.1 FCS -->
+<!-- START conceptual doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>1118534345</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation</string>
+  <key>name</key>
+  <string>Guides and Sample Code</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20161027/031-87220-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '8.1'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.ConceptualDocset</key>
+      <string>10.9.0.0.1.1477550192</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>3.6</string>
+</dict>
+<!-- END conceptual doc set -->
+<!-- END Xcode 8.1 FCS -->
+
+<!-- START Xcode 8.2 FCS -->
+<!-- START conceptual doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>1125092405</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation</string>
+  <key>name</key>
+  <string>Guides and Sample Code</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20161212/031-91455-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '8.2'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.ConceptualDocset</key>
+      <string>10.9.0.0.1.1481247714</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>4.8</string>
+</dict>
+<!-- END conceptual doc set -->
+<!-- END Xcode 8.2 FCS -->
+
+<!-- START Xcode 8.3 FCS -->
+<!-- START conceptual doc set -->
+<dict>
+  <key>fileSize</key>
+  <integer>1176127378</integer>
+  <key>identifier</key>
+  <string>com.apple.adc.documentation</string>
+  <key>name</key>
+  <string>Guides and Sample Code</string>
+  <key>source</key>
+  <string>https://devimages-cdn.apple.com/docsets/20170327/091-04694-A.dmg</string>
+  <key>userInfo</key>
+  <dict>
+    <key>ActivationPredicate</key>
+    <string>$XCODE_VERSION &gt;= '8.3'</string>
+    <key>Category</key>
+    <string>Documentation</string>
+    <key>IconType</key>
+    <string>IDEDownloadablesTypeDocSet</string>
+    <key>InstallPrefix</key>
+    <string>$(HOME)/Library/Developer/Shared/Documentation/DocSets</string>
+    <key>InstalledIfAllReceiptsArePresentOrNewer</key>
+    <dict>
+      <key>com.apple.pkg.1.0.ConceptualDocset</key>
+      <string>10.9.0.0.1.1490382108</string>
+    </dict>
+    <key>RequiresADCAuthentication</key>
+    <false/>
+    <key>Summary</key>
+    <string>My description of content</string>
+  </dict>
+  <key>version</key>
+  <string>5.27</string>
+</dict>
+<!-- END conceptual doc set -->
+<!-- END Xcode 8.3 FCS -->
+
+<!-- Entries go above this line -->
+        </array>
+        <key>refreshInterval</key>
+        <string>86400</string>
+    </dict>
+</plist>

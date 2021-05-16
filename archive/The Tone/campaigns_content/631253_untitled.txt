@@ -1,0 +1,9 @@
+*|MC_PREVIEW_TEXT|*
+
+============================================================
+
+This email was sent to *|EMAIL|* (mailto:*|EMAIL|*)
+why did I get this? (*|ABOUT_LIST|*)     unsubscribe from this list (*|UNSUB|*)     update subscription preferences (*|UPDATE_PROFILE|*)
+*|LIST_ADDRESSLINE_TEXT|*
+
+*|REWARDS_TEXT|*

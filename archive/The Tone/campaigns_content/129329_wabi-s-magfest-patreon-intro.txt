@@ -1,0 +1,60 @@
+004
+Contact Horn (mailto: horn@extratone.com)
+
+
+** Hello Extratone
+------------------------------------------------------------
+------------------------------------------------------------
+
+
+** I’m Wabi,
+------------------------------------------------------------
+
+resident music editor and host of the Web Crates podcast (http://extratone.com/crates) , and I’m here to update all of you on a few things.
+
+First would be we now have a Patreon (https://www.patreon.com/extratone) .http://patreon.com/extratone
+
+If you're unaware, it’s a monthly subscription service in which you can donate to help with our content.
+
+The main reason for starting the Patreon plays into the other thing I wanted to talk about.
+
+Extratone is planning on going to MAGFest (http://magfest.org/about/) ... or at least some of us are.
+How much we're able to raise plays directly into how many of us will be able to go.
+
+As of now I believe I’m the only who is definitely going, but quite a few are trying to.
+
+From MAGFest we will be able to bring you video and podcasts all in person, which will be a first for us.
+
+We hope to get as many people as possible down there and hopefully see some of you!
+
+Wabi is Extratone's Music Editor and creator of Web Crates (http://extratone.com/crates) .
+
+
+
+** ABOUT EXTRATONE
+------------------------------------------------------------
+
+Extratone (http://extratone.com) is an online and seasonally-printed magazine covering the rediscovery of relevance in feature publications and uniquely youth-oriented media.
+------------------------------------------------------------
+
+http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|* tweet (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|* post (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+
+*|FORWARD|* forward (*|FORWARD|*)
+
+============================================================
+** Twitter (http://www.twitter.com/extratone)
+** Facebook (http://www.facebook.com/extratonemedia)
+** YouTube (http://www.youtube.com/drywallmedia)
+Copyright © *|CURRENT_YEAR|* *|LIST:COMPANY|*, All rights reserved.
+*|IFNOT:ARCHIVE_PAGE|* *|LIST:DESCRIPTION|*
+
+Our mailing address is:
+*|LIST_ADDRESS|* *|END:IF|*
+
+Want to change how you receive these emails?
+You can ** update your preferences (*|UPDATE_PROFILE|*)
+or ** unsubscribe from this list (*|UNSUB|*)
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

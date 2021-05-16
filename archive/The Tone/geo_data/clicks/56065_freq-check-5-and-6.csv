@@ -1,0 +1,31 @@
+"Country Code",Region,Url,Clicks
+CN,CN_44,http://extratone.com/freq/6,1
+US,CA,http://bit.ly/extratone,3
+US,CA,http://extratone.com,4
+US,CA,http://extratone.com/about,1
+US,CA,http://extratone.com/freq,3
+US,CA,http://extratone.com/freq/5,6
+US,CA,http://extratone.com/freq/6,5
+US,CA,http://twitter.com/dangerboy,2
+US,CA,http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*:,2
+US,CA,"http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*",4
+US,CA,http://twitter.com/wabibeats,4
+US,CA,http://www.extratone.com/drakesville/author/anonymoist/,2
+US,CA,http://www.extratone.com/drakesville/crates,1
+US,CA,http://www.extratone.com/drakesville/futureland,6
+US,CA,http://www.extratone.com/drakesville/members/anonymoist/,2
+US,CA,http://www.extratone.com/drakesville/moviecloset,4
+US,CA,http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*,4
+US,CA,http://www.theverge.com/2016/11/1/13484656/verge-5th-anniversary-relaunch-2016,3
+US,CA,http://www.twitter.com/extratone,1
+US,CA,http://www.youtube.com/drywallmedia,2
+US,CA,https://t.co/X5eRK0sM74,3
+US,CA,https://theconversation.com/why-journalistic-balance-is-failing-the-public-68783,2
+US,CA,https://twitter.com/AwkwardOrpheus,3
+US,CA,https://twitter.com/EmilyEWaters,2
+US,CA,https://twitter.com/extratone/status/800350781996204032,3
+US,CA,https://twitter.com/Nogisa_,4
+US,CA,https://twitter.com/robotposter,1
+US,CA,https://twitter.com/WabiMusic,2
+US,CA,https://youtu.be/0axs_A20MN8,2
+US,MO,http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*,1

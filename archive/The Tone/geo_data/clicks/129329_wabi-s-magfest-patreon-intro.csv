@@ -1,0 +1,12 @@
+"Country Code",Region,Url,Clicks
+CN,CN_44,http://extratone.com/crates,2
+DE,DE_HE,http://extratone.com,2
+DE,DE_HE,http://extratone.com/crates,4
+DE,DE_HE,http://magfest.org/about/,2
+DE,DE_HE,http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*:,1
+DE,DE_HE,"http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*",2
+DE,DE_HE,http://www.facebook.com/extratonemedia,2
+DE,DE_HE,http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*,4
+DE,DE_HE,http://www.twitter.com/extratone,2
+DE,DE_HE,http://www.youtube.com/drywallmedia,2
+DE,DE_HE,https://www.patreon.com/extratone,1

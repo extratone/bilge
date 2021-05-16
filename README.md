@@ -21,6 +21,8 @@ As part of [my continued exploration of Git as an editorial tool](https://github
 * [**Discussions**](https://github.com/extratone/bilge/discussions) are an intriguing possibility for external feedback (stop by and say something! really!,) but explaining why my general audience should have a GitHub account to participate even if they have zero interest in *dev* shit is going to be difficult.
 * Within the code, you'll find my [**voice notes**](https://github.com/extratone/bilge/tree/main/audio/Voice%20Notes), an [**image library**](https://github.com/extratone/bilge/tree/main/images), and a variety of other miscellaneous associated files (better organization [is coming](https://github.com/extratone/bilge/milestone/1).)
 
+![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
+
 ***
 
 ## [About](https://bilge.world/about)
@@ -179,24 +181,50 @@ h2 {
 }
 
 h3 {
+    color: #1c0021 !important;
     font-family: proxima-nova-extra-condensed, sans-serif;
     font-weight: 600;
     font-size: 1.3em !important;
 }
 
 h4 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h5 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h6 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: .85em !important;
+}
+
+code {
+    /* background-color:#f7ff85 !important; */
+    /* border: 1px solid #da2573 !important;
+    border-radius: 1px !important; */
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+body #post pre, body#collection pre, body#post pre, body#subpage pre {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
 }
 
 .post-title a:visited,
@@ -225,6 +253,59 @@ blockquote {
     color: #333333 !important;
     border-left: 2.5px solid #00006b !important;
 }
+
+table {
+    background-color: #FFFdeb !important;
+    font-size: 0.8em !important;
+    line-height: 1.2em;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    border: 1px solid #f43f32 !important;
+    border-radius: 1px !important;
+}
+
+article table td, article table th {
+    border: 1px solid !important;
+    border-color: #da2573 !important;
+}
+
+
+.gist {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+}
+
+.gist .gist-meta {
+    font-family: proxima-nova-extra-condensed, sans-serif !important;
+    font-weight: 600 !important;
+    color: #1c0021 !important;
+}
+
+.gist, .gist article, .gist article p {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+}
+
+
+.gist .gist-file .gist-data {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+}
+
+.gist, .gist article, .gist article p {
+    white-space: normal !important;
+}
+
+/* .gist .gist-hr {
+    display: hide !important;
+} */
 
 hr {
     border: 2px solid red;
@@ -328,27 +409,6 @@ body#subpage article time.dt-published {
     border-top: #00006b dotted 1px;
 }
 ```
-
-<p>
-<a href="http://jigsaw.w3.org/css-validator/check/referer">
-    <img style="border:0;width:88px;height:31px"
-        src="http://jigsaw.w3.org/css-validator/images/vcss-blue"
-        alt="Valid CSS!" />
-    </a>
-</p>
-
-​      
-
-<p>
-    <a href="http://jigsaw.w3.org/css-validator/check/referer">
-        <img style="border:0;width:88px;height:31px"
-            src="http://jigsaw.w3.org/css-validator/images/vcss"
-            alt="Valid CSS!" />
-    </a>
-</p>
-
-(Remember these? lol)
-
 ### [Javascript](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js)
 
 ```javascript
@@ -371,7 +431,7 @@ if (cont !== null) {
 
 window.hypothesisConfig = function () {
   return {
-    "openSidebar": true, 
+    "openSidebar": false, 
     "theme": "clean",
     branding: {
       appBackgroundColor: '#e6f7ff',
@@ -395,4 +455,3 @@ postContent = postContent.replace(notePattern, noteText);
 postContent = postContent.replace(refPattern, refText);
 document.getElementById("post-body").innerHTML = postContent;
 ```
-
