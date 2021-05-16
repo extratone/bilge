@@ -22,6 +22,8 @@ For whatever it's worth, *thanks for the follow*. I hope to hear from you but if
 
 ***
 
+![lol Artifact](https://i.snap.as/vopPn5mt.png)
+
 A big theme in my 20s has been coming (slowly) to terms with the fact that I built my entire adult social life around a single, centralized social media Web Site. I mentioned this in [my Tweetbot 6 review](https://bilge.world/tweetbot-6-ios-review), recently, but - as I also strive to be a more sincere person and spend more time adding value to _others_’ lives - I’ve concluded that it is the time now to speak as openly and vulnerably as I can about my “Social Media Methodology.” Most of the resulting insights will not be new information, but I continue to encounter greater and greater confusion in the face of my well-meaning behavior online and I have decided to stop disregarding it. 
 
 This is _not_ an essay about how to “optimize” your social media use. If anything, it is a sort of manifesto against the very idea of designed online behavior beyond simply **being considerate** in a sense that predates even the spoken word. I, myself, have occupied a position well on the _chaotic_ side of the spectrum. You could say I have been mostly _chaotic neutral_ throughout my 12 years on Twitter thus far, and am actively working toward (and advocating for) _chaotic good_.
