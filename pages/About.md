@@ -2,6 +2,10 @@
 
 ![Unicode Banner (Centered) - The Psalms](https://i.snap.as/zk0pP5fk.png)
 
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/Ride%20The%20Storm.mp3">
+</audio>
+
 ## ‽‽‽
 
 *The Psalms* (alternatively/interchangeably entitled *Bilge*) is a monobyline World Wide Web Blog written by David Blue (good morning!) observing and selectively amplifying the characters, organizations, and stories surrounding the most abrupt, profound, and spectacular communicative renaissance in the history of the human species. 
