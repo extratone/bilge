@@ -25,6 +25,8 @@ For a good part of my Junior and Senior years of high school,
 
 * Frankly, the cool broadcasts I want to hear are all from Open Web sources: [Datafruits](https://datafruits.fm/), Solarpunk.cool, etc.
 
+* The long lost love: **Discovery**.
+
 ## Assumptions in Question
 
 1. For the vast majority of mainstream social users, no amount of [insert vague overused marketing jargon noun] will *ever* result in a substantial accumulation of money/"influence" (which seems to be the diluted zag of "POWER" of the moment.) Those interested in learning about "marketing" should know that no authority on the subject would ever tell you to *start* with Twitter - this I can say with certainty. 
