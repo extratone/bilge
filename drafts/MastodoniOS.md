@@ -10,7 +10,7 @@ First, let’s begin with The Big 6 - those apps The Mastodon Project, itself, h
 
 `https://youtube.com/watch?v=LdBFMibyh3Y`
 
-### Toot!
+### [Toot!](https://apps.apple.com/app/toot/id1229021451)
 
 Dag Ågren‘s [Toot!](https://apps.apple.com/us/app/toot/id1229021451) is not only my personal app of choice - I would (and have) go so far as to say it’s the single most innovative mobile social app I’ve ever encountered, largely because of its jacknife-esque instance switching function. It’s held a place in my phone’s dock since the day I first downloaded it, for this and many other reasons.
 
@@ -24,8 +24,15 @@ In my experience, it’s also the most robust of the lot - as in, it is very muc
 
 ![Mast for iOS](https://i.snap.as/KF4Slx39.png)
 
-### Mast
+### [Mast](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129)
 
 I originally had high hopes for Shihab Mehboob‘s [Mast](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) - which used to look very different from the way it does, today. That’s almost certainly to do with its ownership [changing hands](https://twitter.com/jpeguin/status/1354854403124178947) at some point (no, I do not have any further details on that story, unfortunately.) That’s not to say the current app isn’t a worthwhile offering, it’s just far less _visually ambitious_ than the original I remember. However, it’s also significantly more reliable.
 
 ![Mast Details](https://i.snap.as/UsH95qJv.png)
+
+
+
+![Amaroq for iOS](https://i.snap.as/JV5vzmky.png)
+
+### [Amaroq](https://apps.apple.com/us/app/amarok-for-mastodon/id1214116200)
+
