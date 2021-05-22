@@ -6,9 +6,6 @@ Since the very moment the iPhone was first unveiled to the world, we have have b
 
 
 
-<blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">while I’m thinking about it...<br>here’s how to clear your iPhone’s RAM.<br><br>You need to get to the Settings➯General➯Shut Down screen and the hold down the home button. (Pre-iPhone X just use the physical button instead of AssistiveTouch.) <a href="https://t.co/DUgnoOwtEr">pic.twitter.com/DUgnoOwtEr</a></p>&mdash; ※ David Blue ※ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1344866358333472772?ref_src=twsrc%5Etfw">January 1, 2021</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 ***
 
 - [ ] Merging contacts.
@@ -27,7 +24,6 @@ Since the very moment the iPhone was first unveiled to the world, we have have b
 - [ ] Merging contacts ([Apple Support](https://support.apple.com/guide/iphone/hide-duplicate-contacts-iph2ab28320d/ios))
 - [ ] Reduce motion
 - [ ] Close all tabs in Safari
-#software
 
 ## [Reddit Thread](https://www.reddit.com/r/ios/comments/l5p7ly/underdocumented_ios_functions_stuff_you_wish/)
 
