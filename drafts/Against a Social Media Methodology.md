@@ -74,4 +74,4 @@ Compared to these, most of Clubhouse's communities seem bleak at best. As I may 
 
 ## Fulfillment Analytics
 
-I am not a social scientist, data analyst of any kind, established media-facing academic, or even a real web developer. On social media, I am nothing more than an early adopting End User, but 
+I am not a social scientist, data analyst of any kind, established media-facing academic, or even a real web developer. On social media, I am nothing more than an early adopting End User, but I'm beginning to wonder if you should start listening to me, considering the results produced thus far by those mentioned in various efforts to understand why the Social Web became what it is today.

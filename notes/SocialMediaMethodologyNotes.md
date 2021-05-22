@@ -73,9 +73,9 @@ For a good part of my Junior and Senior years of high school,
 * “[Do You Know the Twitter Limits? Spam, followers & following](https://iag.me/socialmedia/guides/do-you-know-the-twitter-limits/)”
 * “[Twitter’s timeline algorithm, and its effect on us, explained.](http://www.slate.com/articles/technology/cover_story/2017/03/twitter_s_timeline_algorithm_and_its_effect_on_us_explained.html)”
 > After all the outrage, fewer than 2 percent of all users opted out of the algorithmic timeline.
-* “[Getting Ratioed on Twitter Is Good - The Atlantic](https://www.theatlantic.com/ideas/archive/2019/10/ratio-twitter-good/600334/)”
+* “[Getting Ratioed on Twitter Is Good](https://www.theatlantic.com/ideas/archive/2019/10/ratio-twitter-good/600334/)” | *The Atlantic*
 * “[3 Reasons Your Twitter Follower Ratio Is More Important Than You Know | Inc.com](https://www.inc.com/hillel-fuld/3-reasons-your-twitter-follower-ratio-is-more-important-than-you-know.html)”
-> If you follo	w more people than follow you, what you are in essence saying to that person is "I followed all these people, but only some of them found me interesting enough to follow me back."
+> If you follow more people than follow you, what you are in essence saying to that person is "I followed all these people, but only some of them found me interesting enough to follow me back."
 > Not only that, but you are also saying "Yes, I may have recently followed you, but don't take it too personally, I like to follow a lot of people, so really, the fact that I cared enough to follow you doesn't mean I am genuinely interested in what you have to say."
 > Not doing great on A
 * [Twitter is testing a new Tip Jar feature for sending money to your favorite accounts - The Verge](https://www.theverge.com/2021/5/6/22423583/twitter-tip-jar-feature-sending-money-venmo-cashapp)
@@ -90,6 +90,10 @@ For a good part of my Junior and Senior years of high school,
 
 * "[Clubhouse Feels like a Party](https://www.newyorker.com/news/letter-from-silicon-valley/in-the-clubhouse)" | *The New Yorker*
 
+  > There was something pleasant about meandering from conversation to conversation, as if I had walked into my own home to find a conference in full swing. But I also wondered, Why did I let all of these people into my house?
+  >
+  > ...
+  >
   > It is hard to shake the feeling that everyone on Clubhouse is selling something: a company, a workshop, a show, a book, a brand.
 
 * "[The Clubhouse Party Is Over](https://www.vanityfair.com/news/2021/04/the-clubhouse-party-is-over)" | *The Atlantic*
