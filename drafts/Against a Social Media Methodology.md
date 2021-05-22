@@ -70,7 +70,7 @@ My lack of understanding would be meaningless if it were not so widely shared am
 
 <iframe src="https://www.listennotes.com/embedded/e/5331661b415f48d1a58e8c56a656a99e/" height="170px" width="auto" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
 
-Compared to these, most of Clubhouse's communities seem bleak at best. As I may or may not get around to arguing thoroughly about Twitter Spaces, these services' fundamental, near-complete disinterest in **discovery** of new voices and their subsequent servitude to only their most popular users should be extremely worrying for us all - including those who benefit most.
+Compared to these, most of Clubhouse's communities seem bleak at best. As I may or may not get around to arguing thoroughly about [Twitter Spaces](https://github.com/extratone/bilge/issues/79), these services' fundamental, near-complete disinterest in **discovery** of new voices and their subsequent servitude to only their most popular users should be extremely worrying for us all - including those who benefit most.
 
 ## Fulfillment Analytics
 
