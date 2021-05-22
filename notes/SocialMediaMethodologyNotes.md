@@ -7,9 +7,17 @@
 For a good part of my Junior and Senior years of high school, 
 
 * `https://twitter.com/NeoYokel/status/1351947764859613187`
+
 * By design or not, The Ratio _fundamentally_ disincentivizes discovery, sincere exposure to new perspectives, and indeed most of what we constitute as “human connection.”
+
 * Ultimately, I don't really have a choice but to continue using Twitter as I always have, so I'm going to make the most of it and continue to post whenever and whatever I, myself, would like to see on my timeline - even if my account ends up in such low opinion of The Twitter Algorithm that my Tweets become obfuscated entirely from everywhere on the site save for their full, canonical web addresses, which I will then publish via plain text files hosted on my NeoCities.
-  * Disclose: the excerpt from my astrology about indiscriminately work
+  * Disclose: the excerpt from [my astrology](https://www.notion.so/rotund/The-Day-of-Reformed-Precocity-1bbbb5f6369646fbae7024c3295523e4) about indiscriminately viewing my work.
+  
+    > Above all, those born on this day must learn patience and discrimination. Not all of their work is of the highest caliber, though they expect it to be and can firmly believe it is.
+  
+* **It's okay if you don't understand.** You can leave it at that.
+
+* We have all inevitably become *sus*, which is okay, but we should be particularly mindful about it.
 
 ## Assumptions in Question
 
@@ -40,14 +48,26 @@ For a good part of my Junior and Senior years of high school,
 
 ***
 
+### Related Tweets
+
+* [I do not understand the mentality of Twitter users who behave as if it is an intraweb competition and/or it has value in and of itself.](https://twitter.com/NeoYokel/status/753114804617932801)
+* [Technically, the only feasible route for Twitter continuing in a static format is purchase by government to become a public service.](https://twitter.com/NeoYokel/status/696094018862718976)
+* [the solution to Twitter's financial discombobulation will always be paid premium accounts.](https://twitter.com/NeoYokel/status/841212000436912129)
+* [in This Present Time I can have regular interactions with my adolescent celebrity crush that I *actually* would not be able to convince my 14-year-old self are real. not because of their significance but the opposite.](https://twitter.com/NeoYokel/status/1393805699445047301)
+* [Nina Laying Down Twitter Moment](https://twitter.com/i/events/1395934071197474828 )
+
 ## References
+
+* "[The platforms try a little transparency](https://www.platformer.news/p/the-platforms-try-a-little-transparency)" | *Platformer*
+* "[Our plans to relaunch verification and what’s next](https://blog.twitter.com/en_us/topics/company/2020/our-plans-to-relaunch-verification-and-whats-next.html)" | *Twitter Blog*
+* "[Relaunching verification and what’s next](https://blog.twitter.com/en_us/topics/company/2021/relaunching-verification-and-whats-next.html)" | *Twitter Blog*
 * “[Measuring influence on Twitter | Proceedings of the 11th International Conference on Knowledge Management and Knowledge Technologies](https://dl.acm.org/doi/abs/10.1145/2024288.2024326)”
 * “[Do You Know the Twitter Limits? Spam, followers & following](https://iag.me/socialmedia/guides/do-you-know-the-twitter-limits/)”
 * “[Twitter’s timeline algorithm, and its effect on us, explained.](http://www.slate.com/articles/technology/cover_story/2017/03/twitter_s_timeline_algorithm_and_its_effect_on_us_explained.html)”
 > After all the outrage, fewer than 2 percent of all users opted out of the algorithmic timeline.
 * “[Getting Ratioed on Twitter Is Good - The Atlantic](https://www.theatlantic.com/ideas/archive/2019/10/ratio-twitter-good/600334/)”
 * “[3 Reasons Your Twitter Follower Ratio Is More Important Than You Know | Inc.com](https://www.inc.com/hillel-fuld/3-reasons-your-twitter-follower-ratio-is-more-important-than-you-know.html)”
-> If you follow more people than follow you, what you are in essence saying to that person is "I followed all these people, but only some of them found me interesting enough to follow me back."
+> If you follo	w more people than follow you, what you are in essence saying to that person is "I followed all these people, but only some of them found me interesting enough to follow me back."
 > Not only that, but you are also saying "Yes, I may have recently followed you, but don't take it too personally, I like to follow a lot of people, so really, the fact that I cared enough to follow you doesn't mean I am genuinely interested in what you have to say."
 > Not doing great on A
 * [Twitter is testing a new Tip Jar feature for sending money to your favorite accounts - The Verge](https://www.theverge.com/2021/5/6/22423583/twitter-tip-jar-feature-sending-money-venmo-cashapp)
