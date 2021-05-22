@@ -322,6 +322,14 @@ Boy, will I be *absolutely chuffed* if this works at all:
 
 ` End `
 
+### Mastodon
+
+<iframe src="https://mastodon.social/@DavidBlue/1384666/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="480" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
+
+<iframe src="https://mastodon.social/@DavidBlue/1384666/embed" class="mastodon-embed" style="max-width: 100%; border: 0" height="325" width="480" allowfullscreen="allowfullscreen"></iframe>
+
+<iframe src="https://mastodon.social/@DavidBlue/1384666/embed" class="mastodon-embed" style="max-width: 100%; border: 0" height="auto" width="480" allowfullscreen="allowfullscreen"></iframe><script src="https://mastodon.social/embed.js" async="async"></script>
+
 ### Spotify
 
 Below is the raw URL to an open.spotify podcast episode link.
