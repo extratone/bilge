@@ -31,6 +31,15 @@ For a good part of my Junior and Senior years of high school,
 
 ***
 
+`![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
+
+For a good part of my Junior and Senior years of high school, 
+
+* https://twitter.com/NeoYokel/status/1351947764859613187
+
+
+***
+
 ## References
 * “[Measuring influence on Twitter | Proceedings of the 11th International Conference on Knowledge Management and Knowledge Technologies](https://dl.acm.org/doi/abs/10.1145/2024288.2024326)”
 * “[Do You Know the Twitter Limits? Spam, followers & following](https://iag.me/socialmedia/guides/do-you-know-the-twitter-limits/)”
@@ -42,12 +51,3 @@ For a good part of my Junior and Senior years of high school,
 > Not only that, but you are also saying "Yes, I may have recently followed you, but don't take it too personally, I like to follow a lot of people, so really, the fact that I cared enough to follow you doesn't mean I am genuinely interested in what you have to say."
 > Not doing great on A
 * [Twitter is testing a new Tip Jar feature for sending money to your favorite accounts - The Verge](https://www.theverge.com/2021/5/6/22423583/twitter-tip-jar-feature-sending-money-venmo-cashapp)
-
-
-***
-
-`![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
-
-For a good part of my Junior and Senior years of high school, 
-
-* https://twitter.com/NeoYokel/status/1351947764859613187
