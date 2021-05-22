@@ -19,6 +19,10 @@ For a good part of my Junior and Senior years of high school,
 
 * We have all inevitably become *sus*, which is okay, but we should be particularly mindful about it.
 
+* [No Thoughts, Head Empty](https://www.joinclubhouse.com/club/no-thoughts-head-em)
+
+* The Boaty Issue: `https://github.com/extratone/bilge/raw/main/audio/Voice%20Notes/The%20Boaty%20Issue.mp3`
+
 ## Assumptions in Question
 
 1. For the vast majority of mainstream social users, no amount of [insert vague overused marketing jargon noun] will *ever* result in a substantial accumulation of money/"influence" (which seems to be the diluted zag of "POWER" of the moment.) Those interested in learning about "marketing" should know that no authority on the subject would ever tell you to *start* with Twitter - this I can say with certainty. 
@@ -71,3 +75,6 @@ For a good part of my Junior and Senior years of high school,
 > Not only that, but you are also saying "Yes, I may have recently followed you, but don't take it too personally, I like to follow a lot of people, so really, the fact that I cared enough to follow you doesn't mean I am genuinely interested in what you have to say."
 > Not doing great on A
 * [Twitter is testing a new Tip Jar feature for sending money to your favorite accounts - The Verge](https://www.theverge.com/2021/5/6/22423583/twitter-tip-jar-feature-sending-money-venmo-cashapp)
+* "[The Future of Social Media Is All Talk](https://www.wired.com/story/the-future-of-social-media-is-all-talk)" | *WIRED*
+* "[What is Stereo app? This new social networking app rivals Clubhouse and is getting thousands of downloads every day](https://www.glamourmagazine.co.uk/article/stereo-app)" | *Glamour UK*
+* [*End User*'s Wavve Link](https://wavve.link/user): `https://wavve.link/user`

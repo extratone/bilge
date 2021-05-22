@@ -38,7 +38,7 @@
 * “[Apple might be getting into the podcast-making business. Is its reign as the industry’s benevolent overlord coming to an end? » Nieman Journalism Lab](https://www.niemanlab.org/2019/07/apple-might-be-getting-into-the-podcast-making-business-is-its-reign-as-the-industrys-benevolent-overlord-coming-to-an-end/)”
 * “[MacStories Weekly: Issue 269](https://mailchi.mp/macstories/geihu3go58g83owgo8rw3or83wgr8ouwgro8w3gow83rgrohwu?e=1211774273)”
 > Podcasts Subscriptions
- 
+
 Based on some of the online conversations I've seen, I suspect this may not be a popular opinion with some of my fellow podcasters, but I like what Apple has done with Podcasts Subscriptions. The system is incredibly flexible, accommodating free, freemium, and paid business models along with features like free samples, bonus content, extended episodes, early releases, and back catalogs. I also like the ease with which users can go from listening to a free version of a show to a paid subscription in the same place that they download and listen to shows.
 The program doesn't require exclusivity either. Podcasters are free to offer subscriptions and other paid options outside Apple Podcasts if they want.
 
