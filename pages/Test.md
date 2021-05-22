@@ -238,6 +238,10 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
+Over the past few months, I've started several Posts for this blog regarding Twitter, its properties, and its recent feature addition frenzy which I'll probably never finish. I finished the first and narrowest one: [my Tweetbot 6 "review,"](https://bilge.world/tweetbot-6-ios-review) but the (debatably) most important one - highlighting how irresponsibly and distastefully [Twitter butchered Periscope and built Spaces atop its technology](https://github.com/extratone/bilge/issues/79) - would make less and less sense as time goes on. I definitely got caught up in the "death" of the live video streaming service, fueled by my now quite old desire to celebrate it[^1], 
+
+[^1]: Because I feel guilty about taking it for granted.
+
 This is some text.[^1] This is some more text in a different sentence.
 
 This is some text anticipating a footnote[^2] in the middle of the fucking sentence.
@@ -303,6 +307,12 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 ---
 ## Rich Media Embeds
 ([See the documentation](https://github.com/extratone/bilge/issues/28).)
+
+### Twitter
+
+Below is the RAW URL to a Twitter Moment
+
+https://twitter.com/i/events/1395934071197474828 
 
 ### Web Archive Embed?
 
