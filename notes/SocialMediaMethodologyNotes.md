@@ -23,6 +23,8 @@ For a good part of my Junior and Senior years of high school,
 
 * The Boaty Issue: `https://github.com/extratone/bilge/raw/main/audio/Voice%20Notes/The%20Boaty%20Issue.mp3`
 
+* Frankly, the cool broadcasts I want to hear are all from Open Web sources: [Datafruits](https://datafruits.fm/), Solarpunk.cool, etc.
+
 ## Assumptions in Question
 
 1. For the vast majority of mainstream social users, no amount of [insert vague overused marketing jargon noun] will *ever* result in a substantial accumulation of money/"influence" (which seems to be the diluted zag of "POWER" of the moment.) Those interested in learning about "marketing" should know that no authority on the subject would ever tell you to *start* with Twitter - this I can say with certainty. 
@@ -75,6 +77,23 @@ For a good part of my Junior and Senior years of high school,
 > Not only that, but you are also saying "Yes, I may have recently followed you, but don't take it too personally, I like to follow a lot of people, so really, the fact that I cared enough to follow you doesn't mean I am genuinely interested in what you have to say."
 > Not doing great on A
 * [Twitter is testing a new Tip Jar feature for sending money to your favorite accounts - The Verge](https://www.theverge.com/2021/5/6/22423583/twitter-tip-jar-feature-sending-money-venmo-cashapp)
+
 * "[The Future of Social Media Is All Talk](https://www.wired.com/story/the-future-of-social-media-is-all-talk)" | *WIRED*
+
 * "[What is Stereo app? This new social networking app rivals Clubhouse and is getting thousands of downloads every day](https://www.glamourmagazine.co.uk/article/stereo-app)" | *Glamour UK*
+
 * [*End User*'s Wavve Link](https://wavve.link/user): `https://wavve.link/user`
+
+* "[The Clubhouse Room Where Israelis and Palestinians Are Actually Talking](https://slate.com/news-and-politics/2021/05/palestinian-israeli-clubhouse-conversation.html)" | *Slate*
+
+* "[Clubhouse Feels like a Party](https://www.newyorker.com/news/letter-from-silicon-valley/in-the-clubhouse)" | *The New Yorker*
+
+  > It is hard to shake the feeling that everyone on Clubhouse is selling something: a company, a workshop, a show, a book, a brand.
+
+* "[The Clubhouse Party Is Over](https://www.vanityfair.com/news/2021/04/the-clubhouse-party-is-over)" | *The Atlantic*
+
+* "[Clubhouse Opens a Window for Free Expression in China](https://www.wnyc.org/story/clubhouse-opens-window-free-expression-china-pm/)" | *WNYC*
+
+<iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnyc/#file=/audio/json/1092149/&share=1"></iframe>
+
+* **[Beneath the Marketing Cacophony: Real work chat, anyone? - Python - Clubhouse](https://www.joinclubhouse.com/event/MKJXLezN)** (My Clubhouse Chat)

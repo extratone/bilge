@@ -2,7 +2,7 @@
 
 ![lol Artifact](https://i.snap.as/vopPn5mt.png)
 
-## A rushed request for pause & reflection.
+## A rushed request for pause & reflection on *why* we use social media.
 
 A big theme in my 20s has been coming (slowly) to terms with the fact that I built my entire adult social life around a single, centralized social media Web Site. I mentioned this in [my Tweetbot 6 review](https://bilge.world/tweetbot-6-ios-review), recently, but - as I also strive to be a more sincere person and spend more time adding value to _others_’ lives - I’ve concluded that it is the time now to speak as openly and vulnerably as I can about my “Social Media Methodology.” Most of the resulting insights will not be new information, but I continue to encounter greater and greater confusion in the face of my well-meaning behavior online and I have decided to stop disregarding it. 
 
@@ -22,7 +22,7 @@ This is _not_ an essay about how to “optimize” your social media use. It is 
 
 Over the past few months, I've started a few Posts for this blog regarding Twitter, its properties, and its recent feature addition frenzy which I'll probably never finish. I finished the first and narrowest one - the aforelinked Tweetbot 6 review - but the (debatably) most important one - highlighting how irresponsibly and distastefully [Twitter butchered Periscope and built Spaces atop its technology](https://github.com/extratone/bilge/issues/79) - would make less and less sense as time goes on. I definitely got caught up in the "death" of the live video streaming service, fueled by my now quite old desire to celebrate it[^1], which I will hopefully accomplish *eventually* in a very sentimental essay. If I can successfully link them editorially, the subject encompassing Spaces - social audio's "moment" - would also include mention of RSS, "Podcasting" (the term describing the medium,) Spotify, and Clubhouse, inevitably. Instead of counting on my future self entirely, however, I'm going to begin by discussing that last one.
 
-![Clubhouse Bullshit](https://i.snap.as/RypjcP6M.png)
+![Clubhouse Blasted Logo](https://i.snap.as/hf2fIH9M.png)
 
 ## Clubhouse
 
@@ -48,5 +48,16 @@ In case you weren't aware, I appear to enjoy trying out new social services. My 
 
 I probably shouldn't proclaim to be an authority on social audio, but I am definitely a veteran. From that context, I must say that Clubhouse is horribly unoriginal - not only in the sense that "successful" business implementations of others', previous ideas tend to be diluted versions of the original, but almost pitifully so. I will commend the app's developers on their somewhat-thorough release notes (even though they can be viewed only when first opening the app after an update instead of *in the designated space on the App Store*,) but the extent of *linkable* Clubhouse documentation amounts to [eight blog posts](https://joinclubhouse.com/blog) and a "[Community Guidelines](https://www.notion.so/Community-Guidelines-461a6860abda41649e17c34dc1dd4b5f)" Notion page. Though I've only been a user for one month, I wonder what the fuck they've been doing since launch, given how sparsely-featured the app is at this moment. There are Notifications, Profiles, and Clubs - the latter of which cannot be created until a user surpasses an unknown threshold of renown(?) on the app. Competent calendar integration may be the service's singular innovation, though support for Outlook has yet to be added. The Big Issue, though, is finding a "talk" to attend that will not drive you utterly insane...
 
+![Clubhouse Bullshit](https://i.snap.as/RypjcP6M.png)
+
 ### The Grand Delusion
 
+I wrote the assumptions at the beginning of this Post in a single go after [a particularly icky Sunday Clubhouse experience](https://twitter.com/neoyokel/status/1388930367671910404) out of a deep concern that'd been growing since first exploring the app. The content I've found there is not at all what I expected, to be honest. I've found it almost entirely indecipherable, which makes critique beyond [just fucking screaming](https://twitter.com/NeoYokel/status/1388936080645312520) difficult. *The New Yorker*'s Anna Wiener did a much better job than I could realistically manage in "[Clubhouse Feels like a Party](https://www.newyorker.com/news/letter-from-silicon-valley/in-the-clubhouse):"
+
+> There was something pleasant about meandering from conversation to conversation, as if I had walked into my own home to find a conference in full swing. But I also wondered, Why did I let all of these people into my house?
+>
+> ...
+>
+> It is hard to shake the feeling that everyone on Clubhouse is selling something: a company, a workshop, a show, a book, a brand.
+
+More recently, her publication's nemesis declared "[The Clubhouse Party is Over](https://www.vanityfair.com/news/2021/04/the-clubhouse-party-is-over)," but I wouldn't know. None of my friends have ever Tweeted a Clubhouse link (determinable via [this Twitter search](https://twitter.com/search?q=%22joinclubhouse%22&src=typed_query&f=live&pf=on).) Very few of the tech industry celebrities I follow have, either - pretty much just [Chris Messina](https://twitter.com/chrismessina) and [Jason Calacanis](https://twitter.com/Jason). This is noteworthy because 
