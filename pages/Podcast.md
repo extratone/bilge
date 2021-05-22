@@ -4,9 +4,12 @@
 
 ## Sitting in my car, talking to my phone, looking beyond tech media and industry personalities to find the individuals and organizations who continue to prioritize progress.
 
-<iframe src="https://anchor.fm/davidblue/embed/episodes/Digital-Academia-Whacked-elbdvq" height="102px" width="400px" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://www.listennotes.com/embedded/e/5331661b415f48d1a58e8c56a656a99e/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
+
+<iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="450" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/end-user/id1437549809"></iframe>
 
 ### [Anchor](https://anchor.fm/davidblue)
+
 ### [Apple Podcasts](https://podcasts.apple.com/us/podcast/end-user/id1437549809)
 ### [Spotify](https://open.spotify.com/show/3g8fn7RVZfe3JFJnKaA1F1)
 ### [RSS](https://anchor.fm/s/702013c/podcast/rss)
@@ -15,3 +18,4 @@
 ### [Google Podcasts](https://podcasts.google.com/?feed=aHR0cHM6Ly9hbmNob3IuZm0vcy83MDIwMTNjL3BvZGNhc3QvcnNz)
 ### [Breaker](https://www.breaker.audio/end-user)
 ### [Pocket Casts](https://pca.st/uh4E)
+### [Wavve](https://wavve.link/user)
