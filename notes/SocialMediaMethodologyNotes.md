@@ -19,8 +19,6 @@ For a good part of my Junior and Senior years of high school,
 
 * We have all inevitably become *sus*, which is okay, but we should be particularly mindful about it.
 
-* [No Thoughts, Head Empty](https://www.joinclubhouse.com/club/no-thoughts-head-em)
-
 * The Boaty Issue: `https://github.com/extratone/bilge/raw/main/audio/Voice%20Notes/The%20Boaty%20Issue.mp3`
 
 * Frankly, the cool broadcasts I want to hear are all from Open Web sources: [Datafruits](https://datafruits.fm/), Solarpunk.cool, etc.
@@ -102,4 +100,4 @@ For a good part of my Junior and Senior years of high school,
 
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnyc/#file=/audio/json/1092149/&share=1"></iframe>
 
-* **[Beneath the Marketing Cacophony: Real work chat, anyone? - Python - Clubhouse](https://www.joinclubhouse.com/event/MKJXLezN)** (My Clubhouse Chat)
+* **[Beneath the Marketing Cacophony: Real work chat, anyone? - Python - Clubhouse](https://www.joinclubhouse.com/event/MKJXLezN)** (My Clubhouse Chat) 
