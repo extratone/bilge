@@ -2,7 +2,6 @@
 
 [https://www.costarastrology.com/neoyokel](https://www.costarastrology.com/neoyokel)
 
-0 }
 
 The sun determines your ego, identity, and "role" in life. It's the core of who you are, and is the sign you're most likely to already know. Your Sun is in Aquarius, meaning you are fundamentally unconventional and anti. Comfortable dissenting or straying from the norm, your intellectual talent of abstraction is oriented towards pushing the boundaries of what seems reasonable. You carry a lot on your shoulders and have need to fight for the underdog. It's in your seventh house, meaning you feel the need to distinguish yourself from others through close relationships and long-term partnerships.
 
