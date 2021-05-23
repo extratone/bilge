@@ -1,41 +1,45 @@
+---
+description: Documentation for The Psalms.
+---
+
+# \*The Psalms\*' Documentation
+
 ![Unicode Banner - The Psalms](https://i.snap.as/5fdq4LxC.png)
 
-# *The Psalms* Editorial Documentation
+## _The Psalms_ Editorial Documentation
 
-*(**Please note**: This document is currently [under revision](https://github.com/extratone/bilge/issues/98).)*
+_\(**Please note**: This document is currently_ [_under revision_](https://github.com/extratone/bilge/issues/98)_.\)_
 
-## This repository encompasses the whole of both the editorial and developmental processes involved in creating [bilge.world](https://bilge.world).
+### This repository encompasses the whole of both the editorial and developmental processes involved in creating [bilge.world](https://bilge.world).
 
 See [**my 2020 reflectory post**](https://bilge.world/2020) for a few more details.
 
 ![Psalms Project Board](https://github.com/extratone/bilge/raw/main/images/Project%20Board.png)
 
-## Git
+### Git
 
 As part of [my continued exploration of Git as an editorial tool](https://github.com/extratone/bilge/discussions/86), I have done my best to make use of as many GitHub-specific features as possible.
 
-* [***The Psalms'* Project Board**](https://github.com/extratone/bilge/projects/1) tracks ideas, notetaking, research, documentation, drafting, revision, and extra-site discourse (like Tweets or *HackerNews* comments.) Its left-most column also documents style and technical changes to its code.
-* I've been using [**Issues**](https://github.com/extratone/bilge/issues) to document just about anything, including all of the above, as well as any other specific subject involved (ex: [an "official" wallpaper pack](https://github.com/extratone/bilge/issues/97).)
+* [_**The Psalms'**_ **Project Board**](https://github.com/extratone/bilge/projects/1) tracks ideas, notetaking, research, documentation, drafting, revision, and extra-site discourse \(like Tweets or _HackerNews_ comments.\) Its left-most column also documents style and technical changes to its code.
+* I've been using [**Issues**](https://github.com/extratone/bilge/issues) to document just about anything, including all of the above, as well as any other specific subject involved \(ex: [an "official" wallpaper pack](https://github.com/extratone/bilge/issues/97).\)
 * [**Commits**](https://github.com/extratone/bilge/commits/main) function as a chronological revision-tracker which I have indeed made use of in a few, particularly dire writing situations.
 * I've been slow at integrating the [**Wiki**](https://github.com/extratone/bilge/wiki), but its uses - such as documenting [specific editorial definitions](https://github.com/extratone/bilge/wiki/%22Undercovered%22) - will continue to be expanded.
-* [**Discussions**](https://github.com/extratone/bilge/discussions) are an intriguing possibility for external feedback (stop by and say something! really!,) but explaining why my general audience should have a GitHub account to participate even if they have zero interest in *dev* shit is going to be difficult.
-* Within the code, you'll find my [**voice notes**](https://github.com/extratone/bilge/tree/main/audio/Voice%20Notes), an [**image library**](https://github.com/extratone/bilge/tree/main/images), and a variety of other miscellaneous associated files (better organization [is coming](https://github.com/extratone/bilge/milestone/1).)
+* [**Discussions**](https://github.com/extratone/bilge/discussions) are an intriguing possibility for external feedback \(stop by and say something! really!,\) but explaining why my general audience should have a GitHub account to participate even if they have zero interest in _dev_ shit is going to be difficult.
+* Within the code, you'll find my [**voice notes**](https://github.com/extratone/bilge/tree/main/audio/Voice%20Notes), an [**image library**](https://github.com/extratone/bilge/tree/main/images), and a variety of other miscellaneous associated files \(better organization [is coming](https://github.com/extratone/bilge/milestone/1).\)
 
 ![Cute Git](https://user-images.githubusercontent.com/43663476/117531764-d6064100-afa9-11eb-9e09-783e189abe8e.gif)
 
-***
+### [About](https://bilge.world/about)
 
-## [About](https://bilge.world/about)
+_This section is currently_ [_a work-in-progress_](https://github.com/extratone/bilge/issues/96)_._
 
-*This section is currently [a work-in-progress](https://github.com/extratone/bilge/issues/96).*
+[_The Psalms_](https://bilge.world) \(alternatively/interchangeably entitled _Bilge_\) is a monobyline World Wide Web Blog written by David Blue \(good morning!\) observing and selectively amplifying the characters, organizations, and stories surrounding the most abrupt, profound, and spectacular communicative renaissance in the history of the human species.
 
-[*The Psalms*](https://bilge.world) (alternatively/interchangeably entitled *Bilge*) is a monobyline World Wide Web Blog written by David Blue (good morning!) observing and selectively amplifying the characters, organizations, and stories surrounding the most abrupt, profound, and spectacular communicative renaissance in the history of the human species. 
+Less abstractly, its beat is **wholly digital**, namely in **tools** \(software, services, and methodologies\) and **culture** \(music, film, podcasts, and media\) from a distinct lens established at good distance from California.
 
-Less abstractly, its beat is **wholly digital**, namely in **tools** (software, services, and methodologies) and **culture** (music, film, podcasts, and media) from a distinct lens established at good distance from California.
+It is entirely [written in public](https://tomcritchlow.com/2020/07/23/thinking-in-public/) largely via [**this GitHub Repository**](https://github.com/extratone/bilge), supplemented by experiments on a variety of [other platforms](https://www.notion.so/rotund/9fdc8e9610b34b8f991ebc148b760055?v=c170b58650c04fbdb7adc551a73d16a7), including \(arguably\) [my Twitter account](https://twitter.com/NeoYokel).
 
-It is entirely [written in public](https://tomcritchlow.com/2020/07/23/thinking-in-public/) largely via [**this GitHub Repository**](https://github.com/extratone/bilge), supplemented by experiments on a variety of [other platforms](https://www.notion.so/rotund/9fdc8e9610b34b8f991ebc148b760055?v=c170b58650c04fbdb7adc551a73d16a7), including (arguably) [my Twitter account](https://twitter.com/NeoYokel).
-
-## Contact
+### Contact
 
 **David Blue**
 
@@ -45,45 +49,39 @@ It is entirely [written in public](https://tomcritchlow.com/2020/07/23/thinking-
 * [Mastodon](https://mastodon.social/@DavidBlue)
 * [ Everywhere else....](https://davidblue.wtf)
 
-***
+## Technical Documentation \(Writeas Blog\)
 
-# Technical Documentation (Writeas Blog)
-
-## Documentation for my blog, [bilge.world](https://bilge.world).
+### Documentation for my blog, [bilge.world](https://bilge.world).
 
 I proudly use [Write.as](https://write.as) as my blog's CMS. I am relatively new to Git and GitHub, but it occurred to me that a repository would be a great place to track technical changes and even versions/revisions of drafts.
 
-***
-
 ![Writeas Customization](https://i.snap.as/xpwZqmy4.png)
 
-##  Installation (Bilge Theme)
+### Installation \(Bilge Theme\)
 
-To "install" my theme on your own Writeas blog, copy and paste the contents of [Custom CSS.css](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css) and [Custom Javascript.js](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js) into the respective "Custom CSS" and "Custom Javascript" fields in your blog's customization menu. 
+To "install" my theme on your own Writeas blog, copy and paste the contents of [Custom CSS.css](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css) and [Custom Javascript.js](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js) into the respective "Custom CSS" and "Custom Javascript" fields in your blog's customization menu.
 
 See: "[Customizing Writeas](https://guides.write.as/customizing/)"
 
-***
-
 ![Bilge Three Point Oh Footer](https://i.snap.as/B3D5JvZ4.png)
 
-## [Colophon](https://bilge.world/colophon)
+### [Colophon](https://bilge.world/colophon)
 
-*The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. 
+_The Psalms_ is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web.
 
-A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. (*That means you can see [current in-progress drafts](https://github.com/extratone/bilge/tree/main/Drafts)!*)
+A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. \(_That means you can see_ [_current in-progress drafts_](https://github.com/extratone/bilge/tree/main/Drafts)_!_\)
 
-- Download the entirety of this blog in EPUB format **[here](http://bilge.world/.epub)**.
-- Subscribe to this blog's RSS feed **[here](https://bilge.world/feed/)**.
-- This blog is federated at **@b@bilge.world**.
+* Download the entirety of this blog in EPUB format [**here**](http://bilge.world/.epub).
+* Subscribe to this blog's RSS feed [**here**](https://bilge.world/feed/).
+* This blog is federated at **@b@bilge.world**.
 
-### Typography
+#### Typography
 
 **Body Text**: [Adobe Caslon Pro](https://fonts.adobe.com/fonts/adobe-caslon)
 
 **Nav/Headers/Other**: [Proxima Nova](https://fonts.adobe.com/fonts/proxima-nova) & Variations
 
-### Colors
+#### Colors
 
 ![The Psalms Colors](https://i.snap.as/yREEslm5.png)
 
@@ -92,7 +90,7 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 * [Red](https://colornames.org/color/ff0000)
 * [Alarmed Suburbanite](https://colornames.org/color/f43f32)
 
-### [CSS](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css)
+#### [CSS](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css)
 
 ```css
 @import url('https://use.typekit.net/kst2rrh.css');
@@ -409,7 +407,8 @@ body#subpage article time.dt-published {
     border-top: #00006b dotted 1px;
 }
 ```
-### [Javascript](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js)
+
+#### [Javascript](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js)
 
 ```javascript
 var topP = document.createElement("p");
@@ -455,3 +454,4 @@ postContent = postContent.replace(notePattern, noteText);
 postContent = postContent.replace(refPattern, refText);
 document.getElementById("post-body").innerHTML = postContent;
 ```
+
