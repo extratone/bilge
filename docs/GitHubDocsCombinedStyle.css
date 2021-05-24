@@ -1,0 +1,1115 @@
+ // Import modules needed from Primer (stored in local `node_modules` directory)
+  @import "@primer/css/support/index.scss";
+  
+  // BEGIN CUSTOM CORE IMPORT
+  // Normally we would just import @primer/css/core/index.scss, but that file
+  // currently imports @primer/css/layout/index.scss, which in turn imports
+  // @primer/css/layout/columns.scss, which has deprecated styles that litter
+  // the logs with warnings. We're not using those styles, so the warnings are
+  // avoided here by not importing the file.
+  //
+  // TODO: Use a simple core import when https://github.com/primer/css/issues/741 is resolved
+  @import "@primer/css/base/index.scss";
+  @import "@primer/css/box/index.scss";
+  @import "@primer/css/buttons/index.scss";
+  @import "@primer/css/forms/index.scss";
+  
+  // BEGIN CUSTOM LAYOUT IMPORT
+  @import "@primer/css/support/index.scss";
+  @import "@primer/css/layout/container.scss";
+  // @import "@primer/css/layout/columns.scss"; <-- deprecated and unused
+  @import "@primer/css/layout/grid.scss";
+  @import "@primer/css/layout/grid-offset.scss";
+  // END CUSTOM LAYOUT IMPORT
+  
+  @import "@primer/css/navigation/index.scss";
+  @import "@primer/css/pagination/index.scss";
+  @import "@primer/css/tooltips/index.scss";
+  @import "@primer/css/truncate/index.scss";
+  @import "@primer/css/utilities/index.scss";
+  @import "@primer/css/avatars/index.scss";
+  // END CUSTOM CORE IMPORT
+  
+  @import "@primer/css/markdown/index.scss";
+  @import "@primer/css/forms/index.scss";
+  @import "@primer/css/navigation/index.scss";
+  @import "@primer/css/labels/index.scss";
+  
+  $marketing-font-path: "/dist/fonts/";
+  @import "@primer/css/marketing/index.scss";
+  
+  // Additional styles
+  @import "new-mktg.scss";
+  @import "type.scss";
+  @import "nav.scss";
+  @import "directory.scss";
+  @import "article.scss";
+  @import "search.scss";
+  @import "overrides.scss";
+  @import "sidebar.scss";
+  @import "explorer.scss";
+  // from https://unpkg.com/highlight.js@9.15.8/styles/github.css
+  @import "syntax-highlighting.scss";
+  @import "tables.scss";
+  @import "opacity.scss";
+  @import "print.scss";
+  @import "shadows.scss";
+  @import "product-landing.scss";
+  @import "dev-toc.scss";
+  
+
+/* Navigation & Header
+.nav-mobile prefixed classes style nav elements only for mobile (< 768px)
+.nav-desktop prefixed classes style nav elements only for desktop
+------------------------------------------------------------------------------*/
+
+.header-notifications a {
+    color: $blue-600;
+    text-decoration: underline;
+  }
+  
+  header summary,
+  .nav-contact {
+    @include breakpoint(md) {
+      font-size: $spacer-3;
+    }
+  }
+  
+  .dropdown-withArrow[open] {
+    .arrow {
+      transform: rotate(180deg) scaleX(-1);
+    }
+  }
+  
+  .nav-mobile-dropdown {
+    @media (max-width: $width-md) {
+      display: none;
+      visibility: hidden;
+    }
+  }
+  
+  .nav-mobile-dropdown.js-open {
+    @media (max-width: $width-md) {
+      display: block;
+      visibility: visible;
+      width: 100%;
+      position: absolute;
+      top: 0;
+      right: 0;
+      left: 0;
+      z-index: 2;
+      background-color: $gray-000;
+      padding: $spacer-3;
+      padding-top: $spacer-8;
+      box-shadow: 0 1px 15px $black-fade-15;
+    }
+  }
+  
+  .nav-mobile-burgerIcon {
+    background: url('/assets/images/octicons/hamburger.svg') no-repeat right;
+    width: 18px;
+    height: 23px;
+    position: relative;
+    z-index: 3;
+  
+    &.js-open {
+      background: url('/assets/images/octicons/x.svg') no-repeat right;
+      width: 16px;
+      height: 21px;
+    }
+  }
+  
+  .nav-desktop-productDropdown,
+  .nav-desktop-langDropdown {
+    @include breakpoint(md) {
+      min-width: 200px;
+      background: $white;
+      border-radius: 3px;
+      box-shadow: 0 1px 15px $black-fade-15;
+    }
+  }
+  
+  .nav-desktop-productDropdownButton {
+    @include breakpoint(md) {
+      font-family: $mono-font;
+    }
+  }
+  
+  // Allows dropdown to be closed when clicking outside of it
+  @include breakpoint(md) {
+    details.close-when-clicked-outside[open] > summary::before {
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      z-index: 5;
+      display: block;
+      cursor: default;
+      content: " ";
+      background: transparent;
+    }
+  }
+  
+  /* Styles not incorporated into Primer yet
+  ------------------------------------------------------------------------------*/
+  
+  // Position utils
+  @media (min-width: $width-lg) {
+    .top-lg-n9 {
+      top: -$spacer-9;
+    }
+  }
+  
+  // Type
+  .text-blue-mktg {
+    color: $blue-500 !important;
+  }
+  
+  .text-white-fade {
+    color: $white-fade-70 !important;
+  }
+  
+  // Text styling
+  .underline-dashed {
+    display: inline;
+    padding-bottom: $spacer-1;
+    background-image: linear-gradient(to right, $gray-300 50%, rgba(255, 255, 255, 0) 0%);
+    background-repeat: repeat-x;
+    background-position: bottom;
+    background-size: 10px 1px;
+  }
+  
+  // Arrow links
+  .Bump-link-symbol {
+    display: inline-block;
+    transition: $transition-time / 2;
+    transform: translateX(0);
+  }
+  
+  .Bump-link:hover .Bump-link-symbol {
+    transform: translateX(3px);
+  }
+  
+  .Bump-link--hover .Bump-link-symbol {
+    color: inherit;
+    opacity: 0;
+    transition: $transition-time / 2;
+    transform: translateX(0);
+  }
+  
+  .Bump-link--hover:hover .Bump-link-symbol {
+    opacity: 1;
+    transform: translateX(3px);
+  }
+  
+  // Background
+  .bg-blue-dark {
+    background-color: $blue-800 !important;
+  }
+  
+  // stylelint-disable primer/no-unused-vars
+  
+  // Typography
+  
+  $marketing-font-path: "/assets/fonts/alliance/";
+  $font-family-mktg: "Alliance No.1", -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+  $font-weight-extrabold: 800 !default;
+  
+  .font-mktg {
+    font-family: $font-family-mktg;
+  }
+  
+  // Type
+  @font-face {
+    font-family: "Alliance No.1";
+    font-style: normal;
+    font-weight: $font-weight-normal;
+    src: local("Alliance No.1 Regular"), local("alliance-no-1-regular"), url("#{$marketing-font-path}alliance-no-1-regular.woff") format("woff");
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: "Alliance No.1";
+    font-style: normal;
+    font-weight: $font-weight-semibold;
+    src: local("Alliance No.1 Medium"), local("alliance-no-1-medium"), url("#{$marketing-font-path}alliance-no-1-medium.woff") format("woff");
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: "Alliance No.1";
+    font-style: normal;
+    font-weight: $font-weight-bold;
+    src: local("Alliance No.1 Bold"), local("alliance-no-1-bold"), url("#{$marketing-font-path}alliance-no-1-bold.woff") format("woff");
+    font-display: swap;
+  }
+  
+  @font-face {
+    font-family: "Alliance No.1";
+    font-style: normal;
+    font-weight: $font-weight-extrabold;
+    src: local("Alliance No.1 ExtraBold"), local("alliance-no-1-extrabold"), url("#{$marketing-font-path}alliance-no-1-extrabold.woff") format("woff");
+    font-display: swap;
+  }
+  
+  /* Override Primer styles
+  ------------------------------------------------------------------------------*/
+  
+  .markdown-body {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: $font-mktg;
+      font-weight: $font-weight-semibold;
+      padding-top: $spacer-3;
+    }
+  }
+  
+  .markdown-body ol > li {
+    padding: $spacer-2 0 $spacer-2 $spacer-7;
+    border: 0;
+  
+    &:before {
+      top: 2px;
+      font-size: $spacer-3;
+      width: $spacer-4;
+    }
+  
+    p:not(:first-child) {
+      margin-top: 15px;
+    }
+  
+    .extended-markdown {
+      margin-top: 15px;
+    }
+  
+  }
+  
+  .markdown-body ul ul,
+  .markdown-body ul ol,
+  .markdown-body ol ol,
+  .markdown-body ol ul {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
+  
+  // needs specificity to override
+  .markdown-body .lead-mktg p {
+    color: $gray-900;
+  }
+  
+  .extended-markdown p {
+    margin: 0;
+  }
+  
+  .extended-markdown p:not(:first-child) {
+    margin-top: 15px;
+  }
+  
+  .extended-markdown.note pre {
+    background: none;
+    padding: 10px 10px 10px 0;
+    margin-bottom: 0;
+  }
+  
+  .extended-markdown.note pre code {
+    color: $text-gray-dark;
+  }
+  
+  .product-callout p {
+    margin: 0;
+  }
+  
+  .markdown-body table {
+    display: table;
+    table-layout: fixed;
+    line-height: 1.5;
+  }
+  
+  div.light-bg a,
+  div.light-bg a h4 {
+    color: $text-gray-dark;
+  }
+  
+  div.light-bg a p {
+    color: $text-gray;
+  }
+  
+  div.dark-bg a,
+  div.dark-bg a h4 {
+    color: $white;
+  }
+  
+  div.dark-bg a p {
+    color: $white-fade-70;
+  }
+  
+  li.nestedTocItem {
+    margin-left: 2em;
+    list-style-type: circle;
+  }
+  
+  /* Getting Started and Popular Articles sections in article layout */
+  .markdown-body div.featured-links {
+    padding-bottom: 30px;
+  }
+  
+  .markdown-body div.featured-links-heading {
+    padding-top: 24px;
+  }
+  
+  .markdown-body div.featured-links p.link-with-intro-intro {
+    margin-bottom: 5px;
+  }
+  
+  .markdown-body div.featured-links h4.link-with-intro-title {
+    margin-top: 0;
+  }
+  
+  .octicon {
+    display: inline-block;
+    vertical-align: text-top;
+    fill: currentColor;
+  }
+  
+  /* code styles */
+  pre .redbox {
+    border: 2px solid #d9534f;
+    padding: 2px;
+    border-radius: 2px;
+    margin-right: 2px;
+  }
+  
+  pre .greenbox {
+    border: 2px solid #5cb85c;
+    padding: 2px;
+    border-radius: 2px;
+    margin-right: 2px;
+  }
+  
+  pre .bluebox {
+    border: 2px solid #428bca;
+    padding: 2px;
+    border-radius: 2px;
+    margin-right: 2px;
+  }
+  
+  /* Accessibility color contrast */
+  .btn-mktg {
+    background-color: $blue-500;
+  }
+  
+  /* Accessibility color contrast */
+  .btn-outline-mktg {
+    background-color: white;
+    color: $blue-500;
+  }
+  
+  /* Accessibility color contrast */
+  .bg-red-light a {
+    color: $blue-600;
+  }
+  
+  /* Accessibility color contrast */
+  .markdown-body .bg-blue-light blockquote {
+    color: $gray-600;
+  }
+  
+  /* Helpfulness survey override */
+  :checked + .x-radio-label {
+    background: $blue-500;
+  
+    svg {
+      fill: $white;
+    }
+  }
+  
+  .opacity-0 { opacity: 0; }
+  .opacity-10 { opacity: 0.1; }
+  .opacity-80 { opacity: 0.2; }
+  .opacity-30 { opacity: 0.3; }
+  .opacity-40 { opacity: 0.4; }
+  .opacity-50 { opacity: 0.5; }
+  .opacity-60 { opacity: 0.6; }
+  .opacity-70 { opacity: 0.7; }
+  .opacity-80 { opacity: 0.8; }
+  .opacity-90 { opacity: 0.9; }
+  .opacity-100 { opacity: 1; }
+  /* Styles used while printing
+  ------------------------------------------------------------------------------*/
+  
+  @media print {
+    .no-print {
+      display: none;
+    }
+  }
+  
+  /* Grid-based layout
+  ------------------------------------------------------------------------------*/
+  
+  .article-grid-container {
+    max-width: 720px;
+  
+    @include breakpoint(xl) {
+      max-width: none;
+      display: grid;
+      grid-template-rows: auto 1fr;
+      grid-template-columns: minmax(500px, 720px) minmax(220px, 1fr);
+      grid-template-areas:
+      'top right-sidebar'
+      'bottom right-sidebar';
+      column-gap: $spacer-6;
+    }
+  
+    @include breakpoint(xl) {
+      column-gap: $spacer-9;
+    }
+  }
+  
+  .article-grid-toc {
+    grid-area: right-sidebar;
+  }
+  
+  .article-grid-toc-content {
+    @include breakpoint(xl) {
+      position: sticky;
+      top: $spacer-4;
+      max-height: calc(100vh - #{$spacer-4});
+      overflow-y: auto;
+      padding-bottom: $spacer-4;
+    }
+  }
+  
+  .article-grid-head {
+    grid-area: top;
+  }
+  
+  .article-grid-body {
+    grid-area: bottom;
+  }
+  
+  /* Deprecation banner
+  ------------------------------------------------------------------------------*/
+  .deprecation-banner {
+  
+    & + .alert {
+      margin-top: 5px;
+    }
+  
+    & > *:first-child {
+      margin-top: 0;
+    }
+  
+    & > *:last-child {
+      margin-bottom: 0;
+    }
+  
+    + #bootcamp {
+      margin-top: 20px;
+    }
+  
+    b,
+    strong {
+      font-weight: bold;
+    }
+  
+    p {
+     margin: 0;
+    }
+  }
+  
+  /* Code style overrides
+  ------------------------------------------------------------------------------*/
+  
+  .markdown-body .highlight pre, .markdown-body pre {
+    margin-top: 10px;
+  }
+  
+  .height-constrained-code-block pre {
+    max-height: 500px;
+    overflow: auto;
+  }
+  
+  /* Breadcrumbs
+  ------------------------------------------------------------------------------*/
+  
+  .breadcrumbs a:not(:last-child)::after{
+    content: '/';
+    color: $gray-400;
+    padding-right: $spacer-1;
+    padding-left: $spacer-2;
+    display:inline-block;
+  }
+  
+  /* Numbered procedures (step 1, step 2, ...)
+  ------------------------------------------------------------------------------*/
+  
+  .markdown-body ol {
+    counter-reset: li;
+    list-style: none;
+    position: relative;
+    padding-bottom: 10px;
+    padding-left: 0;
+  }
+  
+  .markdown-body ol > li {
+    padding: 15px 0 15px 55px;
+    position: relative;
+    margin-bottom: 5px;
+    border-top: 3px solid #EEE;
+  }
+  
+  .markdown-body ol > li:before {
+    content: counter(li);
+    counter-increment: li;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    height: 100%;
+    width: 30px;
+    padding: 0 10px 0 0;
+    color: #999;
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 35px;
+    text-align: right;
+  }
+  
+  .markdown-body ol > li > p {
+    margin: 0;
+  }
+  
+  .markdown-body ol > li > p:first-child {
+    margin-top: 0;
+  }
+  
+  .markdown-body ol > li:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0;
+  }
+  
+  .procedural-image-wrapper {
+    display: block;
+    padding: 10px 0;
+    margin: 20px auto 0 auto;
+  }
+  
+  .procedural-image-wrapper img {
+    border-radius: 5px;
+    border: 2px solid #EEE;
+    width: auto;
+    height: auto;
+    max-height: 500px;
+  }
+  
+  // make sure images that contain emoji render at the expected size
+  img[src*="https://github.githubassets.com/images/icons/emoji"] {
+    height: 20;
+    width: 20;
+    align: absmiddle;
+  }
+  
+  /* Notes, tips, warning, and danger styles
+  ------------------------------------------------------------------------------*/
+  
+  .note,
+  .tip,
+  .warning,
+  .danger {
+    // remove extra space under lists inside of notes
+    ul, ol {
+      margin-bottom: 0;
+    }
+  }
+  
+  /* Styles used for top-level TOC in development only
+  ------------------------------------------------------------------------------*/
+  
+  ul.versions-list {
+    list-style-type: none;
+  }
+  
+  ul.versions-list > li {
+    margin: 3px 0 0 0;
+  }
+  
+  details ul.products-list li {
+    margin: 3px 0 0 30px;
+  }
+  /* Styles for directory pages (any page that organizes categories and articles)
+  ------------------------------------------------------------------------------*/
+  
+  // Hoverable boxes on product pages
+  // Markup can be different and we need both selectors below
+  .directory-link-box:hover .Box,
+  .directory-link-box.Box:hover {
+    border: 1px solid $blue-500;
+  }
+  
+  // Expandable grid is used on article listing pages
+  // e.g. enterprise/2.15/admin/installation
+  .directory-dropdown-grid {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-column-gap: 48px;
+    grid-row-gap: 24px;
+  
+    @include breakpoint(lg) {
+      grid-template-columns: calc(50% - 24px) calc(50% - 24px);
+    }
+  
+    // Disable the grid row expanding from expanding a closed dropdown on desktop
+    @include breakpoint(lg) {
+      .dropdown-withArrow {
+        max-height: 74px;
+  
+        &[open] {
+          max-height: initial;
+        }
+      }
+    }
+  }
+  
+  // Product ToC list
+  .directory-toc {
+    h2 {
+      margin-top: $spacer-6;
+  
+      &:first-of-type {
+        margin-top: 0;
+      }
+    }
+  
+    h3 {
+      margin-top: 0;
+      padding-bottom: initial;
+      border-bottom: 0;
+    }
+  }
+  
+  //
+  // GraphiQL wrapper
+  //
+  iframe#graphiql {
+    width: 100%;
+    height: 715px;
+    border: 1px solid #ddd;
+  }
+  
+ 
+  .hover-shadow {
+    & {
+      transition: box-shadow 0.3s ease-in-out;
+  
+      &:hover {
+        box-shadow: $box-shadow !important;
+      }
+    }
+    
+    &-medium {
+      transition: box-shadow 0.3s ease-in-out;
+  
+      &:hover {
+        box-shadow: $box-shadow-medium !important;
+      }
+    }
+    
+    &-large {
+      transition: box-shadow 0.3s ease-in-out;
+  
+      &:hover {
+        box-shadow: $box-shadow-large !important;
+      }
+    }
+    
+    &-extra-large {
+      transition: box-shadow 0.3s ease-in-out;
+  
+      &:hover {
+        box-shadow: $box-shadow-extra-large !important;
+      }
+    }
+  }
+  
+  .sidebar {
+    width: 260px;
+    background-color: $blue-900;
+    position: sticky;
+    top: 0;
+    padding-bottom: $spacer-5;
+    overflow-y: auto;
+    height: 100vh;
+    flex-shrink: 0;
+  
+    @include breakpoint(xl) {
+      width: 280px;
+    }
+  }
+  
+  .sidebar-background-color {
+    background-color: $blue-900;
+  }
+  
+  .sidebar-products > li {
+    margin: 4px 0;
+  }
+  
+  .sidebar-products a,
+  .sidebar-products .arrow {
+    text-decoration: none;
+    color: $white;
+    display: block;
+    line-height: 1.4;
+  
+    &:hover {
+      color: $blue-300;
+    }
+  }
+  
+  .sidebar-category,
+  .sidebar-product {
+    > a,
+    summary a {
+      color: $blue-200;
+      opacity: 0.8;
+    }
+  }
+  
+  .sidebar-product,
+  .sidebar-category,
+  .sidebar-maptopic,
+  .sidebar-article {
+    &.active > a {
+    }
+    &.is-current-page > a {
+      color: $blue-300;
+    }
+  }
+  
+  .sidebar-category.active {
+    background-color: $blue-800;
+  }
+  
+  .sidebar-maptopic {
+    .sidebar-article {
+      position: relative;
+      &::before {
+        content: "";
+        position: absolute;
+        left: $spacer-4;
+        height: 100%;
+        border-left: 1px solid $blue-700;
+        width: 1px;
+        top: 0;
+      }
+      &.active {
+        &::before {
+          border-left: 3px solid $blue-700;
+        }
+      }
+    }
+  }
+  
+  // only display child lists of active elements in sidebar
+  .sidebar-product.active > ul,
+  .sidebar-category.active > ul,
+  .sidebar-maptopic.active > ul {
+    display: block;
+  }
+  
+  .sidebar-category {
+    > ul {
+      display: none;
+    }
+  }
+  
+  .sidebar-maptopic > ul {
+    display: none;
+  }
+  
+  .markdown-body table {
+    border-collapse: collapse;
+    position: relative;
+    font-size: 90%;
+    width: 100%;
+    /* We want to keep table-layout: auto so that column widths dynamically adjust;
+    otherwise entries get needlessly smushed into narrow columns. As a workaround,
+    we use javascripts/wrap-code-terms.js to prevent some reference table content
+    from expanding beyond the horizontal boundaries of the parent element. */
+    table-layout: auto;
+  
+    code {
+      font-size: 85%;
+      padding: 0.2em 0.4em;
+      background-color: rgba($black, 0.05);
+      border-radius: $border-radius;
+    }
+  
+    thead tr {
+      border: none;
+    }
+  
+    th {
+      font-weight: normal;
+      text-align: left;
+      position: sticky;
+      vertical-align: top;
+      z-index: 1;
+      top: 0;
+      background: white;
+      box-shadow: 0 3px 0 0 $gray-400;
+      padding: 12px 8px;
+      border: 0px;
+    }
+  
+    th:first-child,
+    td:first-child {
+      padding-left: 0;
+    }
+  
+    td {
+      padding: 10px 8px;
+      border: 0px;
+      vertical-align: top;
+    }
+  
+    // markdown that has been converted to HTML is often wrapped in <p> tags
+    // don't let it interfere with the spacing
+    td p {
+      padding: 0;
+      margin: 0;
+    }
+  
+    tr:nth-child(2n) {
+      background: none;
+    }
+  
+    td.has-nested-table {
+      width: 100%;
+  
+      table {
+        table-layout: auto;
+      }
+    }
+  }
+  
+  /* Global type styles
+  ------------------------------------------------------------------------------*/
+  
+  h1,
+  h2,
+  h3,
+  h4 {
+    a {
+      color: $gray-900;
+    }
+  }
+  
+  summary {
+    outline: none;
+  }
+  
+  .markdown-body {
+    summary {
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        display: inline-block;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        p {
+          margin: 0;
+          padding: 0;
+        }
+      }
+    }
+  }
+  
+  
+  
+  
+  
+  // all h3 headers that are links should be blue-500
+  // except those on each product's toc
+  h3 a {
+    color: $blue-500;
+  
+    .directory-toc & {
+      color: $gray-900;
+    }
+  }
+  
+  .bg-guides-gradient {
+    background: linear-gradient(0deg, rgba(33, 136, 255, 0.11) 0%, rgba(255, 255, 255, 0) 100%);
+  }
+  
+  /* Search
+  ------------------------------------------------------------------------------*/
+  
+  /* Global styles
+  Gets applied to both the search input on homepage and in the header nav
+  Form and inputs using .ais- prefix gets added by Algolia InstantSearch.js */
+  .ais-SearchBox {
+    position: relative;
+  }
+  
+  .ais-SearchBox-submit {
+    display: none;
+  }
+  
+  .ais-SearchBox-form {
+    width: 100%;
+    display: flex;
+  }
+  
+  .ais-SearchBox-input {
+    width: 100%;
+    padding: 10px $spacer-2 10px $spacer-5;
+    font-size: 16px;
+    @extend .form-control;
+    background: $white url("/assets/images/octicons/search.svg") no-repeat 6px;
+  }
+  
+  .ais-SearchBox-reset {
+    width: 30px;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+    opacity: 0.5;
+    border: none;
+    outline: none;
+    background: none;
+    z-index: 1;
+  
+    @include breakpoint(md) {
+      header & {
+        height: 30px;
+      }
+    }
+  
+    .ais-SearchBox-resetIcon {
+      width: 12px;
+      height: 12px;
+    }
+  }
+  
+  .ais-Hits-item {
+    list-style: none;
+  
+    &:hover {
+      background: $blue-000;
+    }
+  }
+  
+  /* activated by search-with-your-keyboard arrow navigation */
+  .ais-Hits-item.active {
+    background: $blue-000;
+  }
+  
+  .search-result-intro {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  mark,
+  .ais-Highlight-highlighted
+  {
+    background: none;
+    color: inherit;
+  
+    .search-result-title & {
+      color: $blue-500;
+    }
+  
+    .search-result-intro & {
+      border-bottom: 1px solid $blue-500;
+    }
+  
+    .search-result-content & {
+      text-decoration: none;
+      border-bottom: 1px dotted $gray-500;
+    }
+  }
+  
+  .search-result-title em {
+    font-style: normal;
+    text-decoration: underline;
+  }
+  
+  .search-result-intro em {
+    font-style: normal;
+    text-decoration: underline;
+  }
+  
+  // Search in header
+  header {
+    .ais-SearchBox-form {
+      margin-bottom: 0;
+    }
+  
+    @include breakpoint(md) {
+      #search-results-container {
+        display: none;
+        position: absolute;
+        top: 0;
+        right: 0;
+        width: 0;
+        border-radius: 3px;
+        background: $white;
+        box-shadow: 0 1px 15px $black-fade-15;
+        transition: width 0.3s ease-in-out;
+  
+        &.js-open {
+          display: block;
+          width: 60vw;
+          max-width: 760px;
+          padding: $spacer-7 $spacer-4 $spacer-4 $spacer-4;
+        }
+  
+        .ais-Hits {
+          margin-top: $spacer-4;
+        }
+      }
+  
+      // Overlay is only shown on desktop search modal
+      .search-overlay-desktop.js-open {
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: -1;
+        display: block;
+        content: " ";
+        background: $black-fade-15;
+      }
+  
+      .ais-SearchBox-input {
+        min-width: $spacer-12 * 2;
+      }
+  
+      .ais-SearchBox-input.js-open {
+        width: 55vw;
+        max-width: 710px;
+        position: absolute;
+        right: 0;
+        top: -26px;
+        z-index: 1;
+        transition: width 0.3s ease-in-out;
+      }
+    }
+  }
+  

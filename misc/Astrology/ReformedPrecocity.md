@@ -1,6 +1,6 @@
 # The Day of Reformed Precocity
 
-[The Week of Genius](The%20Day%20of%20Reformed%20Precocity%201bbbb5f6369646fbae7024c3295523e4/The%20Week%20of%20Genius%2029fae812582b4678a9ca2f56774f31d1.md)
+[The Week of Genius](misc/Astrology/TheWeekofGenius.md)
 
 **BRIGHT
 QUICK
