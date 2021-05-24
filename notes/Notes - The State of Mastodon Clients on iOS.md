@@ -54,6 +54,10 @@
 Here’s [a link to the PDF in _The Psalms_’ Repo](https://github.com/extratone/bilge/raw/361287d8e291c857561977b3a8f5741b4dcf79c9/documentation/iMast.pdf)
 
 ***
+* Tootle is still going!.......but only [on iPad](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466). (Or [not](https://apps.apple.com/jp/app/%E3%83%9E%E3%82%B9%E3%83%88%E3%83%89%E3%83%B3%E3%82%A2%E3%83%97%E3%83%AA-tootle-for-mastodon/id1236013466#?platform=iphone)?)
+
+
+
 ### Thread
 
 - Toot is just a joy to use. It has a little too much sometimes (it actually contains little mini games...which really aren't needed), but the experience of using it has some really clever UI twists. ⏤ by *mikepictor* (↑ 6/ ↓ 0)
@@ -89,3 +93,6 @@ For two, I am a Drafts user and would be very interested in that Action if you'v
 - [ ] “[All the Mastodon iPad apps, tested](https://medium.com/@KUKxFT3T/all-the-mastodon-ipad-apps-tested-6b65bddc7853)” | by shork on Medium 
 - [ ] “[How To Get Started on Mastodon and Leave Twitter Behind](https://www.pcmag.com/how-to/how-to-get-started-on-mastodon-and-leave-twitter-behind)” | *PCMag*
 - [ ] “[Innovators Are Crafting Decentralized Social Media Alternatives. Will App Stores Pull Them Down? – Reason.com](https://reason.com/2020/09/09/innovators-are-crafting-decentralized-social-media-alternatives-will-app-stores-pull-them-down/)” | *reason*
+- [ ] "[What's the best free Mastodon client for iOS (and why)?](https://ask.metafilter.com/335664/Whats-the-best-free-Mastodon-client-for-iOS-and-why)"
+- [ ] "[MASTODON APPS FOR IOS](https://honeypot.net/post/mastodon-apps-for-ios/)" | *Honeypot.net*
+
