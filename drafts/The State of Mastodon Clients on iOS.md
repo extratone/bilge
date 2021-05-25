@@ -1,5 +1,5 @@
 # The State of Mastodon Clients on iOS
-  
+
 [Notes Draft](drafts5://open?uuid=A831B815-C12C-4A00-BCFF-D88B7F0E05AC)
 
 ![Mast Details](https://i.snap.as/UsH95qJv.png)
@@ -40,4 +40,4 @@ The Original… Genesis… If Amaroq was not the first Mastodon app on the App S
 
 ### [iMast](https://apps.apple.com/us/app/imast/id1229461703)
 
-For better or worse, [@rinsuki](https://mstdn.rinsuki.net/@rinsuki)’s iMast will require either a basic grasp of the Japanese language, or the patience to translate its menus and work backwards. (OCR came to mind, but I’m not quite dedicated enough to try it for this guide.) Assuming [Google’s translation](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:64ce057e-5adc-4578-a0ef-e9ddb6b5d545) of [its GitHub Pages site](https://cinderella-project.github.io/iMast/) is correct, iMast is also Open Source “under the Apache License 2.” Unlike Amaroq, it appears to have been built in Swift from the ground up.
+###### For better or worse, [@rinsuki](https://mstdn.rinsuki.net/@rinsuki)’s iMast will require either a basic grasp of the Japanese language, or the patience to translate its menus and work backwards. (OCR came to mind, but I’m not quite dedicated enough to try it for this guide.) Assuming [Google’s translation](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:64ce057e-5adc-4578-a0ef-e9ddb6b5d545) of [its GitHub Pages site](https://cinderella-project.github.io/iMast/) is correct, iMast is also Open Source “under the Apache License 2.” Unlike Amaroq, it appears to have been built in Swift from the ground up.
