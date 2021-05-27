@@ -73,6 +73,12 @@ For two, I am a Drafts user and would be very interested in that Action if you'v
 - I’m using Amaroq, which works well but is missing support for polls. ⏤ by *cheesy_the_clown* (↑ 3/ ↓ 0)
 - I've been pretty happy with amaroq ⏤ by *Agitated_Rent_2089* (↑ 2/ ↓ 0)
 
+---
+
+### Notifications
+
+* Toot!'s sound notifications always came first, then Mercury.
+
 ## References
 
 - [ ] “[All the Mastodon iPad apps, tested](https://medium.com/@KUKxFT3T/all-the-mastodon-ipad-apps-tested-6b65bddc7853)” | by shork on Medium 

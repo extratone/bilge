@@ -1,10 +1,10 @@
-# The State of Mastodon Clients on iOS
+# The State of Mastodon iOS Apps
 
 [Notes Draft](drafts5://open?uuid=A831B815-C12C-4A00-BCFF-D88B7F0E05AC)
 
 ![Mast Details](https://i.snap.as/UsH95qJv.png)
 
-## A survey of third-party Mastodon apps on iOS.
+## A survey of third-party Mastodon clients on iOS.
 
 I must confess: I have been _meaning_ to write this app guide since even before I [interviewed Mastodon creator Eugen Rochko](https://bilge.world/eugen-rochko-interview) on the morning of his Big Press Day, just over 4 years ago. I’ve exhaustively explored different means of convincing my own longtime Twitter friends to move, over that time, with very little success. Eugen, himself, published an [official blog post](https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/) at the beginning of February detailing his plans to open up onboarding by way of “an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform.” As a Patreon supporter of [The Mastodon Project](https://www.patreon.com/mastodon) (full disclosure,) I can tell you that progress is good, but we shouldn’t expect to see a release version of the app for the remainder of this year. That said, I thought it might be worth going over the third-party options iOS users currently have available to them, largely because the offerings are each innovative and mature applications in their own right. Also, it’s become quite apparent that the normal tech media sources you’d go to for such a guide aren’t going to give Mastodon the attention it deserves.
 
@@ -14,7 +14,7 @@ https://youtube.com/watch?v=LdBFMibyh3Y
 
 ### [Toot!](https://apps.apple.com/app/toot/id1229021451)
 
-Dag Ågren‘s [Toot!](https://apps.apple.com/us/app/toot/id1229021451) is not only my personal app of choice - I would (and have) go so far as to say it’s the single most innovative mobile social app I’ve ever encountered, largely because of its jacknife-esque instance switching function. It’s held a place in my phone’s dock since the day I first downloaded it, for this and many other reasons.
+Dag Ågren‘s [Toot!](https://apps.apple.com/us/app/toot/id1229021451) is not only my personal app of choice - I would (and have) go so far as to say it’s the single most innovative mobile social app I’ve ever encountered, largely because of its jacknife-esque instance switching function. It’s held a place in my phone’s dock since the day I first downloaded it, for this and many other reasons. While one might find bugs/loose ends (understandably) exploring the functions of other indie social clients, within Toot!, they will only find little delights, like [its wholly unique Share Sheet interface](https://imgur.com/gallery/xAXs95J).
 
 ![Toot! Themes](https://i.snap.as/bXG5SAUv.png)
 
