@@ -1,12 +1,18 @@
 # The State of Mastodon iOS Apps
 
-[Notes Draft](drafts5://open?uuid=A831B815-C12C-4A00-BCFF-D88B7F0E05AC)
-
 ![Mast Details](https://i.snap.as/UsH95qJv.png)
 
 ## A survey of third-party Mastodon clients on iOS.
 
 I must confess: I have been _meaning_ to write this app guide since even before I [interviewed Mastodon creator Eugen Rochko](https://bilge.world/eugen-rochko-interview) on the morning of his Big Press Day, just over 4 years ago. I’ve exhaustively explored different means of convincing my own longtime Twitter friends to move, over that time, with very little success. Eugen, himself, published an [official blog post](https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/) at the beginning of February detailing his plans to open up onboarding by way of “an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform.” As a Patreon supporter of [The Mastodon Project](https://www.patreon.com/mastodon) (full disclosure,) I can tell you that progress is good, but we shouldn’t expect to see a release version of the app for the remainder of this year. That said, I thought it might be worth going over the third-party options iOS users currently have available to them, largely because the offerings are each innovative and mature applications in their own right. Also, it’s become quite apparent that the normal tech media sources you’d go to for such a guide aren’t going to give Mastodon the attention it deserves.
+
+## Obligatory(?) Context
+
+I originally intended to be as clinical as possible in this Post having realized its potential as the singular comparison of its kind to appear in search results for new potential users of Mastodon. From my perspective, Mastodon has long since surpassed regard as a novel social media experiment who's function is to prompt academic conversations about decentralization, open source, ad tech, and federated social's solutions to all of the Big Web's Big Boy (proprietary) Problems (though I have been compelled to [invest significantly](https://github.com/extratone/bigblue) in that very conversation.) In the less intellectual hours of my day-to-day life (read: most of the time,) Mastodon is nothing more or less than my favorite place on the internet. It is a relentless delight which I only lament because I want to share so much of it with my friends, but have continued to fail in my efforts to articulate that **Mastodon is not a compromise; it is a better social space**.
+
+If you didn't know, this seems to have become *my general shit*, for lack of a better term: the ethical considerations of open source/"alternative" software are very important, yes! ... but they are *far* from the whole, and they are not a requisite for new users. The second of [this World Wide Web Blog's fundamental considerations](https://bilge.world/about), in fact:
+
+> The Open Source/Open Web community continues to struggle with their *brand image* (if you will) in both old and new ways that needlessly alienate (and sometimes obfuscate) some of their most important contributions from the average user. **Technology media has failed in their responsibility to address this issue.**
 
 First, let’s begin with The Big 6 - those apps The Mastodon Project, itself, has seen fit to [list on joinmastodon.org](https://joinmastodon.org/apps).
 
@@ -18,7 +24,15 @@ Dag Ågren‘s [Toot!](https://apps.apple.com/us/app/toot/id1229021451) is not o
 
 ![Toot! Themes](https://i.snap.as/bXG5SAUv.png)
 
-Ultimately, Toot! is extremely beautiful (despite its unfortunate name,) and I am quite superficial in my taste. It’s Obsidian theme (which may or may not be related to the topical notetaking system of the same name) is especially gorgeous. With its custom notification sounds (a commonly-overlooked feature in iOS apps, generally, in my opinion,) Toot!’s notifications are also my favorite of these by far.
+Toot! is extremely beautiful (despite its unfortunate name,) and I am quite superficial in my taste. It’s Obsidian theme (which may or may not be related to the topical notetaking system of the same name) is especially gorgeous.
+
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/Toot!%20Custom%20Sounds.mp3">
+</audio>
+
+In my cacophonous attempt to compare the notifications of all available Mastodon apps simultaneously (found below,) it's worth noting that Toot!'s always came first. Its [charming custom audio alerts](https://whyp.it/t/toot-ios-app-custom-sounds-92997) also make them my favorite by far.
+
+ They're not just cute: in reflection informed by a newly-considered function of these apps - serving as representing M, it occurred to me that **Toot! audio alerts playing from my iPhone have prompted more first-time conversations about Mastodon in the wild than I can count**. (Seriously: they should be considered an onboarding mechanism.)
 
 ![Toot! Settings](https://i.snap.as/30YJR456.png)
 
