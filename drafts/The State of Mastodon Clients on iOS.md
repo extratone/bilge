@@ -14,7 +14,7 @@ If you didn't know, this seems to have become *my general shit*, for lack of a b
 
 > The Open Source/Open Web community continues to struggle with their *brand image* (if you will) in both old and new ways that needlessly alienate (and sometimes obfuscate) some of their most important contributions from the average user. **Technology media has failed in their responsibility to address this issue.**
 
-
+*Oh boy, here we go...* No. I did not want to say anything ideological - I wanted this Post to function as little more than a pretty screenshot showcase and simple associative list responding to all of the Reddit posts I've seen to the tune of "is there an iPhone app?" As I explored them, however, I was reminded of the sheer creativity the "alternative" software community is capable of. Even the roughest of these considered apps seem unable to be faceless - sorting through the obscene amount of (unlabeled) screenshots accumulated over the past weeks of testing in my Recents folder has been *so* much easier than I thought it would be because of their relentless originality. 
 
 First, let’s begin with The Big 6 - those apps The Mastodon Project, itself, has seen fit to [list on joinmastodon.org](https://joinmastodon.org/apps).
 
