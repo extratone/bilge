@@ -28,8 +28,6 @@ Though the ink's still fresh on his compsci diploma, he's clearly prepared for t
 
 https://open.spotify.com/episode/6QKhv7jaZsAHJxBjyiyZf7?si=I_eqn5Q6Q2aXi04Nq10LJw
 
-<iframe src="https://www.listennotes.com/embedded/e/03ad43227da74d489d11dd6a804fe09d/" height="auto" width="100%" style="width: 1px; min-width: 100%;" frameborder="0" scrolling="no" loading="lazy"></iframe>
-
 ------
 
 **What's the story behind the project? Do you remember the specific moment when you decided to do this?**
