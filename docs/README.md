@@ -2,6 +2,8 @@
 
 # *The Psalms* Editorial Documentation
 
+{:toc}
+
 *(**Please note**: This document is currently [under revision](https://github.com/extratone/bilge/issues/98).)*
 
 ## This repository encompasses the whole of both the editorial and developmental processes involved in creating [bilge.world](https://bilge.world).
