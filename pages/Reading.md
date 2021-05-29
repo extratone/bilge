@@ -2,6 +2,8 @@
 
 ![COMPAQ 386](https://i.snap.as/niq0aqH.png)
 
+<iframe style="border: 0; width: 100%; height: 700px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/reading-list-13380406/embed/sort=-created"></iframe>
+
 Since I first began working online in 2016, I have grown and maintained quite a curatorial habit, and therefore sought all sorts of modern curator's tools. The system I settled upon for some five years: a dedicated [Reading List channel](http://bit.ly/extratone) in *Extratone*'s Discord. It wasn't until this past year that I encouraged something which (so far) has exceeded willy-nilly copy-and-paste of URLs into a single feed. It's an application/bookmarking service called [**Raindrop**](https://bit.ly/dbraindrop) which includes tagging, public, RSS-enabled collections, and fairy competent web page archiving. I became a paid subscriber within minutes of discovering its existence, three months ago, and have since integrated it quite hardily in my workflow (including automated reposts in that same Discord channel, for good measure.) For now, the arrangement is sortof experimental, but obviously, I'm rooting for [Rustem Mussabekov](https://raindrop.io/about) - sole creator and sentinel of Raindrop.
 
 ![Raindrop Bilge](https://i.snap.as/69TKyPZJ.png)
@@ -16,6 +18,8 @@ Since I first began working online in 2016, I have grown and maintained quite a 
 | Automotive Reading List | [Raindrop](https://raindrop.io/collection/13379949) | [Feed](https://raindrop.io/collection/13379949/feed) |
 |    Software History     | [Raindrop](https://raindrop.io/collection/13379957) | [Feed](https://raindrop.io/collection/13379957/feed) |
 |  Blessed Web Utilities  | [Raindrop](https://raindrop.io/collection/13380122) | [Feed](https://raindrop.io/collection/13380122/feed) |
+
+
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/487038988?autoplay=1&loop=1&title=0&byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -75,3 +79,8 @@ An ongoing list of some of my absolute favorite reads on The Net.
 * "[Fish: A Tap Essay](https://www.robinsloan.com/fish/)" | Robin Sloan
 * "[The Sentence is a Lonely Place](https://believermag.com/the-sentence-is-a-lonely-place) | *The Believer*
 * “[When in Need of the Right Word, Great Writers Simply Make Them Up](https://lithub.com/when-in-need-of-the-right-word-great-writers-simply-make-them-up) | *LitHub*
+
+---
+
+<iframe style="border: 0; width: 100%; height: 10000px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/magazines-13419360/embed/theme=dark"></iframe>
+
