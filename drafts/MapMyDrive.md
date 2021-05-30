@@ -1,0 +1,5 @@
+# Map My Drive for iOS
+## A single surviving fragment of Fast Boy Phone Dreams.
+I feel like it’s been long enough since I last discussed the less technical first chapters of my writing life - when I was sure I was going to spend all of it writing professionally about cars - that any new readers since the beginning of the year who’ve not yet heard or read a single one of my words regarding the automotive industry may find this topic disorienting, but I insist that you stick around, anyway - _especially_ if mobile software, hardware, or accessories, even, are your industry, and you live in California or New York.
+
+On December 22nd, 2019, I caused a car accident while drunk driving and was subsequently arrested. The legal ordeal that followed was very alarming and somewhat frustrating - assuming I ever manage to comprehend it, I’ll tell the story one day - but the relevant anecdote is that I just recently departed the longest period in which I had gone without driving an automobile since I began driving by myself on my father’s farm sometime between 8-10. 
