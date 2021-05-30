@@ -1,9 +1,11 @@
-# Notes: The State of Mastodon Clients on iOS
+# App Notes: The State of Mastodon Clients on iOS
 
 * [All release notes](https://github.com/extratone/bilge/tree/main/documentation/Masto)
 * [r/Mastodon thread](https://reddit.com/r/Mastodon/comments/mxymr1/your_thoughts_on_thirdparty_mastodon_clients_for/)
 * [r/Mastodon thread Draft](drafts5://open?uuid=37917400-8CFF-49DA-BE29-DA6AFF2E7495)
 * [The Mastodon iOS Apps List Repository](https://github.com/extratone/imastodon)
+
+# Sanctioned
 
 ### The [Apps page](https://joinmastodon.org/apps) on joinmastodon.org:
 * [Toot!](https://itunes.apple.com/app/toot/id1229021451)
@@ -51,10 +53,27 @@
 ### Amaroq
 
 * `![Amaroq for iOS](https://i.snap.as/JV5vzmky.png)`
-
 * The most OG of all.
 * Still the best free option?
 * AWOO MODE???
+
+# Unmentioned, but currently in Public Beta and/or For Sale
+
+<img src="../images/Tusker Icon.png" alt="Tusker Icon" style="zoom:25%;" />
+
+### Tusker
+
+* `![Tusker on iOS](https://i.snap.as/82RtZcyl.png)	`
+
+* `![Tusker Landscape Mode!](https://i.snap.as/jZudSEdQ.png)`
+
+
+
+
+
+
+
+
 
 ***
 ### Thread
@@ -89,12 +108,6 @@ For two, I am a Drafts user and would be very interested in that Action if you'v
 
 ---
 
-### Notifications
+## Notifications
 
 * Toot!'s sound notifications always came first, then Mercury.
-
-## References
-
-- [ ] “[All the Mastodon iPad apps, tested](https://medium.com/@KUKxFT3T/all-the-mastodon-ipad-apps-tested-6b65bddc7853)” | by shork on Medium 
-- [ ] “[How To Get Started on Mastodon and Leave Twitter Behind](https://www.pcmag.com/how-to/how-to-get-started-on-mastodon-and-leave-twitter-behind)” | *PCMag*
-- [ ] “[Innovators Are Crafting Decentralized Social Media Alternatives. Will App Stores Pull Them Down? – Reason.com](https://reason.com/2020/09/09/innovators-are-crafting-decentralized-social-media-alternatives-will-app-stores-pull-them-down/)” | *reason*
