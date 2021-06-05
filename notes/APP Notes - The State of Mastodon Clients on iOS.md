@@ -89,6 +89,15 @@
 
 * [App Store Page](https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699): `https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699`
 
+### Tootle
+
+* [Mastodon account](https://mastodon.cloud/@tootleapp): `https://mastodon.cloud/@tootleapp`
+* Aside from the above mastodon account, a mystery?
+
+### Dudu 
+
+* [Webpage](http://dudu.today/): `http://dudu.today/`
+
 # Unmentioned, but currently in Public Beta and/or For Sale
 
 <img src="../images/Tusker Icon.png" alt="Tusker Icon" style="zoom:25%;" />
