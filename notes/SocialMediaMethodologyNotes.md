@@ -4,7 +4,7 @@
 
 `![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
 
-For a good part of my Junior and Senior years of high school, 
+* [All Tweets...](https://davidblue.xyz/tweets/)
 
 * `https://twitter.com/NeoYokel/status/1351947764859613187`
 
