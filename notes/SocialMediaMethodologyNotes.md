@@ -64,6 +64,8 @@ For a good part of my Junior and Senior years of high school,
 
 ## References
 
+* [What Twitter Blue gets wrong](https://www.platformer.news/p/what-twitter-blue-gets-wrong) | *Platformer*
+* "[Twitter Blue is a big bet on power users — and on a new future for Twitter](https://www.protocol.com/twitter-blue)" | *Protocol*
 * "[The platforms try a little transparency](https://www.platformer.news/p/the-platforms-try-a-little-transparency)" | *Platformer*
 * "[Our plans to relaunch verification and what’s next](https://blog.twitter.com/en_us/topics/company/2020/our-plans-to-relaunch-verification-and-whats-next.html)" | *Twitter Blog*
 * "[Relaunching verification and what’s next](https://blog.twitter.com/en_us/topics/company/2021/relaunching-verification-and-whats-next.html)" | *Twitter Blog*
