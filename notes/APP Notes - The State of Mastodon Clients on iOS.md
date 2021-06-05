@@ -79,6 +79,16 @@
 * [Metabolist on Mastodon](https://mastodon.social/@metabolist): `https://mastodon.social/@metabolist`
 * [Justin Mazzocchi on Mastodon](https://mastodon.social/@jzzocc): `https://mastodon.social/@jzzocc`
 
+
+
+***
+
+## Unsanctioned
+
+### Roma
+
+* [App Store Page](https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699): `https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699`
+
 # Unmentioned, but currently in Public Beta and/or For Sale
 
 <img src="../images/Tusker Icon.png" alt="Tusker Icon" style="zoom:25%;" />

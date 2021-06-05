@@ -26,7 +26,11 @@ So, if there's virtually zero chance a new Mastodon user might download one of t
 
 ## The Big 6
 
-My first step in writing this guide was to post [a thread on r/Mastodon](https://www.reddit.com/r/Mastodon/comments/mxymr1/your_thoughts_on_thirdparty_mastodon_clients_for/) soliciting thoughts on third-party Mastodon apps from other users, who expressed a lot of love for Toot! and Metatext.
+My first step in writing this guide was to post [a thread on r/Mastodon](https://www.reddit.com/r/Mastodon/comments/mxymr1/your_thoughts_on_thirdparty_mastodon_clients_for/) soliciting thoughts on third-party Mastodon apps from other users, who expressed a lot of love for Toot! and Metatext:
+
+> Toot is just a joy to use. It has a little too much sometimes (it actually contains little mini games...which really aren't needed), but the experience of using it has some really clever UI twists. -[u/mikepictor](https://www.reddit.com/user/mikepictor/)
+
+Pragmatic Code's [Linky](https://apps.apple.com/us/app/linky-for-twitter-and-mastodon/id438090426) was also mentioned by multiple respondents. It's not a client, but a bridging tool for smoother URL sharing that integrates with iOS' share sheet. I did not have time to try it, myself, but from all accounts, it is an obligatory mention. 
 
 First, let’s begin with The Big 6 - those apps The Mastodon Project, itself, has seen fit to [list on joinmastodon.org](https://joinmastodon.org/apps).
 
@@ -57,6 +61,14 @@ In my experience, it’s also the most robust of the lot - as in, it is very muc
 ### [Mast](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129)
 
 I originally had high hopes for Shihab Mehboob‘s [Mast](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) - which used to look very different from the way it does, today. That’s almost certainly to do with its ownership [changing hands](https://twitter.com/jpeguin/status/1354854403124178947) at some point (no, I do not have any further details on that story, unfortunately.) That’s not to say the current app isn’t a worthwhile offering, it’s just far less _visually ambitious_ than the original I remember. However, it’s also significantly more reliable.
+
+<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">They were there last time I checked, but Mast isn’t owned and maintained by me anymore so not sure.</p>&mdash; Shihab Mehboob (@JPEGuin) <a href="https://twitter.com/JPEGuin/status/1354854403124178947">January 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+`https://twitter.com/JPEGuin/status/1354854403124178947`
+
+Hopefully without unnecessarily "outing" anyone, I must point out that the original Mast does, in fact, live on. I noticed 
+
+
 
 ![Amaroq for iOS](https://i.snap.as/JV5vzmky.png)
 
