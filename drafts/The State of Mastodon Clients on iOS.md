@@ -30,7 +30,7 @@ My first step in writing this guide was to post [a thread on r/Mastodon](https:/
 
 > Toot is just a joy to use. It has a little too much sometimes (it actually contains little mini games...which really aren't needed), but the experience of using it has some really clever UI twists. -[u/mikepictor](https://www.reddit.com/user/mikepictor/)
 
-Pragmatic Code's [Linky](https://apps.apple.com/us/app/linky-for-twitter-and-mastodon/id438090426) was also mentioned by multiple respondents. It's not a client, but a bridging tool for smoother URL sharing that integrates with iOS' share sheet. I did not have time to try it, myself, but from all accounts, it is an obligatory mention. 
+Pragmatic Code's [Linky](https://apps.apple.com/us/app/linky-for-twitter-and-mastodon/id438090426) was also mentioned by multiple respondents. It's not a client, but a bridging tool for smoother URL sharing that integrates with iOS' share sheet. I did not have time to try it, myself, but from all accounts, it is an obligatory mention. So too is the GitHub Repository/List I created 
 
 First, let’s begin with The Big 6 - those apps The Mastodon Project, itself, has seen fit to [list on joinmastodon.org](https://joinmastodon.org/apps).
 
@@ -81,6 +81,19 @@ The Original… Genesis… If Amaroq was not the first Mastodon app on the App S
 ### [iMast](https://apps.apple.com/us/app/imast/id1229461703)
 
 For better or worse, [@rinsuki](https://mstdn.rinsuki.net/@rinsuki)’s iMast will require either a basic grasp of the Japanese language, or the patience to translate its menus and work backwards. (OCR came to mind, but I’m not quite dedicated enough to try it for this guide.) Assuming [Google’s translation](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:64ce057e-5adc-4578-a0ef-e9ddb6b5d545) of [its GitHub Pages site](https://cinderella-project.github.io/iMast/) is correct, iMast is also Open Source “under the Apache License 2.” Unlike Amaroq, it appears to have been built in Swift from the ground up. Unfortunately, that's about all I can comment on, though I would very much love to hear from any iMast users/Japanese speakers and will update this Post accordingly.
+
+A function I _can_ provide: documenting [iMast’s Bluetooth keyboard shortcuts](https://github.com/extratone/imastodon/blob/main/documentation/iMastKeyboardShortcuts.md).
+
+#### iMast’s Keyboard Shortcuts
+
+| Action              | Key        |
+|:-------------------:|:----------:|
+| Open Compose Window | ⌘ + N      |
+| Send Toot           | ⌘ + Return |
+| Home Timeline       | ⌘ + 1      |
+| Notifications       | ⌘ + 2      |
+| Local Timeline      | ⌘ + 3      |
+| Others (Menu)       | ⌘ + 9      |
 
 ![Mercury for iOS](https://i.snap.as/1aTfNFtD.png)
 

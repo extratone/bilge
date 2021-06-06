@@ -4,6 +4,8 @@
 
 `![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
 
+* Tom Critchlow is an exception! He uses adjacent terms in describing his work sometimes, but **they all lead to concrete examples**. Not sure if this will end up being the right place to not this.
+
 * [All Tweets...](https://davidblue.xyz/tweets/)
 
 * `https://twitter.com/NeoYokel/status/1351947764859613187`
