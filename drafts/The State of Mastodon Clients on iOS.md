@@ -1,6 +1,6 @@
 # The State of Mastodon iOS Apps
 
-![Mast Details](https://i.snap.as/UsH95qJv.png)
+![Mastodon iOS Apps Surveyed](https://i.snap.as/3q29AwpI.png)
 
 ## A survey of third-party Mastodon clients on iOS.
 
@@ -68,7 +68,7 @@ I originally had high hopes for Shihab Mehboob‘s [Mast](https://apps.apple.com
 
 Hopefully without unnecessarily "outing" anyone, I must point out that the original Mast does, in fact, live on. I noticed 
 
-
+![Mast Details](https://i.snap.as/UsH95qJv.png)`
 
 ![Amaroq for iOS](https://i.snap.as/JV5vzmky.png)
 
