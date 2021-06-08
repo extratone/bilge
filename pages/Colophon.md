@@ -2,7 +2,7 @@
 
 ![Single Page, All of Unicode (Inverted)](https://i.snap.as/GGPoR0yN.png)
 
-*The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. 
+## *The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. 
 
 A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. (*That means you can see [current in-progress drafts](https://github.com/extratone/bilge/tree/main/Drafts)!*)
 
@@ -38,6 +38,12 @@ _Download The Psalms 3.0 color pack for a limited time [here](https://github.com
 
 ![The Psalms Drafts Theme](https://user-images.githubusercontent.com/43663476/115521804-23b44700-a251-11eb-84da-77b446e59c37.png)
 
-## Drafts Theme
+### Drafts Theme
 
 If you happen to be a user of agiletortoise’s infamous [Drafts app](https://getdrafts.com) on iOS and/or MacOS, I have just released [**a quite-uncanny theme**](https://actions.getdrafts.com/t/1km) on the new Themes Directory emulating _The Psalms_’ reading experience which I am quite pleased with.
+
+![The Psalms Firefox Theme](C:\Users\david\bilge\images\firepsalms.png)
+
+### Firefox Theme
+
+* [**Firefox addons page**](https://addons.mozilla.org/addon/psalms/)
