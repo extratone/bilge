@@ -42,7 +42,7 @@ _Download The Psalms 3.0 color pack for a limited time [here](https://github.com
 
 If you happen to be a user of agiletortoise’s infamous [Drafts app](https://getdrafts.com) on iOS and/or MacOS, I have just released [**a quite-uncanny theme**](https://actions.getdrafts.com/t/1km) on the new Themes Directory emulating _The Psalms_’ reading experience which I am quite pleased with.
 
-![The Psalms Firefox Theme](C:\Users\david\bilge\images\firepsalms.png)
+![The Psalms Firefox Theme](https://github.com/extratone/bilge/raw/main/images/firepsalms.png)
 
 ### Firefox Theme
 
