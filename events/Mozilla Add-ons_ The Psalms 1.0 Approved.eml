@@ -1,0 +1,115 @@
+Delivered-To: ihadtopee@gmail.com
+Received: by 2002:a1c:7c01:0:0:0:0:0 with SMTP id x1csp3778158wmc;
+        Mon, 7 Jun 2021 14:45:41 -0700 (PDT)
+X-Google-Smtp-Source: ABdhPJwTB+7gPUUJD9IYQ4+HVX9kQi5+Jj384LrnOBV694qdlZjxx6Gx2nEV/5jIHpI6Pe7nFdOT
+X-Received: by 2002:a05:6830:1e54:: with SMTP id e20mr15669481otj.227.1623102341495;
+        Mon, 07 Jun 2021 14:45:41 -0700 (PDT)
+ARC-Seal: i=1; a=rsa-sha256; t=1623102341; cv=none;
+        d=google.com; s=arc-20160816;
+        b=jhNov8DPpzgu8Ie5yTMCX/YrvSDKnQyxNe3FUlL4pXaAoopIx0GDR237OpvKIlNRy5
+         btAmUrN5U9/zvNrG8J+nMaKR+a1kkjy8lKrVopAsOU5DsD7OFbZHy4c1Is0oc0fk2aM6
+         ynSEaIAjLhNTl0yQmagMVsxu92qsw1nk8XU6FMzF0qKKqVsBTzgw0At2XOOF9HWPK6zJ
+         gkrG+TBHcln0L4CInFdCU88IyDz0Gwoq4Zrs64fDydYF1HokV1CcifXKP2Fiypu82wL6
+         N2YTmI47rvFojoLbnA0t86WbtF3CtkBsOyJJx/oaTjib0T9tSZdLnCXCDIALmzrD01dO
+         im2w==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=google.com; s=arc-20160816;
+        h=auto-submitted:message-id:references:in-reply-to:date:reply-to:to
+         :from:subject:content-transfer-encoding:mime-version:feedback-id
+         :dkim-signature;
+        bh=2qBRJNMIQyCOrSs1IrRxW+yVxOj9BPriFNqrTaJCC44=;
+        b=IXcWYi3eF9SIFsTOtBpfVCZZI3FsfgfQalFkqImIbyRxKNkZKTdaaAkUSNxE7FplZj
+         F2ke4tg6ch9BGzFZCwUinUyNTzJMqku1CFAf+6c+BzpaO1RtjoKtcvNop4ZcZ8fYmzAl
+         gJXB141h9DyjepgrRtdBtSbBBRDTJRQ4cXdzPE5owHQgjhB7pH1uqU+Ex0YtWv9gGHGx
+         IsrJjb00nbnwlKjfQuKMeApDuYsLWxtLGwszvt8pJ/Z3BPrvHraNqDvEJJ0FxJUoWCpp
+         8VIdteGgNOSi78soj77UBES5SrZ9mFgJWsAEkL3xHKS3bWyZMLks4N+1wrjY+mii630X
+         MtNg==
+ARC-Authentication-Results: i=1; mx.google.com;
+       dkim=pass header.i=@email-od.com header.s=dkim header.b=pPt39pDk;
+       spf=pass (google.com: domain of 35d0.82.1adc00004614cd7.bd1598cb87ceac01d0d6a15f2fbbb51e@email-od.com designates 142.0.177.102 as permitted sender) smtp.mailfrom=35d0.82.1adc00004614cd7.bd1598cb87ceac01d0d6a15f2fbbb51e@email-od.com;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=mozilla.org
+Return-Path: <35d0.82.1adc00004614cd7.bd1598cb87ceac01d0d6a15f2fbbb51e@email-od.com>
+Received: from s1-b166.socketlabs.email-od.com (s1-b166.socketlabs.email-od.com. [142.0.177.102])
+        by mx.google.com with ESMTPS id y5si4707986oop.64.2021.06.07.14.45.41
+        for <ihadtopee@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-ECDSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 07 Jun 2021 14:45:41 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 35d0.82.1adc00004614cd7.bd1598cb87ceac01d0d6a15f2fbbb51e@email-od.com designates 142.0.177.102 as permitted sender) client-ip=142.0.177.102;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@email-od.com header.s=dkim header.b=pPt39pDk;
+       spf=pass (google.com: domain of 35d0.82.1adc00004614cd7.bd1598cb87ceac01d0d6a15f2fbbb51e@email-od.com designates 142.0.177.102 as permitted sender) smtp.mailfrom=35d0.82.1adc00004614cd7.bd1598cb87ceac01d0d6a15f2fbbb51e@email-od.com;
+       dmarc=fail (p=NONE sp=NONE dis=NONE) header.from=mozilla.org
+DKIM-Signature: v=1; a=rsa-sha256; d=email-od.com;i=@email-od.com;s=dkim;
+	c=relaxed/relaxed; q=dns/txt; t=1623102341; x=1625694341;
+	h=auto-submitted:x-auto-response-suppress:message-id:references:in-reply-to:date:reply-to:to:from:subject:content-transfer-encoding:mime-version:content-type:feedback-id:x-thread-info;
+	bh=2qBRJNMIQyCOrSs1IrRxW+yVxOj9BPriFNqrTaJCC44=;
+	b=pPt39pDk7f+9VRFr0Oqlcqc4ZmybfVFo92A1M+OmLdC/P2zkOLOCpDF/WAeDFItRaSPdD8EclN3vmgvCsI/vKioZij2U+YbeF0rAKfi/avYPBv3ZNamiv1MurgiOLhNq14l9ugTuqb2jq4Lmr7JvqzcxK0DPQqGV1ANakTe+BdM=
+X-Thread-Info: MzVkMC4xMi4xYWRjMDAwMDQ2MTRjZDcuaWhhZHRvcGVlPWdtYWlsLmNvbQ==
+Feedback-ID: 13776:socketlabs
+Received: from r2.sg.in.socketlabs.com (r2.sg.in.socketlabs.com [142.0.179.12]) by mxsg3.email-od.com
+	with ESMTP(version=Tls12 cipher=Aes256 bits=256); Mon, 7 Jun 2021 17:45:41 -0400
+	  "MachineName": "SG-PR-REC02",
+	  "Ehlo": true,
+	  "HeloDomain": "ip-172-31-19-16.us-west-2.compute.internal",
+	  "Timestamp": "2021-06-07T17:45:40.7090283-04:00",
+	  "Auth": "CramMd5",
+	  "MessageNumber": 1,
+	  "RemoteIp": "34.211.30.113",
+	  "RemotePort": 0,
+	  "LocalIp": "10.24.179.12",
+	  "LocalPort": "2526",
+	  "MailFrom": {
+	    "Email": "nobody@mozilla.org",
+	    "Name": null,
+	    "Local": "nobody",
+	    "Domain": "mozilla.org"
+	  },
+	  "TlsLogData": null
+	}
+Received: from ip-172-31-19-16.us-west-2.compute.internal (ec2-34-211-30-113.us-west-2.compute.amazonaws.com [34.211.30.113]) by r2.sg.in.socketlabs.com
+	with ESMTP; Mon, 7 Jun 2021 17:45:40 -0400
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Subject: Mozilla Add-ons: The Psalms 1.0 Approved
+From: Mozilla Add-ons <nobody@mozilla.org>
+To: ihadtopee@gmail.com
+Reply-To: reviewreply+547404d13e5347608fadd2a6dccdd17e@addons.mozilla.org
+Date: Mon, 07 Jun 2021 21:45:40 -0000
+In-Reply-To: <2706389/5247089@addons.mozilla.org>
+References: <2706389/5247089@addons.mozilla.org>
+Message-ID: <2706389/5247089/20623301@addons.mozilla.org>
+X-Auto-Response-Suppress: RN, NRN, OOF, AutoReply
+Auto-Submitted: auto-generated
+
+Hello,
+
+
+Your add-on, The Psalms 1.0, has been approved and is now available for download in our gallery at https://addons.mozilla.org/addon/psalms/
+
+
+********
+Developer Resources
+********
+
+To respond, please reply to this email or visit: https://addons.mozilla.org/en-US/developers/addon/psalms/versions
+
+You can also get in touch with us using these channels: https://wiki.mozilla.org/Add-ons#Contact_us
+
+For tips on how to attract more users by updating your add-on’s listing, please visit: https://extensionworkshop.com/documentation/develop/create-an-appealing-listing
+
+To learn more about the review process, please visit: https://extensionworkshop.com/documentation/publish/add-on-policies/
+
+-- 
+Mozilla Add-ons Team
+https://addons.mozilla.org
+
+
+===================================================================
+You received this email because you're subscribed to:
+   * email me when my add-on is reviewed by a reviewer
+
+
+You can't unsubscribe from this type of email.
+
+Manage email notifications: https://addons.mozilla.org/users/edit#acct-notify
+

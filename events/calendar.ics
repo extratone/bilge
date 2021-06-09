@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+URL:https://iosdevhappyhour612.eventbrite.com
+DTSTART:20210612T180000Z
+DTEND:20210612T190000Z
+SUMMARY:iOS Dev Happy Hour
+DESCRIPTION:For details, go here:\nhttps://iosdevhappyhour612.eventbrite.com\n\nTo access the online event page, go here:\nhttps://www.eventbrite.com/x/ios-dev-happy-hour-tickets-156358615829
+LOCATION:
+END:VEVENT
+END:VCALENDAR

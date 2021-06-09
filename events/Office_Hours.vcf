@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION;TYPE=WORK:3.0
+FN;CHARSET=UTF-8:Alex Lindsay
+N;CHARSET=UTF-8:Alex Lindsay;;;;
+PROFILE:VCARD
+ADR;CHARSET=UTF-8:;;910 D Street;San Rafael;CA;94903;USA
+EMAIL:newsletter@officehours.global
+ORG;CHARSET=UTF-8:Office Hours
+URL:https://officehours.global
+END:VCARD
