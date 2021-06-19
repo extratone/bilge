@@ -1,5 +1,9 @@
 # App Notes: The State of Mastodon Clients on iOS
 
+[TOC]
+
+
+
 * [All release notes](https://github.com/extratone/bilge/tree/main/documentation/Masto)
 * [r/Mastodon thread](https://reddit.com/r/Mastodon/comments/mxymr1/your_thoughts_on_thirdparty_mastodon_clients_for/)
 * [r/Mastodon thread Draft](drafts5://open?uuid=37917400-8CFF-49DA-BE29-DA6AFF2E7495)
@@ -60,6 +64,7 @@
 ### iMast
 
 * `![iMast for iOS](https://i.snap.as/7A9pJMzD.png)`
+* My [**Keyboard Shortcuts Issue**](https://github.com/cinderella-project/iMast/issues/200) on the iMast official Repo
 
 ### Mercury
 
@@ -69,8 +74,10 @@
 * [Mastodon Account](https://mastodon.technology/@mercury): `https://mastodon.technology/@mercury`
 * [Daniel Nitsikopoulos on the Web](https://dnitza.com/): `https://dnitza.com/`
 * [Daniel Nitsikopoulos on Mastodon](https://aus.social/@nitza): `https://aus.social/@nitza`
+* [Issues GitHub Repository](https://github.com/dNitza/mercury-issues/issues): `https://github.com/dNitza/mercury-issues/issues`
 * The other entry with custom audio notifications.
 * `![Mercury for iOS](https://i.snap.as/1aTfNFtD.png)`
+* `![Mercury for iOS - Scoops Theme](https://i.snap.as/ScJoTz8e.png)`
 
 ### Metatext
 

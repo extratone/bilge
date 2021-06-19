@@ -99,8 +99,8 @@ A function I _can_ provide: documenting [iMast’s Bluetooth keyboard shortcuts]
 | Local Timeline      | ⌘ + 3      |
 | Others (Menu)       | ⌘ + 9      |
 
-![Mercury for iOS](https://i.snap.as/1aTfNFtD.png)
+![Mercury for iOS - Scoops Theme](https://i.snap.as/ScJoTz8e.png)
 
 ### [Mercury](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200)
 
-Daniel Nitsikopoulos' Mercury 
+Daniel Nitsikopoulos' [Mercury](https://onmercury.app) represents yet another entirely original direction in Social clients.
