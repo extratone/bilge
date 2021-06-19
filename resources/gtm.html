@@ -1,0 +1,2695 @@
+<!doctype html>
+<html>
+<head>
+  <title>An Increasingly Less Brief Guide to Mastodon</title>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<meta name="author" content="Noëlle Anthony">
+<link href='file://C://Users//david//AppData//Roaming//Typora/themes/gitbook/fonts.css' rel='stylesheet' type='text/css' /><link href='file://C://Users//david//AppData//Roaming//Typora/themes/gitbook/slate-colors.css' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+.mac-os-11 { --title-bar-height:28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-fences-math .MathJax_SVG_Display, .md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: visible; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; zoom: 90%; }
+#math-inline-preview-content { zoom: 1.1; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-require-zoom-fix foreignobject { font-size: var(--mermaid-font-zoom); }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-math .MathJax_SVG_Display { margin-top: 8px; cursor: default; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+
+
+/* roboto-300 - latin */
+/* roboto-300italic - latin */
+/* roboto-regular - latin */
+/* roboto-italic - latin */
+/* roboto-500 - latin */
+/* roboto-500italic - latin */
+/* roboto-700 - latin */
+/* roboto-700italic - latin */
+/* roboto-900 - latin */
+/* roboto-900italic - latin */
+/* sorucecodepro-400 - latin */
+@font-face {
+     font-family: 'Source Code Pro';
+     font-style: normal;
+     font-weight: 400;
+     src: local('Source Code Pro'), local('SourceCodePro-Regular'),
+     url('file:///C://Users//david//AppData//Roaming//Typora/themes/gitbook/SourceCodePro-Regular.ttf') format('truetype');
+}
+/*by 16soundsofsilence*/
+
+:root {
+  --bg-color: hsl(217, 18%, 9%);
+  --side-bar-bg-color: hsl(217, 17%, 13%);
+  --control-text-color: #e6ecf1;
+  --primary-color: #3884ff;
+  --primary-btn-border-color: #3884ff;
+  --active-file-bg-color: hsl(217, 17%, 13%);
+  --active-file-text-color: inherit;
+  --active-file-border-color: #3884ff;
+  --item-hover-text-color: #8092af;
+  --item-hover-bg-color: #1c2026;
+  --window-border: 1px solid #272c35;
+  --select-text-font-color: #e6e7eb;
+  --select-text-bg-color: #1968e6;
+
+  --md-char-color: #8092af;
+  --heading-char-color: #8092af;
+  --meta-content-color: #3783ff;
+
+  --borders: #272c35;
+  --table-border-color: #272c35;
+  --boxes: #1c2027;
+  --boxes-darker: #353b46;
+  --boxes-darker2: #3e4551;
+  --boxes-darkest: #4f5764;
+  --drag-placeholder-color: #3e4551;
+
+  --text-color: #e6e7eb;
+  --heading-text-color: white;
+  --light-text-color: #8a92a3;
+  --light-text-color-brighter: #9aa2b1;
+  --codeboxes: #183055;
+  --codeboxes-lighter: #1c375f;
+  --rawblock-edit-panel-bd: transparent;
+
+  --primary-color-darkest: #001f50;
+  --primary-color-darker2: #00307c;
+  --primary-color-darker: #1968e6;
+  --focus-ring-color: #3783ff;
+
+  --danger-color: rgb(255, 70, 66);
+
+  --node-fill: #5252ad;
+  --node-border: #3f3fb8;
+  --cluster-fill: #ffffde;
+  --cluster-border: #aaaa33;
+  --note-fill: #fff5ad;
+  --note-border: #aaaa33;
+
+  /*****************************/
+
+  --font-family: 'Roboto', sans-serif;
+  --code-font-family: 'Source Code Pro';
+  --monospace: 'Source Code Pro';
+}@import '';
+@import '';
+
+/*by 16soundsofsilence, yes this code is an absolute mess*/
+
+html,
+.form-control,
+.modal {
+  font-size: 16px;
+}
+
+body {
+  background: var(--bg-color);
+  font-family: var(--font-family);
+  font-weight: 400;
+  color: white;
+  line-height: 1.6rem;
+  height: 100%;
+}
+
+#write {
+  font-size: 0.95rem;
+  max-width: 850px;
+  margin: 0 auto;
+  margin-top: 1rem;
+  padding: 30px;
+  padding-bottom: 100px;
+  position: static;
+  width: 100%;
+}
+
+#write > ul:first-child,
+#write > ol:first-child {
+  margin-top: 30px;
+}
+
+a {
+  color: var(--primary-color);
+  text-decoration: none !important;
+  transition-duration: 0.2s;
+  transition-property: color;
+}
+
+a:hover {
+  color: var(--primary-color-darker);
+}
+
+mark a,
+mark .md-content.md-url {
+  color: var(--primary-color-darker2);
+}
+
+mark a:hover {
+  color: var(--primary-color-darkest);
+}
+
+.ty-preferences a {
+  color: var(--primary-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  position: relative;
+  color: var(--heading-text-color);
+  cursor: text;
+}
+
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+  text-decoration: none;
+}
+
+h1 tt,
+h1 code {
+  font-size: inherit;
+}
+
+h2 tt,
+h2 code {
+  font-size: inherit;
+}
+
+h3 tt,
+h3 code {
+  font-size: inherit;
+}
+
+h4 tt,
+h4 code {
+  font-size: inherit;
+}
+
+h5 tt,
+h5 code {
+  font-size: inherit;
+}
+
+h6 tt,
+h6 code {
+  font-size: inherit;
+}
+
+h1 {
+  font-size: 2.2rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-top: 3rem;
+  margin-bottom: 0.5rem;
+  padding-bottom: 0.2rem;
+  border-bottom: solid 1px var(--borders);
+}
+
+h2 {
+  font-size: 1.7rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-top: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+h3 {
+  font-size: 1.375rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h4 {
+  font-size: 1.15rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h5 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.5;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h6 {
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.5;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+#write > h1.md-focus:before,
+#write > h2.md-focus:before,
+#write > h3.md-focus:before,
+#write > h4.md-focus:before,
+#write > h5.md-focus:before,
+#write > h6.md-focus:before {
+  color: var(--light-text-color);
+  border: none;
+  position: absolute;
+  font-size: 0.9rem;
+  font-weight: 500;
+  padding: 0px;
+  line-height: 1;
+}
+
+#write > h1.md-focus:before {
+  content: 'h1';
+  top: 1.15rem;
+  left: -1.75rem;
+}
+
+#write > h2.md-focus:before {
+  content: 'h2';
+  top: 0.75rem;
+  left: -1.75rem;
+}
+
+#write > h3.md-focus:before {
+  content: 'h3';
+  top: 0.575rem;
+  left: -1.75rem;
+}
+
+#write > h4.md-focus:before {
+  content: 'h4';
+  top: 0.4rem;
+  left: -1.75rem;
+}
+
+#write > h5.md-focus:before {
+  content: 'h5';
+  top: 0.25rem;
+  left: -1.75rem;
+}
+
+#write > h6.md-focus:before {
+  content: 'h6';
+  top: 0.25rem;
+  left: -1.75rem;
+}
+
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child,
+blockquote h1,
+blockquote h2,
+blockquote h3,
+blockquote h4,
+blockquote h5,
+blockquote h6 {
+  margin-top: 0rem;
+}
+
+p,
+blockquote,
+ul,
+ol,
+dl {
+  margin: 0.5rem 0rem 1.5rem 0rem;
+}
+
+li > ol,
+li > ul {
+  margin: 0 0;
+}
+
+hr {
+  height: 1px;
+  padding: 0;
+  margin: 16px 0;
+  background-color: var(--borders);
+  border: 0 none;
+  overflow: hidden;
+  box-sizing: content-box;
+}
+
+li p.first {
+  display: inline-block;
+}
+
+ul,
+ol {
+  padding-left: 30px;
+}
+
+ul:first-child,
+ol:first-child {
+  margin-top: 0;
+}
+
+ul:last-child,
+ol:last-child {
+  margin-bottom: 0;
+}
+
+.md-blockmeta {
+  color: var(--md-char-color);
+}
+
+mark {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.2rem;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+/*BLOCKQUOTE*/
+
+blockquote {
+  width: 100%;
+  background-color: var(--boxes);
+  border-left: 4px solid var(--primary-color);
+  border-radius: 0.3em;
+  padding: 1rem;
+}
+
+blockquote blockquote {
+  padding-right: 0;
+}
+
+table {
+  font-size: 0.875rem;
+  padding: 0;
+  margin: 1.5rem 0;
+  word-break: initial;
+}
+
+/*TABLE*/
+
+table tr {
+  border-top: 1px solid var(--borders);
+  border-bottom: 1px solid var(--borders);
+  margin: 0;
+  padding: 0;
+}
+
+table tr.md-end-block {
+  border-top: none;
+}
+
+table tbody tr:last-child {
+  border-bottom: none;
+}
+
+table tr th {
+  font-weight: bold;
+  border: none;
+  border-bottom: solid 2px var(--borders);
+  margin: 0;
+  padding: 10px 16px;
+  transition-duration: 0.1s;
+  transition-property: background-color;
+}
+
+table tr td {
+  border: none;
+  margin: 0;
+  padding: 10px 16px;
+  transition-duration: 0.1s;
+  transition-property: background-color;
+}
+
+#write table tr td:hover,
+#write table tr th:hover {
+  background-color: var(--boxes);
+}
+
+table tr th:first-child,
+table tr td:first-child {
+  margin-top: 0;
+}
+
+table tr th:last-child,
+table tr td:last-child {
+  margin-bottom: 0;
+}
+
+/*OTHER TABLE THINGS*/
+
+.ty-table-edit {
+  background-color: var(--boxes);
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  box-shadow: none;
+  transform: translateY(2.5rem);
+  transition-duration: 0.3s;
+  transition-property: opacity;
+}
+
+.ty-table-edit + .md-table {
+  margin-top: 3rem;
+}
+
+.ty-table-edit:active,
+.ty-table-edit:focus {
+  box-shadow: none;
+}
+
+.popover,
+.popover:active,
+.popover:focus {
+  border: solid 1px var(--borders);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+  border-radius: 0.3rem;
+}
+
+.popover .arrow {
+  border-bottom-color: var(--borders);
+}
+
+.md-grid-board a {
+  background-color: transparent;
+  border-color: var(--borders);
+  border-radius: 2px;
+}
+
+.md-grid-board .md-grid-ext {
+  background-color: var(--borders);
+  border-radius: 2px;
+}
+
+.md-grid-board tr[row='1'] .md-grid-ext {
+  background: none;
+  border-radius: 6px;
+}
+
+.md-grid-board tr[row='1'] .md-grid-ext a {
+  background-color: var(--boxes-darker2);
+  border-color: var(--boxes-darker2);
+}
+
+.md-grid-board tr[row='1'] td {
+  background-color: var(--bg-color);
+  border-color: var(--borders);
+}
+
+.md-grid-board a.md-active,
+.md-grid-board a:hover {
+  background-color: var(--primary-color);
+  border-color: var(--primary-color);
+}
+
+.md-grid-board tr[row='1'] a.md-active,
+.md-grid-board tr[row='1'] a:hover {
+  background-color: var(--primary-color-darker);
+  border-color: var(--primary-color-darker);
+}
+
+#md-grid-width,
+#md-grid-height {
+  border-radius: 0.3rem;
+  border-color: var(--borders);
+  transition-duration: 0.3s;
+  transition-property: border-color;
+}
+
+#md-grid-width:focus,
+#md-grid-height:focus {
+  border-radius: 0.3rem;
+  border-color: var(--primary-color);
+}
+
+/*CODE*/
+
+.CodeMirror {
+  padding: 1rem;
+  font-family: 'Source Code Pro', monospace;
+}
+
+.cm-s-inner .CodeMirror-gutters {
+  background-color: none;
+  border-right: none;
+  border-radius: 0px;
+  width: 2rem;
+  color: white;
+  height: 100%;
+  white-space: nowrap;
+}
+
+.cm-s-inner .CodeMirror-gutter-wrapper {
+  left: -2.75rem !important;
+}
+
+.CodeMirror.cm-s-typora-default div.CodeMirror-cursor {
+  border-left: solid 2px var(--light-text-color-brighter);
+}
+
+.CodeMirror.cm-s-typora-default .CodeMirror-activeline-background {
+  background-color: var(--codeboxes-lighter);
+}
+
+.cm-s-inner .CodeMirror-cursor {
+  color: white;
+  border-left: solid 1px white;
+}
+
+.CodeMirror-linenumber {
+  color: white;
+  opacity: 0.6;
+  width: 1.9532rem !important /*required*/;
+}
+
+.cm-s-inner .CodeMirror-line::selection,
+.cm-s-inner .CodeMirror-line::-moz-selection,
+.cm-s-inner .CodeMirror-line > span::selection,
+.cm-s-inner .CodeMirror-line > span::-moz-selection,
+.cm-s-inner .CodeMirror-line > span > span::selection,
+.cm-s-inner .CodeMirror-line > span > span::-moz-selection {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.cm-error {
+  color: var(--danger-color);
+}
+
+.cm-s-inner span.cm-comment,
+.cm-s-typora-default span.cm-comment,
+.cm-s-typora-default span.cm-code {
+  color: #9daab6;
+}
+
+.cm-s-inner span.cm-string,
+.cm-s-inner span.cm-string-2 {
+  color: #71a7ff;
+}
+
+.cm-s-inner span.cm-number {
+  color: #ff9d3d;
+}
+
+.cm-s-inner span.cm-variable,
+.cm-s-inner span.cm-variable-2 {
+  color: white;
+}
+
+.cm-s-inner span.cm-def {
+  color: white;
+}
+
+.cm-s-inner span.cm-operator {
+  color: #ff9d3d;
+}
+
+.cm-s-inner span.cm-keyword {
+  color: #61e3a5;
+}
+
+.cm-s-inner span.cm-atom {
+  color: #bd93f9;
+}
+
+.cm-s-inner span.cm-meta {
+  color: #f8f8f2;
+}
+
+.cm-s-inner span.cm-link,
+.cm-s-typora-default .cm-link {
+  color: var(--primary-color);
+}
+
+.cm-s-inner span.cm-tag,
+.cm-s-inner .cm-header {
+  color: #b4f6d6;
+}
+
+.cm-s-inner span.cm-attribute {
+  color: #ff9d3d;
+}
+
+.cm-s-inner span.cm-qualifier,
+.cm-s-inner span.cm-type,
+.cm-s-inner span.cm-variable-3 {
+  color: #82ee9d;
+}
+
+.cm-s-inner span.cm-property {
+  color: #ffd6ad;
+}
+
+.cm-s-inner span.cm-builtin {
+  color: #8ffaaa;
+}
+
+.md-fences.md-focus .cm-s-inner .CodeMirror-activeline-background {
+  background: none;
+}
+
+.cm-s-inner .CodeMirror-selected,
+.cm-s-inner .CodeMirror-selectedtext {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+
+.cm-s-typora-default .cm-header,
+.cm-s-typora-default .cm-property {
+  color: white;
+  font-weight: 400;
+}
+
+.md-fences .code-tooltip {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+  border: solid 1px var(--borders);
+  border-radius: 0.3rem;
+  background-color: var(--bg-color);
+  color: var(--text-color);
+  width: 15rem;
+  height: 2.5rem;
+  bottom: -3rem;
+  padding: 0.1875rem;
+}
+
+.md-fences .code-tooltip .ty-input {
+  border: solid 1px var(--borders);
+  height: 2rem;
+  line-height: 2rem;
+  margin: 0rem;
+  padding-left: 0.5rem !important;
+  text-align: left;
+  display: block;
+  font-size: 0.8rem;
+  font-weight: 600;
+  font-family: var(--font-family);
+  transition-duration: 0.3s;
+  transition-property: border;
+}
+
+.md-fences .code-tooltip .ty-input:focus {
+  border-color: var(--primary-color);
+}
+
+.html-for-mac .ty-cm-lang-input:empty:after {
+  left: 0.5rem;
+}
+
+.autoComplt-list li,
+.fences-auto-suggest li {
+  font-weight: 500;
+  transition-duration: 0.3s;
+  transition-property: background-color, color;
+}
+
+.autoComplt-list li.active,
+.fences-auto-suggest li:hover {
+  background-color: var(--boxes);
+  color: var(--primary-color);
+}
+
+.md-fences,
+tt {
+  border-radius: 0.3rem;
+  color: #ffffff;
+  padding: 1.5rem;
+  font-size: 0.8rem;
+}
+
+code {
+  padding: 0.2rem 0.4rem;
+  background-color: var(--borders);
+  font-size: 0.9rem;
+  border-radius: 0.2rem;
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+
+.md-fences .CodeMirror div.CodeMirror-cursor,
+.md-htmlblock-panel .CodeMirror div.CodeMirror-cursor,
+#typora-source div.CodeMirror-cursor {
+  border-left: solid 1px white;
+}
+
+.md-fences {
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+  padding-top: 8px;
+  padding-bottom: 6px;
+  background-color: var(--codeboxes);
+}
+
+#typora-source {
+  background-color: var(--codeboxes);
+  color: white;
+  font-size: 0.9rem;
+}
+
+/*DIAGRAMS*/
+
+.md-diagram-panel {
+  color: var(--text-color);
+  border: solid 1px var(--borders);
+  border-radius: 0.3rem;
+}
+
+.md-diagram-panel text,
+.md-diagram-panel .label {
+  color: var(--text-color);
+}
+
+.md-diagram-panel text {
+  fill: var(--text-color) !important /*required*/;
+}
+
+.md-diagram-panel-error {
+  color: var(--danger-color);
+}
+/*CHECKBOXES*/
+
+.md-task-list-item > input:before,
+input[type='checkbox']:before {
+  border-radius: 0.2rem;
+  margin-top: -0.08rem;
+  margin-left: -0.1rem;
+  width: 1rem;
+  height: 1rem;
+  background-color: var(--borders);
+  content: ' ';
+  display: block;
+  transition-duration: 0.3s;
+  transition-property: background-color;
+}
+
+.md-task-list-item:hover > input:before,
+input[type='checkbox']:hover:before {
+  background-color: var(--boxes-darker);
+}
+
+.md-task-list-item > input:checked:before,
+.md-task-list-item > input[checked]:before,
+input[type='checkbox']:checked:before {
+  background-color: var(--primary-color);
+}
+
+.md-task-list-item:hover > input:checked:before,
+.md-task-list-item:hover > input[checked]:before,
+input[type='checkbox']:hover:checked:before {
+  background-color: var(--primary-color-darker);
+}
+
+.md-task-list-item > input:after,
+.md-task-list-item > input:after,
+input[type='checkbox']:after {
+  transform: rotate(-45deg);
+  position: absolute;
+  border: 2px solid white;
+  border-top: 0;
+  border-right: 0;
+  top: 0.16rem;
+  left: 0.1rem;
+  width: 0.6rem;
+  height: 0.375rem;
+  content: ' ';
+  opacity: 0;
+  transition-duration: 0.3s;
+  transition-property: opacity;
+}
+
+.md-task-list-item > input:checked:after,
+.md-task-list-item > input[checked]:after,
+input[type='checkbox']:checked:after {
+  opacity: 1;
+}
+
+.ty-preferences input[type='checkbox']:before {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+.ty-preferences input[type='checkbox']:after {
+  width: 0.5rem;
+  height: 0.32rem;
+  top: 0.19rem;
+  left: 0.14rem;
+}
+
+@media print {
+  html {
+    font-size: 13px;
+  }
+
+  table,
+  pre {
+    page-break-inside: avoid;
+  }
+
+  pre {
+    word-wrap: break-word;
+  }
+}
+
+#write pre.md-meta-block {
+  padding: 1rem;
+  line-height: 1.45;
+  background-color: var(--boxes);
+  border: 0;
+  border-radius: 0.3rem;
+  color: var(--text-color);
+  border-left: solid 4px var(--boxes-darkest);
+}
+
+#write pre.md-meta-block:empty:before {
+  color: var(--light-text-color);
+}
+
+.md-image > .md-meta {
+  border-radius: 3px;
+  padding: 2px 0px 0px 4px;
+  font-size: 0.9em;
+  color: inherit;
+}
+
+.md-tag {
+  color: var(--md-char-color);
+  opacity: 1;
+}
+
+/*TOC*/
+
+.md-toc {
+  margin: 1.5rem 0rem;
+}
+
+.md-toc:focus .md-toc-content {
+  border: none;
+}
+
+#write div.md-toc-tooltip {
+  background-color: var(--boxes);
+  line-height: 1.6rem;
+  padding: 0.3rem 0.75rem;
+  border-top: none;
+  border-radius: 0.3rem;
+}
+
+.md-toc.md-focus {
+  margin-top: 4.5rem;
+}
+
+#write div.md-toc-tooltip + .md-toc-content {
+  padding-top: 1rem;
+}
+
+.md-delete-toc {
+  padding: 0px;
+}
+
+/*MATH*/
+
+.md-rawblock-container {
+  padding: 1rem;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  transition-duration: 0.2s;
+}
+
+.md-rawblock:hover .md-rawblock-container {
+  background-color: var(--boxes);
+}
+
+.md-rawblock:active .md-rawblock-container {
+  background-color: var(--boxes-darker);
+}
+
+.MathJax_SVG:focus {
+  outline: none;
+}
+
+.md-rawblock-panel,
+.md-rawblock-control:not(.md-rawblock-tooltip) {
+  border-radius: 0.3rem;
+  background-color: var(--boxes);
+}
+
+.md-rawblock-panel .code-tooltip {
+  box-shadow: none;
+  border-bottom-left-radius: 0.3rem;
+  border-bottom-right-radius: 0.3rem;
+}
+
+.md-rawblock-panel .CodeMirror-linenumber {
+  color: var(--light-text-color);
+  opacity: 1;
+}
+
+.md-rawblock-panel .CodeMirror div.CodeMirror-cursor {
+  border-left: solid 1px var(--text-color);
+}
+
+.md-mathblock-panel .md-mathjax-preview,
+.mathjax-candidate {
+  border-top: solid 1px var(--borders);
+}
+
+.md-rawblock-after,
+.md-rawblock-before {
+  cursor: default;
+  color: var(--light-text-color);
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.md-rawblock-tooltip-name {
+  font-size: 13px;
+  color: var(--light-text-color);
+  opacity: 1;
+}
+
+.md-rawblock-on-edit > .md-rawblock-tooltip {
+  padding-right: 0px;
+}
+
+.md-rawblock-input span.cm-tag {
+  color: #0bb6ad;
+}
+
+.md-rawblock-input span.cm-atom,
+.md-inline-math script {
+  color: #b61ed4;
+}
+
+.md-rawblock-input span.cm-number {
+  color: #ec7200;
+}
+
+.md-rawblock-input span.cm-keyword {
+  color: #156db6;
+}
+
+.md-mathblock-input span.cm-bracket {
+  color: var(--light-text-color);
+}
+
+.code-tooltip.md-hover-tip {
+  border-radius: 0.3rem;
+  background-color: var(--bg-color);
+  box-shadow: (0, 0, 0, 0.2) 0px 3px 8px 0px;
+  color: var(--text-color);
+  opacity: 1;
+}
+
+#math-inline-preview.code-tooltip .code-tooltip-content {
+  border: solid 1px var(--borders);
+}
+
+#math-inline-preview.code-tooltip .md-arrow:after {
+  background-color: var(--bg-color);
+  border: solid 1px var(--borders);
+  box-shadow: none;
+}
+
+/*FOOTER*/
+
+.footer-item {
+  opacity: 1 !important;
+  color: var(--light-text-color);
+  transition: 0.3s;
+  background: none !important;
+}
+
+.footer-item:hover {
+  color: var(--light-text-color-brighter) !important;
+}
+
+#outline-btn:hover {
+  color: var(--light-text-color-brighter) !important;
+}
+
+/*SIDEBAR*/
+
+#typora-sidebar {
+  border-right: solid 1px var(--borders);
+}
+
+.info-panel-tab {
+  opacity: 1;
+}
+
+.sidebar-tab {
+  text-transform: capitalize;
+  color: var(--light-text-color);
+}
+
+.info-panel-tab-border {
+  color: var(--primary-color);
+  border-radius: 2px;
+}
+
+#ty-sidebar-search-back-btn {
+  margin: auto;
+}
+
+.ty-show-outline-filter #file-library-search,
+.ty-show-search #file-library-search {
+  height: 4rem;
+}
+
+#file-library-search-input {
+  height: 2rem;
+}
+
+#file-library-search-panel input {
+  margin-top: 8px !important;
+}
+
+.ty-sidebar-search-panel .searchpanel-search-option-btn,
+#ty-sidebar-search-tabs .searchpanel-search-option-btn {
+  top: 15px;
+}
+
+#typora-sidebar #filesearch-case-ion-btn,
+#typora-sidebar #filesearch-word-ion-btn {
+  background: none;
+  margin-top: 0.45rem;
+  transition-duration: 0.2s;
+  transition-property: background-color;
+}
+
+#typora-sidebar #filesearch-case-ion-btn:hover,
+#typora-sidebar #filesearch-word-ion-btn:hover {
+  color: var(--primary-color);
+}
+
+/*sidebar loading*/
+
+#typora-sidebar #sidebar-loading-template {
+  padding: 0px;
+}
+
+#typora-sidebar #sidebar-loading-template .typora-search-spinner {
+  opacity: 1;
+  color: var(--light-text-color-darker);
+}
+
+#typora-sidebar #sidebar-loading-template .typora-quick-open-info {
+  color: var(--light-text-color-darker);
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+
+/*sidebar outline*/
+
+#close-outline-filter-btn {
+  top: 15px;
+  opacity: 1;
+  color: var(--light-text-color) !important;
+}
+
+#close-outline-filter-btn:hover {
+  color: var(--primary-color) !important;
+  background-color: transparent !important;
+}
+
+#close-outline-filter-btn:active {
+  background-color: transparent !important;
+}
+
+#outline-content {
+  padding-right: 0px;
+  line-height: 1rem;
+}
+
+.outline-item {
+  display: flex;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
+.outline-item .outline-label {
+  display: block;
+  width: 100%;
+  padding-top: 0.4rem;
+  padding-bottom: 0.4rem;
+  border-right: solid 2px transparent;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: var(--light-text-color-darker);
+  transition-duration: 0.3s;
+  transition-property: color;
+}
+
+.outline-item:hover {
+  background: none;
+}
+
+.outline-item:hover .outline-label {
+  color: var(--primary-color);
+}
+
+.outline-label:hover {
+  text-decoration: none;
+}
+
+.outline-active.outline-label {
+  border-right: solid 2px var(--primary-color);
+  font-weight: 500;
+  color: var(--primary-color);
+}
+
+.outline-expander {
+  padding-top: 0.4rem;
+  padding-right: 0.5rem;
+}
+
+#toc-dropmenu .outline-label {
+  line-height: 1rem;
+}
+
+#toc .outline-title {
+  margin-top: 9px;
+  font-size: 1rem;
+  font-weight: 500;
+  user-select: none;
+}
+
+#pin-outline-btn {
+  padding: 14px 18px 0px 0px;
+}
+
+/*sidebar file-list and search results*/
+
+#file-library-list[data-state='complete'] #sidebar-loading-template {
+  padding: 0rem;
+}
+
+#typora-sidebar .file-list-item,
+.ty-search-item {
+  border: none;
+  transition-duration: 0.3s !important;
+  transition-property: background-color, border, color !important;
+  padding: 1rem;
+}
+
+#typora-sidebar .file-list-item:hover,
+.ty-search-item:hover {
+  background: var(--borders);
+}
+
+#typora-sidebar .ty-search-item-line {
+  font-family: var(--font-family);
+  font-size: 0.8rem;
+  font-weight: 400;
+  padding: 0.3rem;
+  border-radius: 0.3rem;
+  margin-left: 24px;
+  transition-duration: 0.2s;
+}
+
+#typora-sidebar .ty-search-item-line * {
+  opacity: 1;
+}
+
+#typora-sidebar .ty-search-item .ty-search-item-line:hover,
+#typora-sidebar .ty-search-item-line.active {
+  background-color: transparent;
+  color: var(--primary-color);
+}
+
+#typora-sidebar .file-list-item-file-name {
+  font-weight: 800;
+  font-size: 0.9rem;
+  margin-bottom: 0rem;
+  line-height: 1.8rem;
+  float: right;
+}
+
+#typora-sidebar .file-list-item-file-ext-part {
+  font-weight: 800;
+  opacity: 0.7;
+}
+
+#typora-sidebar .file-list-item-parent-loc,
+#typora-sidebar .file-list-item-time {
+  font-family: var(--font-family);
+  font-weight: 400;
+  opacity: 0.7;
+  display: block;
+}
+
+#typora-sidebar .file-list-item-summary {
+  float: left;
+  font-size: 0.8rem;
+  opacity: 1;
+}
+
+#typora-sidebar input.file-list-item-file-name {
+  margin: 0.5rem 0rem 0.5rem 0.7rem;
+  padding: 0.4rem !important;
+  line-height: 1rem;
+  float: right;
+  border-radius: 0.3rem;
+  font-weight: 500;
+  background-color: var(--boxes) !important;
+}
+
+#typora-sidebar .file-list-item-count {
+  font-size: 0.75rem;
+  background-color: var(--primary-color);
+  color: white;
+  border-radius: 0.2rem;
+  min-width: 1.25rem;
+  height: 1.25rem;
+  text-align: center;
+  line-height: 1.25rem;
+  position: relative;
+  top: 0.3rem;
+}
+
+#typora-sidebar .file-list-item.file-library-file-node {
+  border: none;
+}
+
+#typora-sidebar .file-tree-node.active .file-node-background,
+#typora-sidebar .file-list-item.active,
+#typora-sidebar .ty-search-item.active {
+  background-color: var(--borders);
+  outline: 1px solid var(--boxes-darker);
+  border: none;
+  color: var(--primary-color) !important;
+}
+
+#typora-sidebar .file-tree-node.active .file-node-content {
+  color: var(--primary-color) !important;
+}
+
+#typora-sidebar .file-tree-node {
+  padding: 0rem;
+  font-weight: 500;
+  font-size: 0.9rem;
+  margin-left: 0.8rem;
+}
+
+#typora-sidebar .file-tree-node .file-node-content {
+  padding: 0rem;
+  line-height: 2.2rem;
+  height: 2.2rem;
+  background: none;
+  margin-bottom: 0px;
+}
+
+#typora-sidebar .file-tree-node .file-node-background {
+  padding: 0rem;
+  height: 2.2rem;
+}
+
+#typora-sidebar .file-tree-node .file-node-icon {
+  margin-right: 0.5rem;
+}
+
+#typora-sidebar .file-tree-node .file-node-icon.fa-file-text-o {
+  margin-top: 0.33rem;
+}
+
+#typora-sidebar .file-tree-node .file-node-icon.fa-folder {
+  margin-top: 0.36rem;
+}
+
+#typora-sidebar .file-tree-node .fa-caret-down,
+#typora-sidebar .file-tree-node .fa-caret-right {
+  position: relative;
+  top: 5px;
+}
+
+#typora-sidebar .file-tree-node .file-tree-rename-input {
+  height: 2.2rem;
+  background: none;
+  border: none;
+  font-size: 0.9rem;
+  font-weight: 500;
+  margin: 0rem;
+  padding-left: 0rem;
+}
+
+/*no left border*/
+#typora-sidebar .file-tree-node.active > .file-node-background {
+  border: none;
+}
+
+/*no dotted highlighting*/
+.file-library-node:not(.file-node-root):focus > .file-node-content {
+  outline: none;
+}
+
+#typora-sidebar #sidebar-files-menu {
+  border: solid 1px var(--borders);
+  border-radius: 0.3rem;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+}
+
+#typora-sidebar #ty-sidebar-footer {
+  border-top: solid 1px var(--borders);
+  background-color: var(--bg-color);
+  font-weight: 500;
+}
+
+#typora-sidebar #ty-sidebar-footer li {
+  transition-duration: 0.2s;
+  transition-property: background-color, color;
+}
+
+#typora-sidebar
+  #ty-sidebar-footer
+  li:not(.file-sort-item):not(:first-child):not(.empty-menu-group):not(.folder-menu-group):hover {
+  color: var(--primary-color);
+  background-color: var(--boxes);
+}
+
+#typora-sidebar #ty-sidebar-footer .file-action-item.file-sort-item > span:first-of-type {
+  line-height: 2rem;
+}
+
+#typora-sidebar .ty-search-item-collapse-icon {
+  top: 9px;
+}
+
+/*cursor*/
+.file-node-content:hover {
+  cursor: pointer;
+}
+
+.file-tree-node:not(.file-node-root):not(.file-node-expanded) .file-node-background {
+  transition-duration: 0.2s;
+  transition-property: background-color;
+}
+
+.file-tree-node:not(.file-node-root):not(.file-node-expanded):hover .file-node-background {
+  background-color: var(--borders);
+}
+
+/*sidebar footer*/
+#typora-sidebar .sidebar-footer-item {
+  transition-duration: 0.2s;
+  transition-property: background-color, color;
+  font-weight: 700;
+}
+
+#typora-sidebar .sidebar-footer-item:hover {
+  color: var(--primary-color);
+  background-color: var(--boxes);
+}
+
+#typora-quick-open {
+  background-color: var(--bg-color);
+  border: 1px solid var(--borders);
+  border-radius: 0.3rem;
+  padding: 0rem;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 16px 0px;
+  overflow: hidden;
+}
+
+#typora-quick-open-input {
+  margin-right: 20px;
+}
+
+#typora-quick-open-input .input {
+  box-shadow: none;
+  border: none;
+  margin: 0.5rem;
+  margin-left: 0.8rem;
+}
+
+.typora-quick-open-item {
+  background-color: var(--bg-color);
+  border: none;
+  font-weight: 500;
+  transition-duration: 0.2s;
+  transition-property: background-color;
+}
+
+.typora-quick-open-item:hover {
+  background-color: var(--boxes);
+  color: var(--primary-color);
+}
+
+.typora-quick-open-item.active {
+  background-color: var(--boxes);
+  border: none;
+}
+
+.typora-quick-open-item-path {
+  opacity: 1;
+  color: var(--light-text-color);
+}
+
+.typora-quick-open-item:hover .typora-quick-open-item-path {
+  opacity: 0.7;
+  color: var(--primary-color);
+}
+
+.ty-quick-open-category-title {
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  opacity: 1;
+  color: var(--light-text-color);
+  line-height: 32px;
+  padding-top: 6px;
+  height: 32px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+  border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+.md-lang {
+  color: var(--primary-color);
+}
+
+/*NOTIFICATION*/
+
+#md-notification {
+  border-bottom: solid 1px var(--borders);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+}
+
+#md-notifcation .btn {
+  border: 0;
+}
+
+/*PREFERENCES*/
+
+.ty-preferences {
+  font-family: var(--font-family);
+}
+
+.ty-preferences .window-header {
+  justify-content: space-between;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+  border-bottom: solid 1px var(--borders);
+}
+
+.ty-preferences .window-header-content {
+  background-color: var(--bg-color);
+  margin: 0rem;
+}
+
+.ty-preferences .window-header h2 {
+  font-weight: 600;
+  font-size: 1.5rem;
+  margin: 0rem;
+  margin-left: 1rem;
+}
+
+.unibody-window .ty-preferences .window-header h2 {
+  margin-left: 1rem !important;
+}
+
+.ty-preferences .window-header-back {
+  margin-left: 1.2rem;
+}
+
+.ty-preferences .window-header-back .icon {
+  border-right: none;
+}
+
+/*preferences sidebar*/
+.ty-preferences .window-content {
+  background-color: var(--bg-color);
+}
+
+.ty-preferences .nav-group-item {
+  color: var(--text-color);
+  height: 2.5rem;
+  line-height: 2.6rem;
+  font-weight: 500;
+  padding: 0px 0px 0px 2rem;
+  font-size: 1rem;
+  transition-duration: 0.2s;
+  transition-property: background-color;
+}
+
+.ty-preferences .nav-group-item:hover {
+  background-color: var(--borders);
+  border-radius: 0px;
+}
+
+.ty-preferences .nav-group-item.active {
+  border-radius: 0rem;
+  border: none;
+  outline: 1px solid var(--borders);
+  background-color: var(--bg-color);
+  color: var(--primary-color);
+}
+
+.ty-preferences .pane-sm {
+  background: var(--boxes);
+  flex-basis: 240px;
+  flex-grow: 0;
+  justify-content: center;
+  border-right: 1px solid var(--borders);
+  margin: 0rem;
+  padding: 0rem;
+}
+
+.ty-preferences .pane-sm .list-group {
+  width: 100%;
+  max-width: 30rem;
+}
+
+.ty-preferences .list-group-header {
+  display: flex;
+  justify-content: space-around;
+}
+
+.ty-preferences .list-group-header div {
+  width: 100%;
+  margin-right: 18px;
+  margin-left: 18px;
+}
+
+.ty-preferences .pane-sm .search-input {
+  margin: 0rem !important;
+  width: 100%;
+  font-size: 1rem !important;
+  height: 2.75rem;
+}
+
+.ty-preferences .pane-sm .search-input:active,
+.ty-preferences .pane-sm .search-input:focus {
+  border: solid 1px var(--primary-color) !important;
+  outline: none;
+}
+
+/*preferences main*/
+.ty-preferences .panel-header {
+  font-weight: 600;
+  font-size: 1.6rem;
+}
+
+/*preferences stuff*/
+.ty-preferences .dropdown-menu > li,
+.dropdown-item {
+  font-weight: 500;
+  font-size: 1rem;
+  transition-duration: 0.2s;
+  transition-property: all;
+}
+
+.ty-preferences .dropdown-menu .active,
+.ty-preferences .dropdown-menu li:hover,
+.dropdown-item:hover {
+  background-color: var(--boxes);
+  color: var(--primary-color);
+}
+
+#ty-spell-check-dict-missing-secondary-btn:hover {
+  color: var(--primary-color) !important;
+}
+
+.header-close .icon {
+  border: none !important;
+}
+
+/*preferences export*/
+
+.export-detail {
+  background-color: transparent !important /*required*/;
+}
+
+.export-items-list .separator {
+  margin: 0.4rem;
+  border-top: 1px solid var(--borders);
+}
+
+.export-items-list-control {
+  background-color: var(--boxes) !important /*required*/;
+}
+
+.export-item {
+  padding: 0.4rem !important /*required*/;
+  color: var(--light-text-color-darker);
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.export-item.active {
+  background-color: transparent !important /*required*/;
+  color: var(--primary-color);
+  font-weight: 500 !important /*required*/;
+}
+
+/*DROPDOWN*/
+
+.dropdown-menu:not(.megamenu-menu-list),
+.auto-suggest-container {
+  background-color: var(--bg-color);
+  border: solid 1px var(--borders) !important;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+  user-select: none;
+}
+
+.dropdown-menu > li > a,
+.auto-suggest-container li {
+  font-weight: 500;
+  font-size: 0.8rem;
+  transition-duration: 0.2s;
+  transition-property: all;
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > li > a:hover,
+.menu-style-btn.active,
+.auto-suggest-container li:hover,
+.auto-suggest-container li.active,
+.context-menu.dropdown-menu > .active > a,
+.context-menu.dropdown-menu > li > a:hover {
+  color: var(--primary-color);
+  background-color: var(--boxes);
+}
+
+.menu-style-btn {
+  color: var(--text-color);
+  border: none;
+  transition-duration: 0.2s;
+  transition-property: all;
+}
+
+.menu-style-btn:hover {
+  color: var(--primary-color);
+  background-color: var(--boxes);
+  border: none;
+}
+
+header .menu-style-btn:hover {
+  background-color: transparent;
+}
+
+.menu-item-container {
+  padding: 0 12px 0 4px;
+}
+
+.menu-item-container a.menu-style-btn {
+  padding: 0.3rem 0.6rem;
+  margin: 0;
+}
+
+.dropdown-menu .divider {
+  border-color: var(--borders);
+  opacity: 1;
+}
+
+/*BUTTON*/
+
+.btn,
+button,
+.md-image-btn {
+  border: none !important;
+  border-radius: 0.3rem !important;
+  color: var(--text-color) !important;
+  transition-duration: 0.2s;
+  transition-property: all;
+  font-size: 0.9rem !important;
+  font-weight: 500;
+  outline: none;
+}
+
+.btn-default,
+.md-image-btn {
+  border: none !important;
+  border-radius: 0.3rem !important;
+  background-color: var(--boxes) !important;
+}
+
+.btn:hover,
+.button-hover,
+.md-image-btn:hover {
+  border: none;
+  border-radius: 0.3rem;
+  background-color: var(--borders) !important;
+  color: var(--text-color);
+}
+
+button:active,
+button.active,
+.btn:active,
+.btn-default:active,
+.md-image-btn:active {
+  border: none;
+  border-radius: 0.3rem;
+  background-color: var(--boxes-darker) !important;
+  box-shadow: none;
+  outline: none;
+  color: var(--text-color);
+}
+
+.btn:focus,
+.md-image-btn:focus {
+  border: none !important;
+  outline: none !important;
+  background-color: var(--boxes-darker);
+}
+
+.btn-primary {
+  border: none;
+  border-radius: 0.3rem;
+  background-color: var(--primary-color);
+  color: white !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+  color: white;
+  background-color: var(--primary-color-darker) !important;
+}
+
+.btn.dropdown-toggle-split,
+.btn.dropdown-toggle-split:hover {
+  border-radius: 0rem 0.3rem 0.3rem 0rem;
+}
+
+#ty-spell-check-dict-missing-primary-btn {
+  border-radius: 0.3rem 0rem 0rem 0.3rem;
+}
+
+.open > .dropdown-toggle.btn-primary {
+  background-color: var(--primary-color);
+  border-color: transparent;
+}
+
+/*GHOST BUTTON*/
+
+.window-header button,
+#close-sidebar-menu-btn,
+.html-for-mac .sidebar-tab-btn,
+.label-hint,
+.ty-table-edit .btn,
+.zoom-hint-button,
+.md-rawblock-tooltip-btn,
+.md-delete-toc,
+#md-searchpanel .input-group-addon.btn,
+#pin-outline-btn,
+.icon-button {
+  background-color: transparent !important;
+  color: var(--light-text-color) !important;
+  opacity: 1 !important;
+  transition-duration: 0.2s;
+  transition-property: color;
+}
+
+.window-header button:hover,
+.window-header button:focus,
+#close-sidebar-menu-btn:hover,
+#close-sidebar-menu-btn:focus,
+.html-for-mac .sidebar-tab-btn:hover,
+.html-for-mac .sidebar-tab-btn:focus,
+.label-hint:hover,
+.label-hint:focus,
+.ty-table-edit .btn:hover,
+.ty-table-edit .btn:focus,
+.zoom-hint-button:hover,
+.zoom-hint-button:focus,
+.md-rawblock-tooltip-btn:hover,
+.md-rawblock-tooltip-btn:focus,
+.md-delete-toc:hover,
+.md-delete-toc:focus,
+#md-searchpanel .input-group-addon.btn:hover,
+#md-searchpanel .input-group-addon.btn:focus,
+#pin-outline-btn:hover,
+#pin-outline-btn:focus,
+.icon-button:hover,
+.icon-button:focus {
+  color: var(--primary-color) !important;
+  background: none !important;
+}
+
+.ty-table-edit .btn.active {
+  color: var(--primary-color) !important;
+  box-shadow: none;
+}
+
+/*IMAGE BUTTON*/
+
+.md-image-btn {
+  background-color: var(--boxes);
+  transition-duration: 0.2s;
+  transition-property: background-color;
+}
+
+.md-image-btn:before {
+  color: var(--text-color);
+  transition-duration: 0.2s;
+  transition-property: color;
+}
+
+.md-image-btn:hover {
+  background-color: var(--borders);
+}
+
+.md-image-btn:hover:before {
+  color: var(--primary-color);
+}
+
+.md-image-input-src-btn {
+  border-radius: 0.3rem 0rem 0rem 0.3rem !important;
+}
+
+.md-image-pick-file-btn {
+  border-left: none;
+  border-radius: 0rem 0.3rem 0.3rem 0rem !important;
+}
+
+/*SEARCH-INPUTS*/
+
+.search-input,
+.search,
+.form-control,
+#file-library-search-input {
+  background-color: transparent !important;
+  border-radius: 0.3rem !important;
+  border: solid 1px var(--boxes-darker) !important;
+  box-shadow: none !important;
+  color: var(---heading-text-color) !important;
+  font-size: 0.9rem !important;
+  font-weight: 400;
+  padding: 0.7rem !important;
+  height: 2rem;
+  transition-duration: 0.2s;
+  transition-property: border, box-shadow;
+}
+
+.search-input:hover,
+.search:hover,
+.form-control:hover,
+#file-library-search-input:hover {
+  border: solid 1px var(--boxes-darker2) !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.search-input:focus,
+.search:focus,
+.form-control:focus,
+#file-library-search-input:focus {
+  background-color: transparent !important;
+  border-color: var(--primary-color) !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15) !important;
+  color: var(--heading-text-color) !important;
+  font-size: 0.9rem !important;
+  padding: 0.7rem !important;
+}
+
+.clear-btn-icon {
+  top: 9px !important /*required*/;
+  right: 9px !important /*required*/;
+}
+
+.content tr.search-hit,
+.search-hit,
+.md-search-hit,
+.md-search-hit.md-search-select,
+.md-search-select,
+.ty-file-search-match-text {
+  background-color: var(--boxes-darkest);
+  color: white;
+  padding: 0.2rem 0.1rem;
+  border-radius: 0.2rem;
+}
+
+/*ZOOM HINT*/
+
+#zoom-hint {
+  border-radius: 0.3rem;
+  border: solid 1px var(--borders);
+  user-select: none;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+}
+
+#zoom-hint #zoom-hint-reset {
+  border-left: none;
+  font-weight: 600;
+}
+
+/*SEARCHPANEL*/
+
+#md-searchpanel {
+  border-bottom: 1px solid var(--borders);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+  max-height: 46px;
+}
+
+.mac-seamless-mode #md-searchpanel {
+  max-height: 70px;
+}
+
+#md-searchpanel.searchpanel-replace-mode {
+  max-height: 84px;
+}
+
+.mac-seamless-mode #md-searchpanel.searchpanel-replace-mode {
+  max-height: 108px;
+}
+
+#md-searchpanel input {
+  height: 2rem;
+  margin: 0rem !important;
+  padding: 6px 12px !important;
+  font-size: 12px !important;
+}
+
+#md-searchpanel .input-group-addon {
+  height: 2rem;
+}
+
+#md-searchpanel .input-group-addon.close-btn {
+  padding-left: 8px;
+}
+
+.unibody-window #md-searchpanel .btn {
+  line-height: 2rem;
+}
+
+.searchpanel-search-option-btn {
+  top: 9px;
+  border: none;
+  color: var(--light-text-color-brighter) !important /*required*/;
+  transition-duration: 0.3s;
+}
+
+.searchpanel-search-option-btn:hover {
+  color: var(--primary-color) !important /*required*/;
+  background-color: transparent !important /*required*/;
+}
+
+.searchpanel-search-option-btn.select,
+.searchpanel-search-option-btn.active {
+  color: white !important;
+  background-color: var(--primary-color) !important;
+}
+
+#searchpanel-case-option-btn {
+  right: 33px;
+}
+
+#searchpanel-word-option-btn {
+  right: 9px;
+}
+
+#searchpanel-word-option-btn,
+#searchpanel-case-option-btn {
+  background: none;
+}
+
+#md-searchpanel .btn:not(.close-btn):hover {
+  box-shadow: none;
+}
+
+/*SELECT*/
+/*TEXT INPUT*/
+/*NUMBER INPUT*/
+
+html select,
+html input[type='text'],
+html input[type='number'] {
+  background-color: var(--bg-color) !important;
+  border-radius: 0.3rem !important;
+  border: solid 1px var(--boxes-darker) !important;
+  box-shadow: none !important;
+  color: var(--text-color) !important;
+  font-size: 0.9rem !important;
+  font-weight: 500 !important;
+  padding: 0.3rem !important;
+  height: 2.1rem !important;
+  transition-duration: 0.2s;
+  transition-property: border;
+  cursor: text;
+}
+
+select {
+  cursor: pointer !important;
+}
+
+input[type='text'],
+input[type='number'] {
+  cursor: text;
+}
+
+html select:hover,
+html input[type='text']:hover,
+html input[type='number']:hover {
+  background-color: var(--bg-color) !important;
+  border-radius: 0.3rem !important;
+  border-color: var(--boxes-darker2) !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04) !important;
+  color: var(--text-color) !important;
+  font-size: 0.9rem !important;
+}
+
+html select:focus,
+html input[type='text']:focus,
+html input[type='number']:focus {
+  border-color: var(--primary-color) !important;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04) !important;
+}
+
+input[type='text']::placeholder,
+input[type='number']::placeholder {
+  color: var(--light-text-color-brighter) !important;
+}
+
+input[disabled],
+input[disabled]:hover,
+input[disabled]:focus {
+  cursor: not-allowed;
+}
+
+/*TEXTAREA*/
+
+textarea {
+  background-color: transparent;
+  border: solid 1px var(--boxes-darker);
+  border-radius: 0.3rem;
+  transition-duration: 0.2s;
+}
+
+textarea:hover {
+  border-color: var(--boxes-darker2);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+}
+
+textarea:focus {
+  border-color: var(--primary-color);
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+  outline: none;
+}
+
+/*MODAL*/
+
+.modal-header,
+#common-dialog .modal-header {
+  border-bottom: solid 1px var(--borders);
+  padding-bottom: 15px;
+}
+
+.modal-title {
+  font-size: 1.25rem;
+  font-weight: 500;
+  user-select: none;
+}
+
+.modal-body {
+  font-size: 0.9rem;
+  color: var(--light-text-color-brighter);
+  user-select: none;
+}
+
+.modal-content {
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 10px 0px;
+  border: solid 1px var(--boxes-darker);
+  border-radius: 0.3rem;
+}
+
+.modal-footer {
+  border-top: solid 1px var(--borders);
+}
+
+.modal-open .modal.fade.in {
+  background: none;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+}
+
+/*LANGS*/
+
+.ty-spell-check-panel-item {
+  font-weight: 500;
+  transition-duration: 0.2s;
+  transition-property: background-color, color;
+}
+
+.ty-spell-check-panel-item:hover {
+  color: var(--primary-color);
+  background-color: var(--boxes);
+}
+
+.ty-spell-check-panel-item.ty-active {
+  background-color: var(--boxes);
+}
+
+/*TOOLTIP*/
+
+.ty-tooltip {
+  color: var(--text-color) !important;
+  background-color: var(--boxes) !important;
+  border-radius: 0.3rem !important;
+  border: 1px solid var(--borders) !important;
+  -webkit-filter: none !important;
+  filter: none;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+}
+
+/*FOOTER*/
+
+footer.ty-footer {
+  border: none;
+}
+
+.footer-item:hover {
+  background-color: var(--boxes) !important;
+}
+
+#footer-word-count-info {
+  padding: 4px 0;
+}
+
+.footer-word-count-info-line {
+  padding: 0.25rem;
+  line-height: 1.6rem;
+}
+
+#footer-word-count-info tr {
+  font-weight: 500;
+  font-size: 0.8rem;
+  transition-duration: 0.2s;
+  transition-property: all;
+}
+
+#footer-word-count-info tr td:nth-child(1) {
+  padding: 0rem;
+  padding-right: 1rem;
+}
+
+#footer-word-count-info .ty-footer-word-count-all tr:hover {
+  color: var(--primary-color) !important;
+  background-color: var(--boxes) !important;
+}
+
+/*MEGAMENU*/
+
+.megamenu-menu {
+  box-shadow: none;
+  background-color: var(--boxes);
+  border-right: 1px solid var(--borders);
+}
+
+.megamenu-opened .megamenu-menu {
+  left: 0px;
+}
+
+#megamenu-content {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+}
+
+#megamenu-menu-list {
+  box-shadow: none;
+  border: none;
+  background-color: transparent;
+}
+
+#megamenu-menu-list li a {
+  color: var(--text-color);
+  height: 2rem;
+  line-height: 1.8rem;
+  transition-duration: 0.2s;
+  transition-property: background-color;
+}
+
+#megamenu-menu-list li a:hover {
+  background-color: var(--borders);
+}
+
+#megamenu-menu-list li a.active {
+  color: var(--primary-color);
+  background-color: var(--bg-color);
+  outline: solid 1px var(--borders);
+}
+
+#megamenu-menu-list .divider {
+  background-color: var(--borders);
+  margin: 16px 0 0 0;
+}
+
+.megamenu-menu-list .saved #m-saved {
+  cursor: default;
+}
+
+.megamenu-menu-list .saved #m-saved .fa {
+  color: var(--primary-color);
+}
+
+.megamenu-menu-list .saved #m-saved:hover {
+  background-color: transparent;
+}
+
+.megamenu-menu-list #m-close:hover {
+  color: var(--danger-color);
+}
+
+.megamenu-menu-header {
+  border-bottom: solid 1px var(--borders);
+  margin-bottom: 1.2rem;
+  height: 74px;
+  transition-duration: 0.3s;
+}
+
+.megamenu-menu-header:hover {
+  background-color: var(--borders);
+}
+
+.megamenu-menu-header #megamenu-menu-header-title {
+  color: var(--text-color);
+  font-weight: 700;
+  font-size: 16px;
+  left: 56px;
+  top: 24px;
+}
+
+#megamenu-back-btn {
+  color: var(--text-color);
+  font-size: 16px;
+  left: 24px;
+  top: 24px;
+}
+
+.megamenu-opened header {
+  background-color: var(--bg-color);
+  background-image: none;
+}
+
+.megamenu-content {
+  background-color: var(--bg-color);
+  background-image: none;
+}
+
+.megamenu-menu-panel:not(:first-of-type) {
+  margin-top: 2rem;
+}
+
+.megamenu-menu-panel h1 {
+  font-weight: 900;
+  font-size: 1.8rem;
+  margin: 1rem 0rem 0.4rem 0rem;
+}
+
+.megamenu-menu-panel h2 {
+  font-weight: 800;
+  font-size: 1.3rem;
+  margin: 1rem 0rem 0.4rem 0rem;
+}
+
+/*recent files*/
+
+#recent-file-panel tbody tr {
+  font-weight: 600;
+  transition-duration: 0.4s;
+}
+
+#recent-file-panel tbody tr:hover,
+.megamenu-menu-panel tbody tr:hover td:nth-child(1) {
+  color: var(--primary-color);
+}
+
+#recent-file-panel tbody tr:nth-child(2n-1) {
+  background-color: var(--boxes);
+}
+
+/*about help*/
+
+.about-content-slogon {
+  color: var(--light-text-color);
+}
+
+/*for the god himself*/
+.about-content-slogon span {
+  color: var(--primary-color) !important;
+}
+
+#about-content tbody tr {
+  font-weight: 500;
+  transition-duration: 0.4s;
+}
+
+#about-content tbody tr:hover {
+  color: var(--primary-color);
+  background-color: var(--boxes) !important /*required important*/;
+}
+
+.long-btn {
+  margin-bottom: 12px;
+  margin-left: 2px;
+  box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 6px;
+  background-color: var(--bg-color);
+  border: 1px solid var(--borders);
+  border-radius: 0.3rem;
+  padding: 1rem;
+
+  font-weight: 700;
+  font-size: 1rem;
+
+  transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+}
+
+.long-btn:hover {
+  background-color: var(--primary-color);
+  color: white !important /*important required*/;
+  border: 1px solid transparent;
+  box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 6px, rgba(56, 132, 255, 0.2) 0px 0px 10px;
+}
+
+#m-import-local:hover .preference-item-hint {
+  color: white;
+  opacity: 0.7;
+}
+
+#recent-file-panel-action-btn {
+  height: 34px;
+  border: none;
+  background-color: var(--boxes);
+}
+
+#theme-preview-grid {
+  max-width: none;
+  padding: 1.5rem;
+  background-color: var(--boxes);
+  border-radius: 0.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  grid-gap: 1.5rem;
+}
+
+.theme-preview-div {
+  border: none;
+  border-radius: 0.4rem;
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 15px;
+  margin: 0rem;
+  transition-duration: 0.3s;
+}
+
+.theme-preview-div:hover {
+  box-shadow: rgba(0, 0, 0, 0.6) 3px 8px 15px;
+  cursor: pointer;
+  transform: rotate3d(1, -0.2, 0.2, 15deg);
+}
+
+.theme-preview-content {
+  width: 100%;
+  height: 100%;
+  border-radius: 0.4rem;
+}
+
+.theme-preview-content html {
+  width: 100%;
+  height: 100%;
+}
+
+.theme-preview-div.active .fa {
+  color: var(--primary-color);
+  bottom: 4px;
+  left: 4px;
+}
+
+.theme-preview-div .fa-check-circle:before {
+  background-color: var(--bg-color);
+  padding: 0px 2px;
+  border-radius: 1rem;
+}
+
+.megamenu-menu-panel tbody tr {
+  border-radius: 0.3rem;
+  transition-duration: 0.2s;
+  transition-property: background-color;
+}
+
+.megamenu-menu-panel tbody tr:hover {
+  background-color: var(--borders) !important /*required important*/;
+}
+
+/*MIN MAX CLOSE*/
+#w-min,
+#w-max,
+#w-restore,
+#w-close {
+  border-radius: 0px !important;
+  font-size: 10px !important;
+  width: 46px !important;
+  height: 29px !important;
+}
+
+.btn.toolbar-icon svg,
+.btn.toolbar-icon .ty-icon {
+  position: relative;
+  top: 2px;
+}
+
+#w-close.btn.toolbar-icon .ty-icon {
+  left: 1px;
+}
+
+#w-close:hover {
+  background-color: var(--danger-color) !important;
+  color: white !important;
+}
+
+/*EXTRA STUFF*/
+
+a[type='page-link'] {
+  display: block;
+  background-color: var(--bg-color);
+  box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+  border: 1px solid var(--borders);
+  border-radius: 0.3rem;
+  padding: 1rem;
+
+  font-weight: 600;
+
+  transition-duration: 0.2s;
+  transition-property: border, box-shadow;
+}
+
+a[type='page-link']:hover {
+  box-shadow: rgba(0, 0, 0.2, 0.2) 0px 3px 8px 0px;
+  border: 1px solid var(--primary-color);
+}
+
+p[type='description'] {
+  color: var(--light-text-color);
+}
+
+/*kbd*/
+
+kbd {
+  font-family: var(--font-family);
+}
+
+
+
+</style><title>gtm</title>
+</head>
+<body class='typora-export os-windows monocolor-emoji'><div class='typora-export-content'>
+<div id='write'  class=''><h1 id='an-increasingly-less-brief-guide-to-mastodon'><span>An Increasingly Less-Brief Guide to </span><a href='https://joinmastodon.org'><span>Mastodon</span></a></h1><p><mark><span>Please note: I did not author this - you have Noëlle Anthony to thank for that.</span></mark></p><p style="text-align:center;"></p><h1>DON'T PANIC.</h1><p></p><p><span>I&#39;ve done my best to make this understandable, but you&#39;re welcome to suggest changes! If you have a Github account, you can submit change requests directly; otherwise, feel free to contact me </span><a href='https://elekk.xyz/@noelle'><span>on Mastodon</span></a><span> or by email at </span><code>noelle AT noelle.codes</code><span>. </span></p><h2 id='table-of-contents'><span>Table of Contents</span></h2><ul><li><a href='#what-is-mastodon'><span>What is Mastodon?</span></a></li><li><a href='#how-is-it-like-twitter'><span>How is it like Twitter?</span></a></li><li><a href='#how-is-it-like-email'><span>How is it like email?</span></a></li><li><a href='#how-is-it-not-like-either-of-those'><span>How is it not like either of those?</span></a></li><li><a href='#how-do-i-establish-my-brands-presence-on-mastodon'><span>How do I establish my brand&#39;s presence on Mastodon?</span></a></li><li><a href='#how-do-i-get-verified-on-mastodon'><span>How do I get verified on Mastodon?</span></a></li><li><a href='#okay-how-do-i-let-people-know-that-i-am-who-i-say-i-am'><span>Okay, how do I let people know that I am who I say I am?</span></a></li><li><a href='#how-do-i-pick-an-instance'><span>HOW DO I PICK AN INSTANCE?</span></a></li><li><a href='#how-do-i-mention-someone-whos-not-on-my-instance'><span>How do I mention someone who&#39;s not on my instance?</span></a></li><li><a href='#what-are-the-rules'><span>What are the rules?</span></a></li><li><a href='#what-if-i-see-someone-breaking-the-rules'><span>What if I see someone breaking the rules?</span></a></li><li><a href='#what-are-the-different-kinds-of-posts'><span>What are the different kinds of posts?</span></a></li><li><a href='#how-do-privacy-settings-work'><span>How do privacy settings work?</span></a></li><li><a href='#how-private-is-private'><span>How private is &quot;Private&quot;?</span></a></li><li><a href='#what-happens-when-someone-follows-me'><span>What happens when someone follows me?</span></a></li><li><a href='#so-if-i-lock-my-account-only-approved-people-can-see-my-posts'><span>So if I lock my account, only approved people can see my posts?</span></a></li><li><a href='#what-if-someones-following-or-interacting-with-me-and-i-dont-want-them-to'><span>What if someone&#39;s following or interacting with me and I don&#39;t want them to?</span></a></li><li><a href='#how-will-i-know-if-someones-muted-or-blocked-me'><span>How will I know if someone&#39;s muted or blocked me?</span></a></li><li><a href='#what-if-i-go-over-the-character-limit'><span>What if I go over the character limit?</span></a></li><li><a href='#what-are-hashtags'><span>What are hashtags?</span></a></li><li><a href='#what-does-cw-mean'><span>What does &quot;CW&quot; mean?</span></a></li><li><a href='#i-just-attached-a-picture-to-my-toot-whats-with-the-new-eye-icon'><span>I just attached a picture to my toot. What&#39;s with the new &#39;eye&#39; icon?</span></a></li><li><a href='#i-just-attached-a-picture-to-my-toot-how-can-i-add-a-caption-to-it'><span>I just attached a picture to my toot. How can I add a caption to it?</span></a></li><li><a href='#why-should-i-add-a-caption-to-my-picture'><span>Why should I add a caption to my picture?</span></a></li><li><a href='#how-come-my-friend-on-another-instance-can-use-this-emoji-but-i-cant'><span>How come my friend on another instance can use this emoji, but I can&#39;t?</span></a></li><li><a href='#why-cant-i-search-for-a-specific-word-or-phrase'><span>Why can&#39;t I search for a specific word or phrase?</span></a></li><li><a href='#why-cant-i-quote-someones-toot-like-a-quote-tweet'><span>Why can&#39;t I quote someone&#39;s toot, like a quote-tweet?</span></a></li><li><a href='#the-mastodon-culture-seems-pretty-weird'><span>The Mastodon culture seems pretty weird?</span></a></li><li><a href='#what-does--mean'><span>What does </span><img src="red_candle_sm.png" referrerpolicy="no-referrer" alt=":red_candle:"><span> mean?</span></a></li><li><a href='#whats-the-generally-accepted-mastodon-etiquette'><span>What&#39;s the generally-accepted Mastodon etiquette?</span></a></li><li><a href='#i-like-mastodon-but-i-prefer-the-way-twitter-looks'><span>I like mastodon but I prefer the way twitter looks.</span></a></li><li><a href='#i-like-mastodon-but-i-want-to-use-it-on-my-phone'><span>I like mastodon but I want to use it on my phone.</span></a></li><li><a href='#how-can-i-back-up-my-mastodon-account'><span>How can I back up my Mastodon account?</span></a></li><li><a href='#can-i-use-the-keyboard-to-navigate-mastodon'><span>Can I use the keyboard to navigate Mastodon?</span></a></li><li><a href='#how-do-favorites-work-on-other-server-types'><span>How do favorites work on other server types?</span></a></li><li><a href='#weird-my-server-doesnt-have-a-bunch-of-these-features'><span>Weird, my server doesn&#39;t have a bunch of these features.</span></a></li><li><a href='#i-have-other-questions'><span>I have other questions.</span></a></li><li><a href='#how-can-i-contribute-to-the-guide'><span>How can I contribute to the Guide?</span></a></li></ul><h2 id='what-is-mastodon'><span>What is Mastodon?</span></h2><p><span>Mastodon is Twitter-style social networking combined with email-style instanced servers. It&#39;s named after the metal band, but themed after the extinct megafauna.</span></p><h2 id='how-is-it-like-twitter'><span>How is it like Twitter?</span></h2><p><span>You post relatively-short status updates, and you can see a streaming list of your friends&#39; status updates. You can keep notifications (replies, boosts, favorites, and DMs) in a separate column.</span></p><p><span>Mastodon&#39;s statuses are called &quot;toots&quot;, like Twitter&#39;s are called &quot;tweets&quot;. A toot can be up to 500 characters long.</span></p><p><span>Mastodon also supports hashtags, which are words prefixed by #, like &quot;#gameing&quot; or &quot;#pineapple&quot;. You can click on a hashtag to search for other posts containing that tag.</span></p><h2 id='how-is-it-like-email'><span>How is it like email?</span></h2><p><span>Each Mastodon instance is independent but networked, like email servers. If you sign up for an email account on gmail.com, you don&#39;t automatically have an account on hotmail.com or aol.com, but you can send and receive messages to and from users on hotmail.com and aol.com. </span></p><p><span>Likewise, if you sign up for an account on mastodon.social, that doesn&#39;t make an account for you on every other instance, but you can talk to users from other instances and they can talk to you. </span></p><p><span>You can make accounts on multiple instances if you want to talk about different things separately. You could have an account on </span><a href='https://cybre.space' target='_blank' class='url'>https://cybre.space</a><span> to talk about technology, an account on </span><a href='https://elekk.xyz' target='_blank' class='url'>https://elekk.xyz</a><span> to talk about gaming, and an account on </span><a href='https://mastodon.social' target='_blank' class='url'>https://mastodon.social</a><span> for general chatter. You have to sign into each account separately, and keep each open in a separate browser tab or window.</span></p><p><span>Keep in mind that in general, when talking about Mastodon, &quot;instance&quot; and &quot;server&quot; mean the same thing.</span></p><h2 id='how-is-it-not-like-either-of-those'><span>How is it not like either of those?</span></h2><p><span>Mastodon has two additional timelines that you can view: the Local timeline and the Federated timeline.</span></p><p><span>The Local timeline is every post with a public status posted by users on your instance, with the exception of replies. (A reply is any toot posted in response to another toot - NOT any toot that simply mentions another user!)</span></p><p><span>The Federated timeline is every post with a public status posted by any user that your instance knows about, even from other instances. Your instance knows about a remote user if at least one user on your instance has EVER followed them.</span></p><p><span>The Local and Federated timelines can turn into firehoses sometimes. Be careful!</span></p><h2 id='how-do-i-establish-my-brands-presence-on-mastodon'><span>How do I establish my brand&#39;s presence on Mastodon?</span></h2><p><span>The short answer: </span><strong><span>Please don&#39;t.</span></strong></p><p><span>We&#39;ve had a decade of Twitter, Facebook, and heaven knows how many other social media platforms becoming platforms for Search Engine Optimization, Brand Awareness, and Corporate Synergy, and I&#39;ll be blunt: we&#39;re really, really tired of it.</span></p><p><span>Mastodon isn&#39;t about leveraging followers into customers. It&#39;s not about SEO or brand loyalty. </span><strong><span>Mastodon is about people.</span></strong><span> Don&#39;t treat people like potential customers who might buy your stuff; treat them like </span><em><span>people</span></em><span> whom you might want to get to know.</span></p><p><span>If you&#39;re a person who makes or does something and you think someone might want to buy your product or use your service, great! You can tell people about it - just </span><em><span>treat them like people</span></em><span>, not marketing targets.</span></p><p><span>There&#39;s one behavior that companies often engage in that drives people nuts, and you </span><em><span>really</span></em><span> shouldn&#39;t do it: </span><strong><span>don&#39;t send unsolicited messages to people advertising your product or service</span></strong><span>. Get to know someone, engage in conversations with them, and if you think someone you know would be interested and doesn&#39;t already know about what you do, </span><em><span>then</span></em><span> tell them about what you do or what you make.</span></p><p><span>If you represent a company and your boss has told you that your company needs a Mastodon presence, here&#39;s what you can tell them (and you can tell them I told you to say it):</span></p><blockquote><p><span>Mastodon doesn&#39;t really work like that. If we&#39;re going to have a Mastodon presence, it needs to be one person who&#39;s free to </span><em><span>be</span></em><span> a person on that account, instead of a corporate mouthpiece. That means the person on the Mastodon account isn&#39;t going to get along with everybody and is going to treat other users like they&#39;re people instead of marketing targets. If you&#39;re okay with that, then I&#39;ll get right on it. If not, then you need to do some more research into Mastodon before you establish a presence there.</span></p></blockquote><h2 id='how-do-i-get-verified-on-mastodon'><span>How do I get verified on Mastodon?</span></h2><p><span>There&#39;s no such thing as a verified account on Mastodon. We assume you are who you say you are. If you see someone with a check-mark by their name (like ✅), they&#39;ve just typed that emoji into their display name. </span></p><p><span>If someone&#39;s impersonating you, contact the admin of the instance they&#39;re on to get it sorted out.</span></p><h2 id='okay-how-do-i-let-people-know-that-i-am-who-i-say-i-am'><span>Okay, how do I let people know that I am who I say I am?</span></h2><p><span>Many Mastodon instances will allow you to add metadata to your profile - up to four items displayed in a table on your profile page that don&#39;t count against the length of your profile text. If you use these fields to link to your other websites, some instances will allow you to verify that you </span><em><span>own</span></em><span> those websites by providing a link on those websites back to your Mastodon account. For instance, if you have a personal website, you can include the link to your website in your Mastodon metadata, and then include a link to your Mastodon account in the header of your website, and Mastodon will verify that you&#39;re the person who owns your website.</span></p><p><span>A Mastodon instance that allows this will have instructions on your </span><strong><span>Edit Profile</span></strong><span> page telling you how to add the verification link.</span></p><h1 id='how-do-i-pick-an-instance'><span>HOW DO I PICK AN INSTANCE?</span></h1><p><span>This one&#39;s big on purpose.</span></p><p><span>Picking an instance can be hard. Many instances have a specific focus: computerfairi.es is a safe space for queer folks, instance.business is a haven for non-white people, botsin.space focuses on the hosting and development of automated bots. On oulipo.social it&#39;s illicit to post a toot containing any &quot;e&quot;s. </span></p><p><span>If you haven&#39;t created a mastodon account yet, you might find it useful to try one of the larger instances, like </span><a href='https://mastodon.social/about/more'><span>mastodon.social</span></a><span> - the flagship instance, with over 100,000 users - </span><a href='https://toot.cafe/about/more'><span>toot.cafe</span></a><span>, or </span><a href='https://wandering.shop/about/more'><span>wandering.shop</span></a><span>. These instances have large, usually-friendly populations that will help you find a more niche instance if that&#39;s what you&#39;re looking for. Be warned, though, that because of their size, the Local timelines on these instances can move </span><em><span>very</span></em><span> quickly.</span></p><p><span>(</span><em><span>A brief note about mastodon.social: it </span><strong><span>is</span></strong><span> the largest general-purpose instance (the largest overall is a Japanese-language instance). Many people go there and never check out other instances. If you make an account on mastodon.social, consider treating it as a temporary waypoint while you find an instance that better fits your needs and interests. Once you&#39;ve found one, you can export all the people you&#39;re following, muting, and blocking on mastodon.social and import them at your new account, so you don&#39;t have to go around and find everybody again.</span></em><span>)</span></p><p><span>If you&#39;ve already registered on an instance but you&#39;re not sure if it&#39;s a good fit for you, try asking around for instances where you might be a better fit. Also, try searching for a #hashtag that interests you; if you see a lot of people on one instance talking about that subject, it might be a good place for you to check out.</span></p><p><span>You can also try the instance picker on </span><a href='https://joinmastodon.org/#getting-started'><span>joinmastodon.org</span></a><span> or the wizard at </span><a href='https://instances.social/'><span>instances.social</span></a><span>, although these have </span><em><span>lots</span></em><span> of instances listed and you might be overwhelmed. Take it slow and easy.</span></p><h2 id='how-do-i-mention-someone-whos-not-on-my-instance'><span>How do I mention someone who&#39;s not on my instance?</span></h2><p><span>Mastodon usernames take the form @</span><em><span>username</span></em><span>@</span><em><span>instance</span></em><span>. My account on mastodon.social is @</span><span><span>noelle</span></span><span>@mastodon.social; my account on elekk.xyz is @</span><span><span>noelle</span></span><span>@elekk.xyz. If you&#39;re mentioning someone on a different instance, you have to type the whole thing (although the toot input box will help you auto-complete the username if it&#39;s a name the instance knows already). </span></p><p><span>If you&#39;re mentioning someone on your own instance, you just have to type the first part; if you&#39;re on elekk.xyz, @noelle will get to me just like @</span><span><span>noelle</span></span><span>@elekk.xyz will. If you leave off the &quot;@</span><em><span>instance</span></em><span>&quot; Mastodon understands that you want to talk to the local user.</span></p><h2 id='what-are-the-rules'><span>What are the rules?</span></h2><p><span>The rules depend on which instance you&#39;re on. Each instance has a page at https://</span><span><em><span>instance</span></em></span><span>/about/more that usually contains more information about the instance and often describes the community guidelines. For example, mastodon.social has its community guidelines posted at </span><a href='https://mastodon.social/about/more' target='_blank' class='url'>https://mastodon.social/about/more</a><span> .</span></p><p><span>Keep in mind that these are usually guidelines and not hard-and-fast rules. Since each instance is run by a separate team of moderators - often just one person! - they have final say over what&#39;s allowed and not allowed on their instance. Your instance admins might even go so far as to block an entire other instance if their users turn out to be incompatible with your instance&#39;s values and the other instance&#39;s moderators won&#39;t help.</span></p><h2 id='what-if-i-see-someone-breaking-the-rules'><span>What if I see someone breaking the rules?</span></h2><p><span>If you see someone breaking the rules, you can send a report. Click on the </span><code>...</code><span> under the offending post, and select </span><code>Report @user</code><span> (which is usually at the very bottom of that menu). This will bring up a window where you can select additional recent posts from that user, if you need to, and also type out a </span><em><span>reason</span></em><span> for the report, so that the moderator who receives the report will understand why you sent it. </span></p><p><span>If the user is from a different instance, then underneath the report reason, you will also see a switch next to &quot;Forward to </span><em><span>their instance</span></em><span>&quot;. This not only reports the user to the moderators on your instance, it sends the report to the other user&#39;s instance as well. Before you do this, </span><strong><span>check the rules of the instance they&#39;re on</span></strong><span>. They may not be breaking their local rules.</span></p><p><strong><span>The moderators and administrators of </span><em><span>your</span></em><span> instance will be able to see that it was you who sent the report. If you forward the report to a remote user&#39;s instance, the moderators and administrators of that instance </span><em><span>will not</span></em><span> be able to see who sent the report — only that it came from your instance.</span></strong></p><p><span>By default, you will not get any notification about actions that any moderators or administrators take in response to your reports. You can ask them, but be prepared to hear something like &quot;we don&#39;t comment on how we resolve reports&quot;.</span></p><h2 id='what-are-the-different-kinds-of-posts'><span>What are the different kinds of posts?</span></h2><p><span>Mastodon (and other fediverse) posts can be chained together in different ways. I use three terms to refer to different kinds of posts. These might not be the terms other people use.</span></p><ul><li><strong><span>Stand-alone posts</span></strong><span> are posts that are not replies to any other post. (That is, you did not click on the Reply button to start the post.) They are at the head of a chain. You can include people&#39;s usernames in stand-alone posts to tag them; doing that does not make the post a reply. </span><strong><span>For example:</span></strong><span> You use the standard compose box (&quot;What&#39;s on your mind?&quot; in the default Mastodon settings) to create a new post.</span></li><li><strong><span>Self-replies</span></strong><span> are posts that are a direct reply to </span><em><span>one of your own</span></em><span> stand-alone posts or another self-reply. Again, they can include references to another person. You can continue to reply to your own posts as long as you like, and </span><em><span>as long as someone else&#39;s post isn&#39;t above what you&#39;re currently writing in the chain</span></em><span>, they&#39;ll continue being self-replies. </span><strong><span>For example:</span></strong><span> You click on the reply button on one of your own stand-alone posts to reply to yourself, then click on the reply button on </span><em><span>that</span></em><span> post to reply to yourself again.</span></li><li><strong><span>Replies</span></strong><span> are posts that are replies to someone else </span><em><span>or replies to a reply to someone else</span></em><span>. </span><strong><span>For example:</span></strong><span> You click on the reply button on someone else&#39;s post to reply to them, </span><strong><span>or</span></strong><span> you click on the reply button on one of your own posts that&#39;s a reply to someone else&#39;s post.</span></li></ul><p><span>I&#39;ve included a diagram </span><a href='replies.png'><span>here</span></a><span> (it&#39;s a link because it&#39;s big). Notice how as soon as someone else&#39;s post enters the chain, your replies stop being self-replies. This is important, because self-replies and replies work differently in your followers&#39; timelines.</span></p><h2 id='how-do-privacy-settings-work'><span>How do privacy settings work?</span></h2><p><span>Under each post you&#39;ll see three icons: a camera, a globe or a padlock, and the letters &quot;CW&quot;. Click on the globe or padlock to choose the privacy settings for your post. </span><em><span>You can set the default privacy level for your posts under </span><strong><span>Preferences &gt; Other &gt; Posting Privacy</span></strong><span>.</span></em></p><ul><li><strong><span>Public</span></strong><span> means that everyone can see your post. It will appear on your list of posts and in your followers&#39; Home timelines. Your </span><em><span>stand-alone posts</span></em><span> and </span><em><span>self-replies</span></em><span> that are public will appear in your list of toots, in your followers&#39; Home timelines, in the public local and federated timelines, and in the Mentions of anyone you mention by username. Your </span><em><span>replies</span></em><span> that are public will appear in your list of </span><em><span>toots and replies</span></em><span> (</span><em><span>not</span></em><span> the primary list of toots; it&#39;s a separate list!), in the Home timelines of any of your followers who </span><em><span>also</span></em><span> follow the person you&#39;re replying to, and in the Mentions of anyone you mention by username.</span></li><li><strong><span>Unlisted</span></strong><span> means that everyone can see your post, but it won&#39;t appear on the public timelines - either Local or Federated. Other than that, Unlisted posts behave exactly like Public posts.</span></li><li><strong><span>Followers-Only</span></strong><span> means that only people who follow you and people mentioned in the post can see your post in their timelines or on your profile page. If someone who doesn&#39;t follow you views your profile, they won&#39;t see your followers-only posts. </span><em><span>For your followers</span></em><span>, followers-only posts behave exactly like Unlisted posts. </span><strong><span>Your followers-only posts that mention another user will also appear in that user&#39;s mentions, even if they don&#39;t follow you!</span></strong></li><li><strong><span>Private</span></strong><span> means that only people who are mentioned in your post can see it. It will appear in their mentions and, on Mastodon servers above version 3.0, will appear in their Direct Messages column.</span></li></ul><p><span>Keep in mind that some servers, which run software that&#39;s compatible with but not the same as Mastodon, will ignore these privacy settings if you send a message to their users, so be careful!</span></p><h2 id='how-private-is-private'><span>How private is &quot;Private&quot;?</span></h2><p><span>I cannot stress this enough: </span><strong><span>Private toots are not encrypted or secure.</span></strong></p><p><span>The admin of your server can read </span><em><span>any</span></em><span> toot posted on their server, as well as </span><em><span>any</span></em><span> toot sent to a user on their server. This is a necessary security precaution. Admins </span><em><span>don&#39;t want</span></em><span> to read your private toots, but they have to be </span><em><span>able</span></em><span> to because otherwise private toots allow some users to secretly harass others or to conduct illegal dealings without the admin&#39;s knowledge, and under many laws the admin will be responsible for enabling the harassment or illegal behavior </span><em><span>even if they didn&#39;t know it was happening</span></em><span>.</span></p><p><span>That said, in general, your admin will only look over the toots you&#39;ve marked Private if they have reason to believe harassment or illicit dealings are going on. Make sure you trust your admin to act like this, and if you don&#39;t, it might be time to look for another instance.</span></p><p><strong><span>As a general rule, if an application you&#39;re using isn&#39;t </span><a href='https://en.wikipedia.org/wiki/Peer-to-peer'><span>peer-to-peer</span></a><span> and relies on an intermediary like a server, the information you&#39;re sending isn&#39;t secure unless you take extra steps outside the application to secure it.</span></strong></p><h2 id='what-happens-when-someone-follows-me'><span>What happens when someone follows me?</span></h2><p><del><span>If someone follows you, you incur a life debt to that person. You will be required to lay down your life for that person when they need it. Once you&#39;ve done so, they will unfollow you and, if you survived, you are free to go about your life normally.</span></del></p><p><span>Just kidding.</span></p><p><span>If someone follows you, they will see your posts on their Home timeline and they will be able to see your followers-only posts. If you want, you can limit the people who can follow you by clicking on </span><strong><span>Edit profile</span></strong><span> and selecting </span><strong><span>Lock account</span></strong><span>, which will allow you to manually approve and reject people who want to follow you.</span></p><h2 id='so-if-i-lock-my-account-only-approved-people-can-see-my-posts'><span>So if I lock my account, only approved people can see my posts?</span></h2><p><span>Yes and no.</span></p><p><span>With a locked account, you get to approve who can follow you </span><em><span>through the Mastodon interface</span></em><span>. This means that only the people you approve will be able to see your </span><strong><span>followers-only</span></strong><span> posts. Your </span><strong><span>unlisted</span></strong><span> posts will still show up on your profile, and your </span><strong><span>public</span></strong><span> posts will still show up on your profile and on the local and federated timelines.</span></p><p><strong><span>However.</span></strong></p><p><span>Every Mastodon account (on an unmodified server) also creates an RSS feed of their public and unlisted posts - i.e. the posts that appear on the account&#39;s profile. It does not include followers-only toots or direct messages, and if you&#39;ve </span><a href='#what-does-cw-mean'><span>put a CW on a toot</span></a><span>, only the CW appears in the RSS feed, not what&#39;s underneath it. </span></p><p><span>Your RSS feed appears at </span><code>https://&lt;your-server&gt;/users/&lt;your-username&gt;.rss</code><span> ; for example, since I&#39;m </span><code>https://elekk.xyz/@noelle</code><span>, my RSS feed is </span><code>https://elekk.xyz/users/noelle.rss</code><span> . (Remember to remove the </span><code>@</code><span>!)</span></p><p><strong><span>Anyone can subscribe to these feeds using an RSS reader to see your public and unlisted posts when you post them.</span></strong><span> You can&#39;t control who can see these feeds, but they do not (and, by design, cannot) contain your followers-only or private toots. </span><em><span>If you only post followers-only toots, your RSS feed will be empty.</span></em></p><p><span>Remember, you can set the default privacy level for your posts under </span><strong><span>Preferences &gt; Other &gt; Posting Privacy</span></strong><span>. If you have a locked account, you might prefer to set that default to followers-only so you have to make an active effort to post an unlisted or public toot.</span></p><h2 id='what-if-someones-following-or-interacting-with-me-and-i-dont-want-them-to'><span>What if someone&#39;s following or interacting with me and I don&#39;t want them to?</span></h2><p><span>You have a couple options.</span></p><ul><li><strong><span>If you just don&#39;t want to see them in your feed anymore</span></strong><span>, you can </span><em><span>mute</span></em><span> them. This will prevent their posts from showing up in any of your feeds; you can optionally block notifications (Favorites, Boosts, and Mentions) from them, so that if you don&#39;t want to see someone&#39;s stand-alone posts but do want to see their attempts to interact with you, you can.</span></li><li><strong><span>If you don&#39;t want to see them and you don&#39;t want them to see you</span></strong><span>, you can </span><em><span>block</span></em><span> them. This will automatically mute them; if they were following you and/or you were following them, it will sever those as well. They will not be able to follow you or show up in </span><em><span>any</span></em><span> of your feeds unless you unblock them. (But see below.)</span></li><li><strong><span>If they are harassing you or otherwise breaking the rules</span></strong><span>, you can </span><a href='#what-if-i-see-someone-breaking-the-rules'><span>report them</span></a><span>, and hopefully, your moderator will deal with it.</span></li></ul><p><span>All three of these options are available by clicking the </span><code>...</code><span> under one of the user&#39;s toots or on their profile inside the Mastodon web interface.</span></p><p><strong><span>However.</span></strong></p><p><span>Just like with a </span><a href='#so-if-i-lock-my-account-only-approved-people-can-see-my-posts'><span>locked account</span></a><span>, any user — even ones you&#39;ve blocked or that have been suspended by a moderator — can go to your public page or your RSS feed to view your public and unlisted toots. There is not a good way around this, unfortunately, except to make all of your toots followers-only.</span></p><h2 id='how-will-i-know-if-someones-muted-or-blocked-me'><span>How will I know if someone&#39;s muted or blocked me?</span></h2><p><span>You will not get a notification if someone mutes or blocks you.</span></p><p><span>If someone&#39;s muted you, there&#39;s really no way for you to tell. If they consistently don&#39;t reply to you when you mention their username, you might get suspicious, but Mastodon deliberately makes it almost impossible to know if you&#39;ve been muted. (Among other things, this is a stopgap to try to prevent someone harassing you by creating multiple accounts to get around mutes.)</span></p><p><span>If someone&#39;s blocked you, you will no longer be following them, their posts won&#39;t appear in your feed, and when you view their account profile </span><em><span>within Mastodon&#39;s web interface</span></em><span>, none of their posts will load. (It is worth noting that if you&#39;re looking at the profile of someone you </span><em><span>don&#39;t</span></em><span> follow, sometimes their posts won&#39;t load and it&#39;s just because the server is being slow, not because they&#39;ve blocked you, so don&#39;t be </span><em><span>too</span></em><span> quick to make an assumption.)</span></p><p><span>If someone has blocked you, you </span><em><span>can</span></em><span> still go to their public page and see their public and unlisted toots; public profiles don&#39;t require authentication (i.e. you don&#39;t have to be signed into that instance to view them) and so they can&#39;t tell who you are or that the user has blocked you. </span><strong><span>That said</span></strong><span>, let&#39;s be honest. If someone&#39;s blocked you, they don&#39;t want you around. You </span><em><span>can</span></em><span> keep reading their public and unlisted posts, but maybe don&#39;t? In a substantial way you&#39;re invading their privacy and deliberately crossing a boundary they&#39;ve set up, and &quot;the software allows me to, so it must be okay&quot; is a pretty flimsy justification. Just leave them alone, please.</span></p><h2 id='what-if-i-go-over-the-character-limit'><span>What if I go over the character limit?</span></h2><p><span>Don&#39;t worry. First, you can&#39;t; Mastodon won&#39;t let you post a toot over the instance&#39;s character limit. You won&#39;t get in trouble or anything.</span></p><p><span>If you find that what you want to say is too long for a single toot, or if you think of something else after you&#39;ve posted a toot, you can </span><em><span>reply to your own toot</span></em><span>. Mastodon supports toot threads, so you can toot as many times as you want to, replying to each toot in sequence, and the whole series will show up when someone clicks on any of the toots in the thread.</span></p><p><span>So if your toot is too long, just split it up and make the second half a reply to the first; if you think of something else later, just reply to your original toot and the reply will show up whenever anyone clicks on the original toot.</span></p><h2 id='what-are-hashtags'><span>What are hashtags?</span></h2><p><span>To make a hashtag, type &quot;#&quot; and then any number of letters or numbers. Accents count; punctuation, spaces, symbols, and emoji don&#39;t. #howismydaygoing is a valid hashtag; #höwísmydàygôíng is valid; #how-is-my-day-going isn&#39;t (it&#39;ll just catch #how).</span></p><p><span>A hashtag is metadata about your toot: it provides additional information that doesn&#39;t necessarily belong in the body of the toot, but is useful for understanding. If you&#39;re a programmer, it&#39;s sort of like a code comment.</span></p><p><span>As a bonus†, hashtags are tracked by each instance. Clicking on a hashtag takes you to a list of public posts with that hashtag. You can use them to track #politics, check out the users people are recommending on #FollowFriday, or see people&#39;s artwork using #mastoart.</span></p><p><span>Don&#39;t go overboard with hashtags. As a guideline, your hashtags probably shouldn&#39;t be more than 10% of the total length of your toot. If you find yourself going over that, you might be spreading things a bit too thin.</span></p><p><span>† </span><em><span>This was actually the original intent of hashtags, but the usage has moved on since then.</span></em></p><h2 id='what-does-cw-mean'><span>What does &quot;CW&quot; mean?</span></h2><p><span>CW stands for Content Warning. It hides your post behind text (which you get to choose); it&#39;s like a Read More link.</span></p><p><span>You might use CWs for:</span></p><ul><li><span>Politics</span></li><li><span>Sex</span></li><li><span>Gross topics</span></li><li><span>Common phobias, like spiders or blood</span></li><li><span>Health discussions</span></li><li><span>Punchlines to jokes</span></li><li><span>Long posts that might otherwise fill up people&#39;s timelines</span></li><li><span>Commentary on discussions that are going on elsewhere in the fediverse, often with the CW &quot;meta&quot; or &quot;discourse&quot;</span></li></ul><p><span>Some common abbreviations you&#39;ll find in CWs are:</span></p><ul><li><span>mh: mental health</span></li><li><span>ph: physical health</span></li><li><span>alc: alcohol</span></li><li><span>pol: politics, sometimes plus locale, like &quot;uspol&quot; means United States politics</span></li><li><span>pda: public display of affection</span></li><li><span>nsfw: not safe for work</span></li><li><span>ec: eye contact, usually used when there&#39;s a photograph attached</span></li></ul><p><span>In general, just use your best judgment; think &quot;is there a reason someone might not want to see this?&quot;. You have the opportunity to take an extra moment and make the fediverse a nicer place for people to be. Why wouldn&#39;t you take that opportunity?</span></p><p><strong><span>An important note:</span></strong><span> Mastodon </span><em><span>does not</span></em><span> track hashtags that are in the text of a CW. Mastodon </span><em><span>does</span></em><span> track hashtags that are </span><em><span>under</span></em><span> a CW. Always put your hashtags in the body of your toot, never in the content warning.</span></p><h2 id='i-just-attached-a-picture-to-my-toot-whats-with-the-new-eye-icon'><span>I just attached a picture to my toot. What&#39;s with the new &#39;eye&#39; icon?</span></h2><p><span>Clicking that will hide your image behind a &quot;Sensitive content&quot; overlay. This is good for nudity, gore and violence, political topics, etc.</span></p><p><span>You&#39;ll notice that if you have both an image and a CW on a toot, the &quot;Sensitive content&quot; overlay is turned on automatically and can&#39;t be turned off. That&#39;s on purpose.</span></p><h2 id='i-just-attached-a-picture-to-my-toot-how-can-i-add-a-caption-to-it'><span>I just attached a picture to my toot. How can I add a caption to it?</span></h2><p><span>When you attach an image, you&#39;ll see &quot;Edit&quot; (plus a pencil icon) at the top right of the image. Clicking this will pop up a dialog box that lets you determine what part of the image should show in the preview; it also allows you to set alt-text for the image, which people can read if they mouse over the text, and which screen-readers (such as for the visually-impaired) can read instead of just saying &quot;embedded image&quot;.</span></p><p><span>Text in the description box has its own character limit; it </span><strong><span>does not</span></strong><span> count against the character limit for your toot!</span></p><h2 id='why-should-i-add-a-caption-to-my-picture'><span>Why should I add a caption to my picture?</span></h2><p><span>In a word: Accessibility. </span></p><p><span>Some people who use Mastodon are visually impaired and use screen readers. Some people who use Mastodon have images turned off to conserve their data usage. Sometimes disk errors or server errors happen, or your admin decides to prune old files, and your image just doesn&#39;t load anymore. Captioning an image allows people in these conditions to participate in your toots with full context.</span></p><p><span>You can also use image captions to insert additional jokes (like webcomics often do) or additional commentary on the image. Take advantage of the fact that image descriptions have their own separate character limit and put whatever you like in there. The sky&#39;s the limit.</span></p><h2 id='how-come-my-friend-on-another-instance-can-use-this-emoji-but-i-cant'><span>How come my friend on another instance can use this emoji, but I can&#39;t?</span></h2><p><span>Each instance can define custom emoji for their users to use, and many have taken advantage of this. Your instance admin can copy emoji that they like from other instances. If you see an emoji that you like and it&#39;s not available on your instance, ask your admin to copy it over.</span></p><h2 id='why-cant-i-search-for-a-specific-word-or-phrase'><span>Why can&#39;t I search for a specific word or phrase?</span></h2><p><span>It&#39;s an anti-harassment feature. Harassers often search for particular words or phrases (like &quot;TERF&quot; or &quot;homophobic&quot; or &quot;white supremacy&quot;) in order to attack and dogpile people they disagree with. By limiting search to usernames and hashtags, Mastodon allows users to decide how they want their toots to show up in others&#39; searches.</span></p><h2 id='why-cant-i-quote-someones-toot-like-a-quote-tweet'><span>Why can&#39;t I quote someone&#39;s toot, like a quote-tweet?</span></h2><p><span>Like search, it&#39;s an anti-harassment feature. If you want to reply to someone&#39;s toot, you have to actually reply to it; you can&#39;t just broadcast it to your followers with a snarky comment.</span></p><p><em><span>(Don&#39;t try to get around this by screencapping toots and attaching them as images. You </span><strong><span>can</span></strong><span> do it, but the Mastodon community tends to frown on it and you&#39;ll get a bad reputation pretty quickly if you keep it up.)</span></em></p><h2 id='the-mastodon-culture-seems-pretty-weird'><span>The Mastodon culture seems pretty weird?</span></h2><p><span>It can be! But it gets to be a comfortable weirdness.</span></p><p><span>Here are some common weirdnesses:</span></p><ul><li><span class='md-emoji'>🍍</span><span>: nobody really knows. </span><a href='https://cybre.space/@acw'><span>acw</span></a><span> posted it, someone else picked it up, and it&#39;s been going ever since. It&#39;s just silliness. When in doubt, just post a </span><span class='md-emoji'>🍍</span><span>.</span></li><li><span>AWOO: </span><a href='https://awoo.space'><span>Awoo.Space</span></a><span> was one of the earlier Mastodon instances. &quot;Awoo&quot; is the sound of a wolf howling. It&#39;s fun to say. Awoo! (Pawoo.net has nothing to do with this; in Japanese, &quot;pawoo&quot; is the sound of an elephant trumpeting.) Someone got irritated at the awoos and instituted a $350 fine for awooing. Nobody&#39;s ever actually paid it, don&#39;t worry.</span></li><li><span>#gameing: There was (and still is) a perception that #gaming is &quot;hardcore&quot; and elitist, and there were (and are) worries about certain breeds of gamer overrunning the #gaming hashtag. #gameing was a pre-emptive strike; it&#39;s about a fun, lighthearted, and accessible approach to games, video and otherwise.</span></li><li><span>IT&#39;S BEEN/SOME as CWs: a reference to the Barenaked Ladies song </span><a href='https://www.youtube.com/watch?v=fC_q9KPczAg'><em><span>One Week</span></em></a><span> and the Smash Mouth song </span><a href='https://www.youtube.com/watch?v=L_jWHffIx5E'><em><span>All Star</span></em></a><span> respectively. A common meme on Mastodon is to put the first word or two of the song into the CW and then subvert expectations by posting something else under the cut.</span></li></ul><p><span>You&#39;ll get used to it.</span></p><h2 id='what-does-redcandleredcandlepng-mean'><span>What does </span><img src="red_candle.png" referrerpolicy="no-referrer" alt=":red_candle:"><span> mean?</span></h2><p><span>In early November 2017 we lost a popular Mastodonian to suicide. </span><img src="red_candle_sm.png" referrerpolicy="no-referrer" alt=":red_candle:"><span> and </span><img src="lattentacle_sm.png" referrerpolicy="no-referrer" alt="lattentacle"><span> commemorate our friend Natalie Nguyen.</span></p><h2 id='whats-the-generally-accepted-mastodon-etiquette'><span>What&#39;s the generally-accepted Mastodon etiquette? </span></h2><p><span>There are no hard-and-fast rules for everybody, and (as noted above) different instances have different guidelines. That said, many people follow some simple guidelines meant to make Mastodon a friendlier place for everybody.</span></p><ul><li><p><span>If you attach an image to your toot but don&#39;t describe it in the toot, use </span><a href='#i-just-attached-a-picture-to-my-toot-how-can-i-make-sure-its-accessible'><span>alt text</span></a><span> to describe the image so that people using screen readers can understand it.</span></p></li><li><p><span>If you attach an image that contains </span><strong><span>nudity, porn or sexually-suggestive content, gore, violence, or politics</span></strong><span>, or any of a number of common PTSD/anxiety triggers (such as food, spiders, etc.), </span><a href='#i-just-attached-a-picture-to-my-toot-whats-with-the-new-eye-icon'><span>mark it sensitive</span></a><span>.</span></p></li><li><p><span>If the </span><em><span>text</span></em><span> of your toot contains any of those subjects, </span><a href='#what-does-cw-mean'><span>use a content warning</span></a><span>.</span></p></li><li><p><span>You don&#39;t need to use a URL shortener. Mastodon assumes that all URLs are exactly 20 characters long. Let people see what you&#39;re actually linking to.</span></p></li><li><p><span>If you make a bot that posts automatically, have it post using the </span><a href='#how-do-privacy-settings-work'><span>unlisted privacy setting</span></a><span>. This avoids having your bot flagged as spam.</span></p></li><li><p><span>If you use a script that cross-posts your Twitter tweets to Mastodon, have the script set to use a CW. This avoids sensitive topics (see above) being cross-posted to Mastodon.</span></p></li><li><p><span>If you see a conversation and have a comment you&#39;d like to add:</span></p><ul><li><span>Click through to the full conversation and make sure your thought hasn&#39;t already been expressed by someone else. </span></li><li><span>Make sure that your comment adheres to the tone of the conversation, is kind to the other posters in the conversation, and gives the other posters the benefit of the doubt.</span></li></ul></li><li><p><span>&quot;noadvice&quot;, as a hashtag or a CW, indicates that the user is just venting and is not looking for help or suggestions. Sympathy and comfort are welcome, though.</span></p></li><li><p><span>Remember that if someone doesn&#39;t reply to you, that doesn&#39;t mean they&#39;re ignoring you. They might be away from Mastodon; they might have so many notifications that they missed your post; they might have muted the conversation, so your reply didn&#39;t even show up! There are many reasons for someone to miss a toot, even one directed at them; don&#39;t take it personally.</span></p></li></ul><h2 id='i-like-mastodon-but-i-prefer-the-way-twitter-looks'><span>I like Mastodon but I prefer the way Twitter looks.</span></h2><p><span>You might get some mileage out of </span><a href='https://pinafore.social/'><span>Pinafore</span></a><span>, a new interface for Mastodon by </span><a href='https://toot.cafe/@nolan'><span>Nolan Lawson</span></a><span>.</span></p><p><a href='https://notabug.org/halcyon-suite/halcyon'><span>Halcyon</span></a><span> is a web client for Mastodon that replicates the Twitter interface. Since Halcyon is itself open-source software, there are </span><a href='https://notabug.org/halcyon-suite/halcyon#instances'><span>multiple servers running it</span></a><span>; you can choose the one you like. Use your existing Mastodon login when you use Halcyon; for example, if you have an account on elekk.xyz, you would use </span><code>your-account@elekk.xyz</code><span> and your Elekk password to log in.</span></p><p><span>Remember that Pinafore and Halcyon are third-party clients, and make sure you trust them before you give them your login information!</span></p><h2 id='i-like-mastodon-but-i-want-to-use-it-on-my-phone'><span>I like Mastodon but I want to use it on my phone.</span></h2><p><span>Mastodon has a responsive design, so you can use it in your phone&#39;s browser. Alternately, there are many apps available for Mastodon. The most widely-used on iOS are Amaroq and Toot!. On Android, try Tusky.</span></p><p><em><span>(NB: I&#39;ve been told that &quot;Tootdon silently forwards copies of posts you interact as well as the auth token to your account to its to own servers.&quot; I don&#39;t know if that still holds. As always, be cautious when giving apps your information.)</span></em></p><h2 id='how-can-i-back-up-my-mastodon-account'><span>How can I back up my Mastodon account?</span></h2><p><a href='https://octodon.social/@kensanata'><span>Alex Schroeder</span></a><span> has an excellent </span><a href='https://github.com/kensanata/mastodon-backup/'><span>Mastodon Archiver</span></a><span> that will help you back up your account and much more.</span></p><h2 id='can-i-use-the-keyboard-to-navigate-mastodon'><span>Can I use the keyboard to navigate Mastodon?</span></h2><p><span>In the web interface, yes. The Mastodon web hotkeys are documented at </span><code>https://&lt;your-server&gt;/web/keyboard-shortcuts</code><span> , which you can access when you&#39;re logged into the web interface. (You can find the link at the bottom of the </span><strong><span>Getting Started</span></strong><span> column, labeled &quot;Hotkeys&quot;.)</span></p><h2 id='how-do-favorites-work-on-other-server-types'><span>How do favorites work on other server types?</span></h2><p><span>In general:</span></p><ul><li><span>If you click &#39;favorite&#39; on a post from a different server type (Misskey, Pleroma, GNU Social, etc.) it will federate properly. Some of these servers allow multiple response emoji, and each of them selects a generic &quot;favorite&quot; emoji, which will show up on the recipient&#39;s post.</span></li><li><span>If someone on a different server type selects an emoji to respond to your post, it will federate to you on Mastodon as a favorite, </span><em><span>no matter what the emoji is</span></em><span>.</span></li></ul><h2 id='weird-my-server-doesnt-have-a-bunch-of-these-features'><span>Weird, my server doesn&#39;t have a bunch of these features.</span></h2><p><span>You might not be on Mastodon! The Fediverse - the vast collection of servers connected by the ActivityPub/OStatus protocol - has a lot of different kinds of servers on it. Your server might be running Pleroma, Misskey, GNU Social, or something else! Unfortunately, I don&#39;t know much about them, so you&#39;ll have to ask their users for a getting-started guide like this one.</span></p><h2 id='i-have-other-questions'><span>I have other questions.</span></h2><p><span>Ask around! People are usually pretty happy to answer questions and help out. If you really get stuck, ask me: </span><a href='https://elekk.xyz/@noelle' target='_blank' class='url'>https://elekk.xyz/@noelle</a></p><h2 id='how-can-i-contribute-to-the-guide'><span>How can I contribute to the Guide?</span></h2><p><span>Please check out </span><a href='contributing.md'><span>the contributions guide</span></a><span>!</span></p></div></div>
+</body>
+</html>
