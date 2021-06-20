@@ -103,6 +103,7 @@
 * [App Store Page](https://apps.apple.com/app/metatext/id1523996615): `https://apps.apple.com/app/metatext/id1523996615`
 * [Webpage](https://metabolist.org/): `https://metabolist.org/`	
 * [GitHub Repository](https://github.com/metabolist/metatext): `https://github.com/metabolist/metatext`
+* My [Issue requesting Bluetooth keyboard support](https://github.com/metabolist/metatext/issues/40): `https://github.com/metabolist/metatext/issues/40`
 * [Metabolist on Mastodon](https://mastodon.social/@metabolist): `https://mastodon.social/@metabolist`
 * [Justin Mazzocchi on Mastodon](https://mastodon.social/@jzzocc): `https://mastodon.social/@jzzocc`
 * `![Metatext for iOS](https://i.snap.as/w7PTFpTf.png)`

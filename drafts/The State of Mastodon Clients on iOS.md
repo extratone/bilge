@@ -109,4 +109,5 @@ Daniel Nitsikopoulos' [Mercury](https://onmercury.app) represents yet another en
 
 ### [Metatext](https://apps.apple.com/app/metatext/id1523996615)
 
-Metatext is perhaps the buzziest of all these apps - well-praised in every space I could find conversation on the subject. It's developed under [Justin Mazzocchi](https://mastodon.social/@jzzocc)'s software studio, [Metabolist](https://metabolist.org/) and is as [Open Source](https://github.com/metabolist/metatext) as it gets! [u/GummyKibble](https://www.reddit.com/user/GummyKibble/) noted that "It looks like a native app on both iOS and iPadOS." 
+Metatext is perhaps the buzziest of all these apps - well-praised in every space I could find conversation on the subject. It's developed under [Justin Mazzocchi](https://mastodon.social/@jzzocc)'s software studio, [Metabolist](https://metabolist.org/) and is as [Open Source](https://github.com/metabolist/metatext) as it gets! (As per my hardware keyboard shortcuts crusade, I added [my own issue](https://github.com/metabolist/metatext/issues/40) requesting support.) [u/GummyKibble](https://www.reddit.com/user/GummyKibble/) noted that "it looks like a native app on both iOS and iPadOS." This term - *native* - seems 
+
