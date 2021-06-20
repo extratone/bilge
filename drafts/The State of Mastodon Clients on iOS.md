@@ -72,7 +72,7 @@ I originally had high hopes for Shihab Mehboob‘s [Mast](https://apps.apple.com
 
 Hopefully without unnecessarily "outing" anyone, I must point out that the original Mast does, in fact, live on. I noticed 
 
-![Mast Details](https://i.snap.as/UsH95qJv.png)`
+![Mast Details](https://i.snap.as/UsH95qJv.png)
 
 ![Amaroq for iOS](https://i.snap.as/JV5vzmky.png)
 
@@ -103,4 +103,10 @@ A function I _can_ provide: documenting [iMast’s Bluetooth keyboard shortcuts]
 
 ### [Mercury](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200)
 
-Daniel Nitsikopoulos' [Mercury](https://onmercury.app) represents yet another entirely original direction in Social clients.
+Daniel Nitsikopoulos' [Mercury](https://onmercury.app) represents yet another entirely original direction in Social clients. It's fresh and "opinionated" in its explicit lack of support for instances that "[promote abuse and harassment](https://onmercury.app/help)." From all appearances, this appears to be the singular source of negative reviews on [its iOS App Store page](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200). It's also the other option to offer custom audio notifications, though I couldn't capture a sample. Its [Trello Roadmap](https://trello.com/b/6EseiLSQ/mercury-roadmap) and [Feedback Repo](https://github.com/dNitza/mercury-issues/issues) are public but mostly inactive. As you can see in the grid embedded above, I absolutely adore its Scoops theme and find my $0.99 Tip 100% worth its custom icons.
+
+![Metatext for iOS](https://i.snap.as/w7PTFpTf.png)
+
+### [Metatext](https://apps.apple.com/app/metatext/id1523996615)
+
+Metatext is perhaps the buzziest of all these apps - well-praised in every space I could find conversation on the subject. It's developed under [Justin Mazzocchi](https://mastodon.social/@jzzocc)'s software studio, [Metabolist](https://metabolist.org/) and is as [Open Source](https://github.com/metabolist/metatext) as it gets! [u/GummyKibble](https://www.reddit.com/user/GummyKibble/) noted that "It looks like a native app on both iOS and iPadOS." 

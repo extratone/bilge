@@ -68,23 +68,45 @@
 
 ### Mercury
 
+* [App Store Page](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200): `https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200`
+
 * [Webpage](https://onmercury.app/): `https://onmercury.app/`
+
 * [Roadmap](https://trello.com/b/6EseiLSQ/mercury-roadmap): `https://trello.com/b/6EseiLSQ/mercury-roadmap`
+
 * [Documentation](https://onmercury.app/help): `https://onmercury.app/help`
+
 * [Mastodon Account](https://mastodon.technology/@mercury): `https://mastodon.technology/@mercury`
+
 * [Daniel Nitsikopoulos on the Web](https://dnitza.com/): `https://dnitza.com/`
+
 * [Daniel Nitsikopoulos on Mastodon](https://aus.social/@nitza): `https://aus.social/@nitza`
+
 * [Issues GitHub Repository](https://github.com/dNitza/mercury-issues/issues): `https://github.com/dNitza/mercury-issues/issues`
+
 * The other entry with custom audio notifications.
+
 * `![Mercury for iOS](https://i.snap.as/1aTfNFtD.png)`
+
 * `![Mercury for iOS - Scoops Theme](https://i.snap.as/ScJoTz8e.png)`
+
+* Unfavorable app reviews citing "censorship." `![Mercury for iOS - Negative App Store Reviews](https://i.snap.as/r8Qc4BPc.jpeg)`
+
+* [Help Page](https://onmercury.app/help): `https://onmercury.app/help`
+
+  > Mercury takes a zero tolerence stance on abuse and harassment and as such does not support many instances that promote abuse and harassment.
+
+* Custom Action Ordering
 
 ### Metatext
 
+* [App Store Page](https://apps.apple.com/app/metatext/id1523996615): `https://apps.apple.com/app/metatext/id1523996615`
 * [Webpage](https://metabolist.org/): `https://metabolist.org/`	
 * [GitHub Repository](https://github.com/metabolist/metatext): `https://github.com/metabolist/metatext`
 * [Metabolist on Mastodon](https://mastodon.social/@metabolist): `https://mastodon.social/@metabolist`
 * [Justin Mazzocchi on Mastodon](https://mastodon.social/@jzzocc): `https://mastodon.social/@jzzocc`
+* `![Metatext for iOS](https://i.snap.as/w7PTFpTf.png)`
+* Certainly the closest candidate for replacing Toot!, personally.
 
 
 
