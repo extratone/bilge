@@ -2,7 +2,8 @@
 
 
 
-
+* "It is great that Mastodon users can choose from a variety of apps with distinct approaches to user experience." - "[Developing an Official iOS App for Mastodon](https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/)" 
+  * I appreciate the infallible clarity in Eugen's voice, here, but - after embarking upon this exploration - "distinct approach to user experiences" just *doesn't fuckin' cut it*.
 
 
 

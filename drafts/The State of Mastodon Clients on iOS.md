@@ -1,5 +1,7 @@
 # The State of Mastodon iOS Apps
 
+![Masto Mascot iOS Art](https://i.snap.as/Y624NGHM.jpg)
+
 ![Mastodon iOS Apps Surveyed](https://i.snap.as/3q29AwpI.png)
 
 ## A survey of third-party Mastodon clients on iOS.
