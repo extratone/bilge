@@ -122,14 +122,6 @@
 * Not to be confused with [Tootle for Linux](https://github.com/bleakgrey/tootle)? `![Tootle for Linux](https://i.snap.as/Rx3Eu9GA.png)`
 * [Demo Video](https://www.youtube.com/watch?v=WBZtmOqyk8c): `https://www.youtube.com/watch?v=WBZtmOqyk8c`
 
-### Roma
-
-* [App Store Page](https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699): `https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699`
-
-### Dudu 
-
-* [Webpage](http://dudu.today/): `http://dudu.today/`
-
 # Unmentioned, but currently in Public Beta and/or For Sale
 
 <img src="../images/Tusker Icon.png" alt="Tusker Icon" style="zoom:25%;" />
@@ -150,6 +142,18 @@
 * [Digital Wellness](https://mastodon.social/@dansup/103796555138527843)
 * [Group Notifications](https://mastodon.social/@dansup/104016091796357585)
 * [Compose UI](https://mastodon.social/@dansup/104881923076765100)
+
+### Roma
+
+* [App Store Page](https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699): `https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699`
+* App Store Shortlink: `https://bit.ly/duduios`
+* `![Roma for iOS](https://i.snap.as/oBYO4T1e.png)`
+
+### DUDU (嘟嘟) 
+
+* App Store Page: `https://apps.apple.com/cn/app/%E5%98%9F%E5%98%9F%E9%95%BF%E6%AF%9B%E8%B1%A1/id1531987827`
+* [Webpage](http://dudu.today/): `http://dudu.today/`
+* `![DUDU (嘟嘟) for iOS](https://i.snap.as/Kt8ZbQFk.png)`
 
 ---
 

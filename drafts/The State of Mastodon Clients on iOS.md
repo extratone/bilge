@@ -135,11 +135,17 @@ Personally, I find this a profound shame - I think more apps should be as colorf
 
 ### [Tusker](https://testflight.apple.com/join/wtB7HYvG)
 
-I found my way to the only *currently in-development* entry on this list thanks to my Mastodon friend [wakest](https://social.wake.st/@liaizon). iOS developer [Shadowfacts](https://social.shadowfacts.net/users/shadowfacts) (who also maintains [*shadowfacts.net*](https://shadowfacts.net/)) is working on their considerate, distinct app, Tusker in [this self-hosted Repository](https://git.shadowfacts.net/shadowfacts/Tusker). In [#tusker](https://mastodon.social/web/timelines/tag/tusker) on Mastodon, you'll find a few poignant praises from [Pixelfed](https://pixelfed.org/) founder and principal developer [Dan Sup](https://mastodon.social/@dansup), which - from my perspective - is especially high, indeed. 
+I found my way to the only *currently in-development* entry on this list thanks to my Mastodon friend [wakest](https://social.wake.st/@liaizon). iOS developer [Shadowfacts](https://social.shadowfacts.net/users/shadowfacts) (who also maintains [*shadowfacts.net*](https://shadowfacts.net/)) is working on their considerate, distinct app, Tusker in [this self-hosted Repository](https://git.shadowfacts.net/shadowfacts/Tusker). In [#tusker](https://mastodon.social/web/timelines/tag/tusker) on Mastodon, you'll find a few poignant praises from [Pixelfed](https://pixelfed.org/) founder and principal developer [Dan Sup](https://mastodon.social/@dansup), which - from my perspective - is especially high, indeed. Specifically, he highlighted Tusker's [Digital Wellness options](https://mastodon.social/@dansup/103796555138527843), [Group Notifications](https://mastodon.social/@dansup/104016091796357585), and [compose UI](https://mastodon.social/@dansup/104881923076765100).
 
 ![Tusker Landscape Mode!](https://i.snap.as/jZudSEdQ.png)
 
-You, yourself can use Tusker *right this very minute* via Apple's beta distribution system, [Testflight](https://testflight.apple.com/), via [**this invite link**](https://testflight.apple.com/join/wtB7HYvG).
+You, yourself can use Tusker *right this very minute* via Apple's beta distribution system, [Testflight](https://testflight.apple.com/), via [**this invite link**](https://testflight.apple.com/join/wtB7HYvG). (In case you're new to the idea, it's very easy to accomplish and virtually risk-free.)
+
+### ![DUDU (嘟嘟) for iOS](https://i.snap.as/Kt8ZbQFk.png)
+
+### [DUDU (嘟嘟)](https://bit.ly/duduios)
+
+
 
 
 
