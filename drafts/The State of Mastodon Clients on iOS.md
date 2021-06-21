@@ -139,3 +139,16 @@ I found my way to the only *currently in-development* entry on this list thanks 
 
 You, yourself can use Tusker *right this very minute* via Apple's beta distribution system, [Testflight](https://testflight.apple.com/), via [**this invite link**](https://testflight.apple.com/join/wtB7HYvG).
 
+
+
+![Mastodon Account Wordcloud](https://user-images.githubusercontent.com/43663476/122717470-43f08a00-d231-11eb-890f-dfa3ff33b65d.png)
+
+## Continuing to Explore Social Ownership
+
+This couldn't be "just" an app guide - I think I have thoroughly accepted this, by now, just in time for some conclusionary remarks. Somehow, the subject I originally tackled specifically because I thought it would be quick, rudimentary, and straightforward has become yet another personal journey. It'd feel a bit preposterous to declare any one of these apps to be *life-changing*, but - in every sense of the term, in contemporary, inevitably social media-informed life, they do indeed constitute a form of radical, ideological wellness. Each of them managed to remind me of a different minute delight found within a developer-user dynamic made up of thoughtful and effective minds working to contribute original and valuable experiences, first. Most noteworthy of these little freedoms: the realization that the upcoming "official" Mastodon app along with any future new options are exclusively a positive thing *for the user*... None of these apps were conceived to gobble up market share because the market is fundamentally, inevitably, uncompromisingly *infinitely shared*. I don't know anything about business, but I *do* know that relief from the burden of considering proprietary multivectored development intentions has been personally breathtaking. I can only hope the reciprocal compensation is happening at even a fraction of what it "should" be. 
+
+From another essential direction, I hope I have communicated that they're far from curious, "niche" or vanity side projects, now. When I used the term "mature" in introducing this little arena, I very much meant it - these "alt" social clients developed almost exclusively within single-person-led projects now make the Twitter for iOS app look ugly *and* fucking broken. "Giving social networking back to you" has never been more resonant. Yes, it really is Toot!'s "take a break" blue screen, Amaroq's mysterious Awoo mode toggle, iMast's music app integration, Mercury's configurable timelines, Metatext's native solidity, Tootle's custom colors, Tusker's Digital Wellness controls, Dudu's elemental readability, Roma's quiet resurrection of Mast's UI bravado, Stella's utterly bizarre visual departures, Fedi's odd animated UI behaviors, Tootoise's consideration of *pace*, B4X's unfathomable elements, and Oyakodon's adorable rough edges that have made my online life *measurably*... *immensely* better, these past weeks. 
+
+
+
+Those of you who haven't yet signed up for Mastodon: you are missing out. I am being *actually* pampered, now, in World Wide Web terms. You are *so* welcome whenever you're ready - the water is nice and warm, as they say.
