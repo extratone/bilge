@@ -26,10 +26,6 @@
 * Discovered via [u/GummyKibble](https://www.reddit.com/user/GummyKibble/), who created a single-step custom Drafts action that publishes to Mastodon directly from Drafts:
   `linky://x-callback-url/compose?text=[[draft]]`
 
-### Metatext
-
-* [Apparently looks great on iPad](https://reddit.com/r/Mastodon/comments/mxymr1/_/gvrz8mz/?context=1).
-
 ### Toot!
 
 * App Store shortlink: `http://bit.ly/tootappstore`
@@ -108,6 +104,7 @@
 * [Justin Mazzocchi on Mastodon](https://mastodon.social/@jzzocc): `https://mastodon.social/@jzzocc`
 * `![Metatext for iOS](https://i.snap.as/w7PTFpTf.png)`
 * Certainly the closest candidate for replacing Toot!, personally.
+* ~~[Apparently looks great on iPad](https://reddit.com/r/Mastodon/comments/mxymr1/_/gvrz8mz/?context=1).~~
 
 
 
@@ -115,14 +112,19 @@
 
 ## Unsanctioned
 
+### Tootle
+
+* [App Store Page](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466): `https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466`
+* [Mastodon account](https://mastodon.cloud/@tootleapp): `https://mastodon.cloud/@tootleapp`
+* Aside from the above mastodon account, a mystery?
+* The odd play/pause button in the upper-right hand corner.
+* `![Tootle for iOS](https://i.snap.as/S6VkSlY0.png)`
+* Not to be confused with [Tootle for Linux](https://github.com/bleakgrey/tootle)? `![Tootle for Linux](https://i.snap.as/Rx3Eu9GA.png)`
+* [Demo Video](https://www.youtube.com/watch?v=WBZtmOqyk8c): `https://www.youtube.com/watch?v=WBZtmOqyk8c`
+
 ### Roma
 
 * [App Store Page](https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699): `https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699`
-
-### Tootle
-
-* [Mastodon account](https://mastodon.cloud/@tootleapp): `https://mastodon.cloud/@tootleapp`
-* Aside from the above mastodon account, a mystery?
 
 ### Dudu 
 
@@ -134,9 +136,20 @@
 
 ### Tusker
 
+* [Testflight Link](https://testflight.apple.com/join/wtB7HYvG): `https://testflight.apple.com/join/wtB7HYvG`
+* [Shadowfacts Web](https://shadowfacts.net/): `https://shadowfacts.net/`
+* [Shadowfacts Fedi](https://social.shadowfacts.net/users/shadowfacts): `https://social.shadowfacts.net/users/shadowfacts` 
 * `![Tusker on iOS](https://i.snap.as/82RtZcyl.png)	`
+* The only entry with reasonable landscape mode support: `![Tusker Landscape Mode!](https://i.snap.as/jZudSEdQ.png)`
+* [Repository](https://git.shadowfacts.net/shadowfacts/Tusker): `https://git.shadowfacts.net/shadowfacts/Tusker`
+* Configurable text display format
+* Thanks to [wakest](https://social.wake.st/@liaizon)!
 
-* `![Tusker Landscape Mode!](https://i.snap.as/jZudSEdQ.png)`
+#### Dan Sup Posts
+
+* [Digital Wellness](https://mastodon.social/@dansup/103796555138527843)
+* [Group Notifications](https://mastodon.social/@dansup/104016091796357585)
+* [Compose UI](https://mastodon.social/@dansup/104881923076765100)
 
 ---
 

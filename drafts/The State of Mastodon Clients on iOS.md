@@ -109,5 +109,32 @@ Daniel Nitsikopoulos' [Mercury](https://onmercury.app) represents yet another en
 
 ### [Metatext](https://apps.apple.com/app/metatext/id1523996615)
 
-Metatext is perhaps the buzziest of all these apps - well-praised in every space I could find conversation on the subject. It's developed under [Justin Mazzocchi](https://mastodon.social/@jzzocc)'s software studio, [Metabolist](https://metabolist.org/) and is as [Open Source](https://github.com/metabolist/metatext) as it gets! (As per my hardware keyboard shortcuts crusade, I added [my own issue](https://github.com/metabolist/metatext/issues/40) requesting support.) [u/GummyKibble](https://www.reddit.com/user/GummyKibble/) noted that "it looks like a native app on both iOS and iPadOS." This term - *native* - seems 
+Metatext is perhaps the buzziest of all these apps - well-praised in every space I could find conversation on the subject. It's developed under [Justin Mazzocchi](https://mastodon.social/@jzzocc)'s software studio, [Metabolist](https://metabolist.org/) and is as [Open Source](https://github.com/metabolist/metatext) as it gets! (As per my hardware keyboard shortcuts crusade, I added [my own issue](https://github.com/metabolist/metatext/issues/40) requesting support.) [u/GummyKibble](https://www.reddit.com/user/GummyKibble/) noted that "it looks like a native app on both iOS and iPadOS." This term - *native* - seems inextricably linked with Metatext. I vaguely understand what it means, and I do agree, but it's worth noting that I speak with some privilege, having compared all of these apps on the top performing handset Apple currently has to offer. In many ways, it is the most frugal of the new offerings, especially, yet it strikes a keen balance between function and delight.
 
+## Less-Than-Sanctioned
+
+![Tootle for iOS](https://i.snap.as/S6VkSlY0.png)
+
+### [Tootle](https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466)
+
+I'm not entirely positive which Mastodon app was *actually* the first on my iPhone, back in 2017, but I know for sure it was either Amaroq or the dearest, infinitely-colorful Tootle. Its [App Store Page](https://mastodon.cloud/@tootleapp) Version History suggests it has not been updated in 14 months, yet the app - which was apparently "designed for iPad" - appears to be working just fine. There are some overlapping UI elements, but they're barely noticeable. Were it not for the new dev-facing store search tool mentioned above, I would have assumed this app long gone, to be honest, but using it again has somehow managed to genuinely twinge my nostalgia nerve.
+
+In my search for any extra-App Store representation other than [Tootle's Mastodon Account](https://mastodon.cloud/@tootleapp) (which last posted the day after my birthday, last year,) I discovered [Tootle... for Linux](https://ubuntuhandbook.org/index.php/2020/11/tootle-l-gtk3-mastodon-client-linux/). Since I am a dedicated and thorough person, these days, I spent several hours messing around with Linux Virtual Machining until Lubuntu finally functioned *just* so I could show you what it looks like. Below is a screen capture of Tootle bordered by the most Macish LXQ desktop bars included in Lubuntu and *even* wearing the new official Apple System Font, SF Pro. Still, I think you'll agree... Tootle for Linux is not related to Tootle.
+
+<img src="https://i.snap.as/Rx3Eu9GA.png" alt="Tootle for Linux" style="zoom:50%;" />
+
+Personally, I find this a profound shame - I think more apps should be as colorful - and as color *configurable* - as this little, mysterious Mastodon app. I created the theme you see represented in the frames embedded above using *The Psalms* colors, naturally, and the whole process took less than five minutes. Play around with it as I remember doing, all those years ago, and you'd be surprised how hard it is to create an unusable color theme. What I find *most* shame in, though, is that Tootle appears to be completely invisible in regular app store searches, now. (And by "*most* shame," you know I really mean *entirely fucking unacceptable*.)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WBZtmOqyk8c?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+`https://www.youtube.com/watch?v=WBZtmOqyk8c`
+
+![Tusker on iOS](https://i.snap.as/82RtZcyl.png)	
+
+### [Tusker](https://testflight.apple.com/join/wtB7HYvG)
+
+I found my way to the only *currently in-development* entry on this list thanks to my Mastodon friend [wakest](https://social.wake.st/@liaizon). iOS developer [Shadowfacts](https://social.shadowfacts.net/users/shadowfacts) (who also maintains [*shadowfacts.net*](https://shadowfacts.net/)) is working on their considerate, distinct app, Tusker in [this self-hosted Repository](https://git.shadowfacts.net/shadowfacts/Tusker). In [#tusker](https://mastodon.social/web/timelines/tag/tusker) on Mastodon, you'll find a few poignant praises from [Pixelfed](https://pixelfed.org/) founder and principal developer [Dan Sup](https://mastodon.social/@dansup), which - from my perspective - is especially high, indeed. 
+
+![Tusker Landscape Mode!](https://i.snap.as/jZudSEdQ.png)
+
+You, yourself can use Tusker *right this very minute* via Apple's beta distribution system, [Testflight](https://testflight.apple.com/), via [**this invite link**](https://testflight.apple.com/join/wtB7HYvG).
