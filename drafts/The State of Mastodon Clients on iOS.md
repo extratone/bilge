@@ -145,6 +145,12 @@ I found my way to the only *currently in-development* entry on this list thanks 
 
 You, yourself can use Tusker *right this very minute* via Apple's beta distribution system, [Testflight](https://testflight.apple.com/), via [**this invite link**](https://testflight.apple.com/join/wtB7HYvG).
 
+![Roma for iOS](https://i.snap.as/oBYO4T1e.png)
+
+### [Roma](https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699)
+
+
+
 
 
 ![Mastodon Account Wordcloud](https://user-images.githubusercontent.com/43663476/122717470-43f08a00-d231-11eb-890f-dfa3ff33b65d.png)
