@@ -166,12 +166,28 @@
 * [App Store Page](https://apps.apple.com/us/app/oyakodon-for-mastodon/id1229174544): `https://apps.apple.com/us/app/oyakodon-for-mastodon/id1229174544`
 * [Web Page](http://tech-en.andhandworks.com/2017/04/ios-app-my-book-store.html): `http://tech-en.andhandworks.com/2017/04/ios-app-my-book-store.html`
 * `![Oyakodon for iOS](https://i.snap.as/sFfxE4R7.png)`
+**Cute Theme**
+* #FEFF00
+* #2B90D8
+* #E5BBB9
+* `![Oyakodon Cute Theme Palette](https://i.snap.as/AFbihGYF.jpeg)`
+
 
 ### StarPterano
 
 * [App Store Page](https://apps.apple.com/us/app/starpterano/id1436972796): `https://apps.apple.com/us/app/starpterano/id1436972796`
+* [GitHub Repository](https://github.com/pgostation/StarPterano-iOS5): `https://github.com/pgostation/StarPterano-iOS5`
+* + [My Fork](https://github.com/extratone/StarPterano): `https://github.com/extratone/StarPterano`
 * [Twitter Account](https://twitter.com/pgo): `https://twitter.com/pgo`
 * `![StarPterano for iOS](https://i.snap.as/D34uONFT.png)`
+
+### tooot
+* [App Store Page](https://apps.apple.com/us/app/tooot/id1549772269): `https://apps.apple.com/us/app/tooot/id1549772269`
+* [GitHub Repository](https://github.com/tooot-app/app): `https://github.com/tooot-app/app`
+* “[Building my first app - tooot](https://xmflsct.com/2021/tooot/)” | Zhiyuan' Portfolio [[Building my first app]]
+* [Zhiyuan Zheng‘s portfolio](https://xmflsct.com): `https://xmflsct.com`
+* [[Zhiyuan Zheng's Portfolio]]
+* `![tooot for iOS](https://i.snap.as/b0GaeasV.png)`
 
 # Unmentioned, but currently in Public Beta and/or For Sale
 
