@@ -4,7 +4,7 @@
 
 ![Mastodon iOS Apps Surveyed](https://i.snap.as/3q29AwpI.png)
 
-## A survey of third-party Mastodon clients on iOS.
+## A safari through the enchanting space of third-party Mastodon clients on iOS.
 
 Apple's second virtual World Wide Developer Conference came and went as I wrote this guide - you can metaphorically picture me looking up from my machine having overheard the news of the [2021 Apple Design Award Winners](https://developer.apple.com/design/awards/) announcement. Perusing through them, I saw two I would have voted for, myself: [CARROT Weather](https://apps.apple.com/us/app/carrot-weather/id961390574) - the [beautifully vulgar](https://twitter.com/NeoYokel/status/1368223231111557125), grumpy bitch frontend for your preferred weather information service, and [Craft](https://apps.apple.com/us/app/craft-docs-and-notes-editor/id1487937127) - perhaps the most innovative take on word processing of the past two or three years - listed under "Finalists." (Read: losers.) The most positive personal discovery of (all?) WWDCs: an app called [**Be My Eyes**](https://www.bemyeyes.com/), which "connects blind and low-vision people with sighted volunteers and company representatives for visual assistance through a live video call," along with an exceptionally crafted, cross-device accessible-as-fuck TTS solution called [Voice Dream Reader](https://apps.apple.com/us/app/voice-dream-reader/id496177674). *However*, a double take in games from Genshin Impact and [the fucking *League of Legends* game](https://apps.apple.com/ph/app/league-of-legends-wild-rift/id1480616990) certainly sours the mouth and suggest yet further just how much Apple, Inc. has *sold out*. Also, the fact that [Poolside's app](https://apps.apple.com/gb/app/poolside-fm/id1514817810) made the page at all is incredibly frustrating, despite how cheeky I've found its vaporwave-informed UI fuckery since beta. 
 
@@ -76,8 +76,6 @@ I originally had high hopes for Shihab Mehboob‘s [Mast](https://apps.apple.com
 
 `https://twitter.com/JPEGuin/status/1354854403124178947`
 
-Hopefully without unnecessarily "outing" anyone, I must point out that the original Mast does, in fact, live on. I noticed 
-
 ![Mast Details](https://i.snap.as/UsH95qJv.png)
 
 ![Amaroq for iOS](https://i.snap.as/JV5vzmky.png)
@@ -148,6 +146,40 @@ You, yourself can use Tusker *right this very minute* via Apple's beta distribut
 ![Roma for iOS](https://i.snap.as/oBYO4T1e.png)
 
 ### [Roma](https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699)
+
+Installing Roma for the first time led to a puzzling quest with a particularly pleasant end. I noticed fairly quickly that the iOS app was a re-branded release of what used to be Mast. My first instinct upon this discovery was to DM Mast's original developer, [Shihab Meboob](https://twitter.com/JPEGuin), on Twitter, but frankly, I've already bothered him enough there over the years, so it's understandable that I didn't hear back. When I downloaded the desktop app I found on [Roma's web page](https://www.roma.rocks/#desktop) and noticed its similarity to [Whalebird](https://whalebird.social/en/desktop/contents), I decided to use the site's contact form to [inquire](https://github.com/extratone/bilge/blob/main/correspondence/Roma%20Inquiry.md) about what exactly was going on as gingerly as I could. Happily, I received a reply just *minutes* later from Leo Radvinsky, head of [Leo.com](https://leo.com/), "a Florida-based boutique venture capital fund that invests in technology companies:"
+
+> Hi David, 
+>
+> In both cases we funded the original developers of both Mast and Whalebird to create a branded whitelabel app specially made for Pleroma. The idea was to make Roma a cross platform brand/app. It didn't really work out so now we're working on a new app from scratch called Fedi for iOS and Android and releasing that as open source. 
+>
+> https://play.google.com/store/apps/details?id=com.fediverse.app&hl=en_US&gl=US 
+>
+> https://apps.apple.com/in/app/fedi-for-pleroma-and-mastodon/id1478806281 
+>
+> I think Roma has been removed from the app stores as it's no longer supported. 
+>
+> Let me know if you have any other questions
+
+Though my hopes for the original Mast to live on in Roma form were more or less dashed by this message, the suggestion that someone is investing **actual capital** into federated social is certainly worth celebrating. If Roma is still available on the App Store as you're reading this, I insist you download it immediately. It represents an incredible and original attention to detail which should not simply be forgotten.
+
+![Fedi for iOS](https://i.snap.as/4TO8CL5D.png)
+
+### [Fedi](https://apps.apple.com/us/app/fedi-for-pleroma-and-mastodon/id1478806281)
+
+Naturally, the app inheriting the work/resources established by Mast and Roma, called Fedi, should be next up for discussion. Hopefully, my relative lack of experience with [Pleroma](https://pleroma.social/) - a federated predecessor to Mastodon, as I understand it - won't let you down, here. After a brief shock from the uniqueness of Fedi's UI passes, one immediately notices how beautifully it is animated, wholly disregarding my [recently-acquired](https://twitter.com/NeoYokel/status/1357394407201398791) preference for as little animation as possible. Perhaps more than any other app discussed here, Fedi feels uncannily bespoke in a way which iOS apps almost never do. It is undoubtedly the result of a very specific vision - to disregard the whole modern template for social apps and completely reimagine the archetype. Personally, I'm not sure if it would be easy to get used to, but my tastes/habits in this regard are very much the result of the past decade of proprietary social apps' blandness. Going forward with substantial financial backing and the talents of whoever it was that got it this far, no doubt we should all have very high hopes for Fedi.
+
+![DUDU (嘟嘟) for iOS](https://i.snap.as/Kt8ZbQFk.png)
+
+### [DUDU (嘟嘟)](https://bit.ly/duduios) 
+
+DUDU (or "嘟嘟," which translates to "Toot," appropriately,) definitely wins for *Cutest Iconography*. It's a non-English-native application with exceptional English support, which I personally appreciate very much. Compared the entries immediately above, DUDU represents a much more modest interpretation of what a Mastodon client can offer. Its robust, free of over-animation, and - most distinctly - very *wide*, which might have something to do with the "designed for iPad" subtitle on its App Store Page.
+
+![Tootoise for iOS](https://i.snap.as/AZ7fRWc7.png)
+
+### [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190)
+
+Yet another "Designed for iPad" entry, Naoki Kuwata's [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) is defined by its custom incoming post rate accommodations and its gorgeous Solarized theme.
 
 
 
