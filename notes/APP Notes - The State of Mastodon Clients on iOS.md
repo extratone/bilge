@@ -147,6 +147,32 @@
 * [Mastodon account](https://mastodon.social/@tootoise): `https://mastodon.social/@tootoise`
 * `![Tootoise for iOS](https://i.snap.as/AZ7fRWc7.png)`
 
+### Stella
+
+* [App Store Page](https://apps.apple.com/us/app/stella/id921372048): `https://apps.apple.com/us/app/stella/id921372048`
+* [Web page](https://www.stella-app.net/): `https://www.stella-app.net/`
+* `![Stella for iOS](https://i.snap.as/LzzNxqj9.png)`
+* [Stardust?](http://web.archive.org/web/20191130033521/https://www.stella-app.net/)
+
+### B4X for Pleroma & Mastodon 
+
+* [App Store Page](https://apps.apple.com/us/app/b4x-for-pleroma-mastodon/id1538396871): `https://apps.apple.com/us/app/b4x-for-pleroma-mastodon/id1538396871`
+* [Web Page](https://www.b4x.com/): `https://www.b4x.com/`
+* GitHub Repository: `https://github.com/AnywhereSoftware/B4X-Pleroma`
+* `![B4X for Pleroma & Mastodon for iOS](https://i.snap.as/aSYoZ8t2.png)`
+
+### Oyakodon
+
+* [App Store Page](https://apps.apple.com/us/app/oyakodon-for-mastodon/id1229174544): `https://apps.apple.com/us/app/oyakodon-for-mastodon/id1229174544`
+* [Web Page](http://tech-en.andhandworks.com/2017/04/ios-app-my-book-store.html): `http://tech-en.andhandworks.com/2017/04/ios-app-my-book-store.html`
+* `![Oyakodon for iOS](https://i.snap.as/sFfxE4R7.png)`
+
+### StarPterano
+
+* [App Store Page](https://apps.apple.com/us/app/starpterano/id1436972796): `https://apps.apple.com/us/app/starpterano/id1436972796`
+* [Twitter Account](https://twitter.com/pgo): `https://twitter.com/pgo`
+* `![StarPterano for iOS](https://i.snap.as/D34uONFT.png)`
+
 # Unmentioned, but currently in Public Beta and/or For Sale
 
 <img src="../images/Tusker Icon.png" alt="Tusker Icon" style="zoom:25%;" />

@@ -181,7 +181,17 @@ Yet another "Designed for iPad" entry, Naoki Kuwata's [Tootoise](https://apps.ap
 
 Yet another entirely one-of-a-kind experience, the slightly-mysterious Stella is listed as a "Mastodon, Twitter & News Client," and is notably the *only* app in this list which does indeed support Twitter! More than that, it is the first app I've seen in a very long time that allows one to *simultaneously* post to two separate social services (Twitter and Mastodon, in this case.) Without documentation, it's a bit clunky, but its customizable timelines feature also allows one to combine multiple "sources" (social accounts) into a single timeline.
 
+![B4X for Pleroma & Mastodon for iOS](https://i.snap.as/aSYoZ8t2.png)
 
+### [B4X](https://apps.apple.com/us/app/b4x-for-pleroma-mastodon/id1538396871) 
+
+B4X is yet another quite perplexing entry. The "Developer Website" link on its App Store Page leads to [b4x.com](https://www.b4x.com/contact_us.html) - a web page entitled "Anywhere Software." The GitHub icon in its footer led me to discover [a repository](https://github.com/AnywhereSoftware/B4X-Pleroma) which is labeled as such to lead one to believe it is, indeed, the development space for the iOS app we're discussing, but does not contain a single .swift or .pbxproj file - universally essential for iOS apps, as I understand it. Regardless, B4X appears to be built atop Anywhere Software's "rapid application development tools." I like its elemental simplicity and nice 'n' wide post display.
+
+![Oyakodon for iOS](https://i.snap.as/sFfxE4R7.png)
+
+### [Oyakodon](https://apps.apple.com/us/app/oyakodon-for-mastodon/id1229174544)
+
+Isao Takeyasu's Oyakodon feels a bit like it originally began as a school project, and I mean that in the best possible sense.
 
 
 
