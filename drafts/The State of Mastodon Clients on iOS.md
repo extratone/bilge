@@ -1,7 +1,5 @@
 # The State of Mastodon iOS Apps
 
-![Masto Mascot iOS Art](https://i.snap.as/Y624NGHM.jpg)
-
 ![Mastodon iOS Apps Surveyed](https://i.snap.as/3q29AwpI.png)
 
 ## A safari through the enchanting space of third-party Mastodon clients on iOS.
@@ -14,6 +12,8 @@ Despite how deeply I've gone into iOS this year, I do not believe myself to be a
 
 I must confess: I have been _meaning_ to write this app guide since even before I [interviewed Mastodon creator Eugen Rochko](https://bilge.world/eugen-rochko-interview) on the morning of his Big Press Day, just over 4 years ago. I’ve exhaustively explored different means of convincing my own longtime Twitter friends to move, over that time, with very little success. Eugen, himself, published an [official blog post](https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/) at the beginning of February detailing his plans to open up onboarding by way of “an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform.” As a Patreon supporter of [The Mastodon Project](https://www.patreon.com/mastodon) (full disclosure,) I can tell you that progress is good, but we shouldn’t expect to see a release version of the app for the remainder of this year. That said, I thought it might be worth going over the third-party options iOS users currently have available to them, largely because the offerings are each innovative and mature applications in their own right. ==Also, it’s become quite apparent that the normal tech media sources you’d go to for such a guide aren’t going to give Mastodon the attention it deserves.==
 
+![Masto Mascot iOS Art](https://i.snap.as/Y624NGHM.jpg)
+
 ## Obligatory(?) Context
 
 I originally intended to be as clinical as possible in this Post, having realized its potential as the singular comparison of its kind to appear in search results for new and potential users of Mastodon. From my perspective, Mastodon has long since surpassed regard as a novel social media experiment who's function is to prompt academic conversations about decentralization, open source, ad tech, and federated social's solutions to all of the Big Web's Big Boy (proprietary) Problems (though I have been compelled to [invest significantly](https://github.com/extratone/bigblue) in that very conversation.) In the less intellectual hours of my day-to-day life (read: most of the time,) Mastodon is nothing more or less than my favorite place on the internet. It is a relentless delight which I only lament because I want to share so much of it with my friends, but have continued to fail in my efforts to articulate that **Mastodon is not a compromise; it is a better social space**.
@@ -24,9 +24,7 @@ If you didn't know, this seems to have become *my general shit*, for lack of a b
 
 *Oh boy, here we go...* No. I did not want to say anything ideological - I wanted this Post to function as little more than a pretty screenshot showcase and simple associative list responding to all of the Reddit posts I've seen to the tune of "is there an iPhone app?" As I explored them, however, I was reminded of the sheer creativity the "alternative" software community is capable of. Even the roughest of these considered apps seem unable to be faceless - sorting through the obscene amount of (unlabeled) screenshots accumulated over the past weeks of testing in my Recents folder has been *so* much easier than I thought it would be because of their relentless originality. If you've actually used any iOS applications and/or browsed the singular App Store from which they can be acquired in the past 3-4 years, you're undoubtedly skeptical: what we might have called "feature overlap"  at one time has become all but the platform's core ethos. If you're the sort who enjoys screwing around with apps, generally, as I have for the whole of iPhone history, you have grown accustomed to disappointment.
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">so! I found a way to actually find the apps you’re looking for on the App Store! the search function in this dev-facing tool *ACTUALLY WORKS*!!! <a href="https://t.co/XrsStvXq57">https://t.co/XrsStvXq57</a></p>&mdash; ※ David Blue ※ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1402057069927309318">June 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-`https://twitter.com/NeoYokel/status/1402057069927309318`
+https://twitter.com/NeoYokel/status/1402057069927309318
 
 Regardless of who is to blame, we can all agree that the App Store is currently oversaturated nigh *beyond usability* with mediocre entries built from the beginning with zero apparent ambition toward original function. This, alone, wouldn't be so problematic if Discovery were not so [completely and totally Fucked](https://twitter.com/NeoYokel/status/1379068906917224448) (except when [dev-facing](https://tools.applemediaservices.com/app-store/),) but I needn't comment further on that subject at the moment - I'm just trying emphasize how absolutely unheard of it is for a single protocol/service's third-party client representation on iOS to be so thoroughly special. It was astonishing to find all but one or two of these apps *in a functional state*, actually. In all my equivalent experiences downloading the entirety of a given service's API-supported palette (e.g. IRC apps, [topically](https://www.vice.com/en/article/pkbgvg/major-internet-projects-are-leaving-freenode-after-korean-prince-takeover),) an all-too-significant purpose of whatever ends up getting published is simply documenting the ~20% of available titles that *actually work* at the given moment. (I'd have mentioned the "best [service/task] iPhone apps for [year]" listicles found in online publications like *Digital Trends* were it not for the percentage of them in which it's clear the author *did not actually download* some/most of the apps listed‽‽‽) Perhaps due to [iOS 14.5's implementation of ATT](https://www.wsj.com/video/series/joanna-stern-personal-technology/apple-software-chief-explains-ios-145-defends-companys-reach-exclusive/57D138E3-3677-4A78-9534-62DAD443FE97), all of the Mastodon apps I could find and test (not counting non-English language-supporting apps, in fairness' interest) are currently functioning.
 
@@ -72,9 +70,7 @@ In my experience, it’s also the most robust of the lot - as in, it is very muc
 
 I originally had high hopes for Shihab Mehboob‘s [Mast](https://apps.apple.com/us/app/mast-for-mastodon/id1437429129) - which used to look very different from the way it does, today. That’s almost certainly to do with its ownership [changing hands](https://twitter.com/jpeguin/status/1354854403124178947) at some point (no, I do not have any further details on that story, unfortunately.) That’s not to say the current app isn’t a worthwhile offering, it’s just far less _visually ambitious_ than the original I remember. However, it’s also significantly more reliable.
 
-<blockquote class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">They were there last time I checked, but Mast isn’t owned and maintained by me anymore so not sure.</p>&mdash; Shihab Mehboob (@JPEGuin) <a href="https://twitter.com/JPEGuin/status/1354854403124178947">January 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-`https://twitter.com/JPEGuin/status/1354854403124178947`
+https://twitter.com/JPEGuin/status/1354854403124178947
 
 ![Mast Details](https://i.snap.as/UsH95qJv.png)
 
@@ -125,13 +121,11 @@ I'm not entirely positive which Mastodon app was *actually* the first on my iPho
 
 In my search for any extra-App Store representation other than [Tootle's Mastodon Account](https://mastodon.cloud/@tootleapp) (which last posted the day after my birthday, last year,) I discovered [Tootle... for Linux](https://ubuntuhandbook.org/index.php/2020/11/tootle-l-gtk3-mastodon-client-linux/). Since I am a dedicated and thorough person, these days, I spent several hours messing around with Linux Virtual Machining until Lubuntu finally functioned *just* so I could show you what it looks like. Below is a screen capture of Tootle bordered by the most Macish LXQ desktop bars included in Lubuntu and *even* wearing the new official Apple System Font, SF Pro. Still, I think you'll agree... Tootle for Linux is not related to Tootle.
 
-<img src="https://i.snap.as/Rx3Eu9GA.png" alt="Tootle for Linux" style="zoom:50%;" />
+![Tootle for Linux](https://i.snap.as/Rx3Eu9GA.png)
 
 Personally, I find this a profound shame - I think more apps should be as colorful - and as color *configurable* - as this little, mysterious Mastodon app. I created the theme you see represented in the frames embedded above using *The Psalms* colors, naturally, and the whole process took less than five minutes. Play around with it as I remember doing, all those years ago, and you'd be surprised how hard it is to create an unusable color theme. What I find *most* shame in, though, is that Tootle appears to be completely invisible in regular app store searches, now. (And by "*most* shame," you know I really mean *entirely fucking unacceptable*.)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WBZtmOqyk8c?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-`https://www.youtube.com/watch?v=WBZtmOqyk8c`
+https://www.youtube.com/watch?v=WBZtmOqyk8c
 
 ![Tusker on iOS](https://i.snap.as/82RtZcyl.png)	
 
@@ -179,7 +173,7 @@ DUDU (or "嘟嘟," which translates to "Toot," appropriately,) definitely wins f
 
 ### [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190)
 
-Yet another "Designed for iPad" entry, Naoki Kuwata's [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) is defined by its custom incoming post rate accommodations and its gorgeous Solarized theme.
+Yet another "Designed for iPad" entry, Naoki Kuwata's [Tootoise](https://apps.apple.com/us/app/tootoise/id1465090190) is defined by its custom incoming post rate accommodations and its gorgeous Solarized theme. Its "Max number of new arrival posts" setting ranges from 0-400, allowing one to freeze their timeline
 
 
 
