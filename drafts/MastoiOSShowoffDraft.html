@@ -1,0 +1,2715 @@
+<!doctype html>
+<html>
+<head>
+<meta charset='UTF-8'><meta name='viewport' content='width=device-width initial-scale=1'>
+<meta name="author" content="David Blue">
+<link href='file://C://Users//david//AppData//Roaming//Typora/themes/gitbook/fonts.css' rel='stylesheet' type='text/css' /><link href='file://C://Users//david//AppData//Roaming//Typora/themes/gitbook/slate-colors.css' rel='stylesheet' type='text/css' /><style type='text/css'>html {overflow-x: initial !important;}:root { --bg-color:#ffffff; --text-color:#333333; --select-text-bg-color:#B5D6FC; --select-text-font-color:auto; --monospace:"Lucida Console",Consolas,"Courier",monospace; --title-bar-height:20px; }
+.mac-os-11 { --title-bar-height:28px; }
+html { font-size: 14px; background-color: var(--bg-color); color: var(--text-color); font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; -webkit-font-smoothing: antialiased; }
+body { margin: 0px; padding: 0px; height: auto; bottom: 0px; top: 0px; left: 0px; right: 0px; font-size: 1rem; line-height: 1.42857; overflow-x: hidden; background: inherit; tab-size: 4; }
+iframe { margin: auto; }
+a.url { word-break: break-all; }
+a:active, a:hover { outline: 0px; }
+.in-text-selection, ::selection { text-shadow: none; background: var(--select-text-bg-color); color: var(--select-text-font-color); }
+#write { margin: 0px auto; height: auto; width: inherit; word-break: normal; overflow-wrap: break-word; position: relative; white-space: normal; overflow-x: visible; padding-top: 36px; }
+#write.first-line-indent p { text-indent: 2em; }
+#write.first-line-indent li p, #write.first-line-indent p * { text-indent: 0px; }
+#write.first-line-indent li { margin-left: 2em; }
+.for-image #write { padding-left: 8px; padding-right: 8px; }
+body.typora-export { padding-left: 30px; padding-right: 30px; }
+.typora-export .footnote-line, .typora-export li, .typora-export p { white-space: pre-wrap; }
+.typora-export .task-list-item input { pointer-events: none; }
+@media screen and (max-width: 500px) {
+  body.typora-export { padding-left: 0px; padding-right: 0px; }
+  #write { padding-left: 20px; padding-right: 20px; }
+  .CodeMirror-sizer { margin-left: 0px !important; }
+  .CodeMirror-gutters { display: none !important; }
+}
+#write li > figure:last-child { margin-bottom: 0.5rem; }
+#write ol, #write ul { position: relative; }
+img { max-width: 100%; vertical-align: middle; image-orientation: from-image; }
+button, input, select, textarea { color: inherit; font: inherit; }
+input[type="checkbox"], input[type="radio"] { line-height: normal; padding: 0px; }
+*, ::after, ::before { box-sizing: border-box; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p, #write pre { width: inherit; }
+#write h1, #write h2, #write h3, #write h4, #write h5, #write h6, #write p { position: relative; }
+p { line-height: inherit; }
+h1, h2, h3, h4, h5, h6 { break-after: avoid-page; break-inside: avoid; orphans: 4; }
+p { orphans: 4; }
+h1 { font-size: 2rem; }
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.6rem; }
+h4 { font-size: 1.4rem; }
+h5 { font-size: 1.2rem; }
+h6 { font-size: 1rem; }
+.md-math-block, .md-rawblock, h1, h2, h3, h4, h5, h6, p { margin-top: 1rem; margin-bottom: 1rem; }
+.hidden { display: none; }
+.md-blockmeta { color: rgb(204, 204, 204); font-weight: 700; font-style: italic; }
+a { cursor: pointer; }
+sup.md-footnote { padding: 2px 4px; background-color: rgba(238, 238, 238, 0.7); color: rgb(85, 85, 85); border-radius: 4px; cursor: pointer; }
+sup.md-footnote a, sup.md-footnote a:hover { color: inherit; text-transform: inherit; text-decoration: inherit; }
+#write input[type="checkbox"] { cursor: pointer; width: inherit; height: inherit; }
+figure { overflow-x: auto; margin: 1.2em 0px; max-width: calc(100% + 16px); padding: 0px; }
+figure > table { margin: 0px; }
+tr { break-inside: avoid; break-after: auto; }
+thead { display: table-header-group; }
+table { border-collapse: collapse; border-spacing: 0px; width: 100%; overflow: auto; break-inside: auto; text-align: left; }
+table.md-table td { min-width: 32px; }
+.CodeMirror-gutters { border-right: 0px; background-color: inherit; }
+.CodeMirror-linenumber { user-select: none; }
+.CodeMirror { text-align: left; }
+.CodeMirror-placeholder { opacity: 0.3; }
+.CodeMirror pre { padding: 0px 4px; }
+.CodeMirror-lines { padding: 0px; }
+div.hr:focus { cursor: none; }
+#write pre { white-space: pre-wrap; }
+#write.fences-no-line-wrapping pre { white-space: pre; }
+#write pre.ty-contain-cm { white-space: normal; }
+.CodeMirror-gutters { margin-right: 4px; }
+.md-fences { font-size: 0.9rem; display: block; break-inside: avoid; text-align: left; overflow: visible; white-space: pre; background: inherit; position: relative !important; }
+.md-fences-adv-panel { width: 100%; margin-top: 10px; text-align: center; padding-top: 0px; padding-bottom: 8px; overflow-x: auto; }
+#write .md-fences.mock-cm { white-space: pre-wrap; }
+.md-fences.md-fences-with-lineno { padding-left: 0px; }
+#write.fences-no-line-wrapping .md-fences.mock-cm { white-space: pre; overflow-x: auto; }
+.md-fences.mock-cm.md-fences-with-lineno { padding-left: 8px; }
+.CodeMirror-line, twitterwidget { break-inside: avoid; }
+.footnotes { opacity: 0.8; font-size: 0.9rem; margin-top: 1em; margin-bottom: 1em; }
+.footnotes + .footnotes { margin-top: 0px; }
+.md-reset { margin: 0px; padding: 0px; border: 0px; outline: 0px; vertical-align: top; background: 0px 0px; text-decoration: none; text-shadow: none; float: none; position: static; width: auto; height: auto; white-space: nowrap; cursor: inherit; -webkit-tap-highlight-color: transparent; line-height: normal; font-weight: 400; text-align: left; box-sizing: content-box; direction: ltr; }
+li div { padding-top: 0px; }
+blockquote { margin: 1rem 0px; }
+li .mathjax-block, li p { margin: 0.5rem 0px; }
+li blockquote { margin: 1rem 0px; }
+li { margin: 0px; position: relative; }
+blockquote > :last-child { margin-bottom: 0px; }
+blockquote > :first-child, li > :first-child { margin-top: 0px; }
+.footnotes-area { color: rgb(136, 136, 136); margin-top: 0.714rem; padding-bottom: 0.143rem; white-space: normal; }
+#write .footnote-line { white-space: pre-wrap; }
+@media print {
+  body, html { border: 1px solid transparent; height: 99%; break-after: avoid; break-before: avoid; font-variant-ligatures: no-common-ligatures; }
+  #write { margin-top: 0px; padding-top: 0px; border-color: transparent !important; }
+  .typora-export * { -webkit-print-color-adjust: exact; }
+  .typora-export #write { break-after: avoid; }
+  .typora-export #write::after { height: 0px; }
+  .is-mac table { break-inside: avoid; }
+  .typora-export-show-outline .typora-export-sidebar { display: none; }
+}
+.footnote-line { margin-top: 0.714em; font-size: 0.7em; }
+a img, img a { cursor: pointer; }
+pre.md-meta-block { font-size: 0.8rem; min-height: 0.8rem; white-space: pre-wrap; background: rgb(204, 204, 204); display: block; overflow-x: hidden; }
+p > .md-image:only-child:not(.md-img-error) img, p > img:only-child { display: block; margin: auto; }
+#write.first-line-indent p > .md-image:only-child:not(.md-img-error) img { left: -2em; position: relative; }
+p > .md-image:only-child { display: inline-block; width: 100%; }
+#write .MathJax_Display { margin: 0.8em 0px 0px; }
+.md-math-block { width: 100%; }
+.md-math-block:not(:empty)::after { display: none; }
+.MathJax_ref { fill: currentcolor; }
+[contenteditable="true"]:active, [contenteditable="true"]:focus, [contenteditable="false"]:active, [contenteditable="false"]:focus { outline: 0px; box-shadow: none; }
+.md-task-list-item { position: relative; list-style-type: none; }
+.task-list-item.md-task-list-item { padding-left: 0px; }
+.md-task-list-item > input { position: absolute; top: 0px; left: 0px; margin-left: -1.2em; margin-top: calc(1em - 10px); border: none; }
+.math { font-size: 1rem; }
+.md-toc { min-height: 3.58rem; position: relative; font-size: 0.9rem; border-radius: 10px; }
+.md-toc-content { position: relative; margin-left: 0px; }
+.md-toc-content::after, .md-toc::after { display: none; }
+.md-toc-item { display: block; color: rgb(65, 131, 196); }
+.md-toc-item a { text-decoration: none; }
+.md-toc-inner:hover { text-decoration: underline; }
+.md-toc-inner { display: inline-block; cursor: pointer; }
+.md-toc-h1 .md-toc-inner { margin-left: 0px; font-weight: 700; }
+.md-toc-h2 .md-toc-inner { margin-left: 2em; }
+.md-toc-h3 .md-toc-inner { margin-left: 4em; }
+.md-toc-h4 .md-toc-inner { margin-left: 6em; }
+.md-toc-h5 .md-toc-inner { margin-left: 8em; }
+.md-toc-h6 .md-toc-inner { margin-left: 10em; }
+@media screen and (max-width: 48em) {
+  .md-toc-h3 .md-toc-inner { margin-left: 3.5em; }
+  .md-toc-h4 .md-toc-inner { margin-left: 5em; }
+  .md-toc-h5 .md-toc-inner { margin-left: 6.5em; }
+  .md-toc-h6 .md-toc-inner { margin-left: 8em; }
+}
+a.md-toc-inner { font-size: inherit; font-style: inherit; font-weight: inherit; line-height: inherit; }
+.footnote-line a:not(.reversefootnote) { color: inherit; }
+.md-attr { display: none; }
+.md-fn-count::after { content: "."; }
+code, pre, samp, tt { font-family: var(--monospace); }
+kbd { margin: 0px 0.1em; padding: 0.1em 0.6em; font-size: 0.8em; color: rgb(36, 39, 41); background: rgb(255, 255, 255); border: 1px solid rgb(173, 179, 185); border-radius: 3px; box-shadow: rgba(12, 13, 14, 0.2) 0px 1px 0px, rgb(255, 255, 255) 0px 0px 0px 2px inset; white-space: nowrap; vertical-align: middle; }
+.md-comment { color: rgb(162, 127, 3); opacity: 0.8; font-family: var(--monospace); }
+code { text-align: left; vertical-align: initial; }
+a.md-print-anchor { white-space: pre !important; border-width: initial !important; border-style: none !important; border-color: initial !important; display: inline-block !important; position: absolute !important; width: 1px !important; right: 0px !important; outline: 0px !important; background: 0px 0px !important; text-decoration: initial !important; text-shadow: initial !important; }
+.md-inline-math .MathJax_SVG .noError { display: none !important; }
+.html-for-mac .inline-math-svg .MathJax_SVG { vertical-align: 0.2px; }
+.md-fences-math .MathJax_SVG_Display, .md-math-block .MathJax_SVG_Display { text-align: center; margin: 0px; position: relative; text-indent: 0px; max-width: none; max-height: none; min-height: 0px; min-width: 100%; width: auto; overflow-y: visible; display: block !important; }
+.MathJax_SVG_Display, .md-inline-math .MathJax_SVG_Display { width: auto; margin: inherit; display: inline-block !important; }
+.MathJax_SVG .MJX-monospace { font-family: var(--monospace); }
+.MathJax_SVG .MJX-sans-serif { font-family: sans-serif; }
+.MathJax_SVG { display: inline; font-style: normal; font-weight: 400; line-height: normal; text-indent: 0px; text-align: left; text-transform: none; letter-spacing: normal; word-spacing: normal; overflow-wrap: normal; white-space: nowrap; float: none; direction: ltr; max-width: none; max-height: none; min-width: 0px; min-height: 0px; border: 0px; padding: 0px; margin: 0px; zoom: 90%; }
+#math-inline-preview-content { zoom: 1.1; }
+.MathJax_SVG * { transition: none 0s ease 0s; }
+.MathJax_SVG_Display svg { vertical-align: middle !important; margin-bottom: 0px !important; margin-top: 0px !important; }
+.os-windows.monocolor-emoji .md-emoji { font-family: "Segoe UI Symbol", sans-serif; }
+.md-diagram-panel > svg { max-width: 100%; }
+[lang="flow"] svg, [lang="mermaid"] svg { max-width: 100%; height: auto; }
+[lang="mermaid"] .node text { font-size: 1rem; }
+table tr th { border-bottom: 0px; }
+video { max-width: 100%; display: block; margin: 0px auto; }
+iframe { max-width: 100%; width: 100%; border: none; }
+.highlight td, .highlight tr { border: 0px; }
+mark { background: rgb(255, 255, 0); color: rgb(0, 0, 0); }
+.md-html-inline .md-plain, .md-html-inline strong, mark .md-inline-math, mark strong { color: inherit; }
+.md-expand mark .md-meta { opacity: 0.3 !important; }
+mark .md-meta { color: rgb(0, 0, 0); }
+@media print {
+  .typora-export h1, .typora-export h2, .typora-export h3, .typora-export h4, .typora-export h5, .typora-export h6 { break-inside: avoid; }
+}
+.md-diagram-panel .messageText { stroke: none !important; }
+.md-diagram-panel .start-state { fill: var(--node-fill); }
+.md-diagram-panel .edgeLabel rect { opacity: 1 !important; }
+.md-require-zoom-fix foreignobject { font-size: var(--mermaid-font-zoom); }
+.md-fences.md-fences-math { font-size: 1em; }
+.md-fences-math .MathJax_SVG_Display { margin-top: 8px; cursor: default; }
+.md-fences-advanced:not(.md-focus) { padding: 0px; white-space: nowrap; border: 0px; }
+.md-fences-advanced:not(.md-focus) { background: inherit; }
+.typora-export-show-outline .typora-export-content { max-width: 1440px; margin: auto; display: flex; flex-direction: row; }
+.typora-export-sidebar { width: 300px; font-size: 0.8rem; margin-top: 80px; margin-right: 18px; }
+.typora-export-show-outline #write { --webkit-flex:2; flex: 2 1 0%; }
+.typora-export-sidebar .outline-content { position: fixed; top: 0px; max-height: 100%; overflow: hidden auto; padding-bottom: 30px; padding-top: 60px; width: 300px; }
+@media screen and (max-width: 1024px) {
+  .typora-export-sidebar, .typora-export-sidebar .outline-content { width: 240px; }
+}
+@media screen and (max-width: 800px) {
+  .typora-export-sidebar { display: none; }
+}
+.outline-content li, .outline-content ul { margin-left: 0px; margin-right: 0px; padding-left: 0px; padding-right: 0px; list-style: none; }
+.outline-content ul { margin-top: 0px; margin-bottom: 0px; }
+.outline-content strong { font-weight: 400; }
+.outline-expander { width: 1rem; height: 1.42857rem; position: relative; display: table-cell; vertical-align: middle; cursor: pointer; padding-left: 4px; }
+.outline-expander::before { content: ""; position: relative; font-family: Ionicons; display: inline-block; font-size: 8px; vertical-align: middle; }
+.outline-item { padding-top: 3px; padding-bottom: 3px; cursor: pointer; }
+.outline-expander:hover::before { content: ""; }
+.outline-h1 > .outline-item { padding-left: 0px; }
+.outline-h2 > .outline-item { padding-left: 1em; }
+.outline-h3 > .outline-item { padding-left: 2em; }
+.outline-h4 > .outline-item { padding-left: 3em; }
+.outline-h5 > .outline-item { padding-left: 4em; }
+.outline-h6 > .outline-item { padding-left: 5em; }
+.outline-label { cursor: pointer; display: table-cell; vertical-align: middle; text-decoration: none; color: inherit; }
+.outline-label:hover { text-decoration: underline; }
+.outline-item:hover { border-color: rgb(245, 245, 245); background-color: var(--item-hover-bg-color); }
+.outline-item:hover { margin-left: -28px; margin-right: -28px; border-left: 28px solid transparent; border-right: 28px solid transparent; }
+.outline-item-single .outline-expander::before, .outline-item-single .outline-expander:hover::before { display: none; }
+.outline-item-open > .outline-item > .outline-expander::before { content: ""; }
+.outline-children { display: none; }
+.info-panel-tab-wrapper { display: none; }
+.outline-item-open > .outline-children { display: block; }
+.typora-export .outline-item { padding-top: 1px; padding-bottom: 1px; }
+.typora-export .outline-item:hover { margin-right: -8px; border-right: 8px solid transparent; }
+.typora-export .outline-expander::before { content: "+"; font-family: inherit; top: -1px; }
+.typora-export .outline-expander:hover::before, .typora-export .outline-item-open > .outline-item > .outline-expander::before { content: "−"; }
+.typora-export-collapse-outline .outline-children { display: none; }
+.typora-export-collapse-outline .outline-item-open > .outline-children, .typora-export-no-collapse-outline .outline-children { display: block; }
+.typora-export-no-collapse-outline .outline-expander::before { content: "" !important; }
+.typora-export-show-outline .outline-item-active > .outline-item .outline-label { font-weight: 700; }
+
+
+/* roboto-300 - latin */
+/* roboto-300italic - latin */
+/* roboto-regular - latin */
+/* roboto-italic - latin */
+/* roboto-500 - latin */
+/* roboto-500italic - latin */
+/* roboto-700 - latin */
+/* roboto-700italic - latin */
+/* roboto-900 - latin */
+/* roboto-900italic - latin */
+/* sorucecodepro-400 - latin */
+@font-face {
+     font-family: 'Source Code Pro';
+     font-style: normal;
+     font-weight: 400;
+     src: local('Source Code Pro'), local('SourceCodePro-Regular'),
+     url('file:///C://Users//david//AppData//Roaming//Typora/themes/gitbook/SourceCodePro-Regular.ttf') format('truetype');
+}
+/*by 16soundsofsilence*/
+
+:root {
+  --bg-color: hsl(217, 18%, 9%);
+  --side-bar-bg-color: hsl(217, 17%, 13%);
+  --control-text-color: #e6ecf1;
+  --primary-color: #3884ff;
+  --primary-btn-border-color: #3884ff;
+  --active-file-bg-color: hsl(217, 17%, 13%);
+  --active-file-text-color: inherit;
+  --active-file-border-color: #3884ff;
+  --item-hover-text-color: #8092af;
+  --item-hover-bg-color: #1c2026;
+  --window-border: 1px solid #272c35;
+  --select-text-font-color: #e6e7eb;
+  --select-text-bg-color: #1968e6;
+
+  --md-char-color: #8092af;
+  --heading-char-color: #8092af;
+  --meta-content-color: #3783ff;
+
+  --borders: #272c35;
+  --table-border-color: #272c35;
+  --boxes: #1c2027;
+  --boxes-darker: #353b46;
+  --boxes-darker2: #3e4551;
+  --boxes-darkest: #4f5764;
+  --drag-placeholder-color: #3e4551;
+
+  --text-color: #e6e7eb;
+  --heading-text-color: white;
+  --light-text-color: #8a92a3;
+  --light-text-color-brighter: #9aa2b1;
+  --codeboxes: #183055;
+  --codeboxes-lighter: #1c375f;
+  --rawblock-edit-panel-bd: transparent;
+
+  --primary-color-darkest: #001f50;
+  --primary-color-darker2: #00307c;
+  --primary-color-darker: #1968e6;
+  --focus-ring-color: #3783ff;
+
+  --danger-color: rgb(255, 70, 66);
+
+  --node-fill: #5252ad;
+  --node-border: #3f3fb8;
+  --cluster-fill: #ffffde;
+  --cluster-border: #aaaa33;
+  --note-fill: #fff5ad;
+  --note-border: #aaaa33;
+
+  /*****************************/
+
+  --font-family: 'Roboto', sans-serif;
+  --code-font-family: 'Source Code Pro';
+  --monospace: 'Source Code Pro';
+}@import "";
+@import "";
+
+/*by 16soundsofsilence, yes this code is an absolute mess*/
+
+html,
+.form-control,
+.modal {
+    font-size: 16px;
+}
+
+body {
+    background: var(--bg-color);
+    font-family: var(--font-family);
+    font-weight: 400;
+    color: white;
+    line-height: 1.6rem;
+    height: 100%;
+}
+
+#write {
+    font-size: 0.95rem;
+    max-width: 850px;
+    margin: 0 auto;
+    margin-top: 1rem;
+    padding: 30px;
+    padding-bottom: 100px;
+    position: static;
+    width: 100%;
+}
+
+#write > ul:first-child,
+#write > ol:first-child {
+    margin-top: 30px;
+}
+
+a {
+    color: var(--primary-color);
+    text-decoration: none !important;
+    transition-duration: 0.2s;
+    transition-property: color;
+}
+
+a:hover {
+    color: var(--primary-color-darker);
+}
+
+mark a,
+mark .md-content.md-url {
+    color: var(--primary-color-darker2);
+}
+
+mark a:hover {
+    color: var(--primary-color-darkest);
+}
+
+.ty-preferences a {
+    color: var(--primary-color);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    position: relative;
+    color: var(--heading-text-color);
+    cursor: text;
+}
+
+h1:hover a.anchor,
+h2:hover a.anchor,
+h3:hover a.anchor,
+h4:hover a.anchor,
+h5:hover a.anchor,
+h6:hover a.anchor {
+    text-decoration: none;
+}
+
+h1 tt,
+h1 code {
+    font-size: inherit;
+}
+
+h2 tt,
+h2 code {
+    font-size: inherit;
+}
+
+h3 tt,
+h3 code {
+    font-size: inherit;
+}
+
+h4 tt,
+h4 code {
+    font-size: inherit;
+}
+
+h5 tt,
+h5 code {
+    font-size: inherit;
+}
+
+h6 tt,
+h6 code {
+    font-size: inherit;
+}
+
+h1 {
+    font-size: 2.2rem;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-top: 3rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 0.2rem;
+    border-bottom: solid 1px var(--borders);
+}
+
+h2 {
+    font-size: 1.7rem;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+}
+
+h3 {
+    font-size: 1.375rem;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h4 {
+    font-size: 1.15rem;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h5 {
+    font-size: 0.95rem;
+    font-weight: 700;
+    line-height: 1.5;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+h6 {
+    font-size: 0.95rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+
+#write > h1.md-focus:before,
+#write > h2.md-focus:before,
+#write > h3.md-focus:before,
+#write > h4.md-focus:before,
+#write > h5.md-focus:before,
+#write > h6.md-focus:before {
+    color: var(--light-text-color);
+    border: none;
+    position: absolute;
+    font-size: 0.9rem;
+    font-weight: 500;
+    padding: 0px;
+    line-height: 1;
+}
+
+#write > h1.md-focus:before {
+    content: "h1";
+    top: 1.15rem;
+    left: -1.75rem;
+}
+
+#write > h2.md-focus:before {
+    content: "h2";
+    top: 0.75rem;
+    left: -1.75rem;
+}
+
+#write > h3.md-focus:before {
+    content: "h3";
+    top: 0.575rem;
+    left: -1.75rem;
+}
+
+#write > h4.md-focus:before {
+    content: "h4";
+    top: 0.4rem;
+    left: -1.75rem;
+}
+
+#write > h5.md-focus:before {
+    content: "h5";
+    top: 0.25rem;
+    left: -1.75rem;
+}
+
+#write > h6.md-focus:before {
+    content: "h6";
+    top: 0.25rem;
+    left: -1.75rem;
+}
+
+h1:first-child,
+h2:first-child,
+h3:first-child,
+h4:first-child,
+h5:first-child,
+h6:first-child,
+blockquote h1,
+blockquote h2,
+blockquote h3,
+blockquote h4,
+blockquote h5,
+blockquote h6 {
+    margin-top: 0rem;
+}
+
+p,
+blockquote,
+ul,
+ol,
+dl {
+    margin: 0.5rem 0rem 1.5rem 0rem;
+}
+
+li > ol,
+li > ul {
+    margin: 0 0;
+}
+
+hr {
+    height: 1px;
+    padding: 0;
+    margin: 16px 0;
+    background-color: var(--borders);
+    border: 0 none;
+    overflow: hidden;
+    box-sizing: content-box;
+}
+
+li p.first {
+    display: inline-block;
+}
+
+ul,
+ol {
+    padding-left: 30px;
+}
+
+ul:first-child,
+ol:first-child {
+    margin-top: 0;
+}
+
+ul:last-child,
+ol:last-child {
+    margin-bottom: 0;
+}
+
+.md-blockmeta {
+    color: var(--md-char-color);
+}
+
+mark {
+    background-color: var(--primary-color);
+    color: white;
+    padding: 0.2rem 0.4rem;
+    border-radius: 0.2rem;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+/*BLOCKQUOTE*/
+
+blockquote {
+    width: 100%;
+    background-color: var(--boxes);
+    border-left: 4px solid var(--primary-color);
+    border-radius: 0.3em;
+    padding: 1rem;
+}
+
+blockquote blockquote {
+    padding-right: 0;
+}
+
+table {
+    font-size: 0.875rem;
+    padding: 0;
+    margin: 1.5rem 0;
+    word-break: initial;
+}
+
+/*TABLE*/
+
+table tr {
+    border-top: 1px solid var(--borders);
+    border-bottom: 1px solid var(--borders);
+    margin: 0;
+    padding: 0;
+}
+
+table tr.md-end-block {
+    border-top: none;
+}
+
+table tbody tr:last-child {
+    border-bottom: none;
+}
+
+table tr th {
+    font-weight: bold;
+    border: none;
+    border-bottom: solid 2px var(--borders);
+    margin: 0;
+    padding: 10px 16px;
+    transition-duration: 0.1s;
+    transition-property: background-color;
+}
+
+table tr td {
+    border: none;
+    margin: 0;
+    padding: 10px 16px;
+    transition-duration: 0.1s;
+    transition-property: background-color;
+}
+
+#write table tr td:hover,
+#write table tr th:hover {
+    background-color: var(--boxes);
+}
+
+table tr th:first-child,
+table tr td:first-child {
+    margin-top: 0;
+}
+
+table tr th:last-child,
+table tr td:last-child {
+    margin-bottom: 0;
+}
+
+/*OTHER TABLE THINGS*/
+
+.ty-table-edit {
+    background-color: var(--boxes);
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    box-shadow: none;
+    transform: translateY(2.5rem);
+    transition-duration: 0.3s;
+    transition-property: opacity;
+}
+
+.ty-table-edit + .md-table {
+    margin-top: 3rem;
+}
+
+.ty-table-edit:active,
+.ty-table-edit:focus {
+    box-shadow: none;
+}
+
+.popover,
+.popover:active,
+.popover:focus {
+    border: solid 1px var(--borders);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+    border-radius: 0.3rem;
+}
+
+.popover .arrow {
+    border-bottom-color: var(--borders);
+}
+
+.md-grid-board a {
+    background-color: transparent;
+    border-color: var(--borders);
+    border-radius: 2px;
+}
+
+.md-grid-board .md-grid-ext {
+    background-color: var(--borders);
+    border-radius: 2px;
+}
+
+.md-grid-board tr[row="1"] .md-grid-ext {
+    background: none;
+    border-radius: 6px;
+}
+
+.md-grid-board tr[row="1"] .md-grid-ext a {
+    background-color: var(--boxes-darker2);
+    border-color: var(--boxes-darker2);
+}
+
+.md-grid-board tr[row="1"] td {
+    background-color: var(--bg-color);
+    border-color: var(--borders);
+}
+
+.md-grid-board a.md-active,
+.md-grid-board a:hover {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.md-grid-board tr[row="1"] a.md-active,
+.md-grid-board tr[row="1"] a:hover {
+    background-color: var(--primary-color-darker);
+    border-color: var(--primary-color-darker);
+}
+
+#md-grid-width,
+#md-grid-height {
+    border-radius: 0.3rem;
+    border-color: var(--borders);
+    transition-duration: 0.3s;
+    transition-property: border-color;
+}
+
+#md-grid-width:focus,
+#md-grid-height:focus {
+    border-radius: 0.3rem;
+    border-color: var(--primary-color);
+}
+
+/*CODE*/
+
+.CodeMirror {
+    padding: 1rem;
+    font-family: var(--code-font-family);
+}
+
+.cm-s-inner .CodeMirror-gutters {
+    background-color: none;
+    border-right: none;
+    border-radius: 0px;
+    width: 2rem;
+    color: white;
+    height: 100%;
+    white-space: nowrap;
+}
+
+.cm-s-inner .CodeMirror-gutter-wrapper {
+    left: -2.75rem !important;
+}
+
+.CodeMirror.cm-s-typora-default div.CodeMirror-cursor {
+    border-left: solid 2px var(--light-text-color-brighter);
+}
+
+.CodeMirror.cm-s-typora-default .CodeMirror-activeline-background {
+    background-color: var(--codeboxes-lighter);
+}
+
+.cm-s-inner .CodeMirror-cursor {
+    color: white;
+    border-left: solid 1px white;
+}
+
+.CodeMirror-linenumber {
+    color: white;
+    opacity: 0.6;
+    width: 1.9532rem !important /*required*/;
+}
+
+.cm-s-inner .CodeMirror-line::selection,
+.cm-s-inner .CodeMirror-line::-moz-selection,
+.cm-s-inner .CodeMirror-line > span::selection,
+.cm-s-inner .CodeMirror-line > span::-moz-selection,
+.cm-s-inner .CodeMirror-line > span > span::selection,
+.cm-s-inner .CodeMirror-line > span > span::-moz-selection {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.cm-error {
+    color: var(--danger-color);
+}
+
+.cm-s-inner span.cm-comment,
+.cm-s-typora-default span.cm-comment,
+.cm-s-typora-default span.cm-code {
+    color: #9daab6;
+}
+
+.cm-s-inner span.cm-string,
+.cm-s-inner span.cm-string-2 {
+    color: #71a7ff;
+}
+
+.cm-s-inner span.cm-number {
+    color: #ff9d3d;
+}
+
+.cm-s-inner span.cm-variable,
+.cm-s-inner span.cm-variable-2 {
+    color: white;
+}
+
+.cm-s-inner span.cm-def {
+    color: white;
+}
+
+.cm-s-inner span.cm-operator {
+    color: #ff9d3d;
+}
+
+.cm-s-inner span.cm-keyword {
+    color: #61e3a5;
+}
+
+.cm-s-inner span.cm-atom {
+    color: #bd93f9;
+}
+
+.cm-s-inner span.cm-meta {
+    color: #f8f8f2;
+}
+
+.cm-s-inner span.cm-link,
+.cm-s-typora-default .cm-link {
+    color: var(--primary-color);
+}
+
+.cm-s-inner span.cm-tag,
+.cm-s-inner .cm-header {
+    color: #b4f6d6;
+}
+
+.cm-s-inner span.cm-attribute {
+    color: #ff9d3d;
+}
+
+.cm-s-inner span.cm-qualifier,
+.cm-s-inner span.cm-type,
+.cm-s-inner span.cm-variable-3 {
+    color: #82ee9d;
+}
+
+.cm-s-inner span.cm-property {
+    color: #ffd6ad;
+}
+
+.cm-s-inner span.cm-builtin {
+    color: #8ffaaa;
+}
+
+.md-fences.md-focus .cm-s-inner .CodeMirror-activeline-background {
+    background: none;
+}
+
+.cm-s-inner .CodeMirror-selected,
+.cm-s-inner .CodeMirror-selectedtext {
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.cm-s-typora-default .cm-header,
+.cm-s-typora-default .cm-property {
+    color: white;
+    font-weight: 400;
+}
+
+.md-fences .code-tooltip {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+    border: solid 1px var(--borders);
+    border-radius: 0.3rem;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    width: 15rem;
+    height: 2.5rem;
+    bottom: -3rem;
+    padding: 0.1875rem;
+}
+
+.md-fences .code-tooltip .ty-input {
+    border: solid 1px var(--borders);
+    height: 2rem;
+    line-height: 2rem;
+    margin: 0rem;
+    padding-left: 0.5rem !important;
+    text-align: left;
+    display: block;
+    font-size: 0.8rem;
+    font-weight: 600;
+    font-family: var(--font-family);
+    transition-duration: 0.3s;
+    transition-property: border;
+}
+
+.md-fences .code-tooltip .ty-input:focus {
+    border-color: var(--primary-color);
+}
+
+.html-for-mac .ty-cm-lang-input:empty:after {
+    left: 0.5rem;
+}
+
+.autoComplt-list li,
+.fences-auto-suggest li {
+    font-weight: 500;
+    transition-duration: 0.3s;
+    transition-property: background-color, color;
+}
+
+.autoComplt-list li.active,
+.fences-auto-suggest li:hover {
+    background-color: var(--boxes);
+    color: var(--primary-color);
+}
+
+.md-fences,
+tt {
+    border-radius: 0.3rem;
+    color: #ffffff;
+    padding: 1.5rem;
+    font-size: 0.8rem;
+}
+
+code {
+    padding: 0.2rem 0.4rem;
+    background-color: var(--borders);
+    font-size: 0.9rem;
+    border-radius: 0.2rem;
+    box-decoration-break: clone;
+    -webkit-box-decoration-break: clone;
+}
+
+.md-fences .CodeMirror div.CodeMirror-cursor,
+.md-htmlblock-panel .CodeMirror div.CodeMirror-cursor,
+#typora-source div.CodeMirror-cursor {
+    border-left: solid 1px white;
+}
+
+.md-fences {
+    margin-bottom: 1.5rem;
+    margin-top: 1.5rem;
+    padding-top: 8px;
+    padding-bottom: 6px;
+    background-color: var(--codeboxes);
+}
+
+#typora-source {
+    background-color: var(--codeboxes);
+    color: white;
+    font-size: 0.9rem;
+}
+
+/*DIAGRAMS*/
+
+.md-diagram-panel {
+    color: var(--text-color);
+    border: solid 1px var(--borders);
+    border-radius: 0.3rem;
+}
+
+.md-diagram-panel text,
+.md-diagram-panel .label {
+    color: var(--text-color);
+}
+
+.md-diagram-panel text {
+    fill: var(--text-color) !important /*required*/;
+}
+
+.md-diagram-panel-error {
+    color: var(--danger-color);
+}
+/*CHECKBOXES*/
+
+.md-task-list-item > input:before,
+input[type="checkbox"]:before {
+    border-radius: 0.2rem;
+    margin-top: -0.08rem;
+    margin-left: -0.1rem;
+    width: 1rem;
+    height: 1rem;
+    background-color: var(--borders);
+    content: " ";
+    display: block;
+    transition-duration: 0.3s;
+    transition-property: background-color;
+}
+
+.md-task-list-item:hover > input:before,
+input[type="checkbox"]:hover:before {
+    background-color: var(--boxes-darker);
+}
+
+.md-task-list-item > input:checked:before,
+.md-task-list-item > input[checked]:before,
+input[type="checkbox"]:checked:before {
+    background-color: var(--primary-color);
+}
+
+.md-task-list-item:hover > input:checked:before,
+.md-task-list-item:hover > input[checked]:before,
+input[type="checkbox"]:hover:checked:before {
+    background-color: var(--primary-color-darker);
+}
+
+.md-task-list-item > input:after,
+.md-task-list-item > input:after,
+input[type="checkbox"]:after {
+    transform: rotate(-45deg);
+    position: absolute;
+    border: 2px solid white;
+    border-top: 0;
+    border-right: 0;
+    top: 0.16rem;
+    left: 0.1rem;
+    width: 0.6rem;
+    height: 0.375rem;
+    content: " ";
+    opacity: 0;
+    transition-duration: 0.3s;
+    transition-property: opacity;
+}
+
+.md-task-list-item > input:checked:after,
+.md-task-list-item > input[checked]:after,
+input[type="checkbox"]:checked:after {
+    opacity: 1;
+}
+
+.ty-preferences input[type="checkbox"]:before {
+    width: 1.2rem;
+    height: 1.2rem;
+}
+
+.ty-preferences input[type="checkbox"]:after {
+    width: 0.5rem;
+    height: 0.32rem;
+    top: 0.19rem;
+    left: 0.14rem;
+}
+
+@media print {
+    html {
+        font-size: 13px;
+    }
+
+    table,
+    pre {
+        page-break-inside: avoid;
+    }
+
+    pre {
+        word-wrap: break-word;
+    }
+}
+
+#write pre.md-meta-block {
+    padding: 1rem;
+    line-height: 1.45;
+    background-color: var(--boxes);
+    border: 0;
+    border-radius: 0.3rem;
+    color: var(--text-color);
+    border-left: solid 4px var(--boxes-darkest);
+}
+
+#write pre.md-meta-block:empty:before {
+    color: var(--light-text-color);
+}
+
+.md-image > .md-meta {
+    border-radius: 3px;
+    padding: 2px 0px 0px 4px;
+    font-size: 0.9em;
+    color: inherit;
+}
+
+.md-tag {
+    color: var(--md-char-color);
+    opacity: 1;
+}
+
+/*TOC*/
+
+.md-toc {
+    margin: 1.5rem 0rem;
+}
+
+.md-toc:focus .md-toc-content {
+    border: none;
+}
+
+#write div.md-toc-tooltip {
+    background-color: var(--boxes);
+    line-height: 1.6rem;
+    padding: 0.3rem 0.75rem;
+    border-top: none;
+    border-radius: 0.3rem;
+}
+
+.md-toc.md-focus {
+    margin-top: 4.5rem;
+}
+
+#write div.md-toc-tooltip + .md-toc-content {
+    padding-top: 1rem;
+}
+
+.md-delete-toc {
+    padding: 0px;
+}
+
+/*MATH*/
+
+.md-rawblock-container {
+    padding: 1rem;
+    border-radius: 0.3rem;
+    cursor: pointer;
+    transition-duration: 0.2s;
+}
+
+.md-rawblock:hover .md-rawblock-container {
+    background-color: var(--boxes);
+}
+
+.md-rawblock:active .md-rawblock-container {
+    background-color: var(--boxes-darker);
+}
+
+.MathJax_SVG:focus {
+    outline: none;
+}
+
+.md-rawblock-panel,
+.md-rawblock-control:not(.md-rawblock-tooltip) {
+    border-radius: 0.3rem;
+    background-color: var(--boxes);
+}
+
+.md-rawblock-panel .code-tooltip {
+    box-shadow: none;
+    border-bottom-left-radius: 0.3rem;
+    border-bottom-right-radius: 0.3rem;
+}
+
+.md-rawblock-panel .CodeMirror-linenumber {
+    color: var(--light-text-color);
+    opacity: 1;
+}
+
+.md-rawblock-panel .CodeMirror div.CodeMirror-cursor {
+    border-left: solid 1px var(--text-color);
+}
+
+.md-mathblock-panel .md-mathjax-preview,
+.mathjax-candidate {
+    border-top: solid 1px var(--borders);
+}
+
+.md-rawblock-after,
+.md-rawblock-before {
+    cursor: default;
+    color: var(--light-text-color);
+    user-select: none;
+    -webkit-user-select: none;
+}
+
+.md-rawblock-tooltip-name {
+    font-size: 13px;
+    color: var(--light-text-color);
+    opacity: 1;
+}
+
+.md-rawblock-on-edit > .md-rawblock-tooltip {
+    padding-right: 0px;
+}
+
+.md-rawblock-input span.cm-tag {
+    color: #0bb6ad;
+}
+
+.md-rawblock-input span.cm-atom,
+.md-inline-math script {
+    color: #b61ed4;
+}
+
+.md-rawblock-input span.cm-number {
+    color: #ec7200;
+}
+
+.md-rawblock-input span.cm-keyword {
+    color: #156db6;
+}
+
+.md-mathblock-input span.cm-bracket {
+    color: var(--light-text-color);
+}
+
+.code-tooltip.md-hover-tip {
+    border-radius: 0.3rem;
+    background-color: var(--bg-color);
+    box-shadow: (0, 0, 0, 0.2) 0px 3px 8px 0px;
+    color: var(--text-color);
+    opacity: 1;
+}
+
+#math-inline-preview.code-tooltip .code-tooltip-content {
+    border: solid 1px var(--borders);
+}
+
+#math-inline-preview.code-tooltip .md-arrow:after {
+    background-color: var(--bg-color);
+    border: solid 1px var(--borders);
+    box-shadow: none;
+}
+
+/*FOOTER*/
+
+.footer-item {
+    opacity: 1 !important;
+    color: var(--light-text-color);
+    transition: 0.3s;
+    background: none !important;
+}
+
+.footer-item:hover {
+    color: var(--light-text-color-brighter) !important;
+}
+
+#outline-btn:hover {
+    color: var(--light-text-color-brighter) !important;
+}
+
+/*SIDEBAR*/
+
+#typora-sidebar {
+    border-right: solid 1px var(--borders);
+}
+
+.info-panel-tab {
+    opacity: 1;
+}
+
+.sidebar-tab {
+    text-transform: capitalize;
+    color: var(--light-text-color);
+}
+
+.info-panel-tab-border {
+    color: var(--primary-color);
+    border-radius: 2px;
+}
+
+#ty-sidebar-search-back-btn {
+    margin: auto;
+}
+
+.ty-show-outline-filter #file-library-search,
+.ty-show-search #file-library-search {
+    height: 4rem;
+}
+
+#file-library-search-input {
+    height: 2rem;
+}
+
+#file-library-search-panel input {
+    margin-top: 8px !important;
+}
+
+.ty-sidebar-search-panel .searchpanel-search-option-btn,
+#ty-sidebar-search-tabs .searchpanel-search-option-btn {
+    top: 15px;
+}
+
+#typora-sidebar #filesearch-case-ion-btn,
+#typora-sidebar #filesearch-word-ion-btn {
+    background: none;
+    margin-top: 0.45rem;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+#typora-sidebar #filesearch-case-ion-btn:hover,
+#typora-sidebar #filesearch-word-ion-btn:hover {
+    color: var(--primary-color);
+}
+
+/*sidebar loading*/
+
+#typora-sidebar #sidebar-loading-template {
+    padding: 0px;
+}
+
+#typora-sidebar #sidebar-loading-template .typora-search-spinner {
+    opacity: 1;
+    color: var(--light-text-color-darker);
+}
+
+#typora-sidebar #sidebar-loading-template .typora-quick-open-info {
+    color: var(--light-text-color-darker);
+    font-size: 0.9rem;
+    font-weight: 500;
+}
+
+/*sidebar outline*/
+
+#close-outline-filter-btn {
+    top: 15px;
+    opacity: 1;
+    color: var(--light-text-color) !important;
+}
+
+#close-outline-filter-btn:hover {
+    color: var(--primary-color) !important;
+    background-color: transparent !important;
+}
+
+#close-outline-filter-btn:active {
+    background-color: transparent !important;
+}
+
+#outline-content {
+    padding-right: 0px;
+    line-height: 1rem;
+}
+
+.outline-item {
+    display: flex;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.outline-item .outline-label {
+    display: block;
+    width: 100%;
+    padding-top: 0.4rem;
+    padding-bottom: 0.4rem;
+    border-right: solid 2px transparent;
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--light-text-color-darker);
+}
+
+.outline-item:hover {
+    background: none;
+}
+
+.outline-item:hover .outline-label {
+    color: var(--primary-color);
+}
+
+.outline-label:hover {
+    text-decoration: none;
+}
+
+.outline-active.outline-label {
+    border-right: solid 2px var(--primary-color);
+    font-weight: 500;
+    color: var(--primary-color);
+}
+
+.outline-expander {
+    padding-top: 0.4rem;
+    padding-right: 0.5rem;
+}
+
+#toc-dropmenu .outline-label {
+    line-height: 1rem;
+}
+
+#toc .outline-title {
+    margin-top: 9px;
+    font-size: 1rem;
+    font-weight: 500;
+    user-select: none;
+}
+
+#pin-outline-btn {
+    padding: 14px 18px 0px 0px;
+}
+
+/*sidebar file-list and search results*/
+
+#file-library-list[data-state="complete"] #sidebar-loading-template {
+    padding: 0rem;
+}
+
+#typora-sidebar .file-list-item,
+.ty-search-item {
+    border: none;
+    padding: 1rem;
+}
+
+body:not(.os-windows) #typora-sidebar .file-list-item,
+body:not(.os-windows) .ty-search-item {
+    transition-duration: 0.3s !important;
+    transition-property: background-color, border, color, height !important;
+}
+
+#typora-sidebar .file-list-item:hover,
+.ty-search-item:hover {
+    background: var(--borders);
+}
+
+#typora-sidebar .ty-search-item-line {
+    font-family: var(--font-family);
+    font-size: 0.8rem;
+    font-weight: 400;
+    padding: 0.3rem;
+    border-radius: 0.3rem;
+    margin-left: 24px;
+}
+
+body:not(.os-windows) #typora-sidebar .ty-search-item-line {
+    transition-duration: 0.2s;
+}
+
+#typora-sidebar .ty-search-item-line * {
+    opacity: 1;
+}
+
+#typora-sidebar .ty-search-item .ty-search-item-line:hover,
+#typora-sidebar .ty-search-item-line.active {
+    background-color: transparent;
+    color: var(--primary-color);
+}
+
+#typora-sidebar .file-list-item-file-name {
+    font-weight: 800;
+    font-size: 0.9rem;
+    margin-bottom: 0rem;
+    line-height: 1.8rem;
+    float: right;
+}
+
+#typora-sidebar .file-list-item-file-ext-part {
+    font-weight: 800;
+    opacity: 0.7;
+}
+
+#typora-sidebar .file-list-item-parent-loc,
+#typora-sidebar .file-list-item-time {
+    font-family: var(--font-family);
+    font-weight: 400;
+    opacity: 0.7;
+    display: block;
+}
+
+#typora-sidebar .file-list-item-summary {
+    float: left;
+    font-size: 0.8rem;
+    opacity: 1;
+}
+
+#typora-sidebar input.file-list-item-file-name {
+    margin: 0.5rem 0rem 0.5rem 0.7rem;
+    padding: 0.4rem !important;
+    line-height: 1rem;
+    float: right;
+    border-radius: 0.3rem;
+    font-weight: 500;
+    background-color: var(--boxes) !important;
+}
+
+#typora-sidebar .file-list-item-count {
+    font-size: 0.75rem;
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: 0.2rem;
+    min-width: 1.25rem;
+    height: 1.25rem;
+    text-align: center;
+    line-height: 1.25rem;
+    position: relative;
+    top: 0.3rem;
+}
+
+#typora-sidebar .file-list-item.file-library-file-node {
+    border: none;
+}
+
+#typora-sidebar .file-tree-node.active .file-node-background,
+#typora-sidebar .file-list-item.active,
+#typora-sidebar .ty-search-item.active {
+    background-color: var(--borders);
+    outline: 1px solid var(--boxes-darker);
+    border: none;
+    color: var(--primary-color) !important;
+}
+
+#typora-sidebar .file-tree-node.active .file-node-content {
+    color: var(--primary-color) !important;
+}
+
+#typora-sidebar .file-tree-node {
+    padding: 0rem;
+    font-weight: 500;
+    font-size: 0.9rem;
+    margin-left: 0.8rem;
+}
+
+#typora-sidebar .file-tree-node .file-node-content {
+    padding: 0rem;
+    line-height: 2.2rem;
+    height: 2.2rem;
+    background: none;
+    margin-bottom: 0px;
+}
+
+#typora-sidebar .file-tree-node .file-node-background {
+    padding: 0rem;
+    height: 2.2rem;
+}
+
+#typora-sidebar .file-tree-node .file-node-icon {
+    margin-right: 0.5rem;
+}
+
+#typora-sidebar .file-tree-node .file-node-icon.fa-file-text-o {
+    margin-top: 0.33rem;
+}
+
+#typora-sidebar .file-tree-node .file-node-icon.fa-folder {
+    margin-top: 0.36rem;
+}
+
+#typora-sidebar .file-tree-node .fa-caret-down,
+#typora-sidebar .file-tree-node .fa-caret-right {
+    position: relative;
+    top: 5px;
+}
+
+#typora-sidebar .file-tree-node .file-tree-rename-input {
+    height: 2.2rem;
+    background: none;
+    border: none;
+    font-size: 0.9rem;
+    font-weight: 500;
+    margin: 0rem;
+    padding-left: 0rem;
+}
+
+/*no left border*/
+#typora-sidebar .file-tree-node.active > .file-node-background {
+    border: none;
+}
+
+/*no dotted highlighting*/
+.file-library-node:not(.file-node-root):focus > .file-node-content {
+    outline: none;
+}
+
+#typora-sidebar #sidebar-files-menu {
+    border: solid 1px var(--borders);
+    border-radius: 0.3rem;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+}
+
+#typora-sidebar #ty-sidebar-footer {
+    border-top: solid 1px var(--borders);
+    background-color: var(--bg-color);
+    font-weight: 500;
+}
+
+#typora-sidebar #ty-sidebar-footer li {
+    transition-duration: 0.2s;
+    transition-property: background-color, color;
+}
+
+#typora-sidebar
+    #ty-sidebar-footer
+    li:not(.file-sort-item):not(:first-child):not(.empty-menu-group):not(.folder-menu-group):hover {
+    color: var(--primary-color);
+    background-color: var(--boxes);
+}
+
+#typora-sidebar
+    #ty-sidebar-footer
+    .file-action-item.file-sort-item
+    > span:first-of-type {
+    line-height: 2rem;
+}
+
+#typora-sidebar .ty-search-item-collapse-icon {
+    top: 9px;
+}
+
+/*cursor*/
+.file-node-content:hover {
+    cursor: pointer;
+}
+
+body:not(.os-windows)
+    .file-tree-node:not(.file-node-root):not(.file-node-expanded)
+    .file-node-background {
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.file-tree-node:not(.file-node-root):not(.file-node-expanded):hover
+    .file-node-background {
+    background-color: var(--borders);
+}
+
+/*sidebar footer*/
+#typora-sidebar .sidebar-footer-item {
+    transition-duration: 0.2s;
+    transition-property: background-color, color;
+    font-weight: 700;
+}
+
+#typora-sidebar .sidebar-footer-item:hover {
+    color: var(--primary-color);
+    background-color: var(--boxes);
+}
+
+#typora-quick-open {
+    background-color: var(--bg-color);
+    border: 1px solid var(--borders);
+    border-radius: 0.3rem;
+    padding: 0rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 3px 16px 0px;
+    overflow: hidden;
+}
+
+#typora-quick-open-input {
+    margin-right: 20px;
+}
+
+#typora-quick-open-input .input {
+    box-shadow: none !important /*required*/;
+    border: none !important /*required*/;
+    font-weight: 400 !important /*required*/;
+    margin: 0.5rem;
+    margin-left: 0.8rem;
+}
+
+.typora-quick-open-item {
+    background-color: var(--bg-color);
+    border: none;
+    font-weight: 500;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.typora-quick-open-item:hover {
+    background-color: var(--boxes);
+    color: var(--primary-color);
+}
+
+.typora-quick-open-item.active {
+    background-color: var(--boxes);
+    border: none;
+}
+
+.typora-quick-open-item-path {
+    opacity: 1;
+    color: var(--light-text-color);
+}
+
+.typora-quick-open-item:hover .typora-quick-open-item-path {
+    opacity: 0.7;
+    color: var(--primary-color);
+}
+
+.ty-quick-open-category-title {
+    font-size: 10px;
+    font-weight: 700;
+    letter-spacing: 1.2px;
+    text-transform: uppercase;
+    opacity: 1;
+    color: var(--light-text-color);
+    line-height: 32px;
+    padding-top: 6px;
+    height: 32px;
+}
+
+/** focus mode */
+.on-focus-mode blockquote {
+    border-left-color: rgba(85, 85, 85, 0.12);
+}
+
+.md-lang {
+    color: var(--primary-color);
+}
+
+/*NOTIFICATION*/
+
+#md-notification {
+    border-bottom: solid 1px var(--borders);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+}
+
+#md-notifcation .btn {
+    border: 0;
+}
+
+/*PREFERENCES*/
+
+.ty-preferences {
+    font-family: var(--font-family);
+}
+
+.ty-preferences .window-header {
+    justify-content: space-between;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+    border-bottom: solid 1px var(--borders);
+}
+
+.ty-preferences .window-header-content {
+    background-color: var(--bg-color);
+    margin: 0rem;
+}
+
+.ty-preferences .window-header h2 {
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin: 0rem;
+    margin-left: 1rem;
+}
+
+.unibody-window .ty-preferences .window-header h2 {
+    margin-left: 1rem !important;
+}
+
+.ty-preferences .window-header-back {
+    margin-left: 1.2rem;
+}
+
+.ty-preferences .window-header-back .icon {
+    border-right: none;
+}
+
+/*preferences sidebar*/
+.ty-preferences .window-content {
+    background-color: var(--bg-color);
+}
+
+.ty-preferences .nav-group-item {
+    color: var(--text-color);
+    height: 2.5rem;
+    line-height: 2.6rem;
+    font-weight: 500;
+    padding: 0px 0px 0px 2rem;
+    font-size: 1rem;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.ty-preferences .nav-group-item:hover {
+    background-color: var(--borders);
+    border-radius: 0px;
+}
+
+.ty-preferences .nav-group-item.active {
+    border-radius: 0rem;
+    border: none;
+    outline: 1px solid var(--borders);
+    background-color: var(--bg-color);
+    color: var(--primary-color);
+}
+
+.ty-preferences .pane-sm {
+    background: var(--boxes);
+    flex-basis: 240px;
+    flex-grow: 0;
+    justify-content: center;
+    border-right: 1px solid var(--borders);
+    margin: 0rem;
+    padding: 0rem;
+}
+
+.ty-preferences .pane-sm .list-group {
+    width: 100%;
+    max-width: 30rem;
+}
+
+.ty-preferences .list-group-header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.ty-preferences .list-group-header div {
+    width: 100%;
+    margin-right: 18px;
+    margin-left: 18px;
+}
+
+.ty-preferences .pane-sm .search-input {
+    margin: 0rem !important;
+    width: 100%;
+    font-size: 1rem !important;
+    height: 2.75rem;
+}
+
+.ty-preferences .pane-sm .search-input:active,
+.ty-preferences .pane-sm .search-input:focus {
+    border: solid 1px var(--primary-color) !important;
+    outline: none;
+}
+
+/*preferences main*/
+.ty-preferences .panel-header {
+    font-weight: 600;
+    font-size: 1.6rem;
+}
+
+/*preferences stuff*/
+.ty-preferences .dropdown-menu > li,
+.dropdown-item {
+    font-weight: 500;
+    font-size: 1rem;
+    transition-duration: 0.2s;
+    transition-property: all;
+}
+
+.ty-preferences .dropdown-menu .active,
+.ty-preferences .dropdown-menu li:hover,
+.dropdown-item:hover {
+    background-color: var(--boxes);
+    color: var(--primary-color);
+}
+
+#ty-spell-check-dict-missing-secondary-btn:hover {
+    color: var(--primary-color) !important;
+}
+
+.header-close .icon {
+    border: none !important;
+}
+
+/*preferences export*/
+
+.export-detail {
+    background-color: transparent !important /*required*/;
+}
+
+.export-items-list .separator {
+    margin: 0.4rem;
+    border-top: 1px solid var(--borders);
+}
+
+.export-items-list-control {
+    background-color: var(--boxes) !important /*required*/;
+}
+
+.export-item {
+    padding: 0.4rem !important /*required*/;
+    color: var(--light-text-color-darker);
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.export-item.active {
+    background-color: transparent !important /*required*/;
+    color: var(--primary-color);
+    font-weight: 500 !important /*required*/;
+}
+
+/*DROPDOWN*/
+
+.dropdown-menu:not(.megamenu-menu-list),
+.auto-suggest-container {
+    background-color: var(--bg-color);
+    border: solid 1px var(--borders) !important;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+    user-select: none;
+}
+
+.dropdown-menu > li > a,
+.auto-suggest-container li {
+    font-weight: 500;
+    font-size: 0.8rem;
+    transition-duration: 0.2s;
+    transition-property: all;
+}
+
+.dropdown-menu > .active > a,
+.dropdown-menu > li > a:hover,
+.menu-style-btn.active,
+.auto-suggest-container li:hover,
+.auto-suggest-container li.active,
+.context-menu.dropdown-menu > .active > a,
+.context-menu.dropdown-menu > li > a:hover {
+    color: var(--primary-color);
+    background-color: var(--boxes);
+}
+
+.menu-style-btn {
+    color: var(--text-color);
+    border: none;
+    transition-duration: 0.2s;
+    transition-property: all;
+}
+
+.menu-style-btn:hover {
+    color: var(--primary-color);
+    background-color: var(--boxes);
+    border: none;
+}
+
+header .menu-style-btn:hover {
+    background-color: transparent;
+}
+
+.menu-item-container {
+    padding: 0 12px 0 4px;
+}
+
+.menu-item-container a.menu-style-btn {
+    padding: 0.3rem 0.6rem;
+    margin: 0;
+}
+
+.dropdown-menu .divider {
+    border-color: var(--borders);
+    opacity: 1;
+}
+
+/*BUTTON*/
+
+.btn,
+button,
+.md-image-btn {
+    border: none !important;
+    border-radius: 0.3rem !important;
+    color: var(--text-color) !important;
+    transition-duration: 0.2s;
+    transition-property: all;
+    font-size: 0.9rem !important;
+    font-weight: 500;
+    outline: none;
+}
+
+.btn-default,
+.md-image-btn {
+    border: none !important;
+    border-radius: 0.3rem !important;
+    background-color: var(--boxes) !important;
+}
+
+.btn:hover,
+.button-hover,
+.md-image-btn:hover {
+    border: none;
+    border-radius: 0.3rem;
+    background-color: var(--borders) !important;
+    color: var(--text-color);
+}
+
+button:active,
+button.active,
+.btn:active,
+.btn-default:active,
+.md-image-btn:active {
+    border: none;
+    border-radius: 0.3rem;
+    background-color: var(--boxes-darker) !important;
+    box-shadow: none;
+    outline: none;
+    color: var(--text-color);
+}
+
+.btn:focus,
+.md-image-btn:focus {
+    border: none !important;
+    outline: none !important;
+    background-color: var(--boxes-darker);
+}
+
+.btn-primary {
+    border: none;
+    border-radius: 0.3rem;
+    background-color: var(--primary-color);
+    color: white !important;
+}
+
+.btn-primary:hover,
+.btn-primary:focus {
+    color: white;
+    background-color: var(--primary-color-darker) !important;
+}
+
+.btn.dropdown-toggle-split,
+.btn.dropdown-toggle-split:hover {
+    border-radius: 0rem 0.3rem 0.3rem 0rem;
+}
+
+#ty-spell-check-dict-missing-primary-btn {
+    border-radius: 0.3rem 0rem 0rem 0.3rem;
+}
+
+.open > .dropdown-toggle.btn-primary {
+    background-color: var(--primary-color);
+    border-color: transparent;
+}
+
+/*GHOST BUTTON*/
+
+.window-header button,
+#close-sidebar-menu-btn,
+.html-for-mac .sidebar-tab-btn,
+.label-hint,
+.ty-table-edit .btn,
+.zoom-hint-button,
+.md-rawblock-tooltip-btn,
+.md-delete-toc,
+#md-searchpanel .input-group-addon.btn,
+#pin-outline-btn,
+.icon-button {
+    background-color: transparent !important;
+    color: var(--light-text-color) !important;
+    opacity: 1 !important;
+    transition-duration: 0.2s;
+    transition-property: color;
+}
+
+.window-header button:hover,
+.window-header button:focus,
+#close-sidebar-menu-btn:hover,
+#close-sidebar-menu-btn:focus,
+.html-for-mac .sidebar-tab-btn:hover,
+.html-for-mac .sidebar-tab-btn:focus,
+.label-hint:hover,
+.label-hint:focus,
+.ty-table-edit .btn:hover,
+.ty-table-edit .btn:focus,
+.zoom-hint-button:hover,
+.zoom-hint-button:focus,
+.md-rawblock-tooltip-btn:hover,
+.md-rawblock-tooltip-btn:focus,
+.md-delete-toc:hover,
+.md-delete-toc:focus,
+#md-searchpanel .input-group-addon.btn:hover,
+#md-searchpanel .input-group-addon.btn:focus,
+#pin-outline-btn:hover,
+#pin-outline-btn:focus,
+.icon-button:hover,
+.icon-button:focus {
+    color: var(--primary-color) !important;
+    background: none !important;
+}
+
+.ty-table-edit .btn.active {
+    color: var(--primary-color) !important;
+    box-shadow: none;
+}
+
+/*IMAGE BUTTON*/
+
+.md-image-btn {
+    background-color: var(--boxes);
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.md-image-btn:before {
+    color: var(--text-color);
+    transition-duration: 0.2s;
+    transition-property: color;
+}
+
+.md-image-btn:hover {
+    background-color: var(--borders);
+}
+
+.md-image-btn:hover:before {
+    color: var(--primary-color);
+}
+
+.md-image-input-src-btn {
+    border-radius: 0.3rem 0rem 0rem 0.3rem !important;
+}
+
+.md-image-pick-file-btn {
+    border-left: none;
+    border-radius: 0rem 0.3rem 0.3rem 0rem !important;
+}
+
+/*SEARCH-INPUTS*/
+
+.search-input,
+.search,
+.form-control,
+#file-library-search-input {
+    background-color: transparent !important;
+    border-radius: 0.3rem !important;
+    border: solid 1px var(--boxes-darker) !important;
+    box-shadow: none !important;
+    color: var(---heading-text-color) !important;
+    font-size: 0.9rem !important;
+    font-weight: 400;
+    padding: 0.7rem !important;
+    height: 2rem;
+    transition-duration: 0.2s;
+    transition-property: border, box-shadow;
+}
+
+.search-input:hover,
+.search:hover,
+.form-control:hover,
+#file-library-search-input:hover {
+    border: solid 1px var(--boxes-darker2) !important;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15) !important;
+}
+
+.search-input:focus,
+.search:focus,
+.form-control:focus,
+#file-library-search-input:focus {
+    background-color: transparent !important;
+    border-color: var(--primary-color) !important;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.15) !important;
+    color: var(--heading-text-color) !important;
+    font-size: 0.9rem !important;
+    padding: 0.7rem !important;
+}
+
+.clear-btn-icon {
+    top: 9px !important /*required*/;
+    right: 9px !important /*required*/;
+}
+
+.content tr.search-hit,
+.search-hit,
+.md-search-hit,
+.md-search-hit.md-search-select,
+.md-search-select,
+.ty-file-search-match-text {
+    background-color: var(--boxes-darkest);
+    color: white;
+    padding: 0.2rem 0.1rem;
+    border-radius: 0.2rem;
+}
+
+/*ZOOM HINT*/
+
+#zoom-hint {
+    border-radius: 0.3rem;
+    border: solid 1px var(--borders);
+    user-select: none;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+}
+
+#zoom-hint #zoom-hint-reset {
+    border-left: none;
+    font-weight: 600;
+}
+
+/*SEARCHPANEL*/
+
+#md-searchpanel {
+    border-bottom: 1px solid var(--borders);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+    max-height: 46px;
+}
+
+.mac-seamless-mode #md-searchpanel {
+    max-height: 70px;
+}
+
+#md-searchpanel.searchpanel-replace-mode {
+    max-height: 84px;
+}
+
+.mac-seamless-mode #md-searchpanel.searchpanel-replace-mode {
+    max-height: 108px;
+}
+
+#md-searchpanel input {
+    height: 2rem;
+    margin: 0rem !important;
+    padding: 6px 12px !important;
+    font-size: 12px !important;
+}
+
+#md-searchpanel .input-group-addon {
+    height: 2rem;
+}
+
+#md-searchpanel .input-group-addon.close-btn {
+    padding-left: 8px;
+}
+
+.unibody-window #md-searchpanel .btn {
+    line-height: 2rem;
+}
+
+.searchpanel-search-option-btn {
+    top: 9px;
+    border: none;
+    color: var(--light-text-color-brighter) !important /*required*/;
+    transition-duration: 0.3s;
+}
+
+.searchpanel-search-option-btn:hover {
+    color: var(--primary-color) !important /*required*/;
+    background-color: transparent !important /*required*/;
+}
+
+.searchpanel-search-option-btn.select,
+.searchpanel-search-option-btn.active {
+    color: white !important;
+    background-color: var(--primary-color) !important;
+}
+
+#searchpanel-case-option-btn {
+    right: 33px;
+}
+
+#searchpanel-word-option-btn {
+    right: 9px;
+}
+
+#searchpanel-word-option-btn,
+#searchpanel-case-option-btn {
+    background: none;
+}
+
+#md-searchpanel .btn:not(.close-btn):hover {
+    box-shadow: none;
+}
+
+/*SELECT*/
+/*TEXT INPUT*/
+/*NUMBER INPUT*/
+
+/* the input #md-grid-height doesn't have a type attached for some reason and needs to be adressed seperately */
+
+html select,
+html input[type="text"],
+html input[type="number"],
+#md-grid-height {
+    background-color: var(--bg-color) !important;
+    border-radius: 0.3rem !important;
+    border: solid 1px var(--boxes-darker) !important;
+    box-shadow: none !important;
+    color: var(--text-color) !important;
+    font-size: 0.9rem !important;
+    font-weight: 500 !important;
+    padding: 0.3rem !important;
+    height: 2.1rem !important;
+    transition-duration: 0.2s;
+    transition-property: border;
+    cursor: text;
+}
+
+select {
+    cursor: pointer !important;
+}
+
+input[type="text"],
+input[type="number"] {
+    cursor: text;
+}
+
+html select:hover,
+html input[type="text"]:hover,
+html input[type="number"]:hover,
+#md-grid-height:hover {
+    background-color: var(--bg-color) !important;
+    border-radius: 0.3rem !important;
+    border-color: var(--boxes-darker2) !important;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04) !important;
+    color: var(--text-color) !important;
+    font-size: 0.9rem !important;
+}
+
+html select:focus,
+html input[type="text"]:focus,
+html input[type="number"]:focus,
+#md-grid-height:focus {
+    border-color: var(--primary-color) !important;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04) !important;
+}
+
+input[type="text"]::placeholder,
+input[type="number"]::placeholder,
+#md-grid-height::placeholder {
+    color: var(--light-text-color-brighter) !important;
+}
+
+input[disabled],
+input[disabled]:hover,
+input[disabled]:focus {
+    cursor: not-allowed;
+}
+
+/*TEXTAREA*/
+
+textarea {
+    background-color: transparent;
+    border: solid 1px var(--boxes-darker);
+    border-radius: 0.3rem;
+    transition-duration: 0.2s;
+}
+
+textarea:hover {
+    border-color: var(--boxes-darker2);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+}
+
+textarea:focus {
+    border-color: var(--primary-color);
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+    outline: none;
+}
+
+/*MODAL*/
+
+.modal-header,
+#common-dialog .modal-header {
+    border-bottom: solid 1px var(--borders);
+    padding-bottom: 15px;
+}
+
+.modal-title {
+    font-size: 1.25rem;
+    font-weight: 500;
+    user-select: none;
+}
+
+.modal-body {
+    font-size: 0.9rem;
+    color: var(--light-text-color-brighter);
+    user-select: none;
+}
+
+.modal-content {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 10px 0px;
+    border: solid 1px var(--boxes-darker);
+    border-radius: 0.3rem;
+}
+
+.modal-footer {
+    border-top: solid 1px var(--borders);
+}
+
+.modal-open .modal.fade.in {
+    background: none;
+    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(5px);
+}
+
+/*LANGS*/
+
+.ty-spell-check-panel-item {
+    font-weight: 500;
+    transition-duration: 0.2s;
+    transition-property: background-color, color;
+}
+
+.ty-spell-check-panel-item:hover {
+    color: var(--primary-color);
+    background-color: var(--boxes);
+}
+
+.ty-spell-check-panel-item.ty-active {
+    background-color: var(--boxes);
+}
+
+/*TOOLTIP*/
+
+.ty-tooltip {
+    color: var(--text-color) !important;
+    background-color: var(--boxes) !important;
+    border-radius: 0.3rem !important;
+    border: 1px solid var(--borders) !important;
+    -webkit-filter: none !important;
+    filter: none;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+}
+
+/*FOOTER*/
+
+footer.ty-footer {
+    border: none;
+}
+
+.footer-item:hover {
+    background-color: var(--boxes) !important;
+}
+
+#footer-word-count-info {
+    padding: 4px 0;
+}
+
+.footer-word-count-info-line {
+    padding: 0.25rem;
+    line-height: 1.6rem;
+}
+
+#footer-word-count-info tr {
+    font-weight: 500;
+    font-size: 0.8rem;
+    transition-duration: 0.2s;
+    transition-property: all;
+}
+
+#footer-word-count-info tr td:nth-child(1) {
+    padding: 0rem;
+    padding-right: 1rem;
+}
+
+#footer-word-count-info .ty-footer-word-count-all tr:hover {
+    color: var(--primary-color) !important;
+    background-color: var(--boxes) !important;
+}
+
+/*MEGAMENU*/
+
+.megamenu-menu {
+    box-shadow: none;
+    background-color: var(--boxes);
+    border-right: 1px solid var(--borders);
+}
+
+.megamenu-opened .megamenu-menu {
+    left: 0px;
+}
+
+#megamenu-content {
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    bottom: 0px;
+}
+
+#megamenu-menu-list {
+    box-shadow: none;
+    border: none;
+    background-color: transparent;
+}
+
+#megamenu-menu-list li a {
+    color: var(--text-color);
+    height: 2rem;
+    line-height: 1.8rem;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+#megamenu-menu-list li a:hover {
+    background-color: var(--borders);
+}
+
+#megamenu-menu-list li a.active {
+    color: var(--primary-color);
+    background-color: var(--bg-color);
+    outline: solid 1px var(--borders);
+}
+
+#megamenu-menu-list .divider {
+    background-color: var(--borders);
+    margin: 16px 0 0 0;
+}
+
+.megamenu-menu-list .saved #m-saved {
+    cursor: default;
+}
+
+.megamenu-menu-list .saved #m-saved .fa {
+    color: var(--primary-color);
+}
+
+.megamenu-menu-list .saved #m-saved:hover {
+    background-color: transparent;
+}
+
+.megamenu-menu-list #m-close:hover {
+    color: var(--danger-color);
+}
+
+.megamenu-menu-header {
+    border-bottom: solid 1px var(--borders);
+    margin-bottom: 1.2rem;
+    height: 74px;
+    transition-duration: 0.3s;
+}
+
+.megamenu-menu-header:hover {
+    background-color: var(--borders);
+}
+
+.megamenu-menu-header #megamenu-menu-header-title {
+    color: var(--text-color);
+    font-weight: 700;
+    font-size: 16px;
+    left: 56px;
+    top: 24px;
+}
+
+#megamenu-back-btn {
+    color: var(--text-color);
+    font-size: 16px;
+    left: 24px;
+    top: 24px;
+}
+
+.megamenu-opened header {
+    background-color: var(--bg-color);
+    background-image: none;
+}
+
+.megamenu-content {
+    background-color: var(--bg-color);
+    background-image: none;
+}
+
+.megamenu-menu-panel:not(:first-of-type) {
+    margin-top: 2rem;
+}
+
+.megamenu-menu-panel h1 {
+    font-weight: 900;
+    font-size: 1.8rem;
+    margin: 1rem 0rem 0.4rem 0rem;
+}
+
+.megamenu-menu-panel h2 {
+    font-weight: 800;
+    font-size: 1.3rem;
+    margin: 1rem 0rem 0.4rem 0rem;
+}
+
+/*recent files*/
+
+#recent-file-panel tbody tr {
+    font-weight: 600;
+    transition-duration: 0.4s;
+}
+
+#recent-file-panel tbody tr:hover,
+.megamenu-menu-panel tbody tr:hover td:nth-child(1) {
+    color: var(--primary-color);
+}
+
+#recent-file-panel tbody tr:nth-child(2n-1) {
+    background-color: var(--boxes);
+}
+
+/*about help*/
+
+.about-content-slogon {
+    color: var(--light-text-color);
+}
+
+/*for the god himself*/
+.about-content-slogon span {
+    color: var(--primary-color) !important;
+}
+
+#about-content tbody tr {
+    font-weight: 500;
+    transition-duration: 0.4s;
+}
+
+#about-content tbody tr:hover {
+    color: var(--primary-color);
+    background-color: var(--boxes) !important /*required important*/;
+}
+
+.long-btn {
+    margin-bottom: 12px;
+    margin-left: 2px;
+    box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 6px;
+    background-color: var(--bg-color);
+    border: 1px solid var(--borders);
+    border-radius: 0.3rem;
+    padding: 1rem;
+
+    font-weight: 700;
+    font-size: 1rem;
+
+    transition: background 0.2s, color 0.2s, box-shadow 0.2s;
+}
+
+.long-btn:hover {
+    background-color: var(--primary-color);
+    color: white !important /*important required*/;
+    border: 1px solid transparent;
+    box-shadow: rgba(0, 0, 0, 0.2) 2px 2px 6px,
+        rgba(56, 132, 255, 0.2) 0px 0px 10px;
+}
+
+#m-import-local:hover .preference-item-hint {
+    color: white;
+    opacity: 0.7;
+}
+
+#recent-file-panel-action-btn {
+    height: 34px;
+    border: none;
+    background-color: var(--boxes);
+}
+
+#theme-preview-grid {
+    max-width: none;
+    padding: 1.5rem;
+    background-color: var(--boxes);
+    border-radius: 0.5rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    grid-gap: 1.5rem;
+}
+
+.theme-preview-div {
+    border: none;
+    border-radius: 0.4rem;
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 15px;
+    margin: 0rem;
+    transition-duration: 0.3s;
+}
+
+.theme-preview-div:hover {
+    box-shadow: rgba(0, 0, 0, 0.6) 3px 8px 15px;
+    cursor: pointer;
+    transform: rotate3d(1, -0.2, 0.2, 15deg);
+}
+
+.theme-preview-content {
+    width: 100%;
+    height: 100%;
+    border-radius: 0.4rem;
+}
+
+.theme-preview-content html {
+    width: 100%;
+    height: 100%;
+}
+
+.theme-preview-div.active .fa {
+    color: var(--primary-color);
+    bottom: 4px;
+    left: 4px;
+}
+
+.theme-preview-div .fa-check-circle:before {
+    background-color: var(--bg-color);
+    padding: 0px 2px;
+    border-radius: 1rem;
+}
+
+.megamenu-menu-panel tbody tr {
+    border-radius: 0.3rem;
+    transition-duration: 0.2s;
+    transition-property: background-color;
+}
+
+.megamenu-menu-panel tbody tr:hover {
+    background-color: var(--borders) !important /*required important*/;
+}
+
+/*MIN MAX CLOSE*/
+#w-min,
+#w-max,
+#w-restore,
+#w-close {
+    border-radius: 0px !important;
+    font-size: 10px !important;
+    width: 46px !important;
+    height: 29px !important;
+}
+
+.btn.toolbar-icon svg,
+.btn.toolbar-icon .ty-icon {
+    position: relative;
+    top: 2px;
+}
+
+#w-close.btn.toolbar-icon .ty-icon {
+    left: 1px;
+}
+
+#w-close:hover {
+    background-color: var(--danger-color) !important;
+    color: white !important;
+}
+
+/*EXTRA STUFF*/
+
+a[type="page-link"] {
+    display: block;
+    background-color: var(--bg-color);
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 3px 8px 0px;
+    border: 1px solid var(--borders);
+    border-radius: 0.3rem;
+    padding: 1rem;
+
+    font-weight: 600;
+
+    transition-duration: 0.2s;
+    transition-property: border, box-shadow;
+}
+
+a[type="page-link"]:hover {
+    box-shadow: rgba(0, 0, 0.2, 0.2) 0px 3px 8px 0px;
+    border: 1px solid var(--primary-color);
+}
+
+p[type="description"] {
+    color: var(--light-text-color);
+}
+
+/*kbd*/
+
+kbd {
+    font-family: var(--font-family);
+}
+
+
+ :root {--mermaid-font-zoom:1em ;} 
+</style><title>The State of Mastodon Clients on iOS</title>
+</head>
+<body class='typora-export os-windows monocolor-emoji'><div class='typora-export-content'>
+<div id='write'  class=''><h1 id='the-state-of-mastodon-ios-apps'><span>The State of Mastodon iOS Apps</span></h1><p><img src="https://i.snap.as/3q29AwpI.png" referrerpolicy="no-referrer" alt="Mastodon iOS Apps Surveyed"></p><h2 id='a-safari-through-the-enchanting-space-of-third-party-mastodon-clients-on-ios'><span>A safari through the enchanting space of third-party Mastodon clients on iOS.</span></h2><p><span>Apple&#39;s second virtual World Wide Developer Conference came and went as I wrote this guide - you can metaphorically picture me looking up from my machine having overheard the news of the </span><a href='https://developer.apple.com/design/awards/'><span>2021 Apple Design Award Winners</span></a><span> announcement. Perusing through them, I saw two I would have voted for, myself: </span><a href='https://apps.apple.com/us/app/carrot-weather/id961390574'><span>CARROT Weather</span></a><span> - the </span><a href='https://twitter.com/NeoYokel/status/1368223231111557125'><span>beautifully vulgar</span></a><span>, grumpy bitch frontend for your preferred weather information service, and </span><a href='https://apps.apple.com/us/app/craft-docs-and-notes-editor/id1487937127'><span>Craft</span></a><span> - perhaps the most innovative take on word processing of the past two or three years - listed under &quot;Finalists.&quot; (Read: losers.) The most positive personal discovery of (all?) WWDCs: an app called </span><a href='https://www.bemyeyes.com/'><strong><span>Be My Eyes</span></strong></a><span>, which &quot;connects blind and low-vision people with sighted volunteers and company representatives for visual assistance through a live video call,&quot; along with an exceptionally crafted, cross-device accessible-as-fuck TTS solution called </span><a href='https://apps.apple.com/us/app/voice-dream-reader/id496177674'><span>Voice Dream Reader</span></a><span>. </span><em><span>However</span></em><span>, a double take in games from Genshin Impact and </span><a href='https://apps.apple.com/ph/app/league-of-legends-wild-rift/id1480616990'><span>the fucking </span><em><span>League of Legends</span></em><span> game</span></a><span> certainly sours the mouth and suggest yet further just how much Apple, Inc. has </span><em><span>sold out</span></em><span>. Also, the fact that </span><a href='https://apps.apple.com/gb/app/poolside-fm/id1514817810'><span>Poolside&#39;s app</span></a><span> made the page at all is incredibly frustrating, despite how cheeky I&#39;ve found its vaporwave-informed UI fuckery since beta. </span></p><p><span>I know you almost certainly did not arrive here to hear one motherfucker&#39;s complaints about WWDC, but - as with everything Apple, Inc. does - every morsel of curatorial expression/discrimination/favoritism from The Great Money God within this platform </span><em><span>must</span></em><span> be scrutinized and criticized </span></p><p><span>Despite how deeply I&#39;ve gone into iOS this year, I do not believe myself to be a qualified judge of software design, but I no longer believe Apple to be, either. Regardless of the revenue-related controversies of late, Apple have simply become terrible stewards of the App Store. Scams and blatant intellectual property theft abound, while the majority of the most innovative entries I&#39;ve ever seen remain entirely obfuscated and uncelebrated by all of Apple. Inc.&#39;s mechanisms. If you required an explanation for the amount of time I&#39;ve invested into App Guides - a space to which I never would have imagined intentionally bringing </span><em><span>The Psalms</span></em><span> - I hope you can understand.</span></p><p><span>I must confess: I have been </span><em><span>meaning</span></em><span> to write this app guide since even before I </span><a href='https://bilge.world/eugen-rochko-interview'><span>interviewed Mastodon creator Eugen Rochko</span></a><span> on the morning of his Big Press Day, just over 4 years ago. I’ve exhaustively explored different means of convincing my own longtime Twitter friends to move, over that time, with very little success. Eugen, himself, published an </span><a href='https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/'><span>official blog post</span></a><span> at the beginning of February detailing his plans to open up onboarding by way of “an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform.” As a Patreon supporter of </span><a href='https://www.patreon.com/mastodon'><span>The Mastodon Project</span></a><span> (full disclosure,) I can tell you that progress is good, but we shouldn’t expect to see a release version of the app for the remainder of this year. That said, I thought it might be worth going over the third-party options iOS users currently have available to them, largely because the offerings are each innovative and mature applications in their own right. </span><mark><span>Also, it’s become quite apparent that the normal tech media sources you’d go to for such a guide aren’t going to give Mastodon the attention it deserves.</span></mark></p><p><img src="https://i.snap.as/Y624NGHM.jpg" referrerpolicy="no-referrer" alt="Masto Mascot iOS Art"></p><h2 id='obligatory-context'><span>Obligatory(?) Context</span></h2><p><span>I originally intended to be as clinical as possible in this Post, having realized its potential as the singular comparison of its kind to appear in search results for new and potential users of Mastodon. From my perspective, Mastodon has long since surpassed regard as a novel social media experiment who&#39;s function is to prompt academic conversations about decentralization, open source, ad tech, and federated social&#39;s solutions to all of the Big Web&#39;s Big Boy (proprietary) Problems (though I have been compelled to </span><a href='https://github.com/extratone/bigblue'><span>invest significantly</span></a><span> in that very conversation.) In the less intellectual hours of my day-to-day life (read: most of the time,) Mastodon is nothing more or less than my favorite place on the internet. It is a relentless delight which I only lament because I want to share so much of it with my friends, but have continued to fail in my efforts to articulate that </span><strong><span>Mastodon is not a compromise; it is a better social space</span></strong><span>.</span></p><p><span>If you didn&#39;t know, this seems to have become </span><em><span>my general shit</span></em><span>, for lack of a better term: the ethical considerations of open source/&quot;alternative&quot; software are very important, yes! ... but they are </span><em><span>far</span></em><span> from the whole, and they are not a requisite for new users. The second of </span><a href='https://bilge.world/about'><span>this World Wide Web Blog&#39;s fundamental considerations</span></a><span>, in fact:</span></p><blockquote><p><span>The Open Source/Open Web community continues to struggle with their </span><em><span>brand image</span></em><span> (if you will) in both old and new ways that needlessly alienate (and sometimes obfuscate) some of their most important contributions from the average user. </span><strong><span>Technology media has failed in their responsibility to address this issue.</span></strong></p></blockquote><p><em><span>Oh boy, here we go...</span></em><span> No. I did not want to say anything ideological - I wanted this Post to function as little more than a pretty screenshot showcase and simple associative list responding to all of the Reddit posts I&#39;ve seen to the tune of &quot;is there an iPhone app?&quot; As I explored them, however, I was reminded of the sheer creativity the &quot;alternative&quot; software community is capable of. Even the roughest of these considered apps seem unable to be faceless - sorting through the obscene amount of (unlabeled) screenshots accumulated over the past weeks of testing in my Recents folder has been </span><em><span>so</span></em><span> much easier than I thought it would be because of their relentless originality. If you&#39;ve actually used any iOS applications and/or browsed the singular App Store from which they can be acquired in the past 3-4 years, you&#39;re undoubtedly skeptical: what we might have called &quot;feature overlap&quot;  at one time has become all but the platform&#39;s core ethos. If you&#39;re the sort who enjoys screwing around with apps, generally, as I have for the whole of iPhone history, you have grown accustomed to disappointment.</span></p><p><a href='https://twitter.com/NeoYokel/status/1402057069927309318' target='_blank' class='url'>https://twitter.com/NeoYokel/status/1402057069927309318</a></p><p><span>Regardless of who is to blame, we can all agree that the App Store is currently oversaturated nigh </span><em><span>beyond usability</span></em><span> with mediocre entries built from the beginning with zero apparent ambition toward original function. This, alone, wouldn&#39;t be so problematic if Discovery were not so </span><a href='https://twitter.com/NeoYokel/status/1379068906917224448'><span>completely and totally Fucked</span></a><span> (except when </span><a href='https://tools.applemediaservices.com/app-store/'><span>dev-facing</span></a><span>,) but I needn&#39;t comment further on that subject at the moment - I&#39;m just trying emphasize how absolutely unheard of it is for a single protocol/service&#39;s third-party client representation on iOS to be so thoroughly special. It was astonishing to find all but one or two of these apps </span><em><span>in a functional state</span></em><span>, actually. In all my equivalent experiences downloading the entirety of a given service&#39;s API-supported palette (e.g. IRC apps, </span><a href='https://www.vice.com/en/article/pkbgvg/major-internet-projects-are-leaving-freenode-after-korean-prince-takeover'><span>topically</span></a><span>,) an all-too-significant purpose of whatever ends up getting published is simply documenting the ~20% of available titles that </span><em><span>actually work</span></em><span> at the given moment. (I&#39;d have mentioned the &quot;best [service/task] iPhone apps for [year]&quot; listicles found in online publications like </span><em><span>Digital Trends</span></em><span> were it not for the percentage of them in which it&#39;s clear the author </span><em><span>did not actually download</span></em><span> some/most of the apps listed‽‽‽) Perhaps due to </span><a href='https://www.wsj.com/video/series/joanna-stern-personal-technology/apple-software-chief-explains-ios-145-defends-companys-reach-exclusive/57D138E3-3677-4A78-9534-62DAD443FE97'><span>iOS 14.5&#39;s implementation of ATT</span></a><span>, all of the Mastodon apps I could find and test (not counting non-English language-supporting apps, in fairness&#39; interest) are currently functioning.</span></p><p><span>So, if there&#39;s virtually zero chance a new Mastodon user might download one of the apps we&#39;re about to consider and find it broken, what practical function remains for this guide? Hopefully, to establish a SEO catch-all for such users from a non-automated source less associated with the project than the official apps list. Those for whom Mastodon is still an unfamiliar subject should find the collected imagery intriguing, hopefully. </span></p><p><img src="https://i.snap.as/H25gzEg2.jpeg" referrerpolicy="no-referrer" alt="Mastodon iOS Icon Strip"></p><h2 id='the-big-6'><span>The Big 6</span></h2><p><span>My first step in writing this guide was to post </span><a href='https://www.reddit.com/r/Mastodon/comments/mxymr1/your_thoughts_on_thirdparty_mastodon_clients_for/'><span>a thread on r/Mastodon</span></a><span> soliciting thoughts on third-party Mastodon apps from other users, who expressed a lot of love for Toot! and Metatext:</span></p><blockquote><p><span>Toot is just a joy to use. It has a little too much sometimes (it actually contains little mini games...which really aren&#39;t needed), but the experience of using it has some really clever UI twists. -</span><a href='https://www.reddit.com/user/mikepictor/'><span>u/mikepictor</span></a></p></blockquote><p><span>Pragmatic Code&#39;s </span><a href='https://apps.apple.com/us/app/linky-for-twitter-and-mastodon/id438090426'><span>Linky</span></a><span> was also mentioned by multiple respondents. It&#39;s not a client, but a bridging tool for smoother URL sharing that integrates with iOS&#39; share sheet. I did not have time to try it, myself, but from all accounts, it is an obligatory mention. So too is the GitHub Repository/List I created </span></p><p><span>First, let’s begin with The Big 6 - those apps The Mastodon Project, itself, has seen fit to </span><a href='https://joinmastodon.org/apps'><span>list on joinmastodon.org</span></a><span>.</span></p><p><a href='https://youtube.com/watch?v=LdBFMibyh3Y' target='_blank' class='url'>https://youtube.com/watch?v=LdBFMibyh3Y</a></p><h3 id='toot'><a href='https://apps.apple.com/app/toot/id1229021451'><span>Toot!</span></a></h3><p><span>Dag Ågren‘s </span><a href='https://apps.apple.com/us/app/toot/id1229021451'><span>Toot!</span></a><span> is not only my personal app of choice - I would (and have) go so far as to say it’s the single most innovative mobile social app I’ve ever encountered, largely because of its jacknife-esque instance selection. It’s held a place in my phone’s dock since the day I first downloaded it, for this and many other reasons. While one might find bugs/loose ends (understandably) exploring the functions of other indie social clients, within Toot!, they will only find little delights, like </span><a href='https://imgur.com/gallery/xAXs95J'><span>its wholly unique Share Sheet interface</span></a><span>.</span></p><p><img src="https://i.snap.as/bXG5SAUv.png" referrerpolicy="no-referrer" alt="Toot! Themes"></p><p><span>Toot! is extremely beautiful (despite its unfortunate name,) and I am quite superficial in my taste. It’s Obsidian theme (which may or may not be related to the topical notetaking system of the same name) is especially gorgeous.</span></p><audio controls="">
+  <source src="https://github.com/extratone/bilge/raw/main/audio/Toot!%20Custom%20Sounds.mp3">
+</audio><p><span>In my cacophonous attempt to compare the notifications of all available Mastodon apps simultaneously (found below,) it&#39;s worth noting that Toot!&#39;s always came first. Its </span><a href='https://whyp.it/t/toot-ios-app-custom-sounds-92997'><span>charming custom audio alerts</span></a><span> also make them my favorite by far.</span></p><p><span>They&#39;re not just cute: in reflection informed by a newly-considered function of these apps - serving as representing M, it occurred to me that </span><strong><span>Toot! audio alerts playing from my iPhone have prompted more first-time conversations about Mastodon in the wild than I can count</span></strong><span>. (Seriously: they should be considered an onboarding mechanism.)</span></p><p><img src="https://i.snap.as/30YJR456.png" referrerpolicy="no-referrer" alt="Toot! Settings"></p><p><span>In my experience, it’s also the most robust of the lot - as in, it is very much the exception rather than the norm to encounter any sort of error or other obstruction in normal, day-to-day use. My own real reservation applies to the entire selection discussed today: I wish Toot! supported Bluetooth keyboard shortcuts.</span></p><p><img src="https://i.snap.as/KF4Slx39.png" referrerpolicy="no-referrer" alt="Mast for iOS"></p><h3 id='mast'><a href='https://apps.apple.com/us/app/mast-for-mastodon/id1437429129'><span>Mast</span></a></h3><p><span>I originally had high hopes for Shihab Mehboob‘s </span><a href='https://apps.apple.com/us/app/mast-for-mastodon/id1437429129'><span>Mast</span></a><span> - which used to look very different from the way it does, today. That’s almost certainly to do with its ownership </span><a href='https://twitter.com/jpeguin/status/1354854403124178947'><span>changing hands</span></a><span> at some point (no, I do not have any further details on that story, unfortunately.) That’s not to say the current app isn’t a worthwhile offering, it’s just far less </span><em><span>visually ambitious</span></em><span> than the original I remember. However, it’s also significantly more reliable.</span></p><p><a href='https://twitter.com/JPEGuin/status/1354854403124178947' target='_blank' class='url'>https://twitter.com/JPEGuin/status/1354854403124178947</a></p><p><img src="https://i.snap.as/UsH95qJv.png" referrerpolicy="no-referrer" alt="Mast Details"></p><p><img src="https://i.snap.as/JV5vzmky.png" referrerpolicy="no-referrer" alt="Amaroq for iOS"></p><h3 id='amaroq'><a href='https://apps.apple.com/us/app/amarok-for-mastodon/id1214116200'><span>Amaroq</span></a></h3><p><span>The Original… Genesis… If Amaroq was not the first Mastodon app on the App Store, it’s certainly the oldest to survive. Its GitHub Repository’s </span><a href='https://github.com/ReticentJohn/Amaroq/commit/9648ebdecf8ab20819ba10fe18b6317a8026fd86'><span>first commit</span></a><span> dates back to April 17th, 2017.  While you’re there, you might note that it’s the only one of these entries coded entirely in Objective-C - the near-40-year-old language originally underpinning iOS before Swift’s birth in 2014. Amaroq was the first Mastodon app I used and remains the strongest free option for iOS users. It’s been nearly a year since its last update, so its missing a few narrower functions like Bookmarking and Polls, but the core features it </span><em><span>does</span></em><span> include are rock solid. The only wild card: what the fuck is Awoo Mode???</span></p><p><img src="https://i.snap.as/7A9pJMzD.png" referrerpolicy="no-referrer" alt="iMast for iOS"></p><h3 id='imast'><a href='https://apps.apple.com/us/app/imast/id1229461703'><span>iMast</span></a></h3><p><span>For better or worse, </span><a href='https://mstdn.rinsuki.net/@rinsuki'><span>@rinsuki</span></a><span>’s iMast will require either a basic grasp of the Japanese language, or the patience to translate its menus and work backwards. (OCR came to mind, but I’m not quite dedicated enough to try it for this guide.) Assuming </span><a href='https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:64ce057e-5adc-4578-a0ef-e9ddb6b5d545'><span>Google’s translation</span></a><span> of </span><a href='https://cinderella-project.github.io/iMast/'><span>its GitHub Pages site</span></a><span> is correct, iMast is also Open Source “under the Apache License 2.” Unlike Amaroq, it appears to have been built in Swift from the ground up. Unfortunately, that&#39;s about all I can comment on, though I would very much love to hear from any iMast users/Japanese speakers and will update this Post accordingly.</span></p><p><span>A function I </span><em><span>can</span></em><span> provide: documenting </span><a href='https://github.com/extratone/imastodon/blob/main/documentation/iMastKeyboardShortcuts.md'><span>iMast’s Bluetooth keyboard shortcuts</span></a><span>.</span></p><h4 id='imasts-keyboard-shortcuts'><span>iMast’s Keyboard Shortcuts</span></h4><figure><table><thead><tr><th style='text-align:center;' ><span>Action</span></th><th style='text-align:center;' ><span>Key</span></th></tr></thead><tbody><tr><td style='text-align:center;' ><span>Open Compose Window</span></td><td style='text-align:center;' ><span>⌘ + N</span></td></tr><tr><td style='text-align:center;' ><span>Send Toot</span></td><td style='text-align:center;' ><span>⌘ + Return</span></td></tr><tr><td style='text-align:center;' ><span>Home Timeline</span></td><td style='text-align:center;' ><span>⌘ + 1</span></td></tr><tr><td style='text-align:center;' ><span>Notifications</span></td><td style='text-align:center;' ><span>⌘ + 2</span></td></tr><tr><td style='text-align:center;' ><span>Local Timeline</span></td><td style='text-align:center;' ><span>⌘ + 3</span></td></tr><tr><td style='text-align:center;' ><span>Others (Menu)</span></td><td style='text-align:center;' ><span>⌘ + 9</span></td></tr></tbody></table></figure><p><img src="https://i.snap.as/ScJoTz8e.png" referrerpolicy="no-referrer" alt="Mercury for iOS - Scoops Theme"></p><h3 id='mercury'><a href='https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200'><span>Mercury</span></a></h3><p><span>Daniel Nitsikopoulos&#39; </span><a href='https://onmercury.app'><span>Mercury</span></a><span> represents yet another entirely original direction in Social clients. It&#39;s fresh and &quot;opinionated&quot; in its explicit lack of support for instances that &quot;</span><a href='https://onmercury.app/help'><span>promote abuse and harassment</span></a><span>.&quot; From all appearances, this appears to be the singular source of negative reviews on </span><a href='https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200'><span>its iOS App Store page</span></a><span>. It&#39;s also the other option to offer custom audio notifications, though I couldn&#39;t capture a sample. Its </span><a href='https://trello.com/b/6EseiLSQ/mercury-roadmap'><span>Trello Roadmap</span></a><span> and </span><a href='https://github.com/dNitza/mercury-issues/issues'><span>Feedback Repo</span></a><span> are public but mostly inactive. As you can see in the grid embedded above, I absolutely adore its Scoops theme and find my $0.99 Tip 100% worth its custom icons.</span></p><p><img src="https://i.snap.as/w7PTFpTf.png" referrerpolicy="no-referrer" alt="Metatext for iOS"></p><h3 id='metatext'><a href='https://apps.apple.com/app/metatext/id1523996615'><span>Metatext</span></a></h3><p><span>Metatext is perhaps the buzziest of all these apps - well-praised in every space I could find conversation on the subject. It&#39;s developed under </span><a href='https://mastodon.social/@jzzocc'><span>Justin Mazzocchi</span></a><span>&#39;s software studio, </span><a href='https://metabolist.org/'><span>Metabolist</span></a><span> and is as </span><a href='https://github.com/metabolist/metatext'><span>Open Source</span></a><span> as it gets! (As per my hardware keyboard shortcuts crusade, I added </span><a href='https://github.com/metabolist/metatext/issues/40'><span>my own issue</span></a><span> requesting support.) </span><a href='https://www.reddit.com/user/GummyKibble/'><span>u/GummyKibble</span></a><span> noted that &quot;it looks like a native app on both iOS and iPadOS.&quot; This term - </span><em><span>native</span></em><span> - seems inextricably linked with Metatext. I vaguely understand what it means, and I do agree, but it&#39;s worth noting that I speak with some privilege, having compared all of these apps on the top performing handset Apple currently has to offer. In many ways, it is the most frugal of the new offerings, especially, yet it strikes a keen balance between function and delight.</span></p><h2 id='less-than-sanctioned'><span>Less-Than-Sanctioned</span></h2><p><img src="https://i.snap.as/S6VkSlY0.png" referrerpolicy="no-referrer" alt="Tootle for iOS"></p><h3 id='tootle'><a href='https://apps.apple.com/us/app/tootle-for-mastodon/id1236013466'><span>Tootle</span></a></h3><p><span>I&#39;m not entirely positive which Mastodon app was </span><em><span>actually</span></em><span> the first on my iPhone, back in 2017, but I know for sure it was either Amaroq or the dearest, infinitely-colorful Tootle. Its </span><a href='https://mastodon.cloud/@tootleapp'><span>App Store Page</span></a><span> Version History suggests it has not been updated in 14 months, yet the app - which was apparently &quot;designed for iPad&quot; - appears to be working just fine. There are some overlapping UI elements, but they&#39;re barely noticeable. Were it not for the new dev-facing store search tool mentioned above, I would have assumed this app long gone, to be honest, but using it again has somehow managed to genuinely twinge my nostalgia nerve.</span></p><p><span>In my search for any extra-App Store representation other than </span><a href='https://mastodon.cloud/@tootleapp'><span>Tootle&#39;s Mastodon Account</span></a><span> (which last posted the day after my birthday, last year,) I discovered </span><a href='https://ubuntuhandbook.org/index.php/2020/11/tootle-l-gtk3-mastodon-client-linux/'><span>Tootle... for Linux</span></a><span>. Since I am a dedicated and thorough person, these days, I spent several hours messing around with Linux Virtual Machining until Lubuntu finally functioned </span><em><span>just</span></em><span> so I could show you what it looks like. Below is a screen capture of Tootle bordered by the most Macish LXQ desktop bars included in Lubuntu and </span><em><span>even</span></em><span> wearing the new official Apple System Font, SF Pro. Still, I think you&#39;ll agree... Tootle for Linux is not related to Tootle.</span></p><p><img src="https://i.snap.as/Rx3Eu9GA.png" referrerpolicy="no-referrer" alt="Tootle for Linux"></p><p><span>Personally, I find this a profound shame - I think more apps should be as colorful - and as color </span><em><span>configurable</span></em><span> - as this little, mysterious Mastodon app. I created the theme you see represented in the frames embedded above using </span><em><span>The Psalms</span></em><span> colors, naturally, and the whole process took less than five minutes. Play around with it as I remember doing, all those years ago, and you&#39;d be surprised how hard it is to create an unusable color theme. What I find </span><em><span>most</span></em><span> shame in, though, is that Tootle appears to be completely invisible in regular app store searches, now. (And by &quot;</span><em><span>most</span></em><span> shame,&quot; you know I really mean </span><em><span>entirely fucking unacceptable</span></em><span>.)</span></p><p><a href='https://www.youtube.com/watch?v=WBZtmOqyk8c' target='_blank' class='url'>https://www.youtube.com/watch?v=WBZtmOqyk8c</a></p><p><img src="https://i.snap.as/82RtZcyl.png" referrerpolicy="no-referrer" alt="Tusker on iOS"><span>	</span></p><h3 id='tusker'><a href='https://testflight.apple.com/join/wtB7HYvG'><span>Tusker</span></a></h3><p><span>I found my way to the only </span><em><span>currently in-development</span></em><span> entry on this list thanks to my Mastodon friend </span><a href='https://social.wake.st/@liaizon'><span>wakest</span></a><span>. iOS developer </span><a href='https://social.shadowfacts.net/users/shadowfacts'><span>Shadowfacts</span></a><span> (who also maintains </span><a href='https://shadowfacts.net/'><em><span>shadowfacts.net</span></em></a><span>) is working on their considerate, distinct app, Tusker in </span><a href='https://git.shadowfacts.net/shadowfacts/Tusker'><span>this self-hosted Repository</span></a><span>. In </span><a href='https://mastodon.social/web/timelines/tag/tusker'><span>#tusker</span></a><span> on Mastodon, you&#39;ll find a few poignant praises from </span><a href='https://pixelfed.org/'><span>Pixelfed</span></a><span> founder and principal developer </span><a href='https://mastodon.social/@dansup'><span>Dan Sup</span></a><span>, which - from my perspective - is especially high, indeed. </span></p><p><img src="https://i.snap.as/jZudSEdQ.png" referrerpolicy="no-referrer" alt="Tusker Landscape Mode!"></p><p><span>You, yourself can use Tusker </span><em><span>right this very minute</span></em><span> via Apple&#39;s beta distribution system, </span><a href='https://testflight.apple.com/'><span>Testflight</span></a><span>, via </span><a href='https://testflight.apple.com/join/wtB7HYvG'><strong><span>this invite link</span></strong></a><span>.</span></p><p><img src="https://i.snap.as/oBYO4T1e.png" referrerpolicy="no-referrer" alt="Roma for iOS"></p><h3 id='roma'><a href='https://apps.apple.com/us/app/roma-for-pleroma-and-mastodon/id1445328699'><span>Roma</span></a></h3><p><span>Installing Roma for the first time led to a puzzling quest with a particularly pleasant end. I noticed fairly quickly that the iOS app was a re-branded release of what used to be Mast. My first instinct upon this discovery was to DM Mast&#39;s original developer, </span><a href='https://twitter.com/JPEGuin'><span>Shihab Meboob</span></a><span>, on Twitter, but frankly, I&#39;ve already bothered him enough there over the years, so it&#39;s understandable that I didn&#39;t hear back. When I downloaded the desktop app I found on </span><a href='https://www.roma.rocks/#desktop'><span>Roma&#39;s web page</span></a><span> and noticed its similarity to </span><a href='https://whalebird.social/en/desktop/contents'><span>Whalebird</span></a><span>, I decided to use the site&#39;s contact form to </span><a href='https://github.com/extratone/bilge/blob/main/correspondence/Roma%20Inquiry.md'><span>inquire</span></a><span> about what exactly was going on as gingerly as I could. Happily, I received a reply just </span><em><span>minutes</span></em><span> later from Leo Radvinsky, head of </span><a href='https://leo.com/'><span>Leo.com</span></a><span>, &quot;a Florida-based boutique venture capital fund that invests in technology companies:&quot;</span></p><blockquote><p><span>Hi David, </span></p><p><span>In both cases we funded the original developers of both Mast and Whalebird to create a branded whitelabel app specially made for Pleroma. The idea was to make Roma a cross platform brand/app. It didn&#39;t really work out so now we&#39;re working on a new app from scratch called Fedi for iOS and Android and releasing that as open source. </span></p><p><a href='https://play.google.com/store/apps/details?id=com.fediverse.app&amp;hl=en_US&amp;gl=US' target='_blank' class='url'>https://play.google.com/store/apps/details?id=com.fediverse.app&hl=en_US&gl=US</a><span> </span></p><p><a href='https://apps.apple.com/in/app/fedi-for-pleroma-and-mastodon/id1478806281' target='_blank' class='url'>https://apps.apple.com/in/app/fedi-for-pleroma-and-mastodon/id1478806281</a><span> </span></p><p><span>I think Roma has been removed from the app stores as it&#39;s no longer supported. </span></p><p><span>Let me know if you have any other questions</span></p></blockquote><p><span>Though my hopes for the original Mast to live on in Roma form were more or less dashed by this message, the suggestion that someone is investing </span><strong><span>actual capital</span></strong><span> into federated social is certainly worth celebrating. If Roma is still available on the App Store as you&#39;re reading this, I insist you download it immediately. It represents an incredible and original attention to detail which should not simply be forgotten.</span></p><p><img src="https://i.snap.as/4TO8CL5D.png" referrerpolicy="no-referrer" alt="Fedi for iOS"></p><h3 id='fedi'><a href='https://apps.apple.com/us/app/fedi-for-pleroma-and-mastodon/id1478806281'><span>Fedi</span></a></h3><p><span>Naturally, the app inheriting the work/resources established by Mast and Roma, called Fedi, should be next up for discussion. Hopefully, my relative lack of experience with </span><a href='https://pleroma.social/'><span>Pleroma</span></a><span> - a federated predecessor to Mastodon, as I understand it - won&#39;t let you down, here. After a brief shock from the uniqueness of Fedi&#39;s UI passes, one immediately notices how beautifully it is animated, wholly disregarding my </span><a href='https://twitter.com/NeoYokel/status/1357394407201398791'><span>recently-acquired</span></a><span> preference for as little animation as possible. Perhaps more than any other app discussed here, Fedi feels uncannily bespoke in a way which iOS apps almost never do. It is undoubtedly the result of a very specific vision - to disregard the whole modern template for social apps and completely reimagine the archetype. Personally, I&#39;m not sure if it would be easy to get used to, but my tastes/habits in this regard are very much the result of the past decade of proprietary social apps&#39; blandness. Going forward with substantial financial backing and the talents of whoever it was that got it this far, no doubt we should all have very high hopes for Fedi.</span></p><p><img src="https://i.snap.as/Kt8ZbQFk.png" referrerpolicy="no-referrer" alt="DUDU (嘟嘟) for iOS"></p><h3 id='dudu-嘟嘟'><a href='https://bit.ly/duduios'><span>DUDU (嘟嘟)</span></a><span> </span></h3><p><span>DUDU (or &quot;嘟嘟,&quot; which translates to &quot;Toot,&quot; appropriately,) definitely wins for </span><em><span>Cutest Iconography</span></em><span>. It&#39;s a non-English-native application with exceptional English support, which I personally appreciate very much. Compared the entries immediately above, DUDU represents a much more modest interpretation of what a Mastodon client can offer. Its robust, free of over-animation, and - most distinctly - very </span><em><span>wide</span></em><span>, which might have something to do with the &quot;designed for iPad&quot; subtitle on its App Store Page.</span></p><p><img src="https://i.snap.as/AZ7fRWc7.png" referrerpolicy="no-referrer" alt="Tootoise for iOS"></p><h3 id='tootoise'><a href='https://apps.apple.com/us/app/tootoise/id1465090190'><span>Tootoise</span></a></h3><p><span>Yet another &quot;Designed for iPad&quot; entry, Naoki Kuwata&#39;s </span><a href='https://apps.apple.com/us/app/tootoise/id1465090190'><span>Tootoise</span></a><span> is defined by its custom incoming post rate accommodations and its gorgeous Solarized theme. Its &quot;Max number of new arrival posts&quot; setting ranges from 0-400, allowing one to freeze their timeline</span></p><p>&nbsp;</p><p>&nbsp;</p><p><img src="https://user-images.githubusercontent.com/43663476/122717470-43f08a00-d231-11eb-890f-dfa3ff33b65d.png" referrerpolicy="no-referrer" alt="Mastodon Account Wordcloud"></p><h2 id='continuing-to-explore-social-ownership'><span>Continuing to Explore Social Ownership</span></h2><p><span>This couldn&#39;t be &quot;just&quot; an app guide - I think I have thoroughly accepted this, by now, just in time for some conclusionary remarks. Somehow, the subject I originally tackled specifically because I thought it would be quick, rudimentary, and straightforward has become yet another personal journey. It&#39;d feel a bit preposterous to declare any one of these apps to be </span><em><span>life-changing</span></em><span>, but - in every sense of the term, in contemporary, inevitably social media-informed life, they do indeed constitute a form of radical, ideological wellness. Each of them managed to remind me of a different minute delight found within a developer-user dynamic made up of thoughtful and effective minds working to contribute original and valuable experiences, first. Most noteworthy of these little freedoms: the realization that the upcoming &quot;official&quot; Mastodon app along with any future new options are exclusively a positive thing </span><em><span>for the user</span></em><span>... None of these apps were conceived to gobble up market share because the market is fundamentally, inevitably, uncompromisingly </span><em><span>infinitely shared</span></em><span>. I don&#39;t know anything about business, but I </span><em><span>do</span></em><span> know that relief from the burden of considering proprietary multivectored development intentions has been personally breathtaking. I can only hope the reciprocal compensation is happening at even a fraction of what it &quot;should&quot; be. </span></p><p><span>From another essential direction, I hope I have communicated that they&#39;re far from curious, &quot;niche&quot; or vanity side projects, now. When I used the term &quot;mature&quot; in introducing this little arena, I very much meant it - these &quot;alt&quot; social clients developed almost exclusively within single-person-led projects now make the Twitter for iOS app look ugly </span><em><span>and</span></em><span> fucking broken. &quot;Giving social networking back to you&quot; has never been more resonant. Yes, it really is Toot!&#39;s &quot;take a break&quot; blue screen, Amaroq&#39;s mysterious Awoo mode toggle, iMast&#39;s music app integration, Mercury&#39;s configurable timelines, Metatext&#39;s native solidity, Tootle&#39;s custom colors, Tusker&#39;s Digital Wellness controls, Dudu&#39;s elemental readability, Roma&#39;s quiet resurrection of Mast&#39;s UI bravado, Stella&#39;s utterly bizarre visual departures, Fedi&#39;s odd animated UI behaviors, Tootoise&#39;s consideration of </span><em><span>pace</span></em><span>, B4X&#39;s unfathomable elements, and Oyakodon&#39;s adorable rough edges that have made my online life </span><em><span>measurably</span></em><span>... </span><em><span>immensely</span></em><span> better, these past weeks. </span></p><p>&nbsp;</p><p><span>Those of you who haven&#39;t yet signed up for Mastodon: you are missing out. I am being </span><em><span>actually</span></em><span> pampered, now, in World Wide Web terms. You are </span><em><span>so</span></em><span> welcome whenever you&#39;re ready - the water is nice and warm, as they say.</span></p></div></div>
+</body>
+</html>
