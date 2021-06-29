@@ -191,18 +191,32 @@ B4X is yet another quite perplexing entry. The "Developer Website" link on its A
 
 ### [Oyakodon](https://apps.apple.com/us/app/oyakodon-for-mastodon/id1229174544)
 
-Isao Takeyasu's Oyakodon feels a bit like it originally began as a school project, and I mean that in the best possible sense.
+Isao Takeyasu's [Oyakodon](https://apps.apple.com/us/app/oyakodon-for-mastodon/id1229174544) feels a bit like it originally began as a school project, and I mean that in the best possible sense. While it’s probably the least polished of the lot - and therefore likely the least viable candidate for the role of your primary, daily-driven Mastodon client - is is far from a throwaway application. Some evil component of Takeyasu’s mind was clearly let loose if only for a moment, for Oyakodon’s Facebook-style theme is reminiscent enough of Big Blue to alarm. The volume of its design definitely peaks in its Cute theme, which is so violently loud I could not help but extract its color palette to illustrate just how furious its creator must have been.
+
+![Oyakodon Cute Theme Palette](https://i.snap.as/AFbihGYF.jpeg)
+
+Truly diabolical design, there. For better or worse, Oyakodon doesn’t really work very well in its current state, but it _does_ work. 
+
+![StarPterano for iOS](https://i.snap.as/D34uONFT.png)
+
+### [StarPterano](https://apps.apple.com/us/app/starpterano/id1436972796)
+I very vaguely remember happening upon StarPterano in my very first moments on Mastodon, so finding it still published on the App Store - buried as it was - brought me a particular sort of joy. If I’m not mistaken, it holds a special personal accolade as the only iOS app which has caused me to involuntarily shriek. This might sound like an insult, but it is actually the peak of my praise. I believe my knowledge of iOS development safely allows me to suppose that StarPterano was built with complete disregard for any established UI element libraries. That is, the familiar toggles and buttons developers rely on to standardize the iOS experience were cast aside entirely in favor of handbuilt, translucent buttons of a sort of neon quality which call menus and text entry fields no less alien to the platform. The most astonishing bit, though, is that it _works_. On my 12 Pro Max, it’s exceptionally smooth, in fact.
+
+<audio controls>
+  <source src="https://github.com/extratone/StarPterano/raw/master/DonParade/Sound/decision21.mp3">
+</audio>
+
+I would imagine those _real_ iOS developers among you should find [StarPterano’s GitHub Repository](https://github.com/pgostation/StarPterano-iOS5) particularly interesting, considering. In the interest of preservation, I have [forked it](https://github.com/softwarehistorysociety/StarPterano) as well, and fully intend to dive in to its code, one of these days. The audio player embedded above cites a three-second .mp3 file in the repository which perhaps once accounted for the “Sounds” toggle still found in the Settings menu of StarPterano’s current build. I couldn’t get the app to reproduce it, which is actually what set me on the hunt that led to the repo. 
+
+![tooot for iOS](https://i.snap.as/b0GaeasV.png)
+
+### [tooot](https://apps.apple.com/us/app/tooot/id1549772269)
+
+Inadvertently, I have saved the best story of the lot for last. Developer and researcher Zhiyuan Zheng documents both the narrative context leading up to the creation of his first app, [tooot](https://apps.apple.com/us/app/tooot/id1549772269), as well as the philosophy behind its design in “[Building my first app - toot](https://xmflsct.com/2021/tooot/).” His reference to the downfall of a prominent social app in mainland China called Douban - and the “Douban Refugees”  which resulted - are alarmingly missing from all English news organizations save for [a single _Quartz_ article](https://qz.com/1726194/the-decline-of-douban-an-online-sanctuary-for-chinas-liberals/) from October 2019. He eludes to a “boom” of Mastodon adoption in the past few years and cites a lack of “user friendly mobile clients” which I can only assume to be a conundrum specific to China. 
+
+“With the aim of contributing to the community and to this movement, I decided to take my quarantine time to build an enjoyable mobile client for Douban Refugees,” he explains.
 
 
+> The core consits of 3 needs: 1) what I can read; 2) what I can write; 3) what I have done.
 
-![Mastodon Account Wordcloud](https://user-images.githubusercontent.com/43663476/122717470-43f08a00-d231-11eb-890f-dfa3ff33b65d.png)
-
-## Continuing to Explore Social Ownership
-
-This couldn't be "just" an app guide - I think I have thoroughly accepted this, by now, just in time for some conclusionary remarks. Somehow, the subject I originally tackled specifically because I thought it would be quick, rudimentary, and straightforward has become yet another personal journey. It'd feel a bit preposterous to declare any one of these apps to be *life-changing*, but - in every sense of the term, in contemporary, inevitably social media-informed life, they do indeed constitute a form of radical, ideological wellness. Each of them managed to remind me of a different minute delight found within a developer-user dynamic made up of thoughtful and effective minds working to contribute original and valuable experiences, first. Most noteworthy of these little freedoms: the realization that the upcoming "official" Mastodon app along with any future new options are exclusively a positive thing *for the user*... None of these apps were conceived to gobble up market share because the market is fundamentally, inevitably, uncompromisingly *infinitely shared*. I don't know anything about business, but I *do* know that relief from the burden of considering proprietary multivectored development intentions has been personally breathtaking. I can only hope the reciprocal compensation is happening at even a fraction of what it "should" be. 
-
-From another essential direction, I hope I have communicated that they're far from curious, "niche" or vanity side projects, now. When I used the term "mature" in introducing this little arena, I very much meant it - these "alt" social clients developed almost exclusively within single-person-led projects now make the Twitter for iOS app look ugly *and* fucking broken. "Giving social networking back to you" has never been more resonant. Yes, it really is Toot!'s "take a break" blue screen, Amaroq's mysterious Awoo mode toggle, iMast's music app integration, Mercury's configurable timelines, Metatext's native solidity, Tootle's custom colors, Tusker's Digital Wellness controls, Dudu's elemental readability, Roma's quiet resurrection of Mast's UI bravado, Stella's utterly bizarre visual departures, Fedi's odd animated UI behaviors, Tootoise's consideration of *pace*, B4X's unfathomable elements, and Oyakodon's adorable rough edges that have made my online life *measurably*... *immensely* better, these past weeks. At the forefront of this perception is undoubtedly the comparatively extensive *control* over my social experience as a user offered by the diversity of mobile experiences these applications offer.
-
-
-
-Those of you who haven't yet signed up for Mastodon: you are missing out. I am being *actually* pampered, now, in World Wide Web terms. You are *so* welcome whenever you're ready - the water is nice and warm, as they say.
+[[Continuing to Explore Social Ownership]]
