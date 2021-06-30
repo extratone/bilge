@@ -1,9 +1,0 @@
-exectest$
-exptest$
-fetch$
-format$
-layout2$
-ripaux$
-symtest$
-to$
-loadfont$

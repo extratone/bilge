@@ -1,2 +1,0 @@
-Avoid extra compiles when checking out! 
-Thu Oct 19 00:31:11 1989
