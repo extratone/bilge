@@ -61,6 +61,12 @@ That’s all I have to report on MusicHarbor, for the moment, but I’ll add fur
 
 > What makes MusicHarbor special – and, ultimately, the reason why we all use the app here at MacStories – is just how much developer Tanaka understands what someone who wants to know about new music releases is looking for.
 
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/Marcos%20Tanaka%20Interview%20-%20MacStories.mp3">
+</audio>
+
+**July 2021 Update**: The MacStories gentlemen have just published [an interview episode of *AppStories*](https://appstories.net/episodes/230) speaking at length with MusicHabor creator Marcos Tanaka.
+
 ![Albums for iOS](https://i.snap.as/KylIYzaI.png)
 
 ### [Albums](https://apps.apple.com/us/app/albums-album-focused-player/id1469948986)
