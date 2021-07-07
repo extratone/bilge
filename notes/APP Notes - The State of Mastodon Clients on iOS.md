@@ -106,7 +106,34 @@
 * Certainly the closest candidate for replacing Toot!, personally.
 * ~~[Apparently looks great on iPad](https://reddit.com/r/Mastodon/comments/mxymr1/_/gvrz8mz/?context=1).~~
 
+***
 
+# Unmentioned, but currently in Public Beta and/or For Sale
+
+<img src="../images/Tusker Icon.png" alt="Tusker Icon" style="zoom:25%;" />
+
+### Tusker
+
+* [Testflight Link](https://testflight.apple.com/join/wtB7HYvG): `https://testflight.apple.com/join/wtB7HYvG`
+* [Shadowfacts Web](https://shadowfacts.net/): `https://shadowfacts.net/`
+* [Shadowfacts Fedi](https://social.shadowfacts.net/users/shadowfacts): `https://social.shadowfacts.net/users/shadowfacts` 
+* `![Tusker on iOS](https://i.snap.as/82RtZcyl.png)	`
+* The only entry with reasonable landscape mode support: `![Tusker Landscape Mode!](https://i.snap.as/jZudSEdQ.png)`
+* [Repository](https://git.shadowfacts.net/shadowfacts/Tusker): `https://git.shadowfacts.net/shadowfacts/Tusker`
+* Configurable text display format
+* Thanks to [wakest](https://social.wake.st/@liaizon)!
+
+#### Dan Sup Posts
+
+* [Digital Wellness](https://mastodon.social/@dansup/103796555138527843)
+* [Group Notifications](https://mastodon.social/@dansup/104016091796357585)
+* [Compose UI](https://mastodon.social/@dansup/104881923076765100)
+
+---
+
+## Notifications
+
+* Toot!'s sound notifications always came first, then Mercury.
 
 ***
 
@@ -189,29 +216,8 @@
 * [[Zhiyuan Zheng's Portfolio]]
 * `![tooot for iOS](https://i.snap.as/b0GaeasV.png)`
 
-# Unmentioned, but currently in Public Beta and/or For Sale
-
-<img src="../images/Tusker Icon.png" alt="Tusker Icon" style="zoom:25%;" />
-
-### Tusker
-
-* [Testflight Link](https://testflight.apple.com/join/wtB7HYvG): `https://testflight.apple.com/join/wtB7HYvG`
-* [Shadowfacts Web](https://shadowfacts.net/): `https://shadowfacts.net/`
-* [Shadowfacts Fedi](https://social.shadowfacts.net/users/shadowfacts): `https://social.shadowfacts.net/users/shadowfacts` 
-* `![Tusker on iOS](https://i.snap.as/82RtZcyl.png)	`
-* The only entry with reasonable landscape mode support: `![Tusker Landscape Mode!](https://i.snap.as/jZudSEdQ.png)`
-* [Repository](https://git.shadowfacts.net/shadowfacts/Tusker): `https://git.shadowfacts.net/shadowfacts/Tusker`
-* Configurable text display format
-* Thanks to [wakest](https://social.wake.st/@liaizon)!
-
-#### Dan Sup Posts
-
-* [Digital Wellness](https://mastodon.social/@dansup/103796555138527843)
-* [Group Notifications](https://mastodon.social/@dansup/104016091796357585)
-* [Compose UI](https://mastodon.social/@dansup/104881923076765100)
-
----
-
-## Notifications
-
-* Toot!'s sound notifications always came first, then Mercury.
+### Ore2
+* [App Store Page](https://apps.apple.com/us/app/ore2-for-twitter-mastodon/id1107176601): `https://apps.apple.com/us/app/ore2-for-twitter-mastodon/id1107176601`	
+* [Imgur Embed](https://imgur.com/gallery/VSJDi3p): `https://imgur.com/gallery/VSJDi3p`
+* (Non-English) [Twitter Account](https://twitter.com/cathandore2?s=21): `https://twitter.com/cathandore2?s=21`
+* `![Ore2 for iOS](https://i.snap.as/Ln2L96Qa.png)`

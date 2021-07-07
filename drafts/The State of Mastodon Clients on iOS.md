@@ -167,7 +167,7 @@ Naturally, the app inheriting the work/resources established by Mast and Roma, c
 
 ### [DUDU (嘟嘟)](https://bit.ly/duduios) 
 
-DUDU (or "嘟嘟," which translates to "Toot," appropriately,) definitely wins for *Cutest Iconography*. It's a non-English-native application with exceptional English support, which I personally appreciate very much. Compared the entries immediately above, DUDU represents a much more modest interpretation of what a Mastodon client can offer. Its robust, free of over-animation, and - most distinctly - very *wide*, which might have something to do with the "designed for iPad" subtitle on its App Store Page.
+DUDU (or "嘟嘟," which translates to "Toot," appropriately,) definitely wins for *Cutest Iconography*. It's a non-English-native application with exceptional English support, which I personally appreciate very much. Compared the entries immediately above, DUDU represents a much more modest interpretation of what a Mastodon client can offer. It’s robust, free of over-animation, and - most distinctly - very *wide*, which might have something to do with the "designed for iPad" subtitle on its App Store Page.
 
 ![Tootoise for iOS](https://i.snap.as/AZ7fRWc7.png)
 
@@ -208,15 +208,21 @@ I very vaguely remember happening upon StarPterano in my very first moments on M
 
 I would imagine those _real_ iOS developers among you should find [StarPterano’s GitHub Repository](https://github.com/pgostation/StarPterano-iOS5) particularly interesting, considering. In the interest of preservation, I have [forked it](https://github.com/softwarehistorysociety/StarPterano) as well, and fully intend to dive in to its code, one of these days. The audio player embedded above cites a three-second .mp3 file in the repository which perhaps once accounted for the “Sounds” toggle still found in the Settings menu of StarPterano’s current build. I couldn’t get the app to reproduce it, which is actually what set me on the hunt that led to the repo. 
 
+![Ore2 for iOS](https://i.snap.as/Ln2L96Qa.png)
+
+### [Ore2](https://apps.apple.com/us/app/ore2-for-twitter-mastodon/id1107176601)
+
+
+
 ![tooot for iOS](https://i.snap.as/b0GaeasV.png)
 
 ### [tooot](https://apps.apple.com/us/app/tooot/id1549772269)
 
-Inadvertently, I have saved the best story of the lot for last. Developer and researcher Zhiyuan Zheng documents both the narrative context leading up to the creation of his first app, [tooot](https://apps.apple.com/us/app/tooot/id1549772269), as well as the philosophy behind its design in “[Building my first app - toot](https://xmflsct.com/2021/tooot/).” His reference to the downfall of a prominent social app in mainland China called Douban - and the “Douban Refugees”  which resulted - are alarmingly missing from all English news organizations save for [a single _Quartz_ article](https://qz.com/1726194/the-decline-of-douban-an-online-sanctuary-for-chinas-liberals/) from October 2019. He eludes to a “boom” of Mastodon adoption in the past few years and cites a lack of “user friendly mobile clients” which I can only assume to be a conundrum specific to China. 
+Inadvertently, I have saved the best story of the lot for last. Developer and researcher Zhiyuan Zheng documents both the narrative context leading up to the creation of his first app, [tooot](https://apps.apple.com/us/app/tooot/id1549772269), as well as the philosophy behind its design in “[Building my first app - toot](https://xmflsct.com/2021/tooot/).” His reference to the downfall of a prominent social app in mainland China called Douban - and the “Douban Refugees”  which resulted - are alarmingly missing from all English news organizations save for [a single _Quartz_ article](https://qz.com/1726194/the-decline-of-douban-an-online-sanctuary-for-chinas-liberals/) from October 2019. He eludes to a “boom” of Mastodon adoption in the past few years and cites a lack of “user friendly mobile clients” which I can only assume to be a conundrum specific to China.
 
 “With the aim of contributing to the community and to this movement, I decided to take my quarantine time to build an enjoyable mobile client for Douban Refugees,” he explains.
 
 
-> The core consits of 3 needs: 1) what I can read; 2) what I can write; 3) what I have done.
+> The core consists of 3 needs: 1) what I can read; 2) what I can write; 3) what I have done.
 
 [[Continuing to Explore Social Ownership]]
