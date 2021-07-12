@@ -99,7 +99,7 @@ A function I _can_ provide: documenting [iMast’s Bluetooth keyboard shortcuts]
 | Local Timeline      | ⌘ + 3      |
 | Others (Menu)       | ⌘ + 9      |
 
-![Mercury for iOS - Scoops Theme](https://i.snap.as/ScJoTz8e.png)
+iMast is also the singular Mastodon app with a Siri Shortcuts action!
 
 ### [Mercury](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200)
 

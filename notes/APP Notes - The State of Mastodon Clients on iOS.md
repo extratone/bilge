@@ -61,6 +61,7 @@
 
 * `![iMast for iOS](https://i.snap.as/7A9pJMzD.png)`
 * My [**Keyboard Shortcuts Issue**](https://github.com/cinderella-project/iMast/issues/200) on the iMast official Repo
+* iMast is the **only one** of these with a **Siri Shortcuts action**! And it [actually works!](https://mastodon.social/@Muncher/106544257628580768)!
 
 ### Mercury
 
@@ -220,4 +221,12 @@
 * [App Store Page](https://apps.apple.com/us/app/ore2-for-twitter-mastodon/id1107176601): `https://apps.apple.com/us/app/ore2-for-twitter-mastodon/id1107176601`	
 * [Imgur Embed](https://imgur.com/gallery/VSJDi3p): `https://imgur.com/gallery/VSJDi3p`
 * (Non-English) [Twitter Account](https://twitter.com/cathandore2?s=21): `https://twitter.com/cathandore2?s=21`
-* `![Ore2 for iOS](https://i.snap.as/Ln2L96Qa.png)`
+  * `![Ore2 for iOS](https://i.snap.as/Ln2L96Qa.png)`
+
+
+
+***
+
+* Frugality - none of the apps were over 40 mb.
+* Reliability
+* Interoperability
