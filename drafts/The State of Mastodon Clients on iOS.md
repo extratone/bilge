@@ -212,6 +212,7 @@ I would imagine those _real_ iOS developers among you should find [StarPterano�
 
 ### [Ore2](https://apps.apple.com/us/app/ore2-for-twitter-mastodon/id1107176601)
 
+Ore2 is another (apparently) non-English-native Mastodon client focused on consolidating Mastodon and Twitter within a single space. Notably, it’s the first app I’ve come across in a very long time which allows one to post to both services simultaneously. Considerable work was obviously done on making its timeline-based tabs switchable with touch. Personally, I very much prefer my current crossposting configuration via [this (generously-public) web tool](https://crossposter.masto.donte.com.br), but I am all but certain those users exist who will find Ore2’s setup preferable. 
 
 
 ![tooot for iOS](https://i.snap.as/b0GaeasV.png)
@@ -220,9 +221,18 @@ I would imagine those _real_ iOS developers among you should find [StarPterano�
 
 Inadvertently, I have saved the best story of the lot for last. Developer and researcher Zhiyuan Zheng documents both the narrative context leading up to the creation of his first app, [tooot](https://apps.apple.com/us/app/tooot/id1549772269), as well as the philosophy behind its design in “[Building my first app - toot](https://xmflsct.com/2021/tooot/).” His reference to the downfall of a prominent social app in mainland China called Douban - and the “Douban Refugees”  which resulted - are alarmingly missing from all English news organizations save for [a single _Quartz_ article](https://qz.com/1726194/the-decline-of-douban-an-online-sanctuary-for-chinas-liberals/) from October 2019. He eludes to a “boom” of Mastodon adoption in the past few years and cites a lack of “user friendly mobile clients” which I can only assume to be a conundrum specific to China.
 
-“With the aim of contributing to the community and to this movement, I decided to take my quarantine time to build an enjoyable mobile client for Douban Refugees,” he explains.
-
+“With the aim of contributing to the community and to this movement, I decided to take my quarantine time to build an enjoyable mobile client for Douban Refugees,” he explains. He notes that decentralized platforms have universally rejected algorithmic recommendation if for any other reason than “without centralized computing power, such [a] recommendation service is also not that feasible.” “Adapting” back to a linear timeline in a manner which still encourages exploration was clearly a major design consideration for tooot.
 
 > The core consists of 3 needs: 1) what I can read; 2) what I can write; 3) what I have done.
+
+Obviously, I very much appreciate Zhiyuan writing publicly about his thoughts on decentralized social and sharing specific considerations in his app’s design. I very much look forward to continued updates.
+
+## Get Bent, Big Social
+
+A few universal truths among these apps stand out as obligatory mentions. First - in comparison with their Proprietary, Big Social counterparts - they are all _ridiculously_ **frugal**. Not a one of these apps weighs over 40mb, while minor (unexplained) updates to the official Twitter app often exceed 100mb.
+
+
+
+
 
 [[Continuing to Explore Social Ownership]]
