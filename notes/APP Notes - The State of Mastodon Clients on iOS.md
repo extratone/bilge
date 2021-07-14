@@ -135,6 +135,7 @@
 ## Notifications
 
 * Toot!'s sound notifications always came first, then Mercury.
+* [Notification Test Toot](https://mastodon.social/@DavidBlue/106302686196643266) - `https://mastodon.social/@DavidBlue/106302686196643266`
 
 ***
 
