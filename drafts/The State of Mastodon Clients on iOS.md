@@ -253,3 +253,5 @@ Those of you who haven't yet signed up for Mastodon: you are missing out. I am b
 ![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)
 
 Yes, you are looking at the upcoming ***Official*** Mastodon app on iOS, coming very soon to the Awful App Store. You can join me in testing the app right this very moment by contributing to [the Mastodon Project's Patreon](https://www.patreon.com/mastodon). Though I do plan to publish [a dedicated review](https://github.com/extratone/bilge/issues/195) on its release date, what I'll say for now is that it's very cute, as distinctly clever as any of the third-party apps we've just seen, and supports **Bluetooth keyboard shortcuts** on iPhone!
+
+#software

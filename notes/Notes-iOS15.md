@@ -1,5 +1,9 @@
 # Notes: iOS 15
 
+
+
+* "[iOS & iPadOS 15 Beta 3 Release Notes](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15-beta-release-notes)"
+
 ## Shortcuts
 
 * "[All the New Cross-Platform Actions in Shortcuts for iOS, iPadOS, and macOS](https://www.matthewcassinelli.com/new-shortcuts-actions-ios-15/)" | Matthew Cassinelli
