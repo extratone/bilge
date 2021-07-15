@@ -18,7 +18,7 @@ https://twitter.com/NeoYokel/status/1415732070626758663
 
 Since the standard online palette of event organization software are all so easy to use, these days, I've established event pages for this event on multiple platforms, linked in the list below, which I will update as per any suggestions/requests for equivalent pages on other services. Of course, it's certainly not a requirement that you join/engage with any of them. One could could certainly just add the date to their own calendar (conveniently with [this .ics file](https://drive.google.com/file/d/1WM2esll-Yf5Fg4gO9ZYVAJ0pPrdexGqF/view?usp=sharing),) remain entirely silent about the thing on social, and still be participating. Those interested in further engagement, however, can Chat Me Up on [*Extratone*'s Discord](https://bit.ly/extratone), the [Teams event chat](https://teams.live.com/meet/93913819139325), [Telegram](https://t.me/extratoe), [etc](https://davidblue.wtf). I also plan to reshare most of this post as [a thread on Twitter](https://twitter.com/NeoYokel/status/1415732070626758663).
 
-- [GitHub Issue](https://github.com/extratone/bilge/issues/193)
+- [GitHub Discussion](https://github.com/extratone/bilge/discussions/193)
 - [.ics File](https://drive.google.com/file/d/1WM2esll-Yf5Fg4gO9ZYVAJ0pPrdexGqF/view?usp=sharing)
 - [Microsoft Teams Event](https://teams.live.com/meet/93913819139325)
 - [Google Calendar Event](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3BtdXBnajdzbGNyMmNqNjdrc3RydmQ2bXIgY2xhc3Nyb29tMTAzNDc2ODc1MDQ0OTI5MTA0NzA3QGc&tmsrc=classroom103476875044929104707%40group.calendar.google.com)
