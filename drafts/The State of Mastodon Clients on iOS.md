@@ -135,7 +135,7 @@ https://www.youtube.com/watch?v=WBZtmOqyk8c
 
 ### [Tusker](https://testflight.apple.com/join/wtB7HYvG)
 
-I found my way to the only *currently in-development* entry on this list thanks to my Mastodon friend [wakest](https://social.wake.st/@liaizon). iOS developer [Shadowfacts](https://social.shadowfacts.net/users/shadowfacts) (who also maintains [*shadowfacts.net*](https://shadowfacts.net/)) is working on their considerate, distinct app, Tusker in [this self-hosted Repository](https://git.shadowfacts.net/shadowfacts/Tusker). In [#tusker](https://mastodon.social/web/timelines/tag/tusker) on Mastodon, you'll find a few poignant praises from [Pixelfed](https://pixelfed.org/) founder and principal developer [Dan Sup](https://mastodon.social/@dansup), which - from my perspective - is especially high, indeed. 
+I found my way to the only *currently in-development* entry on this list thanks to my Mastodon friend [wakest](https://social.wake.st/@liaizon). iOS developer [Shadowfacts](https://social.shadowfacts.net/users/shadowfacts) (who also maintains [*shadowfacts.net*](https://shadowfacts.net/)) is working on their considerate, distinct app, Tusker in [this self-hosted Repository](https://git.shadowfacts.net/shadowfacts/Tusker). In [#tusker](https://mastodon.social/web/timelines/tag/tusker) on Mastodon, you'll find a few poignant praises from [Pixelfed](https://pixelfed.org/) founder and principal developer [Dan Sup](https://mastodon.social/@dansup), which - from my perspective - are especially high, indeed. 
 
 ![Tusker Landscape Mode!](https://i.snap.as/jZudSEdQ.png)
 
