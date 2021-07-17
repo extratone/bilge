@@ -13,4 +13,4 @@
 
 ## Edge
 
-* [Pride themes!!](https://microsoftedge.microsoft.com/addons/detail/pride/gpahbdchbfofplfeaeipcphhbdhdpnae)
+* ## [Pride themes!!](https://microsoftedge.microsoft.com/addons/detail/pride/gpahbdchbfofplfeaeipcphhbdhdpnae)
