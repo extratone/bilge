@@ -10,7 +10,7 @@ The continued prioritization of Growth for Growth's sake over any and all other 
 
 I know you almost certainly did not arrive here to hear one motherfucker's complaints about WWDC, but - as with everything Apple, Inc. does - every morsel of curatorial expression/discrimination/favoritism from The Great Money God within this platform *must* be scrutinized and criticized. Quite frankly, I found myself completely at a loss as to how *not* to dwell on the Discovery Disparity, here. 
 
-Despite how deeply I've gone into iOS this year, I do not believe myself to be a qualified judge of software design, but I no longer believe Apple to be, either. Regardless of the revenue-related controversies of late, Apple have simply become terrible stewards of the App Store. Scams and blatant intellectual property theft abound, while the majority of the most innovative entries I've ever seen remain entirely obfuscated and uncelebrated by all of Apple. Inc.'s mechanisms. If you required an explanation for the amount of time I've invested into App Guides - a space to which I never would have imagined intentionally bringing *The Psalms* - I hope you can understand.
+Despite how deeply I've gone into iOS this year, I do not believe myself to be a qualified judge of software design, but I no longer believe Apple to be, either. Regardless of the revenue-related controversies of late, Apple have simply become terrible stewards of the App Store in every imaginable sense. Scams and blatant intellectual property theft abound, while the majority of the most innovative entries I've ever seen remain entirely obfuscated and uncelebrated by all of Apple. Inc.'s mechanisms. If you required an explanation for the amount of time I've invested into App Guides - a space to which I never would have imagined intentionally bringing *The Psalms* - I hope you can understand.
 
 I must confess: I have been _meaning_ to write this app guide since even before I [interviewed Mastodon creator Eugen Rochko](https://bilge.world/eugen-rochko-interview) on the morning of his Big Press Day, just over 4 years ago. I’ve exhaustively explored different means of convincing my own longtime Twitter friends to move, over that time, with very little success. Eugen, himself, published an [official blog post](https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/) at the beginning of February detailing his plans to open up onboarding by way of “an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform.” As a Patreon supporter of [The Mastodon Project](https://www.patreon.com/mastodon) (full disclosure,) I've been testing this app (see preview shots at the very end,) and am quite smitten with it. That said, I thought it might be worth going over the third-party options iOS users currently have available to them, largely because the offerings are each innovative and mature applications in their own right. (Also, it’s become quite apparent that the normal tech media sources you’d go to for such a guide aren’t going to give Mastodon the attention it deserves.)
 
@@ -255,5 +255,22 @@ Those of you who haven't yet signed up for Mastodon: you are missing out. I am b
 ![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)
 
 Yes, you are looking at the upcoming ***Official*** Mastodon app on iOS, coming very soon to the Awful App Store. You can join me in testing the app right this very moment by contributing to [the Mastodon Project's Patreon](https://www.patreon.com/mastodon). Though I do plan to publish [a dedicated review](https://github.com/extratone/bilge/issues/195) on its release date, what I'll say for now is that it's very cute, as distinctly clever as any of the third-party apps we've just seen, and supports **Bluetooth keyboard shortcuts** on iPhone!
+
+***
+
+## Those Links, One More Time + a Few More
+
+* [joinmastodon.org/apps](https://joinmastodon.org/apps)
+* The dedicated [GitHub List/Repository](https://github.com/extratone/FediiOS)
+* Direct link to [the Full List in the Repository](https://github.com/extratone/FediiOS/blob/main/README.md)
+* [All collected documentation](https://github.com/extratone/FediiOS/tree/main/documentation)
+* My [personal notes document for this guide](https://github.com/extratone/bilge/blob/main/notes/APP%20Notes%20-%20The%20State%20of%20Mastodon%20Clients%20on%20iOS.md), as is
+
+#### Video
+
+* The [App Authentication Race](https://youtu.be/g2MSr_7J1GY) (clipped from a Twitch stream.)
+* My [YouTube demo of Toot! from 2019](https://youtu.be/LdBFMibyh3Y)
+* My [sub-60-second showcase/demo of Tootle](https://youtu.be/WBZtmOqyk8c)
+* "[The Official Mastodon App BETA Edition](https://youtu.be/MkaJI518uhw)" | Geotechland on YouTube
 
 #software
