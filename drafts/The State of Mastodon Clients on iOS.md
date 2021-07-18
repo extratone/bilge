@@ -24,7 +24,7 @@ If you didn't know, this seems to have become *my general shit*, for lack of a b
 
 > The Open Source/Open Web community continues to struggle with their *brand image* (if you will) in both old and new ways that needlessly alienate (and sometimes obfuscate) some of their most important contributions from the average user. **Technology media has failed in their responsibility to address this issue.**
 
-The blog on which you're reading this, in fact, is federated on ActivityPub. If you so chose, you could be reading it in any client capable of displaying large bodies of text. The crucial point, though, is that *you didn't need to know that* - you could very well go on reading it on the web in total ignorance/apathy regarding Federation.
+The blog on which you're reading this, in fact, is federated on [ActivityPub](https://activitypub.rocks/). If you so chose, you could be reading it in any client capable of displaying large bodies of text. The crucial point, though, is that *you didn't need to know that* - you could very well go on reading it on the web in total ignorance/apathy regarding Federation.
 
 *Oh boy, here we go...* No. I did not want to say anything ideological - I wanted this Post to function as little more than a pretty screenshot showcase and simple associative list responding to all of the Reddit posts I've seen to the tune of "is there an iPhone app?" As I explored them, however, I was reminded of the sheer creativity the "alternative" software community is capable of. Even the roughest of these considered apps seem unable to be faceless - sorting through the obscene amount of (unlabeled) screenshots accumulated over the past weeks of testing in my Recents folder has been *so* much easier than I thought it would be because of their relentless originality. If you've actually used any iOS applications and/or browsed the singular App Store from which they can be acquired in the past 3-4 years, you're undoubtedly skeptical: what we might have called "feature overlap"  at one time has become all but the platform's core ethos. If you're the sort who enjoys screwing around with apps, generally, as I have for the whole of iPhone history, you have grown accustomed to disappointment.
 
@@ -107,15 +107,28 @@ A function I _can_ provide: documenting [iMast’s Bluetooth keyboard shortcuts]
 
 iMast is also the singular Mastodon app with a Siri Shortcuts action!
 
+![Mercury for iOS - Scoops Theme](https://i.snap.as/ScJoTz8e.png)
+
+
 ### [Mercury](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200)
 
-Daniel Nitsikopoulos' [Mercury](https://onmercury.app) represents yet another entirely original direction in Social clients. It's fresh and "opinionated" in its explicit lack of support for instances that "[promote abuse and harassment](https://onmercury.app/help)." From all appearances, this appears to be the singular source of negative reviews on [its iOS App Store page](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200). It's also the other option to offer custom audio notifications, though I couldn't capture a sample. Its [Trello Roadmap](https://trello.com/b/6EseiLSQ/mercury-roadmap) and [Feedback Repo](https://github.com/dNitza/mercury-issues/issues) are public but mostly inactive. As you can see in the grid embedded above, I absolutely adore its Scoops theme and find my $0.99 Tip 100% worth its custom icons.
+Daniel Nitsikopoulos' [Mercury](https://onmercury.app) represents yet another entirely original direction in Social clients. It's fresh and "opinionated" in its explicit lack of support for instances that "[promote abuse and harassment](https://onmercury.app/help)." From all appearances, this appears to be the singular source of negative reviews on [its iOS App Store page](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200). It's also the other option to offer widgets integration (in a single form, currently,) and custom audio notifications, though I couldn't capture a sample. Its [Trello Roadmap](https://trello.com/b/6EseiLSQ/mercury-roadmap) and [Feedback Repo](https://github.com/dNitza/mercury-issues/issues) are public but mostly inactive. As you can see in the grid embedded above, I absolutely adore its Scoops theme and find my $0.99 Tip 100% worth its custom icons.
+
+<img src="https://i.snap.as/r8Qc4BPc.jpeg" alt="Mercury for iOS - Negative App Store Reviews" style="zoom: 25%;" />
+
+Unfortunately, the state of Mercury's App Store reviews prompt yet another essential economic/editorial consideration. The one in the very center of the image embedded, above - from "FeralDandelion" - is the singular one I will allow myself to address. It is true that Mercury straight up refuses to authenticate or federate with a substantial amount of specific Mastodon servers, but it is **exhaustively explicit about this from very get-go**. Its [single-page Help document](https://onmercury.app/help) includes a detailed, up-to-date table of every single blocked instance and *the specific justification* for each respective instance's presence on it:
+
+> Mercury takes a zero tolerance stance on abuse and harassment and as such does not support many instances that promote abuse and harassment.
+
+Let me be clear: the practical manifestation of this position is **exclusively positive**. The Mastodon project has long outgrown the sort of fixation on ideology for ideology's sake that even Lucky Linus himself has no patience for. Instead, *thank Gourd* Mercury's developers took the time to better your social experience! In response to statements like the pullquote above, I expect ***only* thumbs in the air** from this point, forward.
+
+
 
 ![Metatext for iOS](https://i.snap.as/w7PTFpTf.png)
 
 ### [Metatext](https://apps.apple.com/app/metatext/id1523996615)
 
-Metatext is perhaps the buzziest of all these apps - well-praised in every space I could find conversation on the subject. It's developed under [Justin Mazzocchi](https://mastodon.social/@jzzocc)'s software studio, [Metabolist](https://metabolist.org/) and is as [Open Source](https://github.com/metabolist/metatext) as it gets! (As per my hardware keyboard shortcuts crusade, I added [my own issue](https://github.com/metabolist/metatext/issues/40) requesting support.) [u/GummyKibble](https://www.reddit.com/user/GummyKibble/) noted that "it looks like a native app on both iOS and iPadOS." This term - *native* - seems inextricably linked with Metatext. I vaguely understand what it means, and I do agree, but it's worth noting that I speak with some privilege, having compared all of these apps on the top performing handset Apple currently has to offer. In many ways, it is the most frugal of the new offerings, especially, yet it strikes a keen balance between function and delight.
+Metatext is perhaps the buzziest of all these apps - well-praised in every space I could find conversation on the subject. It's developed under [Justin Mazzocchi](https://mastodon.social/@jzzocc)'s software studio, [Metabolist](https://metabolist.org/) and is as [Open Source](https://github.com/metabolist/metatext) as it gets! (As per my hardware keyboard shortcuts crusade, I added [my own issue](https://github.com/metabolist/metatext/issues/40) requesting support.) [u/GummyKibble](https://www.reddit.com/user/GummyKibble/) noted that "it looks like a native app on both iOS and iPadOS." This term - *native* - seems inextricably linked with Metatext. I vaguely understand what it means, and I do agree, but it's worth noting that I speak with some privilege, having compared all of these apps on the top performing handset Apple currently has to offer. In many ways, it is the most frugal of the new offerings, especially, yet it strikes a keen balance between function and delight. I think "native" can be translated as *generally of a stout, sturdy disposition*, thanks to the care put into honing said balance. 
 
 ## Less-Than-Sanctioned
 
@@ -141,7 +154,7 @@ I found my way to the only *currently in-development* entry on this list thanks 
 
 ![Tusker Landscape Mode!](https://i.snap.as/jZudSEdQ.png)
 
-You, yourself can use Tusker *right this very minute* via Apple's beta distribution system, [Testflight](https://testflight.apple.com/), via [**this invite link**](https://testflight.apple.com/join/wtB7HYvG).
+Tusker's color customization options are technically... well.. *not infinite*, like other apps here, but the end result of their (obviously, very considered) selection will be a net win for 100% of users over that alternative, I believe. It is definitely of a similar philosophy to Metatext, but unquestionably more ambitious. Out of the lot, testing Tusker was the singular instance in which I found myself considering a "replacement" for Toot! You, yourself can use Tusker *right this very minute* via Apple's beta distribution system, [Testflight](https://testflight.apple.com/), via [**this invite link**](https://testflight.apple.com/join/wtB7HYvG).
 
 ![Roma for iOS](https://i.snap.as/oBYO4T1e.png)
 
@@ -167,7 +180,7 @@ Though my hopes for the original Mast to live on in Roma form were more or less 
 
 ### [Fedi](https://apps.apple.com/us/app/fedi-for-pleroma-and-mastodon/id1478806281)
 
-Naturally, the app inheriting the work/resources established by Mast and Roma, called Fedi, should be next up for discussion. Hopefully, my relative lack of experience with [Pleroma](https://pleroma.social/) - another ActivityPub-based, federated social network - won't let you down, here. After a brief shock from the uniqueness of Fedi's UI passes, one immediately notices how beautifully it is animated, wholly disregarding my [recently-acquired](https://twitter.com/NeoYokel/status/1357394407201398791) preference for as little animation as possible. Perhaps more than any other app discussed here, Fedi feels uncannily bespoke in a way which iOS apps almost never do. It is undoubtedly the result of a very specific vision - to disregard the whole modern template for social apps and completely reimagine the archetype. Personally, I'm not sure if it would be easy to get used to, but my tastes/habits in this regard are very much the result of the past decade of proprietary social apps' blandness. Going forward with substantial financial backing and the talents of whoever it was that got it this far, no doubt we should all have very high hopes for Fedi.
+Naturally, the app inheriting the work/resources established by Mast and Roma - known by *Fedi* - should be next up for discussion. Hopefully, my relative lack of experience with [Pleroma](https://pleroma.social/) - another ActivityPub-based, federated social network - won't let you down, here. After a brief shock from the uniqueness of Fedi's UI passes, one immediately notices how beautifully it is animated, wholly disregarding my [recently-acquired](https://twitter.com/NeoYokel/status/1357394407201398791) preference for as little animation as possible. Perhaps more than any other app discussed here, Fedi feels uncannily bespoke in a way which iOS apps almost never do. It is undoubtedly the result of a very specific vision - to disregard the whole modern template for social apps and completely reimagine the archetype. Personally, I'm not sure if it would be easy to get used to, but my tastes/habits in this regard are very much the result of the past decade of proprietary social apps' blandness. Going forward with substantial financial backing and the talents of whoever it was that got it this far, no doubt we should all have very high hopes for Fedi.
 
 ![DUDU (嘟嘟) for iOS](https://i.snap.as/Kt8ZbQFk.png)
 
@@ -239,7 +252,7 @@ A few universal truths among these apps stand out as obligatory mentions. First 
 
 https://twitter.com/NeoYokel/status/1393294957352468494
 
-The overwhelming impression I was left with after testing these apps was one of unwavering competence, cleverness, and true innovation. 
+The overwhelming impression I was left with after testing these apps was one of unwavering competence, cleverness, and true innovation. How many different ways can I possibly conjure forth in order to communicate this? I, David Blue - the vain fucker with a precollection for the most superficial variables of software design *so* healthy that I have on multiple occasions designed whole, years-long workflows around specific applications *entirely because of their available color palettes*... **It is I who requires you to take a good fucking look**, because this list of decentralized, largely open source, federated social software is a goddamned fashion show.
 
 ## Continuing to Explore Social Ownership
 ![Mastodon Account Wordcloud](https://user-images.githubusercontent.com/43663476/122717470-43f08a00-d231-11eb-890f-dfa3ff33b65d.png)
@@ -248,15 +261,17 @@ This couldn't be "just" an app guide - I think I have thoroughly accepted this, 
 
 From another essential direction, I hope I have communicated that they're far from curious, "niche" or vanity side projects, now. When I used the term "mature" in introducing this little arena, I very much meant it - these "alt" social clients developed almost exclusively within single-person-led projects now make the Twitter for iOS app look ugly *and* fucking broken. "Giving social networking back to you" has never been more resonant. Yes, it really is Toot!'s "take a break" blue screen, Amaroq's mysterious Awoo mode toggle, iMast's music app integration, Mercury's configurable timelines, Metatext's native solidity, Tootle's custom colors, Tusker's Digital Wellness controls, DUDU's elemental readability, Roma's quiet resurrection of Mast's UI bravado, Stella's utterly bizarre visual departures, Fedi's odd animated UI behaviors, Tootoise's consideration of *pace*, B4X's unfathomable elements, Ore2's parallel timelines, tooot's development story, and Oyakodon's adorable rough edges that have made my online life *measurably*... *immensely* better, these past weeks. At the forefront of this perception is undoubtedly the comparatively extensive *control* over my social experience as a user offered by the diversity of mobile experiences these applications offer.
 
-Those of you who haven't yet signed up for Mastodon: you are missing out. I am being *actually* pampered, now, in World Wide Web terms. You are [*so* welcome](https://bit.ly/dbmastodon) whenever you're ready - the water is nice and warm, as they say.
+Those of you who haven't yet signed up for Mastodon: ==you are missing the fuck out==. I am being *actually* pampered, now, in World Wide Web terms. You are [*so* welcome](https://bit.ly/dbmastodon) whenever you're ready - the water is nice and warm, as they say.
 
 ## ...Party One
 
 ![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)
 
-Yes, you are looking at the upcoming ***Official*** Mastodon app on iOS, coming very soon to the Awful App Store. You can join me in testing the app right this very moment by contributing to [the Mastodon Project's Patreon](https://www.patreon.com/mastodon). Though I do plan to publish [a dedicated review](https://github.com/extratone/bilge/issues/195) on its release date, what I'll say for now is that it's very cute, as distinctly clever as any of the third-party apps we've just seen, and supports **Bluetooth keyboard shortcuts** on iPhone!
+Yes, you are looking at the currently in-development **"*Official*" Mastodon app on iOS**, coming very soon to the Awful App Store. You can join me in testing the app right this very moment by contributing to [the Mastodon Project's Patreon](https://www.patreon.com/mastodon). Though I do plan to publish [a dedicated review](https://github.com/extratone/bilge/issues/195) on its release date, what I'll say for now is that it's very cute, includes *the* most gorgeous media player I've ever seen on an iOS app, and is as distinctly clever as any of the third-party family we've just visited, all whilst maintaining an expert's aim at its evangelist purpose. 
 
-***
+~~The surprise that threw me over the edge to a genuinely pitiful extent: the official Mastodon app already includes full **Bluetooth keyboard shortcuts integration on iPhone!**~~
+
+---
 
 ## Those Links, One More Time + a Few More
 
