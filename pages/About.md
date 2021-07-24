@@ -8,7 +8,7 @@
 
 ## ‽‽‽
 
-*The Psalms* (alternatively/interchangeably entitled *Bilge*) is a monobyline World Wide Web Blog written by David Blue (good morning!) observing and selectively amplifying the characters, organizations, and stories surrounding the most abrupt, profound, and spectacular communicative renaissance in the history of the human species. 
+The Psalms (alternatively/interchangeably entitled Bilge) is a monobyline World Wide Web Blog written by [**𝒟𝒶𝓋𝒾𝒹 ℬ𝓁𝓊ℯ**](https://bit.ly/whoisdavidblue) (good morning!) observing and selectively amplifying the characters, organizations, and stories surrounding the most abrupt, profound, and spectacular communicative renaissance in the history of the human species. 
 
 Less abstractly, its beat is **wholly digital**, namely in **tools** (software, services, and methodologies) and **culture** (music, film, podcasts, and media) from a distinct lens established at good distance from California.
 
