@@ -1,6 +1,9 @@
 # Notes: Social Media Documentation
 
+* My very first Tweet was purely strategic and a blatant lie!
+* Whyp is an example of a *truly thriving* audio social network!!
 
+---
 
 `![Follow Limit Notice](https://i.snap.as/qWuogwAX.jpeg)`
 
@@ -105,3 +108,4 @@ For a good part of my Junior and Senior years of high school,
 <iframe frameborder="0" scrolling="no" height="130" width="100%" src="https://www.wnyc.org/widgets/ondemand_player/wnyc/#file=/audio/json/1092149/&share=1"></iframe>
 
 * **[Beneath the Marketing Cacophony: Real work chat, anyone? - Python - Clubhouse](https://www.joinclubhouse.com/event/MKJXLezN)** (My Clubhouse Chat) 
+
