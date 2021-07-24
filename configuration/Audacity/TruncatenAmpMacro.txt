@@ -1,0 +1,2 @@
+TruncateSilence:Action="Truncate Detected Silence" Compress="50" Independent="0" Minimum="0.5" Threshold="-32" Truncate="0.15"
+Compress&dynamics:compress-ratio="0.85" floor="-32" left-exponent="2" left-width-s="510" noise-factor="0" right-exponent="4" right-width-s="340" scale-max="1" use-percep="1"

@@ -5,8 +5,8 @@
 
 		<title>fiction &mdash; The Psalms</title>
 		
-		<link rel="stylesheet" type="text/css" href="https://files.writeas.org/css/write.a4a766dc8aba9afdc8e24.css" />
-		<link rel="shortcut icon" href="https://files.writeas.org/favicon.ico" />
+		<link rel="stylesheet" type="text/css" href="https://cdn.writeas.net/css/write.7f1f2a6d26a3512599f2d.css" />
+		<link rel="shortcut icon" href="https://cdn.writeas.net/favicon.ico" />
 		<link rel="alternate" type="application/rss+xml" title="fiction posts on The Psalms" href="tag%253Afiction/feed/index.html" />
 		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
 		<link rel="canonical" href="tag%253Afiction.html" />
@@ -19,7 +19,7 @@
 		<meta name="application-name" content="Write.as">
 		<meta name="application-url" content="https://write.as">
 		<meta name="twitter:label1" value="Views">
-		<meta name="twitter:data1" value="49,796">
+		<meta name="twitter:data1" value="70,405">
 		<meta itemprop="name" content="The Psalms">
 		<meta itemprop="description" content="fiction posts on The Psalms">
 		<meta name="twitter:card" content="summary">
@@ -29,13 +29,13 @@
 		<meta property="og:title" content="fiction &mdash; The Psalms" />
 		<meta property="og:site_name" content="The Psalms" />
 		<meta property="og:type" content="article" />
-		<meta property="og:url" content="http://bilge.world/tag:fiction" />
+		<meta property="og:url" content="https://bilge.world/tag:fiction" />
         
 		<style type="text/css">/* Written in November 2020 by David Blue for bilge.world.
 
-Full, up-to-date source code available at https://github.com/extratone/bilge/
+`Version 3.1` https://github.com/extratone/bilge/releases/tag/3.1
 
-Version 3.0 ?????? ?????: https://github.com/extratone/bilge/releases/tag/3.0
+Full, up-to-date source code available at https://github.com/extratone/bilge/
 
 # [The Unlicense, Dave Edition](https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1)
 
@@ -162,35 +162,50 @@ h2 {
 }
 
 h3 {
+    color: #1c0021 !important;
     font-family: proxima-nova-extra-condensed, sans-serif;
     font-weight: 600;
     font-size: 1.3em !important;
 }
 
 h4 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h5 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: 1em !important;
 }
 
 h6 {
+    color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-size: .85em !important;
 }
 
 code {
-    background-color:#f7ff85 !important;
-    border: 1px solid #00006b !important;
-    border-radius: 2px !important;
-    font-size: 0.75em !important;
+    /* background-color:#f7ff85 !important; */
+    /* border: 1px solid #da2573 !important;
+    border-radius: 1px !important; */
+    font-size: 0.85em !important;
     color: #1c0021 !important;
     font-family: proxima-nova-condensed, sans-serif;
     font-weight: 400;
-    padding: 0px 0px 0px 0px !important;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+body #post pre, body#collection pre, body#post pre, body#subpage pre {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
 }
 
 .post-title a:visited,
@@ -219,6 +234,59 @@ blockquote {
     color: #333333 !important;
     border-left: 2.5px solid #00006b !important;
 }
+
+table {
+    background-color: #FFFdeb !important;
+    font-size: 0.8em !important;
+    line-height: 1.2em;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    border: 1px solid #f43f32 !important;
+    border-radius: 1px !important;
+}
+
+article table td, article table th {
+    border: 1px solid !important;
+    border-color: #da2573 !important;
+}
+
+
+.gist {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+}
+
+.gist .gist-meta {
+    font-family: proxima-nova-extra-condensed, sans-serif !important;
+    font-weight: 600 !important;
+    color: #1c0021 !important;
+}
+
+.gist, .gist article, .gist article p {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+}
+
+
+.gist .gist-file .gist-data {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+}
+
+.gist, .gist article, .gist article p {
+    white-space: normal !important;
+}
+
+/* .gist .gist-hr {
+    display: hide !important;
+} */
 
 hr {
     border: 2px solid red;
@@ -352,7 +420,13 @@ body#subpage article time.dt-published {
 
 <h2 id="two-young-men-steal-a-wheel-of-cheese">Two young men steal a wheel of cheese.</h2>
 
-<p><em>This is an excerpt from my novel project, Blimp&#39;s Burden, about a jaded software engineer who’s new, ridiculously-eccentric boss presents a future which forces him to reckon with his mishandled grief. To support the novel&#39;s creation with art, funds, etc, please <a href="mailto:davidblue@extratone.com" rel="nofollow">email me</a>.</em></p>
+<p><em>This is an excerpt from my novel project, Blimp&#39;s Burden, about a jaded software engineer who’s new, ridiculously-eccentric boss presents a future which forces him to reckon with his mishandled grief. To support the novel&#39;s creation with art, funds, etc, please <a href="mailto:davidblue@extratone.com">email me</a>.</em></p>
+
+<p><em>Listen to the entirety of the chapter read aloud by Siri Voice 2 below.</em></p>
+
+<p><audio controls="">
+  <source src="https://github.com/extratone/bilge/raw/main/audio/TTS/Blimp6.mp3">
+</audio></p>
 
 <p>In the right hour, the woodland springtime metamorphic processes of the neighboring Lake Geneva suburb’s in-betweens were in a paused state – the toads again hushed; the crickets tired, and the human populace, too. In the right hour, the fickle wind and the social owls were the only sound, and nothing moved but the sparse, light-footed doe in careful segments with her fawn. From the main gated lane of <em>The Nice, Huge Estate</em>, Lenny Lather slid through the muddy barrier and started bouncing West on the blacktop, brogues squeaking every third step. The overcasted clouds were having trouble deciding whether or not to let down their rain – as they had been all day – and the old, heavy early-March mist softened the yellow glow of the tall, buzzing streetlamps so much that he couldn’t help but intermittently wipe his eyes, for the spreading light convinced his mind that his eyelashes must’ve been wetted.</p>
 
@@ -468,7 +542,7 @@ body#subpage article time.dt-published {
 
 <p>Though the Lake Geneva Police Department was shown the security footage of that first theft by management, the theatricality of their matching getup had inadvertently obscured their identities, and the organization’s extreme deficit of imagination had left them stumped by the lack of license plates on the car, despite the free and effortless ability of just about any casual enthusiast of early American luxury automobiles and/or lackadaisical disciple of the Concours religion to immediately identify <em>BLOOD</em> by <em>name</em> from the grainiest image, if consulted. If anything, their incompetence rewarded Pith and Lather’s continued focus on the products of the same store’s cheese artisan, as intelligence on the state of her latest flagship incubation was freely available with no more effort than it took to simply stop by her display amid regular shopping trips. Twice in two weeks, they stole both of her replacements for the biggest child without any significant alternation of their method, which frustrated her and the management nearly to the point of crises, and quickly lost all potential for fun in a third attempt – their kicks were in their absurdity, not their <em>effectiveness</em>, and neither of them cared much for the cheese.</p>
 
-<p><a href="tag%253Afiction.html" class="hashtag" rel="nofollow"><span>#</span><span class="p-category">fiction</span></a></p>
+<p><a href="tag%253Afiction.html" class="hashtag"><span>#</span><span class="p-category">fiction</span></a></p>
 </div></article>
 
 
@@ -486,7 +560,7 @@ body#subpage article time.dt-published {
 		<script type="text/javascript" src="https://platform.twitter.com/widgets.js" async></script><script type="text/javascript" src="https://hypothes.is/embed.js" async></script>
 		<script type="text/javascript">var topP = document.createElement("p");
 //topP.style.textAlign = "center";
-topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://discord.gg/4hdQcVd">Discord</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://discord.gg/eBVrcBaaHp">Discord</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
 var cont = document.getElementById("wrapper");
 if (cont !== null) {
     // Add to blog index and tag pages
@@ -525,18 +599,10 @@ var refText = "<a name=\"fnref$1\"></a><sup><a class=\"footnote-ref\" href="http
 var postContent = document.getElementById("post-body").innerHTML;
 postContent = postContent.replace(notePattern, noteText);
 postContent = postContent.replace(refPattern, refText);
-document.getElementById("post-body").innerHTML = postContent;
-
-<script type="text/javascript">
-    (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-    })(window, document, "clarity", "script", "5727h83alj");
-</script></script>
+document.getElementById("post-body").innerHTML = postContent;</script>
 	
 	
-	<script src="https://files.writeas.org/js/localdate.js" integrity="sha384-2h0jAAXW06POyeBB2kpmJH+tWBF2mCWnv4DucLFRZXs+D8NX/MjGV7C/aCC2Ywki" crossorigin="anonymous"></script>
+	<script src="https://cdn.writeas.net/js/localdate.js" integrity="sha384-2h0jAAXW06POyeBB2kpmJH+tWBF2mCWnv4DucLFRZXs+D8NX/MjGV7C/aCC2Ywki" crossorigin="anonymous"></script>
 	
 <script>
   
@@ -606,7 +672,7 @@ document.getElementById("post-body").innerHTML = postContent;
       var jss = [hlbaseUri + "highlight.min.js"];
       
       for (i=0; i < lb.length; i++) {
-        lang = lb[i].className.replace('language-','');
+        lang = lb[i].className.replace('language-','').toLowerCase();
         
         if (aliasmap[lang]) lang = aliasmap[lang];
         lurl = hlbaseUri + "languages/" + lang + ".min.js";
@@ -640,11 +706,11 @@ document.getElementById("post-body").innerHTML = postContent;
 	
 	try { 
 	  WebFontConfig = {
-		custom: { families: [ 'Lora:400,700:latin', 'Open+Sans:400,700:latin' ], urls: [ 'https://files.writeas.org/css/fonts.4ce1882.css' ] }
+		custom: { families: [ 'Lora:400,700:latin', 'Open+Sans:400,700:latin' ], urls: [ 'https:\/\/cdn.writeas.net/css/fonts.4ce1882.css' ] }
 	  };
 	  (function() {
 		var wf = document.createElement('script');
-		wf.src = 'https://files.writeas.org/js/webfont.js';
+		wf.src = 'https:\/\/cdn.writeas.net/js/webfont.js';
 		wf.type = 'text/javascript';
 		wf.async = 'true';
 		var s = document.getElementsByTagName('script')[0];
