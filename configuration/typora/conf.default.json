@@ -21,7 +21,7 @@
     // All other options are the menu items 'text label' displayed from each typora menu
   },
 
-  "monocolorEmoji": true, //default false. Only work for Windows
-  "maxFetchCountOnFileList": 1500,
+  "monocolorEmoji": false, //default false. Only work for Windows
+  "maxFetchCountOnFileList": 500,
   "flags": [] // default [], append Chrome launch flags, e.g: [["disable-gpu"], ["host-rules", "MAP * 127.0.0.1"]]
 }
