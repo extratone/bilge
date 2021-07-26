@@ -1,5 +1,9 @@
 # Notes: iOS 15
 
+## Culture
+
+* [ ] iOS Powerusers no longer act like *paying customers*, whatsoever, (including myself, probably forever!) and in turn are almost never treated as such. 
+
 ## Meta
 * [Dedicated Snap.as Gallery](https://snap.as/extratone/ios15)
 
