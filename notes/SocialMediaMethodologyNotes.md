@@ -109,3 +109,15 @@ For a good part of my Junior and Senior years of high school,
 
 * **[Beneath the Marketing Cacophony: Real work chat, anyone? - Python - Clubhouse](https://www.joinclubhouse.com/event/MKJXLezN)** (My Clubhouse Chat) 
 
+
+
+
+## Tinder BS
+
+"[Tinder CEO Elie Seidman on finding love during the pandemic](https://www.theverge.com/21284420/tinder-ceo-elie-seidman-interview-dating-pandemic)" | *The Verge*
+
+**NP: Once you find the something more, you probably don’t want to go back to an environment where everyone’s intent is to get to something more. Do you anticipate people are going to spend a long time in Tinder, that they’re going to come back to it again and again throughout their life, or is it once you make the connection, you move on?**
+
+We already see episodic behavior, which makes sense. If you find somebody, you get really connected to them, you date them, it’s maybe a long term relationship. We’re really the only app which says, ==“Just because it doesn’t last forever, doesn’t mean it’s not important.”== It’s still important, and we’re very clear about that. We don’t think everything has to last to be important. As a result, we see very clearly episodic use.
+
+People come, they come for a while, they leave, they come back. If that starts at 18, it’s a journey, and they spend their time on that journey. I don’t think this will change that. I very much hope and expect that people will still form important connections, even if they don’t last forever.
