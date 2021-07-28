@@ -121,3 +121,9 @@ For a good part of my Junior and Senior years of high school,
 We already see episodic behavior, which makes sense. If you find somebody, you get really connected to them, you date them, it’s maybe a long term relationship. We’re really the only app which says, ==“Just because it doesn’t last forever, doesn’t mean it’s not important.”== It’s still important, and we’re very clear about that. We don’t think everything has to last to be important. As a result, we see very clearly episodic use.
 
 People come, they come for a while, they leave, they come back. If that starts at 18, it’s a journey, and they spend their time on that journey. I don’t think this will change that. I very much hope and expect that people will still form important connections, even if they don’t last forever.
+
+
+
+## Drywall History
+
+* `https://www.youtube.com/watch?v=7A-Gzn0wu3Q`

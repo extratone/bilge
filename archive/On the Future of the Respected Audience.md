@@ -1,7 +1,4 @@
 # "[On the Future of the Respected Audience | David Blue | Extratone on Patreon](https://www.patreon.com/posts/8766185)"
-''
-***
-_The following was sent as part of a __[personal TinyLetter_](https://tinyletter.com/DavidBlue)_  I've just begun in the hopes of rejuvenating my ability to tell stories. _
 
 There are a few entities which continue to validate what I'm pursuing, but [Joshua Topolsky](https://twitter.com/joshuatopolsky) and his _[Outline_](https://theoutline.com/) are particularly worth noting. In search of reassurance, I listened to a [podcast](https://digiday.com/podcast/outlines-josh-topolsky-theres-much-sameness-digital-media/) he appeared on in February, last night, and also found [one](https://longform.org/posts/longform-podcast-27-joshua-topolsky) from 2013, when he was still EiC of _The Verge_. Basically the entirety of the first is within the idealism I've risked most of myself for, in case you're curious. I've looked up to Topolsky in a huge way, this past year. He has done - and is doing - many things which I am intrinsically drawn to earn for my legacy, and the presence of his wife on his staff (their few [podcasts](https://soundcloud.com/tomorrowpodcast/episode-28-laura-june-and-the-contrarian-disposition) together are adorable in a very particular way,) is idyllic in appearance, at least. I love the way they talk about each other. I suppose spousal editorial staff is probably the personal hell of a good many people. Perhaps, it's even my own. Listening to him talk on Digiday, though, reminded me - along with a few other works I've consumed lately - that _technically_, _Extratone_ is a _business._ Or at least... That it must become one eventually or die forever. While trying to explain my future plans to a friend, I inadvertently layed out some 'steps for growth.' 
 
@@ -54,4 +51,4 @@ _David Blue,_
 
 _Editor-in-Chief_
 
--"[On the Future of the Respected Audience | David Blue | Extratone on Patreon](https://www.patreon.com/posts/8766185)"
+-"[On the Future of the Respected Audience | David Blue | Extratone on Patreon](https://www.patreon.com/posts/8766185)
