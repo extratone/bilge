@@ -2,7 +2,7 @@
 
 ![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)
 
-Indeed, [it is here](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974). Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the span of time it took me to write the [third-party Mastodon iOS app showcase](https://bilge.world/mastodon-ios-apps) just before this item in *The Psalms*’ feed. If you’re new to this conversation, perhaps it’d be best to start in February of this year, with [Eugen’s announcement of the “official” Mastodon app’s development](https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/) on the official Mastodon blog. “We need an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform,” argues Eugen, in response to feedback indicating “the lack of an app that carries [Mastodon’s] name in the app stores trips up newcomers.” My first thought regarding the idea of an app *Specialized* in onboarding cynically jumped to the assumption that such a design choice would result in a less-than-ideal experience for those of us who already call Mastodon our home. However, as a [Patreon](https://patreon.com/mastodon) supporter of the Mastodon Project, I’ve had the privilege of testing the final result for the past five weeks, and I can tell ya… It is so much more than that.
+Indeed, [**it is here**](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974). Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the span of time it took me to write the [third-party Mastodon iOS app showcase](https://bilge.world/mastodon-ios-apps) just before this item in *The Psalms*’ feed. If you’re new to this conversation, perhaps it’d be best to start in February of this year, with [Eugen’s announcement of the “official” Mastodon app’s development](https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/) on the official Mastodon blog. “We need an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform,” argues Eugen, in response to feedback indicating “the lack of an app that carries [Mastodon’s] name in the app stores trips up newcomers.” My first thought regarding the idea of an app *Specialized* in onboarding cynically jumped to the assumption that such a design choice would result in a less-than-ideal experience for those of us who already call Mastodon our home. However, as a [Patreon](https://patreon.com/mastodon) supporter of the Mastodon Project, I’ve had the privilege of testing the final result for the past five weeks, and I can tell ya… It is so much more than that.
 
 https://youtube.com/watch?v=bD8GQvNrE7E
 
@@ -20,5 +20,17 @@ After confirmation, we are offered the option to explore the app’s “Find peo
 
 ![Trending & Profile Editing in Mastodon for iOS](https://i.snap.as/F21Jm29Q.png)
 
-	## Advantages
+## Advantages
 
+One of the distinctly missing functions among the breadth of third-party offerings has been the ability to edit one's profile information from within the app. Mastodon for iOS addresses this in a particularly visually impressive way (see image embedded above.) Some also have yet to be updated with support for Polls, which the new app encompasses in a manner that puts Big Social's equivalents to shame. The ability to vertically drag individual options in the compose interface, for instance, reflects insight only gained by *actually using these features*. The result is definitively the best means of crafting a Mastodon poll, for what that's worth.
+
+![Polling in Mastodon for iOS](https://i.snap.as/NKHk8e1W.png)
+
+### Shortcuts
+
+As of this writing, Mastodon for  iOS also includes Siri Shortcut support by way of a single action, entitled "Post on Mastodon." Mostly in the interest of demonstration, I have created and published two Shortcuts around this action on RoutineHub: 
+
+1. "[**Mastodon Share**](https://routinehub.co/shortcut/9776/)" - a text-only Shortcut meant for the Share Sheet.
+2. "[**Mastgur**](https://routinehub.co/shortcut/9781/)" - a more complicated Shortcut utilizing Imgur actions to get around the current Mastodon for iOS action's lack of multimedia support. 
+
+Mastodon friend Emma's [customization of the latter](https://mstdn.cloud.themaymeow.com/@emma/106656610574981709) is a great example of how quickly one can tailor these (and all other) Siri Shortcuts to their own particular use.

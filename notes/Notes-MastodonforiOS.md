@@ -37,6 +37,7 @@
 * `![Onboarding in Mastodon for iOS](https://i.snap.as/P5oxTAg9.png)`
 * `![Trending & Profile Editing in Mastodon for iOS](https://i.snap.as/F21Jm29Q.png)`
 * `![Mastodon for iOS Audio Player](https://i.snap.as/IRzEOzXl.png)`
+* `![Polling in Mastodon for iOS](https://i.snap.as/NKHk8e1W.png)`
 
 **Custom Audio players!**
 ![Custom Audio Players](https://user-images.githubusercontent.com/43663476/123793971-f49d0000-d8a7-11eb-80cf-d5423992468e.png)
