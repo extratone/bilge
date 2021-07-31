@@ -1,5 +1,7 @@
 # Mastodon for iOS Review
 
+[[Notes - Mastodon for iOS (The “Official” App)]]
+
 ![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)
 
 Indeed, [**it is here**](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974). Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the span of time it took me to write the [third-party Mastodon iOS app showcase](https://bilge.world/mastodon-ios-apps) just before this item in *The Psalms*’ feed. If you’re new to this conversation, perhaps it’d be best to start in February of this year, with [Eugen’s announcement of the “official” Mastodon app’s development](https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/) on the official Mastodon blog. “We need an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform,” argues Eugen, in response to feedback indicating “the lack of an app that carries [Mastodon’s] name in the app stores trips up newcomers.” My first thought regarding the idea of an app *Specialized* in onboarding cynically jumped to the assumption that such a design choice would result in a less-than-ideal experience for those of us who already call Mastodon our home. However, as a [Patreon](https://patreon.com/mastodon) supporter of the Mastodon Project, I’ve had the privilege of testing the final result for the past five weeks, and I can tell ya… It is so much more than that.
@@ -31,6 +33,39 @@ One of the distinctly missing functions among the breadth of third-party offerin
 As of this writing, Mastodon for  iOS also includes Siri Shortcut support by way of a single action, entitled "Post on Mastodon." Mostly in the interest of demonstration, I have created and published two Shortcuts around this action on RoutineHub: 
 
 1. "[**Mastodon Share**](https://routinehub.co/shortcut/9776/)" - a text-only Shortcut meant for the Share Sheet.
-2. "[**Mastgur**](https://routinehub.co/shortcut/9781/)" - a more complicated Shortcut utilizing Imgur actions to get around the current Mastodon for iOS action's lack of multimedia support. 
+2. "[**Mastgur**](https://routinehub.co/shortcut/9781/)" - a more complicated Shortcut utilizing Imgur actions to get around the current Mastodon for iOS action's lack of multimedia support.
+
+![Mastodon Share Siri Shortcut](https://i.snap.as/rzxVoniy.png)
 
 Mastodon friend Emma's [customization of the latter](https://mstdn.cloud.themaymeow.com/@emma/106656610574981709) is a great example of how quickly one can tailor these (and all other) Siri Shortcuts to their own particular use.
+
+## Challenges
+
+As of this writing, coverage of the app’s release amounted only to [a single news item from *The Verge*’s Adi Robinson](https://www.theverge.com/2021/7/30/22602275/mastodon-decentralized-social-network-official-ios-app-launches), which notes the omission of local/federated “firehose” timeline views out of a desire to “reduce the potential for conflict with Apple.” As a Mastodon user who *does* occasionally engage with my federated timeline, I’d find this decision perfectly reasonable, regardless. If we’re all honest with ourselves, even the most powerful of Mastodon powerusers should realistically just… wait until we get home, to a desktop, in order to browse such a high-bandwidth feed. 
+
+![Composition Details in Mastodon for iOS](https://i.snap.as/3PreFFPx.png)
+
+## Delights
+
+The “relentless originality” I spoke of in my *third-party* showcase is no less exemplified in this first-party Mastodon app. Its color palette is a welcome departure from Tootsuite’s (the mother web application,) while still remaining definitively recognizable. The artwork dispersed throughout the app is adorable, as you’ve seen, and its bespoke audio player is without a doubt my favorite of such devices.
+
+![Mastodon for iOS Audio Player](https://i.snap.as/IRzEOzXl.png)
+
+Custom audio notifications especially stood out among those third-party apps, so the project-sourced app’s inclusion of the iconic Mastodon “boop” is yet another small inclusion that adds a surprising amount of substance to the whole experience.
+
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/MastodonBoop.mp3">
+</audio>
+
+Though quite specific to myself and the few other iPhone users who regularly command our handsets with physical keyboards, the Mastodon app’s inclusion of **Bluetooth keyboard shortcuts** provoked a moment of true euphoria when I first discovered them. 
+
+### Mastodon for iOS Keyboard Shortcuts
+| Action                         | Key        |
+|:------------------------------:|:----------:|
+| Open Compose Window            | ⌘ + N      |
+| Send Toot                      | ⌘ + Return |
+| Home Timeline/Refresh Timeline | ⌘ + 1      |
+| Explore Tab                    | ⌘ + 2      |
+| Notifications                  | ⌘ + 3      |
+| Favorites                      | ⌘ + F      |
+| Settings                       | ⌘ + ,      |

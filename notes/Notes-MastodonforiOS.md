@@ -1,5 +1,7 @@
 # Notes - Mastodon for iOS (The “Official” App)
 
+[[Mastodon for iOS Review]]
+
 `![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)`
 
 ![Mastodon for iOS QR Code](https://i.snap.as/hqmcJQGx.jpg)
@@ -11,6 +13,7 @@
 * [GitHub Repository](https://github.com/mastodon/mastodon-ios)
 * [The GitHub Issue](https://github.com/extratone/bilge/issues/195)
 * [The Mastodon Project Patreon page](https://www.patreon.com/mastodon)
+* [Supporting Associated Domains](https://developer.apple.com/documentation/Xcode/supporting-associated-domains) | Apple Developer Documentation
 
 
 ## Siri Shortcuts
@@ -24,13 +27,13 @@
 ## Mastodon for iOS Keyboard Shortcuts
 | Action                         | Key        |
 |:------------------------------:|:----------:|
-| Home Timeline/Refresh Timeline | ⌘ + 1      |
 | Open Compose Window            | ⌘ + N      |
 | Send Toot                      | ⌘ + Return |
+| Home Timeline/Refresh Timeline | ⌘ + 1      |
 | Explore Tab                    | ⌘ + 2      |
 | Notifications                  | ⌘ + 3      |
-| Settings                       | ⌘ + ,      |
 | Favorites                      | ⌘ + F      |
+| Settings                       | ⌘ + ,      |
 ([Markdown file in the Repo](https://github.com/extratone/bilge/blob/main/documentation/Masto/MastodonKeys.md))
 
 ## Photos
@@ -38,6 +41,16 @@
 * `![Trending & Profile Editing in Mastodon for iOS](https://i.snap.as/F21Jm29Q.png)`
 * `![Mastodon for iOS Audio Player](https://i.snap.as/IRzEOzXl.png)`
 * `![Polling in Mastodon for iOS](https://i.snap.as/NKHk8e1W.png)`
+* `![Elephants at Play - Mastodon for iOS](https://i.snap.as/P092W1IO.png)`
+* `![Mastodon Share Siri Shortcut](https://i.snap.as/rzxVoniy.png)`
+* `![Composition Details in Mastodon for iOS](https://i.snap.as/3PreFFPx.png)`
+* `![Mastodon for iPhone - Universal Clacker Award](https://i.snap.as/OO8YwIO0.png)`
 
 **Custom Audio players!**
-![Custom Audio Players](https://user-images.githubusercontent.com/43663476/123793971-f49d0000-d8a7-11eb-80cf-d5423992468e.png)
+`![Custom Audio Players](https://user-images.githubusercontent.com/43663476/123793971-f49d0000-d8a7-11eb-80cf-d5423992468e.png)`
+
+```
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/MastodonBoop.mp3">
+</audio>
+```
