@@ -44,7 +44,7 @@
 * `![Elephants at Play - Mastodon for iOS](https://i.snap.as/P092W1IO.png)`
 * `![Mastodon Share Siri Shortcut](https://i.snap.as/rzxVoniy.png)`
 * `![Composition Details in Mastodon for iOS](https://i.snap.as/3PreFFPx.png)`
-* `![Mastodon for iPhone - Universal Clacker Award](https://i.snap.as/OO8YwIO0.png)`
+* `![Mastodon for iPhone - Universal Clacker Award](https://i.snap.as/H7NjCvd7.png)`
 
 **Custom Audio players!**
 `![Custom Audio Players](https://user-images.githubusercontent.com/43663476/123793971-f49d0000-d8a7-11eb-80cf-d5423992468e.png)`
