@@ -1,10 +1,22 @@
-# Notes: The Official Mastodon App
+# Notes - Mastodon for iOS (The “Official” App)
 
-`![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)`
+[[Mastodon for iOS Review]]
 
+![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)
+
+* [**App Store Page**](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) - `https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974`
+* [Media Services App Store Page](https://tools.applemediaservices.com/app/1571998974)
 * Keyboard Shortcuts
 * [The GitHub Issue](https://github.com/extratone/bilge/issues/195)
 * [The Mastodon Project Patreon page](https://www.patreon.com/mastodon)
+
+
+## Siri Shortcuts
+* [Mastodon Share](https://routinehub.co/shortcut/9776/) - `https://routinehub.co/shortcut/9776/`
+* [Mastgur](https://routinehub.co/shortcut/9781/) - `https://routinehub.co/shortcut/9781/`
+
+## Video
+* [My onboarding demo](https://youtu.be/bD8GQvNrE7E)
 
 ## Mastodon for iOS Keyboard Shortcuts
 | Action                         | Key        |
