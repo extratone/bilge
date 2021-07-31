@@ -1,7 +1,5 @@
 # Notes - Mastodon for iOS (The “Official” App)
 
-[[Mastodon for iOS Review]]
-
 `![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)`
 
 ![Mastodon for iOS QR Code](https://i.snap.as/hqmcJQGx.jpg)
@@ -14,6 +12,7 @@
 * [The GitHub Issue](https://github.com/extratone/bilge/issues/195)
 * [The Mastodon Project Patreon page](https://www.patreon.com/mastodon)
 * [Supporting Associated Domains](https://developer.apple.com/documentation/Xcode/supporting-associated-domains) | Apple Developer Documentation
+* [List of my followed accounts](https://github.com/extratone/bilge/blob/main/curation/mastodonfollowing.csv)
 
 
 ## Siri Shortcuts
@@ -45,6 +44,8 @@
 * `![Mastodon Share Siri Shortcut](https://i.snap.as/rzxVoniy.png)`
 * `![Composition Details in Mastodon for iOS](https://i.snap.as/3PreFFPx.png)`
 * `![Mastodon for iPhone - Universal Clacker Award](https://i.snap.as/H7NjCvd7.png)`
+* `![Composition Details in Mastodon for iOS](https://i.snap.as/7UTf6Qyx.png)`
+* `![Siri Shortcuts for Mastodon for iOS](https://i.snap.as/H212I22P.png)`
 
 **Custom Audio players!**
 `![Custom Audio Players](https://user-images.githubusercontent.com/43663476/123793971-f49d0000-d8a7-11eb-80cf-d5423992468e.png)`
