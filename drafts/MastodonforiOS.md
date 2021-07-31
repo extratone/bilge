@@ -1,7 +1,24 @@
 # Mastodon for iOS Review
 
-[[Notes - Mastodon for iOS (The “Official” App)]]
-
 ![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)
 
-Indeed, [it is here](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974). Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the span of time it took me to write the [third-party Mastodon iOS app showcase](https://bilge.world/mastodon-ios-apps) just before this item in *The Psalms*’ feed.
+Indeed, [it is here](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974). Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the span of time it took me to write the [third-party Mastodon iOS app showcase](https://bilge.world/mastodon-ios-apps) just before this item in *The Psalms*’ feed. If you’re new to this conversation, perhaps it’d be best to start in February of this year, with [Eugen’s announcement of the “official” Mastodon app’s development](https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/) on the official Mastodon blog. “We need an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform,” argues Eugen, in response to feedback indicating “the lack of an app that carries [Mastodon’s] name in the app stores trips up newcomers.” My first thought regarding the idea of an app *Specialized* in onboarding cynically jumped to the assumption that such a design choice would result in a less-than-ideal experience for those of us who already call Mastodon our home. However, as a [Patreon](https://patreon.com/mastodon) supporter of the Mastodon Project, I’ve had the privilege of testing the final result for the past five weeks, and I can tell ya… It is so much more than that.
+
+https://youtube.com/watch?v=bD8GQvNrE7E
+
+## Onboarding
+
+I’d like to offer the [demo video](https://youtu.be/bD8GQvNrE7E) embedded above as an unusually succinct (from me) demonstration of the delightfully well-considered onboarding process. I would go so far as to declare it **the best all-around social network onboarding process currently available**. Having very recently slugged through the official Twitter app’s equivalent, the frames greeting new Mastodon users within this app are unbelievably exceptional. 
+
+![Onboarding in Mastodon for iOS](https://i.snap.as/P5oxTAg9.png)
+
+First, we’re presented with a list of Mastodon instances (servers,) organized by category. Those friends of mine to whom I’ve failed to “sell” Mastodon have cited server selection as a major obstacle of confusion and I can’t imagine a better means of addressing it than the tool in this app. It’s beautiful and fast in a way previous tools - like [instances.social](https://instances.social) - cannot be, especially for those most lacking in attention. Once we’ve chosen a server, we are immediately presented up front with a clearly readable document containing the “ground rules” set by its administrators. In my experience, these rules tend to be notably **easy-to-understand** and **not open to interpretation**, as if they were written primarily in the interest of community wellness, instead of a defense from legal action. 
+
+After we’ve agreed to the relevant terms of the server we’ve chosen, it’s on to account creation, which offers the options to which citizens of the social web have become accustomed - profile picture, username, email address, and password - but notably without the [inexplicable errors](https://gimletmedia.com/shows/reply-all/n8hxzr7/176-twicarus) exhibited for years in Big Social’s equivalent functions. Immediately following this frame, we are prompted to check our inboxes for a confirmation link. The explanation for my dramatic exclamation in the demo video comes down to Mastodon for iOS’ implementation of x-callback URLS - a means of hyperlinking within the operating system between apps, which (in my experience) is hardly ever utilized correctly. The result is that I was able to click the incoming confirmation link within Outlook for iOS and then proceed *within the Mastodon app* instead of being bounced off to a web browser. This integration should not be remarkable, but - in the context of iOS development as it stands in 2021 - it most certainly is.
+
+After confirmation, we are offered the option to explore the app’s “Find people to follow” function, which is informed by our chosen instance’s *voluntary* Profile Directory (opt in or out with the "Suggest account to others" toggle in /settings/profile.) Indeed, the remarkably relevant results offered to me in the demo were not actually remarkable at all: I just know a lot of folks on mastodon.online. That's the whole bit! If you need "proof," [here is the finished result](https://mastodon.online/@keys), but obviously, I would advise you download the app and try yourself. (It's a cliché, yes, but seriously... What do you have to lose?)
+
+![Trending & Profile Editing in Mastodon for iOS](https://i.snap.as/F21Jm29Q.png)
+
+	## Advantages
+
