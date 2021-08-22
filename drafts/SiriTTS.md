@@ -2,7 +2,11 @@
 
 ![Siri TTS](https://i.snap.as/13BtYmx0.png)
 
-## Bewilderingly, Siri is genuinely great at something they were never designed for. The new “Make Audio From Text” action has finally been fixed.
+## Bewilderingly, Siri is genuinely great at something they were never designed for. The new “Make Spoken Audio From Text” action has finally been fixed.
+
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/TTS/SiriTTSTalent.mp3">
+</audio>
 
 When I first published my [iPhone & Music guide](https://bilge.world/iphone-ios-music-apps) this past April, I’d been pretty active in [*AppleScoop*’s Discord Server](https://discord.gg/DxQ9jry8J3), so I decided to share it there. Editor-in-Chief Flynn - a ridiculously talented web developer *and* successful independent media entrepreneur - responded “I’m listening to it with the speak feature right now. Is it your voice or someone else? 😛,” Gourd bless his soul. Here’s the specific audio he was talking about:
 
@@ -50,7 +54,7 @@ For the entirety of iOS 15’s Beta cycle up until Developer Beta 6’s release,
 
 So! For those of you currently running the latest iOS 15 Beta and those in the future running the full release, **what follows is a guide on how you can use my own shortcuts and methods to generate, metadate, and embed Siri-powered audio text-to-speech files relatively quickly without having to use desktop-class (or any other) hardware**.
 
-To begin, you should install two brand new shortcuts of mine: [**Make Audio from Article Body**](https://routinehub.co/shortcut/9953/) and (if you intend to stick with me to the embed stage, anyway,) my [< audio > Embed Tool](https://routinehub.co/shortcut/9948/). Both should function out of the box, but I would highly encourage that you try building your own shortcut around the `Make Audio From Text` action, even if you've never worked with Shortcuts (or any sort of automation, for that matter) before, *especially* if you plan to be using Siri as a text-to-speech generator with any frequency. 
+To begin, you should install two brand new shortcuts of mine: [**Make Audio from Article Body**](https://routinehub.co/shortcut/9953/) and (if you intend to stick with me to the embed stage, anyway,) my [< audio > Embed Tool](https://routinehub.co/shortcut/9948/). Both should function out of the box, but I would highly encourage that you try building your own shortcut around the `Make Spoken Audio From Text` action, even if you've never worked with Shortcuts (or any sort of automation, for that matter) before, *especially* if you plan to be using Siri as a text-to-speech generator with any frequency. 
 
 ### Intended Result
 
@@ -125,6 +129,16 @@ If you follow this shortlink from within a browser on any iOS device, my full co
 
 Suggestions/requests regarding considerations I’ve obviously missed in this guide are not just *welcome* in this case, but actually *necessary*. As long as I am literally the only person talking about the “Make Spoken Audio from Text” action, I am ready and willing to be an all-hours resource. 
 
-**Note**: This Post perhaps more than any published yet on *The Psalms*, is very much an ongoing work-in-progress, as are most of the hyperlinked shortcuts contained within it.
+###### Note: This Post perhaps more than any published yet on *The Psalms*, is very much an ongoing work-in-progress, as are most of the hyperlinked shortcuts contained within it.
+
+---
+
+<audio controls>
+  <source src="https://files.mastodon.social/media_attachments/files/106/800/947/371/313/127/original/f2c6be859e0d52cd.mp3">
+</audio>
+
+## The Threshold
+
+
 
 #software
