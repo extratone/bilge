@@ -10,11 +10,9 @@ date-released: 2021-08-24
 keywords: 
   - editorial
   - documentation
-license: "The Unlicense"
+license: "The Unlicense, Dave Edition" (https://github.com/extratone/bilge/blob/main/LICENSE.md)
 message: |
-    "Feel free to cite any of my work properly! Feel free to not do that!
-    
-    Feel free to actively lie about its origin! "
+    "Feel free to cite any of my work properly! Feel free to not do that! Feel free to actively lie about its origin! "
 repository-code: "https://github.com/extratone/bilge/releases/tag/3.1"
 title: BILGE
 version: "3.1"
