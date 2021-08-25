@@ -1,5 +1,7 @@
 # Siri as Text-to-Speech Talent in iOS 15
 
+[[Notes - Siri as Text-to-Speech in iOS 15]]
+
 ![Siri TTS](https://i.snap.as/13BtYmx0.png)
 
 ## Bewilderingly, Siri is genuinely great at something they were never designed for. The new “Make Spoken Audio From Text” action has finally been fixed.
@@ -139,6 +141,6 @@ Suggestions/requests regarding considerations I’ve obviously missed in this gu
 
 ## The Threshold
 
-
+https://www.youtube.com/watch?v=pgkOnBYbhLA
 
 #software
