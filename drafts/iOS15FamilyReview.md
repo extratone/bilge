@@ -30,15 +30,15 @@ Quite simply, the more automated iOS has become, the less comfortably in control
 
 Rounder, still! From the first time you enter your passcode immediately after installing iOS 15, you’ll notice that Notifications and other elements have had their rounded corners *further* rounded, for some reason. Assuming Safari ships with its new look turned on by default, the screenshots embedded above show two locations (subject to change) where one can switch it off. (Your best bet is to visit its settings menu as displayed on the right in `Settings ⇨ Safari`.) As of this writing, at least two of iOS 15’s “headlining” features have been pushed to further iterative updates: [SharePlay](https://www.independent.co.uk/life-style/gadgets-and-tech/ios-15-apple-shareplay-tv-delay-b1904548.html) and [iCloud Private Relay](https://www.macrumors.com/2021/08/25/icloud-private-relay-ios-15-public-beta/). I suspect you will be prompted to explore Focus Modes upon initial installation, which I will eventually analyze in relative detail. Ideally, you’ll also be prompted to explore “Shared With You,” which I personally believe to be the release’s most significant addition for most people, by far. 
 
-As far as "meaningful ways iPhone could help you," I see little more than glimmers. Focus Modes would be promising were they not so complex to set up, and Notification Summaries are (as of this moment) a pretty hopeless implementation of a theoretically useful concept. Some additional filters in Apple Maps search will prove useful so long as the associated metadata has been updated for locations *other* than San Francisco (say, mid-Missouri.) 
+As far as "meaningful ways iPhone could help you," I see little more than glimmers. Focus Modes would be promising were they not so complex to set up, and Notification Summaries are (as of this moment) a pretty hopeless implementation of a theoretically useful concept. Some additional filters in Apple Maps search will prove useful so long as the associated metadata has been updated for locations *other* than San Francisco (say, mid-Missouri.) Optical Character (text) Recognition has been implemented “system wide” under the feature Apple terms “Live Text,” and translation has finally been extended to the places where it’s most useful (think: Safari.) 
+
+In general, though, most of what’s coming with iOS 15 has little real value in the day-to-day experience for most iPhone users. A complete inversion of Craig’s phrase feels significantly more accurate: *This year, we were inspired to create even more superficial ways iPhone could temporarily dazzle tech media*. 
 
 
 
 And now, I’d like to take you through what I feel are the considerations I’d like my family to know - namely my 70-year-old mother, who depends 100% on her iPhone and MacBook Pro every day to run her private practice - but also my ~8 nieces and nephews spanning 6th grade-graduate school, who all - if I’m not mistaken - have iPhones.
 
 (Worthy of note: this “review” is very heavily focused on *iOS* - which is to say *iPhone* - to the point where any overlap with iPadOS/MacOS/WatchOS/HomeOS/any other goddamned operating system are purely coincidental. For coverage of those changes, please seek your regular sources.)
-
-We’ll go in order of most important to least, if that’s okay.
 
 ![Shared With You - Photos App in iOS 15](https://i.snap.as/5otqrdNU.png)
 
@@ -62,11 +62,17 @@ https://youtube.com/watch?v=7uFR_bSxhTg
 
 Yeah. I hope you’re at least half as amused as I have continued to be by algorithmic video generation. [The above result](https://youtu.be/7uFR_bSxhTg) was created with absolutely zero modification from an album of images and videos which Photos automatically created via face recognition. 
 
-![Visual Lookup in iOS 15](https://i.snap.as/AtxzN45h.png)
+![Visual Lookup Indicator in iOS 15](https://i.snap.as/74HOlnLP.png)
 
 ### Visual Lookup
 
-Perhaps the most unjustifiable background use of your phone’s resources introduced in iOS 15, “Visual Lookup” seeks to identify “popular art and landmarks around the world, plants and flowers out in nature, books, and breeds of pets” present in your photos so that you might 
+Perhaps the most unjustifiable background use of your phone’s resources introduced in iOS 15, “Visual Lookup,” seeks to identify “popular art and landmarks around the world, plants and flowers out in nature, books, and breeds of pets” present in your photos so that you might… identify them more swiftly(?) The only means of distinguishing photos on which Visual Lookup has been applied is to look for the modified ⓘ symbol at the very bottom of your screen in the photo browsing view (see the screenshot embedded above.) As you might notice in the screenshots *below*, not one of its analyses on my own images was usably accurate. 
+
+![Visual Lookup in iOS 15](https://i.snap.as/AtxzN45h.png)
+
+### Metadata
+
+Hooray! You can now view an image's basic details in the "Info pane," by swiping up on an image or using the ⓘ button. This includes its the extension and size of the image file, camera identification and configuration details, and -  as part of Shared With You - from whom/where you got the image. Bizarrely, the "Adjust" tool also lets you alter a given image's timestamp and location information. While I can imagine infinitely many reasons why you'd want to *omit* or *delete* such information, I cannot conceive of a single wholesome reason why one would chose to *change* it, instead. 
 
 ![Photo Stacks in iOS 15](https://i.snap.as/93BGmX4I.png)
 
@@ -87,6 +93,10 @@ https://youtube.com/watch?v=hiCICEx3Egk
 
 Just to be clear, I strongly believe that normal users should basically ignore all mention of Apple’s “Spatial Audio” (read: don’t worry about it) for a few reasons, most of which aren’t all that interesting. Since [one of my very first written works on tech](https://bilge.world/mono-audio-playback) was/is directly related to the subject, though, indulge me for just a moment for an attempted explanation. Firstly, I must note that only two audio channels (the stereo experiences in various forms you’ve certainly had in your life, regardless of who you are) are necessary for audio to become “spatial.” If you’re curious about this, [my favorite all-time web experience from *The Pudding*](https://pudding.cool/2018/02/waveforms/) is an absolutely impeccable next destination. Secondly, the actual technology behind Apple’s title was not developed by Apple, but by Dolby. It’s not that Apple doesn’t acknowledge this thoroughly in [their explainer docs](https://support.apple.com/en-us/HT212182), nor is Dolby by any means a wee organization in need of my amplification, but this is one of those Apple habits that’s become a particular peev. If you’re interested, [here is the actual spec sheet for Dolby Atmos in PDF](https://professional.dolby.com/siteassets/cinema-products---documents/dolby-atmos-specifications.pdf).
 
+`![Control Center Decibel Meter](https://i.snap.as/1vGTW0Iz.png)`
+
+If you happen to have either AirPods Pro or AirPods Max devices, an iPhone 7 or later, *and* an Apple Music subscription, you might want to disregard my cynicism at least long enough to try "[dynamic head tracking](https://support.apple.com/en-us/HT212182)."
+
 ### SharePlay
 
 *The Verge*’s Chaim Gartenburg did [an excellent - if a bit precocious - job of explaining](https://www.theverge.com/22577178/shareplay-how-to-apple-facetime-ios-15-ipados-macos-monterey-apple-tv-video-music) what he describes as iOS 15’s “headline feature,” called SharePlay:
@@ -95,7 +105,7 @@ Just to be clear, I strongly believe that normal users should basically ignore a
 
 In my opinion, SharePlay represents one of those great, well-thought solutions to some notably youth-specific challenges which nobody (even the youth) will see as more worthwhile than their own. By that I mean, one ear bud per person… now, an ancient tradition. I’ve deprioritized it, in contrast to Chaim, because I’d bet it’s also one of those things one can only learn themselves.
 
-https://m.youtube.com/watch?v=YZCx-9wF3ow
+https://youtube.com/watch?v=YZCx-9wF3ow
 
 ## Notifications, Focus, and Attention
 
@@ -122,4 +132,8 @@ I’m sorry, Mom… I really did ask just about everyone I know how on Earth I w
 
 ### Facetime in The Browser
 
-![Tim Cook Straight Up Pissing](https://i.snap.as/jchC6Bzx.jpeg)
+Yes, you can *technically* Facetime with non-Apple devices thanks to iOS 15's changes. In fact, you'll be able to "Facetime" any device with a web browser! *However*, in doing so you will be forgoing every single one of Facetime's advantages: call quality, "privacy," ecosystem integration, etc. Without these, it would be silly to use Facetime over literally *any* other video calling service. What an immense waste of time, eh?
+
+https://twitter.com/NeoYokel/status/1430679850399014912
+
+https://www.youtube.com/watch?v=dJCRzOclrxQ
