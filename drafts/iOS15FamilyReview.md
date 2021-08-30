@@ -28,7 +28,11 @@ Quite simply, the more automated iOS has become, the less comfortably in control
 
 ## The Gist
 
-Rounder, still! From the first time you enter your passcode immediately after installing iOS 15, you’ll notice that Notifications and other elements have had their rounded corners *further* rounded, for some reason. Assuming Safari ships with its new look turned on by default, the screenshots embedded above show two locations (subject to change) where one can switch it off. (Your best bet is to visit its settings menu as displayed on the right in `Settings ⇨ Safari`.) As of this writing, at least two of iOS 15’s “headlining” features have been pushed to further iterative updates: [SharePlay](https://www.independent.co.uk/life-style/gadgets-and-tech/ios-15-apple-shareplay-tv-delay-b1904548.html) and [iCloud Private Relay](https://www.macrumors.com/2021/08/25/icloud-private-relay-ios-15-public-beta/). I suspect you will be prompted to explore Focus modes upon initial installation, which I will eventually analyze in relative detail. Ideally, you’ll also be prompted to explore “Shared With You,” which I personally believe to be the release’s most significant addition for most people, by far. 
+Rounder, still! From the first time you enter your passcode immediately after installing iOS 15, you’ll notice that Notifications and other elements have had their rounded corners *further* rounded, for some reason. Assuming Safari ships with its new look turned on by default, the screenshots embedded above show two locations (subject to change) where one can switch it off. (Your best bet is to visit its settings menu as displayed on the right in `Settings ⇨ Safari`.) As of this writing, at least two of iOS 15’s “headlining” features have been pushed to further iterative updates: [SharePlay](https://www.independent.co.uk/life-style/gadgets-and-tech/ios-15-apple-shareplay-tv-delay-b1904548.html) and [iCloud Private Relay](https://www.macrumors.com/2021/08/25/icloud-private-relay-ios-15-public-beta/). I suspect you will be prompted to explore Focus Modes upon initial installation, which I will eventually analyze in relative detail. Ideally, you’ll also be prompted to explore “Shared With You,” which I personally believe to be the release’s most significant addition for most people, by far. 
+
+As far as "meaningful ways iPhone could help you," I see little more than glimmers. Focus Modes would be promising were they not so complex to set up, and Notification Summaries are (as of this moment) a pretty hopeless implementation of a theoretically useful concept. Some additional filters in Apple Maps search will prove useful so long as the associated metadata has been updated for locations *other* than San Francisco (say, mid-Missouri.) 
+
+
 
 And now, I’d like to take you through what I feel are the considerations I’d like my family to know - namely my 70-year-old mother, who depends 100% on her iPhone and MacBook Pro every day to run her private practice - but also my ~8 nieces and nephews spanning 6th grade-graduate school, who all - if I’m not mistaken - have iPhones.
 
@@ -58,13 +62,13 @@ https://youtube.com/watch?v=7uFR_bSxhTg
 
 Yeah. I hope you’re at least half as amused as I have continued to be by algorithmic video generation. [The above result](https://youtu.be/7uFR_bSxhTg) was created with absolutely zero modification from an album of images and videos which Photos automatically created via face recognition. 
 
-[Visual Lookup Screenshots Embed (needs to be compressed)]
+![Visual Lookup in iOS 15](https://i.snap.as/AtxzN45h.png)
 
 ### Visual Lookup
 
 Perhaps the most unjustifiable background use of your phone’s resources introduced in iOS 15, “Visual Lookup” seeks to identify “popular art and landmarks around the world, plants and flowers out in nature, books, and breeds of pets” present in your photos so that you might 
 
-![Photo Stacks - Messages in iOS15](https://i.snap.as/i3Y9L9F8.png)
+![Photo Stacks in iOS 15](https://i.snap.as/93BGmX4I.png)
 
 ### Messages
 
