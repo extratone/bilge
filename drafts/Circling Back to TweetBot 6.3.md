@@ -1,6 +1,6 @@
-# Circling Back to TweetBot 6.3
+# Circling Back to Tweetbot 6.3
 
-![TweetBot 6.2’s Updates](https://i.snap.as/9mWAIvKH.png)
+![Harvest Theme - Tweetbot 6.3](https://i.snap.as/3Q0YFS3h.png)
 
 Yesterday morning, after finally taking the taking the time to explore the modernizations shipped with TweetBot 6.2, [last week](https://9to5mac.com/2021/08/17/tweetbot-6-2-update-timeline-widgets-multiple-windows-support-ipad), it occurred to me that it might be an ideal time to follow up on a brief exchange I’d had with Tapbots support in mid-February concerning a single, single key Bluetooth keyboard shortcut, ultimately - using the F key to favorite (and now `Shift + ⌘ + L` to “like”) which then seemed to have been lost in the transition from Tweetbot 5 to Tweetbot 6. If you’ll recall from [my first stupidly time-consuming big Post of 2021](https://bilge.world/tweetbot-6-ios-review), our conversation was left open ended with “Thanks, we’ll take a look at these.” You might also recall a very specific pledge of mine which I just rediscovered:
 
@@ -28,3 +28,7 @@ https://twitter.com/tapbot_paul/status/1427679138572390400
 - ![Tweetbot 6.2’s New Widget Makes History](https://i.snap.as/LBKlJ475.png)
 - ![Weather App Saturation - iOS 15](https://i.snap.as/SiLgmZQP.png)
 ```
+
+`![Platinum Clacker Award - Tweetbot](https://i.snap.as/NGMqjMVG.png)`
+
+`![Platinum Clacker Award - Tweetbot](https://i.snap.as/8l9zEyVK.png)`
