@@ -60,7 +60,13 @@ I find Alex Guyot’s bit on changes to Memories (from [his iOS 15 overview for 
 
 https://youtube.com/watch?v=7uFR_bSxhTg
 
-Yeah. I hope you’re at least half as amused as I have continued to be by algorithmic video generation. [The above result](https://youtu.be/7uFR_bSxhTg) was created with absolutely zero modification from an album of images and videos which Photos automatically created via face recognition. 
+Yeah. I hope you’re at least half as amused as I have continued to be by algorithmic video generation. [The above result](https://youtu.be/7uFR_bSxhTg) was created with absolutely zero modification from an album of images and videos which Photos automatically created via face recognition. The only other coherent option from my own limited set of photos is really the only one that matters, I think you'll agree. "Pet Friends" yielded [inevitably uplifting results](https://youtu.be/-1bA7-oslkc) in all three of my test renders, but - given a crop of cute dog photos - little intelligence is necessary to produce.
+
+https://www.youtube.com/watch?v=-1bA7-oslkc
+
+If you're experiencing any sort of deja vu from the idea of auto-generated slideshows with rights-free soundtracks in the Photos app, it's because Apple has made several distinct attempts to implement very similar iterations of the feature throughout iPhone's history. 
+
+
 
 ![Visual Lookup Indicator in iOS 15](https://i.snap.as/74HOlnLP.png)
 
@@ -77,6 +83,8 @@ Hooray! You can now view an image's basic details in the "Info pane," by swiping
 ![Photo Stacks in iOS 15](https://i.snap.as/93BGmX4I.png)
 
 ### Messages
+
+Just a few weeks shy of [iMessage's tenth birthday](https://web.archive.org/web/20120308031950/https://www.apple.com/ios/features.html), Apple has finally added a button to save incoming photos directly in Messages conversations. It's about as blatant as Apple interface design gets - you'll spot it opposite others' images. Tapping it saves the appropriate photo(s) directly to the Recents folder before a silly animation vanishes the button itself.
 
 Once again, from Mr. Guyot:
 
