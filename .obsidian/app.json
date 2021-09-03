@@ -1,5 +1,6 @@
 {
   "newFileLocation": "folder",
   "attachmentFolderPath": "./media",
-  "newFileFolderPath": "obsidian"
+  "newFileFolderPath": "obsidian",
+  "spellcheck": true
 }

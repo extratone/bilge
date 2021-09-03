@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "26f5d5d18e3a6f9a",
+        "id": "7d23f85e7c24b079",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Obsidian Meta.md",
-            "mode": "source"
+            "file": "drafts/iOS15FamilyReview.md",
+            "mode": "preview"
           }
         }
       }
@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 184.00019645690918
   },
   "right": {
     "id": "e36b956a0ca751aa",
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Meta.md",
+                "file": "drafts/iOS15FamilyReview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Meta.md"
+                "file": "drafts/iOS15FamilyReview.md"
               }
             }
           }
@@ -96,9 +96,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26f5d5d18e3a6f9a",
+  "active": "7d23f85e7c24b079",
   "lastOpenFiles": [
-    "Untitled.md",
-    "drafts/iOS15.md"
+    "drafts/iOS15FamilyReview.md",
+    "drafts/iOS15.md",
+    "Untitled.md"
   ]
 }
