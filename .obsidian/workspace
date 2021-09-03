@@ -1,0 +1,104 @@
+{
+  "main": {
+    "id": "e925790e8dfec605",
+    "type": "split",
+    "children": [
+      {
+        "id": "26f5d5d18e3a6f9a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Obsidian Meta.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82adaa78524291da",
+    "type": "split",
+    "children": [
+      {
+        "id": "9476eb7225fe0314",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5557a66db1b9788",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2a553cfe69d6d91",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e36b956a0ca751aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "b398f930cd44a0ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4086b528136c42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Obsidian Meta.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80ca7fed755ff9e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Obsidian Meta.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "26f5d5d18e3a6f9a",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "drafts/iOS15.md"
+  ]
+}
