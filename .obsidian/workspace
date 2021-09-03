@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "ae500a8a0485bb9c",
+        "id": "7d23f85e7c24b079",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "drafts/iOS15FamilyReview.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -41,31 +44,54 @@
           }
         }
       }
-    ]
+    ],
+    "direction": "horizontal",
+    "width": 184.00019645690918
   },
   "right": {
     "id": "805bb5f36f2175b6",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "127d792fd3875b89",
-        "type": "leaf",
-        "state": {
-          "type": "backlink",
-          "state": {
-            "collapseAll": false,
-            "extraContext": false,
-            "sortOrder": "alphabetical",
-            "showSearch": false,
-            "searchQuery": "",
-            "backlinkCollapsed": false,
-            "unlinkedCollapsed": true
+        "id": "b398f930cd44a0ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d4086b528136c42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "drafts/iOS15FamilyReview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80ca7fed755ff9e0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "drafts/iOS15FamilyReview.md"
+              }
+            }
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "ae500a8a0485bb9c",
-  "lastOpenFiles": []
+  "active": "7d23f85e7c24b079",
+  "lastOpenFiles": [
+    "drafts/iOS15FamilyReview.md",
+    "drafts/iOS15.md",
+    "Untitled.md"
+  ]
 }
