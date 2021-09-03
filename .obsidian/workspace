@@ -1,104 +1,71 @@
 {
   "main": {
-    "id": "e925790e8dfec605",
+    "id": "59daf02a35d6f575",
     "type": "split",
     "children": [
       {
-        "id": "26f5d5d18e3a6f9a",
+        "id": "ae500a8a0485bb9c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Obsidian Meta.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "82adaa78524291da",
-    "type": "split",
+    "id": "4bee5da64f5a6cbb",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "9476eb7225fe0314",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a5557a66db1b9788",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
-            "id": "d2a553cfe69d6d91",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
+        "id": "6faf2063af3186be",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "36c08cdddb72fe52",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
           }
-        ]
+        }
       }
-    ],
-    "direction": "horizontal",
-    "width": 300
+    ]
   },
   "right": {
-    "id": "e36b956a0ca751aa",
-    "type": "split",
+    "id": "805bb5f36f2175b6",
+    "type": "mobile-drawer",
     "children": [
       {
-        "id": "b398f930cd44a0ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d4086b528136c42",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Obsidian Meta.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "80ca7fed755ff9e0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Obsidian Meta.md"
-              }
-            }
+        "id": "127d792fd3875b89",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
-        ]
+        }
       }
     ],
-    "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "currentTab": 0
   },
-  "active": "26f5d5d18e3a6f9a",
-  "lastOpenFiles": [
-    "Untitled.md",
-    "drafts/iOS15.md"
-  ]
+  "active": "ae500a8a0485bb9c",
+  "lastOpenFiles": []
 }
