@@ -1,6 +1,6 @@
-# Siri as Text-to-Speech Talent in iOS 15
+# Siri Speech Synthesis in iOS 15
 
-![Siri TTS](https://i.snap.as/13BtYmx0.png)
+![Siri Speech Synthesis Banner](https://i.snap.as/8ZsLlxLp.png)
 
 ## Bewilderingly, Siri is genuinely great at something they were never designed for. The new “Make Spoken Audio From Text” action has finally been fixed.
 
@@ -48,15 +48,18 @@ For the entirety of iOS 15’s Beta cycle up until Developer Beta 6’s release,
 
 ---
 
-![TTS Shortcuts Compared](https://i.snap.as/P0yJJyUc.png)
+
+![Make Audio from Article Body 1.1](https://i.snap.as/RAxa0Id6.png)
 
 # Guide
 
 So! For those of you currently running the latest iOS 15 Beta and those in the future running the full release, **what follows is a guide on how you can use my own shortcuts and methods to generate, metadate, and embed Siri-powered audio text-to-speech files relatively quickly without having to use desktop-class (or any other) hardware**.
 
+![TTS Shortcuts Compared](https://i.snap.as/P0yJJyUc.png)
+
 To begin, you should install two brand new shortcuts of mine: [**Make Audio from Article Body**](https://routinehub.co/shortcut/9953/) and (if you intend to stick with me to the embed stage, anyway,) my [< audio > Embed Tool](https://routinehub.co/shortcut/9948/). Both should function out of the box, but I would highly encourage that you try building your own shortcut around the `Make Spoken Audio From Text` action, even if you've never worked with Shortcuts (or any sort of automation, for that matter) before, *especially* if you plan to be using Siri as a text-to-speech generator with any frequency. 
 
-<img src="https://i.snap.as/RAxa0Id6.png" alt="Make Audio from Article Body 1.1" style="zoom:50%;" />
+https://youtube.com/watch?v=5yZB7OC8Vgk
 
 ### Intended Result
 
@@ -133,28 +136,4 @@ Suggestions/requests regarding considerations I’ve obviously missed in this gu
 
 ###### Note: This Post perhaps more than any published yet on *The Psalms*, is very much an ongoing work-in-progress, as are most of the hyperlinked shortcuts contained within it.
 
----
-
-<audio controls>
-  <source src="https://files.mastodon.social/media_attachments/files/106/800/947/371/313/127/original/f2c6be859e0d52cd.mp3">
-</audio>
-
-## The Threshold
-
-https://www.youtube.com/watch?v=pgkOnBYbhLA
-
 #software
-
-### 1.1 Update
-
-![Make Audio from Article Body 1.1](https://i.snap.as/RAxa0Id6.png)
-
-<audio controls>
-  <source src="https://davidblue.wtf/audio/applause.wav">
-</audio>
-
-It's become clear over the past few days of my own testing as well as some of the feedback I've heard from [r/Shortcuts](https://www.reddit.com/r/shortcuts/comments/pe87df/siri_as_texttospeech_talent_in_ios_15_using_the/) that while this speech synth process is pretty darn fast compared to other TTS solutions from the Big Boys, it still takes *a good while*, especially for longer/more text, obviously.
-
-<img src="Notification.png" alt="Notification" style="zoom:33%;" />
-
-In my
