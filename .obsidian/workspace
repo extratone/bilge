@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "59daf02a35d6f575",
+    "id": "54e7c352329aaadb",
     "type": "split",
     "children": [
       {
-        "id": "7d23f85e7c24b079",
+        "id": "ed6c77da60820656",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -18,11 +18,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4bee5da64f5a6cbb",
+    "id": "2a46df84384bfcd7",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6faf2063af3186be",
+        "id": "47c12ff6ede1af68",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -30,7 +30,7 @@
         }
       },
       {
-        "id": "36c08cdddb72fe52",
+        "id": "85e4d963550de846",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -45,53 +45,35 @@
         }
       }
     ],
-    "direction": "horizontal",
-    "width": 184.00019645690918
+    "currentTab": 0
   },
   "right": {
-    "id": "805bb5f36f2175b6",
+    "id": "71d444c6fe986424",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "b398f930cd44a0ec",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9d4086b528136c42",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "drafts/iOS15FamilyReview.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "80ca7fed755ff9e0",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "drafts/iOS15FamilyReview.md"
-              }
-            }
+        "id": "4da326c82934ee4e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "drafts/iOS15FamilyReview.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
           }
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "7d23f85e7c24b079",
+  "active": "ed6c77da60820656",
   "lastOpenFiles": [
     "drafts/iOS15FamilyReview.md",
-    "drafts/iOS15.md",
-    "Untitled.md"
+    "drafts/iOS15.md"
   ]
 }
