@@ -36,6 +36,8 @@ In general, though, most of what’s coming with iOS 15 has little real value in
 
 
 
+
+
 And now, I’d like to take you through what I feel are the considerations I’d like my family to know - namely my 70-year-old mother, who depends 100% on her iPhone and MacBook Pro every day to run her private practice - but also my ~8 nieces and nephews spanning 6th grade-graduate school, who all - if I’m not mistaken - have iPhones.
 
 (Worthy of note: this “review” is very heavily focused on *iOS* - which is to say *iPhone* - to the point where any overlap with iPadOS/MacOS/WatchOS/HomeOS/any other goddamned operating system are purely coincidental. For coverage of those changes, please seek your regular sources.)
