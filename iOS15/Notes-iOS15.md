@@ -65,9 +65,11 @@
 
 ## Notifications
 * The real viability of “daily summaries” after the time and effort required to configure them for your personal use.
-* ![Control Center Decibel Meter](https://i.snap.as/1vGTW0Iz.png)
+
+
+
 ### Focus Modes
 * The auto-response character limit.
 
 ## Audio
-* “Spatial Audio” doesn’t actually exist, perse. Apple’s term refers to technology developed by Dolby that it may or may not fully support. ([Stereo audio is already “spatial,”](https://bilge.world/mono-audio-playback) btw.)_
+* “Spatial Audio” is nothing but two words, really. Apple’s term refers to technology developed by Dolby that it may or may not fully support. ([Stereo audio is already “spatial,”](https://bilge.world/mono-audio-playback) btw.)_

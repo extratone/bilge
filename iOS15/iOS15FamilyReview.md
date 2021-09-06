@@ -125,8 +125,17 @@ https://soundcloud.com/gas-station-memes/background-sounds-in-ios-15
 
 Yes, notifications have gotten *even rounder still* for some reason in iOS 15. Contact photos and “larger app icons” also “make them easier to identify,” according to Apple. (This is the one point in my whole writing life where the phrase *well I’ll be the judge of that!* is 100% valid and applicable.) There’s also a new feature called **Notification Summary** which is an absolutely useless and unnecessary complication, at least at the moment. Honestly, the one bit of solid advice from *The Social Dilemma* was… Just turn all Notifications off, or at least as many as possible. Notifications Summary feels like a near direct response to that one goddamned film, and its new Focus Modes do even more so.
 
-![Focus in iOS 15](https://i.snap.as/mxwVtN7p.png)
+https://youtube.com/watch?v=YZCx-9wF3ow
+
 ### Focus(es)
+
+The most glaringly standout parallel between Microsoft’s Windows upcoming Windows 11 release (which I have also been beta testing much less dutifully for most of this year) and Apple’s stated life improvements for iOS 15 centers around the design supposition that maximum malleability of the “spaces” in which one dwells on their operating system - namely, the “desktop(s)” and/or “home screen(s)” - lends toward a more healthy digital occupancy of them, especially in terms of attention. Unfortunately, the former bet big on automation as the framework upon which to build their solution - literally just entitled *Focus* - which has made it a challenge for *me* to understand in a usable way, certainly. I was originally going to largely skip over discussing it, too, as anything more than ***Do Not Disturb, Extended*** (still apt, in my opinion,) until I came across [the explainer video embedded above](https://youtu.be/YZCx-9wF3ow), by Matt Birchler. 
+
+![Focus in iOS 15](https://i.snap.as/mxwVtN7p.png)
+
+
+
+
 
 ![Safari in iOS 15](https://i.snap.as/14Xf21CA.png)
 
