@@ -36,8 +36,6 @@ In general, though, most of what’s coming with iOS 15 has little real value in
 
 
 
-
-
 And now, I’d like to take you through what I feel are the considerations I’d like my family to know - namely my 70-year-old mother, who depends 100% on her iPhone and MacBook Pro every day to run her private practice - but also my ~8 nieces and nephews spanning 6th grade-graduate school, who all - if I’m not mistaken - have iPhones.
 
 (Worthy of note: this “review” is very heavily focused on *iOS* - which is to say *iPhone* - to the point where any overlap with iPadOS/MacOS/WatchOS/HomeOS/any other goddamned operating system are purely coincidental. For coverage of those changes, please seek your regular sources.)
@@ -75,6 +73,8 @@ If you're experiencing any sort of deja vu from the idea of auto-generated slide
 ### Visual Lookup
 
 Perhaps the most unjustifiable background use of your phone’s resources introduced in iOS 15, “Visual Lookup,” seeks to identify “popular art and landmarks around the world, plants and flowers out in nature, books, and breeds of pets” present in your photos so that you might… identify them more swiftly(?) The only means of distinguishing photos on which Visual Lookup has been applied is to look for the modified ⓘ symbol at the very bottom of your screen in the photo browsing view (see the screenshot embedded above.) As you might notice in the screenshots *below*, not one of its analyses on my own images was usably accurate. 
+
+The decision to target the feature on identifying domesticated pets, specifically, is more universalizing than historic landmarks, for sure, but it also immediately sets up the technology (at least this preview of it) for failure.  
 
 ![Visual Lookup in iOS 15](https://i.snap.as/AtxzN45h.png)
 
@@ -127,8 +127,14 @@ https://soundcloud.com/gas-station-memes/background-sounds-in-ios-15
 
 Yes, notifications have gotten *even rounder still* for some reason in iOS 15. Contact photos and “larger app icons” also “make them easier to identify,” according to Apple. (This is the one point in my whole writing life where the phrase *well I’ll be the judge of that!* is 100% valid and applicable.) There’s also a new feature called **Notification Summary** which is an absolutely useless and unnecessary complication, at least at the moment. Honestly, the one bit of solid advice from *The Social Dilemma* was… Just turn all Notifications off, or at least as many as possible. Notifications Summary feels like a near direct response to that one goddamned film, and its new Focus Modes do even more so.
 
-![Focus in iOS 15](https://i.snap.as/mxwVtN7p.png)
+https://youtube.com/watch?v=YZCx-9wF3ow
+
 ### Focus(es)
+
+The most glaringly standout parallel between Microsoft’s Windows upcoming Windows 11 release (which I have also been beta testing much less dutifully for most of this year) and Apple’s stated goals in iOS 15’s design centers around the design supposition that maximum malleability of the “spaces” in which one dwells on their operating system - namely, the “desktop(s)” and/or “home screen(s)” - lends toward a more healthy digital occupancy of them, especially in terms of attention. Unfortunately, neither of them has 
+
+![Focus in iOS 15](https://i.snap.as/mxwVtN7p.png)
+
 
 ![Safari in iOS 15](https://i.snap.as/14Xf21CA.png)
 
