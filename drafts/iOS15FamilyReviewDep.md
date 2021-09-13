@@ -74,8 +74,6 @@ If you're experiencing any sort of deja vu from the idea of auto-generated slide
 
 Perhaps the most unjustifiable background use of your phone’s resources introduced in iOS 15, “Visual Lookup,” seeks to identify “popular art and landmarks around the world, plants and flowers out in nature, books, and breeds of pets” present in your photos so that you might… identify them more swiftly(?) The only means of distinguishing photos on which Visual Lookup has been applied is to look for the modified ⓘ symbol at the very bottom of your screen in the photo browsing view (see the screenshot embedded above.) As you might notice in the screenshots *below*, not one of its analyses on my own images was usably accurate. 
 
-The decision to target the feature on identifying domesticated pets, specifically, is more universalizing than historic landmarks, for sure, but it also immediately sets up the technology (at least this preview of it) for failure.  
-
 ![Visual Lookup in iOS 15](https://i.snap.as/AtxzN45h.png)
 
 ### Metadata
@@ -94,23 +92,16 @@ Once again, from Mr. Guyot:
 
 I took the above screenshot in iOS 15 Developer Beta 5, and… Do “stacks” not look hilariously janky as fuck? 
 
+
+https://youtube.com/watch?v=hiCICEx3Egk
+
 ## Audio
-
-https://youtube.com/watch?v=KhxtfW0taIY
-
-### Background Sounds
-
-My eldest sister has used a sound/noise machine to sleep for as long as I can remember, so I was especially excited to show her iOS 15’s native “Background Sounds” feature, but she was distinctly unimpressed, noting that her iPhone-based sound generation needs were well met by third-party apps she’d already discovered.[^1] I didn’t have time to try out her recommendations, but I’m going to assume they aren’t able to operate “behind” *additional* audio playback like the “new” native feature is.
-
-![Background Sounds Interrupt Remedy](https://i.snap.as/SGQt93K4.png)
-
-My personal (hopefully insightful) anecdote: Background Sounds appear to be impervious from the audio interruption issues iOS has struggled with since its origin, which makes them a partial remedy to the discomfort of sudden, unexpected silence when using headphones with active noise cancellation. As configured in the screenshot embedded above (the menu found in `Settings ⇨ Accessibility ⇨ Audio/Visual ⇨ Background Sounds`) - with “Use When Media Is Playing” toggled `OFF`- your selected Background Sound *should* fade in when normal playback from another app is interrupted.[^2] 
 
 ### “Spatial Audio”
 
 Just to be clear, I strongly believe that normal users should basically ignore all mention of Apple’s “Spatial Audio” (read: don’t worry about it) for a few reasons, most of which aren’t all that interesting. Since [one of my very first written works on tech](https://bilge.world/mono-audio-playback) was/is directly related to the subject, though, indulge me for just a moment for an attempted explanation. Firstly, I must note that only two audio channels (the stereo experiences in various forms you’ve certainly had in your life, regardless of who you are) are necessary for audio to become “spatial.” If you’re curious about this, [my favorite all-time web experience from *The Pudding*](https://pudding.cool/2018/02/waveforms/) is an absolutely impeccable next destination. Secondly, the actual technology behind Apple’s title was not developed by Apple, but by Dolby. It’s not that Apple doesn’t acknowledge this thoroughly in [their explainer docs](https://support.apple.com/en-us/HT212182), nor is Dolby by any means a wee organization in need of my amplification, but this is one of those Apple habits that’s become a particular peev. If you’re interested, [here is the actual spec sheet for Dolby Atmos in PDF](https://professional.dolby.com/siteassets/cinema-products---documents/dolby-atmos-specifications.pdf).
 
-![Control Center Decibel Meter](https://i.snap.as/1vGTW0Iz.png)
+`![Control Center Decibel Meter](https://i.snap.as/1vGTW0Iz.png)`
 
 If you happen to have either AirPods Pro or AirPods Max devices, an iPhone 7 or later, *and* an Apple Music subscription, you might want to disregard my cynicism at least long enough to try "[dynamic head tracking](https://support.apple.com/en-us/HT212182)."
 
@@ -126,19 +117,24 @@ https://youtube.com/watch?v=YZCx-9wF3ow
 
 ## Notifications, Focus, and Attention
 
+https://soundcloud.com/gas-station-memes/background-sounds-in-ios-15
+
+### Background Sounds
+
+
+
 Yes, notifications have gotten *even rounder still* for some reason in iOS 15. Contact photos and “larger app icons” also “make them easier to identify,” according to Apple. (This is the one point in my whole writing life where the phrase *well I’ll be the judge of that!* is 100% valid and applicable.) There’s also a new feature called **Notification Summary** which is an absolutely useless and unnecessary complication, at least at the moment. Honestly, the one bit of solid advice from *The Social Dilemma* was… Just turn all Notifications off, or at least as many as possible. Notifications Summary feels like a near direct response to that one goddamned film, and its new Focus Modes do even more so.
 
 https://youtube.com/watch?v=YZCx-9wF3ow
 
 ### Focus(es)
 
-The most glaringly standout parallel between Microsoft’s Windows upcoming Windows 11 release (which I have also been beta testing much less dutifully for most of this year) and Apple’s stated goals in iOS 15’s design centers around the design supposition that maximum malleability of the “spaces” in which one dwells on their operating system - namely, the “desktop(s)” and/or “home screen(s)” - lends toward a more healthy digital occupancy of them, especially in terms of attention. Unfortunately, both of them chose respective solutions which - from my view, anyway - **add complexity** more than anything.
-
-[*The Verge*’s guide](https://www.theverge.com/22665196/ios-15-focus-modes-custom-icons-widgets-how-to) frames Focus as a customization feature to be used in tandem with [custom app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change) to fiddle your way into your own *bespoke iPhone experience*. I could be wrong, but I suspect very few among my family will find the time investment required worth the end result, but we’ll see.
-
-I chose to embed [Matt Birchler’s guide to Focus](https://youtu.be/YZCx-9wF3ow) above because it’s by far the most succinct and helpful video I’ve yet seen on iOS 15, generally, and demonstrates how a working person might actually use Focus.
+The most glaringly standout parallel between Microsoft’s Windows upcoming Windows 11 release (which I have also been beta testing much less dutifully for most of this year) and Apple’s stated life improvements for iOS 15 centers around the design supposition that maximum malleability of the “spaces” in which one dwells on their operating system - namely, the “desktop(s)” and/or “home screen(s)” - lends toward a more healthy digital occupancy of them, especially in terms of attention. Unfortunately, the former bet big on automation as the framework upon which to build their solution - literally just entitled *Focus* - which has made it a challenge for *me* to understand in a usable way, certainly. I was originally going to largely skip over discussing it, too, as anything more than ***Do Not Disturb, Extended*** (still apt, in my opinion,) until I came across [the explainer video embedded above](https://youtu.be/YZCx-9wF3ow), by Matt Birchler. 
 
 ![Focus in iOS 15](https://i.snap.as/mxwVtN7p.png)
+
+
+
 
 
 ![Safari in iOS 15](https://i.snap.as/14Xf21CA.png)
@@ -158,7 +154,3 @@ Yes, you can *technically* Facetime with non-Apple devices thanks to iOS 15's ch
 https://twitter.com/NeoYokel/status/1430679850399014912
 
 https://www.youtube.com/watch?v=dJCRzOclrxQ
-
-***
-[^1]: If you’re reading this and happen to be looking for app recommendations, let me know and I’ll ask her. 
-[^2]: This wasn’t working reliably in the last Developer Beta, but I’ll do my best to check back for the normal release.

@@ -3,8 +3,6 @@
 ## Meta
 * [Dedicated Snap.as Gallery](https://snap.as/extratone/ios15)
 
-[[WWDC 2021]]
-
 ## General
 * Yes, the degree to which being able to delete an app directly from the results of a Spotlight search is a relief is actually just pitiful.
 * [iOS 15 Twitter Collection](https://twitter.com/NeoYokel/timelines/1411632131390984193)
@@ -46,8 +44,6 @@
 ## Safari
 * [Suggestion for Safari iOS 15](https://developer.apple.com/forums/thread/681880) | Apple Developer Forums
 
-[[Hands-on: Here's how the all-new Safari in iOS 15 works]]
-
   * ==Access Safari Tabs by either tapping the double square icon or simply swiping up on the Tab Bar==
   * You can search Tabs at the top, press/hold + drag Tabs to rearrange them
   * Add a new Tab in the bottom left with the + icon, or tab Tabs in the bottom middle to customize Tab Groups
@@ -56,6 +52,7 @@
  * To create a custom Tab Group, tap **_X Tabs_** in the bottom middle of the Tabs screen (this is also where Private browsing lives now)
   * Choose New Empty Tab Group or New Tab Group from X Tabs
   * Name your Tab Group, tap OK
+  * **Extensions**
 
 ## Photos
 > ==Setting different filters will result in different song choices and transition effects to nail a wider variety of vibes on Memories videos.==
