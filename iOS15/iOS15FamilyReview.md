@@ -136,15 +136,17 @@ The most glaringly standout parallel between Microsoft’s Windows upcoming Wind
 
 [*The Verge*’s guide](https://www.theverge.com/22665196/ios-15-focus-modes-custom-icons-widgets-how-to) frames Focus as a customization feature to be used in tandem with [custom app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change) to fiddle your way into your own *bespoke iPhone experience*. I could be wrong, but I suspect very few among my family will find the time investment required worth the end result, but we’ll see.
 
-I chose to embed [Matt Birchler’s guide to Focus](https://youtu.be/YZCx-9wF3ow) above because it’s by far the most succinct and helpful video I’ve yet seen on iOS 15, generally, and demonstrates how a working person might actually use Focus.
-
 ![Focus in iOS 15](https://i.snap.as/mxwVtN7p.png)
+
+I chose to embed [Matt Birchler’s guide to Focus](https://youtu.be/YZCx-9wF3ow) above because it’s by far the most succinct and helpful video I’ve yet seen on iOS 15, generally, and demonstrates how a working person might actually use Focus. My one addendum to this (and any other Focus) guide: **proceed *without* the automated bits** by avoiding anything under the `TURN ON AUTOMATICALLY` subsection of the menu. For whatever reason, location-based automation triggers on iPhone, especially, have literally **never** functioned usefully (or *reliably*) in my experience. 
+
+![Driving Focus Auto-Reply Character Limits](https://i.snap.as/9cvlx5lL.png)
 
 https://www.youtube.com/watch?v=40y7iLdfOnM
 
 ## Maps & CarPlay
 
-If the video embedded above is confusing, know that it's a very insular joke - over six years ago, in [my video review of the Nissan Juke NISMO](https://bit.ly/JukeHonk), I praised its integrated navigation screen specifically for its frugality. 
+(I *am* going to do a bit of editorializing on this subject, specifically.) If the video embedded above is confusing, know that it's a very insular joke - over six years ago, in [my video review of the Nissan Juke NISMO](https://bit.ly/JukeHonk), I praised its integrated navigation screen specifically for its frugality. 
 
 > I'm not old. I don't need a gigantic nav screen. I don't need to see a 3D rendition of the whole Earth and my position relative to it.
 
@@ -152,12 +154,27 @@ If the video embedded above is confusing, know that it's a very insular joke - o
 
 > Discover the natural beauty of Earth with a rich and interactive 3D globe, including significantly enhanced details for mountain ranges, deserts, forests, oceans, and more.
 
-In the footnotes, its explained that the feature will only be available on "iPhone with A12 Bionic or later," which means the iPhone X range, basically.
+In the footnotes, it’s explained that the feature will only be available on "iPhone with A12 Bionic or later," which means the iPhone X range, basically, which makes sense considering the extent of animation and touch manipulation technology present in this view. It’s an entertaining plaything, but not much more, which is strange and frustrating. If I could gather the usage statistics across all my family’s iPhones, how much time would you suppose they’ve spent in Apple Maps to date *screwing around* as opposed to *searching and navigating*? 
+
+https://twitter.com/NeoYokel/status/1437519482428272641
+
+Put another way - Apple’s developmental direction for Apple Maps as a service seems distinctly toward a travel/entertainment application (notably, like [Google Earth](https://apps.apple.com/us/app/google-earth/id293622097),) instead of a utilitarian navigation app (like [Google Maps](https://apps.apple.com/us/app/google-maps/id585027354), [Waze](https://apps.apple.com/us/app/waze-navigation-live-traffic/id323229106), or [MapQuest](https://apps.apple.com/us/app/mapquest-gps-navigation-maps/id316126557).) It’s not just the Interactive globe. One of the most exciting features in last year’s release (iOS 14) was the ability for Maps users to create custom Guides. I created [my own](https://bit.ly/columbiaguide) containing a few local spots I believe to be especially relevant for first-time travelers/new residents of *my* area. Clearly, I misinterpreted the intended function of Guides entirely - continuing without a means of discovering *user-generated* guides, whatsoever, iOS 15 cements (in my view) that they’ll instead continue to be left to travel magazines, none of which I recognize save for *Atlas Obscura*, who’s “[Hidden Wonders of Chicago](https://guides.apple.com/?lsp=9902&pg=15126682529740253227)” guide appears to be the single worthwhile representation of the Midwest on the service.
+
+![Apple Maps User Account in iOS 15](https://i.snap.as/TxDuz5nb.png)
+
+One welcome exception to this absence of investment in user-generated content is the new, unified “user account” view, which aggregates one’s curation (both private and public) along with travel preferences and a list of one’s **contributions** to Apple Maps - another new feature for the app. 
+
+![Place Cards - Apple Maps in iOS 15](https://i.snap.as/LX5HW4T3.png)
+
+Above is a screenshot of my first test contribution to Apple Maps (my [mom’s private practice](http://bit.ly/elonglcswam),) which also serves as an example of Maps’ new “place cards.”
 
 ![3D Hy-Vee](https://i.snap.as/SILn5LmG.png)
 
+### CarPlay
 
+As of this writing, it’s unclear how much of the Maps features I’ve used will be carried over to CarPlay upon iOS 15.0.0’s official release, but I know for *certain* that CarPlay is a weekly (if not daily) used feature by virtually all of my family members. With the additional variable of [differences in support between given automobile marques/models](https://www.apple.com/ios/carplay/available-models/) - including which support [Car Key](https://support.apple.com/en-us/HT211234) - it’s difficult to say definitively what will have changed about your personal CarPlay use. What experience I do have using CarPlay has been exclusively with my mom’s [2019 Volkswagen Jetta](https://youtu.be/hqQqfdHsGx0,) and documented visually in [this photo gallery](https://snap.as/extratone/ios15) as well as [on my alt Instagram](https://www.instagram.com/dieselgoth/channel)’s “iOS & iPhone” IGTV Series.
 
+![Apple Maps Night Navigation](https://i.snap.as/iQD53oId.png)
 
 
 ***
