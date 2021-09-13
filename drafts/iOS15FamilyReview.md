@@ -94,10 +94,17 @@ Once again, from Mr. Guyot:
 
 I took the above screenshot in iOS 15 Developer Beta 5, and… Do “stacks” not look hilariously janky as fuck? 
 
-
-https://youtube.com/watch?v=hiCICEx3Egk
-
 ## Audio
+
+https://youtube.com/watch?v=KhxtfW0taIY
+
+### Background Sounds
+
+My eldest sister has used a sound/noise machine to sleep for as long as I can remember, so I was especially excited to show her iOS 15’s native “Background Sounds” feature, but she was distinctly unimpressed, noting that her iPhone-based sound generation needs were well met by third-party apps she’d already discovered.[^1] I didn’t have time to try out her recommendations, but I’m going to assume they aren’t able to operate “behind” *additional* audio playback like the “new” native feature is.
+
+![Background Sounds Interrupt Remedy](https://i.snap.as/SGQt93K4.png)
+
+My personal (hopefully insightful) anecdote: Background Sounds appear to be impervious from the audio interruption issues iOS has struggled with since its origin, which makes them a partial remedy to the discomfort of sudden, unexpected silence when using headphones with active noise cancellation. As configured in the screenshot embedded above (the menu found in `Settings ⇨ Accessibility ⇨ Audio/Visual ⇨ Background Sounds`) - with “Use When Media Is Playing” toggled `OFF`- your selected Background Sound *should* fade in when normal playback from another app is interrupted.[^2] 
 
 ### “Spatial Audio”
 
@@ -119,19 +126,17 @@ https://youtube.com/watch?v=YZCx-9wF3ow
 
 ## Notifications, Focus, and Attention
 
-https://soundcloud.com/gas-station-memes/background-sounds-in-ios-15
-
-### Background Sounds
-
-
-
 Yes, notifications have gotten *even rounder still* for some reason in iOS 15. Contact photos and “larger app icons” also “make them easier to identify,” according to Apple. (This is the one point in my whole writing life where the phrase *well I’ll be the judge of that!* is 100% valid and applicable.) There’s also a new feature called **Notification Summary** which is an absolutely useless and unnecessary complication, at least at the moment. Honestly, the one bit of solid advice from *The Social Dilemma* was… Just turn all Notifications off, or at least as many as possible. Notifications Summary feels like a near direct response to that one goddamned film, and its new Focus Modes do even more so.
 
 https://youtube.com/watch?v=YZCx-9wF3ow
 
 ### Focus(es)
 
-The most glaringly standout parallel between Microsoft’s Windows upcoming Windows 11 release (which I have also been beta testing much less dutifully for most of this year) and Apple’s stated goals in iOS 15’s design centers around the design supposition that maximum malleability of the “spaces” in which one dwells on their operating system - namely, the “desktop(s)” and/or “home screen(s)” - lends toward a more healthy digital occupancy of them, especially in terms of attention. Unfortunately, neither of them has 
+The most glaringly standout parallel between Microsoft’s Windows upcoming Windows 11 release (which I have also been beta testing much less dutifully for most of this year) and Apple’s stated goals in iOS 15’s design centers around the design supposition that maximum malleability of the “spaces” in which one dwells on their operating system - namely, the “desktop(s)” and/or “home screen(s)” - lends toward a more healthy digital occupancy of them, especially in terms of attention. Unfortunately, both of them chose respective solutions which - from my view, anyway - **add complexity** more than anything.
+
+[*The Verge*’s guide](https://www.theverge.com/22665196/ios-15-focus-modes-custom-icons-widgets-how-to) frames Focus as a customization feature to be used in tandem with [custom app icons](https://www.theverge.com/22529978/apple-iphone-ios-apps-icon-change) to fiddle your way into your own *bespoke iPhone experience*. I could be wrong, but I suspect very few among my family will find the time investment required worth the end result, but we’ll see.
+
+I chose to embed [Matt Birchler’s guide to Focus](https://youtu.be/YZCx-9wF3ow) above because it’s by far the most succinct and helpful video I’ve yet seen on iOS 15, generally, and demonstrates how a working person might actually use Focus.
 
 ![Focus in iOS 15](https://i.snap.as/mxwVtN7p.png)
 
@@ -153,3 +158,7 @@ Yes, you can *technically* Facetime with non-Apple devices thanks to iOS 15's ch
 https://twitter.com/NeoYokel/status/1430679850399014912
 
 https://www.youtube.com/watch?v=dJCRzOclrxQ
+
+***
+[^1]: If you’re reading this and happen to be looking for app recommendations, let me know and I’ll ask her. 
+[^2]: This wasn’t working reliably in the last Developer Beta, but I’ll do my best to check back for the normal release.
