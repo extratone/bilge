@@ -140,24 +140,25 @@ I chose to embed [Matt Birchler’s guide to Focus](https://youtu.be/YZCx-9wF3ow
 
 ![Focus in iOS 15](https://i.snap.as/mxwVtN7p.png)
 
+https://www.youtube.com/watch?v=40y7iLdfOnM
 
-![Safari in iOS 15](https://i.snap.as/14Xf21CA.png)
+## Maps & CarPlay
 
-## …Safari
+If the video embedded above is confusing, know that it's a very insular joke - over six years ago, in [my video review of the Nissan Juke NISMO](https://bit.ly/JukeHonk), I praised its integrated navigation screen specifically for its frugality. 
 
-I’m sorry, Mom… I really did ask just about everyone I know how on Earth I was going to explain what the fuck happened to Apple’s web browser. I don’t have any explanation and I find little validity in [Apple’s](https://developer.apple.com/wwdc21/10029), but Safari is absolutely fucked, and that’s essentially all that is useful to say. I have personally grown to accept it, but I have been groomed by a penchant for experimental mobile browsers like Cake, and this sentence simply does not stand up for my family members who have depended on Safari to… just work well. For them, I have a (personally unbelievable) alternative, after having tried literally every single browser available on iOS. I wish I could say Edge was the all-around winner, but - bizzarely - it’s [Brave](https://apps.apple.com/us/app/brave-private-web-browser-vpn/id1052879175), hands down. For better or worse, turn off all the stuff that makes Brave actually unique in any way (all iOS browsers are actually built on the exact same platform that doesn’t have anything to do with their desktop counterparts,) and it is my pick for the best balance of speed and competency. 
+> I'm not old. I don't need a gigantic nav screen. I don't need to see a 3D rendition of the whole Earth and my position relative to it.
 
-## Video
+...and yet, a playful, exploratory experience is what Apple has in mind for Maps, apparently. Here's their description of the new "Interactive globe" feature:
 
-![Facetime in The Browser Comedy](https://i.snap.as/vBw0CNhW.png)
+> Discover the natural beauty of Earth with a rich and interactive 3D globe, including significantly enhanced details for mountain ranges, deserts, forests, oceans, and more.
 
-### Facetime in The Browser
+In the footnotes, its explained that the feature will only be available on "iPhone with A12 Bionic or later," which means the iPhone X range, basically.
 
-Yes, you can *technically* Facetime with non-Apple devices thanks to iOS 15's changes. In fact, you'll be able to "Facetime" any device with a web browser! *However*, in doing so you will be forgoing every single one of Facetime's advantages: call quality, "privacy," ecosystem integration, etc. Without these, it would be silly to use Facetime over literally *any* other video calling service. What an immense waste of time, eh?
+![3D Hy-Vee](https://i.snap.as/SILn5LmG.png)
 
-https://twitter.com/NeoYokel/status/1430679850399014912
 
-https://www.youtube.com/watch?v=dJCRzOclrxQ
+
+
 
 ***
 [^1]: If you’re reading this and happen to be looking for app recommendations, let me know and I’ll ask her. 
