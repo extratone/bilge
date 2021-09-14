@@ -6,13 +6,13 @@
 
 Eighty days ago, Apple's Senior Vice President of Software Engineering ~~stood up in front of a crowd of~~... 
 
-No!... It was just me... Alone, in my mother’s basement, on a Monday morning, contorted at stupid angles, typing to my phone with a physical keyboard and unapologetically scarfing as much as I possibly could of the Apple community’s unbelievably unreserved, almost *spiritual* volume of **pure hype** from as many simultaneous sources as I could manage. (Hilariously, *all* of said sources are/were Discord servers, now, as in that “gamer” communications service I launched my little indie mag on in 2015 and kept comparing to Slack, but like an actual madman.)
+No!... It was just me... Alone, in my mother’s basement, on a Monday morning, contorted at stupid angles, typing to my phone with a physical keyboard and unapologetically scarfing as much as I possibly could of the Apple community’s unbelievably unreserved, almost *spiritual* volume of **pure hype** from as many simultaneous sources as I could manage. (Hilariously, *all* of said sources are/were Discord servers, now, as in that “gamer” communications service I launched my little indie mag on in 2015 and [kept comparing to Slack](https://bilge.world/discord-slack-comparison), but like an actual madman.)
 
 Anyway, said Senior Vice President of Software Engineering (who we are encouraged to hold accountable for basically all technical changes to iOS) is named Craig, and these are his first few sentences:
 
 > For many of us, our iPhone has become indispensable. And at the heart of iPhone is iOS. iOS powers the experiences we've come to rely on. This year, we were inspired to create even more meaningful ways iPhone could help you. Our new release is iOS 15. It's packed with features that make the iOS experience adapt to and complement the way you use iPhone...
 
-I’m dwelling on them because they are **patently meaningless**. Very little to nothing coming in iOS 15 is what I would call *ease-of-use-centric*. Some of it - namely controversial (and now backpedaled) changes to the user interface of Safari - feels almost maliciously quartered in the opposite direction. Most of the changes in the subheadings of the full feature list are simply irrelevant in the use for all but the dorkiest iOS users, like myself, and I find the fact unacceptable, at the very least.
+I’m dwelling on them because they are **patently meaningless**. Very little to nothing coming in iOS 15 is what I would call *ease-of-use-centric*. Some of it - namely controversial (and now backpedaled) changes to the user interface of Safari - feels almost maliciously quartered in the opposite direction. Most of the changes in the subheadings of [**the full feature list**](https://www.apple.com/ios/ios-15-preview/features/) are simply irrelevant in the use for all but the dorkiest iOS users, like myself, and I find the fact unacceptable, at the very least.
 
 ![The Foundation Image](https://i.snap.as/t2IieKLq.png)
 
@@ -48,7 +48,7 @@ Worthy of note: this “review” is very heavily focused on *iOS* - which is to
 
 ### Shared With You
 
-The single most important/welcome feature addition to iOS 15 for most people, I believe, is found in Apple’s native Photos app and entitled **Shared With You**. This view - found in the second tab in the bottom navigation row (“For You”) - is a reverse-chronological timeline of every bit of media (photos & videos) you’ve ever been sent over iMessage. For those with a lot of iOS-using friend (unlike myself,) I would imagine the list will take quite a while to populate. 
+The single most important/welcome feature addition to iOS 15 for most people, I believe, is found in Apple’s native Photos app and entitled **Shared With You**. This view - found in the second tab in the bottom navigation row (“For You”) - is a reverse-chronological timeline of every bit of media (photos & videos) you’ve ever been sent over iMessage. For those with a lot of iOS-using friends (unlike myself,) I would imagine the list will take quite a while to populate. 
 
 ### Memories
 
@@ -80,7 +80,7 @@ The decision to target the feature on identifying domesticated pets, specificall
 
 ### Metadata
 
-Hooray! You can now view an image's basic details in the "Info pane," by swiping up on an image or using the ⓘ button. This includes its the extension and size of the image file, camera identification and configuration details, and -  as part of Shared With You - from whom/where you got the image. Bizarrely, the "Adjust" tool also lets you alter a given image's timestamp and location information. While I can imagine infinitely many reasons why you'd want to *omit* or *delete* such information, I cannot conceive of a single wholesome reason why one would chose to *change* it, instead. 
+Hooray! You can now view an image's basic details in the "Info pane," by swiping up on an image or using the ⓘ button. This includes the extension (type) and size of the image file, camera identification and configuration details, and -  as part of Shared With You - from whom/where you got the image. Bizarrely, the "Adjust" tool also lets you alter a given image's timestamp and location information. While I can imagine infinitely many reasons why you'd want to *omit* or *delete* such information, I cannot conceive of a single wholesome reason why one would chose to *change* it, instead. 
 
 ![Photo Stacks in iOS 15](https://i.snap.as/93BGmX4I.png)
 
@@ -134,7 +134,7 @@ In my opinion, SharePlay represents one of those great, well-thought solutions t
 
 ## Notifications, Focus, and Attention
 
-Yes, notifications have gotten *even rounder still* for some reason in iOS 15. Contact photos and “larger app icons” also “make them easier to identify,” according to Apple. (This is the one point in my whole writing life where the phrase *well I’ll be the judge of that!* is 100% valid and applicable.) There’s also a new feature called **Notification Summary** which is an absolutely useless and unnecessary complication, at least at the moment. Honestly, the one bit of solid advice from *The Social Dilemma* was… Just turn all Notifications off, or at least as many as possible. Notifications Summary feels like a near direct response to that one goddamned film, and its new Focus Modes do even more so.
+Yes, notifications have gotten *even rounder still* for some reason in iOS 15. Contact photos and “larger app icons” also “make them easier to identify,” according to Apple. (This is the one point in my whole writing life where the phrase *well I’ll be the judge of that!* is 100% valid and applicable.) There’s also a new feature called **Notification Summary** which is an absolutely useless and unnecessary complication, at least at the moment. Honestly, the one bit of solid advice from [*The Social Dilemma*](https://bilge.world/the-social-dilemma) was… Just turn all Notifications off, or at least as many as possible. Notifications Summary feels like a near direct response to that one goddamned film, and its new Focus Modes do even more so.
 
 https://youtube.com/watch?v=YZCx-9wF3ow
 
@@ -160,7 +160,7 @@ https://www.youtube.com/watch?v=40y7iLdfOnM
 
 > Discover the natural beauty of Earth with a rich and interactive 3D globe, including significantly enhanced details for mountain ranges, deserts, forests, oceans, and more.
 
-In the footnotes, it’s explained that the feature will only be available on "iPhone with A12 Bionic or later," which means the iPhone X range, basically, which makes sense considering the extent of animation and touch manipulation technology present in this view. It’s an entertaining plaything, but not much more, which is strange and frustrating. If I could gather the usage statistics across all my family’s iPhones, how much time would you suppose they’ve spent in Apple Maps to date *screwing around* as opposed to *searching and navigating*? 
+In the footnotes, it’s explained that the feature will only be available on "iPhone with A12 Bionic or later," meaning the iPhone X range, basically, which makes sense considering the extent of animation and touch manipulation technology present in this view. It’s an entertaining plaything, but not much more, which is strange and frustrating. If I could gather the usage statistics across all my family’s iPhones, how much time would you suppose they’ve spent in Apple Maps to date *screwing around* as opposed to *searching and navigating*? 
 
 https://twitter.com/NeoYokel/status/1437519482428272641
 
@@ -174,8 +174,6 @@ One welcome exception to this absence of investment in user-generated content is
 
 Above is a screenshot of my first test contribution to Apple Maps (my [mom’s private practice](http://bit.ly/elonglcswam),) which also serves as an example of Maps’ new “place cards.” As of this writing, all of my test contributions are still held "Pending Review," yet navigating to [the share link](https://maps.apple.com/place?address=1714%20Oak%20Cliff%20Pl,%20Columbia,%20MO%20%2065203,%20United%20States&auid=6487223830929868055&ll=38.933965,-92.387854&lsp=9902&q=Eileen%20Long,%20MSW%20LCSW&_ext=CjIKBQgEEOIBCgQIBRADCgQIBhByCgQIChAACgQIUhAECgQIVRAACgQIWRAGCgUIpAEQARImKZSjW/v4dkNAMW0PujQxGVfAORJ5gVcfeENAQd9/R/9zGFfAUAM%3D&t=m) with a desktop browser indicates they've already been made public.
 
-![Apple Maps Place Cards in Web Browser](https://i.snap.as/AZd7nuNz.png)
-
 ![3D Hy-Vee](https://i.snap.as/SILn5LmG.png)
 
 ### CarPlay
@@ -184,7 +182,7 @@ As of this writing, it’s unclear how much of the Maps features I’ve used wil
 
 ![Apple Maps Night Navigation](https://i.snap.as/iQD53oId.png)
 
-To once again cite from the official full features list:
+To once again cite from [the official full features list](https://hyp.is/Cbc_LBUmEey4S4Mcwd1lKA/www.apple.com/ios/ios-15-preview/features/):
 
 > An all-new driving map helps you see traffic, incidents, and other details that affect your drive at a glance. See incredible road details like turn lanes, bike, bus, and taxi lanes, medians, crosswalks, and much more. When approaching a complex interchange, Maps switches to a 3D road-level perspective to help you find your way."
 
@@ -210,7 +208,7 @@ For those new to Siri Shortcuts completely, I recorded a [rough video guide](htt
 
 ### Reminders
 
-“A to-do list is, ultimately, nothing more or less than an attempt to persuade yourself” concludes [a feature by Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools) in the most recent issue of *WIRED*. In the face of a literally indigestible volume of available (and *award-winning*!) Task Management applications available on iOS - [Microsoft To Do](https://apps.apple.com/us/app/microsoft-to-do/id1212616790), [Microsoft Lists](https://apps.apple.com/us/app/microsoft-lists/id1530637363), [Todoist](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id572688855), [Things 3](https://apps.apple.com/us/app/things-3/id904237743), [Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/id718043190), [GoodTask](https://apps.apple.com/us/app/goodtask-to-do-list-tasks/id1068039220), [OmniFocus 3](https://apps.apple.com/us/app/omnifocus-3/id1346190318), and on… - Apple’s Reminders app has always had perhaps the most insurmountable task of all its native applications in remaining competitive. Up until I wrote this review, my personal list in the app was nothing but a wasteland of forgotten, out-of-context items from up to 7 years ago (!) which I’d obviously set with Siri without bothering to correct its voice recognition.
+“A to-do list is, ultimately, nothing more or less than an attempt to persuade yourself” concludes [a feature by Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools) in the most recent issue of *WIRED*. In the face of a literally indigestible volume of available (and *award-winning*!) Task Management applications found on iOS - [Microsoft To Do](https://apps.apple.com/us/app/microsoft-to-do/id1212616790), [Microsoft Lists](https://apps.apple.com/us/app/microsoft-lists/id1530637363), [Todoist](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id572688855), [Things 3](https://apps.apple.com/us/app/things-3/id904237743), [Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/id718043190), [GoodTask](https://apps.apple.com/us/app/goodtask-to-do-list-tasks/id1068039220), [OmniFocus 3](https://apps.apple.com/us/app/omnifocus-3/id1346190318), and on… - Apple’s Reminders app has always had perhaps the most insurmountable task of all its native applications in remaining competitive. Up until I wrote this review, my personal list in the app was nothing but a wasteland of forgotten, out-of-context items from up to 7 years ago (!) which I’d obviously set with Siri without bothering to correct its voice recognition.
 
 Before you proceed to experiment with Reminders, I’d recommend using my [Reminders Backup Siri Shortcut](https://routinehub.co/shortcut/10118) to create a .zip file of *all* existing items in your Reminders app, even if there are just a few. I insist upon this largely because it’s so fast and so frugal. (Here’s [how to allow the addition of Siri Shortcuts from third-party sources](https://support.apple.com/guide/shortcuts/enable-shared-shortcuts-apdfeb05586f/ios).)
 
