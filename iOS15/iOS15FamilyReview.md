@@ -34,11 +34,11 @@ As far as "meaningful ways iPhone could help you," I see little more than glimme
 
 In general, though, most of what’s coming with iOS 15 has little real value in the day-to-day experience for most iPhone users. A complete inversion of Craig’s phrase feels significantly more accurate: *This year, we were inspired to create even more superficial ways iPhone could temporarily dazzle tech media*. 
 
-
-
 And now, I’d like to take you through what I feel are the considerations I’d like my family to know - namely my 70-year-old mother, who depends 100% on her iPhone and MacBook Pro every day to run her private practice - but also my ~8 nieces and nephews spanning 6th grade-graduate school, who all - if I’m not mistaken - have iPhones.
 
-(Worthy of note: this “review” is very heavily focused on *iOS* - which is to say *iPhone* - to the point where any overlap with iPadOS/MacOS/WatchOS/HomeOS/any other goddamned operating system are purely coincidental. For coverage of those changes, please seek your regular sources.)
+```markdown
+Worthy of note: this “review” is very heavily focused on *iOS* - which is to say *iPhone* - to the point where any overlap with iPadOS/MacOS/WatchOS/HomeOS/any other goddamned operating system are purely coincidental. For coverage of those changes, please seek your regular sources.
+```
 
 ![Shared With You - Photos App in iOS 15](https://i.snap.as/5otqrdNU.png)
 
@@ -64,7 +64,7 @@ Yeah. I hope you’re at least half as amused as I have continued to be by algor
 
 https://www.youtube.com/watch?v=-1bA7-oslkc
 
-If you're experiencing any sort of deja vu from the idea of auto-generated slideshows with rights-free soundtracks in the Photos app, it's because Apple has made several distinct attempts to implement very similar iterations of the feature throughout iPhone's history. 
+If you're experiencing any sort of Déjà vu from the idea of auto-generated slideshows with rights-free soundtracks in the Photos app, it's because Apple has made several distinct attempts to implement very similar iterations of the feature throughout iPhone's history, which has involved iMovie on iOS and MacOS once or twice. I have fiddled with every one - including iOS 15's - and my (truly sound and original) advice is to **avoid spending time trying to customize auto-generated videos** in general. If you explore one of the suggested Memories and find the software's default result satisfactory, of course you should save it, but be wary of any attempts to take editorial control yourself.
 
 
 
@@ -122,7 +122,7 @@ If you happen to have either AirPods Pro or AirPods Max devices, an iPhone 7 or 
 
 In my opinion, SharePlay represents one of those great, well-thought solutions to some notably youth-specific challenges which nobody (even the youth) will see as more worthwhile than their own. By that I mean, one ear bud per person… now, an ancient tradition. I’ve deprioritized it, in contrast to Chaim, because I’d bet it’s also one of those things one can only learn themselves.
 
-https://youtube.com/watch?v=YZCx-9wF3ow
+![Notifications in iOS 15](https://i.snap.as/TFWvW1b6.png)
 
 ## Notifications, Focus, and Attention
 
@@ -139,8 +139,6 @@ The most glaringly standout parallel between Microsoft’s Windows upcoming Wind
 ![Focus in iOS 15](https://i.snap.as/mxwVtN7p.png)
 
 I chose to embed [Matt Birchler’s guide to Focus](https://youtu.be/YZCx-9wF3ow) above because it’s by far the most succinct and helpful video I’ve yet seen on iOS 15, generally, and demonstrates how a working person might actually use Focus. My one addendum to this (and any other Focus) guide: **proceed *without* the automated bits** by avoiding anything under the `TURN ON AUTOMATICALLY` subsection of the menu. For whatever reason, location-based automation triggers on iPhone, especially, have literally **never** functioned usefully (or *reliably*) in my experience. 
-
-![Driving Focus Auto-Reply Character Limits](https://i.snap.as/9cvlx5lL.png)
 
 https://www.youtube.com/watch?v=40y7iLdfOnM
 
@@ -166,7 +164,9 @@ One welcome exception to this absence of investment in user-generated content is
 
 ![Place Cards - Apple Maps in iOS 15](https://i.snap.as/LX5HW4T3.png)
 
-Above is a screenshot of my first test contribution to Apple Maps (my [mom’s private practice](http://bit.ly/elonglcswam),) which also serves as an example of Maps’ new “place cards.”
+Above is a screenshot of my first test contribution to Apple Maps (my [mom’s private practice](http://bit.ly/elonglcswam),) which also serves as an example of Maps’ new “place cards.” As of this writing, all of my test contributions are still held "Pending Review," yet navigating to [the share link](https://maps.apple.com/place?address=1714%20Oak%20Cliff%20Pl,%20Columbia,%20MO%20%2065203,%20United%20States&auid=6487223830929868055&ll=38.933965,-92.387854&lsp=9902&q=Eileen%20Long,%20MSW%20LCSW&_ext=CjIKBQgEEOIBCgQIBRADCgQIBhByCgQIChAACgQIUhAECgQIVRAACgQIWRAGCgUIpAEQARImKZSjW/v4dkNAMW0PujQxGVfAORJ5gVcfeENAQd9/R/9zGFfAUAM%3D&t=m) with a desktop browser indicates they've already been made public.
+
+![Apple Maps Place Cards in Web Browser](https://i.snap.as/AZd7nuNz.png)
 
 ![3D Hy-Vee](https://i.snap.as/SILn5LmG.png)
 
@@ -175,6 +175,26 @@ Above is a screenshot of my first test contribution to Apple Maps (my [mom’s p
 As of this writing, it’s unclear how much of the Maps features I’ve used will be carried over to CarPlay upon iOS 15.0.0’s official release, but I know for *certain* that CarPlay is a weekly (if not daily) used feature by virtually all of my family members. With the additional variable of [differences in support between given automobile marques/models](https://www.apple.com/ios/carplay/available-models/) - including which support [Car Key](https://support.apple.com/en-us/HT211234) - it’s difficult to say definitively what will have changed about your personal CarPlay use. What experience I do have using CarPlay has been exclusively with my mom’s [2019 Volkswagen Jetta](https://youtu.be/hqQqfdHsGx0,) and documented visually in [this photo gallery](https://snap.as/extratone/ios15) as well as [on my alt Instagram](https://www.instagram.com/dieselgoth/channel)’s “iOS & iPhone” IGTV Series.
 
 ![Apple Maps Night Navigation](https://i.snap.as/iQD53oId.png)
+
+To once again cite from the official full features list:
+
+> An all-new driving map helps you see traffic, incidents, and other details that affect your drive at a glance. See incredible road details like turn lanes, bike, bus, and taxi lanes, medians, crosswalks, and much more. When approaching a complex interchange, Maps switches to a 3D road-level perspective to help you find your way."
+
+"It's faster and easier to report an issue in Maps" is a standout, literal statement. Once you've navigated to the menu in the screenshot below (via the chatbox with exclamation point icon,) touching any of the three options will *immediately* report its respective information without confirmation.
+
+![Report an Incident - CarPlay in iOS 15](https://i.snap.as/VKfuhJvH.png)
+
+The default **Driving Focus** can be configured to activate automatically as soon as CarPlay connects which *would* be the single exception from my earlier advice against automating Focus modes at all were it not for the mode's lockout from the Lock Screen (as shown in the first of the three screenshots embedded below.)
+
+![Driving Focus in iOS 15](https://i.snap.as/m5974FcB.png)
+
+Once you've locked your device with the Driving Focus on, you must clear an extra step to unlock it by selecting "I'm Not Driving," which then turns the Focus off. In my (unsolicited) opinion, this renders the Focus unusable at best and arguably downright dangerous. "Hey Siri!" is an option most folks I know leave off and I can't imagine a single reason to add such an obstruction. 
+
+![Custom Car Focus - iOS 15](https://i.snap.as/xcNfKv6g.png)
+
+I *can* offer a solution, however, in the form of my custom Car Focus, which only allows calls and texts from my mom, open a single, otherwise-hidden custom (work-in-progress) Home Screen with exclusively driving/nav/travel-relevant apps, and even activates automatically via a very simple automation in [the Shortcuts app](https://apps.apple.com/us/app/shortcuts/id1462947752). Technically, the only feature it's missing from the default Driving Focus are automatic text replies, which (as of beta) weren't working anyway.
+
+https://www.youtube.com/watch?v=-hNCsS4I0uk
 
 
 ***
