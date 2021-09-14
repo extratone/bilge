@@ -218,6 +218,7 @@ https://imgur.com/gallery/u8HxROl
 
 An opportunity for an anecdotal, but genuinely exciting! demonstration is allowed us in Reminders: **Drag & Drop** is, indeed, [*finally here*](https://imgur.com/gallery/u8HxROl).
 
-***
-[^1]: If you’re reading this and happen to be looking for app recommendations, let me know and I’ll ask her. 
-[^2]: This wasn’t working reliably in the last Developer Beta, but I’ll do my best to check back for the normal release.
+---
+
+[1] If you’re reading this and happen to be looking for app recommendations, let me know and I’ll ask her. 
+[2] This wasn’t working reliably in the last Developer Beta, but I’ll do my best to check back for the normal release.
