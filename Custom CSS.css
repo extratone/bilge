@@ -1,6 +1,8 @@
 /* Written in November 2020 by David Blue for bilge.world.
 
-`Version 3.1` https://github.com/extratone/bilge/releases/tag/3.1
+Updated September 14th, 2021 with correct footnote formatting.
+
+`Version 3.1.1` https://github.com/extratone/bilge/releases/tag/3.1
 
 Full, up-to-date source code available at https://github.com/extratone/bilge/
 
@@ -336,17 +338,23 @@ body#subpage article time.dt-published {
     font-weight: 700;
 }
 
-.footnote, .footnote-ref {
+.footnote {
     font-family: proxima-nova-condensed, sans-serif !important;
-    font-weight: 700;
+    font-weight: 400;
     /* margin-left:2.5px; */
     color: #da2573 !important;
-    font-size: 1.1em;
+    font-size: 0.8em;
     text-decoration:underline #FF0000;
 }
 
 .footnote-ref {
-    margin-left:25px;
+    margin-left:15px;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /* margin-left:2.5px; */
+    color: #da2573 !important;
+    font-size: 1.15em;
+    /* text-decoration:underline #FF0000; */
 }
 
 .footnote-ref-text {
@@ -354,5 +362,5 @@ body#subpage article time.dt-published {
     font-weight: 400;
     color: #1c0021 !important;
     font-size: 1em;
-    border-top: #00006b dotted 1px;
+    /* border-top: #00006b dotted 1px; */
 }
