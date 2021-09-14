@@ -66,8 +66,6 @@ https://www.youtube.com/watch?v=-1bA7-oslkc
 
 If you're experiencing any sort of Déjà vu from the idea of auto-generated slideshows with rights-free soundtracks in the Photos app, it's because Apple has made several distinct attempts to implement very similar iterations of the feature throughout iPhone's history, which has involved iMovie on iOS and MacOS once or twice. I have fiddled with every one - including iOS 15's - and my (truly sound and original) advice is to **avoid spending time trying to customize auto-generated videos** in general. If you explore one of the suggested Memories and find the software's default result satisfactory, of course you should save it, but be wary of any attempts to take editorial control yourself.
 
-
-
 ![Visual Lookup Indicator in iOS 15](https://i.snap.as/74HOlnLP.png)
 
 ### Visual Lookup
@@ -92,7 +90,15 @@ Once again, from Mr. Guyot:
 
 > Groups of photos that you send will now be shown as stacks instead of in a long list, allowing you to more easily swipe through the images without losing track of the conversation around them. Tap on a stack to open a grid view where you can see and select multiple photos at once.  
 
-I took the above screenshot in iOS 15 Developer Beta 5, and… Do “stacks” not look hilariously janky as fuck? 
+I took the screenshot embedded above in iOS 15 Developer Beta 5, and… Do “stacks” not look hilariously janky as fuck? 
+
+![Live Text in iOS 15](https://i.snap.as/DNJOKq85.png)
+
+### Live Text
+
+
+
+https://www.youtube.com/watch?v=y3kj0-q4k9k
 
 ## Audio
 
@@ -196,6 +202,21 @@ I *can* offer a solution, however, in the form of my custom Car Focus, which onl
 
 https://www.youtube.com/watch?v=-hNCsS4I0uk
 
+For those new to Siri Shortcuts completely, I recorded a [rough video guide](https://youtu.be/-hNCsS4I0uk) on how to set up both the Focus and its automation.
+
+![Reminders in iOS 15](https://i.snap.as/0tsmBGe3.png)
+
+### Reminders
+
+“A to-do list is, ultimately, nothing more or less than an attempt to persuade yourself” concludes [a feature by Clive Thompson](https://www.wired.com/story/to-do-apps-failed-productivity-tools) in the most recent issue of *WIRED*. In the face of a literally indigestible volume of available (and *award-winning*!) Task Management applications available on iOS - [Microsoft To Do](https://apps.apple.com/us/app/microsoft-to-do/id1212616790), [Microsoft Lists](https://apps.apple.com/us/app/microsoft-lists/id1530637363), [Todoist](https://apps.apple.com/us/app/todoist-to-do-list-tasks/id572688855), [Things 3](https://apps.apple.com/us/app/things-3/id904237743), [Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/id718043190), [GoodTask](https://apps.apple.com/us/app/goodtask-to-do-list-tasks/id1068039220), [OmniFocus 3](https://apps.apple.com/us/app/omnifocus-3/id1346190318), and on… - Apple’s Reminders app has always had perhaps the most insurmountable task of all its native applications in remaining competitive. Up until I wrote this review, my personal list in the app was nothing but a wasteland of forgotten, out-of-context items from up to 7 years ago (!) which I’d obviously set with Siri without bothering to correct its voice recognition.
+
+Before you proceed to experiment with Reminders, I’d recommend using my [Reminders Backup Siri Shortcut](https://routinehub.co/shortcut/10118) to create a .zip file of *all* existing items in your Reminders app, even if there are just a few. I insist upon this largely because it’s so fast and so frugal. (Here’s [how to allow the addition of Siri Shortcuts from third-party sources](https://support.apple.com/guide/shortcuts/enable-shared-shortcuts-apdfeb05586f/ios).)
+
+For a particularly positive - but very trustworthy - perspective on the additions to Reminders coming in iOS 15, [John Voorhees’ overview for *MacStories*](https://www.macstories.net/stories/reminders-smart-lists-put-unprecedented-control-in-the-hands-of-users/) is succinct and informative.
+
+https://imgur.com/gallery/u8HxROl
+
+An opportunity for an anecdotal, but genuinely exciting! demonstration is allowed us in Reminders: **Drag & Drop** is, indeed, [*finally here*](https://imgur.com/gallery/u8HxROl).
 
 ***
 [^1]: If you’re reading this and happen to be looking for app recommendations, let me know and I’ll ask her. 
