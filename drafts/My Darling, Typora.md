@@ -1,8 +1,8 @@
 # My Darling, Typora
 
-## At long last, I have found the perfect writing software.
+![Gitbook Theme Showcase](https://i.snap.as/qQDiWAUH.png)
 
-![Typora Tile](https://i.snap.as/3vbelEU.png)
+## At long last, I have found the perfect writing software.
 
 I'm not exactly sure what set off my obsession with word processing software in 2018, though I suspect it was my discovery of the WinWorldPC library.
 
