@@ -6,7 +6,7 @@
 Before you read on… If you’re just wondering how to make Safari go back to the way it was before, refer back to the first subhead on this page (“The Gist.”)
 ```
 
-The one commonality in the experience of every single person finishing up their iOS 15 review/overview/guide: we’ve all saved Safari for the very last minute. I am 99% certain the saga surrounding changes to Apple’s native web browser - along with my personal, reactionary gripes spewed along the past two months of iOS 15’s Developer Beta cycle - were the overwhelmingly affirming factors that led to me pursuing this very review. 
+The one commonality in the experience of every single person finishing up their iOS 15 review/overview/guide: we’ve all saved Safari for the very last minute. I am 99% certain the saga surrounding changes to Apple’s native web browser - along wi*th my personal, reactionary gripes spewed along the past two months of iOS 15’s Developer Beta cycle - were the overwhelmingly affirming factors that led to me pursuing this very review. 
 
 Though I’ve disagreed with *a lot* of what John Gruber has had to say lately, [his constructively critical post about “Safari 15”](https://daringfireball.net/2021/07/safari_15_public_betas_for_mac_and_ios) from early July became an important foothold of affirmation for my sanity as greater tech media went *alarmingly* quickly from shock to justification and then to celebration (one not-unpopular take I saw literally called Apple’s decisions “brave.”) I found this passage especially resonant:
 
@@ -16,7 +16,20 @@ Though I’ve disagreed with *a lot* of what John Gruber has had to say lately, 
 
 ![Cake Browser vs Safari in iOS 15](https://i.snap.as/nJ6h60ql.png)
 
-I won't bore you with any parallels, but I do enjoy the (very fantastic) mental image of Apple Devs huddled around good ole' Cake for inspiration. If you're wondering why I haven't actually named a single one of the *changes* I've been referring to, it's because the entirety of [the Safari section in the full iOS 15 features list](https://hyp.is/c_RW3hWqEeyuMqOqKTovnQ/www.apple.com/ios/ios-15/features/) is... Here:
+I won't bore you with any parallels, but I do enjoy the (very fantastic) mental image of Apple Devs huddled around good ole' Cake for inspiration. If you're wondering why I haven't actually named a single one of the *changes* I've been referring to, I thought I might present the entirety of [the Safari section in the full iOS 15 features list](https://hyp.is/c_RW3hWqEeyuMqOqKTovnQ/www.apple.com/ios/ios-15/features/) sandwiched between a set of screenshots from iOS 14.8’s Safari and a set of the same locations in the browser as it stands in the iOS 15 Release Candidate.
 
-`![Safari 15 Full Changes List](https://i.snap.as/MvR5xRuv.png)`
+![Safari in iOS 14.8](https://i.snap.as/D2RrhyJP.png)
 
+![Safari 15 Full Changes List](https://i.snap.as/MvR5xRuv.png)
+
+![Safari in iOS 15 RC](https://i.snap.as/dCJNun47.png)
+
+I think the greatest catalyst for the *emotional* component of the controversy lies in the fact that it represents the first complete redesign in the *entire*, 18-year-long history of the software. Since [Safari 1.0 Beta for Mac](https://www.pcworld.idg.com.au/article/62233/safari_1_0_beta_mac/) in the Spring of 2003
+
+![Safari 1.0 Beta for Mac](https://i.snap.as/CGhwvzqp.jpeg)
+
+![Cake Browser vs Safari in iOS 15](https://i.snap.as/nJ6h60ql.png)
+
+![Safari in iOS 15 RC](https://i.snap.as/dCJNun47.png)
+
+![Safari in iOS 14.8](https://i.snap.as/D2RrhyJP.png)
