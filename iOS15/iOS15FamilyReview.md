@@ -4,6 +4,10 @@
 
 ## It's been a tough summer for the *Always Feature-Focused* Tribe.
 
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/TTS/iOS%2015%20Reviewed%20for%20My%20Family.m4a">
+</audio>
+
 Eighty days ago, Apple's Senior Vice President of Software Engineering ~~stood up in front of a crowd of~~... 
 
 No!... It was just me... Alone, in my mother’s basement, on a Monday morning, contorted at stupid angles, typing to my phone with a physical keyboard and unapologetically scarfing as much as I possibly could of the Apple community’s unbelievably unreserved, almost *spiritual* volume of **pure hype** from as many simultaneous sources as I could manage. (Hilariously, *all* of said sources are/were Discord servers, now, as in that “gamer” communications service I launched my little indie mag on in 2015 and [kept comparing to Slack](https://bilge.world/discord-slack-comparison), but like an actual madman.)
@@ -30,7 +34,7 @@ Quite simply, the more automated iOS has become, the less comfortably in control
 
 ## The Gist
 
-Rounder, still! From the first time you enter your passcode immediately after installing iOS 15, you’ll notice that Notifications and other elements have had their rounded corners *further* rounded, for some reason. Assuming Safari ships with its new look turned on by default, the screenshots embedded above show two locations (subject to change) where one can switch it off. (Your best bet is to visit its settings menu as displayed on the right in `Settings ⇨ Safari`.) As of this writing, at least two of iOS 15’s “headlining” features have been pushed to further iterative updates: [SharePlay](https://www.independent.co.uk/life-style/gadgets-and-tech/ios-15-apple-shareplay-tv-delay-b1904548.html) and [iCloud Private Relay](https://www.macrumors.com/2021/08/25/icloud-private-relay-ios-15-public-beta/). I suspect you will be prompted to explore Focus Modes upon initial installation, which I will eventually analyze in relative detail. Ideally, you’ll also be prompted to explore “Shared With You,” which I personally believe to be the release’s most significant addition for most people, by far. 
+Rounder, still! From the first time you enter your passcode immediately after installing iOS 15, you’ll notice that Notifications and other elements have had their rounded corners *further* rounded, for some reason. Assuming Safari ships with its new look turned on by default, the screenshots embedded above show two locations (subject to change) where one can switch it off. (Your best bet is to visit [**its menu in Settings**](prefs:root=SAFARI) as displayed on the right in `Settings ⇨ Safari`.) As of this writing, at least two of iOS 15’s “headlining” features have been pushed to further iterative updates: [SharePlay](https://www.independent.co.uk/life-style/gadgets-and-tech/ios-15-apple-shareplay-tv-delay-b1904548.html) and [iCloud Private Relay](https://www.macrumors.com/2021/08/25/icloud-private-relay-ios-15-public-beta/). I suspect you will be prompted to explore Focus Modes upon initial installation, which I will eventually analyze in relative detail. Ideally, you’ll also be prompted to explore “Shared With You,” which I personally believe to be the release’s most significant addition for most people, by far. 
 
 As far as "meaningful ways iPhone could help you," I see little more than glimmers. Focus Modes would be promising were they not so complex to set up, and Notification Summaries are (as of this moment) a pretty hopeless implementation of a theoretically useful concept. Some additional filters in Apple Maps search will prove useful so long as the associated metadata has been updated for locations *other* than San Francisco (say, mid-Missouri.) Optical Character (text) Recognition has been implemented “system wide” under the feature Apple terms “Live Text,” and translation has finally been extended to the places where it’s most useful (think: Safari.) 
 
@@ -98,9 +102,11 @@ I took the screenshot embedded above in iOS 15 Developer Beta 5, and… Do “st
 
 ### Live Text
 
-
+For someone like myself, iOS 15’s system-wide integration of Optical Character Recognition is undoubtedly its most useful addition by far. Throughout the Developer Beta, it’s moved up this list gradually as I’ve come to see how it could be useful for *you*, as well. 
 
 https://www.youtube.com/watch?v=y3kj0-q4k9k
+
+The [video embedded above](https://youtu.be/y3kj0-q4k9k) is a very rough demo, but I suspect it’s more “authentic” than most you’d see elsewhere. The ability to *accurately* capture text right from the camera is invaluable, but for most folks, *line breaks* are going to be a real problem. I’m working on a way to address this with a Siri Shortcut, which I’ll obviously share here when/if I succeed. 
 
 ## Audio
 
@@ -218,33 +224,59 @@ https://imgur.com/gallery/u8HxROl
 
 An opportunity for an anecdotal, but genuinely exciting! demonstration is allowed us in Reminders: **Drag & Drop** is, indeed, [*finally here*](https://imgur.com/gallery/u8HxROl).
 
-## Safari
-
 ![Safari in iOS 15](https://i.snap.as/14Xf21CA.png)
+
+## Safari
 
 ```markdown
 Before you read on… If you’re just wondering how to make Safari go back to the way it was before, refer back to the first subhead on this page (“The Gist.”)
 ```
 
-The one commonality in the experience of every single person finishing up their iOS 15 review/overview/guide: we’ve all saved Safari for the very last minute. I am 99% certain the saga surrounding changes to Apple’s native web browser - along wi*th my personal, reactionary gripes spewed along the past two months of iOS 15’s Developer Beta cycle - were the overwhelmingly affirming factors that led to me pursuing this very review. 
+The one commonality in the experience of every single person finishing up their iOS 15 review/overview/guide: we’ve all saved Safari for the very last minute. I am 99% certain the saga surrounding changes to Apple’s native web browser - along with my personal, reactionary gripes spewed along the past two months of iOS 15’s Developer Beta cycle - were the overwhelmingly affirming factors that led to me pursuing this very review. I have rewritten this portion over and over again, but now that you know how to disable the new look, I’m going to as briefly as possible summarize the changes that are actually relevant to you.
 
-Though I’ve disagreed with *a lot* of what John Gruber has had to say lately, [his constructively critical post about “Safari 15”](https://daringfireball.net/2021/07/safari_15_public_betas_for_mac_and_ios) from early July became an important foothold of affirmation for my sanity as greater tech media went *alarmingly* quickly from shock to justification and then to celebration (one not-unpopular take I saw literally called Apple’s decisions “brave.”) I found this passage especially resonant:
+* You can now **pull down to refresh**, which apparently the youths *actually* refer to with the acronym “PTR,” these days.
+* **Safari Extensions** might be worthwhile. I **absolutely insist** that everyone reading this install one called **Overamped**, which I have been testing. Basically, you’ll never need to think about Google AMP again, which is an absolute gift, I promise.
+* **Tab Groups** will almost certainly be nothing but a nuisance for all but the most ridiculous iPhone poweruses like myself.[^3]
 
-> One can only presume that Apple’s HI team thinks they’re reducing needless “clutter”, but what they’re doing is systematically removing the coherence between what apps look like and the functionality they offer.
+https://twitter.com/NeoYokel/status/1438980179712479241
 
-"There always has to be something up our sleeve," said Apple CEO Tim Cook in an interview I happened to catch in [a bait re-broadcast YouTube stream](https://youtu.be/ki81PEZ3q2U) while writing this. I find it poignant, indeed, recalling my first experience with the new Safari in Dev Beta 1, this past July. I literally thought I'd opened the wrong app. Specifically, the entirely-redesigned interface I saw reminded me a lot of a (living) ghost of [quaint browser concepts past](https://techcrunch.com/2018/01/30/cake-raises-5-million-for-a-swipeable-mobile-browser/)...The general layout of an experimental app called [Cake](https://apps.apple.com/us/app/cake-web-browser/id1163553130).
+If, like me, you’ve always found Bookmark/Favorites management in Safari utterly impossible, you’ll rejoice at the implications of Drag & Drop as demonstrated in the [Twitter video](https://twitter.com/NeoYokel/status/1438980179712479241) embedded above. 
 
-![Cake Browser vs Safari in iOS 15](https://i.snap.as/nJ6h60ql.png)
+## Baubles
 
-I won't bore you with any parallels, but I do enjoy the (very fantastic) mental image of Apple Devs huddled around good ole' Cake for inspiration. If you're wondering why I haven't actually named a single one of the *changes* I've been referring to, it's because the entirety of [the Safari section in the full iOS 15 features list](https://hyp.is/c_RW3hWqEeyuMqOqKTovnQ/www.apple.com/ios/ios-15/features/) is... Here:
+![OMNIMEMOJI](https://i.snap.as/p8U6kW1g.png)
 
-![Safari 15 Full Changes List](https://i.snap.as/MvR5xRuv.png)
+### Memoji
 
-I think the greatest catalyst for the *emotional* component of the controversy lies in the fact that it represents the first complete redesign in the *entire*, 18-year-long history of the software. Safari 1.0 Beta for Mac 
+Finally, the great, terrible Apple God has granted its bizarre animated minimes a torso! I have always found memoji [alarming](https://www.reddit.com/r/iphone/comments/he03xb), mostly, but now that I’ve paid them mind, I would like to express my sympathy for those of you who enjoy using them. I’m sorry to report that you will still need to go to `Messages` and open the compose window in a conversation in order to select the emoji iMessage app. Though iOS 15 adds full bodies to memoji (and clothes to cover them, as required since Adam & Eve,) as well as “accessible accessories,”[^4] there’s not as yet any way to actually *see* a memoji in full-body view other than the editing interface (as far as I could tell.) You can also choose to separately color your memoji’s eyes. 
 
-![Safari 1.0 Beta for Mac](https://i.snap.as/CGhwvzqp.jpeg)
+![Facetime in The Browser Comedy](https://i.snap.as/vBw0CNhW.png)
 
----
+### Facetime in The Browser
+
+Yes, you can *technically* Facetime with non-Apple devices thanks to iOS 15's changes. In fact, you'll be able to "Facetime" any device with a web browser! *However*, in doing so you will be forgoing every single one of Facetime's advantages: call quality, "privacy," ecosystem integration, etc. Without these, it would be silly to use Facetime over literally *any* other video calling service. What an immense waste of time, eh?
+
+https://twitter.com/NeoYokel/status/1430679850399014912
+
+For the sake of thoroughness, though, I should note that I appear to be alone in this view of the new Facetime changes. *MacStories* founder and Ultimate iPad Sage Federico Viticci’s [report on the subject](https://www.macstories.net/stories/facetimes-audio-and-video-take-a-leap-forward-with-apples-upcoming-iphone-ipad-and-mac-os-updates/) was one of mostly satisfaction.
+
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/MicModeTest.flac">
+</audio>
+
+I will note, too, that [my test](https://whyp.it/t/testing-the-mic-modes-coming-in-facetime-with-ios-15-54749) of the new “Mic Modes” function yielded impressive results (along with a few other experiences I’ve had so far,) especially in the “Voice Isolation” mode’s performance, but - [as I lamented on Twitter](https://twitter.com/NeoYokel/status/1430680198442332160) - its association with FaceTime makes it unavailable where one actually could make use of it on iOS.
+
+## Omissions
+
+I know it probably doesn’t mean much to you, but in my lifetime of beta testing iPhone updates, I have never experienced such a disastrous cycle as 15’s. [*MacWorld*’s outline](https://www.macworld.com/article/353957/ios-15-features-missing-at-launch.html) of the expected features *not* coming in today’s release from the 7th of this month has no less than *eight* headings: *SharePlay*, *Legacy Contacts*, *App Privacy Report*, *3D CarPlay navigation*, *Universal Control*, *IDs in Wallet*, *Custom iCloud email domains*, and *CSAM scanning features*. 
+
+https://twitter.com/NeoYokel/status/1438960700286717955
+
+For us powerusers, Siri Shortcuts are absolutely fucked and Apple Dork Twitter is livid about it. Personally, I find these to be the least problematic of the unfixed bugs, and I can only hope it means that Apple has prioritized fixes for the features most relevant in *your* life. I will be updating this Post as actively as I can in the coming weeks and always appreciate any questions or thoughts you might have about how I could make it more useful.
 
 [1] If you’re reading this and happen to be looking for app recommendations, let me know and I’ll ask her. 
 [2] This wasn’t working reliably in the last Developer Beta, but I’ll do my best to check back for the normal release.
+[3] This is one of those things I can’t say more about until I actually hear from other folks… I’ll check back in a month or so.
+[4] The full quote: “Three new accessibility options let you represent yourself with cochlear implants, oxygen tubes, or a soft helmet.”
+
+#software
