@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">754</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0d6b58a7-2feb-46e3-91ff-f41aa08245a0</dc:identifier>
+        <dc:title>iOS 15 Reviewed for My Family</dc:title>
+        <dc:creator opf:file-as="Blue, David" opf:role="aut">David Blue</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.27.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2021-09-20T05:00:00+00:00</dc:date>
+        <dc:publisher>Extratone</dc:publisher>
+        <dc:language>eng</dc:language>
+        <dc:subject>Documentation</dc:subject>
+        <meta name="calibre:author_link_map" content="{&quot;David Blue&quot;: &quot;&quot;}"/>
+        <meta name="calibre:timestamp" content="2021-09-20T05:54:05.841000+00:00"/>
+        <meta name="calibre:title_sort" content="iOS 15 Reviewed for My Family"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="iOS 15 Reviewed for My Family - David Blue.jpg"/>
+    </guide>
+</package>
