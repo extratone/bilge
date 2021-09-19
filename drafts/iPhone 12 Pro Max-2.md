@@ -46,9 +46,10 @@ down to a depth of six feetYa know, I'm actually astonished by how much of this 
 
 ---
 
-[^1] I may actually be the most qualified person on Earth to reflect on this subject, given that I represent the very first microgeneration to have smartphones for all of our adult lives. (Just barely.)
+[1] I may actually be the most qualified person on Earth to reflect on this subject, given that I represent the very first microgeneration to have smartphones for all of our adult lives. (Just barely.)
 
-[^2] I still have no idea who Bob Geldoff is.
+[2] I still have no idea who Bob Geldoff is.
 
-[^3] Unfortunately, my own First Generation was lost during my Portland Debacle in 2017.
+[3] Unfortunately, my own First Generation was lost during my Portland Debacle in 2017.
+
 [4] Both public and private, unfortunately.
