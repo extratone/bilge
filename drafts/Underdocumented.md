@@ -1,8 +1,12 @@
-# Underdocumented Maneuvers in iOS
+# Underdocumented iOS Maneuvers
 
 ![Underdocumented iOS Maneuvers ](https://i.snap.as/vYlsxofN.jpg)
 
 ## Peep this dope listicle of iPhone Pro Tips
+
+If you hadn't noticed, I have been in the process of re-accepting the fact that I am a *ⒹⓄⒸⓈ ⒷⒾⓉⒸⒽ*, and have been since I fell out of the womb, basically. Throughout the earliest years of my childhood, I grew a fairly substantial collection of owners manuals - the vast majority of them reprints - of historic automobiles and agricultural equipment *knowing I would never own or operate their subjects*. I really did read them extensively, too! 
+
+
 
 It became most apparent during my research for [my iPhone 12 Pro Max Review](https://github.com/extratone/bilge/issues/45) that Apple’s mobile operating system and all that it entails has changed profoundly over the course of its history even moreso than is immediately obvious. The operating system that thwarted the very idea of the Power User currently has numerous features that were added explicitly for them. (One might suggest this really began in iOS 12, with [Siri Shortcuts](http://bilge.world/siri-shortcuts-ios12-review).) The trouble is that many of these features overlap into what the most average user might use in their day-to-day operation of their handsets and tablets. **Showing timestamps in iMessage**, for instance, is a function which one should not have to stumble upon or take to an internet search to find. (<u>Swipe from right to left in a conversation</u>.) Little functions like this are incredibly poorly documented, considering iOS is maintained by the most valuable company in the history of the world.
 
