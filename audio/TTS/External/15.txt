@@ -1,0 +1,73 @@
+iOS and iPadOS 15: The MacStories Review
+
+September 20th, 2021
+
+A quieter release for even stranger times.
+
+In my career as an iOS reviewer I don’t think I’ve ever seen a response as universally positive and enthusiastic as the general public’s reception of iOS 14 last year From the “Home Screen aesthetic” popularized by TikTokers to the incredible success of widgets and the resurgence of custom icons, few iOS updates managed to capture the cultural zeitgeist as globally and rapidly as iOS 14 did. The update broke out of the tech community and, perhaps for the first time in decades, made UI personalization a mainstream, easily attainable hobby For once, we didn’t have to convince our friends and family to update to a major new version of the iPhone’s operating system. They just did it themselves.
+
+The numbers don’t lie: five weeks after its release, iOS 14 was already set to surpass iOS 13’s adoption rate; in April 2021, seven months after launch, over 90% of compatible devices were running iOS 14 Which begs the obvious question: if you’re Apple, you’re planning to follow up on what made iOS 14 successful with even more of it, right?
+
+Well, not quite.
+
+With the world coming to a halt due to the pandemic in early 2020, Apple could have easily seized the opportunity to slow down its pace of software updates, regroup, and reassess the state of its platforms without any major changes in functionality. But, as we found out last year, that’s not how the company operates or draws its product roadmaps in advance. In the last year alone, Apple introduced a substantial macOS redesign pointer support on iPad, and drastic changes to the iOS Home Screen despite the pandemic, executing on decisions that were likely made a year prior.
+
+Surprisingly, iOS 15 doesn’t introduce any notable improvements to what made its predecessor wildly popular last year. In fact, as I’ll explore in this review, iOS 15 doesn’t have that single, all-encompassing feature that commands everyone’s attention such as widgets in iOS 14 or dark mode in iOS 13.
+
+As we’ll see later in the story, new functionalities such as Focus and Live Text in the Camera are the additions that will likely push people to update their iPhones this year. And even then, I don’t think either of them sports the same intrinsic appeal as widgets, custom Home Screens, or the App Library in iOS 14.
+
+It’s a slightly different story for iPadOS 15, which comes at a fascinating time for the platform.
+
+As I wrote in my review of the M1 iPad Pro earlier this year, Apple needed to re-align the iPad’s hardware and software on two fronts. For pro users, the company had to prove that the new iPad Pro’s hardware could be useful for something beyond basic Split View multitasking, either in the form of more complex windowing, pro apps, or desktop-like background processes; at the same time, Apple also had to modernize iPadOS’ multitasking capabilities for all kinds of users, turning an inscrutable gesture-based multitasking environment into a more intuitive system that could also be operated from a keyboard. It’s a tall order; it’s why I’ve long believed that the iPad’s unique multiplicity of inputs makes iPadOS the toughest platform to design for.
+
+Apple’s work in iPadOS 15 succeeds in laying a new foundation for multitasking but only partially satisfies the desires of power users. Apple managed to bring simplicity and consistency to multitasking via a new menu to manage the iPad’s windowing states that is easier to use than drag and drop. Perhaps more importantly, Apple revisited iPad multitasking so it can be equally operated using touch and keyboard. If you, the person reading these annual reviews, have ever found yourself having to explain to a family member how to create a Split View on iPad, tell them to update to iPadOS 15, and they’ll have a much easier time using their iPads to their full extent.
+
+But after three months of running iPadOS 15 on my M1 iPad Pro, I can’t help but feel like power users will still be left wishing for more. Yes, iPadOS 15 brings extensive keyboard integration for multitasking with a plethora of new keyboard shortcuts and yes, the new multitasking menu and improvements to the app switcher benefit everyone, including power users, but iPadOS 15 is a foundational update that focuses on fixing the basics rather than letting the iPad soar to new heights.
+
+While Apple is probably preparing bigger and bolder updates for next year, there are still plenty of features to discover and enjoy in iOS and iPadOS 15 – some that could still use some refinement, others that already feel like staples of the modern iPhone and iPad experience.
+
+Let’s dive in.
+
+
+
+## Compatibility and Setup
+
+While iOS and iPadOS 15 follow in last year’s iOS and iPadOS 14’s footsteps when it comes to maintaining backward compatibility with older devices dating back to the iPad Air 2 and iPhone 6s line, this year Apple improved the reset and setup process with easier ways to get ready to upgrade to a new iPhone or iPad. For the first time, the company will let you back up using iCloud even if the backup would be bigger than the storage available with your storage plan. You’ll also have the option to stay on iOS or iPadOS 14 and receive bug fixes until you upgrade. Let’s take a look.
+
+### Compatibility
+
+First, some good news for customers and bad news for developers. I’m in a good mood, so good news first: both iOS and iPadOS 15 are compatible with the same devices that supported iOS and iPadOS 14 last year, plus, obviously, the latest iPhone and iPad models released in 2021. This brings the list of supported devices to 19 iPhone models, the semi-forgotten 7th generation iPod touch (don’t tell Stephen and 19 iPad models – a total of 39 unique devices, excluding the ones launching in late 2021. Let’s visualize the table of devices capable of updating to iOS and iPadOS 15 in its full glory:
+
+(Embedded here is a 3 column table - iPhone, iPad, and iPod Touch - the latter of which rather noticeably contains only a single row, for the 7th generation iPod Touch.) 
+
+But here’s the bad news for developers: both iOS and iPadOS 15 are compatible with the same devices that supported iOS and iPadOS 14 last year.
+
+Last year, I was convinced iOS and iPadOS 14 would serve as an admirable swan song for older devices such as the iPhone 6s and 2014’s iPad Air 2; much to my surprise, even though they will be cut off from a variety of new features that require more powerful hardware, users will be able to update those devices to iOS and iPadOS 15 too. While I continue to believe Apple’s goal to maintain compatibility with seven-year-old hardware is commendable (and the rest of the tech industry should be inspired by this), it’s undeniable that this approach will give app developers a few headaches.
+
+There’s always going to be a tension between developers wanting to take advantage of the latest and greatest technologies on modern hardware and Apple willing to support their customers with software updates for as long as possible. Ultimately, I think Apple is doing the right thing, and I’m sure developers will figure this out as they always have. Still, it’s worth wondering when, exactly, supporting old hardware becomes a liability for the evolution of the app ecosystem as a whole.
+
+As I hinted above, several iOS and iPadOS 15 features won’t be available on older devices even if they can be updated to the latest OS. This year, these include major additions to iPhone and iPad that Apple heavily promoted in the lead-up to this release, such as video effects in FaceTime and VoIP apps, animated backgrounds in the updated Weather app, AR walking directions in Maps, and on-device speech recognition for Siri. For most of these features, it appears the cut-off point is the A12 Bionic chip meaning you’ll be able to use them only if you have an iPhone XS/XR or later. It’s important to point out these limitations since, performance considerations aside, people on older iPhones and iPads will have a vastly different experience using iOS or iPadOS 15 compared to others.
+
+### Setup
+
+Apple brought a handful of smaller, yet welcome improvements to the setup process of iOS and iPadOS 15. Right off the bat, if you visit the Settings app today, you’ll notice a new option in General ⇾ Software Update that lets you choose whether you want to upgrade to the new OS right away or stay a while longer on the previous version and continue to receive “important security updates until you’re ready to upgrade to the next major version”.
+
+Traditionally, Apple aggressively pushed the adoption of its latest major revisions to iOS and iPadOS, going as far as automatically downloading updates in the background in addition to offering the ability to have them automatically installed. I’m sure the strategy helped boost install rates for the latest versions of iOS and iPadOS but, speaking from personal experience, I know it also annoyed users who feel uncomfortable updating their devices (especially older ones) to a new version of iOS or iPad that may degrade performance. The approach doesn’t scale well for devices set up as part of large companies or educational institutions either, as they may be required to wait several months before upgrading their fleet of devices to a major new version. For all these reasons, I find this a reasonable change to iOS’ software update policy but, once again, I have to wonder how it’ll impact the third-party app ecosystem going forward.1
+
+The second addition to the setup process relates to iCloud storage and the new iCloud+ subscription plans. A common source of frustration I’ve heard from friends and family over the past few years is that, when it comes to moving from an older iPhone to a new model, they’ve often struggled to back up and restore their data (usually photos) because they weren’t paying for iCloud and had no sufficient storage left in their free tier. Rather than finally upgrading the free tier from the meager 5 GB limit that’s been in place for years, Apple is trying something else: when moving to a new device, Apple will grant you unlimited, yet temporary storage for up to three weeks, free of charge, so you can back up your device and transfer data via iCloud to a new one more quickly.
+
+This is a clever move, but I’m still not sure what to think. Instead of upping free storage to a more reasonable capacity, Apple is letting you try bigger iCloud storage for a few weeks so you can move on from an older device and then decide whether you want to start paying or not. This makes sense if you consider how, as a services company, Apple needs to “convert” as many users as possible to a paid iCloud plan. As a user, I would have preferred to see a proper expansion of the free 5 GB tier that’s starting to feel downright hostile at this point. Given the company’s cash reserves, I feel like Apple could – and should – do better here.
+
+Lastly, iOS and iPadOS 15 sport a handful of new options when resetting a device and setting it up from scratch. Upon resetting a device, you’ll see a new ‘Erase This \Device\]’ page that details the apps, data, and Apple ID information that will be removed from the system. This page also shows whether Activation Lock has been left enabled in Find My or not, which can be a useful reminder if you’re planning on selling your device or passing it down to a family member.
+
+Also in Settings ⇾ General ⇾ Transfer or Reset iPhone, you’ll find a new ‘Prepare for New iPhone’ section that loads a guided tutorial to make sure you’re ready to move to a new device. The tutorial does a couple of things: it provides you with instructions on how to set up a new device and how to trade-in or recycle an iPhone (“good for you and good for the planet”, the page says), and it checks the status of iCloud Backup on your device. If iCloud Backup is turned off, you’ll be prompted to turn it on so you can rest assured all your apps and data will be transferred to the new device when it arrives.
+
+This “onboarding” flow also works the other way around: after setting up a new device with the proximity-based system, you’ll see a ‘What’s next for this device’ message on the older one that gives you tips on what to do with it, including trade-in and recycling options. Given Apple’s commitment to the environment and long-established trade-in program it makes sense for these prompts to be part of the reset-and-setup process now.
+
+The same UI shown in the ‘Erase’ page is also used in iOS and iPadOS 15’s actual setup process. Labeled ‘Make This Your New Device’, this page lists all the data and information that was imported from your other device during setup; you can expand the Apps and Data tab to view more details, or you can tap ‘Customize Settings’ to pick other options, including not restoring anything at all on the new device.
+
+I’m not sure if any ‘regular’ user is ever going to see this screen, but because I know MacStories readers will, I wanted to mention it: the iOS 15 setup process also detects if the device was running a beta release before, and it offers to automatically re-enroll the device in the beta program at setup.
+
+Lastly, when you’re done restoring or updating to iOS 15, you’ll be presented with a cursive welcome message that should be familiar to anyone who purchased a new iMac this year The ‘hello’ screen only comes up once after updating to iOS 15, so if you want to capture it and show it off on social media, make sure you save it when you see it. I like that Apple is doubling down on this fun, Mac-inspired identity for iOS and iPadOS devices as well; I hope we see more of this in the future.2
+
+Overall, while the setup process itself hasn’t changed, I’m a fan of the extra options and guided explanations Apple added this year both before and after installing iOS 15. I still think the company should increase storage included in the free iCloud tier, and I believe restoring from an iCloud Backup could still use improvements3 but updating to a new version of iOS or switching devices has never been as easy as it is in iOS 15; I’m curious to see how this goes for millions of people.
