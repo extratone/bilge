@@ -28,3 +28,16 @@ iCloud Mail, Contacts, Calendars, and Bookmarks
 iCloud for Windows requires:
 • ==Outlook 2016 or later (for Mail, Contacts, Calendars)==
 • Internet Explorer 11 or later, Firefox 68 or later, or Google Chrome 80 or later (for Bookmarks)
+
+***
+
+## Images
+
+* `![Local Visibility and Voice Notes Publishing in Telegram for iOS](https://i.snap.as/jfBVJqyw.png)`
+* `![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)`
+* `![Orange Noir Telegram Theme by Valespace](https://i.snap.as/txZjy3dh.jpeg)`
+
+## Satellite Software
+
+* ["iCloud Passwords" plugin for Google Chrome](https://chrome.google.com/webstore/detail/icloud-passwords/pejdijmoenmkgeppbflobdenhhabjlaj)
+
