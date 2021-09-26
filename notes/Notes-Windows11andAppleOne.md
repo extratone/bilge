@@ -33,9 +33,9 @@ iCloud for Windows requires:
 
 ## Images
 
-* `![Local Visibility and Voice Notes Publishing in Telegram for iOS](https://i.snap.as/jfBVJqyw.png)`
-* `![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)`
-* `![Orange Noir Telegram Theme by Valespace](https://i.snap.as/txZjy3dh.jpeg)`
+* `![iCloud Services Windows Icons](https://i.snap.as/aCZfsek9.png)`
+* `![iCloud Passwords for Windows](https://i.snap.as/9JzH2423.png)`
+* `![iCloud Photos Shared Album Posting on Windows 11](https://i.snap.as/0HsXOj9D.png)
 
 ## Satellite Software
 
