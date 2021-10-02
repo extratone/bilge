@@ -1,6 +1,7 @@
 # Notes-Telegram
 
 ## General URLs
+* What in fuck is this website… “[Telegram for iOS - NONE](http://tsfkb.wikidot.com/apps:ios)”
 * My [personal Telegram satellite GitHub Repository](https://github.com/extratone/t)
 * [Send to Telegram Drafts Action](https://actions.getdrafts.com/a/18E)
 * Relative link to messages that don't involve complex scripting.
@@ -18,6 +19,8 @@
 ## References
 * [Drafts Directory: Send to Telegram](https://actions.getdrafts.com/a/18E)
 * [Telegram | The Eastern Border](https://shows.acast.com/theeasternborder/episodes/telegram)
+* [How-to: Markdown/Formatting Text in Telegram](https://telegra.ph/markdown-07-07)
+* [Keyboard Shortcuts · telegramdesktop/tdesktop Wiki](https://github.com/telegramdesktop/tdesktop/wiki/Keyboard-Shortcuts)
 
 ## Themes
 * [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
@@ -27,12 +30,12 @@
 
 ## Images
 
-```markdown
-![Quartered Telegram ](https://i.snap.as/387ADVNS.png)
+```
+![Drake Telegram Joke](https://i.snap.as/2YhRCO0I.jpeg)
+
+![Quartered Telegram](https://i.snap.as/387ADVNS.png)
 
 ![Quarter Telegram](https://i.snap.as/wYNY5aVO.png)
-
-![White Sapphire](https://i.snap.as/aNADRjvK.png)
 
 ![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)
 
@@ -43,6 +46,13 @@
 ![iOS Old Red Theme](https://i.snap.as/cfzQk533.png)
 
 ![Telegram for iOS Sharing and Notifications](https://i.snap.as/FltrCV6Z.png)
+
+![Send to Telegram Drafts Action](https://i.snap.as/p3K96LiX.png)
+
+![Telegram in CarPlay](https://i.snap.as/0jm5rxyy.png)
+
+![Security Considerations in Telegram for iOS](https://i.snap.as/Qim9gsZZ.png)
+
 ```
 
 ## Media
@@ -63,3 +73,7 @@ God's great gift to man, [**CopyQ**](https://hluk.github.io/CopyQ/,) is an extre
 ***
 
 as far as *send to yourself* functions… Telegram’s is the absolute most capable and usable by far, I promise. here’s more explanation in the form of this response I posted yesterday (I don’t expect anyone to actually engage with it though lol.) https://talk.automators.fm/t/equivalent-to-drafts-but-for-windows/6159/8
+
+***
+
+<iframe id="reddit-embed" src="https://www.redditmedia.com/r/Telegram/comments/hv4rgk/i_love_this/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="auto" width="480" scrolling="no"></iframe>
