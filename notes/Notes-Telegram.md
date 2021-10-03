@@ -35,6 +35,8 @@
 - [ ] [No, Don’t Quit WhatsApp To Use Telegram Instead—Here’s Why](https://www.forbes.com/sites/zakdoffman/2021/02/13/why-you-should-stop-using-telegram-instead-of-whatsapp-use-signal-or-apple-imessage) | *Forbes*
 - [ ] [Telegram, Signal Are No Match for WhatsApp and Facebook's Network Effects](https://www.bloomberg.com/opinion/articles/2021-09-02/telegram-signal-are-no-match-for-whatsapp-and-facebook-s-network-effects) | *Bloomberg*
 - [ ] [Telegram - Review 2021 - PCMag UK](https://uk.pcmag.com/iphone-apps/76144/telegram-messenger-for-iphone-review)
+- [ ] [Mandatory WhatsApp Privacy Policy Update Allows User Data to be Shared With Facebook - MacRumors](https://www.macrumors.com/2021/01/06/whatsapp-privacy-policy-data-sharing-facebook/)
+- [ ] [WhatsApp clarifies privacy practices after surge in Signal and Telegram users - The Verge](https://www.theverge.com/2021/1/12/22226792/whatsapp-privacy-policy-response-signal-telegram-controversy-clarification)
 
 ## Themes
 * [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
