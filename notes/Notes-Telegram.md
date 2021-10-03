@@ -20,8 +20,7 @@
 
 
 ## References
-- [ ] [Drafts Directory: Send to Telegram]
-- [ ] [(https://actions.getdrafts.com/a/18E)
+- [ ] [Drafts Directory: Send to Telegram](https://actions.getdrafts.com/a/18E)
 - [ ] [Telegram | The Eastern Border](https://shows.acast.com/theeasternborder/episodes/telegram)
 - [ ] [How-to: Markdown/Formatting Text in Telegram](https://telegra.ph/markdown-07-07)
 - [ ] [Keyboard Shortcuts · telegramdesktop/tdesktop Wiki](https://github.com/telegramdesktop/tdesktop/wiki/Keyboard-Shortcuts)
@@ -37,6 +36,7 @@
 - [ ] [Telegram - Review 2021 - PCMag UK](https://uk.pcmag.com/iphone-apps/76144/telegram-messenger-for-iphone-review)
 - [ ] [Mandatory WhatsApp Privacy Policy Update Allows User Data to be Shared With Facebook - MacRumors](https://www.macrumors.com/2021/01/06/whatsapp-privacy-policy-data-sharing-facebook/)
 - [ ] [WhatsApp clarifies privacy practices after surge in Signal and Telegram users - The Verge](https://www.theverge.com/2021/1/12/22226792/whatsapp-privacy-policy-response-signal-telegram-controversy-clarification)
+- [ ] [The "P" in Telegram stands for Privacy ~ inputzero](https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html)
 
 ## Themes
 * [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
@@ -60,16 +60,14 @@
 - [ ] `![Quartered Telegram](https://i.snap.as/387ADVNS.png)`
 - [ ] `![Quarter Telegram](https://i.snap.as/wYNY5aVO.png)`
 - [x] `![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)`
-
 - [ ] `![Local Visibility and Voice Notes Publishing in Telegram for iOS](https://i.snap.as/jfBVJqyw.png)`
-
 - [ ] ``
 - [ ] `![iOS Old Red Theme](https://i.snap.as/cfzQk533.png)`
-
 - [ ] `![Telegram for iOS Sharing and Notifications](https://i.snap.as/FltrCV6Z.png)`
 - [x] `![Send to Telegram Drafts Action](https://i.snap.as/p3K96LiX.png)`
 - [ ] `![Telegram in CarPlay](https://i.snap.as/0jm5rxyy.png)`
 - [x] `![Security Considerations in Telegram for iOS](https://i.snap.as/Qim9gsZZ.png)`
+- [ ] `![Telegram Privacy - InputZero](https://i.snap.as/a0xgY5cJ.png)`
 
 
 
