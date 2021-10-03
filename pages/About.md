@@ -55,3 +55,5 @@ Emailing [**davidblue@extratone.com**](mailto:davidblue@extratone.com) and/or en
 * All other social profiles of mine can be found in this "[Social Directory](https://www.notion.so/rotund/Social-Directory-aea1bee51a64461b91bf4de241a4a16d)" (which is a Notion database.)
 
 <!--emailsub-->
+
+*Technical details about this blog and the best CMS/hosting service to ever grace the web can be found on [the Colophon](https://bilge.world/colophon).*

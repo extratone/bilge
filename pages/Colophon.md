@@ -2,7 +2,9 @@
 
 ![Single Page, All of Unicode (Inverted)](https://i.snap.as/GGPoR0yN.png)
 
-## *The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. 
+## *The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web.
+
+**I truly, deeply love my host CMS/service and do not pay enough for it. Can you say the same?** Use my [invite link](https://write.as/join/4bqc8482) and give Write.as/WriteFreely a try. It [literally saved my life](https://write.as/community/chat-with-david-blue).
 
 A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. (*That means you can see [current in-progress drafts](https://github.com/extratone/bilge/tree/main/Drafts)!*)
 
@@ -10,6 +12,7 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 * Subscribe to this blog's RSS feed **[here](https://bilge.world/feed/)**.
 * This blog is federated at **@b@bilge.world**.
 * This blog is integrated with [Hypothes.is](https://hypothes.is/users/DavidBlue). (See [CJ Eller's guide](https://discuss.write.as/t/adding-comments-to-your-blog/1146).)
+* See [the Tiny version of this blog](https://tiny.write.as/bilge) if you absolutely despise my CSS.
 
 <!--emailsub-->
 
@@ -41,9 +44,3 @@ _Download The Psalms 3.0 color pack for a limited time [here](https://github.com
 ### Drafts Theme
 
 If you happen to be a user of agiletortoise’s infamous [Drafts app](https://getdrafts.com) on iOS and/or MacOS, I have just released [**a quite-uncanny theme**](https://actions.getdrafts.com/t/1km) on the new Themes Directory emulating _The Psalms_’ reading experience which I am quite pleased with.
-
-![The Psalms Firefox Theme](https://github.com/extratone/bilge/raw/main/images/firepsalms.png)
-
-### Firefox Theme
-
-* [**Firefox addons page**](https://addons.mozilla.org/addon/psalms/)
