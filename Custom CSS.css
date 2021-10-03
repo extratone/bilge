@@ -338,12 +338,18 @@ body#subpage article time.dt-published {
     font-weight: 700;
 }
 
+sup {
+    vertical-align: auto !important;
+}
+
 .footnote {
     font-family: proxima-nova-condensed, sans-serif !important;
-    font-weight: 400;
-    /* margin-left:2.5px; */
+    font-weight: 700;
+    /*vertical-align: sub !important; */
+    margin: -7px 0px 0 0 !important;
     color: #da2573 !important;
-    font-size: 0.8em;
+    font-size: 0.7em;
+    line-height: 0.1em !important;
     text-decoration:underline #FF0000;
 }
 
