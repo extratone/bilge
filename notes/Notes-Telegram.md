@@ -20,6 +20,8 @@
 
 
 ## References
+- [ ] [**Telegram Privacy Policy**](https://telegram.org/privacy)
+- [ ] [**Terms of Service**](https://telegram.org/tos)
 - [ ] [Drafts Directory: Send to Telegram](https://actions.getdrafts.com/a/18E)
 - [ ] [Telegram | The Eastern Border](https://shows.acast.com/theeasternborder/episodes/telegram)
 - [ ] [How-to: Markdown/Formatting Text in Telegram](https://telegra.ph/markdown-07-07)
@@ -68,12 +70,14 @@
 - [ ] `![Telegram in CarPlay](https://i.snap.as/0jm5rxyy.png)`
 - [x] `![Security Considerations in Telegram for iOS](https://i.snap.as/Qim9gsZZ.png)`
 - [ ] `![Telegram Privacy - InputZero](https://i.snap.as/a0xgY5cJ.png)`
+- [ ] `![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)`
+- [ ] `![TG Colors](https://i.snap.as/r0WpvFQr.png)`
+- [ ] `![Telegram Tile](https://i.snap.as/WQJGiVhY.png)`
 
 
 
 ## Media
 * [Share Sheet animation](https://imgur.com/gallery/4laWgXj) - `https://imgur.com/gallery/4laWgXj`
-
 
 [Equivalent To Drafts, But For Windows?](https://talk.automators.fm/t/equivalent-to-drafts-but-for-windows/6159/8) - Windows - Automators Talk
 

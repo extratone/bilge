@@ -56,7 +56,7 @@ Telegram message IDs are purely chronological from their channel/group chat’s 
 
 ![Orange Noir Telegram Theme by Valespace](https://i.snap.as/moymK7EY.png)
 
-## “”””Privacy””””
+## ~~Transparency~~ Opacity
 
 One of my primary justifications for the time spent in composing this Post has to do with the immediately-available discourse surrounding Telegram on the web, which is wholly incomplete, at best. The main obstruction, from my perspective, is the subject of **encryption**. Even within publications as legitimate and frankly out-of-scope as *Forbes*, one can find an article like my chosen example, from February of this year, entitled "[No, Don’t Quit WhatsApp To Use Telegram Instead—Here’s Why](https://www.forbes.com/sites/zakdoffman/2021/02/13/why-you-should-stop-using-telegram-instead-of-whatsapp-use-signal-or-apple-imessage)." It was written to address a mass "[exodus](https://www.theguardian.com/technology/2021/jan/24/whatsapp-loses-millions-of-users-after-terms-update)" of users from WhatsApp after [a grandiose misunderstanding](https://www.theverge.com/2021/1/12/22226792/whatsapp-privacy-policy-response-signal-telegram-controversy-clarification)(?) of its Privacy Policy caused a noisy controversy ([catalyzed by Idiot Melon, himself](https://twitter.com/elonmusk/status/1347165127036977153).) I've been unable to find the added/altered text, itself, in my brief reading, but it's not as if the happening wasn't thoroughly covered elsewhere. It's not that I doubt the expertise of "Cybersecurity Expert Zak Doffman" when he notes "Telegram’s cloud-based architecture is a serious risk when compared to the end-to-end default encryption deployed by Signal and WhatsApp, which also uses Signal’s protocol," nor that I do not believe the following details are as true as truth gets:
 
@@ -66,13 +66,17 @@ To this argument and the many variations of it present in Telegram for iOS' [App
 
 ![Telegram Privacy - InputZero](https://i.snap.as/a0xgY5cJ.png)
 
-![Telegram Green](https://i.snap.as/e2g09wl3.png)
+Just to be clear, I am being sincere when I acknowledge that these are genuinely problematic issues that no doubt affected real Telegram users who depend on its Secret Chat function. Even something so benign as the file path to local media storage on my device is not something I'd want piggybacking my otherwise-anonymous, NDA- and/or law-breaking messages to a journalist, for instance, but frankly, I don't know of any journalists who maintain public Telegram contacts, anyway. Come to think of it, I don't think I've *ever* seen a Telegram username publicly associated with a journalist. Indeed, the overwhelming majority of anonymous modern messenger service tip lines advertised by news organizations and news people which I've come across have all linked to Signal. 
+
+
+
+<img src="https://i.snap.as/e2g09wl3.png" alt="Telegram Green" style="zoom:25%;" />
 
 ## A Hearty Foundation
 
 
 
-
+![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)
 
 ------
 
@@ -81,4 +85,4 @@ To this argument and the many variations of it present in Telegram for iOS' [App
 [3] I *definitey* was, though. For whatever reason, I do not remember associating the term “automation” with such activities, but I just found the “receipt” for my “purchase” of [IFTTT for iOS](https://apps.apple.com/us/app/ifttt/id660944635)… From July, 2013.
 [4] I am currently working on a less-than-instant solution using iCloud and CopyQ’s clipboard sync function.
 [5] I would’ve said “one can never have too many backups,” but the result of such thinking is ridiculously wasteful and not something I actually want to encourage.
-[6] I'm almost positive I've heard of/been linked to this blog before. 
+[6] I'm almost positive I've heard of/been linked to this blog before, which is perhaps only notable in that I managed to keep my typographic opinions to myself.
