@@ -1,9 +1,12 @@
 # Notes-Telegram
 
 ## General URLs
+* **Telegram and Discord are the same age**
+* Telegram’s cross-platform, resource-frugal clients and phone number-based accounts/auth literally make it more **class mobile** than Discord.
 * What in fuck is this website… “[Telegram for iOS - NONE](http://tsfkb.wikidot.com/apps:ios)”
 * My [personal Telegram satellite GitHub Repository](https://github.com/extratone/t)
 * [Send to Telegram Drafts Action](https://actions.getdrafts.com/a/18E)
+* [r/columbiamo - Local Telegram Group Chat for Columbia](https://reddit.com/r/columbiamo/comments/c4na0v/local_telegram_group_chat_for_columbia/)
 * Relative link to messages that don't involve complex scripting.
 * Unlimited file upload limit - **2GB PER FILE LIMIT**.
 * Cross-platform as all fuck.
@@ -17,43 +20,56 @@
 
 
 ## References
-* [Drafts Directory: Send to Telegram](https://actions.getdrafts.com/a/18E)
-* [Telegram | The Eastern Border](https://shows.acast.com/theeasternborder/episodes/telegram)
-* [How-to: Markdown/Formatting Text in Telegram](https://telegra.ph/markdown-07-07)
-* [Keyboard Shortcuts · telegramdesktop/tdesktop Wiki](https://github.com/telegramdesktop/tdesktop/wiki/Keyboard-Shortcuts)
+- [ ] [Drafts Directory: Send to Telegram]
+- [ ] [(https://actions.getdrafts.com/a/18E)
+- [ ] [Telegram | The Eastern Border](https://shows.acast.com/theeasternborder/episodes/telegram)
+- [ ] [How-to: Markdown/Formatting Text in Telegram](https://telegra.ph/markdown-07-07)
+- [ ] [Keyboard Shortcuts · telegramdesktop/tdesktop Wiki](https://github.com/telegramdesktop/tdesktop/wiki/Keyboard-Shortcuts)
+- [ ] [Telegram VS Whatsapp | Hacker Noon](https://hackernoon.com/telegram-vs-whatsapp-25bf6f75c70f)
+- [ ] [Revelations in Web Starvation](https://bilge.world/bad-connection-insights)
+- [ ] [Nearby Search in Telegram Joke Tweet](https://twitter.com/neoyokel/status/1442188519309406212)
+- [ ] [Telegram tops 1 billion downloads](https://techcrunch.com/2021/08/30/telegram-tops-1-billion-downloads/)
+- [ ] [Telegram, nearing 500 million users, to begin monetizing the app – TechCrunch](https://techcrunch.com/2020/12/23/telegram-to-launch-an-ad-platform-as-it-approaches-500-million-users/)
+- [ ] “[Chat History](https://reallifemag.com/chat-history/)” - *Real Life*
+- [ ] [Why you shouldn't be using Telegram](https://tube.tchncs.de/w/2d958ef9-1be4-477c-bc13-852ec6391487)
+- [ ] [No, Don’t Quit WhatsApp To Use Telegram Instead—Here’s Why](https://www.forbes.com/sites/zakdoffman/2021/02/13/why-you-should-stop-using-telegram-instead-of-whatsapp-use-signal-or-apple-imessage) | *Forbes*
+- [ ] [Telegram, Signal Are No Match for WhatsApp and Facebook's Network Effects](https://www.bloomberg.com/opinion/articles/2021-09-02/telegram-signal-are-no-match-for-whatsapp-and-facebook-s-network-effects) | *Bloomberg*
+- [ ] [Telegram - Review 2021 - PCMag UK](https://uk.pcmag.com/iphone-apps/76144/telegram-messenger-for-iphone-review)
 
 ## Themes
 * [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
+* [SYSTEM COLORS Themes for iOS-Bound Telegram – Telegraph](https://telegra.ph/SYSTEM-COLORS-Themes-for-iOS-Bound-Telegram-09-27)
+* [SYSTEM BLUE](https://t.me/addtheme/systemblue)
+-   [SYSTEM PINK](https://t.me/addtheme/systempink)
+-   [SYSTEM PURPLE](https://t.me/addtheme/systempurple)
+-   [SYSTEM RED](https://t.me/addtheme/systemred)
+-   [SYSTEM GREEN](https://t.me/addtheme/systemgreen)
+-   [SYSTEM ORANGE](https://t.me/addtheme/systemorange)
 
 ## Channels
 * [Telegram iOS Talk](https://t.me/TelegramiOStalk)
+* [It's FOSS](https://t.me/itsfoss_official)
 
 ## Images
 
-```
-![Drake Telegram Joke](https://i.snap.as/2YhRCO0I.jpeg)
+- [x] `![White Sapphire](https://i.snap.as/aNADRjvK.png)`
+- [x] `![Telegram Green](https://i.snap.as/e2g09wl3.png)`
+- [x] `![Drake Telegram Joke](https://i.snap.as/2YhRCO0I.jpeg)`
+- [ ] `![Quartered Telegram](https://i.snap.as/387ADVNS.png)`
+- [ ] `![Quarter Telegram](https://i.snap.as/wYNY5aVO.png)`
+- [x] `![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)`
 
-![Quartered Telegram](https://i.snap.as/387ADVNS.png)
+- [ ] `![Local Visibility and Voice Notes Publishing in Telegram for iOS](https://i.snap.as/jfBVJqyw.png)`
 
-![Quarter Telegram](https://i.snap.as/wYNY5aVO.png)
+- [ ] ``
+- [ ] `![iOS Old Red Theme](https://i.snap.as/cfzQk533.png)`
 
-![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)
+- [ ] `![Telegram for iOS Sharing and Notifications](https://i.snap.as/FltrCV6Z.png)`
+- [x] `![Send to Telegram Drafts Action](https://i.snap.as/p3K96LiX.png)`
+- [ ] `![Telegram in CarPlay](https://i.snap.as/0jm5rxyy.png)`
+- [x] `![Security Considerations in Telegram for iOS](https://i.snap.as/Qim9gsZZ.png)`
 
-![Local Visibility and Voice Notes Publishing in Telegram for iOS](https://i.snap.as/jfBVJqyw.png)
 
-![Orange Noir Telegram Theme by Valespace](https://i.snap.as/moymK7EY.png)
-
-![iOS Old Red Theme](https://i.snap.as/cfzQk533.png)
-
-![Telegram for iOS Sharing and Notifications](https://i.snap.as/FltrCV6Z.png)
-
-![Send to Telegram Drafts Action](https://i.snap.as/p3K96LiX.png)
-
-![Telegram in CarPlay](https://i.snap.as/0jm5rxyy.png)
-
-![Security Considerations in Telegram for iOS](https://i.snap.as/Qim9gsZZ.png)
-
-```
 
 ## Media
 * [Share Sheet animation](https://imgur.com/gallery/4laWgXj) - `https://imgur.com/gallery/4laWgXj`

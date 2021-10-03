@@ -48,13 +48,29 @@ How exactly the service is able to maintain this virtually unrestricted storage,
 
 ## Community
 
+The one absent activity throughout my years of Telegram use - save for intermittent correspondence during one relationship - has been *messaging other users*. I managed to find and participate in a few group chats - “[Telegram iOS Talk](https://t.me/TelegramiOStalk)” and [*It's FOSS*' official channel](https://t.me/itsfoss_official), notably - in my preparation/research for this post
+
 In the past few weeks, I’ve had the privilege of watching *MacStories* relaunch their premium membership program, *Club MacStories*, on their incredible bespoke CMS. Part of this launch included their first exclusive community space, on Discord, which has been deeply rewarding for me, personally, but has also highlighted some serious limitations of that service which I not-so-long-ago [advocated so heavily for](https://bilge.world/discord-slack-comparison). Namely, **hyperlinks to specific messages** within Discord are a hopelessly problematic endeavor. Even for a public server like *Extratone*’s, navigating to a message link [like this example](https://discord.com/channels/107272441889341440/107272441889341440/893958033401593898) will require any and all users to log in to Discord on the web, which - on mobile devices, especially - seems to struggle to navigate to the precise position of the subject message after you’ve successfully done so. Slack’s public message links are smart enough at least to prompt users to open them Slack for iOS, but Telegram’s system for message links in public channels and groups makes both services look daft.
 
 Telegram message IDs are purely chronological from their channel/group chat’s creation - the first message in a channel or group chat is `1` and the 15th is `15`. Together with the simplicity of channel/group chat IDs, which are just their alphanumeric @ names, this format makes URL schemes for Telegram message links super malleable and easy to understand. The sixth message posted in the [@extratone channel](https://t.me/extratone), for instance, can be found at [https://t.me/extratone/6](https://t.me/extratone/6), which even those without Telegram installed can view natively within their web browser. Within Telegram clients, said links are ultra-responsive, regardless of whether or not one had previously “joined” the channel or group containing the message. 
 
+![Orange Noir Telegram Theme by Valespace](https://i.snap.as/moymK7EY.png)
+
+## “”””Privacy””””
+
+One of my primary justifications for the time spent in composing this Post has to do with the immediately-available discourse surrounding Telegram on the web, which is wholly incomplete, at best. The main obstruction, from my perspective, is the subject of **encryption**. Even within publications as legitimate and frankly out-of-scope as *Forbes*, one can find an article like my chosen example, from February of this year, entitled "[No, Don’t Quit WhatsApp To Use Telegram Instead—Here’s Why](https://www.forbes.com/sites/zakdoffman/2021/02/13/why-you-should-stop-using-telegram-instead-of-whatsapp-use-signal-or-apple-imessage)." It was written to address a mass exodus of users from WhatsApp 
+
+
+
 ![Telegram Green](https://i.snap.as/e2g09wl3.png)
 
 ## A Hearty Foundation
+
+
+
+
+
+------
 
 [1] I still have not accepted this, by the way. I’m still back there.
 [2] If I were to be 100% sincere, I might ask you to consider that this (hilariously brief) intent was a method of coping with the great existential truths I was facing for the first time.
