@@ -1,6 +1,6 @@
 # Notes-Telegram
 
-## General URLs
+## General
 * **Telegram and Discord are the same age**
 * Telegram’s cross-platform, resource-frugal clients and phone number-based accounts/auth literally make it more **class mobile** than Discord.
 * What in fuck is this website… “[Telegram for iOS - NONE](http://tsfkb.wikidot.com/apps:ios)”
@@ -17,6 +17,7 @@
 * Notification management in Telegram as well considered as I’ve ever experienced, which makes a lot of sense now that I am a long time user.
 * When I lost all my shit in Portland, much of what was saved was thanks to Telegram.
 * The particular features that define Telegram’s competence are not immediately obvious, for the most part. Being able to quickly change the recipient of a forwarded message, for instance,
+* Telegram is notably lacking in translation support considering it's such an international space.
 
 
 ## References
