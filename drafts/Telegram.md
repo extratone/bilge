@@ -66,7 +66,7 @@ To this argument and the many variations of it present in Telegram for iOS' [App
 
 ![Telegram Privacy - InputZero](https://i.snap.as/a0xgY5cJ.png)
 
-Just to be clear, I am being sincere when I acknowledge that these are genuinely problematic issues that no doubt affected real Telegram users who depend on its Secret Chat function. Even something so benign as the file path to local media storage on my device is not something I'd want piggybacking my otherwise-anonymous, NDA- and/or law-breaking messages to a journalist, for instance, but frankly, I don't know of any journalists who maintain public Telegram contacts, anyway. Come to think of it, I don't think I've *ever* seen a Telegram username publicly associated with a journalist. Indeed, the overwhelming majority of anonymous modern messenger service tip lines advertised by news organizations and news people which I've come across have all linked to Signal. 
+Just to be clear, I am being sincere when I acknowledge that these are genuinely problematic issues that no doubt affected real Telegram users who depend upon its Secret Chat function. Even something so benign as the file path to local media storage on my device is not something I'd want piggybacking my otherwise-anonymous, NDA- and/or law-breaking messages to a journalist, for instance, but frankly, I don't know of any journalists who maintain public Telegram contacts, anyway. Come to think of it, I don't think I've *ever* seen a Telegram username publicly associated with a journalist. Indeed, the overwhelming majority of anonymous modern messenger service tip lines advertised by news organizations and news people which I've come across have all linked to Signal. 
 
 
 
