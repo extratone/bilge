@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:pixelfalllaunch@gmail.com
+X-WR-TIMEZONE:America/Los_Angeles
+BEGIN:VEVENT
+DTSTART:20211019T170000Z
+DTEND:20211019T180000Z
+DTSTAMP:20210923T211255Z
+UID:12eerpt1fibv0guva14n64qe8h@google.com
+ATTENDEE;CUTYPE=INDIVIDUAL;ROLE=REQ-PARTICIPANT;PARTSTAT=ACCEPTED;CN=pixelf
+ alllaunch@gmail.com;X-NUM-GUESTS=0:mailto:pixelfalllaunch@gmail.com
+CREATED:20210920T210603Z
+DESCRIPTION:On October 19\, we’re officially introducing you to Pixel 6 and
+  Pixel 6 Pro—the completely reimagined Google phones. Powered by Google Ten
+ sor\, Google’s first custom mobile chip\, they’re fast\, smart and secure. 
+ And they adapt to you. #Pixel6Launch&nbsp\;<br><br>Watch this keynote\, cli
+ ck here on October 19th at 10am PT: <a href="https://pixelevent.withgoogle.
+ com/">https://pixelevent.withgoogle.com</a>&nbsp\;<br><br>Shop the Google Store: <a href="https:
+ //goo.gle/GoogleStore" id="ow561" __is_owner="true">https://goo.gle/GoogleS
+ tore</a>
+LAST-MODIFIED:20210923T210625Z
+LOCATION:
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Pixel Fall Launch
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
