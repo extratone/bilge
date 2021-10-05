@@ -74,6 +74,8 @@ Just to be clear, I am being sincere when I acknowledge that these are genuinely
 
 ## A Hearty Foundation
 
+My thinking while drafting this argument kept returning to a single, simple realization: **in age, Telegram is just two years ahead of Discord**.
+
 
 
 ![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)
