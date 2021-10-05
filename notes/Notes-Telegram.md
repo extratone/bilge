@@ -50,14 +50,14 @@
 - [ ] [Discord Was Once The Alt-Right’s Favorite Chat App. Now It’s Gone Mainstream And Scored A New $3.5 Billion Valuation](https://www.forbes.com/sites/abrambrown/2020/06/30/discord-was-once-the-alt-rights-favorite-chat-app-now-its-gone-mainstream-and-scored-a-new-35-billion-valuation) | *Forbes*
 
 ## Themes
-* [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
-* [SYSTEM COLORS Themes for iOS-Bound Telegram – Telegraph](https://telegra.ph/SYSTEM-COLORS-Themes-for-iOS-Bound-Telegram-09-27)
-* [SYSTEM BLUE](https://t.me/addtheme/systemblue)
--   [SYSTEM PINK](https://t.me/addtheme/systempink)
--   [SYSTEM PURPLE](https://t.me/addtheme/systempurple)
--   [SYSTEM RED](https://t.me/addtheme/systemred)
--   [SYSTEM GREEN](https://t.me/addtheme/systemgreen)
--   [SYSTEM ORANGE](https://t.me/addtheme/systemorange)
+- [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
+- [SYSTEM COLORS Themes for iOS-Bound Telegram – Telegraph](https://telegra.ph/SYSTEM-COLORS-Themes-for-iOS-Bound-Telegram-09-27)
+- [SYSTEM BLUE](https://t.me/addtheme/systemblue)
+- [SYSTEM PINK](https://t.me/addtheme/systempink)
+- [SYSTEM PURPLE](https://t.me/addtheme/systempurple)
+- [SYSTEM RED](https://t.me/addtheme/systemred)
+- [SYSTEM GREEN](https://t.me/addtheme/systemgreen)
+- [SYSTEM ORANGE](https://t.me/addtheme/systemorange)
 
 ## Channels
 * [Telegram iOS Talk](https://t.me/TelegramiOStalk)
@@ -84,6 +84,7 @@
 - [ ] `![Telegram Tile](https://i.snap.as/WQJGiVhY.png)`
 - [ ] `![Commments Dot App Embed](https://i.snap.as/ur3rE2pw.png)`
 - [ ] `![Location Sharing in Telegram for iOS](https://i.snap.as/FRj5GGPN.png)`
+- [ ] `![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)`
 
 
 

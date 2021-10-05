@@ -46,11 +46,17 @@ Amidst the saga of my failed move to Portland spanning 2017-2019, I ended up los
 
 How exactly the service is able to maintain this virtually unrestricted storage, infrastructurally, borders on *don’t want to know* status. My own net server impact as a user is fairly difficult to estimate, but I’d bet real paper currency it’s between 50 and 100 GB, the vast majority of which I uploaded several years ago. Within any mainstream cloud file storage service - Dropbox, Google Drive, Box, iCloud, etc. - the cost of storing that amount *over time* would have added up to a not-insignificant chunk of change. I don’t want to advocate for Telegram as a cloud storage replacement for loaded cheapskates, but for working-class users on a $0 budget, it can be counted upon to keep large files in a relatively shareable, ultra cross-platform, and super-accessible manner. Students, especially, should take note.
 
+![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)
+
 ## Community
 
 The one absent activity throughout my years of Telegram use - save for intermittent correspondence during one relationship - has been *messaging other users*. I managed to find and participate in a few group chats - “[Telegram iOS Talk](https://t.me/TelegramiOStalk)” and [*It's FOSS*' official channel](https://t.me/itsfoss_official), notably - in my preparation/research for this post
 
 In the past few weeks, I’ve had the privilege of watching *MacStories* relaunch their premium membership program, *Club MacStories*, on their incredible bespoke CMS. Part of this launch included their first exclusive community space, on Discord, which has been deeply rewarding for me, personally, but has also highlighted some serious limitations of that service which I not-so-long-ago [advocated so heavily for](https://bilge.world/discord-slack-comparison). Namely, **hyperlinks to specific messages** within Discord are a hopelessly problematic endeavor. Even for a public server like *Extratone*’s, navigating to a message link [like this example](https://discord.com/channels/107272441889341440/107272441889341440/893958033401593898) will require any and all users to log in to Discord on the web, which - on mobile devices, especially - seems to struggle to navigate to the precise position of the subject message after you’ve successfully done so. Slack’s public message links are smart enough at least to prompt users to open them Slack for iOS, but Telegram’s system for message links in public channels and groups makes both services look daft.
+
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/Voice%20Notes/DiscordFuckery.mp3">
+</audio>
 
 Telegram message IDs are purely chronological from their channel/group chat’s creation - the first message in a channel or group chat is `1` and the 15th is `15`. Together with the simplicity of channel/group chat IDs, which are just their alphanumeric @ names, this format makes URL schemes for Telegram message links super malleable and easy to understand. The sixth message posted in the [@extratone channel](https://t.me/extratone), for instance, can be found at [https://t.me/extratone/6](https://t.me/extratone/6), which even those without Telegram installed can view natively within their web browser. Within Telegram clients, said links are ultra-responsive, regardless of whether or not one had previously “joined” the channel or group containing the message. 
 
