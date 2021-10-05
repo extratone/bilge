@@ -18,6 +18,7 @@
 * When I lost all my shit in Portland, much of what was saved was thanks to Telegram.
 * The particular features that define Telegram’s competence are not immediately obvious, for the most part. Being able to quickly change the recipient of a forwarded message, for instance,
 * Telegram is notably lacking in translation support considering it's such an international space.
+* Microsoft Teams needs to be considered as an alternative since it's being so heavily emphasized for *personal use* in Windows 11.
 
 
 ## References
@@ -41,6 +42,12 @@
 - [ ] [Mandatory WhatsApp Privacy Policy Update Allows User Data to be Shared With Facebook - MacRumors](https://www.macrumors.com/2021/01/06/whatsapp-privacy-policy-data-sharing-facebook/)
 - [ ] [WhatsApp clarifies privacy practices after surge in Signal and Telegram users - The Verge](https://www.theverge.com/2021/1/12/22226792/whatsapp-privacy-policy-response-signal-telegram-controversy-clarification)
 - [ ] [The "P" in Telegram stands for Privacy ~ inputzero](https://www.inputzero.io/2020/12/telegram-privacy-fails-again.html)
+- [ ] [What’s Next for Communities at Discord](https://discord.com/blog/whats-next-for-communities-at-discord)
+- [ ] [An Update on Our Business](https://discord.com/blog/an-update-on-our-business)
+- [ ] [Happy Blurpthday to Discord, a Place for Everything You Can Imagine | by Nelly | Discord Blog](https://blog.discord.com/happy-blurpthday-to-discord-a-place-for-everything-you-can-imagine-fc99ee0a77c0)
+- [ ] [How Discord (somewhat accidentally) invented the future of the internet - Protocol — The people, power and politics of tech](https://www.protocol.com/discord)
+- [ ] [What Is Everybody Doing on Discord? - WSJ](https://www.wsj.com/articles/a-social-network-without-ads-discord-defies-convention-11615199401)
+- [ ] [Discord Was Once The Alt-Right’s Favorite Chat App. Now It’s Gone Mainstream And Scored A New $3.5 Billion Valuation](https://www.forbes.com/sites/abrambrown/2020/06/30/discord-was-once-the-alt-rights-favorite-chat-app-now-its-gone-mainstream-and-scored-a-new-35-billion-valuation) | *Forbes*
 
 ## Themes
 * [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
