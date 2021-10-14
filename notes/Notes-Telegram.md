@@ -19,6 +19,8 @@
 * The particular features that define Telegram’s competence are not immediately obvious, for the most part. Being able to quickly change the recipient of a forwarded message, for instance,
 * Telegram is notably lacking in translation support considering it's such an international space.
 * Microsoft Teams needs to be considered as an alternative since it's being so heavily emphasized for *personal use* in Windows 11.
+* The **cost** of Telegram vs. Discord Nitro, now.
+* [[SI on Discord Regarding Objective-C and Swift]]
 
 
 ## References
@@ -48,6 +50,7 @@
 - [ ] [How Discord (somewhat accidentally) invented the future of the internet - Protocol — The people, power and politics of tech](https://www.protocol.com/discord)
 - [ ] [What Is Everybody Doing on Discord? - WSJ](https://www.wsj.com/articles/a-social-network-without-ads-discord-defies-convention-11615199401)
 - [ ] [Discord Was Once The Alt-Right’s Favorite Chat App. Now It’s Gone Mainstream And Scored A New $3.5 Billion Valuation](https://www.forbes.com/sites/abrambrown/2020/06/30/discord-was-once-the-alt-rights-favorite-chat-app-now-its-gone-mainstream-and-scored-a-new-35-billion-valuation) | *Forbes*
+- [ ] [Location-Based Chats, Adding Contacts Without Phone Numbers and More](https://telegram.org/blog/contacts-local-groups)
 
 ## Themes
 - [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
