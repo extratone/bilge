@@ -51,6 +51,8 @@
 - [ ] [What Is Everybody Doing on Discord? - WSJ](https://www.wsj.com/articles/a-social-network-without-ads-discord-defies-convention-11615199401)
 - [ ] [Discord Was Once The Alt-Right’s Favorite Chat App. Now It’s Gone Mainstream And Scored A New $3.5 Billion Valuation](https://www.forbes.com/sites/abrambrown/2020/06/30/discord-was-once-the-alt-rights-favorite-chat-app-now-its-gone-mainstream-and-scored-a-new-35-billion-valuation) | *Forbes*
 - [ ] [Location-Based Chats, Adding Contacts Without Phone Numbers and More](https://telegram.org/blog/contacts-local-groups)
+- [ ] [React Native Newsletter](https://web.archive.org/web/20151207004934/http://brentvatne.ca/react-native-newsletter/07-09-2015.html) (Discord's iOS app originally launched in React Native.)
+- [ ] [Why Discord is Sticking with React Native | by Fanghao (Robin) Chen](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427) | Discord Blog
 
 ## Themes
 - [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
@@ -82,7 +84,7 @@
 - [ ] `![Telegram in CarPlay](https://i.snap.as/0jm5rxyy.png)`
 - [x] `![Security Considerations in Telegram for iOS](https://i.snap.as/Qim9gsZZ.png)`
 - [ ] `![Telegram Privacy - InputZero](https://i.snap.as/a0xgY5cJ.png)`
-- [ ] `![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)`
+- [x] `![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)`
 - [ ] `![TG Colors](https://i.snap.as/r0WpvFQr.png)`
 - [ ] `![Telegram Tile](https://i.snap.as/WQJGiVhY.png)`
 - [ ] `![Commments Dot App Embed](https://i.snap.as/ur3rE2pw.png)`

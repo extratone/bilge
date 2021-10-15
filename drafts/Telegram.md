@@ -82,11 +82,11 @@ The question I would like to surface: **what if I have no use for encryption or 
 
 ## A Hearty Foundation
 
-My thinking while drafting this argument kept returning to a single, simple realization: **in age, Telegram is just two years ahead of Discord**.
-
-
+My thinking while drafting this argument kept returning to a single, simple realization: **in age, Telegram is just two years ahead of Discord**, yet the various software distributed by the two organizations for their respective services represent quite disparate opinions in design terms. Discord's desktop "application" is an Electron app - [Telegram](https://github.com/telegramdesktop/tdesktop)'s is virtually pure C++. [Telegram's iOS app](https://github.com/TelegramMessenger/Telegram-iOS) is mostly written in Objective-C (I'm to assume the 30.8% Swift code number on the repo as of this writing is mostly comprised of its widgets/other recent iOS-specific integrations,) while Discord's is mostly ???. That is, because Discord's software is proprietary and the source is closed, all I can tell you is that it was written in React Native [as of December, 2018](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427). What I *can* tell you is that the current build of [Discord for iOS on the App Store](https://apps.apple.com/us/app/discord-talk-chat-hangout/id985746746) weighs in at 153.2 MB - significantly less than [Telegram's](https://apps.apple.com/us/app/telegram-messenger/id686449807) 185.1 MB.
 
 ![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)
+
+
 
 ------
 
