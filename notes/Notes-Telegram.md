@@ -51,7 +51,7 @@
 - [ ] [What Is Everybody Doing on Discord? - WSJ](https://www.wsj.com/articles/a-social-network-without-ads-discord-defies-convention-11615199401)
 - [ ] [Discord Was Once The Alt-Right’s Favorite Chat App. Now It’s Gone Mainstream And Scored A New $3.5 Billion Valuation](https://www.forbes.com/sites/abrambrown/2020/06/30/discord-was-once-the-alt-rights-favorite-chat-app-now-its-gone-mainstream-and-scored-a-new-35-billion-valuation) | *Forbes*
 - [ ] [Location-Based Chats, Adding Contacts Without Phone Numbers and More](https://telegram.org/blog/contacts-local-groups)
-- [ ] [React Native Newsletter](https://web.archive.org/web/20151207004934/http://brentvatne.ca/react-native-newsletter/07-09-2015.html) (Discord's iOS app originally launched in React Native.)
+- [x] [React Native Newsletter](https://web.archive.org/web/20151207004934/http://brentvatne.ca/react-native-newsletter/07-09-2015.html) (Discord's iOS app originally launched in React Native.)
 - [x] [Why Discord is Sticking with React Native | by Fanghao (Robin) Chen](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427) | Discord Blog
 - [ ] [Clearing Cache and Reordering Stickers](https://telegram.org/blog/cache-and-stickers) | Telegram Blog
 - [x] [Voice Chats 2.0: Channels, Millions of Listeners, Recorded Chats, Admin Tools](https://telegram.org/blog/voice-chats-on-steroids) | Telegram Blog
