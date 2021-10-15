@@ -46,13 +46,13 @@ Amidst the saga of my failed move to Portland spanning 2017-2019, I ended up los
 
 How exactly the service is able to maintain this virtually unrestricted storage, infrastructurally, borders on *don’t want to know* status. My own net server impact as a user is fairly difficult to estimate, but I’d bet real paper currency it’s between 50 and 100 GB, the vast majority of which I uploaded several years ago. Within any mainstream cloud file storage service - Dropbox, Google Drive, Box, iCloud, etc. - the cost of storing that amount *over time* would have added up to a not-insignificant chunk of change. I don’t want to advocate for Telegram as a cloud storage replacement for loaded cheapskates, but for working-class users on a $0 budget, it can be counted upon to keep large files in a relatively shareable, ultra cross-platform, and super-accessible manner. Students, especially, should take note.
 
-![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)
+![Local Visibility and Voice Notes Publishing in Telegram for iOS](https://i.snap.as/jfBVJqyw.png)
 
 ## Community
 
 At this point in my life, I must acknowledge to both readers and myself that **I am completely inept at community organization**. Especially when it comes to grand suggestions about how I suppose online communities might be ideally-run or just better served by particular software environments and configurations, I have literally received *zero* positive feedback, and not because I haven’t spent significant time positing publicly within the space. I spent the first half of my twenties trying to Peter Pan an independent online music magazine into existence, written by fresh-minded youths on the fringe at 140% throttle and managed to accomplish startlingly little for my all my invested time and gumption. The relevant component of that tale was a significant and all-out commitment from the beginning to run the whole project entirely within Discord. 
 
-The one absent activity throughout my years of Telegram use - save for intermittent correspondence during one relationship - has been *messaging other users*. I managed to find and participate in a few group chats - “[Telegram iOS Talk](https://t.me/TelegramiOStalk)” and [*It's FOSS*' official channel](https://t.me/itsfoss_official), notably - in my preparation/research for this post. I’ve discovered plenty of new clever bits, like the button to jump to one’s nearest mention in a chat. I’ve also done my best to actually apply some [much-needed administrative attention](https://t.me/columbiamo/7774) to [my years-old attempt](https://reddit.com/r/columbiamo/comments/c4na0v/local_telegram_group_chat_for_columbia/) at creating the [definitive location-based local group chat](https://telegram.org/blog/contacts-local-groups) for the Mid-Missouri area where I live. Truthfully… It hasn’t exactly gone as I’d hoped, but the failures have been all my own. I have yet to find a satisfactory balance in terms of moderation bots, so I’ve (as of this writing) resorted to manually removing the (significant) spam bot traffic by hand. Also, I must admit that I’ve never had to do so more than once or twice on *Extratone*’s public Discord, despite how much more circulation its public, open invite links have received.
+The one absent activity throughout my years of Telegram use - save for intermittent correspondence during one relationship - has been *messaging other users*. I managed to find and participate in a few group chats - “[Telegram iOS Talk](https://t.me/TelegramiOStalk)” and [*It's FOSS*' official channel](https://t.me/itsfoss_official), notably - in my preparation/research for this post. I’ve discovered plenty of new clever bits, like the button to jump to one’s nearest mention in a chat. I’ve also done my best to actually apply some [much-needed administrative attention](https://t.me/columbiamo/7774) to [my years-old attempt](https://reddit.com/r/columbiamo/comments/c4na0v/local_telegram_group_chat_for_columbia) at creating the [definitive location-based local group chat](https://telegram.org/blog/contacts-local-groups) for the Mid-Missouri area where I live. Truthfully… It [hasn’t exactly gone as I’d hoped](https://reddit.com/r/columbiamo/comments/q0843f/local_telegram_group_chat), but the failures have been all my own. I have yet to find a satisfactory balance in terms of moderation bots, so I’ve (as of this writing) resorted to manually removing the (significant) spam bot traffic by hand. Also, I must admit that I’ve never had to do so more than once or twice on *Extratone*’s public Discord, despite how much more circulation its public, open invite links have received.
 
 In the past few weeks, I’ve had the privilege of watching *MacStories* relaunch their premium membership program, *Club MacStories*, on their incredible bespoke CMS. Part of this launch included their first exclusive community space, on Discord, which has been deeply rewarding for me, personally, but has also highlighted some serious limitations of that service which I not-so-long-ago [advocated so heavily for](https://bilge.world/discord-slack-comparison). Namely, **hyperlinks to specific messages** within Discord are a hopelessly problematic endeavor. Even for a public server like *Extratone*’s, navigating to a message link [like this example](https://discord.com/channels/107272441889341440/107272441889341440/893958033401593898) will require any and all users to log in to Discord on the web, which - on mobile devices, especially - seems to struggle to navigate to the precise position of the subject message after you’ve successfully done so. Slack’s public message links are smart enough at least to prompt users to open them Slack for iOS, but Telegram’s system for message links in public channels and groups makes both services look daft.
 
@@ -63,6 +63,46 @@ In the past few weeks, I’ve had the privilege of watching *MacStories* relaunc
 Telegram message IDs are purely chronological from their channel/group chat’s creation - the first message in a channel or group chat is `1` and the 15th is `15`. Together with the simplicity of channel/group chat IDs, which are just their alphanumeric @ names, this format makes URL schemes for Telegram message links super malleable and easy to understand. The sixth message posted in the [@extratone channel](https://t.me/extratone), for instance, can be found at [https://t.me/extratone/6](https://t.me/extratone/6), which even those without Telegram installed can view natively within their web browser. Within Telegram clients, said links are ultra-responsive, regardless of whether or not one had previously “joined” the channel or group containing the message. 
 
 ![Orange Noir Telegram Theme by Valespace](https://i.snap.as/moymK7EY.png)
+
+In MacStories’ case, there’s another essential point of reference. When I pinged the staff in their Discord regarding their experiences running [their now-abandoned Telegram channel](https://t.me/MacStories), John Voorhees replied:
+
+> I don't really have anything to say about Telegram one way or the other. We ran it for a short time 5 years ago as an experiment and it didn't stick.
+
+I wasn’t yet a subscriber in those days, but little details like [behind-the-scenes voice messages](https://t.me/MacStories/281) are definitely missed. [Federico’s initial audio introduction](https://t.me/MacStories/39) describes a potential for the channel I wish more readers had enjoyed. They’re much more intimate, even, than the publication’s new exluclusive Town Hall events on Discord, which doesn’t make much sense, I know. 
+
+![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)
+
+Admittedly, another attention-grabbing feature that contributed to my finally getting around to this Post was [the introduction of "Live Streams" for channels and groups](https://telegram.org/blog/live-streams-forwarding-next-channel) (really just a slight augmentation of their ["Voice Chats 2.0" features](https://telegram.org/blog/voice-chats-on-steroids)) at the very end of this past August. Discord, of course, was way ahead of Telegram in implementing Voice Chats and Screen Sharing [back in October of 2017](https://youtu.be/mMloc55o1jc), and it's long since become one of the services' core features. However, *recording* live content of any kind is not natively supported, though there is a [handy utility bot named Craig](https://craig.chat) who can accomplish this for you. For the sake of transparency, I should admit that not a single one of my live streams on Discord has actually included any viewership, but I have participated in a handful of others’ and viewed a couple dozen.
+
+https://twitter.com/NeoYokel/status/1448837428534521858
+
+For the past few months or so, participating in any sort of voice or video chat in Discord desktop has led to [a spectacular relaunch loop](https://twitter.com/NeoYokel/status/1448837428534521858) that can only be solved by reinstalling the application, entirely.[^7] It’s not that Discord for iOS’ now full support for such streaming - both in terms of participation and simple viewership - isn’t impressive, but honestly, *Telegram* for iOS’ superiority should be immediately obvious to anyone who’s tried them both, recently. Not just in pure capacity’s sense, but in moderation tools, shared link customization, and, obviously, native recording support. I’ve embedded two recordings of different test streams of mine, below. [The first](https://t.me/extratone/7054) (embedded in [YouTube form](https://youtu.be/uhXZZBl0fn8),) was streamed from both my Surface Laptop 2 and iPhone 12 Pro Max.
+
+https://www.youtube.com/watch?v=uhXZZBl0fn
+
+[The second](https://t.me/extratone/7196) is a very brief recording (in native form [directly from *The Psalms*’ GitHub Repo](https://github.com/extratone/bilge/raw/main/video/TelegramiOSLiveStreamTest.mp4)) of a stream I did *just* from the share screen function of my phone, in the wrong orientation.[^8]
+
+<video controls>
+  <source src="https://github.com/extratone/bilge/raw/main/video/TelegramiOSLiveStreamTest.mp4">
+</video>
+
+Below is a screenshot of the recorded file’s metadata (as provided by Telegram for Windows.) 
+
+![Telegram Live Stream Meta](https://i.snap.as/oDQqSYHF.png)
+
+As you might note, there’s definitely something to be desired from the quality of Telegram’s stream recordings, especially in its included audio. I find it a bit strange that it’s recorded in 48 kHz just to be compressed down to *46kbps*. When you’ve stopped a recording, you’ll receive both the video file and just the extracted audio in an .ogg file. Unfortunately, the latter is no less compressed than it is combined in the video file. Aside from a boost in audio quality, though, Discord’s default 720p base resolution is matched by Telegram. Via server boosts, this figure can be upgraded significantly, though the end result is quite costly. According to [a not necessarily trustworthy site](https://clutchpoints.com/discord-server-boost-cost/), [accounting for Discord’s recent reduction in boost requirements](https://www.facebook.com/discord/posts/4524749577592737), here’s the pricing laydown to boost a server (per month:) 
+
+> …a total of $34.93 for Level 2 and $69.86 for Level 3. That’s $24.45 for Level 2 and $48.90 for Level 3 for Nitro subscribers.
+
+Among quite a few other abilities, here are the extracted audio/video requirements per server level **only**:
+
+1. 128kbps audio/720p video upped to 60fps
+2. 256kbps audio/1080p 60fps video
+3. 384kpbs audio/no video boost
+
+So, if I had the spare change to maintain a level 2 boost for *Extratone*’s Discord server, myself, I could do so for $34.93 per month, which would allow me to *stream* (not necessarily *record*) in 1080p/60fps video and 256kbps audio to up to [50 viewers](https://support.discord.com/hc/en-us/articles/360040816151-Go-Live-and-Screen-Share) (as of this writing.) 
+
+![TG Colors](https://i.snap.as/r0WpvFQr.png)
 
 ## ~~Transparency~~ Opacity
 
@@ -78,20 +118,6 @@ Just to be clear, I am being sincere when I acknowledge that these are genuinely
 
 The question I would like to surface: **what if I have no use for encryption or privacy across my purposes for Telegram**? *All* the channels I have ever engaged with have been public, and those private ones I’ve come across have either been shady crypto spam channels or shady porn channels. I realize this doesn’t exactly reflect positively on Telegram’s community, but - as I argued regarding Discord, long ago - why let the community or even the app’s branding, itself, confine how you use it as a utility?
 
-![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)
-
-Admittedly, another attention-grabbing feature that contributed to my finally getting around to this Post was [the introduction of "Live Streams" for channels and groups](https://telegram.org/blog/live-streams-forwarding-next-channel) (really just a slight augmentation of their ["Voice Chats 2.0" features](https://telegram.org/blog/voice-chats-on-steroids)) at the very end of this past August. Discord, of course, was way ahead of Telegram in implementing Voice Chats and Screen Sharing [back in October of 2017](https://youtu.be/mMloc55o1jc), and it's long since become one of the services' core features. However, *recording* live content of any kind is not natively supported, though there is a [handy utility bot named Craig](https://craig.chat) who can accomplish this for you.
-
- In [my most recent test stream](https://t.me/extratone/7054) (embedded below [from YouTube](https://youtu.be/uhXZZBl0fn8))
-
-https://www.youtube.com/watch?v=uhXZZBl0fn
-
-
-
-![Telegram Live Stream Meta](https://i.snap.as/oDQqSYHF.png)
-
-![TG Colors](https://i.snap.as/r0WpvFQr.png)
-
 ## A Hearty Foundation
 
 My thinking while drafting this argument kept returning to a single, simple realization: **in age, Telegram is just two years ahead of Discord**, yet the various software distributed by the two organizations for their respective services represent quite disparate opinions in design terms. [Discord's desktop "application"](https://discord.com/download) is an Electron app - [Telegram's](https://github.com/telegramdesktop/tdesktop) is virtually pure C++. [Telegram's iOS app](https://github.com/TelegramMessenger/Telegram-iOS) is mostly written in Objective-C (I'm to assume the 30.8% Swift code number on the repo as of this writing is mostly comprised of its widgets/other recent iOS-specific integrations,) while Discord's is mostly ???. That is, because Discord's software is proprietary and the source is closed, all I can tell you is that it was written in React Native [as of December, 2018](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427). What I *can* tell you is that the current build of [Discord for iOS on the App Store](https://apps.apple.com/us/app/discord-talk-chat-hangout/id985746746) weighs in at 153.2 MB - significantly less than [Telegram's](https://apps.apple.com/us/app/telegram-messenger/id686449807) 185.1 MB. As I've noted plenty of times this year, **I am not a software developer** and therefore I can't promise you an app's initial payload size is actually all that relevant, but I was surprised to see Telegram wasn't slimmer than Discord, given how the two apps behave and my previous experiences with the platform, this year. 
@@ -99,12 +125,11 @@ My thinking while drafting this argument kept returning to a single, simple real
 ![Storage Management - Telegram for iOS](https://i.snap.as/BecGI6kg.png)
 
 
+Returning to the topic of their age… In its eight operating years, Telegram has embarked upon - and *actually completed*! - a gargantuan amount of projects. Telegraph, the CMS, its Web, Android, and LInux clients, [embeddedable comments widgets](https://comments.app), its online theme creation tool, and on and on. Across their various types, Telegram’s software is universally simple, frugal, robust, and easy-to-use. Frankly, by contrast, Discord has done *nothing*? Though you’ll find openly-available solutions to accomplish much of what you can on Telegram in terms of moderation and other utilitarian concerns, like the aforementioned Craig bot, they are *all* the work of third-parties. While Discord the *company* is much more [transparently profiled](https://discord.com/company) on the web than “Telegram FZ LLC,” the latter’s actual work is very well documented [across GitHub](https://github.com/TelegramMessenger). 
 
 
 
 ![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)
-
-https://twitter.com/NeoYokel/status/1448837428534521858
 
 ------
 
@@ -114,3 +139,5 @@ https://twitter.com/NeoYokel/status/1448837428534521858
 [4] I am currently working on a less-than-instant solution using iCloud and CopyQ’s clipboard sync function.
 [5] I would’ve said “one can never have too many backups,” but the result of such thinking is ridiculously wasteful and not something I actually want to encourage.
 [6] I'm almost positive I've heard of/been linked to this blog before, which is perhaps only notable in that I managed to keep my typographic opinions to myself.
+[7] Not that the process of doing so could be any easier on Windows.
+[8] It’s also worth nothing that [word of screen sharing framerate issues](https://t.me/TelegramiOStalk/104997) was circulating at the time of this recording.
