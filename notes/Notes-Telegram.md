@@ -58,6 +58,8 @@
 - [x] [Live Streams, Flexible Forwarding, Jump to Next Channel, Trending Stickers and More](https://telegram.org/blog/live-streams-forwarding-next-channel) | Telegram Blog
 - [ ] [The Dawn of Video Has Come](https://blog.discord.com/5-10-2017-change-log-80f10c621c64) | Discord Blog
 - [ ] "[Discord Screen Sharing and Video Chat](https://youtu.be/mMloc55o1jc)" - `https://www.youtube.com/watch?v=mMloc55o1jc`
+- [ ] [Discord Server Boost: How much does it cost to boost a Discord Server?](https://clutchpoints.com/discord-server-boost-cost/)
+> A single boost costs $4.99 a month, and any member of the Discord Server can contribute. If you’re a Discord Nitro subscriber, you get a 30% discount on all Discord Server Boost purchases. Recently, Discord introduced lower thresholds for upgrading Discord Server Levels. Before, it takes 15 server boosts to achieve Level 2, and 30 server boosts to reach Level 3. But in a recent update, it will now only take 7 server boosts to reach Level 2, and 14 boosts to reach Level 3. That’d be a total of $34.93 for Level 2 and $69.86 for Level 3. That’s $24.45 for Level 2 and $48.90 for Level 3 for Nitro subscribers.
 
 ## Themes
 - [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
@@ -72,6 +74,7 @@
 ## Channels
 * [Telegram iOS Talk](https://t.me/TelegramiOStalk)
 * [It's FOSS](https://t.me/itsfoss_official)
+* [Mastodon Club](https://t.me/mastodonclub)
 
 ## Images
 
@@ -107,6 +110,7 @@
 
 * [ ] Static location sharing just sends a Lat-Long Google Maps URL: `https://maps.google.com/maps?q=38.934018,-92.388035&ll=38.934018,-92.388035&z=16`
 * [ ] "[I don't really have anything to say about Telegram one way or the other. We ran it for a short time 5 years ago as an experiment and it didn't stick](https://discord.com/channels/836622115435184162/836622115880828961/898380609993449502)." - John Voorhees, *MacStories*
+* [ ] [New Telegram Group Chat thread in r/columbiamo](https://reddit.com/r/columbiamo/comments/q0843f/local_telegram_group_chat/)
 
 
 
@@ -118,6 +122,7 @@
 ## Media
 * [Share Sheet animation](https://imgur.com/gallery/4laWgXj) - `https://imgur.com/gallery/4laWgXj`
 * [Windows 11 Release Wake (Stream)](https://t.me/extratone/7054) - `https://t.me/extratone/7054`
+* Apparently screen sharing to live video on iOS [is experiencing frame rate issues](https://t.me/TelegramiOStalk/104997).
 
 
 
