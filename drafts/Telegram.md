@@ -64,13 +64,15 @@ Telegram message IDs are purely chronological from their channel/group chat’s 
 
 ![Orange Noir Telegram Theme by Valespace](https://i.snap.as/moymK7EY.png)
 
-In MacStories’ case, there’s another essential point of reference. When I pinged the staff in their Discord regarding their experiences running [their now-abandoned Telegram channel](https://t.me/MacStories), John Voorhees replied:
+In *MacStories*’ case, there’s another essential point of reference. When I pinged the staff in their Discord regarding their experiences running [their now-abandoned Telegram channel](https://t.me/MacStories), John Voorhees replied:
 
 > I don't really have anything to say about Telegram one way or the other. We ran it for a short time 5 years ago as an experiment and it didn't stick.
 
 I wasn’t yet a subscriber in those days, but little details like [behind-the-scenes voice messages](https://t.me/MacStories/281) are definitely missed. [Federico’s initial audio introduction](https://t.me/MacStories/39) describes a potential for the channel I wish more readers had enjoyed. They’re much more intimate, even, than the publication’s new exluclusive Town Hall events on Discord, which doesn’t make much sense, I know. 
 
 ![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)
+
+### Streaming
 
 Admittedly, another attention-grabbing feature that contributed to my finally getting around to this Post was [the introduction of "Live Streams" for channels and groups](https://telegram.org/blog/live-streams-forwarding-next-channel) (really just a slight augmentation of their ["Voice Chats 2.0" features](https://telegram.org/blog/voice-chats-on-steroids)) at the very end of this past August. Discord, of course, was way ahead of Telegram in implementing Voice Chats and Screen Sharing [back in October of 2017](https://youtu.be/mMloc55o1jc), and it's long since become one of the services' core features. However, *recording* live content of any kind is not natively supported, though there is a [handy utility bot named Craig](https://craig.chat) who can accomplish this for you. For the sake of transparency, I should admit that not a single one of my live streams on Discord has actually included any viewership, but I have participated in a handful of others’ and viewed a couple dozen.
 
@@ -101,6 +103,14 @@ Among quite a few other abilities, here are the extracted audio/video requiremen
 3. 384kpbs audio/no video boost
 
 So, if I had the spare change to maintain a level 2 boost for *Extratone*’s Discord server, myself, I could do so for $34.93 per month, which would allow me to *stream* (not necessarily *record*) in 1080p/60fps video and 256kbps audio to up to [50 viewers](https://support.discord.com/hc/en-us/articles/360040816151-Go-Live-and-Screen-Share) (as of this writing.) Theoretically, at no cost, I can stream with virtually identical features (though I prefer Telgram's) to my Telegram channel to [infinitely many users](https://telegram.org/blog/live-streams-forwarding-next-channel#unlimited-live-streams) in 1280p/30fps with absurdly low-quality audio and share/manipulate recordings natively/instantly from within any Telegram client. If I were All Powerful, I would make all the members of my "[Family Tech Support](https://bilge.world/ios-15-family-review)" iMessage group install Telegram on their devices so we could use it, instead. I would also make them collectively attend occasional live streams, where they could ask questions verbally of my demonstrations sharing my own screen, or even share their own screens to demonstrate an issue or provide context for a question. The reality, though, is that I do not expect any sort of anticipation for my personal live help events on any platform, which innately suggests Telegram over Discord, I'd argue, for when I *do* stream such content, given its total lack of investment.[^9]
+
+![Chat Export in Telegram Desktop](https://i.snap.as/TbPFRPnG.png)
+
+### Permanence
+
+I've long evangelized (and extensively used) Alexey Golub's [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) to make beautiful, stylized archives of Discord channels and/or entire servers for safekeeping. Telegram's native [Chat Export Tool](https://telegram.org/blog/export-and-more) came just a year after Alexey pushed [version 1.0 of the tool to GitHub](https://github.com/Tyrrrz/DiscordChatExporter/releases/tag/1.0.0), in August of 2018. In features, they're very similar utilities: both can export in either stylized HTML or data-only JSON formats between infinitely-configurable time/date constraints.
+
+
 
 ![TG Colors](https://i.snap.as/r0WpvFQr.png)
 
