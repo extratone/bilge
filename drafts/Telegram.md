@@ -104,6 +104,20 @@ Among quite a few other abilities, here are the extracted audio/video requiremen
 
 So, if I had the spare change to maintain a level 2 boost for *Extratone*’s Discord server, myself, I could do so for $34.93 per month, which would allow me to *stream* (not necessarily *record*) in 1080p/60fps video and 256kbps audio to up to [50 viewers](https://support.discord.com/hc/en-us/articles/360040816151-Go-Live-and-Screen-Share) (as of this writing.) Theoretically, at no cost, I can stream with virtually identical features (though I prefer Telgram's) to my Telegram channel to [infinitely many users](https://telegram.org/blog/live-streams-forwarding-next-channel#unlimited-live-streams) in 1280p/30fps with absurdly low-quality audio and share/manipulate recordings natively/instantly from within any Telegram client. If I were All Powerful, I would make all the members of my "[Family Tech Support](https://bilge.world/ios-15-family-review)" iMessage group install Telegram on their devices so we could use it, instead. I would also make them collectively attend occasional live streams, where they could ask questions verbally of my demonstrations sharing my own screen, or even share their own screens to demonstrate an issue or provide context for a question. The reality, though, is that I do not expect any sort of anticipation for my personal live help events on any platform, which innately suggests Telegram over Discord, I'd argue, for when I *do* stream such content, given its total lack of investment.[^9]
 
+![Location Sharing in Telegram for iOS](https://i.snap.as/FRj5GGPN.png)
+
+### Location Sharing
+
+One of Telegram's most unique (and potentially powerful, I believe) community features is [Live Location Sharing](https://telegram.org/blog/live-locations) on its mobile apps. Borned by Siberian native developer [Roman Pushkin](https://twitter.com/romanpushkin), LibreTaxi is the single truly exciting open ridesharing alternative I've ever encountered.[^10] As [an item for *CBC radio* from 2015](https://www.cbc.ca/radio/spark/346-biometrics-audio-intelligence-and-more-1.3987746/the-man-who-wants-to-out-uber-uber-1.3987987) (among other assorted coverage compiled [here](https://telegra.ph/LibreTaxi-press-coverage-07-14) as of July, 2017) explains, it utilizes Telegram's live location sharing functions to act as a decentralized Uber/Lyft alternative in the form of [a bot](https://telegram.me/libretaxi_bot), which connects users needing a ride with users providing them, free of any fees or service charges. Discourse surrounding LibreTaxi has been silent for years, but [this channel](https://t.me/s/libretaxi_all) tracking all LibreTaxi orders in realtime is proof that it *really is* helping folks get around.
+
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/The%20man%20who%20wants%20to%20out-Uber%20Uber-CBC.mp3">
+</audio>
+As for the persistence of *Live* location-sharing, I can vouch for its reliability on the Android side, at least, as per my aforementioned experience with a partner who used Telegram and shared their location with me for both safety and convenience. As someone with the most immense possible privilege regarding safety and dating, I would also like to suggest sharing one's live location with a private Telegram group chat with friends as an alternative to service's like [Tinder's Noonlight](https://www.help.tinder.com/hc/en-us/articles/360039260031-What-is-Noonlight-).
+
+
+
+
 ![Chat Export in Telegram Desktop](https://i.snap.as/TbPFRPnG.png)
 
 ### Permanence
@@ -152,3 +166,4 @@ Returning to the topic of their age… In its eight operating years, Telegram ha
 [7] Not that the process of doing so could be any easier on Windows.
 [8] It’s also worth nothing that [word of screen sharing framerate issues](https://t.me/TelegramiOStalk/104997) was circulating at the time of this recording.
 [9] Simulcast services like [Happs](https://happs.tv/@DavidBlue) - which still exists, astonishingly - offer an intriguing utility for those intending to stream regularly and wishing to do so across multiple platforms. It does not, at the moment, support either Telegram or Discord.
+[10] Speaking as someone with [actual extensive ridesharing experience](https://dieselgoth.com/volkswagen-jetta-sportwagen-tdi-review.html), notably.

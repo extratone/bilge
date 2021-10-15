@@ -63,6 +63,13 @@
 > A single boost costs $4.99 a month, and any member of the Discord Server can contribute. If you’re a Discord Nitro subscriber, you get a 30% discount on all Discord Server Boost purchases. Recently, Discord introduced lower thresholds for upgrading Discord Server Levels. Before, it takes 15 server boosts to achieve Level 2, and 30 server boosts to reach Level 3. But in a recent update, it will now only take 7 server boosts to reach Level 2, and 14 boosts to reach Level 3. That’d be a total of $34.93 for Level 2 and $69.86 for Level 3. That’s $24.45 for Level 2 and $48.90 for Level 3 for Nitro subscribers.
 
 * [ ] [Chat Export Tool, Better Notifications and More](https://telegram.org/blog/export-and-more) | Telegram Blog
+* [x] [Live Locations, Media Player and Languages](https://telegram.org/blog/live-locations) | Telegram Blog
+* [x] [The man who wants to out-Uber Uber | CBC Radio](https://www.cbc.ca/radio/spark/346-biometrics-audio-intelligence-and-more-1.3987746/the-man-who-wants-to-out-uber-uber-1.3987987)
+  * [x] [The man who wants to out-Uber Uber | CBC.ca](https://www.cbc.ca/player/play/879770691848)
+  * [x] [LibreTaxi all orders – Telegram](https://t.me/s/libretaxi_all)
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/The%20man%20who%20wants%20to%20out-Uber%20Uber-CBC.mp3">
+</audio>
 
 ## Themes
 - [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
@@ -78,7 +85,8 @@
 * [Telegram iOS Talk](https://t.me/TelegramiOStalk)
 * [It's FOSS](https://t.me/itsfoss_official)
 * [Mastodon Club](https://t.me/mastodonclub)
-* [`](https://t.me/mtrx_pine64)
+* [PINE64 General Chat](https://t.me/mtrx_pine64)
+* [LibreTaxi all orders](https://t.me/libretaxi_all)
 
 ## Images
 
@@ -100,13 +108,13 @@
 - [x] `![Security Considerations in Telegram for iOS](https://i.snap.as/Qim9gsZZ.png)`
 - [ ] `![Telegram Privacy - InputZero](https://i.snap.as/a0xgY5cJ.png)`
 - [x] `![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)`
-- [ ] `![TG Colors](https://i.snap.as/r0WpvFQr.png)`
+- [x] `![TG Colors](https://i.snap.as/r0WpvFQr.png)`
 - [ ] `![Telegram Tile](https://i.snap.as/WQJGiVhY.png)`
 - [ ] `![Commments Dot App Embed](https://i.snap.as/ur3rE2pw.png)`
-- [ ] `![Location Sharing in Telegram for iOS](https://i.snap.as/FRj5GGPN.png)`
+- [x] `![Location Sharing in Telegram for iOS](https://i.snap.as/FRj5GGPN.png)`
 - [x] `![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)`
-- [ ] `![Storage Management - Telegram for iOS](https://i.snap.as/BecGI6kg.png)`
-- [ ] `![Telegram Live Stream Meta](https://i.snap.as/oDQqSYHF.png)`
+- [x] `![Storage Management - Telegram for iOS](https://i.snap.as/BecGI6kg.png)`
+- [x] `![Telegram Live Stream Meta](https://i.snap.as/oDQqSYHF.png)`
 
 
 
