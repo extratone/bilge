@@ -52,7 +52,12 @@
 - [ ] [Discord Was Once The Alt-Right’s Favorite Chat App. Now It’s Gone Mainstream And Scored A New $3.5 Billion Valuation](https://www.forbes.com/sites/abrambrown/2020/06/30/discord-was-once-the-alt-rights-favorite-chat-app-now-its-gone-mainstream-and-scored-a-new-35-billion-valuation) | *Forbes*
 - [ ] [Location-Based Chats, Adding Contacts Without Phone Numbers and More](https://telegram.org/blog/contacts-local-groups)
 - [ ] [React Native Newsletter](https://web.archive.org/web/20151207004934/http://brentvatne.ca/react-native-newsletter/07-09-2015.html) (Discord's iOS app originally launched in React Native.)
-- [ ] [Why Discord is Sticking with React Native | by Fanghao (Robin) Chen](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427) | Discord Blog
+- [x] [Why Discord is Sticking with React Native | by Fanghao (Robin) Chen](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427) | Discord Blog
+- [ ] [Clearing Cache and Reordering Stickers](https://telegram.org/blog/cache-and-stickers) | Telegram Blog
+- [x] [Voice Chats 2.0: Channels, Millions of Listeners, Recorded Chats, Admin Tools](https://telegram.org/blog/voice-chats-on-steroids) | Telegram Blog
+- [x] [Live Streams, Flexible Forwarding, Jump to Next Channel, Trending Stickers and More](https://telegram.org/blog/live-streams-forwarding-next-channel) | Telegram Blog
+- [ ] [The Dawn of Video Has Come](https://blog.discord.com/5-10-2017-change-log-80f10c621c64) | Discord Blog
+- [ ] "[Discord Screen Sharing and Video Chat](https://youtu.be/mMloc55o1jc)" - `https://www.youtube.com/watch?v=mMloc55o1jc`
 
 ## Themes
 - [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
@@ -70,6 +75,9 @@
 
 ## Images
 
+- [ ] `![Hungo](https://i.snap.as/35ChT1z2.jpeg)`
+- [ ] `![SYSTEM COLORS](https://i.snap.as/W0JHUEKM.png)`
+- [ ] `![SYSTEM COLORS Horizontal](https://i.snap.as/Y3fNeQP6.png)`
 - [x] `![White Sapphire](https://i.snap.as/aNADRjvK.png)`
 - [x] `![Telegram Green](https://i.snap.as/e2g09wl3.png)`
 - [x] `![Drake Telegram Joke](https://i.snap.as/2YhRCO0I.jpeg)`
@@ -89,13 +97,16 @@
 - [ ] `![Telegram Tile](https://i.snap.as/WQJGiVhY.png)`
 - [ ] `![Commments Dot App Embed](https://i.snap.as/ur3rE2pw.png)`
 - [ ] `![Location Sharing in Telegram for iOS](https://i.snap.as/FRj5GGPN.png)`
-- [ ] `![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)`
+- [x] `![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)`
+- [ ] `![Storage Management - Telegram for iOS](https://i.snap.as/BecGI6kg.png)`
+- [ ] `![Telegram Live Stream Meta](https://i.snap.as/oDQqSYHF.png)`
 
 
 
 ## Anecdotes
 
 * [ ] Static location sharing just sends a Lat-Long Google Maps URL: `https://maps.google.com/maps?q=38.934018,-92.388035&ll=38.934018,-92.388035&z=16`
+* [ ] "[I don't really have anything to say about Telegram one way or the other. We ran it for a short time 5 years ago as an experiment and it didn't stick](https://discord.com/channels/836622115435184162/836622115880828961/898380609993449502)." - John Voorhees, *MacStories*
 
 
 
@@ -106,6 +117,7 @@
 
 ## Media
 * [Share Sheet animation](https://imgur.com/gallery/4laWgXj) - `https://imgur.com/gallery/4laWgXj`
+* [Windows 11 Release Wake (Stream)](https://t.me/extratone/7054) - `https://t.me/extratone/7054`
 
 
 

@@ -78,15 +78,33 @@ Just to be clear, I am being sincere when I acknowledge that these are genuinely
 
 The question I would like to surface: **what if I have no use for encryption or privacy across my purposes for Telegram**? *All* the channels I have ever engaged with have been public, and those private ones I’ve come across have either been shady crypto spam channels or shady porn channels. I realize this doesn’t exactly reflect positively on Telegram’s community, but - as I argued regarding Discord, long ago - why let the community or even the app’s branding, itself, confine how you use it as a utility?
 
+![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)
+
+Admittedly, another attention-grabbing feature that contributed to my finally getting around to this Post was [the introduction of "Live Streams" for channels and groups](https://telegram.org/blog/live-streams-forwarding-next-channel) (really just a slight augmentation of their ["Voice Chats 2.0" features](https://telegram.org/blog/voice-chats-on-steroids)) at the very end of this past August. Discord, of course, was way ahead of Telegram in implementing Voice Chats and Screen Sharing [back in October of 2017](https://youtu.be/mMloc55o1jc), and it's long since become one of the services' core features. However, *recording* live content of any kind is not natively supported, though there is a [handy utility bot named Craig](https://craig.chat) who can accomplish this for you.
+
+ In [my most recent test stream](https://t.me/extratone/7054) (embedded below [from YouTube](https://youtu.be/uhXZZBl0fn8))
+
+https://www.youtube.com/watch?v=uhXZZBl0fn
+
+
+
+![Telegram Live Stream Meta](https://i.snap.as/oDQqSYHF.png)
+
 ![TG Colors](https://i.snap.as/r0WpvFQr.png)
 
 ## A Hearty Foundation
 
-My thinking while drafting this argument kept returning to a single, simple realization: **in age, Telegram is just two years ahead of Discord**, yet the various software distributed by the two organizations for their respective services represent quite disparate opinions in design terms. Discord's desktop "application" is an Electron app - [Telegram](https://github.com/telegramdesktop/tdesktop)'s is virtually pure C++. [Telegram's iOS app](https://github.com/TelegramMessenger/Telegram-iOS) is mostly written in Objective-C (I'm to assume the 30.8% Swift code number on the repo as of this writing is mostly comprised of its widgets/other recent iOS-specific integrations,) while Discord's is mostly ???. That is, because Discord's software is proprietary and the source is closed, all I can tell you is that it was written in React Native [as of December, 2018](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427). What I *can* tell you is that the current build of [Discord for iOS on the App Store](https://apps.apple.com/us/app/discord-talk-chat-hangout/id985746746) weighs in at 153.2 MB - significantly less than [Telegram's](https://apps.apple.com/us/app/telegram-messenger/id686449807) 185.1 MB.
+My thinking while drafting this argument kept returning to a single, simple realization: **in age, Telegram is just two years ahead of Discord**, yet the various software distributed by the two organizations for their respective services represent quite disparate opinions in design terms. [Discord's desktop "application"](https://discord.com/download) is an Electron app - [Telegram's](https://github.com/telegramdesktop/tdesktop) is virtually pure C++. [Telegram's iOS app](https://github.com/TelegramMessenger/Telegram-iOS) is mostly written in Objective-C (I'm to assume the 30.8% Swift code number on the repo as of this writing is mostly comprised of its widgets/other recent iOS-specific integrations,) while Discord's is mostly ???. That is, because Discord's software is proprietary and the source is closed, all I can tell you is that it was written in React Native [as of December, 2018](https://blog.discord.com/why-discord-is-sticking-with-react-native-ccc34be0d427). What I *can* tell you is that the current build of [Discord for iOS on the App Store](https://apps.apple.com/us/app/discord-talk-chat-hangout/id985746746) weighs in at 153.2 MB - significantly less than [Telegram's](https://apps.apple.com/us/app/telegram-messenger/id686449807) 185.1 MB. As I've noted plenty of times this year, **I am not a software developer** and therefore I can't promise you an app's initial payload size is actually all that relevant, but I was surprised to see Telegram wasn't slimmer than Discord, given how the two apps behave and my previous experiences with the platform, this year. 
+
+![Storage Management - Telegram for iOS](https://i.snap.as/BecGI6kg.png)
+
+
+
+
 
 ![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)
 
-
+https://twitter.com/NeoYokel/status/1448837428534521858
 
 ------
 
