@@ -1,4 +1,4 @@
-# ]Notes - Drafting my Own Pubic-Domain-Equivalent License
+# Notes - Drafting my Own Pubic-Domain-Equivalent License
 
 ![pfwt](../images/pfwt.png)
 
