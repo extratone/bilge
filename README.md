@@ -10,6 +10,11 @@ See [**my 2020 reflectory post**](https://bilge.world/2020) for a few more detai
 
 ![Psalms Project Board](https://github.com/extratone/bilge/raw/main/images/Project%20Board.png)
 
+# Latest Work
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
 ## Git
 
 As part of [my continued exploration of Git as an editorial tool](https://github.com/extratone/bilge/discussions/86), I have done my best to make use of as many GitHub-specific features as possible.
