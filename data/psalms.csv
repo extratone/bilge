@@ -1,0 +1,2044 @@
+title,column,creator,created_at,updated_at,issue_state,issue_labels,issue_link,issue_body,issue_assignees,issue_created_at,issue_updated_at,issue_closed_at
+"**This column is separate the others because it contains non-editorial intentions.** Includes improvements to the website, ideas about how to make better use of this repository, and more.",Dev,extratone,2021-03-28T08:32:51Z,2021-03-28T08:34:25Z,,,,,,,,
+"Automating Cards ",Dev,extratone,2021-05-04T11:29:43Z,2021-05-04T11:29:43Z,open,"documentation, meta",https://github.com/extratone/bilge/issues/123,"###### Automation Rules
+
+<!-- Documentation: https://github.com/philschatz/project-bot -->
+
+- `added_label` **dev**",extratone,2021-05-04T11:29:15Z,2021-05-04T12:07:29Z,
+Testing GitHub Sponsors,Dev,extratone,2021-04-30T12:04:31Z,2021-05-04T07:17:31Z,open,"documentation, meta",https://github.com/extratone/bilge/issues/113,"# Testing GitHub Sponsors
+
+![Testing GitHub Sponsors](https://user-images.githubusercontent.com/43663476/116671682-d6c62400-a966-11eb-8ae0-e6d68799904c.png)
+
+## Support my exploration of Editorial With Git as I continue to study hands-on how we might best bring technology media's perspective back to the little realities of the individuals who *actually* build the functions and features of its foundation. 
+
+## Introduction
+
+G̏̽͋ͩͬ͊̈́o͌ͭ͆̂̍̈́̌oͩ͒ͩd̋̃͑ ͐ͣm̌orͬͥͤͣ̊n̋ͧͩ͐i͛̉n̔̎g̏͂̔ͦ̈!̿̍͆̽͒̍
+
+I'm David Blue and **I am not a software developer**. Though I do fairly regularly author and distribute various tool-adjacent configurations you may find of value, I am fundamentally *not a builder*, though I am relentlessly compelled to seek out spaces like GitHub where builders congregate around the context of work 
+
+
+
+
+
+***
+
+* ""[Setting up GitHub Sponsors for your user account](https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors/setting-up-github-sponsors-for-your-user-account)""
+* [Jeremy Keith's example profile](https://github.com/sponsors/adactio)
+
+```
+Don’t forget to delete this placeholder text 🙃
+
+Here are some ideas of what you can tell your potential sponsors:
+- [ ] Who are you, and where are you from?
+- [ ] What are you working on?
+- [ ] Why is their sponsorship important? How will you use the funds?
+
+Hint: You can include images and emojis in your bio!
+```
+
+",extratone,2021-04-30T12:04:31Z,2021-05-24T05:12:28Z,
+Discussions,Dev,extratone,2021-03-28T09:25:05Z,2021-04-13T03:37:19Z,open,"documentation, refinement, social",https://github.com/extratone/bilge/issues/87,## #86 Making better use of Discussions!,extratone,2021-03-28T09:25:05Z,2021-03-28T09:25:05Z,
+Voice Notes,Dev,extratone,2021-03-30T08:44:31Z,2021-04-13T03:37:21Z,open,"documentation, enhancement, music",https://github.com/extratone/bilge/issues/91,,extratone,2021-03-30T08:44:31Z,2021-04-05T08:28:59Z,
+Test Page,Dev,extratone,2021-05-03T20:19:28Z,2021-05-04T07:17:27Z,open,"documentation, meta",https://github.com/extratone/bilge/issues/121,"Having refined [**the public test page**](https://bilge.world/test) recently, I should have created this Issue long ago to keep track of commits.",extratone,2021-05-03T20:19:28Z,2021-05-03T20:19:28Z,
+The Psalms™ Official Wallpapers,Dev,extratone,2021-04-13T16:27:05Z,2021-04-20T16:05:35Z,open,"meta, refinement, lapse",https://github.com/extratone/bilge/issues/97,"![image](https://user-images.githubusercontent.com/43663476/114587128-f8c36500-9c4a-11eb-9e1b-aa2b8dea6682.png)
+![IMG_4090](https://user-images.githubusercontent.com/43663476/114587316-28726d00-9c4b-11eb-8794-1bb289a21770.PNG)
+",extratone,2021-04-13T16:27:05Z,2021-04-13T16:30:39Z,
+Catch up Issues,Dev,extratone,2020-11-24T19:24:04Z,2021-04-13T04:10:44Z,open,documentation,https://github.com/extratone/bilge/issues/6,Fully import all drafts to this issues thing.,extratone,2020-11-24T19:24:03Z,2020-12-03T15:45:01Z,
+Footnotes,Dev,extratone,2020-12-08T18:32:11Z,2021-04-13T04:10:37Z,open,enhancement,https://github.com/extratone/bilge/issues/52,"See ""[Put footnotes in blog posts!](https://discuss.write.as/t/put-footnotes-in-blog-posts)""",,2020-12-08T18:32:11Z,2021-05-22T01:35:38Z,
+Migrate WTF,Dev,extratone,2020-12-08T18:43:09Z,2021-04-13T04:10:32Z,open,migration,https://github.com/extratone/bilge/issues/53,,extratone,2020-12-08T18:43:09Z,2020-12-08T18:43:09Z,
+HANDSET,Dev,extratone,2021-03-06T13:54:51Z,2021-03-28T08:31:39Z,open,enhancement,https://github.com/extratone/bilge/issues/77,"![HANDSET](https://user-images.githubusercontent.com/43663476/110209272-23065380-7e51-11eb-8e7f-e25bc7194a62.png)
+![HANDSET2](https://user-images.githubusercontent.com/43663476/110209273-239eea00-7e51-11eb-9299-ce64f7bbac61.png)
+![HANDSET3](https://user-images.githubusercontent.com/43663476/110209275-24378080-7e51-11eb-8c40-b5f76aa901aa.png)
+![HANDSET4](https://user-images.githubusercontent.com/43663476/110209291-387b7d80-7e51-11eb-8a6c-b383bbd49127.png)
+",extratone,2021-03-06T13:54:51Z,2021-03-06T13:54:51Z,
+Add System Status Footer Link,Dev,extratone,2020-11-28T14:12:19Z,2021-03-28T08:31:29Z,open,"enhancement, no",https://github.com/extratone/bilge/issues/19,Add footer link to [Up!](https://extratone.github.io/up),extratone,2020-11-28T14:12:19Z,2020-12-03T15:51:21Z,
+Automate Podcast Reclamation,Dev,extratone,2021-02-19T05:45:03Z,2021-03-28T08:13:43Z,open,"legacy, migration, lapse",https://github.com/extratone/bilge/issues/67,"## PodSync
+* ""[Creating a Podcast Feed from a YouTube Playlist](https://benjamincongdon.me/blog/2020/03/02/Creating-a-Podcast-Feed-from-a-YouTube-Playlist/)"" | Ben Congdon
+* [The Repo](https://github.com/mxpv/podsync/)
+",extratone,2021-02-19T05:45:03Z,2021-02-19T05:45:03Z,
+Bear Integration,Dev,extratone,2021-02-18T21:43:26Z,2021-03-28T08:13:46Z,open,"meta, refinement",https://github.com/extratone/bilge/issues/66,UGGGGGHHHH.,extratone,2021-02-18T21:43:26Z,2021-02-18T21:43:26Z,
+End User Show Notes,Dev,extratone,2021-05-05T17:40:50Z,2021-05-15T08:22:36Z,open,"documentation, meta, migration, audio",https://github.com/extratone/bilge/issues/127,FInding a time-efficient means of re-documenting End User show notes in a presentable reference in Markdown format.,extratone,2021-05-05T17:40:50Z,2021-05-05T17:40:50Z,
+Address GitHub Gist in CSS,Dev,extratone,2021-05-04T13:42:53Z,2021-05-04T14:23:23Z,open,"documentation, meta, dev",https://github.com/extratone/bilge/issues/125,"![Screenshot 2021-05-04 at 08-40-35 Test](https://user-images.githubusercontent.com/43663476/117012372-80cde500-acb4-11eb-824d-338cbc034d6b.png)
+
+As you can see, Gists are not currently differentiated/protected from the body style.",extratone,2021-05-04T13:42:53Z,2021-05-04T14:20:40Z,
+Understanding/Implementing GitHub Actions,Dev,extratone,2021-05-04T19:17:45Z,2021-05-15T08:22:16Z,open,"documentation, meta, dev",https://github.com/extratone/bilge/issues/126,See this [user library of GitHub Actions](https://github-actions.netlify.app/) and [its corresponding repository](https://github.com/boyney123/github-actions).,extratone,2021-05-04T19:17:45Z,2021-05-04T19:17:45Z,
+Autolink references experimentation,Dev,extratone,2021-05-15T09:16:11Z,2021-05-15T09:16:11Z,open,"meta, i, dev",https://github.com/extratone/bilge/issues/134,"![image](https://user-images.githubusercontent.com/43663476/118354172-6525d280-b52f-11eb-84ae-77e6ba35e6bb.png)
+
+* [Configuring autolinks to reference external resources - GitHub Docs](https://docs.github.com/en/github/administering-a-repository/configuring-autolinks-to-reference-external-resources)
+
+1. iOS- // `https://github.com/extratone/i/issues/<num>`
+2. keys- // `https://github.com/extratone/keys/issues/<num>` ",extratone,2021-05-15T08:42:22Z,2021-05-15T08:42:22Z,
+General TTS Additions,Dev,extratone,2021-05-15T13:28:54Z,2021-05-15T13:28:55Z,open,"meta, audio",https://github.com/extratone/bilge/issues/135,"```
+*Listen to this article read by Siri Voice 2 below...*
+
+<audio controls>
+  <source src=""https://github.com/extratone/bilge/raw/main/audio/TTS/iPhone%20and%20Music%20-%20For%20Artists%2C%20Curators%2C%20and%20Enthusiasts%20TTS.mp3"">
+</audio>
+```",extratone,2021-05-15T13:28:54Z,2021-05-29T14:53:09Z,
+Reddit Premium,Dev,extratone,2021-05-22T06:49:35Z,2021-05-22T06:49:35Z,open,"lapse, social",https://github.com/extratone/bilge/issues/137,"* [**RedditToMarkdown**](https://farnots.github.io/RedditToMarkdown/) (Page)
+([Original Repo](https://github.com/farnots/RedditToMarkdown))",extratone,2021-05-22T06:49:35Z,2021-05-22T06:49:35Z,
+Mastodon Embed Formatting,Dev,extratone,2021-05-22T15:47:16Z,2021-05-22T15:47:16Z,open,"documentation, social",https://github.com/extratone/bilge/issues/138,"```
+<iframe src=""https://mastodon.social/@DavidBlue/1384666/embed"" class=""mastodon-embed"" style=""max-width: 100%; border: 0"" height=""325"" width=""480"" allowfullscreen=""allowfullscreen""></iframe>
+```
+The above produces this result at 100% zoom on desktop, currently:
+![image](https://user-images.githubusercontent.com/43663476/119232431-e0b4f000-baea-11eb-86bc-561214359fff.png)
+
+And on mobile:
+![image](https://user-images.githubusercontent.com/43663476/119232459-0fcb6180-baeb-11eb-8d83-01a6954bf0ae.png)
+
+",extratone,2021-05-22T15:47:16Z,2021-05-22T15:47:16Z,
+Link/Reading List Curation with Raindrop,Dev,extratone,2021-05-24T05:08:37Z,2021-05-24T05:08:38Z,open,"meta, curation, editorial",https://github.com/extratone/bilge/issues/141,"![Screenshot_2021-05-24 davidblue](https://user-images.githubusercontent.com/43663476/119299215-22958180-bc24-11eb-8015-b802f67cf187.png)
+
+
+Raindrop has added **embed** support and **redesigned public pages support**!! As such, it's time I make a concerted effort to consolidate reading list saving in Raindrop again.
+
+[**raindrop.io/davidblue**](https://raindrop.io/davidblue)
+
+```
+<iframe style=""border: 0; width: 100%; height: 450px;"" allowfullscreen frameborder=""0"" src=""https://raindrop.io/davidblue/embed/me"" allowfullscreen></iframe>
+```
+
+# ""New Public Page and Embeds""
+
+*24-05-2021 00:03* 
+
+> Showcase your collection to entire web with new public page and embeds support!
+## Showcase your collection to entire web with new public page and embeds support!
+
+[
+
+![Rustem Mussabekov](https://miro.medium.com/fit/c/56/56/1*VFTN-MPKg_EG0tXiyQPG0g.jpeg)
+
+
+
+](https://medium.com/@exentrich?source=post_page-----fab7bcb56b4f--------------------------------)
+
+Your visitors can sort bookmarks, navigate to nested collections and filter by tags. You can change view layout, set an icon, name and description in Share settings.
+
+All shared collections will be showed in your public profile, check out my [https://raindrop.io/exentrich](https://raindrop.io/exentrich).
+
+The nicest part is that you can now embed your bookmarks into your website, blog or note taking app. This is how it might look like:
+
+![](https://miro.medium.com/max/5600/1*cW_A7dTLyQxhi3NK9MKvzg.png)
+
+This is just an image, but very soon you will be able to embed Raindrop.io to Medium. I’m waiting for approval
+
+Imagine what possibilities it gives! You can put reference links (and update them on the fly) to your blog articles or showcase your inspiration/playlists/learning materials/etc on a personal website.
+
+Learn more how to embed and customize on [this dedicated help page](https://help.raindrop.io/embed).
+
+> In the past embedding have been also possible, but not documented. Be sure to update your URLs to a new format. You can grab a new URL from a public page by clicking Share button. Sorry for inconvenience.
+
+As old users remember public pages not a new feature, but I worked hard to improve it significantly. Old version had a bugs, lack of features and not well optimized for mobile. New version is modern, slick, user-friendly and highly optimized for search engines.
+
+Now bookmarks from nested collections are shown together in one big list. Usually nested collections are just a sub categories, or like a filters. So I think showing bookmarks together without splitting by each collection is an improvement in the right direction.
+
+> If you don’t like this change just enable **Old view** for Nested collections in [settings](https://app.raindrop.io/settings/app)
+
+Bookmarks now paginated instead of infinite scrolling. It gives a better user experience and makes UI more predictable. Visitors can easily navigate to very last or specific bookmark because they can remember exact page where it located. And obviously you can share a link to specific page.
+
+Be sure that **format of a public page URL is changed.** Don’t worry old links **will keep working indefinitely**.
+
+New URL format look like this [https://raindrop.io/press/movies-2199085](https://raindrop.io/press/movies-2199085)  
+Note that it contains your **username**, it can be changed in [account settings](https://app.raindrop.io/settings/account). It also has a human friendly **name of a collection**, this will improve search engine ranking and makes URL more visually appealing.
+
+When you change a name of a collection old URLs will keep working, so no need to worry about it.
+
+-   All your bookmarks and collections are private by default. Public page is optional feature, you need to [manually enable it](https://help.raindrop.io/public-page)
+-   Public profile page is only accessible if user have at least one public collection
+-   You can change your username and avatar in [account settings](https://app.raindrop.io/settings/account)
+***
+
+==**2700**== Words
+
+- **[New Public Page and Embeds. Showcase your collection to entire web… | by Rustem Mussabekov | May, 2021 | Raindrop.io](https://blog.raindrop.io/new-public-page-and-embeds-fab7bcb56b4f)**
+- 
+
+***
+
+# ""New Public Page and Embeds""
+
+*24-05-2021 00:03* 
+
+> Showcase your collection to entire web with new public page and embeds support!
+## Showcase your collection to entire web with new public page and embeds support!
+
+[
+
+![Rustem Mussabekov](https://miro.medium.com/fit/c/56/56/1*VFTN-MPKg_EG0tXiyQPG0g.jpeg)
+
+
+
+](https://medium.com/@exentrich?source=post_page-----fab7bcb56b4f--------------------------------)
+
+Your visitors can sort bookmarks, navigate to nested collections and filter by tags. You can change view layout, set an icon, name and description in Share settings.
+
+All shared collections will be showed in your public profile, check out my [https://raindrop.io/exentrich](https://raindrop.io/exentrich).
+
+The nicest part is that you can now embed your bookmarks into your website, blog or note taking app. This is how it might look like:
+
+![](https://miro.medium.com/max/5600/1*cW_A7dTLyQxhi3NK9MKvzg.png)
+
+This is just an image, but very soon you will be able to embed Raindrop.io to Medium. I’m waiting for approval
+
+Imagine what possibilities it gives! You can put reference links (and update them on the fly) to your blog articles or showcase your inspiration/playlists/learning materials/etc on a personal website.
+
+Learn more how to embed and customize on [this dedicated help page](https://help.raindrop.io/embed).
+
+> In the past embedding have been also possible, but not documented. Be sure to update your URLs to a new format. You can grab a new URL from a public page by clicking Share button. Sorry for inconvenience.
+
+As old users remember public pages not a new feature, but I worked hard to improve it significantly. Old version had a bugs, lack of features and not well optimized for mobile. New version is modern, slick, user-friendly and highly optimized for search engines.
+
+Now bookmarks from nested collections are shown together in one big list. Usually nested collections are just a sub categories, or like a filters. So I think showing bookmarks together without splitting by each collection is an improvement in the right direction.
+
+> If you don’t like this change just enable **Old view** for Nested collections in [settings](https://app.raindrop.io/settings/app)
+
+Bookmarks now paginated instead of infinite scrolling. It gives a better user experience and makes UI more predictable. Visitors can easily navigate to very last or specific bookmark because they can remember exact page where it located. And obviously you can share a link to specific page.
+
+Be sure that **format of a public page URL is changed.** Don’t worry old links **will keep working indefinitely**.
+
+New URL format look like this [https://raindrop.io/press/movies-2199085](https://raindrop.io/press/movies-2199085)  
+Note that it contains your **username**, it can be changed in [account settings](https://app.raindrop.io/settings/account). It also has a human friendly **name of a collection**, this will improve search engine ranking and makes URL more visually appealing.
+
+When you change a name of a collection old URLs will keep working, so no need to worry about it.
+
+-   All your bookmarks and collections are private by default. Public page is optional feature, you need to [manually enable it](https://help.raindrop.io/public-page)
+-   Public profile page is only accessible if user have at least one public collection
+-   You can change your username and avatar in [account settings](https://app.raindrop.io/settings/account)
+***
+
+==**2700**== Words
+
+- **[New Public Page and Embeds. Showcase your collection to entire web… | by Rustem Mussabekov | May, 2021 | Raindrop.io](https://blog.raindrop.io/new-public-page-and-embeds-fab7bcb56b4f)**",extratone,2021-05-24T05:08:37Z,2021-05-24T05:08:55Z,
+Natural Vocabulary List,Dev,extratone,2021-05-26T02:07:37Z,2021-05-26T02:07:37Z,open,"documentation, meta, curation, editorial",https://github.com/extratone/bilge/issues/144,"I bought Agiletortoise's Terminology app and by golly... I am going to do my best to make full use of it.
+
+```
+
+
+*25-05-2021 20:53* 
+
+> Are you sure you want to delete this from your saved words?
+-   [minatory](https://www.merriam-webster.com/dictionary/minatory)
+
+    July 27, 2020|
+
+-   [choler](https://www.merriam-webster.com/dictionary/choler)
+    
+    July 27, 2020|
+    
+-   [interstitial](https://www.merriam-webster.com/dictionary/interstitial)
+    
+    July 27, 2020|
+    
+-   [tripartite](https://www.merriam-webster.com/dictionary/tripartite)
+    
+    July 24, 2020|
+    
+-   [valence](https://www.merriam-webster.com/dictionary/valence)
+    
+    July 24, 2020|
+    
+-   [Antwerp](https://www.merriam-webster.com/dictionary/Antwerp)
+    
+    July 24, 2020|
+    
+-   [divest](https://www.merriam-webster.com/dictionary/divest)
+    
+    July 24, 2020|
+    
+-   [bowdlerize](https://www.merriam-webster.com/dictionary/bowdlerize)
+    
+    July 24, 2020|
+    
+-   [je ne sais q...](https://www.merriam-webster.com/dictionary/je%20ne%20sais%20quoi)
+    
+    July 23, 2020|
+    
+-   [pernicious](https://www.merriam-webster.com/dictionary/pernicious)
+    
+    July 23, 2020|
+    
+-   [neologism](https://www.merriam-webster.com/dictionary/neologism)
+    
+    July 23, 2020|
+    
+-   [violate](https://www.merriam-webster.com/dictionary/violate)
+    
+    July 23, 2020|
+    
+-   [jibe](https://www.merriam-webster.com/dictionary/jibe)
+    
+    July 23, 2020|
+    
+-   [atavism](https://www.merriam-webster.com/dictionary/atavism)
+    
+    July 23, 2020|
+    
+-   [fealty](https://www.merriam-webster.com/dictionary/fealty)
+    
+    July 23, 2020|
+    
+-   [peroration](https://www.merriam-webster.com/dictionary/peroration)
+    
+    July 22, 2020|
+
+Are you sure you want to delete this from your saved words?
+
+No, Keep It
+
+Yes, Delete It
+***
+
+==**305**== Words
+
+- **[Saved Words | Merriam-Webster](https://www.merriam-webster.com/saved-words)**
+# ""Saved Words | Merriam-Webster""
+
+*25-05-2021 20:52* 
+
+> Are you sure you want to delete this from your saved words?
+-   [piquant](https://www.merriam-webster.com/dictionary/piquant)
+
+    Mar 2, 2021|
+
+-   [turbid](https://www.merriam-webster.com/dictionary/turbid)
+    
+    Feb 26, 2021|
+    
+-   [prothalamion](https://www.merriam-webster.com/dictionary/prothalamion)
+    
+    Feb 14, 2021|
+    
+-   [bilge](https://www.merriam-webster.com/dictionary/bilge)
+    
+    Jan 3, 2021|
+    
+-   [apologia](https://www.merriam-webster.com/dictionary/apologia)
+    
+    Jan 3, 2021|
+    
+-   [onomatopoeia](https://www.merriam-webster.com/dictionary/onomatopoeia)
+    
+    Dec 31, 2020|
+    
+-   [flout](https://www.merriam-webster.com/dictionary/flout)
+    
+    Dec 12, 2020|
+    
+-   [sartorial](https://www.merriam-webster.com/dictionary/sartorial)
+    
+    Dec 7, 2020|
+    
+-   [bemoan](https://www.merriam-webster.com/dictionary/bemoan)
+    
+    Dec 7, 2020|
+    
+-   [NIMBY](https://www.merriam-webster.com/dictionary/NIMBY)
+    
+    Dec 3, 2020|
+    
+-   [archon](https://www.merriam-webster.com/dictionary/archon)
+    
+    Nov 28, 2020|
+    
+-   [unmet](https://www.merriam-webster.com/dictionary/unmet)
+    
+    Nov 23, 2020|
+    
+-   [bugbear](https://www.merriam-webster.com/dictionary/bugbear)
+    
+    Nov 18, 2020|
+    
+-   [navel-gazing](https://www.merriam-webster.com/dictionary/navel-gazing)
+    
+    Nov 4, 2020|
+    
+-   [cribbing](https://www.merriam-webster.com/dictionary/cribbing)
+    
+    Nov 3, 2020|
+    
+-   [unctuous](https://www.merriam-webster.com/dictionary/unctuous)
+    
+    Nov 1, 2020|
+
+Are you sure you want to delete this from your saved words?
+
+No, Keep It
+
+Yes, Delete It
+***
+
+==**305**== Words
+
+- **[Saved Words | Merriam-Webster](https://www.merriam-webster.com/saved-words)**
+# ""Saved Words | Merriam-Webster""
+
+*25-05-2021 20:54* 
+
+> Are you sure you want to delete this from your saved words?
+-   [hackle](https://www.merriam-webster.com/dictionary/hackle)
+
+    June 13, 2020|
+
+-   [piddly](https://www.merriam-webster.com/thesaurus/piddly)
+    
+    June 11, 2020|
+    
+-   [banal](https://www.merriam-webster.com/dictionary/banal)
+    
+    June 11, 2020|
+    
+-   [banality](https://www.merriam-webster.com/dictionary/banality)
+    
+    June 11, 2020|
+
+Are you sure you want to delete this from your saved words?
+
+No, Keep It
+
+Yes, Delete It
+***
+
+==**306**== Words
+
+- **[Saved Words | Merriam-Webster](https://www.merriam-webster.com/saved-words)**
+# ""Saved Words | Merriam-Webster""
+
+*25-05-2021 20:53* 
+
+> Are you sure you want to delete this from your saved words?
+-   [buttonhole](https://www.merriam-webster.com/dictionary/buttonhole)
+
+    July 22, 2020|
+
+-   [au courant](https://www.merriam-webster.com/dictionary/au%20courant)
+    
+    July 22, 2020|
+    
+-   [prescience](https://www.merriam-webster.com/dictionary/prescience)
+    
+    July 22, 2020|
+    
+-   [blasé](https://www.merriam-webster.com/dictionary/blas%C3%A9)
+    
+    July 22, 2020|
+    
+-   [benthic](https://www.merriam-webster.com/dictionary/benthic)
+    
+    July 22, 2020|
+    
+-   [glib](https://www.merriam-webster.com/dictionary/glib)
+    
+    July 19, 2020|
+    
+-   [milquetoast](https://www.merriam-webster.com/dictionary/milquetoast)
+    
+    July 18, 2020|
+    
+-   [acephalous](https://www.merriam-webster.com/dictionary/acephalous)
+    
+    July 18, 2020|
+    
+-   [jink](https://www.merriam-webster.com/dictionary/jink)
+    
+    July 18, 2020|
+    
+-   [umbrage](https://www.merriam-webster.com/dictionary/umbrage)
+    
+    July 16, 2020|
+    
+-   [capitulate](https://www.merriam-webster.com/dictionary/capitulate)
+    
+    July 16, 2020|
+    
+-   [gist](https://www.merriam-webster.com/thesaurus/gist)
+    
+    July 16, 2020|
+    
+-   [miasma](https://www.merriam-webster.com/dictionary/miasma)
+    
+    July 15, 2020|
+    
+-   [ubiquitous](https://www.merriam-webster.com/dictionary/ubiquitous)
+    
+    July 15, 2020|
+    
+-   [acrimony](https://www.merriam-webster.com/dictionary/acrimony)
+    
+    July 15, 2020|
+    
+-   [boilerplate](https://www.merriam-webster.com/dictionary/boilerplate)
+    
+    July 15, 2020|
+***
+
+==**305**== Words
+
+- **[Saved Words | Merriam-Webster](https://www.merriam-webster.com/saved-words)**
+# ""Saved Words | Merriam-Webster""
+
+*25-05-2021 20:53* 
+
+> Are you sure you want to delete this from your saved words?
+-   [malfeasance](https://www.merriam-webster.com/dictionary/malfeasance)
+
+    July 15, 2020|
+
+-   [presuppose](https://www.merriam-webster.com/dictionary/presuppose)
+    
+    July 15, 2020|
+    
+-   [provincial](https://www.merriam-webster.com/thesaurus/provincial)
+    
+    July 15, 2020|
+    
+-   [parochial](https://www.merriam-webster.com/thesaurus/parochial)
+    
+    July 15, 2020|
+    
+-   [indite](https://www.merriam-webster.com/thesaurus/indite)
+    
+    July 15, 2020|
+    
+-   [frisson](https://www.merriam-webster.com/dictionary/frisson)
+    
+    July 13, 2020|
+    
+-   [contriturate](https://www.merriam-webster.com/dictionary/contriturate)
+    
+    July 9, 2020|
+    
+-   [denude](https://www.merriam-webster.com/dictionary/denude)
+    
+    July 9, 2020|
+    
+-   [inenarrable](https://www.merriam-webster.com/dictionary/inenarrable)
+    
+    July 9, 2020|
+    
+-   [verbose](https://www.merriam-webster.com/dictionary/verbose)
+    
+    July 9, 2020|
+    
+-   [vestigial](https://www.merriam-webster.com/dictionary/vestigial)
+    
+    July 8, 2020|
+    
+-   [Pollyanna](https://www.merriam-webster.com/dictionary/Pollyanna)
+    
+    July 8, 2020|
+    
+-   [prelapsarian](https://www.merriam-webster.com/dictionary/prelapsarian)
+    
+    July 7, 2020|
+    
+-   [extirpate](https://www.merriam-webster.com/dictionary/extirpate)
+    
+    July 7, 2020|
+    
+-   [verity](https://www.merriam-webster.com/dictionary/verity)
+    
+    July 7, 2020|
+    
+-   [gourmand](https://www.merriam-webster.com/dictionary/gourmand)
+    
+    June 27, 2020|
+
+Are you sure you want to delete this from your saved words?
+
+No, Keep It
+
+Yes, Delete It
+***
+
+==**305**== Words
+
+- **[Saved Words | Merriam-Webster](https://www.merriam-webster.com/saved-words)**
+# ""Saved Words | Merriam-Webster""
+
+*25-05-2021 20:53* 
+
+> Are you sure you want to delete this from your saved words?
+-   [guttersnipe](https://www.merriam-webster.com/dictionary/guttersnipe)
+
+    Nov 1, 2020|
+
+-   [quotidian](https://www.merriam-webster.com/dictionary/quotidian)
+    
+    Oct 19, 2020|
+    
+-   [bricolage](https://www.merriam-webster.com/dictionary/bricolage)
+    
+    Oct 8, 2020|
+    
+-   [collogue](https://www.merriam-webster.com/dictionary/collogue)
+    
+    Oct 8, 2020|
+    
+-   [cahoot](https://www.merriam-webster.com/dictionary/cahoot)
+    
+    Oct 4, 2020|
+    
+-   [variegated](https://www.merriam-webster.com/dictionary/variegated)
+    
+    Oct 4, 2020|
+    
+-   [carceral](https://www.merriam-webster.com/dictionary/carceral)
+    
+    Oct 1, 2020|
+    
+-   [vociferous](https://www.merriam-webster.com/dictionary/vociferous)
+    
+    Sept 30, 2020|
+    
+-   [bozo](https://www.merriam-webster.com/dictionary/bozo)
+    
+    Sept 27, 2020|
+    
+-   [palimpsest](https://www.merriam-webster.com/dictionary/palimpsest)
+    
+    Sept 27, 2020|
+    
+-   [cudgel](https://www.merriam-webster.com/dictionary/cudgel)
+    
+    Sept 26, 2020|
+    
+-   [panopticon](https://www.merriam-webster.com/dictionary/panopticon)
+    
+    Sept 25, 2020|
+    
+-   [imbroglio](https://www.merriam-webster.com/dictionary/imbroglio)
+    
+    Sept 25, 2020|
+    
+-   [bruit](https://www.merriam-webster.com/dictionary/bruit)
+    
+    Sept 25, 2020|
+    
+-   [belletrist](https://www.merriam-webster.com/dictionary/belletrist)
+    
+    Sept 21, 2020|
+    
+-   [jeremiad](https://www.merriam-webster.com/dictionary/jeremiad)
+    
+    Sept 21, 2020|
+
+Are you sure you want to delete this from your saved words?
+
+No, Keep It
+
+Yes, Delete It
+***
+
+==**305**== Words
+
+- **[Saved Words | Merriam-Webster](https://www.merriam-webster.com/saved-words)**
+# ""Saved Words | Merriam-Webster""
+
+*25-05-2021 20:52* 
+
+> Are you sure you want to delete this from your saved words?
+-   [bumbershoot](https://www.merriam-webster.com/dictionary/bumbershoot)
+
+    May 25, 2021|
+
+-   [chouse](https://www.merriam-webster.com/dictionary/chouse)
+    
+    May 24, 2021|
+    
+-   [kettle of fi...](https://www.merriam-webster.com/dictionary/kettle%20of%20fish)
+    
+    May 7, 2021|
+    
+-   [deep-six](https://www.merriam-webster.com/dictionary/deep-six)
+    
+    May 6, 2021|
+    
+-   [physical](https://www.merriam-webster.com/thesaurus/physical)
+    
+    May 2, 2021|
+    
+-   [abjure](https://www.merriam-webster.com/dictionary/abjure)
+    
+    May 2, 2021|
+    
+-   [fustian](https://www.merriam-webster.com/dictionary/fustian)
+    
+    Apr 30, 2021|
+    
+-   [hoosegow](https://www.merriam-webster.com/dictionary/hoosegow)
+    
+    Apr 6, 2021|
+    
+-   [sobriquet](https://www.merriam-webster.com/dictionary/sobriquet)
+    
+    Apr 3, 2021|
+    
+-   [foist](https://www.merriam-webster.com/dictionary/foist)
+    
+    Mar 30, 2021|
+    
+-   [pontificate](https://www.merriam-webster.com/dictionary/pontificate)
+    
+    Mar 25, 2021|
+    
+-   [moribund](https://www.merriam-webster.com/dictionary/moribund)
+    
+    Mar 25, 2021|
+    
+-   [williwaw](https://www.merriam-webster.com/dictionary/williwaw)
+    
+    Mar 12, 2021|
+    
+-   [skeigh](https://www.merriam-webster.com/dictionary/skeigh)
+    
+    Mar 5, 2021|
+    
+-   [smorgasbord](https://www.merriam-webster.com/dictionary/smorgasbord)
+    
+    Mar 4, 2021|
+    
+-   [morass](https://www.merriam-webster.com/dictionary/morass)
+    
+    Mar 3, 2021|
+
+-   [crud](https://www.merriam-webster.com/dictionary/crud)
+
+    Aug 4, 2020|
+
+-   [anodyne](https://www.merriam-webster.com/dictionary/anodyne)
+    
+    July 31, 2020|
+    
+-   [palliative](https://www.merriam-webster.com/dictionary/palliative)
+    
+    July 31, 2020|
+    
+-   [asinine](https://www.merriam-webster.com/dictionary/asinine)
+    
+    July 31, 2020|
+    
+-   [circuitous](https://www.merriam-webster.com/dictionary/circuitous)
+    
+    July 31, 2020|
+    
+-   [oeuvre](https://www.merriam-webster.com/dictionary/oeuvre)
+    
+    July 31, 2020|
+    
+-   [bauble](https://www.merriam-webster.com/dictionary/bauble)
+    
+    July 30, 2020|
+    
+-   [gewgaw](https://www.merriam-webster.com/dictionary/gewgaw)
+    
+    July 30, 2020|
+    
+-   [bibelot](https://www.merriam-webster.com/dictionary/bibelot)
+    
+    July 30, 2020|
+    
+-   [hermetic](https://www.merriam-webster.com/thesaurus/hermetic)
+    
+    July 29, 2020|
+    
+-   [fie](https://www.merriam-webster.com/thesaurus/fie)
+    
+    July 28, 2020|
+    
+-   [faugh](https://www.merriam-webster.com/thesaurus/faugh)
+    
+    July 28, 2020|
+    
+-   [affable](https://www.merriam-webster.com/dictionary/affable)
+    
+    July 28, 2020|
+    
+-   [avuncular](https://www.merriam-webster.com/dictionary/avuncular)
+    
+    July 28, 2020|
+    
+-   [erudite](https://www.merriam-webster.com/dictionary/erudite)
+    
+    July 28, 2020|
+    
+-   [accede](https://www.merriam-webster.com/dictionary/accede)
+    
+    July 27, 2020|-   [portmanteau](https://www.merriam-webster.com/dictionary/portmanteau)
+
+    Aug 28, 2020|
+
+-   [faineancy](https://www.merriam-webster.com/dictionary/faineancy)
+    
+    Aug 15, 2020|
+    
+-   [anomaly](https://www.merriam-webster.com/dictionary/anomaly)
+    
+    Aug 15, 2020|
+    
+-   [promulgate](https://www.merriam-webster.com/thesaurus/promulgate)
+    
+    Aug 15, 2020|
+    
+-   [febrile](https://www.merriam-webster.com/dictionary/febrile)
+    
+    Aug 13, 2020|
+    
+-   [praecognitum](https://www.merriam-webster.com/dictionary/praecognitum)
+    
+    Aug 13, 2020|
+    
+-   [doily](https://www.merriam-webster.com/dictionary/doily)
+    
+    Aug 12, 2020|
+    
+-   [syllabify](https://www.merriam-webster.com/dictionary/syllabify)
+    
+    Aug 8, 2020|
+    
+-   [syllabic](https://www.merriam-webster.com/dictionary/syllabic)
+    
+    Aug 8, 2020|
+    
+-   [ineludible](https://www.merriam-webster.com/thesaurus/ineludible)
+    
+    Aug 7, 2020|
+    
+-   [ineluctable](https://www.merriam-webster.com/thesaurus/ineluctable)
+    
+    Aug 7, 2020|
+    
+-   [analysand](https://www.merriam-webster.com/dictionary/analysand)
+    
+    Aug 7, 2020|
+    
+-   [lachrymose](https://www.merriam-webster.com/dictionary/lachrymose)
+    
+    Aug 7, 2020|
+    
+-   [aesthete](https://www.merriam-webster.com/dictionary/aesthete)
+    
+    Aug 7, 2020|
+    
+-   [hoary](https://www.merriam-webster.com/dictionary/hoary)
+    
+    Aug 7, 2020|
+    
+-   [rube](https://www.merriam-webster.com/dictionary/rube) 
+
+-   [refusenik](https://www.merriam-webster.com/dictionary/refusenik)
+
+    Sept 21, 2020|
+
+-   [obsequious](https://www.merriam-webster.com/dictionary/obsequious)
+    
+    Sept 21, 2020|
+    
+-   [hauteur](https://www.merriam-webster.com/dictionary/hauteur)
+    
+    Sept 18, 2020|
+    
+-   [procrustean](https://www.merriam-webster.com/dictionary/procrustean)
+    
+    Sept 18, 2020|
+    
+-   [profligate](https://www.merriam-webster.com/dictionary/profligate)
+    
+    Sept 13, 2020|
+    
+-   [verbiage](https://www.merriam-webster.com/dictionary/verbiage)
+    
+    Sept 13, 2020|
+    
+-   [grease monke...](https://www.merriam-webster.com/dictionary/grease%20monkey)
+    
+    Sept 13, 2020|
+    
+-   [jostle](https://www.merriam-webster.com/dictionary/jostle)
+    
+    Sept 11, 2020|
+    
+-   [plaudit](https://www.merriam-webster.com/dictionary/plaudit)
+    
+    Sept 8, 2020|
+    
+-   [bumptious](https://www.merriam-webster.com/dictionary/bumptious)
+    
+    Sept 4, 2020|
+    
+-   [rookery](https://www.merriam-webster.com/dictionary/rookery)
+    
+    Sept 4, 2020|
+    
+-   [pogrom](https://www.merriam-webster.com/dictionary/pogrom)
+    
+    Aug 30, 2020|
+    
+-   [hegemon](https://www.merriam-webster.com/dictionary/hegemon)
+    
+    Aug 30, 2020|
+    
+-   [ossify](https://www.merriam-webster.com/dictionary/ossify)
+    
+    Aug 29, 2020|
+    
+-   [oviparous](https://www.merriam-webster.com/dictionary/oviparous)
+    
+    Aug 28, 2020|
+    
+-   [oviparity](https://www.merriam-webster.com/dictionary/oviparity)
+    
+    Aug 28, 2020|
+```",extratone,2021-05-26T02:07:37Z,2021-05-26T02:36:30Z,
+The Psalms Firefox Theme,Dev,extratone,2021-06-07T21:37:57Z,2021-06-07T21:37:58Z,open,"documentation, meta, dev",https://github.com/extratone/bilge/issues/157,"![image](https://user-images.githubusercontent.com/43663476/121091331-702af600-c7af-11eb-9e44-f2fb06fedfa2.png)
+
+# [The Psalms' Firefox Theme](https://addons.mozilla.org/en-US/firefox/addon/psalms/)
+
+`https://addons.mozilla.org/en-US/firefox/addon/psalms/`
+
+A Firefox theme inspired by the style of my World Wide Web Blog, [_The Psalms_](https://bilge.world).
+
+As such, these two resources inadvertently serve in documenting the specifics of its style:
+* The blog's [Colophon](https://bilge.world)
+* This [GitHub Repository](https://github.com/extratone/bilge)",extratone,2021-06-07T21:37:57Z,2021-06-08T05:43:23Z,
+Optimize Mastodon Embeds,Dev,extratone,2021-06-20T16:43:31Z,2021-06-20T16:43:31Z,open,"documentation, enhancement, refinement, social, dev",https://github.com/extratone/bilge/issues/162,"Mastodon Embeds are not displaying very well at all. Here's what inspection yields from the CSS:
+```css
+.reply-indicator__content, .status__content;
+```
+A good place to start...",extratone,2021-06-20T16:43:31Z,2021-06-20T16:43:31Z,
+"Windows 11 ",Dev,extratone,2021-07-17T10:34:51Z,2021-07-17T10:34:52Z,open,"documentation, legacy, dev, event, beta, configuration",https://github.com/extratone/bilge/issues/198,,extratone,2021-07-17T10:34:51Z,2021-09-04T01:05:57Z,
+Raindrop Screen Capture Deluge Collection,Dev,extratone,2021-07-24T23:37:45Z,2021-07-24T23:37:45Z,open,"documentation, meta, i, curation",https://github.com/extratone/bilge/issues/207,,extratone,2021-07-24T23:37:18Z,2021-07-24T23:37:45Z,
+App Store Review Day,Dev,extratone,2021-07-26T03:56:51Z,2021-07-26T03:56:52Z,open,"time-sensitive, i, event",https://github.com/extratone/bilge/issues/208,"### Discussed in https://github.com/extratone/bilge/discussions/194
+
+<div type='discussions-op-text'>
+
+<sup>Originally posted by **extratone** July 15, 2021</sup>
+![Mastodon iOS Apps](https://i.snap.as/vAk0jm6X.png)
+
+## A commitment to share my thoughts where developers actually want them, and an invitation for other reviewers/users to join me.
+
+I have written more than my fair share of words about software, as I have loved, despised, and been utterly perplexed by it. This year, my return to the iOS community has perhaps inevitably turned _apps_ into an addiction of sorts. This particular platform is so utterly chock full/stocked up of creativity at a scale immeasurably greater and more accessible than the whole of those throughout computing history, combined. For someone like myself, it is all too easy to allow oneself to wander down a virtually endless path of intriguing, very self-indulgent play, especially now that third-party sites like [Departures.to](https://departures.to) have managed to add discoverability to TestFlight beta distributions, allowing those non-millionaires among us opportunities to use test releases of applications we would’ve otherwise had to pay for. This has been exclusively to my benefit - I can only imagine what 15 year-old me would have done with such power.
+
+![Your Ratings and Reviews - Apple App Store](https://i.snap.as/jIYBC6xU.png)
+
+In my recent endeavor to focus on making my work more useful to others, I've reflected on something I've heard from nigh every developer of the apps I've reviewed: *Ah yes, your blog looks really cool but FOR THE LOVE OF GOD, PLEASE REVIEW MY FUCKING APP on the FUCKING STORE.* Read: your commentary is appreciated, but your five stars would almost certainly more economically beneficial. As you can see from the image embedded above, I have personally fallen *very* behind in doing my part for those apps I've celebrated, here. A vague intention to *get around to it eventually* clearly is not working, so I've decided to give myself a deadline: **August 15th, 2021** - precisely one month from today. By this date, I will have sifted through my commentary on apps in this setting and adapted the most useful of it (per app, obviously) into a manner appropriate to appear on an App Store Page, and **I would like to formally-ish invite other tech writers/app reviewers to join me**.
+
+https://twitter.com/NeoYokel/status/1402057069927309318
+
+I'm terrible at community organization, which certainly does not exclude events, so I very much welcome any feedback you might have, as well as any collaborative contributions you'd be interested in making. As I see it, I have a few essential considerations to offer. First, the page in the screen capture above - which can be found in the App Store App ⇨ Account (your profile picture in the top-right corner) ⇨ Account Settings (the tapable element at the very top with your profile picture and information) ⇨ Ratings and Reviews - is *broken as hell*, along with the rest of the Account Settings menu, notably. This is important because I insist we all complain about it on all available channels, considering it's been broken for several months, at least. Second, you should almost certainly use [**this ""new"" dev-facing tool**](https://tools.applemediaservices.com/app-store/) when searching the App Store, considering that it *actually works* in a trustable way, unlike the user-facing tool in the app.
+
+https://twitter.com/NeoYokel/status/1415732070626758663
+
+Since the standard online palette of event organization software are all so easy to use, these days, I've established event pages for this event on multiple platforms, linked in the list below, which I will update as per any suggestions/requests for equivalent pages on other services. Of course, it's certainly not a requirement that you join/engage with any of them. One could could certainly just add the date to their own calendar (conveniently with [this .ics file](https://drive.google.com/file/d/1WM2esll-Yf5Fg4gO9ZYVAJ0pPrdexGqF/view?usp=sharing),) remain entirely silent about the thing on social, and still be participating. Those interested in further engagement, however, can Chat Me Up on [*Extratone*'s Discord](https://bit.ly/extratone), the [Teams event chat](https://teams.live.com/meet/93913819139325), [Telegram](https://t.me/extratoe), [etc](https://davidblue.wtf). I also plan to reshare most of this post as [a thread on Twitter](https://twitter.com/NeoYokel/status/1415732070626758663).
+
+- [GitHub Discussion](https://github.com/extratone/bilge/discussions/193)
+- [.ics File](https://drive.google.com/file/d/1WM2esll-Yf5Fg4gO9ZYVAJ0pPrdexGqF/view?usp=sharing)
+- [Microsoft Teams Event](https://teams.live.com/meet/93913819139325)
+- [Google Calendar Event](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3BtdXBnajdzbGNyMmNqNjdrc3RydmQ2bXIgY2xhc3Nyb29tMTAzNDc2ODc1MDQ0OTI5MTA0NzA3QGc&tmsrc=classroom103476875044929104707%40group.calendar.google.com)
+- [Facebook Event](https://fb.me/e/2umaM71vI)
+- [Dev-facing App Store Search Tool](https://tools.applemediaservices.com/app-store/)
+
+As we face the horrendous, utterly inexcusable state of Discovery on the App Store/Apple's general fuckery regarding the independent developers mostly responsible for making its platforms a worthwhile space, I hope I've created something of value in whipping up this ""event."" If you have thoughts on how I might do so more effectively, once again, *please do* reach out.
+
+#software</div>",,2021-07-26T03:56:51Z,2021-07-26T03:56:51Z,
+Whyp!!,Dev,extratone,2021-09-01T15:43:56Z,2021-09-01T15:43:57Z,open,"documentation, update, social, music, curation, dev, audio, beta, media",https://github.com/extratone/bilge/issues/75,"![image](https://user-images.githubusercontent.com/43663476/110021575-89279500-7cf0-11eb-977f-cfa83a01f0b7.png)
+
+![image](https://user-images.githubusercontent.com/43663476/110021624-993f7480-7cf0-11eb-8529-890dabc7a35f.png)",extratone,2021-03-04T19:50:40Z,2021-10-16T05:55:54Z,
+Obsidian Attempt,Dev,extratone,2021-09-03T08:40:01Z,2021-09-03T08:40:01Z,open,"documentation, meta, dev, beta, configuration",https://github.com/extratone/bilge/issues/219,"I realized if I'm ever *actually* going to get myself working enough in Obsidian to actually give it a try, it's going to have to be on this repository.
+
+```
+.obsidian
+
+.obsidian/workspace
+
+.obsidian/templates.json
+
+.obsidian/config
+```
+
+The above is what I've just removed from bilge's .gitignore file for the time being.",extratone,2021-09-03T08:40:01Z,2021-09-03T08:40:01Z,
+"**This column is separate the others because it contains static, editorial-related intentions.**",Editorial,extratone,2021-05-15T08:25:03Z,2021-05-15T08:25:03Z,,,,,,,,
+Arbalest on Better Feedback | Bear Beta Community,Editorial,extratone,2021-04-05T08:32:23Z,2021-05-04T12:09:05Z,open,oop,https://github.com/extratone/bilge/issues/94,"[**Original Thread**](https://beta.bear.app/t/the-default-image-insert-action/1523)
+
+**David Blue**
+_I’m gonna be pretty strong on this one because I’m confident that I’m speaking for most users,  so if I’m not, I’d appreciate users’ response to this thread even more than usual._
+
+Regarding the button to insert an image into a note, I’d ask that you guys take a second to consider your own workflows: **how many of the images in your various notes were actually captured and embedded _from within Bear_?**
+
+Honestly, were I developing a notetaking app, I don’t think it would even occur to me to add a _capture image now_ button at all. While I have certainly done so in the very early days of Day One, I do not consider it a rational or advantageous function, whatsoever, and I knew it immediately even way back then. Especially considering the complexity of the camera app, now, with all of its configurable variables (as well as all the different options for physical gestures to open it.)
+
+To **clarify my proposed alternative**: having the Insert from Photo Library button on “top” of its stack in the new menu so that one needn’t long press to insert an image from their photo library.
+(I suspect others use it the _least_, in fact, so I would even go so far as too suggest that it should be _last_ behind Insert Image from File, but I’m not quite as confident when it comes to the average user in that addendum.)
+
+Imo, this is actually a great opportunity to once again demonstrate just how thoughtful I know Bear’s UX authorities must be - that immediately obvious truth that it was built by people who actually use it hehe.
+
+Once again: if this comes across as off-target to anyone, I’d very much appreciate pushback. 
+
+Thanks for your time :)
+
+***
+
+[**Arbalest**](https://beta.bear.app/u/Arbalest)
+
+Hello David,
+
+Since you asked, here are a few observations and my own use case & workflow.
+
+Passion for apps makes sense as many people integrate workflows and personal time/data into apps, especially note apps. I feel the same desire and want the Bear Team to to get Panda “right.” So coming off strong is fine, however I don’t think you need to intro with it. I think most users on here are passionate about note taking apps since we’re all testing an alpha product, and I’m guessing the devs are aware of this.
+
+It would have been more interesting simply to have asked a general question (as you did in ¶2) and pool data about how “most users” use Bear rather than assuming you speak for them all. In addition to here, you could have asked on Reddit, and even polled friends on Facebook and Twitter if you were curious. Sharing your use case and/or workflow would also help the devs. In your post, you wrote what you wanted them to do (¶4), but didn’t explain your own workflow. Additionally, you called their design decision “irrational” (¶3) but then complemented them on how thoughtful Bear’s UX team is (¶5)… confusing.
+
+I am confident that the Bear team wants to make Bear in a way that aligns with their vision for the app and meets customer’s needs… they need and want your feedback and need lots of data (pooled across many users) to do that well. One thing is for sure… they do have a vision since a product like Bear doesn’t happen by accident.
+
+To give you an answer to your question, most of my images in Bear were added from within Bear. I arrive in field to a location with my iPhone, jot a few notes, and take pictures in app. At any one site, I’ll take 5-10 photos and annotate notes about each individual artifact and or structure… I’m looking at old things, like 1,800 to 4000+ years old. Then I go home to my iPad, which actually is in my backpack the whole time I’m out, and sit down to research some of the objects further, typing notes into Bear
+
+So, there is some time crafting this post as I know you spent time crafting yours.
+
+***
+
+**Contd**
+
+Also, if you have a link to your project for iPhone+keyboard users, you should throw that in the Feedback feed too, or even a summary of its functionality. I think Bear/Panda and forum followers would be interested in how you use Bear. Again… its more feedback and data for the devs and you may provide a solution to the other Bear enthusiasts that check this forum. Well, TTFN :thumbsup:
+
+***
+
+**David Blue**
+
+> I  arrive in field to a location with my iPhone, jot a few notes, and take pictures in app. At any one site, I’ll take 5-10 photos and annotate notes about each individual artifact and or structure… I’m looking at old things, like 1,800 to 4000+ years old. Then I go home to my iPad, which actually is in my backpack the whole time I’m out, and sit down to research some of the objects further, typing notes into Bear
+
+This is so fascinating and beautiful to imagine!
+
+I am so inexpressibly thankful you took the time you did (and I know it takes time and energy!) to break down where I could have done a lot better, here. I think there's more insight about bad habits in my feedback in a single paragraph of yours than I've found in months (...years?) of thinking on it, myself. I think I'm gonna make a new habit of re-reading it before every feedback submission, generally.
+
+(Yet again, this community has ended up doing *me* a favor lol)
+
+Regarding the **iPhone x Bluetooth Keyboard Guide**, I'm trying to be as deliberate and socially-effective as I can from step 1, which means concentrating on exploring connections with other users and developers (like this one!) 
+
+On that note, I just converted the original Issue on my blog's GitHub Repo into [**a new Discussion thread**](https://github.com/extratone/bilge/discussions/93), which seems to me like an ideal gathering place for now. 
+
+(Hopefully, I've configured it correctly for public replies.)
+
+Thank you again... I owe you.",extratone,2021-04-05T08:32:23Z,2021-04-05T08:32:23Z,
+"""Writing in Public with Git""",Editorial,extratone,2021-04-20T16:42:05Z,2021-05-04T20:16:01Z,open,"documentation, meta",https://github.com/extratone/bilge/issues/102,"![image](https://user-images.githubusercontent.com/43663476/115433556-54529d00-a1cd-11eb-8e10-3540f7f4da20.png)
+",extratone,2021-04-20T16:42:05Z,2021-08-24T05:11:39Z,
+YouTube Channel Tagsets,Editorial,extratone,2021-02-19T20:37:39Z,2021-05-04T20:16:12Z,open,documentation,https://github.com/extratone/bilge/issues/68,"Sorry, this doesn't really belong in this repo, but... Either the copy button was just added to the tags section in YouTube Studio or I've somehow managed to miss it until now.
+
+Either way, I'm gonna need to attach some fucking _docs_ to this. Sorry.
+",extratone,2021-02-19T20:37:39Z,2021-02-19T20:37:39Z,
+"Archiving *The Tone,* *Freq Check*, and *The Psalms* (My old TinyLetter.)",Editorial,extratone,2021-05-08T08:16:25Z,2021-05-15T08:20:52Z,open,"documentation, meta, legacy, lapse, editorial",https://github.com/extratone/bilge/issues/132,"* [*The Tone* archives](https://us14.campaign-archive.com/home/?u=7715f70b539dafc216104455f&id=f3eb733712)
+* [The few issues of my Editor's Letters which I published through Mailchimp.](https://us14.campaign-archive.com/home/?u=7715f70b539dafc216104455f&id=89161e3b4d)
+* [My old TinyLetter](https://tinyletter.com/DavidBlue/archive) probably has the greatest potential to offer something appropriate to publish, here, but maybe I just haven't looked at it in far too long lol.
+
+* [Editor's Letters | David Blue](http://web.archive.org/web/20170117171051/http://www.extratone.com/meta/freq) <- how they _originally_ looked lmao...",extratone,2021-05-08T08:16:25Z,2021-05-08T08:16:25Z,
+Music Curation Wiki Page,Editorial,extratone,2021-01-03T18:53:02Z,2021-05-15T08:21:32Z,open,documentation,https://github.com/extratone/bilge/issues/57,Add a wiki page with Apple Music links.,extratone,2021-01-03T18:53:02Z,2021-01-03T18:53:02Z,
+Han-yi Shaw,Editorial,extratone,2021-05-03T04:33:54Z,2021-05-15T08:22:22Z,open,"documentation, social, cinema",https://github.com/extratone/bilge/issues/120,"# Han-yi Shaw - Mobile Word Processing World Champion, 2015
+
+![Han-yi Shaw](https://user-images.githubusercontent.com/43663476/116841320-74efff00-ab9e-11eb-8f64-afdbaf247b8e.png)
+
+<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/eTZWm-l5CnI?controls=0"" title=""YouTube video player"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>
+
+## This is an excerpt with commentary from a guest presentation during the iPad Pro unveiling at Apple's Fall 2015 special event.
+
+It was, indeed, a relatively important one, as arguably the definitive moment leading to the relationship between Apple, Inc. and Microsoft constructing the context that makes first watch so crass. What I want to focus on, though, is the demonstrator. In the video, I said he wasn't named immediately before Kirk names him (just by first name, though.) Ashamedly, I struggled with the spelling of Han-yi - thank Gourd for [the transcript](https://singjupost.com/apple-special-event-september-9-2015-full-transcript/?singlepage=1). Once I had the spelling of his first name, I immediately found [**Han-yi Shaw on LinkedIn**](https://www.linkedin.com/in/hashaw). 
+
+I plan to do my best to get in contact with Han-yi about the discipline I saw in his touch interactions with iOS, if for no other interest than bettering my own use. 
+
+`https://www.youtube.com/watch?v=eTZWm-l5CnI`
+
+
+
+## The [Original Video](https://youtu.be/0qwALOOvUik?t=2028) (Minus My Commentary)
+
+`https://youtu.be/0qwALOOvUik?t=2028`
+
+<iframe width=""560"" height=""315"" src=""https://www.youtube.com/embed/0qwALOOvUik?controls=0&amp;start=2028"" title=""YouTube video player"" frameborder=""0"" allow=""accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"" allowfullscreen></iframe>
+
+## Adjacent Media Reference
+
+* A [single-page full transcript of the event](https://singjupost.com/apple-special-event-september-9-2015-full-transcript/?singlepage=1).
+* ""[Apple's iPad Pro is the best illustration of the new Microsoft](https://www.theverge.com/2015/9/10/9300175/new-microsoft-software-services-ipad-pro)"" | *The Verge*",extratone,2021-05-03T04:31:12Z,2021-05-03T21:35:49Z,
+Fucking Text on iOS,Mulling,extratone,2021-07-16T17:15:25Z,2021-10-16T09:12:23Z,open,"legacy, lapse, i, spectacle",https://github.com/extratone/bilge/issues/197,## Explore/exploit Unicode characters to the absolute fullest with these raucous apps and methods.,extratone,2021-07-16T17:14:57Z,2021-07-16T17:15:25Z,
+Opera GX,Mulling,extratone,2021-06-09T21:46:58Z,2021-10-16T09:12:16Z,open,"documentation, curation, dev",https://github.com/extratone/bilge/issues/160,"![Opera GX – Horizontal – Negative](https://user-images.githubusercontent.com/43663476/121433901-35a59280-c942-11eb-8b93-1b06abdccfd0.png)
+![Opera GX – Horizontal – Positive](https://user-images.githubusercontent.com/43663476/121433905-363e2900-c942-11eb-8f02-c394facba696.png)
+![Opera GX – Vertical – Negative](https://user-images.githubusercontent.com/43663476/121433906-363e2900-c942-11eb-82d4-da4d38f7d199.png)
+![Opera GX – Vertical – Positive copy](https://user-images.githubusercontent.com/43663476/121433908-36d6bf80-c942-11eb-9824-ca02574d6f3a.png)
+![Opera GX – Vertical – Positive](https://user-images.githubusercontent.com/43663476/121433909-36d6bf80-c942-11eb-8c90-567dcb3c192f.png)
+
+## I have no idea what the fuck Opera is thinking, but I love them for doing something this insane.
+",extratone,2021-06-09T21:46:58Z,2021-06-09T21:46:58Z,
+"""Track Changes Review""",Mulling,extratone,2020-11-24T09:19:41Z,2021-02-06T03:04:08Z,open,,https://github.com/extratone/bilge/issues/15,,,2020-11-24T19:26:13Z,2020-11-24T19:26:13Z,
+"Attempts to separate ""Podcasts” from RSS",Mulling,extratone,2021-04-28T21:25:44Z,2021-09-19T10:39:09Z,open,"meta, legacy, social, editorial, audio, spectacle",https://github.com/extratone/bilge/issues/112,,extratone,2021-04-28T21:25:12Z,2021-10-05T13:47:10Z,
+"░W░I░N░D░O░W░S░ ░1░1░ ",Mulling,extratone,2021-09-02T17:30:07Z,2021-09-19T10:42:35Z,open,"documentation, legacy, hardware, dev, beta, configuration",https://github.com/extratone/bilge/issues/167,"
+https://user-images.githubusercontent.com/43663476/123301540-5d1f6200-d4e1-11eb-9f03-655d916d8024.mp4
+
+
+https://user-images.githubusercontent.com/43663476/123301550-5f81bc00-d4e1-11eb-968b-61f630129e0b.mp4
+
+
+https://user-images.githubusercontent.com/43663476/123301554-614b7f80-d4e1-11eb-8525-4b598634968e.mp4
+
+
+https://user-images.githubusercontent.com/43663476/123301557-627cac80-d4e1-11eb-9a3e-03c0534e66d3.mp4
+
+
+https://user-images.githubusercontent.com/43663476/123301565-64df0680-d4e1-11eb-9979-81905b641d44.mp4
+
+
+https://user-images.githubusercontent.com/43663476/123301567-65779d00-d4e1-11eb-9d8a-401d1404118e.mp4
+
+
+https://user-images.githubusercontent.com/43663476/123301585-6a3c5100-d4e1-11eb-9ac6-8c14c8011452.mp4
+
+
+https://user-images.githubusercontent.com/43663476/123301587-6b6d7e00-d4e1-11eb-8234-cbfde7aa69ab.mp4
+
+",extratone,2021-06-24T16:44:43Z,2021-09-02T17:30:40Z,
+"""Microsoft Browsing Review""",Mulling,extratone,2020-11-24T09:18:27Z,2021-02-06T03:04:07Z,open,,https://github.com/extratone/bilge/issues/9,,,2020-11-24T19:25:51Z,2020-11-24T19:25:51Z,
+"""Echoes in Twitter Spaces"" (B I R D H 0 U S E)",Mulling,extratone,2021-03-11T21:50:13Z,2021-09-19T10:39:05Z,open,"documentation, social, i, audio",https://github.com/extratone/bilge/issues/79,"![samspace](https://user-images.githubusercontent.com/43663476/110859684-67df1f80-8281-11eb-95a5-d8607969c373.jpg)
+
+* [Matt Daniels](https://twitter.com/mygunisquick)
+* [Mike Elgan](https://twitter.com/MikeElgan)
+* [February 17th Sam Space](https://youtu.be/ZZH-SHzE8XQ): https://www.youtube.com/watch?v=ZZH-SHzE8XQ
+
+",extratone,2021-03-11T21:50:13Z,2021-08-26T18:43:39Z,
+"""The Notion Cult""",Mulling,extratone,2020-11-24T09:19:02Z,2021-02-06T03:03:04Z,open,,https://github.com/extratone/bilge/issues/12,,extratone,2020-11-24T19:26:02Z,2021-05-22T14:51:39Z,
+"""The Ghost Media""",Mulling,extratone,2020-11-24T09:19:26Z,2020-11-24T19:26:07Z,open,,https://github.com/extratone/bilge/issues/13,,,2020-11-24T19:26:07Z,2020-11-24T19:26:07Z,
+"""Min Browser Review""",Mulling,extratone,2020-11-24T09:18:34Z,2020-11-24T19:25:55Z,open,"time-sensitive, legacy, update",https://github.com/extratone/bilge/issues/10,,extratone,2020-11-24T19:25:55Z,2021-03-06T08:40:35Z,
+"""In Defense of Just Fucking Around""",Mulling,extratone,2020-11-24T09:18:13Z,2020-11-24T19:25:43Z,open,"documentation, editorial",https://github.com/extratone/bilge/issues/8,,,2020-11-24T19:25:43Z,2021-05-22T17:32:27Z,
+"""Grammarly Is the End of All Language""",Mulling,extratone,2020-11-24T09:17:48Z,2020-11-24T19:25:38Z,open,,https://github.com/extratone/bilge/issues/7,,,2020-11-24T19:25:37Z,2020-11-24T19:25:37Z,
+"""The Magic of Periscope""",Mulling,extratone,2020-11-24T09:27:23Z,2020-11-24T09:27:23Z,open,,https://github.com/extratone/bilge/issues/5,,extratone,2020-11-24T09:27:23Z,2020-12-15T20:18:00Z,
+"""Children of the Corn 30"" Adapted into a short Novella",Mulling,extratone,2020-12-03T03:06:50Z,2020-12-03T03:06:50Z,open,legacy,https://github.com/extratone/bilge/issues/22,,extratone,2020-12-03T03:06:50Z,2020-12-03T15:51:39Z,
+"""The Value in Mediocre Entertainment""",Mulling,extratone,2020-12-03T12:53:59Z,2020-12-03T12:54:00Z,open,,https://github.com/extratone/bilge/issues/27,,extratone,2020-12-03T12:53:59Z,2020-12-03T12:53:59Z,
+Writeas/Writefreely Handy Tips,Mulling,extratone,2020-12-03T13:11:25Z,2020-12-03T13:11:26Z,open,documentation,https://github.com/extratone/bilge/issues/28,"-Best of/key explanations from the [forums](http://discuss.write.as/).
+-A short video actually demonstrating custom CSS/JS for new users.
+-tw-align-center!",extratone,2020-12-03T13:11:25Z,2021-05-25T17:45:00Z,
+"""The Captivating Depths of the Internet Archive""",Mulling,extratone,2020-12-03T14:28:10Z,2020-12-03T14:28:10Z,open,legacy,https://github.com/extratone/bilge/issues/29,![Punk Show Etiquette](https://archive.org/download/punk.show.etiquette.jpg/punk.show.etiquette.jpg),extratone,2020-12-03T14:28:10Z,2020-12-03T14:28:10Z,
+"""Cracker Barrel Crucifixion"" (True/False?) ",Mulling,extratone,2020-12-03T14:29:37Z,2020-12-03T14:29:37Z,open,legacy,https://github.com/extratone/bilge/issues/30,"Unfortunately, I'm an authority on Columbia, Missouri.
+
+Just two hours away from the mathematical center of the United States by motorcar, the hundred-something thousand people of this midropolis find themselves clustered around the center of most intellectual spectrums, huddled together for company. The ideological one, in particular, is absolutely smelly with foot-to-foot-shuffling liberals, and they've had their palms facing a very particular fire for over a decade, now.
+
+It's called True/False, and it must be the least famous most prestigious film festival in the world. In a local radio interview, co-creator David Wilson (who stopped by my house for dinner once, I think) claimed that 50,000 people showed up last year, but I can't imagine where they all slept. Perhaps on air mattresses in the back of their Subaru wagons. No, I have no use for cheap jokes anymore. (The Murano CrossCabriolet is the official vehicle of this godforsaken place, anyway.)
+
+Let's just say that the population is halving-again around me as I write you, at least. It's not unreasonable to bet on an even more substantial turnout this year, given Tump's fundamentally anti-Columbian vocabulary, and well... the title of True/False.
+
+The latest joke I've been tossing around is that this publication's primary coverage to date has actually been of my own emotional development. If this ""true"" from your perspective, I'm not particularly bothered. Reflection may not be New, but I think - and hope - it can be helpful in mitigating contradictions, discrepancies  and other species of obstacle in your own life.
+
+A Confession
+
+I fell asleep for the entirety of the last True/False screening I attended.
+It was a film about the story of a young woman's flight from an abusive household. Or at least... something like that. I'd skipped sleeping the night before and found myself struggling to keep my eyes open just minutes after the lights had dimmed. 
+
+And I didn't return to consciousness until they brightened again as the applause faded in and the occupant of the seat immediately to my left stood up, alone, and made her way to the stage. I'd slept through every frame of the documentary of which she was the subject, right next to her.
+
+Guilt is one of those motivators that possess truly gargantuan, universal power over human beings. I decided that the culture and I were toxic for each other, and haven't been back, since. (I think that was 2015.)
+
+It's day #1 of screenings, and I haven't slept, but I have every intention of introducing myself to my immediate fellow audience to confirm their lack of involvement in the production of the film, should I begin to lose gumption again.
+
+Amongst the Real Magazine Boys, there is a culture of silence regarding day-to-day operations, personal career stories, and industry meta, in general, because their experiences with absurdly low wages and salaries learns them a mean greed of their words (and information, in general,) as they accumulate over time. It may be gluttony, but it is simply a law of nature in the exposure-bound servitude of the ad model.
+
+Extratone's advertising chastity means that we are free to develop our own system of self-appraisal, and if our innocuous little website really is covering my late maturation, it is also covering itself, so it's worth noting that we have been given a media pass to this year's event, as much as I wanted to play it cool.
+
+Technically, it's the first press credential of this - my nine-month-old Online son, and I am very proud. It's a big deal; True/False attendance can cost hundreds or thousands of dollars, and we get to send one body for nothing at all. To be honest, contacting the press office did not occur to me until a week ago, so I certainly didn't expect anything more than policy documents, but I received An Email just hours after my request.
+
+I've already overlapped too much with this month's (upcoming) Editor's Letter, I'm sure, so I'll do my best to minimize transparency this weekend as much as I can. 
+
+True/False's particular nature does not lend toward any sort of live coverage or urgent correspondence, and neither do we. But we are counterculture, so I'm going to brew up a liveblog dedicated to conversations overheard while queuing, and may continue this sort of unrevised ""blogging"" nonsense as my attendance progresses, depending on how bored I am.
+
+The asses of Ben Stokes and Leo Marx have the pick of the lot over my own, which should be exciting news, given their unique perspectives on film and culture, respectively. I've been trying to convince Tim to wear his pink suit to the thing - especially the ""VR Arcade."" Do me a favor and bother his Twitter about it.
+
+When neither are available though, I will be making every possible use of this privilege, even though my net worth is currently nill, so I may actually end up needed to keep a fucking loaf of bread in my car.",extratone,2020-12-03T14:29:37Z,2020-12-03T14:29:37Z,
+"""Rock Springs, Wyoming""",Mulling,extratone,2020-12-03T14:32:17Z,2020-12-03T14:32:17Z,open,legacy,https://github.com/extratone/bilge/issues/31,"TRAVEL FILTH / FOOD BILE
+ 
+A quantitative, industry-grade review of a stranding, unsettling, and scarring little town in Sweetwater County.
+Hawthorn and I were on what was supposed to be the last leg of our cross-country roadtrip to Portland, blasting up the vast, otherworldly Interstate 80, about 90 minutes East of the Utah border. It was late afternoon and we were both beginning to get hungry, so we decided to stop in Rock Springs, which the roadside signage had been emphasizing for a significant distance. Despite its miserly population of less than 25,000, the area is the fourth most populated municipality in the state. (Incredibly, Cheyenne - capitol and most populate of Wyoming - has only 62,845 occupants as of 2014.)
+
+
+I spied and set course for Exit 104, but hit some kind of massive, traumatic fissure in the asphalt with my XJR’s right-front tire (this will become important information momentarily.) The sort of impact that makes you yell, but doesn’t quite worry you about a puncture or damaged suspension, though perhaps it should have worried me, considering that I’d already destroyed two tires and a wheel in a particularly-harrowing pothole strike in July, back in rural Missouri. Regardless, the twenty-year-old, massively overladen Executive Saloon had already endured so much more than I would’ve expected from it in the past four days of the trip - including the moderately treacherous Loveland Pass near Keystone, CO - that my confidence in its invulnerability had been significantly bolstered.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+[siteorigin_widget class=""SiteOrigin_Widget_Headline_Widget""][/siteorigin_widget]
+I also posted the following section on Yelp! - my new toy - as my review of the Renegade.
+
+
+The exit’s ring-around-the-rosy revealed a nearby oddity: a banner for “AMERICAN AND CHINESE FOOD” around a rather neglected looking diner situated in the center of a decaying asphalt parking lot. Hawthorn had been craving Chinese cuisine for weeks. I parked us quite close to the entrance and winced too late at my contextually-idiotic getup as we entered - my borrowed black women’s skinny jeans and the bright red “FUCK TRUMP” pin on my jacket collar were likely the cause of the trouble included in the long-lingering stares we received. The place’s demeanor indicated a regular-saturated atmosphere - two young couples in working clothes would come and go in the hour or so it took us to get our food and eat. The rest of our company were significantly elder - quiet and weary.
+
+
+Our waitress seemed to be neutral to us and professionally welcoming. She took our orders promptly and tended to our coffee consumption politely, despite my waning farm boy manners. Of course, we were the loudest of the whole bunch, shuffling around a huge road atlas, laughing at the television’s display of Fox News, and admiring from a distance the user interface of the “Renegade Restaurant’s” prehistoric point-of-sale system. The menus were simply split equally between “Chinese” and “American” dishes. I’m 90% sure I ordered a burger and fries, which were forgettable, but my taste is subpar enough to be totally irrelevant. Hawthorn reported seeing a cook drop a carrot on the ground before adding it to a dish. She ordered “something Chinese,” but would experience enough disgust that she prefers not to recall more specifically.
+
+
+“It was bad. I didn’t take pictures of it because it was too grotesque to look back at. I felt ill during and after the meal. Slimy.”
+
+
+After we ate, we crossed Highway 191 to fill up at the Flying J, which was so well-stocked and spectacular (I found the most beautiful CB radio I’ve ever seen) that we ended up lingering in the store for some twenty minutes before pre-paying for our fuel. As we walked back to the car, I noticed something odd about the right-front tire - a ten-inch gash in the outer sidewall had appeared sometime since our last stop in Colorado, late that morning. To me, it looked like tread separation - the beginnings of the outer tread’s leave from the rest of the tire - which can be quite dangerous, at speed, and is often caused by pothole strikes. Naturally, I assumed immediately that it was that mid-lane-change event just before our exit that caused the wound.
+
+
+I returned to the station for my change and asked if any nearby auto service shops were likely to be open (it was now after 7PM, local time.) The attendants took a beat to arrive upon a consensus: WalMart was probably my best bet. Hawthorn remained had remained in the Jaguar, where she observed a man behaving oddly - staring at her and the car, coming a bit closer than was appropriate.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+A failed attempt to slash our tire, presumably by one of our fellow diner-goers in reaction to our liberal-ass appearance.
+[siteorigin_widget class=""SiteOrigin_Widget_Headline_Widget""][/siteorigin_widget]
+The Wal-Mart’s Tire & Lube department had just closed, but the manager was kind enough to step away from her counter and have a look. Her opinion echoed the statements I’d hear from at least three other tire service professionals: “I don’t know, but I wouldn’t drive on that.” Considering that we had another thousand miles of interstate with every last one of my possessions packed in the car, we decided we had little choice but to stay the night. As we entered the store to find alcohol and a bulb for the XJR’s just-extinguished headlight, I searched online for hotels. Though Days Inn advertised the cheapest-available room ($59,) total for the two of us in a single, smoking room was over $70.
+
+
+Before resigning to the expenditure (our cash for the trip was, of course, quite limited,) we decided to bum around town for as long as we could stand it - first, lurking outside a just-closed Starbucks to steal their wifi before moving on to IHOP, where the waitresses graciously allowed us to remain until just before close, charging our devices and researching the area. I bought a copy of The Rocket-Miner - a surprisingly well put together daily newspaper serving Southwestern Wyoming. Whilst Googling “Rock Springs,” Hawthorn happened to notice the word “massacre,” which would lead us to discover - and mildly obsess over - an infamous historical manifestation of hateful murder which stained the area’s aura forever.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+It was nearly 11 when we conceded to the ideal of a restful night. I found the elderly night watchman suffering from some horrible affliction. By the manner in which he spoke and walked, he appeared alarmingly close to death. In fact, I’m not so sure I didn’t actually revive him from his grave - after we parked in the circle drive, it took a significant moment for him to appear from the darkened corner of the Inn’s meager lobby, and his responses could barely pass as verbal communication. Mostly, he gurgled. However, he graciously waved the usual cash deposit for us and still maintained a more cheerful demeanor than I would, in his position.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+Our room, itself, was… something else. I’ve stayed in my share of shady motels, but a few especially-bizarre, long-outdated features and our continued preoccupation with Rock Springs’ bloody history combined to make the night especially unsettling.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+I’d forgotten how bad smoking rooms smell in places like these - they’re especially neglected by the cleaning staff and must only be frequented by the sort who smoke Decades and Pall Malls, watching ancient MASH reruns at three in the morning. Perhaps that’s just what I’d like to think - at least ours didn’t smell like piss, though the door’s peephole was stuffed with dirty tissue, the bathtub had a large whole that was surely causing actual water damage each and every time it was filled, and the couch’s faux leather was visibly greasy.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+Free wifi was also advertised, unsurprisingly, but our room was just out of usable range of the router - close enough to tease connectability, which fooled me for half an hour of frustrating attempts to log in the archaic, HTML-only page.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+Then, we made the mistake of turning on the old CRT television, and quickly discovered the unsettling spectacle that is the public information cable channel of nearby Greenville, Wyoming, which played a slideshow of absurdly-designed PowerPoint cards to a skipping CD of Tchaikovsky’s “Grand Sonata in G Major.” Through them, we were introduced to the Nightmare Parade (a Halloween occasion - we estimate the presentation had not been updated since July) and The Tremendous and Terrible Pete Rust, Mayor and Lorde of the Land, all of it behind an everpresent and enduring watermark: “WELCOME TO DAYS INN.”
+Thing are happening in the community, indeed. It’s important to remember, though, that Days Inn is a two-star establishment, and - if anything - the “quality” of our room was on-par or above with that of most alternatives within its price bracket. It’s not as if we were hurt or robbed – as if our room was not utterly luxurious compared to the nightly dwellings of the vast majority of human beings, even. The only actually troubling experience was the literature we discovered about The Rock Springs Massacre.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+[siteorigin_widget class=""SiteOrigin_Widget_Headline_Widget""][/siteorigin_widget]
+In 1885, Rock Springs was a mining town with a fairly large population of Chinese immigrants and a history of building violence against them. They’d built the railroad networks that fast-industrialized the West coast, and had stayed for good money.
+
+
+“If they were careful, in a few years they could save a lifetime’s fortune to take back home.”
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+The Union Pacific railroad owned the mine, and had for decades been increasing pressure on the culture of Chinese and white miners, who had worked “side by side every day” but maintained speaking “separate languages and [living] separate lives.” They’d lowered wages and encouraged employees to buy day-to-day necessities at company-owned stores for inflated prices, spawning worker strikes that would escalate to firings in 1871, and the presence of federal troops in 1875. By 1885, the two were utterly split – the 300 whites lived downtown, and the 600 Chinese lived in Chinatown in the northeast. That Summer, there were “scattered threats and beatings” of Chinese men in three major Wyoming settlements: Cheyenne, Laramie, and Rawlings, but they were more or less ignored by Union Pacific.
+
+
+Most resources on the matter mention the disgruntled white miner’s Union – the nazi-named Knights of Labor – supposedly formed because of the Chinese workers’ willingness to work for lower wages, which naturally ceilinged wages across the board. A member of the latter was killed by white employees in mine No. 6 on September 2nd in a scuffle, spawning a viciously escalating wave of “100 to 150 armed white men” who eventually mobbed Chinatown, unbridled, burning children alive in their dirt basements and publicly & horrifically mauling men and women in the streets. All in all, 28 Chinese were killed, and 15 wounded. They destroyed millions of today’s dollar’s worth of homes and demanded that “the Chinese should be no longer employed” before they’d cease and resume work. The governor of Wyoming began sending long, frantic telegrams to then-President Grover Cleveland, detailing the carnage and emphasizing their law enforcement’s desperate requirement for military support, which wouldn’t arrive and assemble for three days. Eventually, the “Knights” would be stayed, and many of the fleeing workers rescued, but the survivors’ post-massacre plight was far from heartwarming. Despite having provided the context to one of the worst hate crimes in history, their employer would soon issue an ultimatum to the Chinese miners who remained in the area: report to work, or be terminated and simultaneously banned from ever riding a Union Pacific train again.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+It would be inappropriate for me to express any thoughts beyond my horror reading associated newspaper clippings and Isaac H. Bromley’s account – The Chinese Massacre at Rock Springs, Wyoming Territory – save for my bewilderment at my own ignorance. I’d never encountered the event in any of my high school history classes, nor amidst the thousands of hours I spent watching the History Channel as a child. Even now, research turns up very little in the way of resources or organizations devoted to archiving, tracking, or reporting on hate crimes against Asian-Americans, save for Asian Americans Advancing Justice, who launched their tracker just this year. Neither Hawthorn nor I are spiritually-attuned people, per se, but it was difficult to see the community of Rock Springs without blood stains after learning about such swiftly-escalated murder spurned on the land around us, a century prior. Despite our independent attempts to restrain ourselves from cross-referencing the historic map of Rock Springs with the goddamned Maps app on iOS to see where our bed for the night was in relation to the killings, we’d both do so, discovering that – while our Days Inn (northwest area) was still across Bitter Creek from Chinatown (northeast area) – victims had been slain amidst their attempts to escape in all directions. We weren’t visited by any livid miner’s ghost, but perhaps we should have been.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+Interesting, isn’t it – given this knowledge – that our first encounter with Rock Springs, Wyoming was in the form of an “American & Chinese Restaurant” called “Renegade?” Some light digging turned up a single piece of evidence that another establishment bearing the same genre was once operating in town, but the only offered phone number has been disconnected, and their Map listings suggest that they’ve been out of business for a good while. According to City Data, there were still 306 remaining Rock Springs residents who identified themselves racially as “Asian” in 2015, though virtually all cultural evidence of the massacre seems to have been erased. The acreage where the Army base – which was constructed and manned for thirteen years afterwards – once stood was listed on the National Register of Historic Places in the 1970s, but has since been removed.
+
+
+There are no physical monuments to – or memorials for the victims of any kind, but our short visit proved that the history is wide-open, digitally, and not out-of-mind for those with ties to the area. In the morning, I’d chat up the only other Big O Tires customers present in the waiting room within their opening hour – a young woman who’d just relocated to Rock Springs from Portland with her husband and two children – who’d mention it immediately, cutting me off mid-prompt: “so, have you heard about…”
+
+
+""The massacre. Yeah...""
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+[siteorigin_widget class=""SiteOrigin_Widget_Headline_Widget""][/siteorigin_widget]
+I’ve been a long-time customer of Big O - I recently worked for the company that owns most of the locations in the Missouri area, and the store in Columbia knows my XJR and I all too well. When I discovered their presence in Rock Springs, I’d thought my luck was just showing off - I’d bought their “Road Hazard Protection Plan” on my tires, which had already served me incredibly well when I’d destroyed two of them, back in July. By policy, both were replaced for only the cost of labor and disposal. Naturally, we wanted to conserve what cash we had left for the remainder of the road trip, so the potential of such a cheap fix seemed miraculous. However, after describing the gash to the young woman and successfully shutting down her insistence that I needed an alignment, the mechanic spent less than ten minutes with my car before returning it, declaring that he “didn’t see anything.” I warned him that - should the tread separate and kill us, I’d have our bodies delivered later that day, and all his family’s sons would be cursed for 13 generations, but nonetheless failed to coax anything else out.
+
+
+On the way back to our motel, I made the split-second decision to stop by Plains Tire - Big O’s nextdoor neighbor - for a second opinion, since my eggs in one basket factor at the time was at its absolute peak. Despite knowing I wouldn’t have a bill to pay, they exhibited a wee bit more attentiveness in mentioning that that Rock Spring’s Big O Tires is actually the worst-rated location in the nation and - once again - that they “wouldn’t drive on that.” The manager suggested we proceed cautiously to the next nearest store, ninety minutes West, in Evanston. After taking it especially easy, the manager of that store suggested replacement after taking a look, but didn’t have access to the correct tire. He sent us to Salt Lake City, home of the Big O Tire distribution center for the entire country.
+
+
+Suffice it to say, I did not get a definite answer until the manager of the fourth store we visited personally checked the wound with a depth gauge, consulted with one of his techs, and finally declared it cosmetic - just vandalism. It was late evening by then - the culprit had cost us an entire day, at least - but only because I’d forgotten the secret to dealing with such businesses - instead of politely requesting what one needs of car service folk, they must make themselves as much of a problem as possible. Not to be petty, but that’s in need of a change, I think.
+[siteorigin_widget class=""SiteOrigin_Widget_Image_Widget""][/siteorigin_widget]
+Astonishingly, Hawthorn and I made it safely to Portland along with all of our skinny jeans and progressive propaganda, despite Rock Springs, Wyoming’s best efforts. Quantitatively, I must give it a rating of hate crimes out of five stars. I doubt we’ll ever return again, should the punk who failed to puncture my tire decide to finish the job. Unless I suddenly become a celebrity Yelp! travel blogger, I can’t imagine a reason to go back, though I will never forget the Nazi shit that happened there - just a few miles away from where we “slept.”
+
+
+If you ever find yourself headed West on I-80, watch out for the goddamned pothole just before Exit 104.",extratone,2020-12-03T14:32:17Z,2020-12-03T14:32:17Z,
+"""Meaningful""",Mulling,extratone,2020-12-03T14:34:45Z,2020-12-03T14:34:45Z,open,legacy,https://github.com/extratone/bilge/issues/32,"## Facebook’s “new” commitment for 2018 is not a concession and its CEO has never sought anything more noble than the continued liquidation of your attention.
+
+SCRUBS
+ 
+## Facebook is still your class enemy.
+Mark Fuck’s tradition of publicly announcing his annual “personal goal” yielded a surprising result for 2018: Facebook’s CEO intends to… do his job. Wading through his vague, cringe-laden language remains a torturous trial, but - perhaps just this once - it is worth finishing if one has the fortitude, all the while remembering, of course, that its author holds the keys to the single most intellectually powerful property in human history.
+A lot of us got into technology because we believe it can be a decentralizing force that puts more power in people's hands. (The first four words of Facebook's mission have always been ""give people the power"".)
+If it were ever appropriate for Mark to use “us” in this sentence, it was years ago - decades, even. Whatever his original intentions, he has become the most powerful centralizer who’s ever lived, directly empowering him over virtually all “people.” At the risk of echoing a dozen old men in your life, Facebook is a business, and so exists primarily to make money. “Connecting people” has been, is now, and will forever remain little more than a mostly-pleasant side-effect of the service’s operation as long as it maintains a form at all resembling its current one. Somehow, the important names in tech journalism have spent the past year acknowledging that Mr. Fuck deals primarily in attention - directing his company’s resources into developing and optimizing methods of keeping you present as long and as often as possible - while simultaneously expressing that they “like” him. Granted, many know him personally (and most are paid with advertising dollars themselves.) I do not.
+
+
+Last week, Facebook announced with a morsel more specificity its upcoming changes to its News Feed in keeping with Mark’s directive, this time relying on “meaningful interactions” as their new keyword.
+By making these changes, I expect the time people spend on Facebook and some measures of engagement will go down. But I also expect the time you do spend on Facebook will be more valuable.
+Oh, bless you, Fuck! How noble of you to show such generosity in this difficult time!
+
+
+The truth is, “meaningful engagement” is not a revolutionary new concession in the industry - it is a relatively rudimentary strategy as old as the advertising business itself, deployed as per SOP when your data says your audience needs more reason to… actually engage with your ads. Of course, it would be unreasonable to expect the public faces of a modern media company to be happy discussing bluntly all the ways it intends to profit off of its users, but the purple cloud of proximity to privilege hanging about the heads of those who should be holding them accountable has left the details catastrophically underreported. Last Fall, much of the general discourse surrounding Facebook was fueled by the disconcerting supposition that Messenger was using its access to smartphone microphones to “listen” in on day-to-day conversations in the interest of selling your most intimate & immediate wants and needs to its advertisers. Thousands of users experienced and documented bizarrely specific ads that were perceived to be far too timely to be coincidence, but advertising is anything but random. When Reply All investigated, they arrived - after discussions with ex-employees, concerned users, and industry authorities - at a disputed, but even more terrifying conclusion - the profiling techniques the service practices on its users are so thorough and complex, they supersede any need to actually overhear what’s being spoken. At any given moment, Facebook’s algorithms know more about the nuances of your consumerism than you could possibly state.
+
+
+Nobody outside of the company knows the precise extent of this unfathomably powerful collection of information and that’s fucking dangerous before any consideration of the company’s suspected role in the outcome of the 2016 election. Regardless of transparency or motive - even if Mark Fuck has happened upon some kind of guilt-catalyzing crucible and come away with a newfound commitment to sacrificing a portion of his company’s profit and/or influence for the sake of our “wellness” - it is, as always, way too fucking late. If you could devise a method of summing up entirely Facebook’s cultural and psychological consequences thus far in a collection of images - a slide show, let’s say - and project them behind him as he read his posts and press releases aloud on stage, he’d be swiftly decked in the face. His distance from the realities of his two billion daily customers is enabled by the silicon valley groupieism all too prevalent among those voices in place to be critical.",extratone,2020-12-03T14:34:45Z,2020-12-03T14:34:45Z,
+"""The Honks that Fell Silent""",Mulling,extratone,2020-12-03T14:36:49Z,2020-12-03T14:36:49Z,open,legacy,https://github.com/extratone/bilge/issues/33,"Technically, my automotive web show only ever published 5 episodes (plus the Toyota Avalon video,) but the amount of unpublished Honk material should just about match what’s available now if/when I’m able to gather the required funds and external drives to outsource the editing work. 6 years and two days ago (are you getting tired of the milestone thing, because I﻿ certainly am,) we recorded my thoughts on the 2011 Mitsubishi Eclipse GS Spyder (or something ridiculous like that) – the then-latest manifestation of an automotive product which we’d literally spent years disparaging as the lowest of the low in the design, cultural, and practical senses. Unlike the Juke or Versa, the Eclipse did nothing but affirm its crucifixion – I still vividly remember the sensation: operating the Eclipse feels like you’re driving an enlarged plastic pedal car.
+
+I distinctly recall several car mechanics from different shops in a handful of separate municipalities independently making a point to emphasize how important it was that I buy just about anything but an Eclipse when I was going on 14 and prone to those premature conversations about buying my first car. Lewis – the talented mechanic my stepdad hired to restore the machine that would become my first – my brother-in-law’s early-90s extended cab Toyota Pickup – included something like “at least you didn’t end up with an Eclipse” in that last conversation before we drove it home, a thousand-yard stare of sincere trauma on his face.
+
+﻿There is nothing redeemable about the Mitsubishi Eclipse. This I have suspected for years, and now confirmed. It is vulgar to look at, depressing to be around, and genuinely demeaning to drive.
+
+But what was the purpose, exactly, of such an embarrassingly bargain-bin coverband of a vehicle? For a tiny, performance-oriented company like Mitsubishi to have survived the SUV and (now) Crossover eras thus far in the 21st century, they needed a popular sell. Yes, for the opportunity to have enjoyed that glorious Evo X, I must in large part thank the Eclipse, which has been killed since and succeeded by the Eclipse Cross as the Brand’s Breadwinner. 
+
+Shortly after filming with the Eclipse, a curious theory smacked down upon me: what if the entire existence of these products with their mighty names had always been a grand, century-spanning industry joke at the literal expense of the West’s most ignorant car buyers? Malignant, maybe – but not malicious. What if Mitsubishi simply knew that America’s tasteless young men and women had long existed in a foul, rabid state of hunger for their dearly-beloved Wally World✪ Car? What if they recognized this weakness as their one opportunity to capitalize on the market trend they were least-equipped – even least-willing, perhaps – to survive?
+
+Though a banker may suppose otherwise – as per their historically-pale market share – Mitsubishi is more than capable of such a plot, intellectually. The Lancer Evolution is a marvel of suspension and powertrain design.
+
+✪ Wal-Mart",extratone,2020-12-03T14:36:49Z,2020-12-03T14:36:49Z,
+"""Pfaall For President""",Mulling,extratone,2020-12-03T14:38:33Z,2020-12-03T14:38:34Z,open,"no, legacy",https://github.com/extratone/bilge/issues/34,"Our fake news™ Editor-in-Chief addresses the commotion surrounding aggregated misinformation and the meaning of the ""media company"" label.
+My favorite short sto­ry of all time was pub­lished by the South­ern Lit­er­ary Mes­sen­ger in the sum­mer of 1835. It com­piles all of my favorite sto­ry ele­ments into one painful­ly tedious body: absurd prop­er nouns, com­plete­ly unbe­liev­able premis­es, lighter-than-air craft, explorato­ry con­text, and an utter­ly unsat­is­fac­to­ry aftertaste. Tech­ni­cal­ly, it’s a hoax, and could only have been spawned by the most frus­trat­ing com­ic of them all — Edgar Allan Poe.
+
+
+If you find your­self one day read­ing his col­lect­ed works cov­er-to-cov­er, The Unpar­al­leled Adven­tures of One Hans Pfaall is how you’ll be intro­duced. I’m sure the ‘ole sadist would be pleased at the thought of you crawl­ing your way through his exhaust­ing thir­ty-page-long descrip­tion of the bellow-mender’s space bal­loon and its bizarre journey.
+
+
+Originally, I’d remem­bered incor­rect­ly — a bit of light research says Pfall was a bit too absurd to be over­whelm­ing­ly believed, but it was believed — that an indebt­ed labor­er obses­sive­ly con­struct­ed a DIY diri­gi­ble which he flew to the moon before managing to convince a lunar­i­an to use it to deliv­er his sur­gi­cal­ly-detailed chron­i­cle of the jour­ney to be read pub­licly in front of his township’s civic lead­ers, only to have the scoop exclu­sive­ly bro­ken by a small arts periodical.
+
+
+In fact, it caused enough hub­bub to inspire an entire subera of sim­i­lar­ly-styled hoax­es, many from the orig­i­na­tor, himself.
+
+
+It’s no secret that Poe was as bit­ter as he was bril­liant, so I’ve found myself again and again won­der­ing, late­ly, what/if he would have spo­ken amidst his country’s 2016 elec­tion for Pres­i­dent. As I’ve known him — much more inti­mate­ly than most; much less than a few — I would posit that his bril­liant, suf­fer­ing mind would’ve been locked in the most pro­duc­tive year-long mania of his career. He was the sort of extra­or­di­nary man who was dis­gust­ed by the exis­tence of any­thing less.
+
+
+I think he would’ve played the tricks of Search Engine Opti­miza­tion, engage­ment, and news aggre­ga­tion with a verac­i­ty that could’ve swung an elec­tion, if we accept the recent ver­dict against some good-humored Mace­don­ian adolescents.
+
+
+His laugh­ter would be abrupt­ly stayed, though, if you told him that ten per­cent of the adult pop­u­la­tion is illit­er­ate, two cen­turies lat­er and twen­ty years into the sin­gle most pro­found renais­sance in the his­to­ry of human communication. Though a near­ly-equiv­a­lent upset could prob­a­bly be had by inform­ing him that his best-known work by a vast mar­gin has since been The Raven, but I’ll spare you that sub­ject for a less-top­i­cal dissertation.
+
+
+How do I begin an argu­ment about intel­lec­tu­al dis­par­i­ty in America?
+
+
+""You got the President you deserve""?
+
+
+“Deserve” is no less igno­rant of a con­cept as “truth,” so that’d be awful­ly hyp­o­crit­i­cal. Not that hypocrisy gives me any sort of pause, what­so­ev­er, as a pur­vey­or of fake news. Per­haps I should begin with an overview of Extra­tone’s bias on advertising.
+
+
+Total adver­tis­ing rev­enue we have received to date: $0. Total num­ber of adver­tise­ments that have appeared on extra­tone dot com to date: 3. Total num­ber of adver­tise­ments for non-defunct com­pa­nies that have appeared on extra­tone dot com to date: 0.
+
+
+As of this moment, adver­tis­ing is Google, more or less, which means they are one of the few com­pa­nies on Earth with the sort of cash flow to even con­sid­er attempt­ing to craft a stan­dard of mali­cious­ness (the only use­ful spec­trum I could come up with that could accom­plish the goal of “elim­i­nat­ing finan­cial incen­tives that appear to have dri­ven the pro­duc­tion of much fake news.”)
+
+
+I sup­pose the first author­i­ty on intent would be the Church, but I — a fake news writer — have been unable to arrive upon the method Jesus Christ would choose to go about elim­i­nat­ing communion.
+But The Lord has for­sak­en this place — we have only Google, now, and — as the res­i­dent omnipo­tence, it is They alone who can stay what They have made. So per­haps that smelly gen­tle­men won­der­ing aloud about the “sec­ond com­ing” on the bus stop bench is actu­al­ly smarter than you, but unable to fore­see the dig­i­tal set­ting of his apocalypse. If Google is our neo-God, sure­ly Walt Moss­berg is now the pope. Yes­ter­day morn­ing, he addressed Face­book (neo-Hell,) com­mand­ing them to behave like the “media com­pa­ny” he believes they are.
+
+
+I would like to imag­ine that Mark Zucker­berg is hiss­ing, currently.
+
+
+He cites a Pew Research Cen­ter study that was con­duct­ed this past Spring, which found that “44 per­cent of the U.S. adult pop­u­la­tion got at least some of its news from Face­book.” I’d like to point all 2000 of my greasy, thump­ing, slan­der­ous fin­gers at the begin­ning sen­tence of the next para­graph, though: “but that puts a heavy respon­si­bil­i­ty on Facebook…”
+
+
+Why?
+
+
+Who exact­ly is plac­ing this bur­den on Face­book? Have we actu­al­ly reached the point of social media as a pub­lic service? Per­haps their influ­ence on the country’s psy­chol­o­gy is enor­mous enough to exempt from all of the cheques that guar­an­tee free­dom of infor­ma­tion exchange.
+
+
+Thank God... perhaps FarmVille shall finally face its Day of Judgement.
+
+
+All the requests from one acquain­tance of mine are stress­ing me out, and fed­er­al employ­ees have not forcibly changed their foul-ass col­or scheme yet, so I can­not nav­i­gate deep enough to block her with­out becom­ing phys­i­cal­ly ill. Don’t get me wrong — hang­ing Mark Zucker­berg by the Neck Until Dead for trea­son would make for quite a spec­ta­cle, but I can­not help but won­der if you have for­got­ten one of your most irri­tat­ing expres­sions: don’t blame the messenger.
+
+
+I hate to be rude, but POTUS Tumper is the def­i­nite sign: you are respon­si­ble for your choic­es and your igno­rance. Voli­tion in informed media con­sump­tion is the only effec­tive weapon with which one should com­bat deception.
+
+
+For some per­spec­tive, know that I came shame­ful­ly close to falling for a fuck­ing phone scam a few days ago. I didn’t end up cost­ing my com­pa­ny, but I came with­in inch­es of doing so. I hadn’t expe­ri­enced such all-con­sum­ing embar­rass­ment in a decade. But — as life expe­ri­ences tend to be — it was hum­bling, and prepara­to­ry — I’m sure — for the next time I must iden­ti­fy dishonesty.
+
+
+I appre­ci­ate the sen­ti­ment of per­son­al­i­ties like Moss­berg and the effort they expend in the name of my pro­tec­tion as a user, but I must be allowed to dis­cern the nature of con­tent for myself, espe­cial­ly when using a ser­vice who’s CEO is pub­licly cry­ing “we do not want to be arbiters of truth ourselves.” Whether or not Face­book has the cash to delib­er­ate on, design, or redesign algo­rithms and/or oth­er soft­ware to com­bat inau­then­tic con­tent sources is irrelevant.
+
+
+Max Read’s account of the process as it relates to the elec­tion is the sharpest one-take I’ve seen thus far. In it, he sug­gests that the sheer size of Facebook’s audi­ence “would seem to demand some kind of civic respon­si­bil­i­ty.” And — while it is now unde­ni­able that it is “the most effi­cient dis­trib­u­tor of mis­in­for­ma­tion in human his­to­ry,"" I must speak for the gen­er­al read­er­ship and note that when we are “mis­led,” it is out of our own fail­ing dili­gence, intel­lect, and/or edu­ca­tion as bal­lot-eli­gi­ble adults.
+
+
+As far as myself and my edi­to­r­i­al course are con­cerned, it is tremen­dous­ly dis­re­spect­ful to remove a reader’s voli­tion in their con­sump­tion. If there is “blame” for the votes in this elec­tion, the sin­gle polite course of action is to leave it on the vot­ers, indef­i­nite­ly. Any alter­na­tive is what we’d brand an acute theft of will. Volition in informed media con­sump­tion is the only effec­tive weapon with which one should com­bat deception.
+
+
+It’s not a con­tentious sen­ti­ment — assum­ing com­pe­tence from all par­tic­i­pants when leg­is­la­tion or demand are con­cerned. If it were, the safteynet wouldn’t be focused on such a small por­tion of dig­i­tal dis­in­for­ma­tion as mis­ag­gre­gat­ed news rep­re­sents, but instead on the high­ly-potent cul­ture of Google AdWords cons, or the long­stand­ing insti­tu­tion of email phishing. Don’t get me wrong — I’m not the biggest fan of Zuckerberg’s Cul­ture­suck. I found­ed our flag­ship pod­cast around rep­re­hend­ing it, and see plen­ty of evi­dence that it’s pro­found­ly effect­ed West­ern psy­chol­o­gy in a star­tling way, but attack­ing the issue in an eth­i­cal con­text is tremen­dous­ly inef­fi­cient, if noth­ing else.
+
+
+Yes, it would make for an enter­tain­ing sto­ry, watch­ing Google and Face­book hurl their mass­es of cash at the 9th com­mand­ment, but it’d be much bet­ter spent remak­ing the crit­i­cal read­er­ship in Amer­i­can soci­ety. A fed­er­al pro­gram to con­front the ~10% adult illit­er­a­cy rate might be a better place to start.",extratone,2020-12-03T14:38:33Z,2020-12-03T15:44:03Z,
+"""Minolta Weathermatic-A""",Mulling,extratone,2020-12-03T14:50:22Z,2020-12-03T14:50:22Z,open,legacy,https://github.com/extratone/bilge/issues/36,"THE RUGGED SON
+ 
+Discovering a forgotten need.
+For the past few months, Hawthorn has been unironically and unconceitedly introducing me into the World of Film photography. I’ve taken a lot of photos in my lifetime, but almost exclusively in digital save for some pre-adolescent experimenting with a 35mm Olympus point-and-shoot, so let me disclaim this review as perhaps not the most useful to old time film nerds. For them, other resources like Forgotten Charm or Michael Butkus would better inform a buying decision.
+ 
+Kodak’s 110 Instamatic film format led to a surprisingly diverse variety of “pocket cameras,” and a great many of them are exceptionally beautiful examples of design. Despite its original, limited intended function, the industry pushed 110’s limits in the 1970s and 80s, from keychain microcameras – little more than an aperture mounted on the cartridges themselves – to SLRs with adjustable focus, exposure, and interchangeable lenses.
+omg you guys I just got my pentax auto 110 and ITS SO SMALL!!! i'm legitimately too excited to clean it off so take a big look!! pic.twitter.com/25Hk1G8E7h
+
+— 📸HAWTHORN_JR🐚 (@hawthorn_jr) January 2, 2018
+
+[siteorigin_widget class=”SiteOrigin_Widget_Image_Widget”][/siteorigin_widget]
+The second great explosion of American Buddhism occurred in the nineteen-fifties. Spurred, in large part, by the writings of the émigré Japanese scholar D. T. Suzuki, it was, in the first instance, aesthetic: Suzuki’s work, though rich in tea ceremonies and haiku, makes no mention of Zazen, the hyper-disciplined, often painful, meditation practice that is at the heart of Zen practice.
+ 
+The Buddhist spirit, or the easier American variant of it, blossomed in Beat literature, producing some fine coinages (Kerouac’s “Dharma Bums”). Zen, though apparently an atypically severe sect within Buddhism, came to be the standard-bearer, so much so that “Zen” became an all-purpose modifier in American letters meaning “challengingly counterintuitive”—as in “Zen and the Art of Archery” or the masterly “Zen and the Art of Motorcycle Maintenance,” where you learn how not to aim your arrow or how to find a spiritual practice in a Harley.
+ 
+It was this second movement that blossomed into a serious practice of sitting lessons and a set of institutions, the most prominent, perhaps, being the San Francisco Zen Center.
+ 
+Though separated by generations, the deeper grammar of the two Buddhist awakenings was essentially the same. Buddhism in America is simultaneously exotic and familiar—it has lots of Eastern trappings and ceremonies that set it off from the materialism of American life, but it also speaks to an especially American longing for a publicly productive spiritual practice. American Buddhism spins off museum collections and Noh-play translations and vegetarian restaurants and philosophical books and, in the hands of the occasional Buddhist Phil Jackson, the triangle offense in basketball.
+Orbital plane, the rain stays the same. Make mine a regex and yours will be pain.",extratone,2020-12-03T14:50:22Z,2020-12-03T14:50:22Z,
+"""Celebrating Two Decades of Chordophone Symbiosis""",Mulling,extratone,2020-12-04T00:32:20Z,2020-12-04T00:32:21Z,open,legacy,https://github.com/extratone/bilge/issues/40,"[Celebrating Two Decades of Chordophone Symbiosis.docx](https://github.com/extratone/bilge/files/5639864/Celebrating.Two.Decades.of.Chordophone.Symbiosis.docx)
+",extratone,2020-12-04T00:32:20Z,2020-12-04T00:32:20Z,
+"""Motorsport Gone Digital""",Mulling,extratone,2020-12-04T07:08:29Z,2020-12-04T07:08:29Z,open,"legacy, migration",https://github.com/extratone/bilge/issues/43,"[Motorsport Gone Digital.docx](https://github.com/extratone/bilge/files/5641066/Motorsport.Gone.Digital.docx)
+",extratone,2020-12-04T07:08:29Z,2020-12-04T07:08:29Z,
+"""Reporting From the Digital Classroom""",Mulling,extratone,2020-12-04T12:41:59Z,2020-12-04T12:42:00Z,open,,https://github.com/extratone/bilge/issues/44,[Notion Master Page](https://www.notion.so/rotund/Reporting-From-the-Digital-Classroom-of-2020-aa77e1581e2349489591bf21befb6039),extratone,2020-12-04T12:41:59Z,2020-12-04T12:41:59Z,
+"""The State of Day One""",Mulling,extratone,2021-02-13T10:20:46Z,2021-02-13T10:20:47Z,open,lapse,https://github.com/extratone/bilge/issues/64,"* [Media Resources](https://dayoneapp.com/press)
+* [Day One Blog](https://dayoneapp.com/blog/)
+* [Day One Podcast](https://dayoneapp.com/podcast) | ([Overcast Link](https://overcast.fm/itunes1366598938/the-day-one-podcast))
+* [Day One Documentation](https://help.dayoneapp.com/en/)",extratone,2021-02-13T10:20:46Z,2021-02-13T10:22:47Z,
+"""The State of Evernote""",Mulling,extratone,2021-02-13T10:23:17Z,2021-02-13T10:23:17Z,open,lapse,https://github.com/extratone/bilge/issues/65,,extratone,2021-02-13T10:23:17Z,2021-02-13T10:23:17Z,
+e.gg,Mulling,extratone,2021-02-27T03:04:10Z,2021-02-27T03:04:10Z,open,lapse,https://github.com/extratone/bilge/issues/69,"Potential short post going over the short, silent history of Facebook's e.gg project and its potential future.",extratone,2021-02-27T03:03:31Z,2021-02-27T03:04:10Z,
+Apple-Adjacent Media,Mulling,extratone,2021-05-07T07:43:01Z,2021-05-07T07:43:01Z,open,documentation,https://github.com/extratone/bilge/issues/129,(It's changed a lot.) #45 contains a lot of the original commits that I should have brought here.,extratone,2021-05-07T07:43:01Z,2021-05-07T07:43:01Z,
+Reflecting on One Year of Editorial Git,Documentation,extratone,2021-10-16T07:22:15Z,2021-10-16T09:12:49Z,open,"documentation, time-sensitive, meta, editorial, dev",https://github.com/extratone/bilge/issues/245,![Editorial Git - Wood](https://i.snap.as/ocT2o2B3.png),extratone,2021-10-16T07:22:15Z,2021-10-16T07:22:15Z,
+Siri Shortcuts for Scrubs,Documentation,extratone,2021-09-19T16:44:19Z,2021-10-16T09:12:45Z,open,"documentation, i, dev, beta, siri, configuration",https://github.com/extratone/bilge/issues/209,## A brief video demo of my peculiar use of Siri Shortcuts.,extratone,2021-07-26T19:13:05Z,2021-09-19T16:44:58Z,
+Windows 11 in the Walled Garden,Documentation,extratone,2021-09-21T21:29:00Z,2021-10-16T09:12:39Z,open,"documentation, time-sensitive, i, hardware, curation, beta, spectacle, configuration",https://github.com/extratone/bilge/issues/230,,extratone,2021-09-21T21:29:00Z,2021-09-23T21:53:49Z,
+"iOS Publishing Workflow with Git, Snapas-hosted images, to the Writeas/WriteFreely CMS",Documentation,extratone,2021-05-06T02:34:25Z,2021-05-15T08:21:01Z,open,"documentation, meta, i, dev",https://github.com/extratone/bilge/issues/128,"*And a Magic Keyboard* is the real kicker, I suppose.
+
+# WF Workflow Social 
+`https://mastodon.social/@DavidBlue/106621130332857798`
+I can’t help it… time to get back to the “Insane Full-Throttle Write.as Publishing IPHONE ONLY Workflow” …workflow… guide. here begins its thread (can’t remember if I’d already started one.) https://github.com/extratone/bilge/issues/128
+—-
+`https://mastodon.social/@DavidBlue/106621135526473737`
+so this take is definitely gonna have to be deleted b/c of my puppy… but GitHub just let me upload the whole fucking thing? cool
+
+this is actually pretty much the gist of the “Development” worth demonstrating - in this case, editing CSS with Kodex, previewing it with @write_as‘s new CSS.horse tool (almost lol,) and Git-enabling all of it with Working Copy. https://user-images.githubusercontent.com/43663476/126570421-a0316032-573f-4507-8fa6-a4e0a8f03d99.MOV
+—-",extratone,2021-05-06T02:34:25Z,2021-07-21T23:25:51Z,
+"""Underdocumented iOS Maneuvers""",Documentation,extratone,2020-12-27T03:04:30Z,2021-03-02T21:22:46Z,open,"documentation, time-sensitive, i",https://github.com/extratone/bilge/issues/56,"* Merging contacts.
+* Clearing RAM.
+* Showing timestamps in iMessage.
+* Reduce Motion.
+* User Guide iBook.",extratone,2020-12-27T03:04:30Z,2021-07-25T02:16:30Z,
+End User Episode 8,Documentation,extratone,2021-05-05T16:38:23Z,2021-05-15T08:21:09Z,open,"fuckup, audio",https://github.com/extratone/bilge/issues/76,Likely gonna be Steve of the iPhone 2021.,extratone,2021-03-05T04:34:55Z,2021-05-05T16:41:39Z,
+iPhone x Bluetooth Keyboard: The Definitive Guide,Documentation,extratone,2021-03-29T21:19:16Z,2021-04-16T20:26:52Z,closed,documentation,https://github.com/extratone/bilge/issues/89,"![IMG_0321](https://user-images.githubusercontent.com/43663476/112902434-bd059880-90ab-11eb-817c-0bb6203c76a2.JPEG)
+
+* [The Project Board](https://github.com/extratone/bilge/projects/2)
+
+In 2010, Apple quietly added the ability to pair a bluetooth keyboard to the iPhone 4. This contributed somewhat to my decision to ask for an iPhone 4 instead of a laptop, then, for my 16th birthday, beginning a sort of experiment that is more or less ongoing....",extratone,2021-03-29T21:19:16Z,2021-04-05T08:16:05Z,2021-04-05T08:16:04Z
+Panda (Bear Editor 2.0 Alpha),Documentation,extratone,2021-04-05T22:53:49Z,2021-04-20T16:05:22Z,open,,https://github.com/extratone/bilge/issues/95,"![Panda](https://user-images.githubusercontent.com/43663476/113636098-898cb600-9637-11eb-9240-78180d298df6.png)
+
+Seriously doubt I'll ever have it in me to write about Bear directly, but I've already collected far too much on it - should have created this issue weeks ago.
+
+The engagement I've had with the Bear Beta community (as well as the normal Subreddit) has always been a profound experience, somehow,. (See #94)",extratone,2021-04-05T22:53:43Z,2021-04-05T22:53:43Z,
+Social Media Methodology Documentation,Documentation,extratone,2021-05-03T03:09:26Z,2021-05-15T08:22:28Z,open,"documentation, meta, social",https://github.com/extratone/bilge/issues/118,"#108 is going to be an important place to start.
+
+Twitter is the only context where I do not currently see a need for increased emphasis on self-curation at this time considering how that all appearances have indicated that Twitter is algorithmically minimizing my content for specific reasons - I would argue that they were once the same reasons Twitter encouraged.",extratone,2021-05-02T12:04:54Z,2021-08-03T23:40:11Z,
+Telegram Glam,Drafting,extratone,2021-09-20T02:41:22Z,2021-10-16T09:12:36Z,open,"documentation, meta, social, dev, beta, configuration",https://github.com/extratone/bilge/issues/228,,extratone,2021-09-20T02:41:22Z,2021-10-05T00:14:14Z,
+Circling Back to TweetBot 6.3,Drafting,extratone,2021-08-30T16:01:51Z,2021-09-19T10:42:45Z,open,"documentation, legacy, update, i",https://github.com/extratone/bilge/issues/217,,extratone,2021-08-30T16:01:51Z,2021-10-02T17:24:56Z,
+r/davidblue Remodeling,Drafting,extratone,2021-03-03T18:10:02Z,2021-03-03T18:10:28Z,open,"enhancement, meta, update",https://github.com/extratone/bilge/issues/73,"It only just occurred to me that I could have enhanced my own newfound Reddit experience by taking the time to update [the r/davidblue subreddit](https://www.reddit.com/r/davidblue/) I created long, long ago - when I thought myself too good for Reddit, or something. 
+
+https://user-images.githubusercontent.com/43663476/109851069-d801fb80-7c18-11eb-8382-1c57e55ba4e5.mov
+
+",extratone,2021-03-03T18:10:02Z,2021-03-03T18:10:02Z,
+"""Siri, Discreet Idiot""",Drafting,extratone,2020-12-02T03:11:44Z,2021-02-06T03:03:30Z,open,,https://github.com/extratone/bilge/issues/21,,extratone,2020-12-02T03:11:34Z,2020-12-02T03:11:34Z,
+"""My Darling, Typora""",Drafting,extratone,2020-11-24T09:18:41Z,2021-09-19T10:39:16Z,open,"documentation, curation",https://github.com/extratone/bilge/issues/11,,extratone,2020-11-24T19:25:59Z,2021-07-24T17:26:29Z,
+README 2.0,Drafting,extratone,2021-04-16T21:55:18Z,2021-04-20T16:05:26Z,open,"meta, refinement, update",https://github.com/extratone/bilge/issues/98,"In conjunction with #96.
+
+A new README for this repo that **begins with _editorial_ documentation** and includes the Writeas theme afterward.",extratone,2021-04-16T21:55:18Z,2021-04-16T21:55:18Z,
+About 2.0,Drafting,extratone,2021-04-13T08:23:54Z,2021-04-13T08:24:49Z,open,"documentation, enhancement, refinement, update, revision",https://github.com/extratone/bilge/issues/96,"![Unicode Banner (Centered) - The Psalms](https://i.snap.as/zk0pP5fk.png)
+
+## Version 2 of [_The Psalms_' About page](https://bilge.world/about).
+The original: #82 
+
+I'm choosing Casey Newton's ""[About](https://www.notion.so/About-Platformer-22cd48a5514d404b9c2dd130d7724b93)"" page for his newsletter, _Platformer_ as a starting template. Specifically borrowing these headers:
+
+* What does Platformer cover?
+* How do you see the world?
+* How do you get your information?
+* How can I get in contact with Platformer?",extratone,2021-04-13T08:23:54Z,2021-04-30T09:14:53Z,
+"""iPhone 12 Pro Max""",Drafting,extratone,2020-12-05T20:23:36Z,2021-09-19T10:38:50Z,open,"time-sensitive, i, hardware",https://github.com/extratone/bilge/issues/45,,extratone,2020-12-05T20:23:36Z,2021-09-18T05:28:16Z,
+Bilge Write.as Theme,Drafting,extratone,2021-05-02T03:59:31Z,2021-05-02T03:59:32Z,open,documentation,https://github.com/extratone/bilge/pull/116,"_I think I finally figured out Pull Requests???_
+
+## Documentation for my blog, [bilge.world](https://bilge.world).
+
+I proudly use [Write.as](https://write.as) as my blog's CMS. I am relatively new to Git and GitHub, but it occurred to me that a repository would be a great place to track technical changes and even versions/revisions of drafts.
+
+***
+
+![Writeas Customization](https://i.snap.as/xpwZqmy4.png)
+
+##  Installation (Bilge Theme)
+
+To ""install"" my theme on your own Writeas blog, copy and paste the contents of [Custom CSS.css](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css) and [Custom Javascript.js](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js) into the respective ""Custom CSS"" and ""Custom Javascript"" fields in your blog's customization menu. 
+
+See: ""[Customizing Writeas](https://guides.write.as/customizing/)""
+
+***
+
+![Bilge Three Point Oh Footer](https://i.snap.as/B3D5JvZ4.png)
+
+## [Colophon](https://bilge.world/colophon)
+
+*The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web. 
+
+A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. (*That means you can see [current in-progress drafts](https://github.com/extratone/bilge/tree/main/Drafts)!*)
+
+- Download the entirety of this blog in EPUB format **[here](http://bilge.world/.epub)**.
+- Subscribe to this blog's RSS feed **[here](https://bilge.world/feed/)**.
+- This blog is federated at **@b@bilge.world**.
+
+### Typography
+
+**Body Text**: [Adobe Caslon Pro](https://fonts.adobe.com/fonts/adobe-caslon)
+
+**Nav/Headers/Other**: [Proxima Nova](https://fonts.adobe.com/fonts/proxima-nova) & Variations
+
+### Colors
+
+![The Psalms Colors](https://i.snap.as/yREEslm5.png)
+
+* [Expired Sour Cream](https://colornames.org/color/fff4e6) 
+* [David Blue](https://colornames.org/color/00006b) 
+* [Red](https://colornames.org/color/ff0000)
+* [Alarmed Suburbanite](https://colornames.org/color/f43f32)
+
+### [CSS](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css)
+
+```css
+@import url('https://use.typekit.net/kst2rrh.css');
+
+body {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #FFF4E6;
+}
+
+/* old background-color: #f2f2f2 */
+
+#blog-title a {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    /* font-style:bold !important; */
+    color: #00006b;
+}
+
+header nav a {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+header p.description {
+    /* font-style: italic; */
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    line-height: 200% !important;
+    color: #00006b !important;
+    font-size: 1em;
+    margin-left: inherit;
+    margin-right: inherit;
+}
+
+body#collection header {
+    margin-bottom: 1em !important;
+}
+
+
+header nav a {
+    color: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    /* margin-bottom: 1em; */
+}
+
+body,
+article {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    line-height: 155%;
+    font-size: 1.1em !important;
+    color: #000000;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    /* margin-top:1rem !important; */
+}
+
+
+body,
+article a:link {
+    color: #00006b;
+}
+
+body,
+article a:visited {
+    color: #FF0000;
+}
+
+h1 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-size: 2em !important;
+}
+
+h2 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1.4em !important;
+}
+
+h3 {
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    font-weight: 600;
+    font-size: 1.3em !important;
+}
+
+h4 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h5 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h6 {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: .85em !important;
+}
+
+.post-title a:visited,
+.post-title a:link {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    color: #00006b !important;
+    font-size: 1.7rem !important;
+}
+
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b !important;
+    font-size: 1rem !important;
+}
+
+body footer nav {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b;
+}
+
+blockquote {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    color: #333333 !important;
+    border-left: 2.5px solid #00006b !important;
+}
+
+hr {
+    border: 2px solid red;
+}
+
+
+body footer a.home:link,
+body footer a.home:visited {
+    color: #00006b;
+}
+
+.action {
+    font-family: proxima-nova-condensed, sans-serif;
+}
+
+nav#manage ul a {
+    color: #00006b;
+}
+
+nav#paging a {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+}
+
+
+a.bt {
+    background-color: #0d0d0d !important;
+    color: #00006b !important;
+}
+
+a.hashtag {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: #00006b !important;
+}
+
+body#collection #wrapper time,
+body#subpage #wrapper time,
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 0.95em;
+    color: #00006b !important;
+}
+
+
+.custom-nav {
+    text-align: center;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: red;
+}
+
+.custom-nav a:link,
+.custom-nav a:visited,
+.custom-nav a:hover,
+.custom-nav a:active {
+    color: #00006b;
+}
+
+.custom-nav a:hover,
+.custom-nav a:active {
+    text-decoration: underline;
+}
+
+#subscribe-btn {
+    border: 1px #FF0000;
+    background: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: #FFF4E6;
+}
+
+#emailsub {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+}
+
+.footnote, .footnote-ref {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /* margin-left:2.5px; */
+    color: #da2573 !important;
+    font-size: 1.1em;
+    text-decoration:underline #FF0000;
+}
+
+.footnote-ref {
+    margin-left:25px;
+}
+
+.footnote-ref-text {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+    color: #1c0021 !important;
+    font-size: 1em;
+    border-top: #00006b dotted 1px;
+}
+```
+
+<p>
+<a href=""http://jigsaw.w3.org/css-validator/check/referer"">
+    <img style=""border:0;width:88px;height:31px""
+        src=""http://jigsaw.w3.org/css-validator/images/vcss-blue""
+        alt=""Valid CSS!"" />
+    </a>
+</p>
+
+​      
+
+<p>
+    <a href=""http://jigsaw.w3.org/css-validator/check/referer"">
+        <img style=""border:0;width:88px;height:31px""
+            src=""http://jigsaw.w3.org/css-validator/images/vcss""
+            alt=""Valid CSS!"" />
+    </a>
+</p>
+
+(Remember these? lol)
+
+### [Javascript](https://github.com/extratone/bilge/blob/main/Custom%20Javascript.js)
+
+```javascript
+var topP = document.createElement(""p"");
+//topP.style.textAlign = ""center"";
+topP.innerHTML = '<hr><div class=""custom-nav""><a rel=""me"" href=""https://mastodon.social/@DavidBlue"">Mastodon</a> ※ <a href=""https://twitter.com/NeoYokel"">Twitter</a> ※ <a href=""https://discord.gg/4hdQcVd"">Discord</a> ※ <a href=""https://github.com/extratone/bilge"">GitHub</a> ※ <a href=""https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1"">License</a></div>';
+var cont = document.getElementById(""wrapper"");
+if (cont !== null) {
+    // Add to blog index and tag pages
+    cont.appendChild(topP);
+} else {
+    // Add to individual blog post page
+    cont = document.getElementById(""post-body"");
+    cont.insertAdjacentHTML(""afterend"", topP.outerHTML);
+}
+
+// src: https://platform.twitter.com/widgets.js
+
+// src: https://hypothes.is/embed.js
+
+window.hypothesisConfig = function () {
+  return {
+    ""openSidebar"": true, 
+    ""theme"": ""clean"",
+    branding: {
+      appBackgroundColor: '#e6f7ff',
+      ctaBackgroundColor: '#da2573',
+      ctaTextColor: '#00006b',
+      selectionFontFamily: 'Georgia, serif'
+    }
+  };
+};
+
+// Footnote hyperlinks in the body.
+var notePattern = /\[\^(\d+)\]/g;
+var noteText = ""<a name=\""fn$1\""></a><sup><a class=\""footnote\"" href=\""#fnref$1\"">$1</a></sup>"";
+
+// Footnote references at the bottom.
+var refPattern = /\[(\d+)\](.*)/g;
+var refText = ""<a name=\""fnref$1\""></a><sup><a class=\""footnote-ref\"" href=\""#fn$1\"">$1</a></sup><span class=\""footnote-ref-text\"">$2</span>"";
+
+var postContent = document.getElementById(""post-body"").innerHTML;
+postContent = postContent.replace(notePattern, noteText);
+postContent = postContent.replace(refPattern, refText);
+document.getElementById(""post-body"").innerHTML = postContent;
+```",extratone,2021-05-02T03:59:31Z,2021-05-02T03:59:33Z,
+"""The Magic of Periscope""",Published,extratone,2020-11-24T09:19:33Z,2021-10-16T04:23:47Z,closed,,https://github.com/extratone/bilge/issues/14,,,2020-11-24T19:26:11Z,2021-10-16T04:23:47Z,2021-10-16T04:23:47Z
+Mobile Dot Twitter Dot Com,Published,extratone,2021-09-15T18:03:23Z,2021-09-19T10:45:06Z,closed,"documentation, time-sensitive, meta, social, i, spectacle, configuration, media",https://github.com/extratone/bilge/issues/226,"## If
+
+> Twitter for iOSs second time explicably logging me out in a single day (a first), nor even frustration, truly, but a whole-body, calming, peaceful acceptance: **for me and my house, the time really has come to let com.atebits.Tweetie2 finally rest **",extratone,2021-09-15T18:02:33Z,2021-09-19T10:45:06Z,2021-09-19T10:45:05Z
+iOS 15 Reviewed for My Family,Published,extratone,2021-07-15T21:25:10Z,2021-09-19T10:39:31Z,open,"documentation, i",https://github.com/extratone/bilge/issues/196,"## General
+* Yes, the degree to which being able to delete an app directly from the results of a Spotlight search is a relief is actually just pitiful.
+* [iOS 15 Twitter Collection](https://twitter.com/NeoYokel/timelines/1411632131390984193)
+
+## References
+* ""[iOS & iPadOS 15 Beta 3 Release Notes](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15-beta-release-notes)""
+* [Episode 231: The App Customization Trend](https://appstories.net/episodes/231/) | _AppStories_
+* [MacStories Unwind: Developer Debrief, OS Previews, and Shortcuts Talk](https://www.macstories.net/news/macstories-unwind-developer-debrief-os-previews-and-shortcuts-talk/)
+* [MacStories Developer Debrief: WWDC 2021 - MacStories](https://www.macstories.net/stories/macstories-developer-debrief-wwdc-2021/)
+* [MacStories Unwind: WWDC Recap: OS Overviews, Shortcuts on the Mac, Spatial and Lossless Audio, and Apple Design Awards - MacStories](https://www.macstories.net/news/macstories-unwind-wwdc-recap-os-overviews-shortcuts-on-the-mac-spatial-and-lossless-audio-and-apple-design-awards/)
+
+### Facetime
+* [My experimental link](https://facetime.apple.com/join#v=1&p=NJ07JdyGEeuvv0Lf32M0DA&k=y6glQN6_vCplSYirwg83Bg-07slHSn1NHHjsbswa680) - `https://facetime.apple.com/join#v=1&p=NJ07JdyGEeuvv0Lf32M0DA&k=y6glQN6_vCplSYirwg83Bg-07slHSn1NHHjsbswa680`
+* [The Tweet](https://twitter.com/NeoYokel/status/1412965709701951495)
+
+## Shortcuts
+
+* ""[All the New Cross-Platform Actions in Shortcuts for iOS, iPadOS, and macOS](https://www.matthewcassinelli.com/new-shortcuts-actions-ios-15/)"" | Matthew Cassinelli
+
+<img src=""../../Dev/bilge/images/newios15shortcutsactions.jpg"" alt=""newios15shortcutsactions"" style=""zoom: 67%;"" />
+
+### Make Spoken Audio From Text
+
+* [Whyp](https://whyp.it/t/make-spoken-audio-from-text-test-61843)
+* [Reddit Post](https://www.reddit.com/r/iOSBeta/comments/okczun/finally_got_results_from_make_spoken_audio_from/h5724xa)
+
+## Safari
+* [Suggestion for Safari iOS 15](https://developer.apple.com/forums/thread/681880) | Apple Developer Forums
+
+[[Hands-on: Here's how the all-new Safari in iOS 15 works]]
+
+  * ==Access Safari Tabs by either tapping the double square icon or simply swiping up on the Tab Bar==
+  * You can search Tabs at the top, press/hold + drag Tabs to rearrange them
+  * Add a new Tab in the bottom left with the + icon, or tab Tabs in the bottom middle to customize Tab Groups
+  * Tap a Tab or choose Done in the bottom right corner to leave the Tab view
+  * Another change here is the X to close out Tabs has moved from the top left to the top right
+ * To create a custom Tab Group, tap **_X Tabs_** in the bottom middle of the Tabs screen (this is also where Private browsing lives now)
+  * Choose New Empty Tab Group or New Tab Group from X Tabs
+  * Name your Tab Group, tap OK
+
+### Photos
+> ==Setting different filters will result in different song choices and transition effects to nail a wider variety of vibes on Memories videos.==
+> ==While watching a video generated by Memories, you can tap and hold at any time to freeze a photo so that it doesn’t transition away. The song playing over the video will not pause when you do this, but when you let go the remaining video transitions and timings will be automatically altered to match back up with the song’s beat.==",extratone,2021-07-15T21:25:10Z,2021-09-21T15:02:05Z,
+"End User: ""The Radical Minutia""",Published,extratone,2021-09-04T23:03:26Z,2021-09-19T10:39:50Z,open,"documentation, time-sensitive, meta, social, event, spectacle",https://github.com/extratone/bilge/issues/221,https://twitter.com/i/spaces/1dRKZNYXoqaKB,extratone,2021-09-04T22:38:14Z,2021-09-19T10:41:44Z,
+Mastodon for iOS,Published,extratone,2021-07-15T20:18:59Z,2021-09-19T10:39:41Z,open,"time-sensitive, social, i, dev",https://github.com/extratone/bilge/issues/195,"(Distinct from #107 - this is a dedicated review of the upcoming official Mastodon app.)
+
+![image](https://user-images.githubusercontent.com/43663476/127726126-0fd97385-5bb8-4c9d-8044-58f2dece4bab.png)
+
+![Mastodon for iOS](https://i.snap.as/sHTDx8AV.png)
+
+![Mastodon for iOS QR Code](https://i.snap.as/hqmcJQGx.jpg)
+
+""[Mastodon now has an official iPhone app](https://www.theverge.com/2021/7/30/22602275/mastodon-decentralized-social-network-official-ios-app-launches)"" | *The Verge*
+
+* [**App Store Page**](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) - `https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974`
+* [Media Services App Store Page](https://tools.applemediaservices.com/app/1571998974)
+* [GitHub Repository](https://github.com/mastodon/mastodon-ios)
+* [The GitHub Issue](https://github.com/extratone/bilge/issues/195)
+* [The Mastodon Project Patreon page](https://www.patreon.com/mastodon)
+
+
+## Siri Shortcuts
+* [Mastodon Share](https://routinehub.co/shortcut/9776/) - `https://routinehub.co/shortcut/9776/`
+* [Mastgur](https://routinehub.co/shortcut/9781/) - `https://routinehub.co/shortcut/9781/`
+
+## Video
+* [My onboarding demo](https://youtu.be/bD8GQvNrE7E)
+* [The account I created in the demo](https://mastodon.online/@keys) - `https://mastodon.online/@keys`
+
+## Mastodon for iOS Keyboard Shortcuts
+| Action                         | Key        |
+|:------------------------------:|:----------:|
+| Home Timeline/Refresh Timeline | ⌘ + 1      |
+| Open Compose Window            | ⌘ + N      |
+| Send Toot                      | ⌘ + Return |
+| Explore Tab                    | ⌘ + 2      |
+| Notifications                  | ⌘ + 3      |
+| Settings                       | ⌘ + ,      |
+| Favorites                      | ⌘ + F      |
+([Markdown file in the Repo](https://github.com/extratone/bilge/blob/main/documentation/Masto/MastodonKeys.md))
+
+## Photos
+* `![Onboarding in Mastodon for iOS](https://i.snap.as/P5oxTAg9.png)`
+* `![Trending & Profile Editing in Mastodon for iOS](https://i.snap.as/F21Jm29Q.png)`
+* `![Mastodon for iOS Audio Player](https://i.snap.as/IRzEOzXl.png)`
+* `![Polling in Mastodon for iOS](https://i.snap.as/NKHk8e1W.png)`
+
+**Custom Audio players!**
+![Custom Audio Players](https://user-images.githubusercontent.com/43663476/123793971-f49d0000-d8a7-11eb-80cf-d5423992468e.png)
+",extratone,2021-07-15T20:18:59Z,2021-07-31T07:51:22Z,
+The State of Mastodon iOS Clients,Published,extratone,2021-04-22T08:00:06Z,2021-09-19T10:38:48Z,open,"documentation, time-sensitive, social, i, curation",https://github.com/extratone/bilge/issues/107,"# [Shortlink](https://bit.ly/imastodon) - `https://bit.ly/imastodon`
+
+
+
+![image](https://user-images.githubusercontent.com/43663476/115672158-e44d2f80-a310-11eb-8690-8315ff5783f3.png)",extratone,2021-04-22T07:17:46Z,2021-07-18T17:47:54Z,
+"""iOS 14.5 Beta""",Published,extratone,2021-02-07T03:16:49Z,2021-08-30T12:10:27Z,closed,documentation,https://github.com/extratone/bilge/issues/60,"* [iOS Beta iCloud Shared Folder](https://bit.ly/dbiosbeta)
+* [iOS 14 Snapas Gallery](https://snap.as/extratone/ios-14)
+
+![New Type To Siri Look - iOS 14.5 Beta](https://i.snap.as/dj1cg6BS.png)
+
+![New Type To Siri Look - iOS 14.5 Beta](https://i.snap.as/z0MWnIzx.png)",extratone,2021-02-07T03:16:49Z,2021-08-30T12:10:27Z,2021-08-30T12:10:27Z
+Taio for iOS Review,Published,extratone,2021-03-25T02:01:24Z,2021-08-24T09:30:36Z,closed,"no, time-sensitive",https://github.com/extratone/bilge/issues/83,![image](https://user-images.githubusercontent.com/43663476/112407383-fe7cf900-8ce3-11eb-8b84-79a69f56f541.png),extratone,2021-03-25T02:00:50Z,2021-08-24T09:30:35Z,2021-08-24T09:30:35Z
+"End User Episode 8 ",Published,extratone,2021-05-22T16:37:41Z,2021-08-24T09:29:59Z,closed,"social, audio",https://github.com/extratone/bilge/issues/139,"# Why I Didn't Follow You Back
+
+-- ==[**#76**](https://github.com/extratone/bilge/issues/76)==
+$$
+Episode: 8
+$$
+
+**Summary**
+
+***
+
+
+
+<blockquote class=""twitter-tweet tw-align-center""><p lang=""en"" dir=""ltr"">WHAT….. :(:(::(:(:( <br><br>WHY?????? <a href=""https://t.co/sx6iKcicY6"">pic.twitter.com/sx6iKcicY6</a></p>&mdash; ※ David Blue ※ (@NeoYokel) <a href=""https://twitter.com/NeoYokel/status/1359270308759371783?ref_src=twsrc%5Etfw"">February 9, 2021</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>
+
+### Twitter
+
+* [The Twitter Follow Explanation Gist](https://bit.ly/dbfollow) (and identical Medium post.)
+  * [Blocked by Kara Swisher](https://twitter.com/NeoYokel/status/1359270308759371783), which was only [resolved](https://twitter.com/CaseyNewton/status/1378110306199642114) thanks to (yet again) Casey Newton
+* “[3 Reasons Your Twitter Follower Ratio Is More Important Than You Know | Inc.com](https://www.inc.com/hillel-fuld/3-reasons-your-twitter-follower-ratio-is-more-important-than-you-know.html)”
+
+> If you follow more people than follow you, what you are in essence saying to that person is ""I followed all these people, but only some of them found me interesting enough to follow me back.""
+>
+> ##### Not only that, but you are also saying ""Yes, I may have recently followed you, but don't take it too personally, I like to follow a lot of people, so really, the fact that I cared enough to follow you doesn't mean I am genuinely interested in what you have to say.""
+>
+> ==Not doing great on the first impression scale...==
+
+*""Every social media platform has limits.""*
+
+`https://twitter.com/NeoYokel/status/1357997726437412869`
+
+<blockquote class=""twitter-tweet tw-align-center""><p lang=""en"" dir=""ltr"">FUCK. NO. WHAT? THIS IS THE FIRST TIME I’M SEEING THIS NUMBER AND I’VE BEEN USING DISCORD SINCE LONG BEFORE LAUNCH. <a href=""https://t.co/O9x4FutuYV"">pic.twitter.com/O9x4FutuYV</a></p>&mdash; ※ David Blue ※ (@NeoYokel) <a href=""https://twitter.com/NeoYokel/status/1357997726437412869?ref_src=twsrc%5Etfw"">February 6, 2021</a></blockquote> <script async src=""https://platform.twitter.com/widgets.js"" charset=""utf-8""></script>
+
+### Clubhouse 
+
+* The ""underrated rappers"" room which was still overwhelmingly dominated by Big KRIT.
+
+* [**NO THOUGHTS, HEAD EMPTY**](https://www.joinclubhouse.com/club/no-thoughts-head-em) - The Third Culture Kids and their 100% sincere enchantment with the doge meme.
+
+* ""Metadata Mondays"" From ""The 808 Wave""
+
+* ""[Clubhouse Feels like a Party](https://www.newyorker.com/news/letter-from-silicon-valley/in-the-clubhouse)"" | *The New Yorker*
+
+  > There was something pleasant about meandering from conversation to conversation, as if I had walked into my own home to find a conference in full swing. But I also wondered, Why did I let all of these people into my house?
+  >
+  > ...
+  >
+  > It is hard to shake the feeling that everyone on Clubhouse is selling something: a company, a workshop, a show, a book, a brand.
+
+### CMS *Goss*
+
+* Ill's incredibly innovative [implementation of *WordPress as a Static Site Generator*](https://ill.neocities.org/index.php/2020/07/16/the-actual-guide-to-being-really-annoying-on-the-internet/)!!!
+
+## RSS
+
+* The latest version of the RSS Specification is [2.0.11](https://www.rssboard.org/rss-specification), which was published on March 30th, 2009. 
+
+***
+
+## Upcoming/In Progress
+
+* [*Editorial Git*!](https://github.com/extratone/bilge/discussions/86)
+* ""[Underdocumented iOS Maneuvers](https://github.com/extratone/bilge/issues/56)""
+* ""[The State of Mastodon Clients on iOS](https://github.com/extratone/bilge/issues/107)""
+* [iPhone WriteFreely Publishing Workflow](https://github.com/extratone/bilge/issues/128)",extratone,2021-05-22T16:37:31Z,2021-08-24T09:29:58Z,2021-08-24T09:29:58Z
+App Store Review Day,Published,extratone,2021-07-15T16:39:55Z,2021-07-15T18:38:09Z,closed,"time-sensitive, i, event",https://github.com/extratone/bilge/issues/193,"* [**Google Calendar Event**](https://calendar.google.com/event?action=TEMPLATE&tmeid=N3BtdXBnajdzbGNyMmNqNjdrc3RydmQ2bXIgY2xhc3Nyb29tMTAzNDc2ODc1MDQ0OTI5MTA0NzA3QGc&tmsrc=classroom103476875044929104707%40group.calendar.google.com) - `https://calendar.google.com/event?action=TEMPLATE&tmeid=N3BtdXBnajdzbGNyMmNqNjdrc3RydmQ2bXIgY2xhc3Nyb29tMTAzNDc2ODc1MDQ0OTI5MTA0NzA3QGc&tmsrc=classroom103476875044929104707%40group.calendar.google.com`
+```
+<a target=""_blank"" href=""https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=N3BtdXBnajdzbGNyMmNqNjdrc3RydmQ2bXIgY2xhc3Nyb29tMTAzNDc2ODc1MDQ0OTI5MTA0NzA3QGc&amp;tmsrc=classroom103476875044929104707%40group.calendar.google.com""><img border=""0"" src=""https://www.google.com/calendar/images/ext/gc_button1_en.gif""></a>
+```
+
+* [**Microsoft Teams Event**](https://teams.live.com/meet/93913819139325) - `https://teams.live.com/meet/93913819139325`",extratone,2021-07-15T16:39:55Z,2021-07-15T18:38:08Z,2021-07-15T18:38:08Z
+New Brand Assets,Published,extratone,2020-12-07T22:46:28Z,2021-04-26T02:22:30Z,closed,refinement,https://github.com/extratone/bilge/issues/49,,extratone,2020-12-07T22:46:28Z,2021-04-26T02:22:30Z,2021-04-26T02:22:30Z
+"""Why I Can't Follow You Back"" Explainer Doc",Published,extratone,2021-04-27T06:36:17Z,2021-05-15T08:21:48Z,open,"documentation, meta, refinement, social",https://github.com/extratone/bilge/issues/108,"![FollowLimit](https://user-images.githubusercontent.com/43663476/116196239-db85a080-a6f8-11eb-93f1-dfe02c95222e.png)
+
+A quick, probably-standalone explanation of why I can't follow anyone on Twitter anymore (there's a [follow limit](https://help.twitter.com/en/rules-and-policies/twitter-limits) in case you're reading this out of context.
+
+* [""Understanding Twitter Limits"" Document](https://help.twitter.com/en/rules-and-policies/twitter-limits)",extratone,2021-04-27T06:36:17Z,2021-04-27T06:36:17Z,
+Adjust Footer font-size for mobile screens,Published,extratone,2020-12-03T22:16:23Z,2021-04-26T02:22:14Z,closed,refinement,https://github.com/extratone/bilge/issues/38,,extratone,2020-12-03T22:16:23Z,2021-04-26T02:22:14Z,2021-04-26T02:22:14Z
+Clean Filenames,Published,extratone,2020-12-03T08:58:52Z,2021-04-26T02:22:14Z,closed,refinement,https://github.com/extratone/bilge/issues/26,,extratone,2020-12-03T08:58:52Z,2021-04-26T02:22:14Z,2021-04-26T02:22:14Z
+Issues,Published,extratone,2021-03-28T08:12:02Z,2021-04-26T02:20:54Z,closed,meta,https://github.com/extratone/bilge/issues/85,## Making further effort to _streamline_ how Issues are used in this repo.,extratone,2021-03-28T08:12:02Z,2021-04-26T02:20:54Z,2021-04-26T02:20:54Z
+Adapt Writeas Rich Media Embeds,Published,extratone,2021-02-08T03:46:36Z,2021-04-26T02:20:54Z,closed,"enhancement, meta, legacy, migration",https://github.com/extratone/bilge/issues/61,"* [Matt's personal post](https://micro.baer.works/we-now-support-rich-media-embeds-on-write-as-as-always-i-tried-to-keep-this)
+
+* [Original announcement post](https://discuss.write.as/t/coming-soon-rich-media-embeds-on-write-as/2365)
+
+* [Video demo](https://video.writeas.org/videos/watch/cf606290-11cf-4b2c-9952-16f8df26dbd8)",extratone,2021-02-08T03:14:07Z,2021-04-26T02:20:54Z,2021-04-26T02:20:53Z
+Hypothes.is Sidebar Intrusive,Published,extratone,2020-12-03T07:06:09Z,2021-04-26T02:20:24Z,closed,fuckup,https://github.com/extratone/bilge/issues/24,"After switching the Hypothes.is sidebar to auto-open in Three Point Oh, I've noticed it's quite intrusive upon the site's browsing experience, _especially_ on mobile. Either find a solution before January or so, or turn auto-open back off.",extratone,2020-12-03T07:06:09Z,2021-04-26T02:20:24Z,2021-04-26T02:20:24Z
+CSS Rules for code class,Published,extratone,2020-12-08T21:01:39Z,2021-04-26T02:18:51Z,closed,refinement,https://github.com/extratone/bilge/issues/54,,extratone,2020-12-08T21:01:39Z,2021-04-26T02:18:51Z,2021-04-26T02:18:51Z
+Consolidate Auto Content,Published,extratone,2020-12-04T06:54:57Z,2021-04-26T02:18:51Z,closed,migration,https://github.com/extratone/bilge/issues/42,,extratone,2020-12-04T06:54:57Z,2021-04-26T02:18:51Z,2021-04-26T02:18:51Z
+Address Tables in CSS,Published,extratone,2020-12-03T23:52:35Z,2021-04-26T02:18:51Z,closed,refinement,https://github.com/extratone/bilge/issues/39,"![image](https://user-images.githubusercontent.com/43663476/101104223-4985cb80-3590-11eb-975d-77b8c401c76c.png)
+",extratone,2020-12-03T23:52:35Z,2021-04-26T17:23:44Z,2021-04-26T02:18:50Z
+"""iPhone and Music  For Artists, Curators, and Enthusiasts""",Published,extratone,2021-03-28T10:02:58Z,2021-04-19T21:25:28Z,closed,"time-sensitive, i, music",https://github.com/extratone/bilge/issues/88,"## MusicSmart and MusicHarbor for iOS
+
+**https://marcosatanaka.com/**
+
+* [MusicSmart App Store Page](https://apps.apple.com/us/app/musicsmart/id1512195368)
+* [MusicHarbor App Store Page](https://apps.apple.com/us/app/musicharbor/id1440405750)",extratone,2021-03-28T10:02:58Z,2021-08-30T12:10:10Z,2021-08-30T12:10:10Z
+"""The Precarious Legacy of the iPhone 8""",Published,extratone,2021-04-02T18:22:57Z,2021-04-04T19:20:49Z,closed,legacy,https://github.com/extratone/bilge/issues/92,"# [The Precarious Legacy of the iPhone 8](https://bilge.world/iphone-8-plus-review)
+
+![iPhone 8 Plus and Dave](https://i.snap.as/tq2eUGT.jpg)
+
+## A decade of iPhone has probably ruined my life, but will the 8 Plus finally end it?
+
+*Is my True Tone bullshit on?*
+
+“True Tone” is so forgettable, everybody had to mention it first. Quite simply, it uses an ambient light sensor to fiddle with white balance, warming the colors of the display as an immediately-obvious whole, yes, but an interesting contrast to show off is no longer inherently justified in being called a “feature” in Apple products, anymore. Essentially, no matter who you ask (aside from [Jon Rettinger](https://youtu.be/AXU8GqaMsQc?t=7m23s),) you *should not* buy an iPhone 8, though I did last Fall, not only because I had to suddenly decide on a handset in less than 24 hours, but — if anything — to say goodbye to the form, the operating system, and the tech company which I have depended upon and carried with me virtually every day for my entire adult life. I’d originally decided to abandon this review due to a variety of unexpected circumstances, but Apple and its iPhone have maintained their place in the news with their [battery scandal](https://www.apple.com/iphone-battery-and-performance/), and a third of a year with the 8 Plus has included some experiences which warrant a send-off before iOS 12 is released, making it (and myself) totally irrelevant forever.
+
+As the longstanding benchmark of the smartphone industry’s state at any given time, the iPhone can be easy to reflect upon as a product once occupying a state of universal exemption from criticism, but it has, in fact, [never been so](http://theweek.com/articles/459748/7-reviews-original-iphone-from-2007). As Nilay Patel [noted](https://www.theverge.com/2017/9/19/16323570/apple-new-iphone-8-review-plus-2017), one might regard the 8 as the last compromise of “basically four years” of the same design. Since launch, it’s unsurprisingly stayed a wee bit too far behind on the spreadsheets for most Android-type folks — not that I’ve ever believed them truthfully incapable of comprehending what it means to *package* a product, given where their greasy startups all eventually ended up. (**You cannot doubt me** — I once took a year-long sabbatical from iOS with a [Sony Xperia Play](https://youtu.be/nSWgS0l0kc8), and my authority is absolute.) The rest are trying to decide whether or not to pay $200 more for “[the phone of the future](https://www.wsj.com/articles/iphone-8-apples-middle-child-1505322945),” which knows when you’re watching it, and is only good for playing half an hour of stupid video games before it needs a charge.
+
+So far, I have maintained that my first generation iPhone was the best handset of all time — one hell of an Email Machine that lasted me close to five years — throughout the last two with actual motherboard exposed to the elements in the corner of its cracked screen. That said, who knows how it’d feel to be coerced into using “iPhone OS 2” as it was called, then, for an entire workday in 2018? Two years prior to bringing home an 8 Plus, I [vowed](http://bit.ly/drycast47) that my 6S Plus would be my last ever Apple device, but this one *actually* feels like a last hurrah. Though the ability to *Tweet directly from the swipe-down notification menu* is still nowhere to be found (it’s been gone for 5 releases, now, and would seem to have been forgotten by *literally* everyone but myself,) one gets the sense that Apple’s efforts to add to the iPhone 8 and iOS 11 were to make amends with us by settling a few debts.
+
+In part, they did. Native apps got a major overhaul — including Mail, which was startling, considering that I’d been looking at what was near as makes no difference the same UI my eldest phone shipped with. As a result, it alone constitutes my benchmark for an email service, and I have been left without a clue as to what *a good one* looks like. (Apparently it was [really bad](https://www.pcmag.com/article/342889/the-best-mobile-email-client-apps)?) Since time began, there has always been at least one alternative email app of the moment that tech journos refer to as the must-have, end-all replacement. [Edison Mail](https://itunes.apple.com/us/app/email-edison-mail/id922793622?mt=8) is currently the smoother, faster, most modular option — at least for another few minutes– but I’ll never know it as I know Mail, and I’ll never want to. Playing around with experimental email apps is too scary. What if I decide once again to kill that massive number in the red badge and need to immediately mark 40,000 emails as read? It took all of my iPhone 4’s 1.0Ghz CPU and proprietary software over 18 hours — how am I supposed to trust a shabby little 6-month-old startup with such an important task? Anybody with a hundred bucks can make an app, you know.
+
+### Why is the App Store now the best-looking publishing software on iOS?
+
+One might interpret the App Store’s redesign as an attempt by Apple to control this conversation — of both the trending *new thing* and the old“essentials” that you’ve probably had tucked away in an untouched folder for years. Technically, whoever the hell is writing those gorgeously-presented daily bits has made them a publishing company, though I’m not so sure I’m not the last remaining user who’s continued semi-regularly visiting their “Today” section. If I *did* want to actually read about apps (I don’t — who does?) it wouldn’t make much sense to seek critical reviews from the faceless boffins behind the platform itself, regardless of how much better it may look than all of the tech news sites, paywall or no.
+
+Native screen recording could conceivably come in handy once or twice, but I see no reason why the red bar must remain at the top of the render, but it has, which could explain the total lack of any such video in the wild. Front-facing 4K, 60fps capture is impressive, but useless — vloggers all have GoPros or DSLRs, these days, and sharing through Snapchat and Instagram will always be ultra-compressed. (Here are two sloppy test clips — [at the zoo](https://youtu.be/VnfkWkotGFw), and [fishing](https://youtu.be/KOs5m6ynKAI).)
+
+Perhaps some have figured out the new Files “app,” but it’s sat on my homescreen for months, untapped, and it will likely remain there for all time as a sort of soothing trophy — a thanks for my legacy iPhone loyalty. My reward for half a lifetime of syncing, scrolling, and tolling? **I can now view some of the files on my Mobile Computing Device**, and even *scan documents in*, which is mostly novel (though it is fun to digitize excerpts from physical text.) At some point, I must’ve mischecked a permanent option because all file types now open only in an app that does not recognize them. God bless.
+
+![Roof Photo](https://i.snap.as/fuMs1a4.jpg)
+
+Somehow, I’ve managed to fill my social circle with precisely zero iOS-using folks. All of my friends and colleagues use Android devices (including [Tim’s supercool Nextbit Robin](https://soundcloud.com/extratonemagazine/nextbit),) which provide a few handy datapoints (like the camera in [my fiance’s Galaxy S8](https://flic.kr/p/BXruaL),) but deprive me of any significant experience with the ostensibly intoxicating cult of iMessage. I’m constantly listening to and reading tech writers claim that it’s [one of the only reasons they’re still using iPhones](https://www.theverge.com/2016/10/10/13225514/apple-iphone-cant-switch-pixel-android-imessage-addiction), but my own food-OS loving biome has forced me to find others, and frankly, I can’t imagine looking at the [*gluttonous*](http://www.extratone.com/audio/futureland/toomanymessengers/) palate of available mobile, cross-platform messaging services (Telegram, [now Telegram X](https://telegram.org/blog/telegram-x), WhatsApp, Signal, Snapchat, Facebook, Instagram, Twitter, Discord, Slack, *Tinder?*, Google Hangouts, Google Allo, Google Chat, Viber, Skype, Line, Wire, etc.) and thinking… *well, none of this will do*!
+
+Honestly — even if I’d actually been at all informed in my haste, the photographic capabilities of the 8 Plus, alone would’ve sold it. It’s not the new filters, gif functionality, or even “3D Photos” — it’s those mythical dual 12MP sensors (which it shares with something called the iPhone X.) They’re no less than infallible. After four months of [astonishing captures](http://bit.ly/ip8plus)in all manner of conditions, I don’t even care how exactly they do it anymore — it’s better to be left marveling. This first example was taken at Keystone, Colorado in the middle of a dark, cloudy Fall night — the amount of light they were able to find — “up to 80% more,” [according to Apple](https://www.apple.com/apple-events/september-2017/) — is just *impossible*.
+
+*The vast majority of the samples in my iPhone 8 Flickr Album were taken within the native Camera app as it ships and left unedited. (Especially before just a few weeks ago, when I [discovered Halide](https://extratone.com/race-day-at-hodges).*
+
+![Oregon Coast - iPhone 8 Plus](https://i.snap.as/C2LLJAl5.jpg)
+
+Here is an unquestionably sensible progression from which iPhone has never wavered far since its fourth generation [set the standard](http://www.extratone.com/words/inred/iphone4/), but it’s one of an unfortunate few. Siri is still useless and silly apart from its “disable all alarms” feature and its ability to sound itself off in response when you’re hysterically screaming and digging for it through the vast plush of a forty-year-old Lincoln. The customizable Control Center makes toggling low power mode, orientation lock, Wi-Fi, and Bluetooth less frustrating (note the last two [aren’t quite hard switches](https://www.wired.com/story/how-to-turn-off-wifi-and-bluetooth-in-ios11/),) though it should’ve come years ago. Notifications are slightly more sensible -certainly better than they were on Android Gingerbread, but I’ve heard things’ve changed quite a bit since then.
+
+I *have* been tripped up by the lack of a 3.5mm audio jack a few times, but it just [wouldn’t make sense](http://www.extratone.com/words/inred/mono/) from a hardware perspective, and the new external stereo capability should refute those who can’t or won’t understand. Yes, it would be nice if Apple hadn’t led the industry to quite such a compromising obsession with thinness — we’d all trade *a lot*of substance for exponentially greater battery life, storage capacity, water resistance, etc. — but I don’t see much sense in expending your energy holding up signs in Silicon Valley.
+
+> I’ll be here long after you’ve died, and you know why?
+> Because I took the time to sync my apps.
+
+Two years ago, a new generation of social apps and the preposterous notion of a quad-core CPU in my iPhone 6S Plus seemed like the harbinger of a world I no longer understood. Now, most of those services have expanded to the far boundaries of my reach, and I’ve stopped counting chips. Refinement of the hardware design is reverent to the extreme. It’s pretentious, but Apple’s decision to pause on the 8 to consider details like stuffing the legal text in the software and adding a little bit of weight *back in* for ergonomics’ sake leads one to regard it as a monument to all the devices along the development timeline that have led to this… last triumph. Or, it would have perhaps, had they not [sold so many](https://www.apple.com/newsroom/2018/02/apple-reports-first-quarter-results/).
+
+One could argue that good execution of consumer electronic design means minimizing as much as possible the obstructions in the way of the user completing any given task, and the iPhone 8 Plus has surpassed the vast majority of these for myself — and I am, surely, a “power user.” iOS has changed a lot in the decade I’ve employed it — in far too many ways for the worse — but this pair of handset and software have reached *my* imagination’s limit for what I could possibly want to do. Augmented reality and wireless charging won’t ever have a place in my future, for better or worse. Face ID is much too peculiar. Surely, this iPhone is the ultimate expression of the first and fourth generation’s foundation.
+
+If the 6S Plus was indeed the key to my immortality, I’m afraid the 8 Plus heralds my imminent demise. Whether or not it’s an early one is for you to decide. This *really is* my last iPhone.
+
+#hardware #software",extratone,2021-04-02T18:22:57Z,2021-04-04T19:20:48Z,2021-04-04T19:20:48Z
+"""iOS 14's Anxious Destiny""",Published,extratone,2021-03-01T19:31:08Z,2021-03-01T19:31:24Z,closed,legacy,https://github.com/extratone/bilge/issues/71,[Already published!](https://bilge.world/ios14-anxiety-mode),extratone,2021-03-01T19:31:08Z,2021-03-01T19:31:31Z,2021-03-01T19:31:31Z
+"""Microsoft's Surface Laptop 2 Was Built for Me but You Should Buy One Too""",Published,extratone,2021-03-08T07:21:10Z,2021-04-13T03:37:43Z,open,legacy,https://github.com/extratone/bilge/issues/78,"[**Already published!**](https://bilge.world/microsoft-surface-laptop-2-review)
+",extratone,2021-03-08T07:21:10Z,2021-03-08T07:23:28Z,
+The 10th Annual Vidya Gaem Awards,Published,extratone,2021-02-27T18:38:35Z,2021-04-13T03:37:29Z,open,time-sensitive,https://github.com/extratone/bilge/issues/70,,extratone,2021-02-27T18:38:26Z,2021-02-27T18:38:40Z,
+“Tweetbot 6 for iOS Review”,Published,extratone,2021-02-06T03:02:36Z,2021-03-02T21:22:15Z,open,,https://github.com/extratone/bilge/issues/59,"- [ ] [Tweetbot 6 on the App Store](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834)
+- [Tweetbot 6 released with support for new Twitter API, now a subscription|based app | 9to5Mac](https://9to5mac.com/2021/01/26/tweetbot|6|new|features|subscription|model/)
+- [Tweetbot 6 is an update to the popular Twitter app and it brings a subscription model | iMore](https://www.imore.com/tweetbot|6|update|popular|twitter|app|and|it|brings|subscription|model)
+- [Tweetbot 6 arrives for iPhone and iPad with a subscription model](https://www.engadget.com/amp/tweebot|6|tapbots|twitter|app|subscription|model|launch|110526052.html)
+- [Tweetbot 6 Moves to Subscription Pricing | MacStories](https://www.macstories.net/news/tweetbot|6|moves|to|subscription|pricing/)
+- [Tweetbot 6 released with new subscription pricing – TechCrunch](https://techcrunch.com/2021/01/26/tweetbot|6|released|with|new|subscription|pricing/)
+- [Tweetbot 6: essential updates and a monthly subscription to the iPhone’s best Twitter app | The Verge](https://www.theverge.com/2021/1/26/22250899/tweetbot|6|tapbots|ios|app|update|subscription|service|twitter|api)
+- [ ] Swiping to change the theme feature! God I can’t believe I forgot about that.",extratone,2021-02-05T23:37:06Z,2021-07-31T22:38:36Z,
+Fix Bandcamp Essay,Published,extratone,2020-12-03T22:04:30Z,2020-12-03T22:05:03Z,closed,fuckup,https://github.com/extratone/bilge/issues/37,fjdjsjdj,extratone,2020-12-03T21:25:41Z,2020-12-03T22:05:03Z,2020-12-03T22:05:03Z
+"""Software Thanksgiving""",Published,extratone,2020-11-24T09:24:00Z,2020-11-25T22:57:40Z,closed,time-sensitive,https://github.com/extratone/bilge/issues/4,Finish the software thanksgiving post before **tomorrow**.,extratone,2020-11-24T09:24:00Z,2020-11-25T22:59:41Z,2020-11-25T22:59:41Z
+"""Tweetbot 5 for iOS Review""",Published,extratone,2020-12-07T21:08:22Z,2021-02-06T03:03:46Z,closed,"legacy, revision",https://github.com/extratone/bilge/issues/48,Fix [this](https://write.as/bilge/tweetbot-5-ios-review).,extratone,2020-12-07T21:08:22Z,2021-04-26T02:18:51Z,2021-04-26T02:18:51Z
+Film & Television Writing List,Published,extratone,2020-12-08T15:41:08Z,2021-03-28T08:32:00Z,closed,documentation,https://github.com/extratone/bilge/issues/50,,extratone,2020-12-08T15:41:08Z,2021-04-26T02:20:53Z,2021-04-26T02:20:53Z
