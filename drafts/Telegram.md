@@ -20,7 +20,7 @@ I have used this “flow” so extensively for so long that it has come to defin
 
 ![Send to Telegram Drafts Action](https://i.snap.as/p3K96LiX.png)
 
-Over the years, I’ve discovered a bunch of other uses for the Saved Messages channel. As demonstrated in the screenshots embedded above, the [Send to Telegram Action](https://actions.getdrafts.com/a/18E) for my writing app, Drafts, utilizes Telegram for iOS’ Universal Links support (in the format `tg://…`) to instantly send the whole text of the current document in Drafts to a Telegram channel of one’s choice. I suspect this was intended to streamline posting for admins of public channels, but I’ve used it to quickly “back up” work as well as to transfer edits directly to my (Windows-running) PC. By adding `&to=+[my phone number]` to the end of the action’s URL, I was able to remove the single, unnecessary step of choosing the destination chat. Because text messages are automatically split at 5000 characters, though, I usually depend on the [Share as Markdown File Action](https://actions.getdrafts.com/a/1V4) (the output of which I also send to Saved Messages through the Share Sheet) for the latter function.
+Over the years, I’ve discovered a bunch of other uses for the Saved Messages channel. As demonstrated in the screenshots embedded above, the [Send to Telegram Action](https://actions.getdrafts.com/a/18E) for my writing app, Drafts, utilizes Telegram for iOS’ Universal Links support (in the format `tg://…`) to instantly send the whole text of the current document in Drafts to a Telegram channel of one’s choice. I suspect this was intended to streamline posting for admins of public channels, but I’ve used it to quickly “back up” work as well as to transfer edits directly to my (Windows-running) PC. By adding `&to=+[my phone number]` to the end of the action’s URL, I was able to remove the single, unnecessary step of choosing the destination chat. Because text messages are automatically split at 5000 characters, though, I usually depend on the [Share as Markdown File Action](https://actions.getdrafts.com/a/1V4) (the output of which I also send to Saved Messages through the Share Sheet) for the latter function. Anecdotally I’ve also used this method literally just to inspect unknown content passed to the Share Sheet because it’s often **faster than Quick Look** to share to my Saved Messages channel and then immediately open it in the app. (Hilarious, I suppose. Mostly sad, these days.)
 
 I found my inspiration for this Post in replying to a [thread on the Automators.fm Discourse forum](https://talk.automators.fm/t/equivalent-to-drafts-but-for-windows/6159) regarding a Windows equivlalent to the same Mac/iOS/iPadOS app Drafts mentioned above. I suppose my reply was a bit off-topic, in retrospect, but still worth including:
 
@@ -122,9 +122,7 @@ As for the persistence of *Live* location-sharing, I can vouch for its reliabili
 
 ### Permanence
 
-I've long evangelized (and extensively used) Alexey Golub's [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) to make beautiful, stylized archives of Discord channels and/or entire servers for safekeeping. Telegram's native [Chat Export Tool](https://telegram.org/blog/export-and-more) came just a year after Alexey pushed [version 1.0 of the tool to GitHub](https://github.com/Tyrrrz/DiscordChatExporter/releases/tag/1.0.0), in August of 2018. In features, they're very similar utilities: both can export in either stylized HTML or data-only JSON formats between infinitely-configurable time/date constraints.
-
-
+I've long evangelized (and extensively used) Alexey Golub's [Discord Chat Exporter](https://github.com/Tyrrrz/DiscordChatExporter) to make beautiful, stylized archives of Discord channels and/or entire servers for safekeeping. Telegram's native [Chat Export Tool](https://telegram.org/blog/export-and-more) came just a year after Alexey pushed [version 1.0 of the tool to GitHub](https://github.com/Tyrrrz/DiscordChatExporter/releases/tag/1.0.0), in August of 2018. In features, they're very similar utilities: both can export in either stylized HTML or data-only JSON formats between infinitely-configurable time/date constraints. Again, I wouldn’t know how much external backup of community activity actually weighs in the day-to-day operations of large online communities. I know I personally find it comforting to have a swift, polished method of exporting *text*, especially, living in this era of [blatant disregard for users of suddenly-abandoned online services](https://github.com/extratone/bilge/issues/79).
 
 ![TG Colors](https://i.snap.as/r0WpvFQr.png)
 
@@ -151,9 +149,11 @@ My thinking while drafting this argument kept returning to a single, simple real
 
 Returning to the topic of their age… In its eight operating years, Telegram has embarked upon - and *actually completed*! - a gargantuan amount of projects. [Telegraph](https://telegra.ph/), the CMS, its [Web](http://web.telegram.org/), [Android](https://telegram.org/android), and [Linux](https://itsfoss.com/install-telegram-desktop-linux/) clients, [embeddedable comments widgets](https://comments.app), its [online theme creation tool](https://themes.telegram.org/), and on and on. Across their various types, Telegram’s software is universally simple, frugal, robust, and easy-to-use. Frankly, by contrast, Discord has done *nothing*? Though you’ll find openly-available solutions to accomplish much of what you can on Telegram in terms of moderation and other utilitarian concerns, like the aforementioned Craig bot, they are *all* the work of third-parties. While Discord the *company* is much more [transparently profiled](https://discord.com/company) on the web than “Telegram FZ LLC,” the latter’s actual work is very well documented [across GitHub](https://github.com/TelegramMessenger). 
 
-
-
 ![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)
+
+If you’ve stuck with me this far, perhaps it’s not too much to ask that we retreat a bit and ask ourselves **what we’d truly like prioritized in community chat software for 2021**. I really do show my age in my bias, here, as someone just old enough to have extensive experience using IRC.[^11]
+
+![Telegram for iOS Sharing and Notifications](https://i.snap.as/FltrCV6Z.png)
 
 ------
 
@@ -167,3 +167,4 @@ Returning to the topic of their age… In its eight operating years, Telegram ha
 [8] It’s also worth nothing that [word of screen sharing framerate issues](https://t.me/TelegramiOStalk/104997) was circulating at the time of this recording.
 [9] Simulcast services like [Happs](https://happs.tv/@DavidBlue) - which still exists, astonishingly - offer an intriguing utility for those intending to stream regularly and wishing to do so across multiple platforms. It does not, at the moment, support either Telegram or Discord.
 [10] Speaking as someone with [actual extensive ridesharing experience](https://dieselgoth.com/volkswagen-jetta-sportwagen-tdi-review.html), notably.
+[11] Yes, there are some fellow Open Source Folks who’ve frankly struggled to let IRC go. It was an amazing protocol and will always be intertwined with the very first layed bricks of what we’d call the Social Web, but my friends… I sincerely think we should all try our hands at ham radio, instead. I think that would legitimately be a better use of our time than trying to implement two-factor authentication for IRC in this year of our spiteful Lourde 2021.
