@@ -22,6 +22,7 @@
 * [x] The **cost** of Telegram vs. Discord Nitro, now.
 * [ ] [[SI on Discord Regarding Objective-C and Swift]]
 * [ ] "Last seen within a week will be kicked."
+* [ ] As far as I’m concerned/as far as I live, now, Telegram is a required utility for using iOS.
 
 
 ## References
@@ -106,7 +107,7 @@
 - [x] `![Send to Telegram Drafts Action](https://i.snap.as/p3K96LiX.png)`
 - [ ] `![Telegram in CarPlay](https://i.snap.as/0jm5rxyy.png)`
 - [x] `![Security Considerations in Telegram for iOS](https://i.snap.as/Qim9gsZZ.png)`
-- [ ] `![Telegram Privacy - InputZero](https://i.snap.as/a0xgY5cJ.png)`
+- [x] `![Telegram Privacy - InputZero](https://i.snap.as/a0xgY5cJ.png)`
 - [x] `![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)`
 - [x] `![TG Colors](https://i.snap.as/r0WpvFQr.png)`
 - [ ] `![Telegram Tile](https://i.snap.as/WQJGiVhY.png)`
