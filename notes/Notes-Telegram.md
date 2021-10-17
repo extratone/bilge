@@ -2,6 +2,7 @@
 
 ## General
 * [x] **Telegram and Discord are the same age**
+* [ ] [**Isiah’s random encounter**](https://twitter.com/ammnontet/status/1449594872139186181)
 * [ ] Telegram’s cross-platform, resource-frugal clients and phone number-based accounts/auth literally make it more **class mobile** than Discord.
 * [ ] What in fuck is this website… “[Telegram for iOS - NONE](http://tsfkb.wikidot.com/apps:ios)”
 * [ ] My [personal Telegram satellite GitHub Repository](https://github.com/extratone/t)
@@ -23,6 +24,7 @@
 * [ ] [[SI on Discord Regarding Objective-C and Swift]]
 * [ ] "Last seen within a week will be kicked."
 * [ ] As far as I’m concerned/as far as I live, now, Telegram is a required utility for using iOS.
+* [ ] The ever-greater value of the ability to [**send silent messages**](https://telegram.org/blog/channels-2-0#silent-messages).
 
 
 ## References
@@ -71,9 +73,15 @@
 <audio controls>
   <source src="https://github.com/extratone/bilge/raw/main/audio/The%20man%20who%20wants%20to%20out-Uber%20Uber-CBC.mp3">
 </audio>
+- [ ] [Telegram Desktop reaches version 1.0 – and it's BEAUTIFUL](https://telegram.org/blog/desktop-1-0)
+- [ ] [Telegram's Pavel Durov: Podcast 256](https://www.mixcloud.com/wiredUK/telegrams-pavel-durov-podcast-256/)
+- [ ] [Telegram's Pavel Durov: Podcast 256](https://www.wired.co.uk/article/episode-256)
+
+
 
 ## Themes
 - [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
+- [Water Drops Space](https://t.me/addtheme/waterdropsspace)
 - [SYSTEM COLORS Themes for iOS-Bound Telegram – Telegraph](https://telegra.ph/SYSTEM-COLORS-Themes-for-iOS-Bound-Telegram-09-27)
 - [SYSTEM BLUE](https://t.me/addtheme/systemblue)
 - [SYSTEM PINK](https://t.me/addtheme/systempink)
@@ -88,6 +96,7 @@
 * [Mastodon Club](https://t.me/mastodonclub)
 * [PINE64 General Chat](https://t.me/mtrx_pine64)
 * [LibreTaxi all orders](https://t.me/libretaxi_all)
+* [iOS Themes Group](https://t.me/ThemeCreators)
 
 ## Images
 
@@ -116,6 +125,7 @@
 - [x] `![Live Streams and Video Chats](https://i.snap.as/v1zhWmwN.png)`
 - [x] `![Storage Management - Telegram for iOS](https://i.snap.as/BecGI6kg.png)`
 - [x] `![Telegram Live Stream Meta](https://i.snap.as/oDQqSYHF.png)`
+- [ ] `![Water Drops Space Theme - Telegram for iOS](https://i.snap.as/lorBpBov.png)`
 
 
 

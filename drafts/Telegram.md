@@ -1,5 +1,3 @@
-# I Trust Telegram
-
 ![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)
 
 ## How I’ve used Telegram as the ultimate cross-platform Universal Clipboard, file sharing service, and more.
@@ -160,6 +158,16 @@ If you’ve stuck with me this far, perhaps it’s not too much to ask that we r
 
 As I see it, the ultimate shift dividing those solutions from these is the big fucking obvious one: IRC was conceived in a world where computers were mostly static objects associated by their intended use and physical dimensions with the referential, unmoving waypoints around which *we* orbited (the kitchen counter, the desk in your study at home, parallel series of workstations within the public library, etc.) The *entirely* contrasted needs of community engagement on a *handset* should have - in my opinion - done much more to break apart these communal contexts than they have. As prolifically and extensively as I have used Discord for iOS since before its official release, even, it is hopelessly compromised by its loyalty to the PC gamer’s paradigm. My 12 Pro Max is not just *capable* of keeping 100 Discord channels up-to-date in the background as I move about the world - it is all too fucking *eager*, and for not a one rational explanation. Going on down this vector eventually leads to an adjacent argument I’ll name but otherwise save for later: it is literally **over a decade** past the time when we should have ceased celebrating the fact that mobile computers had matched and outdone desktop computers! We have to snap the fuck out of our obsession with lugging desktop computing alongside our persons and refocus entirely (once again) on exploring what “mobile computing” can/should mean, going forward. Please Gourd, help us do so ASAP.
 
+Unlike my heroes in most (if not all) of these tedious comparisons, I would *not* say Telegram is *the single software manifestation of total clarity in direction* within the subject, or anything, but in the area where it fails along with the rest of them, it has comprehensively iterated, invested in trial and error, and eventually produced tools that remedy the disparate gluttony. How swiftly and easily one can find one's installation full of media files, for instance, after *any* time spent exploring within its mobile apps.
+
+It very well could have been mostly chance that contributed to Telegram's current lead in terms of thoughtful design decisions and development investment toward **mobile-first optimization**. Perhaps it was their comparative longstanding Hype Famine, especially in the United States, these past few years.  Maybe Discord hasn't built anything because they simply can't hear each other over the buzzwords overflowing their name in mainstream Discourse so abruptly thanks to The Big Virus. 
+
+<iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&mini=1&light=1&feed=%2FwiredUK%2Ftelegrams-pavel-durov-podcast-256%2F" frameborder="0" ></iframe>
+
+Telegram's story certainly *stands out*, though the voice of its creator, Pavel Durov, actually *telling* this story at length can now only be found [on *WIRED UK*'s MixCloud account](https://www.mixcloud.com/wiredUK/telegrams-pavel-durov-podcast-256), in [episode 256 of their *WIRED Podcast*](https://www.wired.co.uk/article/episode-256). Telegram was experiencing the peak of its presence in mainstream Western news media, who just *would not* let go of the fact that some leader of some terrorist organization recommended Telegram to someone for something at some point in time.[^12] Listening back, it's the nomadic "decentralized" beginnings of the organization - which I had forgotten entirely - which sounded a big, resonant Parallel Alarm in my brain: for very different reasons, [Bandcamp also operating without an office](https://bilge.world/bandcamp-streaming-music) (from a public library, charmingly,) at that time. 
+
+"Can there only be one winner in the messaging wars?" David Rowan, to which Pavel - in the deliberate, uncomfortable-sounding tone he uses throughout the interview - responds by first noting a *real truth* for actual users: we tend to end up with a billion, each grouped generally by types of relationships.
+
 ------
 
 [1] I still have not accepted this, by the way. I’m still back there.
@@ -173,3 +181,4 @@ As I see it, the ultimate shift dividing those solutions from these is the big f
 [9] Simulcast services like [Happs](https://happs.tv/@DavidBlue) - which still exists, astonishingly - offer an intriguing utility for those intending to stream regularly and wishing to do so across multiple platforms. It does not, at the moment, support either Telegram or Discord.
 [10] Speaking as someone with [actual extensive ridesharing experience](https://dieselgoth.com/volkswagen-jetta-sportwagen-tdi-review.html), notably.
 [11] Yes, there are some fellow Open Source Folks who’ve frankly struggled to let IRC go. It was an amazing protocol and will always be intertwined with the very first layed bricks of what we’d call the Social Web, but my friends… I sincerely think we should all try our hands at ham radio, instead. I think that would legitimately be a better use of our time than trying to implement two-factor authentication for IRC in this year of our spiteful Lourde 2021.
+[12] Disparaging Telegram for this is akin to shitting on Google because it is or was almost certainly the Taliban's favorite search engine, no? 
