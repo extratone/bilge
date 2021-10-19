@@ -1,6 +1,6 @@
 # Colophon
 
-![Single Page, All of Unicode (Inverted)](https://i.snap.as/GGPoR0yN.png)
+![Editorial Git - Wood](https://i.snap.as/ocT2o2B3.png)
 
 ## *The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web.
 

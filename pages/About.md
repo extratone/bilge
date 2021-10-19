@@ -26,6 +26,8 @@ Some recent examples include [my interview with Brad Varol](https://anchor.fm/da
 
 Two more _significant_ examples: [my interview with Mastodon creator Eugen Rochko](https://bilge.world/eugen-rochko-interview) and [my huge case for Bandcamp](https://bilge.world/bandcamp-streaming-music) as the streaming service we’ve all been asking for.
 
+<iframe src="https://pixelfed.social/DavidBlue/embed" class="pixelfed__embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+
 ### How do you see the world?
 
 Anyone _truly_ curious about the answer to this question, for whatever reason, should read my very-autobiographical essay “[Why I Write About Technology](https://bilge.world/why)” from 2018, though my perspective has changed quite significantly in the time, since. 
@@ -45,6 +47,8 @@ I’m going to take further cue from [Casey Newton’s about page format](https:
 
 Very likely from the same sources you do. As a "self-taught" technology writer, my go-to sources are constantly changing over time. Recently, I have been actively making cold emailing a habit whenever I set upon a given subject, which has produced good results so far. I will more often than not mention any particulars regarding how I found a specific piece of information, reference, web page, etc. *in the post itself*. Handily, [my various Raindrop feeds](https://raindrop.io/user/517010) should prove particularly useful in answering this question in infinite detail. On the social side, [my public Twitter Lists](https://twitter.com/NeoYokel/lists) should perform the same function.
 
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/embed/me/theme=auto" allowfullscreen></iframe>
+
 ### How can I interact with *The Psalms*?
 
 Emailing [**davidblue@extratone.com**](mailto:davidblue@extratone.com) and/or engaging me on [Twitter](https://twitter.com/NeoYokel)/[Mastodon](https://mastodon.social/@DavidBlue) are the simplest ways of getting in touch, but for those interested and/or uncomfortable with those, there are infinitely many more:
@@ -57,3 +61,5 @@ Emailing [**davidblue@extratone.com**](mailto:davidblue@extratone.com) and/or en
 <!--emailsub-->
 
 *Technical details about this blog and the best CMS/hosting service to ever grace the web can be found on [the Colophon](https://bilge.world/colophon).*
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y53UHBV)
