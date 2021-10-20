@@ -25,6 +25,7 @@
 * [ ] "Last seen within a week will be kicked."
 * [ ] As far as I’m concerned/as far as I live, now, Telegram is a required utility for using iOS.
 * [ ] The ever-greater value of the ability to [**send silent messages**](https://telegram.org/blog/channels-2-0#silent-messages).
+* YouTube's pre-sharesheet sharesheet pushes to Telegram even faster than Telegram's.
 
 
 ## References
@@ -76,6 +77,7 @@
 - [ ] [Telegram Desktop reaches version 1.0 – and it's BEAUTIFUL](https://telegram.org/blog/desktop-1-0)
 - [ ] [Telegram's Pavel Durov: Podcast 256](https://www.mixcloud.com/wiredUK/telegrams-pavel-durov-podcast-256/)
 - [ ] [Telegram's Pavel Durov: Podcast 256](https://www.wired.co.uk/article/episode-256)
+- [ ] [A Guide to Good Templates](https://instantview.telegram.org/checklist) | Telegram Blog
 
 
 
@@ -97,6 +99,7 @@
 * [PINE64 General Chat](https://t.me/mtrx_pine64)
 * [LibreTaxi all orders](https://t.me/libretaxi_all)
 * [iOS Themes Group](https://t.me/ThemeCreators)
+* [Telegram Windows Phone Talk](https://t.me/TelegramWPtalk)
 
 ## Images
 
