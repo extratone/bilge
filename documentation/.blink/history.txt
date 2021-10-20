@@ -1,0 +1,388 @@
+reboot
+ls
+help
+help list-commands
+pwd
+config
+help list-commands
+showkey
+sudo
+apk
+app
+list
+cd
+ls
+cd icloud
+cd iCloud
+ls
+pwd
+ls
+link-files
+ls
+cd Documents
+ls
+help
+display
+logoff
+reset
+exit
+config
+ssh help
+ssh
+mkdir -m 700 ~/.ssh
+ssh-keygen -t rsa -b 4096
+ls
+cd iCloud
+ls
+cd..
+cd
+ls
+awk to be perfectly honest… I have put off learning ssh for too long and just got beta access to blinkshell, which is definitely the most interesting/gorgeous terminal emulator on iOS.  zzd
+clear
+cat /var/mobile/Containers/Data/Application/0C3C1425-053A-40DF-8BFA-75E2E29A3B4E/Documents/.ssh/id_rsa.pub.
+/var/mobile/Containers/Data/Application/0C3C1425-053A-40DF-8BFA-75E2E29A3B4E/Documents/.ssh/id_rsa.pub
+ssh extratone@tilde.club
+ssh help
+ssh -1help
+ssh -
+ssh --list
+ssh --list jorts
+ssh --help
+cat /var/mobile/Containers/Data/Application/0C3C1425-053A-40DF-8BFA-75E2E29A3B4E/Documents/.ssh/id_rsa.pub clear
+config
+netstat
+ls
+help -l
+help list-commands
+bemch
+bench -h
+ssh list
+stat
+du
+ping tilde.town
+ping tilde.club
+ping tilde.town
+ssh -i ~/.ssh/tilde.town extratone@tilde.town
+ssh keygen
+cl
+clear
+ssh -i ~/.ssh/tilde.club extratone@tilde.club
+clear
+ls
+ssh list
+ssh
+ssh help
+ls
+ssh -i ~/.ssh/tilde.club extratone@tilde.club
+ssh extratone@tilde.club
+stat
+tail
+ssh
+ssh list
+ssh help
+ifco
+ifconfig
+ping
+clear
+ssh extratone@tilde.town
+ssh -i ~/.ssh/tilde.club extratone@tilde.club
+ping bilge.world
+config
+reboot
+restart
+refresh
+logogf
+help
+help -all
+help --all
+help --verbose
+help list-commands
+uptime
+xargs
+ssh --help
+ssh list
+ssh -L
+ssh
+ssh blue@hildur.local
+ssh
+ssh blue@hildur.local
+ssh admin@hildur.local
+ssh blue@hildur.local
+go
+help list-commands
+cssh
+stat
+setenv
+clear
+help list-commands
+uniq
+ssh blue@hildur.local
+uptim
+uptime
+stat
+help list-commands
+dig
+help list-commands
+telnet
+help list-commands
+uname
+sed
+help list-commands
+pbpaste
+tr
+xcall
+xcall bilge.world
+help list-commands
+tee
+bench
+ls
+ssh --list
+ssh extratone@tilde.town
+ssh -i ~/.ssh/tilde.town extratone@tilde.town
+ping bilge.world
+ssh -i ~/.ssh/tilde.town extratone@tilde.town
+ssh import
+cleasr
+clear
+ssh blue@hildur.local
+ssh config
+help
+help list-commands
+telne
+telnet
+help list-commands
+ssh help
+ssh --help
+ssh-command
+ssh -L
+ssh --help
+ssh -G
+ssh -G blue@hildur.local
+ssh -G david@odette.local
+ssh blue@hildur.local hugo
+ls
+ssh blue@hildur.local hugo help
+ls
+cd iCloud
+ls
+cd..
+dir
+ls
+mkdir BlinkTest
+ls
+stat
+net
+help list-commands
+rlogin help
+rlogin -l blue hildur.local
+ls
+cd dataf
+cd datafruits
+ls
+cd datafruits.fm
+ls
+cd assets
+ls
+cd..
+cd
+ls
+vi
+vim
+help list-commands
+date
+exit
+ssh blue@hildur.local
+ssh ihadt@sophie.local
+ssh -L
+ssh --L
+ssh --list
+ssh help
+ssh -help
+ssh --help
+ls -A
+ssh
+ssh local
+ssh jorts@local
+test
+ssh test
+stat
+cd iCloud
+ls -A
+ls
+stat
+sys
+`
+help
+help list-commands
+dig
+tee
+build device authenticate
+whois
+ip config
+if
+ifconfig
+ls
+cd iCloud
+ls
+cd
+pickFolder
+ls
+help list-commands
+env
+help list-commands
+whoami
+grep
+stat
+link-files
+ls
+cd Keys
+ls
+cd
+link-files
+ls
+cd 15
+ls
+dir
+cd
+ls
+cd 15
+ls
+cd
+cd Keys
+ls
+cd
+webdav
+davfs2
+help list-commands
+uptime --all
+env
+cle4ar
+clear
+help list-commands
+du
+fcp
+fcp help
+fcp --help
+fcp -h
+fcp https://davidblue.wtf/library.xml *
+ssh
+ssh list
+ssh --help
+ssh blue@sophie.local
+ssh guest l
+ssh ihadt@sophie.local
+ssh
+ssh blue@hildur.local
+ssh help
+ssh --help
+ssh blue@hildur.local
+config
+ssh
+ssh david@hildur.local
+config
+reset
+reboot
+exit
+help
+list
+hel
+htlp
+help
+help list-commands
+md5 --help
+geo
+geo track
+geo authorize
+geo track
+get stop
+get track stop
+geo last
+geo stop
+help list-commands
+touch
+stat
+ls
+cd iCloud
+ls
+stat
+setenv
+cd
+ls
+cd Documents
+ls
+cd iCloud
+ls
+cd
+ls
+help list-commands
+uptime
+rlogin
+help list-commands
+chflags
+chflags .blink/Themes
+chflags .blink/ThemesList
+cd .blink/ThemesList
+ls
+nc
+ssh-agent
+sed
+fmap
+dir
+ls
+mmap iCloud
+help list-commands
+history
+nc
+dir
+ls
+help list-commands
+printenv
+cd.
+cd
+ls
+cd ..
+ls
+cd iCloud
+ls
+cd BlinkTest
+BlinkTest
+help
+help list-commands
+whoami
+say what
+geo
+facecam
+facecam help
+facecam --help
+facecam help recorx
+facecam help record
+facecam off
+say what
+help list-commands
+env
+wget
+open .blink
+cd .blink
+ls
+zip
+rar
+help list-commands
+gzip
+gzip help
+gzip --help
+gzip --best
+gzip --help
+dir
+ls
+gzip --best *
+ls
+con
+config
+reset
+help list-commands
+stat
+date
+fxp
+fcp
+open
+open .blink
