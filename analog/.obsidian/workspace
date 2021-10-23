@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "61271357d5908313",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6161467e40d1f57",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "drafts/About 2.0.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3643fc4c84c95a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "06d3ca38d507c4ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e0e9706a28ac338",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f289c9b730803248",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "808e45077bab5ac4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6271f868fd4f5a5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f457e15b8cebf97b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "drafts/About 2.0.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "a6161467e40d1f57",
+  "lastOpenFiles": [
+    "drafts/About 2.0.md",
+    "documentation/2019 Volkswagen Atlas Review.pdf",
+    "documentation/3.1ReleaseNotes.md"
+  ]
+}
