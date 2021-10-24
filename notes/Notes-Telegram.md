@@ -144,7 +144,7 @@
 ## Dev
 
 - [ ] [rahiel/telegram-send: Send messages and files over Telegram from the command-line.](https://github.com/rahiel/telegram-send#installation)
-- [ ] 
+- [ ] [softwarehistorysociety/tg-archive: A tool for exporting Telegram group chats into static websites, preserving chat history like mailing list archives.](https://github.com/softwarehistorysociety/tg-archive)
 
 ## Media
 * [Share Sheet animation](https://imgur.com/gallery/4laWgXj) - `https://imgur.com/gallery/4laWgXj`
