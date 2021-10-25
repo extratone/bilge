@@ -25,8 +25,12 @@
 * [ ] "Last seen within a week will be kicked."
 * [ ] As far as I’m concerned/as far as I live, now, Telegram is a required utility for using iOS.
 * [ ] The ever-greater value of the ability to [**send silent messages**](https://telegram.org/blog/channels-2-0#silent-messages).
+<<<<<<< Updated upstream
 * YouTube's pre-sharesheet sharesheet pushes to Telegram even faster than Telegram's.
 * [Anon ✪ in Telegram Desktop Talk](https://t.me/TelegramDesktopTalk/66912)
+=======
+* [ ] `t.me/s`
+>>>>>>> Stashed changes
 
 
 ## References
