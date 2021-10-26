@@ -1,0 +1,84 @@
+{
+  "main": {
+    "id": "8f28282a551ab39d",
+    "type": "split",
+    "children": [
+      {
+        "id": "e7de84dd66aedc9a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "bilge/drafts/iOS15FamilyReview.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2f65bb6fb938a821",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3975ee4fc167b9fb",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "84049d967bdb4309",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "961abd9f9a92c0c9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f2b44b4f76a45fae",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "bilge/drafts/iOS15FamilyReview.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ]
+  },
+  "active": "e7de84dd66aedc9a",
+  "lastOpenFiles": [
+    "bilge/drafts/iOS15FamilyReview.md",
+    "bilge/drafts/iOS15.md",
+    "bear/iOS and iPadOS 14.5 The MacStories Overview.md",
+    "Untitled.md",
+    "bilge/drafts/Fucking Around.md",
+    "bilge/drafts/scrubs.md",
+    "awards/Tweetbot-PlatinumClackerAward.png",
+    "README.md"
+  ]
+}

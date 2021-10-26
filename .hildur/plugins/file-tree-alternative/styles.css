@@ -1,0 +1,235 @@
+.oz-file-tree-header {
+    height: 22px;
+    color: var(--text-normal);
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.oz-nav-action-button {
+    color: var(--text-normal);
+    display: inline-block;
+    padding: 3px 0px 0 3px !important;
+}
+
+.oz-input-container {
+    margin-bottom: 3px !important;
+    margin-top: 3px !important;
+    height: 30px;
+}
+
+.oz-nav-buttons-right-block {
+    text-align: right;
+}
+
+.oz-nav-file-title {
+    padding-left: 2px !important;
+    padding-right: 2px !important;
+}
+
+div.workspace-leaf-content[data-type='file-tree-view'] > div.view-content {
+    padding: 10px 5px 5px 5px;
+}
+
+.oz-flex-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 26px;
+}
+
+.is-mobile .oz-flex-container {
+    height: 31px;
+}
+
+.oz-explorer-container {
+    padding-left: 3px !important;
+    padding-right: 3px !important;
+}
+
+.oz-file-tree-files {
+    padding-top: 3px !important;
+}
+
+.drag-entered,
+.oz-folder-element:hover,
+.oz-nav-file:hover {
+    background-color: var(--text-selection);
+}
+
+.oz-folder-contents {
+    will-change: transform, opacity, height;
+    margin-left: 6;
+    padding: 4px 0px 0px 14px;
+    border-left: 1px dashed;
+    border-left-color: var(--text-muted);
+    font-size: 12.8px;
+}
+
+.oz-folder-toggle {
+    width: 1em;
+    height: 1em;
+    margin-right: 10px;
+    cursor: pointer;
+    vertical-align: middle;
+}
+
+.treeview {
+    position: relative;
+    padding: 4px 0px 0px 0px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+    vertical-align: middle;
+}
+
+.oz-folder-type {
+    text-transform: uppercase;
+    font-family: monospace;
+    font-size: 0.6em;
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.oz-folder-name {
+    vertical-align: middle;
+    display: inline-block;
+    color: var(--text-normal);
+    font-size: 13px;
+}
+
+div.oz-folder-name.is-root-folder {
+    font-size: 16px;
+}
+
+.is-mobile .oz-folder-name.is-root-folder {
+    font-size: 18px;
+}
+
+.is-mobile .oz-folder-name {
+    font-size: 15.5px;
+}
+
+.is-mobile div.oz-nav-file-title .nav-file-title-content {
+    font-size: 15px;
+}
+
+.oz-icon-div {
+    display: inline-block;
+}
+
+.oz-folder-block {
+    display: inline-block;
+    width: 100%;
+}
+
+.oz-folder-count.no-root {
+    float: right;
+    padding-right: 25px;
+}
+
+.oz-folder-count.with-root {
+    float: right;
+    padding-right: 32px;
+}
+
+.oz-folders-tree-wrapper {
+    overflow: hidden;
+    overflow-y: auto;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    height: 100%;
+}
+
+.oz-folder-element {
+    line-height: 1.35em;
+    padding: 0px 0px 0px 0px;
+}
+
+.oz-input-container > input {
+    padding-left: 8px;
+    padding-right: 4px;
+}
+
+.oz-nav-action-button:hover {
+    color: var(--interactive-accent);
+}
+
+.oz-nav-action-button .fa-lg {
+    font-size: 1.15em;
+}
+
+.file-tree-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    max-height: 100%;
+}
+
+.file-tree-plugin-view {
+    height: 100%;
+}
+
+.oz-folder-pane {
+    display: block;
+    width: 100%;
+    overflow-y: auto;
+    height: 50%;
+    resize: vertical;
+}
+
+.oz-file-list-pane {
+    display: block;
+    width: 100%;
+    overflow-y: auto;
+    flex: 1;
+}
+
+.oz-coffee-div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#file-tree-divider {
+    height: 2.5px;
+    background-color: var(--text-muted);
+    cursor: row-resize;
+}
+
+.is-folder-active {
+    color: var(--text-accent);
+    font-weight: bold;
+}
+
+.file-tree-header-fixed {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    padding-left: 4px;
+    padding-right: 4px;
+    background-color: var(--background-secondary);
+}
+
+.file-tree-files-fixed {
+    padding-top: 50px !important;
+    display: flex;
+    flex-direction: column;
+}
+
+.is-mobile .file-tree-files-fixed {
+    padding-top: 55px !important;
+}
+
+.file-tree-files-fixed-with-search {
+    padding-top: 80px !important;
+    display: flex;
+    flex-direction: column;
+}
+
+.is-mobile .file-tree-files-fixed-with-search {
+    padding-top: 85px !important;
+}
+
+svg.oz-folder-toggle path {
+    fill: var(--interactive-accent);
+}

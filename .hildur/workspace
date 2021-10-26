@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "6bfc50ee2aff4631",
+    "id": "04991933ff833ece",
     "type": "split",
     "children": [
       {
-        "id": "7936b609ad16829b",
+        "id": "4347629cb961b76f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "archive/bilge.world/tag%3Ajohn316/mastodon-ios-app-review.md",
+            "file": "telegram/Telegram Tips Series.md",
             "mode": "source"
           }
         }
@@ -18,15 +18,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "8069dd6dbd6e4c03",
+    "id": "eaaf6ed8875ccbc5",
     "type": "split",
     "children": [
       {
-        "id": "e2e1bb338d24eeb5",
+        "id": "a774cce0165e6179",
         "type": "tabs",
         "children": [
           {
-            "id": "b81890a9f7c4f467",
+            "id": "8525fb2ccc87e9a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "aec63eeb56451a13",
+            "id": "29943dd4edf5e0e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -47,28 +47,47 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "93bef71320cbf1e7",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.5136413574219
   },
   "right": {
-    "id": "8f97302abf2744da",
+    "id": "ede937ddfac9f863",
     "type": "split",
     "children": [
       {
-        "id": "79b21aa9042e8194",
+        "id": "2a35322e00c82611",
         "type": "tabs",
         "children": [
           {
-            "id": "1b6290c30dda31be",
+            "id": "5edc6dd332d2fe00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "326397920c54bd0e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive/bilge.world/tag%3Ajohn316/mastodon-ios-app-review.md",
+                "file": "telegram/Telegram Tips Series.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,20 +97,44 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "4499de9cfe87a736",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "telegram/Telegram Tips Series.md"
+              }
+            }
+          },
+          {
+            "id": "bf72016ff58c39f0",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 270.94097900390625,
     "collapsed": true
   },
-  "active": "7936b609ad16829b",
+  "active": "4347629cb961b76f",
   "lastOpenFiles": [
-    "archive/bilge.world/tag%3Ajohn316/mastodon-ios-app-review.md",
-    "notes/Notes-TextFuck.md",
-    "tratobot wtf.md",
-    "styleguide.pdf",
-    "Photo Oct 26, 12 44 12.png"
+    "telegram/Telegram Tips Series.md",
+    "Untitled.md",
+    "Why.md",
+    "telegram/tratobot wtf.md",
+    "notes/Obsidian Meta.md",
+    "archive/blimp.pdf",
+    "archive/dropbox/Extratone/Essential_Newsletters.md",
+    "archive/TL/assumed-suicidal-but-impervious-to-email-fatigue.md",
+    "archive/TL/a-year-of-blasphemy.md",
+    "archive/The Tone/The Nieman Demon  State of the Extranet 8 - .md"
   ]
 }

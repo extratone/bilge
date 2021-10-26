@@ -1,3 +1,5 @@
 {
-  "baseFontSize": 16
+  "baseFontSize": 21,
+  "theme": "obsidian",
+  "cssTheme": "Minimal"
 }
