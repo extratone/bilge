@@ -74,4 +74,4 @@ An ongoing list of some of my absolute favorite reads on The Net.
 
 ---
 
-<iframe style="border: 0; width: 100%; height: 1800px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/magazines-13419360/embed/sort=-created&hide=header_title__2FYar"></iframe>
+<iframe style="border: 0; width: 100%; height: 1800px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/magazines-13419360/embed/sort=-created&hide=add%2C+info%2C+header%2C+excerpt%2C+title%2C+tags%2C+&theme=auto"></iframe>
