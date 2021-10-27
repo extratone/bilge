@@ -1,7 +1,13 @@
-==**HOLDUP [[Telegram (Dedicated Draft)]]**==
-**[[Notes-Telegram (Index)]]**
-
-
+- [[#How I’ve used Telegram as the ultimate cross-platform Universal Clipboard, file sharing service, and more.|How I’ve used Telegram as the ultimate cross-platform Universal Clipboard, file sharing service, and more.]]
+- [[#Drafting|Drafting]]
+- [[#Universal Clipboard|Universal Clipboard]]
+- [[#File Transfer & Cloud Backup|File Transfer & Cloud Backup]]
+- [[#Community|Community]]
+	- [[#Streaming|Streaming]]
+	- [[#Location Sharing|Location Sharing]]
+	- [[#Permanence|Permanence]]
+- [[#~~Transparency~~ Opacity|~~Transparency~~ Opacity]]
+- [[#A Hearty Foundation|A Hearty Foundation]]
 
 ![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)
 
