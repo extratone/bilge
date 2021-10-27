@@ -7,20 +7,9 @@
         "id": "66b8f3da7216a755",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "csv",
           "state": {
-            "file": "Anecdotes.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "54a7194b1aab1ce9",
-        "type": "leaf",
-        "state": {
-          "type": "outline",
-          "state": {
-            "file": "telegram/Universal Clipboard.md"
+            "file": "curation/NotionLibrary.csv"
           }
         }
       }
@@ -82,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "telegram/Universal Clipboard.md",
+                "file": "curation/NotionLibrary.csv",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "telegram/Universal Clipboard.md"
+                "file": "curation/NotionLibrary.csv"
               }
             }
           },
@@ -141,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "telegram/Universal Clipboard.md",
+                "file": "curation/NotionLibrary.csv",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,23 +152,23 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 270.94097900390625
   },
-  "active": "54a7194b1aab1ce9",
+  "active": "66b8f3da7216a755",
   "lastOpenFiles": [
-    "telegram/Universal Clipboard.md",
+    "curation/NotionLibrary.csv",
+    "pages/pages.md",
+    "Anecdotes.md",
+    "Posts/Posts.md",
     "telegram/Telegram Tips Series.md",
+    "telegram/Universal Clipboard.md",
     "telegram/A Hearty Foundation.md",
     "telegram/Community.md",
     "telegram/File Transfer & Cloud Backup.md",
-    "Anecdotes.md",
-    "CHANGELOG.md",
-    "telegram/Untitled.md",
-    "GM.md",
-    "telegram/Telegram (Dedicated Draft).md"
+    "CHANGELOG.md"
   ]
 }

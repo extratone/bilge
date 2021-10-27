@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Universal Clipboard",
-      "path": "telegram/Universal Clipboard.md"
+      "basename": "NotionLibrary",
+      "path": "curation/NotionLibrary.csv"
+    },
+    {
+      "basename": "pages",
+      "path": "pages/pages.md"
+    },
+    {
+      "basename": "Anecdotes",
+      "path": "Anecdotes.md"
+    },
+    {
+      "basename": "Posts",
+      "path": "Posts/Posts.md"
     },
     {
       "basename": "Telegram Tips Series",
       "path": "telegram/Telegram Tips Series.md"
+    },
+    {
+      "basename": "Universal Clipboard",
+      "path": "telegram/Universal Clipboard.md"
     },
     {
       "basename": "A Hearty Foundation",
@@ -19,10 +35,6 @@
     {
       "basename": "File Transfer & Cloud Backup",
       "path": "telegram/File Transfer & Cloud Backup.md"
-    },
-    {
-      "basename": "Anecdotes",
-      "path": "Anecdotes.md"
     },
     {
       "basename": "CHANGELOG",
@@ -187,18 +199,6 @@
     {
       "basename": "Social",
       "path": "events/Social.md"
-    },
-    {
-      "basename": "Live Stream",
-      "path": "events/Live Stream.md"
-    },
-    {
-      "basename": "EXTRATONE DISCORD SIXTH ANNIVERSARY CEREMONY · Issue 240 · extratoneextratone(httpsgithub.comextratoneextratoneissues240)",
-      "path": "events/EXTRATONE DISCORD SIXTH ANNIVERSARY CEREMONY · Issue 240 · extratoneextratone(httpsgithub.comextratoneextratoneissues240).md"
-    },
-    {
-      "basename": "Event Meta",
-      "path": "events/Event Meta.md"
     }
   ],
   "omittedPaths": [],
