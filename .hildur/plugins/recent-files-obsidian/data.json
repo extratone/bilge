@@ -1,16 +1,84 @@
 {
   "recentFiles": [
     {
+      "basename": "Universal Clipboard",
+      "path": "telegram/Universal Clipboard.md"
+    },
+    {
       "basename": "Telegram Tips Series",
       "path": "telegram/Telegram Tips Series.md"
     },
     {
-      "basename": "Untitled",
-      "path": "Untitled.md"
+      "basename": "A Hearty Foundation",
+      "path": "telegram/A Hearty Foundation.md"
+    },
+    {
+      "basename": "Community",
+      "path": "telegram/Community.md"
+    },
+    {
+      "basename": "File Transfer & Cloud Backup",
+      "path": "telegram/File Transfer & Cloud Backup.md"
+    },
+    {
+      "basename": "Anecdotes",
+      "path": "Anecdotes.md"
+    },
+    {
+      "basename": "CHANGELOG",
+      "path": "CHANGELOG.md"
+    },
+    {
+      "basename": "GM",
+      "path": "GM.md"
+    },
+    {
+      "basename": "Telegram (Dedicated Draft)",
+      "path": "telegram/Telegram (Dedicated Draft).md"
+    },
+    {
+      "basename": "Drafting",
+      "path": "telegram/Drafting.md"
+    },
+    {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    },
+    {
+      "basename": "How I’ve used Telegram as the ultimate cross-platform Universal Clipboard, file sharing service, and more.",
+      "path": "telegram/How I’ve used Telegram as the ultimate cross-platform Universal Clipboard, file sharing service, and more..md"
+    },
+    {
+      "basename": "SendFullSizedImage",
+      "path": "video/SendFullSizedImage.mp4"
     },
     {
       "basename": "Why",
       "path": "Why.md"
+    },
+    {
+      "basename": "~~Transparency~~ Opacity",
+      "path": "telegram/~~Transparency~~ Opacity.md"
+    },
+    {
+      "basename": "Telegram 1",
+      "path": "telegram/Telegram 1.md"
+    },
+    {
+      "basename": "Notes-Telegram (Index)",
+      "path": "telegram/Notes-Telegram (Index).md"
+    },
+    {
+      "basename": "Telegram",
+      "path": "drafts/Telegram.md"
+    },
+    {
+      "basename": "Notes-Telegram",
+      "path": "notes/Notes-Telegram.md"
     },
     {
       "basename": "tratobot wtf",
@@ -73,10 +141,6 @@
       "path": "Audio 2021-10-25 19.54.35.m4a"
     },
     {
-      "basename": "README",
-      "path": "README.md"
-    },
-    {
       "basename": "vocabulary",
       "path": "vocabulary/vocabulary.md"
     },
@@ -135,70 +199,6 @@
     {
       "basename": "Event Meta",
       "path": "events/Event Meta.md"
-    },
-    {
-      "basename": "Recording 20211021130654",
-      "path": "audio/Recording 20211021130654.webm"
-    },
-    {
-      "basename": "Recording 20211021161611",
-      "path": "audio/Recording 20211021161611.m4a"
-    },
-    {
-      "basename": "Extratone2022 1",
-      "path": "brand/Extratone2022 1.jpg"
-    },
-    {
-      "basename": "apps",
-      "path": "archive/apps.md"
-    },
-    {
-      "basename": "Blessed Web Utilities",
-      "path": "archive/Blessed Web Utilities.md"
-    },
-    {
-      "basename": "YouTube Stream Metadata",
-      "path": "events/YouTube Stream Metadata.md"
-    },
-    {
-      "basename": "Audio-Recorder Plugin Configuration",
-      "path": "configuration/Audio-Recorder Plugin Configuration.md"
-    },
-    {
-      "basename": "Federico's Obsidian Configuration",
-      "path": "obsidian/Federico's Obsidian Configuration.md"
-    },
-    {
-      "basename": "ieeg",
-      "path": "gist/ieeg.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "posts/Untitled.md"
-    },
-    {
-      "basename": "DISCORDSIX-240",
-      "path": "events/DISCORDSIX-240/DISCORDSIX-240.md"
-    },
-    {
-      "basename": "Recording 20211021164959",
-      "path": "audio/Recording 20211021164959.m4a"
-    },
-    {
-      "basename": "Admonition (en-US)",
-      "path": "vocabulary/Admonition (en-US).md"
-    },
-    {
-      "basename": "E",
-      "path": "evernotes/E.md"
-    },
-    {
-      "basename": "Todoist",
-      "path": "Todoist.md"
-    },
-    {
-      "basename": "Telegram",
-      "path": "Telegram/Telegram.md"
     }
   ],
   "omittedPaths": [],

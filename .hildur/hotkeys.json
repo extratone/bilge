@@ -355,5 +355,15 @@
       "key": "L"
     }
   ],
-  "app:open-help": []
+  "app:open-help": [],
+  "obsidian-outliner:move-list-item-up": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "hotkeysplus-obsidian:better-toggle-todo": []
 }
