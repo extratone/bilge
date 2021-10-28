@@ -1,0 +1,5 @@
+I am not a software developer, but I've been using GitHub virtually every moment of my creative life for (coming up on a round year, now.) Combining some [abstract concepts from academia](https://grasshoppermouse.github.io/posts/2019-07-12-should-scientific-publishing-move-to-github-and-friends/) as well as adapting a few ideas from friends (namely, "Writing in Public" comes directly from [my friend Tom Critchlow's remarks](https://tomcritchlow.com/2020/07/23/thinking-in-public/) on his own personal wiki-ing,) I've consolidated my whole output (including this very reply) within [a single repository](https://github.com/extratone/bilge). 
+
+I had no idea what Git truly was one year ago and now I think in it, basically...
+
+I hope to actually publish a brief reflection before the year mark gets here (~November 20th,) but I really wanted to make a point of expressing my appreciation in a space where leadership and the community might see it, just this once. While I've met/discovered quite a few writers/researchers/documentarians over the course who'd also Git-enabled written work long ago, my experience has been noticeably more 
