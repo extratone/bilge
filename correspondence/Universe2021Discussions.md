@@ -2,4 +2,6 @@ I am not a software developer, but I've been using GitHub virtually every moment
 
 I had no idea what Git truly was one year ago and now I think in it, basically...
 
-I hope to actually publish a brief reflection before the year mark gets here (~November 20th,) but I really wanted to make a point of expressing my appreciation in a space where leadership and the community might see it, just this once. While I've met/discovered quite a few writers/researchers/documentarians over the course who'd also Git-enabled written work long ago, my experience has been noticeably more 
+I hope to actually publish a brief reflection before the year mark gets here (~November 20th,) but I really wanted to make a point of expressing my appreciation in a space where leadership and the community might see it, just this once. While I've met/discovered quite a few writers/researchers/documentarians over the course who'd also Git-enabled written work long ago, my experience has been notably much more dependent on *GitHub-specific features*. 
+
+I'd never encountered a task management system that I'd actually been able to integrate with my real life until I encountered GitHub's specific implementation of Issue/Project tracking. 
