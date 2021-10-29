@@ -23,3 +23,7 @@
 ***
 ## References
 - [Truth Social Violated Mastodon's ToS; Trump's Entire Platform Might Now Be DOA](https://www.thebulwark.com/truth-social-violated-mastodons-tos-trumps-entire-platform-might-now-be-doa/) | *The Bulwark*
+- [Trump’s New Social Media Company Is His Biggest Scam Yet](https://www.vanityfair.com/news/2021/10/donald-trump-truth-social-spac-scam) | *Vanity Fair*
+- [Former U.S. president Donald Trump launches 'TRUTH' social media platform](https://www.reuters.com/world/us/former-us-president-donald-trump-launches-new-social-media-platform-2021-10-21/) | *Reuters*
+- [Privacy Policy](https://www.truthsocial.com/privacy-policy) - Truth Social
+- [Terms of Service](https://www.truthsocial.com/terms-of-service4) - Truth Social
