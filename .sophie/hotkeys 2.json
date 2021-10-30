@@ -1,0 +1,304 @@
+{
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "E"
+    }
+  ],
+  "editor:follow-link": [],
+  "editor:toggle-comments": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "markdown:toggle-preview": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "\\"
+    }
+  ],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "\\"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-minimal-settings:toggle-minimal-switch": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:insert-tag": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "3"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "W"
+    }
+  ],
+  "workspace:copy-url": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "file-explorer:reveal-active-file": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    }
+  ],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "graph:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:attach-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "K"
+    }
+  ],
+  "media-extended:take-rec-timestamp": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "media-extended:get-timestamp": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "["
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "]"
+    }
+  ],
+  "note-composer:split-file": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "E"
+    }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Q"
+    }
+  ],
+  "app:reload": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:set-heading": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "theme:use-dark": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ]
+}

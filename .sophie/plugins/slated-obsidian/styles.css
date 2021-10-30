@@ -1,0 +1,99 @@
+/*
+ *  Custom preview-mode rendering
+ */
+
+.slated-task-icon {
+  height: 17px;
+  width: 17px;
+  margin-left: 5px;
+  margin-right: 6px;
+  position: relative;
+  top: 3px;
+  fill: var(--text-muted);
+  stroke: var(--text-muted);
+}
+
+/*
+ * Slated Task View
+ */
+
+.slated-task-view-filter-icon {
+  height: 20px;
+  width: 20px;
+  margin-left: 5px;
+  margin-right: 6px;
+  position: relative;
+  top: 3px;
+  fill: var(--text-on-accent);
+  stroke: var(--text-on-accent);
+}
+
+.slated-task-view-filter-button {
+  padding: 8px 5px;
+}
+
+/*
+ *  Task Repetition Modal
+ */
+
+.slated-modal input {
+  border-radius: 0.5em;
+  padding: 19px 14px;
+}
+
+#slated-interval-selector {
+  width: 60px;
+}
+
+#slated-frequency-selector {
+  width: 103px;
+}
+
+#slated-onthe-selector {
+  width: 60px;
+}
+
+.slated-months-btn-group button {
+  padding: 6px 8px;
+  margin: 3px 6px 3px 0;
+}
+
+.slated-days-btn-group button {
+  padding: 6px 8px;
+  margin: 3px 6px 3px 0;
+}
+
+#slated-selected-weeks ul {
+  list-style: none;
+}
+
+#slated-repetition-preview {
+  width: 100%;
+}
+
+#slated-save-repetition-config {
+  margin-top: 3px;
+}
+
+/*
+ *  Task Move Modal
+ */
+
+.slated-move-option label {
+  color: var(--text-muted);
+  font-size: small;
+}
+
+/*
+ *  Donate - in Settings
+ */
+
+.slated-donation {
+  width: 70%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.slated-donate-button {
+  margin: 10px;
+}

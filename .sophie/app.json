@@ -1,1 +1,6 @@
-{}
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "media"
+}

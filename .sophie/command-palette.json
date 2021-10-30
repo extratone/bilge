@@ -1,0 +1,8 @@
+{
+  "pinned": [
+    "editor:save-file",
+    "workspace:export-pdf",
+    "obsidian-dictionary-plugin:dictionary-open-language-switcher",
+    "obsidian-dictionary-plugin:dictionary-open-view"
+  ]
+}
