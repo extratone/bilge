@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Social Directory",
+      "path": "notes/Social Directory.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "notes/Untitled.md"
+    },
+    {
+      "basename": "About",
+      "path": "pages/About.md"
+    },
+    {
+      "basename": "Blessed Web Utilities",
+      "path": "raindrop/Blessed Web Utilities.md"
+    },
+    {
       "basename": "Regarding Obsidian's Audio Recording Plugin",
       "path": "notes/Regarding Obsidian's Audio Recording Plugin.md"
     },
@@ -183,18 +199,6 @@
     {
       "basename": "Obsidian Meta Discord Correspondence",
       "path": "correspondence/Obsidian Meta Discord Correspondence.md"
-    },
-    {
-      "basename": "merriam-webster",
-      "path": "vocabulary/merriam-webster.md"
-    },
-    {
-      "basename": "extratone.com Transfer from OneDrive for Business to iCloud",
-      "path": "vocabulary/extratone.com Transfer from OneDrive for Business to iCloud.md"
-    },
-    {
-      "basename": "Extratone Brand Preview 1",
-      "path": "brand/Extratone Brand Preview 1.jpg"
     }
   ],
   "omittedPaths": [],
