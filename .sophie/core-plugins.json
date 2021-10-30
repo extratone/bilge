@@ -6,7 +6,6 @@
   "outgoing-link",
   "tag-pane",
   "page-preview",
-  "daily-notes",
   "templates",
   "note-composer",
   "command-palette",
@@ -14,6 +13,7 @@
   "markdown-importer",
   "outline",
   "word-count",
+  "audio-recorder",
   "open-with-default-app",
   "file-recovery"
 ]

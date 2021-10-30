@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Regarding Obsidian's Audio Recording Plugin",
+      "path": "notes/Regarding Obsidian's Audio Recording Plugin.md"
+    },
+    {
+      "basename": "Face ID vs. Touch ID",
+      "path": "notes/iP12PM/Face ID vs. Touch ID.md"
+    },
+    {
       "basename": "DraftsAudioTest",
       "path": "media/DraftsAudioTest.m4a"
     },
@@ -187,18 +195,6 @@
     {
       "basename": "Extratone Brand Preview 1",
       "path": "brand/Extratone Brand Preview 1.jpg"
-    },
-    {
-      "basename": "Hassle & Hustle  State of the Extranet 11 - ",
-      "path": "archive/The Tone/Hassle & Hustle  State of the Extranet 11 - .md"
-    },
-    {
-      "basename": "Instagram_Trash",
-      "path": "archive/dropbox/Instagram_Trash.md"
-    },
-    {
-      "basename": "fediverse-in-2019",
-      "path": "documentation/feneas/fediverse-main/source/_posts/fediverse-in-2019.md"
     }
   ],
   "omittedPaths": [],

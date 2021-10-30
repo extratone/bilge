@@ -2,5 +2,8 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "media"
+  "attachmentFolderPath": "media",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "useMarkdownLinks": true
 }

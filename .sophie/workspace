@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4950cac606a5c295",
+        "id": "6382b02760e7fd10",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Regarding Obsidian's Audio Recording Plugin.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -101,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Regarding Obsidian's Audio Recording Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Regarding Obsidian's Audio Recording Plugin.md"
+              }
             }
           },
           {
@@ -125,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Regarding Obsidian's Audio Recording Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,19 +158,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.94097900390625
+    "width": 270.94097900390625,
+    "collapsed": true
   },
-  "active": "4950cac606a5c295",
+  "active": "6382b02760e7fd10",
   "lastOpenFiles": [
+    "notes/Regarding Obsidian's Audio Recording Plugin.md",
+    "notes/iP12PM/Face ID vs. Touch ID.md",
+    "Recording 20211029195446.webm",
     "media/DraftsAudioTest.m4a",
     "drafts/documentation.md",
     "drafts/documentation/Drafts Keyboard Shortcuts.md",
     "curation/NotionLibrary.csv",
     "pages/pages.md",
     "Anecdotes.md",
-    "Posts/Posts.md",
-    "telegram/Telegram Tips Series.md",
-    "telegram/Universal Clipboard.md",
-    "telegram/A Hearty Foundation.md"
+    "Posts/Posts.md"
   ]
 }
