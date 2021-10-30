@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "4f1b35974ddfb1e8",
+    "id": "9c4c8599931e6ce2",
     "type": "split",
     "children": [
       {
-        "id": "dc99007428da0b5d",
+        "id": "4950cac606a5c295",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -15,15 +15,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "020b4141908db39a",
+    "id": "eaaf6ed8875ccbc5",
     "type": "split",
     "children": [
       {
-        "id": "1a52ec9b298bbef0",
+        "id": "a774cce0165e6179",
         "type": "tabs",
         "children": [
           {
-            "id": "40adc1c5922aa266",
+            "id": "8525fb2ccc87e9a7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +31,7 @@
             }
           },
           {
-            "id": "3d3eda029b8487d7",
+            "id": "29943dd4edf5e0e4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -44,23 +44,59 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0a31c02ce05a2642",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cef6f03eb44c1e0",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "0323f56f1ec509d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 267.5136413574219
   },
   "right": {
-    "id": "7a4e4f0d9be52d14",
+    "id": "ede937ddfac9f863",
     "type": "split",
     "children": [
       {
-        "id": "93dcb37e9dde7a0c",
+        "id": "2a35322e00c82611",
         "type": "tabs",
         "children": [
           {
-            "id": "d2c05e62bb0d288a",
+            "id": "5edc6dd332d2fe00",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "326397920c54bd0e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -71,17 +107,63 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "4499de9cfe87a736",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "4ebfc0f906a626a9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "87ab61214c23cd6c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "e0b15011ad57198c",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 270.94097900390625
   },
-  "active": "dc99007428da0b5d",
-  "lastOpenFiles": []
+  "active": "4950cac606a5c295",
+  "lastOpenFiles": [
+    "media/DraftsAudioTest.m4a",
+    "drafts/documentation.md",
+    "drafts/documentation/Drafts Keyboard Shortcuts.md",
+    "curation/NotionLibrary.csv",
+    "pages/pages.md",
+    "Anecdotes.md",
+    "Posts/Posts.md",
+    "telegram/Telegram Tips Series.md",
+    "telegram/Universal Clipboard.md",
+    "telegram/A Hearty Foundation.md"
+  ]
 }

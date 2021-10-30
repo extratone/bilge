@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-markdown-insert-plugin",
+	"name": "Markdown Insert Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.9.12",
+	"description": "Paste links/image links into selection.",
+	"author": "Finn Voorhees",
+	"authorUrl": "https://www.twitter.com/finnvoorhees",
+	"isDesktopOnly": false
+}

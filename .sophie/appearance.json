@@ -1,3 +1,5 @@
 {
-  "baseFontSize": 16
+  "baseFontSize": 18,
+  "theme": "obsidian",
+  "cssTheme": "Subtlegold"
 }

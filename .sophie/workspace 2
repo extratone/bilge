@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "47a5b79ae1950257",
+    "type": "split",
+    "children": [
+      {
+        "id": "e0b2cd3ae70fa29f",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Notes-Windows 111 in the Walled Garden.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "047ff8a35a44aeb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ccbc4198b86c3d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e77df2f9782d2956",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3b280f1180b8b2b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5036334991455
+  },
+  "right": {
+    "id": "475befac0c6a4e90",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb1ecf49e7e4bc5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad13072e5a8c2c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes-Windows 111 in the Walled Garden.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7f355f6e9c24970e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3c787c3295c04d86",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "80fb4569eb24b18f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 419.5
+  },
+  "active": "e0b2cd3ae70fa29f",
+  "lastOpenFiles": [
+    "Notes-Windows 111 in the Walled Garden.md",
+    "Untitled.md",
+    "bilge/drafts/scrubs.md",
+    "bilge/drafts/README 2.0.md",
+    "book/Preface.md",
+    "CODE_OF_CONDUCT.md",
+    "dev/Complete documentation for native …  Apple Developer Forums.md",
+    "shortcuts/VoiceMemos.md",
+    "media/Recording 20210919004508.webm",
+    "media/Recording 20210919003803.webm"
+  ]
+}

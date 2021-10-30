@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-file-path-to-uri",
+	"name": "File path to URI",
+	"version": "1.3.0",
+	"minAppVersion": "0.10.7",
+	"description": "Convert file path to uri for easier use of links to local files outside of Obsidian",
+	"author": "Michal Bureš",
+	"authorUrl": "https://github.com/MichalBures",
+	"isDesktopOnly": false
+}
