@@ -63,3 +63,7 @@ Emailing [**davidblue@extratone.com**](mailto:davidblue@extratone.com) and/or en
 *Technical details about this blog and the best CMS/hosting service to ever grace the web can be found on [the Colophon](https://bilge.world/colophon).*
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Y8Y53UHBV)
+
+---
+
+<iframe style="border: 0; width: 100%; height: 1600px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/social-directory-21059174/embed"></iframe>
