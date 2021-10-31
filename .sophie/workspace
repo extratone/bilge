@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "9c4c8599931e6ce2",
+    "id": "3cc0d7090c12f074",
     "type": "split",
     "children": [
       {
-        "id": "91fe8ef29df8d9a7",
+        "id": "cfb822bc93686e92",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "raindrop/Truth Social vs. Open Source.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -100,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "raindrop/Truth Social vs. Open Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "raindrop/Truth Social vs. Open Source.md"
+              }
             }
           },
           {
@@ -124,6 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "raindrop/Truth Social vs. Open Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,17 +159,17 @@
     "width": 270.94097900390625,
     "collapsed": true
   },
-  "active": "91fe8ef29df8d9a7",
+  "active": "cfb822bc93686e92",
   "lastOpenFiles": [
+    "raindrop/Truth Social vs. Open Source.md",
+    "raindrop/Blessed Web Utilities.md",
     "notes/Social Directory.md",
     "pages/pages.md",
     "pages/About.md",
     "notes/Untitled.md",
-    "raindrop/Blessed Web Utilities.md",
     "notes/Regarding Obsidian's Audio Recording Plugin.md",
     "media/Recording 20211029204626.webm",
     "notes/iP12PM/Face ID vs. Touch ID.md",
-    "Recording 20211029195446.webm",
-    "media/DraftsAudioTest.m4a"
+    "Recording 20211029195446.webm"
   ]
 }

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Truth Social vs. Open Source",
+      "path": "raindrop/Truth Social vs. Open Source.md"
+    },
+    {
+      "basename": "Blessed Web Utilities",
+      "path": "raindrop/Blessed Web Utilities.md"
+    },
+    {
       "basename": "Social Directory",
       "path": "notes/Social Directory.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "About",
       "path": "pages/About.md"
-    },
-    {
-      "basename": "Blessed Web Utilities",
-      "path": "raindrop/Blessed Web Utilities.md"
     },
     {
       "basename": "Regarding Obsidian's Audio Recording Plugin",
