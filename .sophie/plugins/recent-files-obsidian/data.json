@@ -5,8 +5,8 @@
       "path": "notes/Social Directory.md"
     },
     {
-      "basename": "Untitled",
-      "path": "notes/Untitled.md"
+      "basename": "pages",
+      "path": "pages/pages.md"
     },
     {
       "basename": "About",
@@ -39,10 +39,6 @@
     {
       "basename": "NotionLibrary",
       "path": "curation/NotionLibrary.csv"
-    },
-    {
-      "basename": "pages",
-      "path": "pages/pages.md"
     },
     {
       "basename": "Anecdotes",

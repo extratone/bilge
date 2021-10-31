@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c5d77c9391bbd11c",
+        "id": "91fe8ef29df8d9a7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Social Directory.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -72,8 +69,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -104,7 +100,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Social Directory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +115,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/Social Directory.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Social Directory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +152,17 @@
     "width": 270.94097900390625,
     "collapsed": true
   },
-  "active": "c5d77c9391bbd11c",
+  "active": "91fe8ef29df8d9a7",
   "lastOpenFiles": [
     "notes/Social Directory.md",
-    "notes/Untitled.md",
+    "pages/pages.md",
     "pages/About.md",
+    "notes/Untitled.md",
     "raindrop/Blessed Web Utilities.md",
     "notes/Regarding Obsidian's Audio Recording Plugin.md",
     "media/Recording 20211029204626.webm",
     "notes/iP12PM/Face ID vs. Touch ID.md",
     "Recording 20211029195446.webm",
-    "media/DraftsAudioTest.m4a",
-    "drafts/documentation.md"
+    "media/DraftsAudioTest.m4a"
   ]
 }
