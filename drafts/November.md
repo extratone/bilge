@@ -1,0 +1,7 @@
+# November Anecdotes
+
+## Relieving myself on curation with Raindro, all the writing tools that are *not* Obsidian, and my future as a consigned authority on Social Web Consumption.
+
+In the second paragraph of [this morning’s edition](https://www.getrevue.co/profile/themarkup/issues/inside-the-facebook-papers-824142) of *The Markup*’s weekly “Dispatches from the Editor-in-Chief,” Julie Angwin refers to “stumbling” upon “[an extremely helpful Google doc](https://docs.google.com/document/d/1QYqmJsifBjf_xA23Ea7AdeMFyjGWaF_dvhi5EZdNUf4/mobilebasic)” of “all” media coverage on the subject in the newsletter’s second paragraph, and I experienced a distinct sense of disappointment in myself. It’s rooted in the image of that anonymous media nerd - whomever they are - slaving away on that document as I once did (though never *ever* on Google Docs, for as long as I live.) I’m speculating that the program, itself, was/is almost certainly the diffinitive bottleneck.
+
+Among other minute digital media-associated subjects in This Post, I’d like to finally spend some time explaining my recent re-emphasis on “””leveraging””” the ultimate curatorial tool in existence, Raindrop to (not so subtly, perhaps) integrate what I’ll call *extracurricular* curation with *The Psalms*.
