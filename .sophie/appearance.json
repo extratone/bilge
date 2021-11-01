@@ -1,5 +1,8 @@
 {
   "baseFontSize": 18,
   "theme": "obsidian",
-  "cssTheme": "Minimal"
+  "cssTheme": "Ayu Mirage",
+  "enabledCssSnippets": [
+    "Type"
+  ]
 }

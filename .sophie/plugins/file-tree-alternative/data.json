@@ -3,6 +3,7 @@
   "showRootFolder": true,
   "showFilesFromSubFolders": true,
   "searchFunction": true,
+  "allSearchOnlyInFocusedFolder": false,
   "showFilesFromSubFoldersButton": true,
   "excludedExtensions": "",
   "excludedFolders": "",

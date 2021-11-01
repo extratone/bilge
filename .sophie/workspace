@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "raindrop/Truth Social vs. Open Source.md",
+            "file": "drafts/November.md",
             "mode": "source"
           }
         }
@@ -65,14 +65,15 @@
             }
           },
           {
-            "id": "0323f56f1ec509d7",
+            "id": "751dc66e4dadd76c",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "raindrop/Truth Social vs. Open Source.md",
+                "file": "drafts/November.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "raindrop/Truth Social vs. Open Source.md"
+                "file": "drafts/November.md"
               }
             }
           },
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "raindrop/Truth Social vs. Open Source.md",
+                "file": "drafts/November.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +162,7 @@
   },
   "active": "cfb822bc93686e92",
   "lastOpenFiles": [
+    "drafts/November.md",
     "raindrop/Truth Social vs. Open Source.md",
     "raindrop/Blessed Web Utilities.md",
     "notes/Social Directory.md",
@@ -169,7 +171,6 @@
     "notes/Untitled.md",
     "notes/Regarding Obsidian's Audio Recording Plugin.md",
     "media/Recording 20211029204626.webm",
-    "notes/iP12PM/Face ID vs. Touch ID.md",
-    "Recording 20211029195446.webm"
+    "notes/iP12PM/Face ID vs. Touch ID.md"
   ]
 }

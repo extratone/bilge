@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "November",
+      "path": "drafts/November.md"
+    },
+    {
       "basename": "Truth Social vs. Open Source",
       "path": "raindrop/Truth Social vs. Open Source.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Skype Heritage - 2.1",
       "path": "futureland/Skype Heritage - 2.1.md"
-    },
-    {
-      "basename": "Obsidian Meta Discord Correspondence",
-      "path": "correspondence/Obsidian Meta Discord Correspondence.md"
     }
   ],
   "omittedPaths": [],
