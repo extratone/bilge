@@ -4,13 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "cfb822bc93686e92",
+        "id": "fcb391f0cf0208fc",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "media-view",
           "state": {
-            "file": "drafts/November.md",
-            "mode": "source"
+            "file": "media/Recording 20211102010917.webm",
+            "info": {
+              "type": "media",
+              "filename": "Recording 20211102010917.webm",
+              "src": "media/Recording 20211102010917.webm",
+              "subtitles": [],
+              "hash": ""
+            },
+            "currentTime": 0
           }
         }
       }
@@ -77,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5136413574219
+    "width": 173.00680351257324
   },
   "right": {
     "id": "ede937ddfac9f863",
@@ -104,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "drafts/November.md",
+                "file": "media/Recording 20211102010917.webm",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "drafts/November.md"
+                "file": "media/Recording 20211102010917.webm"
               }
             }
           },
@@ -131,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "drafts/November.md",
+                "file": "media/Recording 20211102010917.webm",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,20 +164,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.94097900390625,
+    "width": 118,
     "collapsed": true
   },
-  "active": "cfb822bc93686e92",
+  "active": "fcb391f0cf0208fc",
   "lastOpenFiles": [
+    "media/Recording 20211102010917.webm",
+    "notes/Gladys.md",
     "drafts/November.md",
     "raindrop/Truth Social vs. Open Source.md",
     "raindrop/Blessed Web Utilities.md",
     "notes/Social Directory.md",
     "pages/pages.md",
     "pages/About.md",
-    "notes/Untitled.md",
     "notes/Regarding Obsidian's Audio Recording Plugin.md",
-    "media/Recording 20211029204626.webm",
-    "notes/iP12PM/Face ID vs. Touch ID.md"
+    "media/Recording 20211029204626.webm"
   ]
 }
