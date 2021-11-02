@@ -4,6 +4,10 @@
 
 ## As the industry endeavors once again to reconcile the cultural and financial incentives of streaming digital music, one independent platform has wavered little from its 10-year-long mission to bring the business to the unsigned artist with elegance and integrity.
 
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/TTS/bandcamp.m4a">
+</audio>
+
 If you’ve ever thought to yourself *wow, Bandcamp has looked basically the same forever*, you were entirely correct – now for a tenth of the century, at least – and you’ll be hard-pressed to find another Silicon Valley technology company toting a venture-funded origin story with such casual, yet robust long-standing user relationships underneath an unwavering, bullshit-free commitment to their product. Even under the most ludicrous scrutiny, the company’s rudder is flawless and its course true. What at first glance you’d swear to be an unsolicited conclusion to an obscure examination could very reasonably be described as *cheesy*, *stubborn*, *dweebish*, *pious*, or just generally *boring*, indeed, yet the respective accuracy of each of these adjectives are no more than the byproducts of the very same operational ethics which we’ve suggested, requested, demanded, and begged the rest of the world’s computing capitol to re-adopt, enforce, or at least *ponder* for a beat. The volume of the masses’ exponentially-increasing attendance of late is only overcome by its hysterical shouting match, so let us pipe down for a while, now so that we may be precise as we dig deeper into the methodology which has finally led to a profitable, drama-free outlying technology organization without the need for a single drop of analogous sweat over its brand upkeep. By arranging the company in its infancy to so precisely and elementally align with the needs of its customers, the original troupe of Bandcamp Bums ensured profound and lasting simplicity in the single overarching priority for those in every single role behind the quiet perpetuation of Bandcamp dot com: **selling good** **music**. 
 
 <iframe width="auto" height="auto" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&light=1&feed=%2Fdavod%2F%D1%82%D0%BD%CE%B1%D0%B8kf%CF%85l-f%CF%83%D1%8F-b%CE%B1%D0%B8dc%CE%B1%D0%BC%CF%81-2018-%D0%BCix%2F" frameborder="0" ></iframe>
@@ -15,6 +19,10 @@ The platform indiscriminately provides both individual artists and labels with a
 To catch our starting gun, we must first travel to *Face The Music 2016* in Melbourne – as far as one can possibly get from The Valley – alongside Bandcamp’s super-worldly Chief Curator, [Andrew Jervis](https://bandcamp.com/andrewjervis) to observe his interview for a live audience.
 
 > Bandcamp has always grown extremely organically. There’s never actually been any advertising that we’ve done; there’s never any advertising on the site, and there never will be. We haven’t really tooted our horn very hard.
+ 
+<a href="https://books.apple.com/us/book/bandcamp-bound/id1553706073?itscg=30200&amp;itsct=books_box_badge&amp;ls=1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/get-it-on-apple-books/mono-black/en-us?size=250x83&amp;releaseDate=1613260800&h=1ddd10796aff8c79d34685c230af5636" alt="Get it on Apple Books" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
+<!--more-->
 
 In fact, just about everything from the shrewd idealism of those who beget its conception to the on-the-nose care in their person-to-person customer service is so adamantly inverse of the tech industry archetype which the global End User community at large are presently discovering at twice the speed of sound there should *at least* be some conspiratorializing going around. Where I come from, launching a desolate business to little mainstream success with persistence and dignified determination is (or should be) regarded as a telltale sign that one is running a front (according to the television, anyway,) but exploration of this plausibility yielded nothing in Bandcamp’s case, even after I took the risk of incrimination and begged a certain Boston-based future funk producer to accept my ginormous bribe and include *any* sort of pharmacological substance with his summer beat tape. He wouldn’t even send antihistamines.
 
@@ -279,7 +287,5 @@ On [last week’s episode](https://www.nytimes.com/2018/07/19/podcasts/still-pro
 So, our greatest hope for the decentralization of the music industry in the 1990s ended up transforming before us to become the most effectively divisive Discovery barrier ever known to man because of its psychological influence sub-threshold at unprecedented scale over time, in parallel with so many other like horrific monstrosities we’ve discovered in anguish to be mutants of those final salvations from our atrocious history which we’d been so relieved to believe in. Surely, the turn of the millennia was destined to be our final turning point – the moment we’d finally use our new technology to discover a truth (or maybe just a really good clue,) that’d immediately unite our species in a deafening, worldwide aha moment when it would reveal a general abstract of whatever the fuck our deal was that was preventing our silent, dutiful, and 100% harmonious collective effort toward a utopia like *Star Trek: The Next Generation*’s, in which anyone is absolutely free of obligation or desperation from birth to pursue… whatever with their time.
 
 🗎 [**PRINT/PDF**](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:1169e93e-e474-4772-9092-9b342e5de5e6)
-
-<iframe width="0%" height="0" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/941235088&color=%2300006b&amp;auto_play=true&amp;show_artwork=false"></iframe>
 
 #software #music
