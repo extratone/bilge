@@ -1,5 +1,20 @@
 # Blessed Web Utilities
 
+The handiest web-based/in-the-browser tools I've found in my many web years.
+
+`https://bit.ly/dbutility`
+
+- [**Web Page**](https://raindrop.io/davidblue/blessed-web-utilities-13380122)
+- [-265](https://github.com/extratone/bilge/issues/265)
+- [RSS Feed](https://raindrop.io/collection/13380122/feed)
+- [Shortlink](https://bit.ly/dbutility)
+
+## Embed
+
+```
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/blessed-web-utilities-13380122/embed/sort=created&theme=auto"></iframe>
+```
+
 * [Blessed Web Utilities](https://raindrop.io/davidblue/view/13380122/page%3D3)
 * [Paste.as](https://paste.as/)
 * [metascraper, easily scrape metadata from an article on the web.](https://metascraper.js.org/#/)
