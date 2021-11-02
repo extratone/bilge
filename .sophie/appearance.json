@@ -1,8 +1,9 @@
 {
   "baseFontSize": 18,
   "theme": "obsidian",
-  "cssTheme": "Ayu Mirage",
+  "cssTheme": "Friendly",
   "enabledCssSnippets": [
-    "Type"
+    "Type",
+    "TagPillsx"
   ]
 }

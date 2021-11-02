@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Recording 20211102010917",
+      "path": "media/Recording 20211102010917.webm"
+    },
+    {
+      "basename": "Gladys",
+      "path": "notes/Gladys.md"
+    },
+    {
       "basename": "November",
       "path": "drafts/November.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Audio 2021-10-25 19.54.35",
       "path": "Audio 2021-10-25 19.54.35.m4a"
-    },
-    {
-      "basename": "vocabulary",
-      "path": "vocabulary/vocabulary.md"
-    },
-    {
-      "basename": "Skype Heritage - 2.1",
-      "path": "futureland/Skype Heritage - 2.1.md"
     }
   ],
   "omittedPaths": [],
