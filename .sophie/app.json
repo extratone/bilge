@@ -6,5 +6,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "notes",
   "useMarkdownLinks": true,
-  "trashOption": "local"
+  "trashOption": "local",
+  "fileSortOrder": "byModifiedTime"
 }

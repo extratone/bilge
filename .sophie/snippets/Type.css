@@ -1,0 +1,16 @@
+/* :root {
+    --default-font: ‘Times New Roman’, serif !important;
+    } */
+
+:root {
+    --default-font: 'Segoe UI', serif !important;
+    }
+
+/* {
+    font-family: 'Aktiv Grotesk', sans-serif !important;
+} */
+
+
+:root {
+    --default-font: 'SF Pro Text', monospace !important;
+    }
