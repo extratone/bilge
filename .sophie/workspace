@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "3cc0d7090c12f074",
+    "id": "67047ed7f992c264",
     "type": "split",
     "children": [
       {
-        "id": "ff86a543b3bb7c22",
+        "id": "53d83ac52d67d0c2",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -153,7 +153,7 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "ff86a543b3bb7c22",
+  "active": "53d83ac52d67d0c2",
   "lastOpenFiles": [
     "notes/Telegram Themes.md",
     "configuration/systemcolorstelegram.md",
