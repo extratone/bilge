@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Recording 20211102010917",
-      "path": "media/Recording 20211102010917.webm"
+      "basename": "Telegram Themes",
+      "path": "notes/Telegram Themes.md"
+    },
+    {
+      "basename": "systemcolorstelegram",
+      "path": "configuration/systemcolorstelegram.md"
+    },
+    {
+      "basename": "Notes-TelegramBots",
+      "path": "telegram/Notes-TelegramBots.md"
     },
     {
       "basename": "Gladys",
@@ -191,14 +199,6 @@
     {
       "basename": "iPhone & iOS Bookmarks",
       "path": "archive/iPhone & iOS Bookmarks.md"
-    },
-    {
-      "basename": "Ars Longa, Vita Brevis - ",
-      "path": "archive/The Tone/Ars Longa, Vita Brevis - .md"
-    },
-    {
-      "basename": "Audio 2021-10-25 19.54.35",
-      "path": "Audio 2021-10-25 19.54.35.m4a"
     }
   ],
   "omittedPaths": [],

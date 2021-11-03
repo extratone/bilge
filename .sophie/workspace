@@ -4,21 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "fcb391f0cf0208fc",
+        "id": "ff86a543b3bb7c22",
         "type": "leaf",
         "state": {
-          "type": "media-view",
-          "state": {
-            "file": "media/Recording 20211102010917.webm",
-            "info": {
-              "type": "media",
-              "filename": "Recording 20211102010917.webm",
-              "src": "media/Recording 20211102010917.webm",
-              "subtitles": [],
-              "hash": ""
-            },
-            "currentTime": 0
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -72,7 +62,7 @@
             }
           },
           {
-            "id": "751dc66e4dadd76c",
+            "id": "f03d0e2e1c6c3496",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -111,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "media/Recording 20211102010917.webm",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "media/Recording 20211102010917.webm"
-              }
+              "state": {}
             }
           },
           {
@@ -138,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "media/Recording 20211102010917.webm",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,17 +153,17 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "fcb391f0cf0208fc",
+  "active": "ff86a543b3bb7c22",
   "lastOpenFiles": [
+    "notes/Telegram Themes.md",
+    "configuration/systemcolorstelegram.md",
+    "telegram/Notes-TelegramBots.md",
     "media/Recording 20211102010917.webm",
     "notes/Gladys.md",
     "drafts/November.md",
     "raindrop/Truth Social vs. Open Source.md",
     "raindrop/Blessed Web Utilities.md",
     "notes/Social Directory.md",
-    "pages/pages.md",
-    "pages/About.md",
-    "notes/Regarding Obsidian's Audio Recording Plugin.md",
-    "media/Recording 20211029204626.webm"
+    "pages/pages.md"
   ]
 }
