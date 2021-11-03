@@ -4,7 +4,7 @@
 
 Make no mistake - I did virtually nothing to create the following themes, nor do I know anything about Telegram theme development, generally. Frankly, I shouldn’t have even taken the time to whip *these* up, but I wanted to at least dip my toe in the experience for [a strangely sentimental essay I’ve been working on](https://github.com/extratone/bilge/issues/228) about the service’s service in my working life.
 
-https://t.me/extratone/6496
+<div style="display: block; position: relative; width: 100%; height: 0px; --aspect-ratio:3/4; padding-bottom: calc(var(--aspect-ratio) * 100%);"><iframe src="https://t.me/s/extratone/6496" allow="fullscreen" style="position: absolute; top: 0px; left: 0px; height: 100%; width: 100%;"></iframe></div>
 
 The one thing I *did* do is track down the most accurate translation of [iOS’ core system colors](https://developer.apple.com/design/human-interface-guidelines/ios/visual-design/color/) in hex I could find, which I spammed in each reasonably-generateable format all over every dead end group chat and channel I once created and have (shamefully) subsequently neglected and forgotten on this service.
 
