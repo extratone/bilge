@@ -1,0 +1,3 @@
+# Min Browser Review 
+
+I have put off writing about this subject for far too long. It’s one of the very earliest reviews still on *The Psalms*’ to-write list, and [its corresponding GitHub Issue](https://github.com/extratone/bilge/issues/10) (the tenth of all time) was authored the day after I moved its whole process, there. Clearly, Min has been on my mind since May of last year, when I first discovered it thanks to Ernie Smith’s [comprehensive rant about browser minimalism](https://tedium.co/2020/05/12/minimal-web-browser-argument).
