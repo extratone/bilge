@@ -1,21 +1,30 @@
 # Notes-Twitter Blue Review
+
+## General Notes
+- [ ] Bookmark folders don't function on Desktop???
+- [ ] Configurable Navigation is great, but *make Home removable*!
+- [ ] I absolutely love continuing to see ads.
+- [ ] Lists Discovery (sortof separate) helped me catch a few accounts/friends I assumed were on The New List uhhh for years???
+
 - [Twitter Blue · Issue #269 · extratone/bilge](https://github.com/extratone/bilge/issues/269)
 - [Telegram Thread](https://t.me/s/extratone/8134)
 - [Twitter Topic/Collection](https://twitter.com/NeoYokel/timelines/1459236827248967690)
 - [Twitter Feedback: Bluetooth Keyboard Support x Custom Navigation *on iPhone*.](drafts://open?uuid=E25B0B9C-9463-4B76-B6A1-CC8E36A0F34F)
 - [Annotation on Eugen Interview](https://hyp.is/znp7tEQJEeySOXvhkqI2DQ/bilge.world/eugen-rochko-interview)
-
-## General Notes
-- Bookmark folders don't function on Desktop???
-- 
+- [Twitter Blue Publishers - Twitter List](https://twitter.com/i/lists/1448014243245150209)
 
 ## Videos
 1. [Survey](https://twitter.com/NeoYokel/status/1459232262986379265)
 2. [First Pokes Around](https://twitter.com/NeoYokel/status/1459235983174639626)
 
 ## Images
-- `![Twitter Logo 2021](https://i.snap.as/aGCRJeUq.png)`
-- `![Twitter in Jorts Dock, 2021](https://i.snap.as/zp5uCNwa.png)`
+- [ ] `![Twitter Logo 2021](https://i.snap.as/aGCRJeUq.png)`
+- [ ] `![Twitter in Jorts Dock, 2021](https://i.snap.as/zp5uCNwa.png)`
+- [ ] `![Ad-Free Articles in Safari - Twitter Blue](https://i.snap.as/7RBw18tJ.png)`
+- [ ] `![Pinned DMs - Twitter Blue on iOS](https://i.snap.as/8aFbZdVQ.png)`
+- [ ] `![Custom Navigation - Twitter Blue on iOS](https://i.snap.as/hu2p7mN2.png)`
+- [ ] `![App Icons - Twitter Blue for iOS](https://i.snap.as/vNO1FH8h.png)`
+- [ ] `![Twitter Blue Brand Image](https://i.snap.as/F4AODRKo.png)`
 
 ## Tweets
 

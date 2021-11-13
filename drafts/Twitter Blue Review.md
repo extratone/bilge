@@ -1,12 +1,17 @@
 # Twitter Blue Review
 
-![Twitter Logo 2021](https://i.snap.as/aGCRJeUq.png)
+![Twitter Blue Brand Image](https://i.snap.as/F4AODRKo.png)
 
-Incredibly, the second most powerful social media company in the world has finally managed to implement a paid subscription model, as I’ve been begging them to do for [at least 5 years](https://twitter.com/neoyokel/status/696094018862718976), now. For three U.S. Dollars a month, “[Twitter Blue](https://blog.twitter.com/en_us/topics/company/2021/introducing-twitter-blue)” is [now available](https://www.theverge.com/2021/11/9/22766286/twitter-blue-subscription-service-scroll-nuzzel-undo-tweets-ad-free-articles-us) for all United States users. 
+## Gargantuan misses in Little Blue’s Blue.
+
+Incredibly, the second most powerful social media company in the world has finally managed to implement a paid subscription model, as I’ve been begging them to do for [at least 5 years](https://twitter.com/neoyokel/status/696094018862718976), now. For three U.S. Dollars a month, “[Twitter Blue](https://blog.twitter.com/en_us/topics/company/2021/introducing-twitter-blue)” is [now available](https://www.theverge.com/2021/11/9/22766286/twitter-blue-subscription-service-scroll-nuzzel-undo-tweets-ad-free-articles-us) for all United States users. Aside from a relentless, rude, two and a half hour-long rant at two new friends on *End User*, 
 
 `![Twitter in Jorts Dock, 2021](https://i.snap.as/zp5uCNwa.png)`
 
 https://open.spotify.com/episode/0ImyC2Twm5qyx9lxmcKmkP
+
+
+
 
 ## Undo Tweet
 
@@ -28,4 +33,4 @@ Here's the full text from [**its subpage**](https://help.twitter.com/en/using-tw
 
 By default, Undo Tweet is turned on for every single post of any kind at 20 seconds' notice. This was my very first change to the default settings ([other than the highlight color and app icon](https://twitter.com/NeoYokel/status/1459235983174639626)): I turned it off for Original Tweets, Replies, and Threads. This makes it tolerable, but still useless. 
 
-[^1]: Despite the fact that Tweeting via SMS has [since been disabled](https://www.theverge.com/2019/9/4/20849865/twitter-disables-sms-text-message-tweeting-jack-dorsey-ceo-hack).
+[^1]: Despite the fact that Tweeting via SMS has [since been disabled](https://www.theverge.com/2019/9/4/20849865/twitter-disables-sms-text-message-tweeting-jack-dorsey-ceo-hack)
