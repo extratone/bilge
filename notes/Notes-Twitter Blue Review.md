@@ -16,12 +16,18 @@
 ## Tweets
 
 - `https://twitter.com/neoyokel/status/696094018862718976`
+- Start of thread/poll: `https://twitter.com/NeoYokel/status/1459223941575319557`
 
 ## References
 
-- [Twitter smarter, Twitter harder with Twitter Blue](https://blog.twitter.com/en_us/topics/product/2021/twitter-smarter--twitter-harder-with-twitter-blue)
-- [I tried Twitter Blue so you don't have to — here's what I found](https://www.androidcentral.com/i-tried-twitter-blue-so-you-dont-have) | *Android Central*
-- [Twitter Blue Is Now Available. Here's Why We Hate It...](https://www.makeuseof.com/twitter-blue-available-why-we-hate-it/) | *MakeUseOf* %%Damn MakeUseOf… lol%%
-- [Tony Halle interviewed about Twitter Blue](https://megaphone.link/VMP7301782835) | *Recode Media*
+- [ ] [Twitter smarter, Twitter harder with Twitter Blue](https://blog.twitter.com/en_us/topics/product/2021/twitter-smarter--twitter-harder-with-twitter-blue)
+- [ ] [I tried Twitter Blue so you don't have to — here's what I found](https://www.androidcentral.com/i-tried-twitter-blue-so-you-dont-have) | *Android Central*
+- [ ] [Twitter Blue Is Now Available. Here's Why We Hate It...](https://www.makeuseof.com/twitter-blue-available-why-we-hate-it/) | *MakeUseOf* %%Damn MakeUseOf… lol%%
+- [ ] [Tony Halle interviewed about Twitter Blue](https://megaphone.link/VMP7301782835) | *Recode Media*
 
 ![[Annotation - Regarding Twitter Blue]]
+
+### Better Tweetdeck Configuration
+
+`https://gist.github.com/extratone/a4dd8bb4fe1f1a8891993a9e4b3532da`
+
