@@ -3,5 +3,5 @@
   "workspaceEnabled": false,
   "hasRibbonIcon": true,
   "openMode": "Keep open notes",
-  "alwaysPreview": false
+  "alwaysPreview": true
 }

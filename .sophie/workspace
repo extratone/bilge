@@ -1,16 +1,24 @@
 {
   "main": {
-    "id": "a9b6c2d9006fc23c",
+    "id": "c56287c85aa902cd",
     "type": "split",
     "children": [
       {
-        "id": "f6e2e309ef03da97",
+        "id": "d4b25a9688004743",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      },
+      {
+        "id": "87b60c8ee55bb65f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Instrument Panel.md",
-            "mode": "source"
+            "mode": "preview"
           }
         }
       }
@@ -77,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 173.00680351257324
+    "width": 173.00680351257324,
+    "collapsed": true
   },
   "right": {
     "id": "ede937ddfac9f863",
@@ -160,11 +169,11 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "f6e2e309ef03da97",
+  "active": "87b60c8ee55bb65f",
   "lastOpenFiles": [
     "Instrument Panel.md",
-    "time/NOT The Psalms.md",
     "time/Priority 1.md",
+    "time/NOT The Psalms.md",
     "time/Two Weeks.md",
     "time/90 Days.md",
     "notes/Untitled 1.md",

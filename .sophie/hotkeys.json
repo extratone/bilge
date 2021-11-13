@@ -374,5 +374,13 @@
       ],
       "key": "R"
     }
+  ],
+  "homepage:open-homepage": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
   ]
 }
