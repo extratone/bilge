@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "99fa6c81df3345b2",
+        "id": "507b041bb79a362e",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 173.00680351257324,
-    "collapsed": true
+    "width": 173.00680351257324
   },
   "right": {
     "id": "ede937ddfac9f863",
@@ -161,17 +160,17 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "99fa6c81df3345b2",
+  "active": "507b041bb79a362e",
   "lastOpenFiles": [
     "notes/Notes-Twitter Blue Review.md",
+    "annotation/Annotation - Regarding Twitter Blue.md",
+    "resources/Twitter - Wikipedia.pdf",
+    "resources/Twitter - Wikipedia.md",
     "notes/Telegram Themes.md",
     "configuration/systemcolorstelegram.md",
     "telegram/Notes-TelegramBots.md",
     "media/Recording 20211102010917.webm",
     "notes/Gladys.md",
-    "drafts/November.md",
-    "raindrop/Truth Social vs. Open Source.md",
-    "raindrop/Blessed Web Utilities.md",
-    "notes/Social Directory.md"
+    "drafts/November.md"
   ]
 }

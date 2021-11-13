@@ -1,9 +1,9 @@
 {
   "theme": "moonstone",
-  "accentHue": 0,
+  "accentHue": 268,
   "accentSat": 100,
   "lightStyle": "minimal-light-tonal",
-  "darkStyle": "minimal-dark",
+  "darkStyle": "minimal-dark-black",
   "uiFont": "-apple-system,BlinkMacSystemFont,\"Segoe UI Emoji\",\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
   "textFont": "-apple-system,BlinkMacSystemFont,\"Segoe UI Emoji\",\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",
   "editorFont": "-apple-system,BlinkMacSystemFont,\"Segoe UI Emoji\",\"Segoe UI\",Roboto,Oxygen-Sans,Ubuntu,Cantarell,sans-serif",

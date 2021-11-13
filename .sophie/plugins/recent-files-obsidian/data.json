@@ -5,6 +5,18 @@
       "path": "notes/Notes-Twitter Blue Review.md"
     },
     {
+      "basename": "Annotation - Regarding Twitter Blue",
+      "path": "annotation/Annotation - Regarding Twitter Blue.md"
+    },
+    {
+      "basename": "Twitter - Wikipedia",
+      "path": "resources/Twitter - Wikipedia.pdf"
+    },
+    {
+      "basename": "Twitter - Wikipedia",
+      "path": "resources/Twitter - Wikipedia.md"
+    },
+    {
       "basename": "Telegram Themes",
       "path": "notes/Telegram Themes.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "Safari Bookmarks",
       "path": "archive/Safari Bookmarks.md"
-    },
-    {
-      "basename": "PodcastingHistoryOnePage",
-      "path": "archive/PodcastingHistoryOnePage.md"
-    },
-    {
-      "basename": "Notion Library Export",
-      "path": "archive/Notion Library Export.md"
-    },
-    {
-      "basename": "Drywall Interview - Null",
-      "path": "archive/Drywall Interview - Null.md"
     }
   ],
   "omittedPaths": [],
