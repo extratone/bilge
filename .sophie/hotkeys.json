@@ -365,5 +365,14 @@
       "key": "M"
     }
   ],
-  "hotkeysplus-obsidian:better-toggle-todo": []
+  "hotkeysplus-obsidian:better-toggle-todo": [],
+  "todoist-sync-plugin:todoist-refresh-metadata": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ]
 }

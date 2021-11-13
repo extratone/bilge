@@ -1,6 +1,46 @@
 {
   "recentFiles": [
     {
+      "basename": "Instrument Panel",
+      "path": "Instrument Panel.md"
+    },
+    {
+      "basename": "NOT The Psalms",
+      "path": "time/NOT The Psalms.md"
+    },
+    {
+      "basename": "Priority 1",
+      "path": "time/Priority 1.md"
+    },
+    {
+      "basename": "Two Weeks",
+      "path": "time/Two Weeks.md"
+    },
+    {
+      "basename": "90 Days",
+      "path": "time/90 Days.md"
+    },
+    {
+      "basename": "Untitled 1",
+      "path": "notes/Untitled 1.md"
+    },
+    {
+      "basename": "All Psalms Tasks",
+      "path": "time/All Psalms Tasks.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "notes/Untitled.md"
+    },
+    {
+      "basename": "Notes - Min Browser Review",
+      "path": "notes/Notes - Min Browser Review.md"
+    },
+    {
+      "basename": "Legacy - MinBrowserNotes",
+      "path": "notes/Legacy - MinBrowserNotes.md"
+    },
+    {
       "basename": "Notes-Twitter Blue Review",
       "path": "notes/Notes-Twitter Blue Review.md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "Telegram",
       "path": "drafts/Telegram.md"
-    },
-    {
-      "basename": "Notes-Telegram",
-      "path": "notes/Notes-Telegram.md"
-    },
-    {
-      "basename": "tratobot wtf",
-      "path": "telegram/tratobot wtf.md"
-    },
-    {
-      "basename": "Obsidian Meta",
-      "path": "notes/Obsidian Meta.md"
-    },
-    {
-      "basename": "blimp",
-      "path": "archive/blimp.pdf"
-    },
-    {
-      "basename": "Essential_Newsletters",
-      "path": "archive/dropbox/Extratone/Essential_Newsletters.md"
-    },
-    {
-      "basename": "assumed-suicidal-but-impervious-to-email-fatigue",
-      "path": "archive/TL/assumed-suicidal-but-impervious-to-email-fatigue.md"
-    },
-    {
-      "basename": "a-year-of-blasphemy",
-      "path": "archive/TL/a-year-of-blasphemy.md"
-    },
-    {
-      "basename": "The Nieman Demon  State of the Extranet 8 - ",
-      "path": "archive/The Tone/The Nieman Demon  State of the Extranet 8 - .md"
-    },
-    {
-      "basename": "Happy Birthday, Trato - ",
-      "path": "archive/The Tone/Happy Birthday, Trato - .md"
-    },
-    {
-      "basename": "Safari Bookmarks",
-      "path": "archive/Safari Bookmarks.md"
     }
   ],
   "omittedPaths": [],

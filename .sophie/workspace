@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "549a25c5a71bb7c5",
+    "id": "a9b6c2d9006fc23c",
     "type": "split",
     "children": [
       {
-        "id": "507b041bb79a362e",
+        "id": "f6e2e309ef03da97",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Notes-Twitter Blue Review.md",
+            "file": "Instrument Panel.md",
             "mode": "source"
           }
         }
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Notes-Twitter Blue Review.md",
+                "file": "Instrument Panel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Notes-Twitter Blue Review.md"
+                "file": "Instrument Panel.md"
               }
             }
           },
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Notes-Twitter Blue Review.md",
+                "file": "Instrument Panel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +160,17 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "507b041bb79a362e",
+  "active": "f6e2e309ef03da97",
   "lastOpenFiles": [
-    "notes/Notes-Twitter Blue Review.md",
-    "annotation/Annotation - Regarding Twitter Blue.md",
-    "resources/Twitter - Wikipedia.pdf",
-    "resources/Twitter - Wikipedia.md",
-    "notes/Telegram Themes.md",
-    "configuration/systemcolorstelegram.md",
-    "telegram/Notes-TelegramBots.md",
-    "media/Recording 20211102010917.webm",
-    "notes/Gladys.md",
-    "drafts/November.md"
+    "Instrument Panel.md",
+    "time/NOT The Psalms.md",
+    "time/Priority 1.md",
+    "time/Two Weeks.md",
+    "time/90 Days.md",
+    "notes/Untitled 1.md",
+    "time/All Psalms Tasks.md",
+    "notes/Untitled.md",
+    "notes/Notes - Min Browser Review.md",
+    "notes/Legacy - MinBrowserNotes.md"
   ]
 }
