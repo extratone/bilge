@@ -1,5 +1,7 @@
 # Annotation - Regarding Twitter Blue
 
+- [I just want Scroll back](https://hyp.is/Bzr8_EQkEeysI8vHlV4ZgA/blog.twitter.com/en_us/topics/product/2021/twitter-smarter--twitter-harder-with-twitter-blue)
+
 **[About Twitter Blue](https://help.twitter.com/en/using-twitter/twitter-blue#tbpref)**
 
 > #### Is dedicated support a premium feature of Twitter Blue?

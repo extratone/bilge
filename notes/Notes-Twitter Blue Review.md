@@ -5,6 +5,10 @@
 - [Twitter Feedback: Bluetooth Keyboard Support x Custom Navigation *on iPhone*.](drafts://open?uuid=E25B0B9C-9463-4B76-B6A1-CC8E36A0F34F)
 - [Annotation on Eugen Interview](https://hyp.is/znp7tEQJEeySOXvhkqI2DQ/bilge.world/eugen-rochko-interview)
 
+## General Notes
+- Bookmark folders don't function on Desktop???
+- 
+
 ## Videos
 1. [Survey](https://twitter.com/NeoYokel/status/1459232262986379265)
 2. [First Pokes Around](https://twitter.com/NeoYokel/status/1459235983174639626)
@@ -42,9 +46,14 @@
 
 - [ ] [Twitter brings back UK SMS; Vodafone first, others to follows](https://www.theguardian.com/media/pda/2009/mar/27/twitter-socialnetworking1) | *The Guardian* (2009)
 
+- [ ] [‎Waveform: The MKBHD Podcast: Sony Xperia Pro-i, a USB-C iPhone, and Twitter Blue! on Apple Podcasts](https://podcasts.apple.com/us/podcast/sony-xperia-pro-i-a-usb-c-iphone-and-twitter-blue/id1474429475?i=1000541583420)
+
+- [ ] [‎Waveform: The MKBHD Podcast: Twitter Blue and WWDC! on Apple Podcasts](https://podcasts.apple.com/us/podcast/twitter-blue-and-wwdc/id1474429475?i=1000525031067)
+
 
 
 ### Better Tweetdeck Configuration
 
-`https://gist.github.com/extratone/a4dd8bb4fe1f1a8891993a9e4b3532da`
+![My Better Tweetdeck Configuration - 11-12-2021](BetterTweetdeck11-12-2021.png)
 
+`https://gist.github.com/extratone/a4dd8bb4fe1f1a8891993a9e4b3532da`
