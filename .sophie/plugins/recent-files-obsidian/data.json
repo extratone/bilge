@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Notes-Twitter Blue Review",
+      "path": "notes/Notes-Twitter Blue Review.md"
+    },
+    {
       "basename": "Telegram Themes",
       "path": "notes/Telegram Themes.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Drywall Interview - Null",
       "path": "archive/Drywall Interview - Null.md"
-    },
-    {
-      "basename": "iPhone & iOS Bookmarks",
-      "path": "archive/iPhone & iOS Bookmarks.md"
     }
   ],
   "omittedPaths": [],

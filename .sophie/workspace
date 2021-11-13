@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "67047ed7f992c264",
+    "id": "549a25c5a71bb7c5",
     "type": "split",
     "children": [
       {
-        "id": "53d83ac52d67d0c2",
+        "id": "99fa6c81df3345b2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Notes-Twitter Blue Review.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -101,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Notes-Twitter Blue Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +120,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Notes-Twitter Blue Review.md"
+              }
             }
           },
           {
@@ -125,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Notes-Twitter Blue Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +160,9 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "53d83ac52d67d0c2",
+  "active": "99fa6c81df3345b2",
   "lastOpenFiles": [
+    "notes/Notes-Twitter Blue Review.md",
     "notes/Telegram Themes.md",
     "configuration/systemcolorstelegram.md",
     "telegram/Notes-TelegramBots.md",
@@ -163,7 +171,6 @@
     "drafts/November.md",
     "raindrop/Truth Social vs. Open Source.md",
     "raindrop/Blessed Web Utilities.md",
-    "notes/Social Directory.md",
-    "pages/pages.md"
+    "notes/Social Directory.md"
   ]
 }
