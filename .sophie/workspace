@@ -4,21 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d4b25a9688004743",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
-      },
-      {
         "id": "87b60c8ee55bb65f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Instrument Panel.md",
-            "mode": "preview"
+            "file": "notes/Notes - Min Browser Review.md",
+            "mode": "source"
           }
         }
       }
@@ -113,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Instrument Panel.md",
+                "file": "notes/Notes - Min Browser Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Instrument Panel.md"
+                "file": "notes/Notes - Min Browser Review.md"
               }
             }
           },
@@ -140,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Instrument Panel.md",
+                "file": "notes/Notes - Min Browser Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,6 +163,7 @@
   },
   "active": "87b60c8ee55bb65f",
   "lastOpenFiles": [
+    "notes/Notes - Min Browser Review.md",
     "Instrument Panel.md",
     "time/Priority 1.md",
     "time/NOT The Psalms.md",
@@ -179,7 +172,6 @@
     "notes/Untitled 1.md",
     "time/All Psalms Tasks.md",
     "notes/Untitled.md",
-    "notes/Notes - Min Browser Review.md",
     "notes/Legacy - MinBrowserNotes.md"
   ]
 }

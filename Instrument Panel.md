@@ -2,6 +2,9 @@
 
 ---
 
+- [November](November.md)
+- [Notes-November Anecdotes](Notes-November%20Anecdotes.md)
+
 ## Twitter Blue
 - [Notes-Twitter Blue Review](Notes-Twitter%20Blue%20Review.md)
 
