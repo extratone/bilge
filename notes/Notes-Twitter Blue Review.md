@@ -6,8 +6,8 @@
 - [Annotation on Eugen Interview](https://hyp.is/znp7tEQJEeySOXvhkqI2DQ/bilge.world/eugen-rochko-interview)
 
 ## Videos
-1. Survey
-![[trim.15C5F172-4A7C-4F6B-B9CD-2C35318B8FB1.mov]]
+1. [Survey](https://twitter.com/NeoYokel/status/1459232262986379265)
+2. [First Pokes Around](https://twitter.com/NeoYokel/status/1459235983174639626)
 
 ## Images
 - `![Twitter Logo 2021](https://i.snap.as/aGCRJeUq.png)`
@@ -21,11 +21,28 @@
 ## References
 
 - [ ] [Twitter smarter, Twitter harder with Twitter Blue](https://blog.twitter.com/en_us/topics/product/2021/twitter-smarter--twitter-harder-with-twitter-blue)
+
 - [ ] [I tried Twitter Blue so you don't have to — here's what I found](https://www.androidcentral.com/i-tried-twitter-blue-so-you-dont-have) | *Android Central*
-- [ ] [Twitter Blue Is Now Available. Here's Why We Hate It...](https://www.makeuseof.com/twitter-blue-available-why-we-hate-it/) | *MakeUseOf* %%Damn MakeUseOf… lol%%
+
+- [ ] [Twitter Blue Is Now Available. Here's Why We Hate It...](https://www.makeuseof.com/twitter-blue-available-why-we-hate-it/) | *MakeUseOf* 
+
+  ```
+  Damn MakeUseOf… lol
+  ```
+
+  
+
 - [ ] [Tony Halle interviewed about Twitter Blue](https://megaphone.link/VMP7301782835) | *Recode Media*
 
-![[Annotation - Regarding Twitter Blue]]
+- [ ] [Twitter disables tweeting via SMS after CEO gets hacked - The Verge](https://www.theverge.com/2019/9/4/20849865/twitter-disables-sms-text-message-tweeting-jack-dorsey-ceo-hack)
+
+- [ ] [Twitter turns off its original SMS service in most countries - The Verge](https://www.theverge.com/2020/4/27/21238131/twitter-sms-notifications-disabled-jack-dorsey-hack)
+
+- [ ] [Twitter quietly deletes millions of accounts from the old text message days](https://mashable.com/article/twitter-sms-changes-account-removals) | *Mashable*
+
+- [ ] [Twitter brings back UK SMS; Vodafone first, others to follows](https://www.theguardian.com/media/pda/2009/mar/27/twitter-socialnetworking1) | *The Guardian* (2009)
+
+
 
 ### Better Tweetdeck Configuration
 
