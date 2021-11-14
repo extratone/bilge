@@ -26,3 +26,10 @@ Your theme 'VK Blue (Backup)' (https://t.me/addtheme/vkbackup) was saved in the 
 
 Use this link to switch apps to your theme: 
 https://t.me/addtheme/vkbackup
+
+## Themes I've Updated with Sidebar Considerations in 2021
+### [Igcognito 2021 Update](https://t.me/addtheme/incognito2021)
+![](Incognito2021.tdesktop-theme)
+
+### [Discord 2021](https://t.me/addtheme/discord2021)
+![](Discord%202021.tdesktop-theme)
