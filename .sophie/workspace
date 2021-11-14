@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "notes/Notes - Min Browser Review.md",
+            "file": "notes/Futureland - 1.md",
             "mode": "source"
           }
         }
@@ -57,7 +57,7 @@
             }
           },
           {
-            "id": "0cef6f03eb44c1e0",
+            "id": "f55676656939e2da",
             "type": "leaf",
             "state": {
               "type": "recent-files",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "f03d0e2e1c6c3496",
+            "id": "65ad19dd3afdeff2",
             "type": "leaf",
             "state": {
               "type": "file-tree-view",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 173.00680351257324,
-    "collapsed": true
+    "width": 173.00680351257324
   },
   "right": {
     "id": "ede937ddfac9f863",
@@ -105,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Notes - Min Browser Review.md",
+                "file": "notes/Futureland - 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +121,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Notes - Min Browser Review.md"
+                "file": "notes/Futureland - 1.md"
               }
             }
           },
@@ -132,14 +131,14 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Notes - Min Browser Review.md",
+                "file": "notes/Futureland - 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "87ab61214c23cd6c",
+            "id": "ffbb5cf0049bfc40",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -147,7 +146,7 @@
             }
           },
           {
-            "id": "e0b15011ad57198c",
+            "id": "4b2d43de9787013a",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -163,15 +162,15 @@
   },
   "active": "87b60c8ee55bb65f",
   "lastOpenFiles": [
+    "notes/Futureland - 1.md",
+    "$/Pitch - Social Media Consultation.md",
+    "drafts/Min Browser Review.md",
     "notes/Notes - Min Browser Review.md",
+    "notes/Min.md",
     "Instrument Panel.md",
     "time/Priority 1.md",
     "time/NOT The Psalms.md",
     "time/Two Weeks.md",
-    "time/90 Days.md",
-    "notes/Untitled 1.md",
-    "time/All Psalms Tasks.md",
-    "notes/Untitled.md",
-    "notes/Legacy - MinBrowserNotes.md"
+    "time/90 Days.md"
   ]
 }
