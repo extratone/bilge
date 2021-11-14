@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Futureland - 1",
+      "path": "notes/Futureland - 1.md"
+    },
+    {
+      "basename": "Pitch - Social Media Consultation",
+      "path": "$/Pitch - Social Media Consultation.md"
+    },
+    {
+      "basename": "Min Browser Review",
+      "path": "drafts/Min Browser Review.md"
+    },
+    {
       "basename": "Notes - Min Browser Review",
       "path": "notes/Notes - Min Browser Review.md"
+    },
+    {
+      "basename": "Min",
+      "path": "notes/Min.md"
     },
     {
       "basename": "Instrument Panel",
@@ -183,22 +199,6 @@
     {
       "basename": "Why",
       "path": "Why.md"
-    },
-    {
-      "basename": "~~Transparency~~ Opacity",
-      "path": "telegram/~~Transparency~~ Opacity.md"
-    },
-    {
-      "basename": "Telegram 1",
-      "path": "telegram/Telegram 1.md"
-    },
-    {
-      "basename": "Notes-Telegram (Index)",
-      "path": "telegram/Notes-Telegram (Index).md"
-    },
-    {
-      "basename": "Telegram",
-      "path": "drafts/Telegram.md"
     }
   ],
   "omittedPaths": [],
