@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "ff663bf6ce05e6b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "cfaf8c18c72abbf8",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d3f5a2b9db20249c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a8ec2725706af59d",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {}
+        }
+      },
+      {
+        "id": "f7b51fe951c8fe66",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "november",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4bafaa309ae133ee",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "7b3a838507e39590",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "da1ed03da4aaf007",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a995f8dbaec31c9d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "078bd3a463d0b21c",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "af188f1e0dbaa0b8",
+        "type": "leaf",
+        "state": {
+          "type": "dictionary-view",
+          "state": {}
+        }
+      },
+      {
+        "id": "63402d0724ccc6f0",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": true,
+            "unlinkedCollapsed": true
+          }
+        }
+      }
+    ]
+  },
+  "active": "cfaf8c18c72abbf8",
+  "lastOpenFiles": [
+    "Blue on Blue.md",
+    "audio/Recording 20211102225511 1.m4a",
+    "evernotes/12-13-2016.md",
+    "evernotes/101_mph.md",
+    "evernotes/E.md",
+    "evernotes/Mastodon.md",
+    "evernotes/Untitled_Note-1.md",
+    "Testing.md",
+    "notes/Twitter Blue Review Notes.md",
+    "reference/Why Min may be the future of the web browser, if anyone’s wondering - *Tedium*.md"
+  ]
+}
