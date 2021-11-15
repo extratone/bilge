@@ -1,17 +1,31 @@
-# Twitter Blue Review
+# Blue on Blue
+
+<video controls>
+  <source src="https://github.com/extratone/bilge/raw/main/video/TwitterBlue.MP4">
+</video>
 
 ![Twitter Blue Brand Image](https://i.snap.as/F4AODRKo.png)
 
-## Gargantuan misses in Little Blue’s Blue.
+## Gargantuan, ridiculously avoidable misses in Little Blue’s Blue.
 
-Incredibly, the second most powerful social media company in the world has finally managed to implement a paid subscription model, as I’ve been begging them to do for [at least 5 years](https://twitter.com/neoyokel/status/696094018862718976), now. For three U.S. Dollars a month, “[Twitter Blue](https://blog.twitter.com/en_us/topics/company/2021/introducing-twitter-blue)” is [now available](https://www.theverge.com/2021/11/9/22766286/twitter-blue-subscription-service-scroll-nuzzel-undo-tweets-ad-free-articles-us) for all United States users. Aside from a relentless, rude, two and a half hour-long rant at two new friends on *End User*, 
-
-`![Twitter in Jorts Dock, 2021](https://i.snap.as/zp5uCNwa.png)`
+Incredibly, the second most powerful social media company in the world has finally managed to implement a paid subscription model, as I’ve been begging them to do for [at least 5 years](https://twitter.com/neoyokel/status/696094018862718976), now. For three U.S. Dollars a month, “[Twitter Blue](https://blog.twitter.com/en_us/topics/company/2021/introducing-twitter-blue)” is [now available](https://www.theverge.com/2021/11/9/22766286/twitter-blue-subscription-service-scroll-nuzzel-undo-tweets-ad-free-articles-us) for all United States users. Aside from [a relentless, rude, two and a half hour-long rant](https://apple.co/3wVZs3v) at two new friends on *End User*, I should confess that I haven’t spoken adequately to peers at length about their Twitter use - understandably, busy independent artists don’t seem to find themsevles with the spare time to hypothesize methodically about what they might want from the service, going forward. From the mass of commentary on Twitter Blue I *was* able to gather, a resounding sentiment refrains: *these features should be available to everyone*.
 
 https://open.spotify.com/episode/0ImyC2Twm5qyx9lxmcKmkP
 
+`![Twitter in Jorts Dock, 2021](https://i.snap.as/zp5uCNwa.png)`
 
+Frankly, after all these years, there’s not all that much to actually say about the product, itself. Thanks to Spaces, I happened to catch a chance to ask my favorite sage of late - Jason Scott, original creator of textfiles.com - for his thoughts. 
 
+“Well, I bought it.”
+“Yeah, same.”
+
+Then, we talked for 45 minutes about self-actualization. As I’ve recently honed my understanding of the significance behind my own personal extraordinary dependence/investment in this one service, I have also - in parallel, ya might say - refined wholly a set of expectations which I do not ever again expect to be usurped in any way by Twitter, Incorporated’s decisions. Believe it not, these thoughts of mine really *do* have real potential to add value to your life, especially if you’re still reading. The next time you find yourself wondering what Twitter might do next, try to internalize the utter inanity of that whole pursuit. Not one second can be concretely spent in that endeavor because the organization is defined singularly by its outrageous negligence. They are not villains or demons like [Big Blue](https://github.com/extratone/bigblue) - they are through and through a village of idiots, and no manner of user action can possibly budge them.
+
+Of course, this new development of mine hasn’t actually managed to delivery any peace upon my person. In fact, because it is impossible to be *constructively* critical in such a situation, I am one of few I know who must continue to be critical, anyway, because my livelihood does not depend on the newsworthiness of my subject matter. I guess I should just be thankful my “must” represents so little time-sensitive consequence, if any, given how long it takes me to finish anything, these days. On that note, please [look elsewhere](https://www.theverge.com/2021/11/14/22778827/twitter-blue-undo-button-paywall-features-paid-free) for the bulletpoints… Come back for at least a second, though, because this Post *does* eventually circle around to a handful of poignant, original comments on the ~~Whats~~.
+
+The peeves aren’t new, but I’ve found my own redundancy within *The Psalms* to be less and less… redundant, if that makes sense. This company’s software is bad and its continued prioritization of the two native mobile applications (neither of which it actually built) over any other clients for *all* user considerations is a spectacular tedium to follow. Its world record breaking inability to understand anything about how its *whole shit* fits into the lives of *any* of its users continues to astound. My peak irritation about the whole situation, lately, is that *you fuckers* continue to discuss alterations to social software, generally, as if it is inevitable with a sense of complicity I will *not* allow.
+
+### All Users are Power Users
 
 ## Undo Tweet
 
@@ -33,4 +47,4 @@ Here's the full text from [**its subpage**](https://help.twitter.com/en/using-tw
 
 By default, Undo Tweet is turned on for every single post of any kind at 20 seconds' notice. This was my very first change to the default settings ([other than the highlight color and app icon](https://twitter.com/NeoYokel/status/1459235983174639626)): I turned it off for Original Tweets, Replies, and Threads. This makes it tolerable, but still useless. 
 
-[^1]: Despite the fact that Tweeting via SMS has [since been disabled](https://www.theverge.com/2019/9/4/20849865/twitter-disables-sms-text-message-tweeting-jack-dorsey-ceo-hack)
+[^1]: Despite the fact that Tweeting via SMS has [since been disabled](https://www.theverge.com/2019/9/4/20849865/twitter-disables-sms-text-message-tweeting-jack-dorsey-ceo-hack).
