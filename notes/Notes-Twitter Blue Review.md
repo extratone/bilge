@@ -5,6 +5,17 @@
 - [ ] Configurable Navigation is great, but *make Home removable*!
 - [ ] I absolutely love continuing to see ads.
 - [ ] Lists Discovery (sortof separate) helped me catch a few accounts/friends I assumed were on The New List uhhh for years???
+- [ ] “These features should be available to everyone” is the recurring sentiment among the commentary I’ve found so far.
+- [ ] All Twitter Users are Power Users.
+- [ ] **Stop talking about this bullshit like it’s unavoidable**.
+- [ ] [**POST QUEUE**](https://twitter.com/NeoYokel/status/1460486229800230914) - An actual poweruser feature that cannot be found in *any* Twitter client aside from the PRO tools.
+- [ ] It just occurred to me that the app has not randomly logged me out since I paid for Twitter Blue.  
+
+```
+<audio controls>
+  <source src="https://files.mastodon.social/media_attachments/files/107/276/355/120/986/584/original/55e5d0410d13b8ec.mp3">
+</audio>
+```
 
 - [Twitter Blue · Issue #269 · extratone/bilge](https://github.com/extratone/bilge/issues/269)
 - [Telegram Thread](https://t.me/s/extratone/8134)
@@ -13,9 +24,13 @@
 - [Annotation on Eugen Interview](https://hyp.is/znp7tEQJEeySOXvhkqI2DQ/bilge.world/eugen-rochko-interview)
 - [Twitter Blue Publishers - Twitter List](https://twitter.com/i/lists/1448014243245150209)
 
+## Tweets
+- [ ] [Avery on threader absorbtion](https://twitter.com/echoesremained/status/1460391960536096771) - `https://twitter.com/echoesremained/status/1460391960536096771?s=21`
+
 ## Videos
 1. [Survey](https://twitter.com/NeoYokel/status/1459232262986379265)
 2. [First Pokes Around](https://twitter.com/NeoYokel/status/1459235983174639626)
+3. [`⌘ + V` to open Twitter link](https://twitter.com/neoyokel/status/1460658848914673671)
 
 ## Images
 - [ ] `![Twitter Logo 2021](https://i.snap.as/aGCRJeUq.png)`
@@ -25,6 +40,7 @@
 - [ ] `![Custom Navigation - Twitter Blue on iOS](https://i.snap.as/hu2p7mN2.png)`
 - [ ] `![App Icons - Twitter Blue for iOS](https://i.snap.as/vNO1FH8h.png)`
 - [ ] `![Twitter Blue Brand Image](https://i.snap.as/F4AODRKo.png)`
+- [ ] `![Thread Reader - Twitter Blue for iOS](https://i.snap.as/SAYPlThr.png)`
 
 ## Tweets
 
@@ -33,15 +49,15 @@
 
 ## References
 
+- [ ] [**Twitter shouldn’t be hiding basic app improvements behind its Blue paywall**](https://www.theverge.com/2021/11/14/22778827/twitter-blue-undo-button-paywall-features-paid-free)
+
 - [ ] [Twitter smarter, Twitter harder with Twitter Blue](https://blog.twitter.com/en_us/topics/product/2021/twitter-smarter--twitter-harder-with-twitter-blue)
 
 - [ ] [I tried Twitter Blue so you don't have to — here's what I found](https://www.androidcentral.com/i-tried-twitter-blue-so-you-dont-have) | *Android Central*
 
-- [ ] [Twitter Blue Is Now Available. Here's Why We Hate It...](https://www.makeuseof.com/twitter-blue-available-why-we-hate-it/) | *MakeUseOf* 
-
-  ```
-  Damn MakeUseOf… lol
-  ```
+- [ ] [Twitter Blue Is Now Available. Here's Why We Hate It...](https://www.makeuseof.com/twitter-blue-available-why-we-hate-it/) | *MakeUseOf* Damn MakeUseOf… lol
+- [ ] [Where the Intention Economy Beats the Attention Economy](https://blogs.harvard.edu/doc/2021/10/04/where-intention/) | Doc Searls 
+- [ ] [Twitter Blue’s Nuzzel-like top articles summary has arrived for iOS](https://www.theverge.com/2021/11/15/22783594/twitter-blue-nuzzel-top-articles-ios-arrivial-top-articles) | *The Verge*
 
   
 
@@ -66,3 +82,7 @@
 ![My Better Tweetdeck Configuration - 11-12-2021](BetterTweetdeck11-12-2021.png)
 
 `https://gist.github.com/extratone/a4dd8bb4fe1f1a8891993a9e4b3532da`
+ 
+---
+ 
+#social #review #twitter #psalms #notes #$ #exported2obsidian 
