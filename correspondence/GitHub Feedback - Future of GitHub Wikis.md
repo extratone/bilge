@@ -1,0 +1,3 @@
+I've been sitting on this question long enough, I hope (and doing a not-insignificant amount of searching the web,) that I'm fairly sure it isn't redundant. If I'm wrong about that, sincere apologies.
+
+GitHub's feature rollouts in the past year have been absolutely incredible, but it's felt like Wikis - as in [Repository Wikis](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) - have been more or less abadoned? What I'm asking, really, is whether or not we should anticipate a significant **update**, a **sunsetting**, or neither, going forward, for GitHub Wikis. 

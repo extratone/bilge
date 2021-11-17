@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "589e6db72a45076a",
+        "id": "799765caa3852be7",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Notes-Twitter Blue Review.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -105,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Notes-Twitter Blue Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,9 +117,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/Notes-Twitter Blue Review.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +126,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Notes-Twitter Blue Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,17 +154,17 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "589e6db72a45076a",
+  "active": "799765caa3852be7",
   "lastOpenFiles": [
+    "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
+    "social/1Password-1Password 8 for Windows is here! 😍 All-new design🌗 Dark mode👩‍💻 Productivity boosters🔐 Top-notch security, and so much moreGet started httpst.coXgE2jgaO44 httpst.coMKZVmhMB5C.md",
+    "notes/Notes-1Password 8.md",
+    "video/1Password8TwitterVideo.mp4",
     "notes/Notes-Twitter Blue Review.md",
     "Instrument Panel.md",
-    "notes/Untitled.md",
     "notes/Futureland - 1.md",
     "social/NeoYokel-Watching Jimmy!.md",
     "$/Pitch - Social Media Consultation.md",
-    "drafts/Min Browser Review.md",
-    "notes/Notes - Min Browser Review.md",
-    "notes/Min.md",
-    "time/Priority 1.md"
+    "drafts/Min Browser Review.md"
   ]
 }
