@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "ff663bf6ce05e6b5",
+    "id": "dbc90e949c76b3e4",
     "type": "split",
     "children": [
       {
-        "id": "cfaf8c18c72abbf8",
+        "id": "b7c1877070938a80",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -109,7 +109,7 @@
       }
     ]
   },
-  "active": "cfaf8c18c72abbf8",
+  "active": "b7c1877070938a80",
   "lastOpenFiles": [
     "Blue on Blue.md",
     "audio/Recording 20211102225511 1.m4a",

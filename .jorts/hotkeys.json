@@ -1,12 +1,5 @@
 {
-  "editor:insert-tag": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "T"
-    }
-  ],
+  "editor:insert-tag": [],
   "audio-recorder:start": [
     {
       "modifiers": [
@@ -129,7 +122,6 @@
       "key": "ArrowUp"
     }
   ],
-  "app:go-back": [],
   "app:open-help": [],
   "open-with-default-app:open": [
     {
@@ -150,15 +142,6 @@
     }
   ],
   "switcher:open": [],
-  "editor:redo": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "Y"
-    }
-  ],
   "templater-obsidian:create-new-note-from-template": [
     {
       "modifiers": [
@@ -377,5 +360,98 @@
       "key": "ArrowLeft"
     }
   ],
-  "darlal-switcher-plus:switcher-plus:open": []
+  "darlal-switcher-plus:switcher-plus:open": [],
+  "editor:copy": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "C"
+    }
+  ],
+  "workspace:copy-path": [],
+  "hotkey-helper:open-plugins": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "hotkeysplus-obsidian:toggle-block-quote": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "Q"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl",
+        "Mod"
+      ],
+      "key": "O"
+    }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": ","
+    }
+  ],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "editor:paste": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ],
+  "editor:redo": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Y"
+    }
+  ],
+  "editor:toggle-code": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ]
 }
