@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "e1c34bb9fc64b486",
+    "id": "67181c62990352e5",
     "type": "split",
     "children": [
       {
-        "id": "d24f897e81c0cbee",
+        "id": "589e6db72a45076a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "notes/Notes-Twitter Blue Review.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 189
+    "width": 189,
+    "collapsed": true
   },
   "right": {
     "id": "ede937ddfac9f863",
@@ -101,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Notes-Twitter Blue Review.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Notes-Twitter Blue Review.md"
+              }
             }
           },
           {
@@ -125,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Notes-Twitter Blue Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,17 +161,17 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "d24f897e81c0cbee",
+  "active": "589e6db72a45076a",
   "lastOpenFiles": [
+    "notes/Notes-Twitter Blue Review.md",
+    "Instrument Panel.md",
     "notes/Untitled.md",
     "notes/Futureland - 1.md",
     "social/NeoYokel-Watching Jimmy!.md",
-    "Instrument Panel.md",
     "$/Pitch - Social Media Consultation.md",
     "drafts/Min Browser Review.md",
     "notes/Notes - Min Browser Review.md",
     "notes/Min.md",
-    "time/Priority 1.md",
-    "time/NOT The Psalms.md"
+    "time/Priority 1.md"
   ]
 }
