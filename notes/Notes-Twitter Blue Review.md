@@ -1,5 +1,3 @@
-# Notes-Twitter Blue Review
-
 ## General Notes
 - [ ] Bookmark folders don't function on Desktop???
 - [ ] Configurable Navigation is great, but *make Home removable*!
@@ -41,6 +39,7 @@
 - [ ] `![App Icons - Twitter Blue for iOS](https://i.snap.as/vNO1FH8h.png)`
 - [ ] `![Twitter Blue Brand Image](https://i.snap.as/F4AODRKo.png)`
 - [ ] `![Thread Reader - Twitter Blue for iOS](https://i.snap.as/SAYPlThr.png)`
+- [ ] `![STOP](https://i.snap.as/RLAwI1K4.png)`
 
 ## Tweets
 
@@ -82,7 +81,3 @@
 ![My Better Tweetdeck Configuration - 11-12-2021](BetterTweetdeck11-12-2021.png)
 
 `https://gist.github.com/extratone/a4dd8bb4fe1f1a8891993a9e4b3532da`
- 
----
- 
-#social #review #twitter #psalms #notes #$ #exported2obsidian 
