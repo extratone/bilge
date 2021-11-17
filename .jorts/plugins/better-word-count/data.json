@@ -1,0 +1,11 @@
+{
+  "preset": {
+    "name": "minimal",
+    "statusBarQuery": "w: {word_count} c: {character_count}",
+    "statusBarAltQuery": "f: {file_count} tw: {total_word_count} tc: {total_character_count}"
+  },
+  "statusBarQuery": "w: {word_count} c: {character_count}",
+  "statusBarAltQuery": "f: {file_count} tw: {total_word_count} tc: {total_character_count}",
+  "countComments": false,
+  "collectStats": true
+}
