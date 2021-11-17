@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Untitled",
+      "path": "notes/Untitled.md"
+    },
+    {
       "basename": "Futureland - 1",
       "path": "notes/Futureland - 1.md"
+    },
+    {
+      "basename": "NeoYokel-Watching Jimmy!",
+      "path": "social/NeoYokel-Watching Jimmy!.md"
+    },
+    {
+      "basename": "Instrument Panel",
+      "path": "Instrument Panel.md"
     },
     {
       "basename": "Pitch - Social Media Consultation",
@@ -19,10 +31,6 @@
     {
       "basename": "Min",
       "path": "notes/Min.md"
-    },
-    {
-      "basename": "Instrument Panel",
-      "path": "Instrument Panel.md"
     },
     {
       "basename": "Priority 1",
@@ -47,10 +55,6 @@
     {
       "basename": "All Psalms Tasks",
       "path": "time/All Psalms Tasks.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "notes/Untitled.md"
     },
     {
       "basename": "Legacy - MinBrowserNotes",
@@ -195,10 +199,6 @@
     {
       "basename": "SendFullSizedImage",
       "path": "video/SendFullSizedImage.mp4"
-    },
-    {
-      "basename": "Why",
-      "path": "Why.md"
     }
   ],
   "omittedPaths": [],

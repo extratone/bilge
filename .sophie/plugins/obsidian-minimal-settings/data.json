@@ -12,7 +12,7 @@
   "maxWidth": 88,
   "textNormal": 19,
   "textSmall": 16,
-  "minimalIcons": true,
+  "minimalIcons": false,
   "fancyCursor": true,
   "trimNames": true,
   "fullWidthMedia": false,
