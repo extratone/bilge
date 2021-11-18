@@ -1,17 +1,14 @@
 {
   "main": {
-    "id": "d5c6497ba05e50ec",
+    "id": "4d26db566bf5ed7f",
     "type": "split",
     "children": [
       {
-        "id": "01a510d8da7a5078",
+        "id": "53046533c66c99ae",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "editorial/documentation/David Blue on iOS.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -104,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "editorial/documentation/David Blue on iOS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "editorial/documentation/David Blue on iOS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -131,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "editorial/documentation/David Blue on iOS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,17 +153,17 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "01a510d8da7a5078",
+  "active": "53046533c66c99ae",
   "lastOpenFiles": [
-    "editorial/documentation/David Blue on iOS.md",
     "notes/Notes-Twitter Blue Review.md",
-    "Instrument Panel.md",
     "notes/Untitled.md",
+    "Instrument Panel.md",
     "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
     "social/1Password-1Password 8 for Windows is here! 😍 All-new design🌗 Dark mode👩‍💻 Productivity boosters🔐 Top-notch security, and so much moreGet started httpst.coXgE2jgaO44 httpst.coMKZVmhMB5C.md",
     "notes/Notes-1Password 8.md",
     "video/1Password8TwitterVideo.mp4",
     "notes/Futureland - 1.md",
-    "social/NeoYokel-Watching Jimmy!.md"
+    "social/NeoYokel-Watching Jimmy!.md",
+    "$/Pitch - Social Media Consultation.md"
   ]
 }

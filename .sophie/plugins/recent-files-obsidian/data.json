@@ -1,20 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "David Blue on iOS",
-      "path": "editorial/documentation/David Blue on iOS.md"
-    },
-    {
       "basename": "Notes-Twitter Blue Review",
       "path": "notes/Notes-Twitter Blue Review.md"
     },
     {
-      "basename": "Instrument Panel",
-      "path": "Instrument Panel.md"
-    },
-    {
       "basename": "Untitled",
       "path": "notes/Untitled.md"
+    },
+    {
+      "basename": "Instrument Panel",
+      "path": "Instrument Panel.md"
     },
     {
       "basename": "GitHub Feedback - Future of GitHub Wikis",
@@ -199,6 +195,10 @@
     {
       "basename": "Telegram (Dedicated Draft)",
       "path": "telegram/Telegram (Dedicated Draft).md"
+    },
+    {
+      "basename": "Drafting",
+      "path": "telegram/Drafting.md"
     }
   ],
   "omittedPaths": [],
