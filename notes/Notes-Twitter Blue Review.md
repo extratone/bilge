@@ -57,8 +57,10 @@
 - [ ] [Twitter Blue Is Now Available. Here's Why We Hate It...](https://www.makeuseof.com/twitter-blue-available-why-we-hate-it/) | *MakeUseOf* Damn MakeUseOf… lol
 - [ ] [Where the Intention Economy Beats the Attention Economy](https://blogs.harvard.edu/doc/2021/10/04/where-intention/) | Doc Searls 
 - [ ] [Twitter Blue’s Nuzzel-like top articles summary has arrived for iOS](https://www.theverge.com/2021/11/15/22783594/twitter-blue-nuzzel-top-articles-ios-arrivial-top-articles) | *The Verge*
+- [ ] **Federico Viticci on the prospect of *MacStories* joining Twitter Blue**
+> That's an interesting idea, but I don't think it's a good fit for us given our sponsorship model and the fact I don't personally like partnering with these social media companies when it comes to their publishing efforts. It never ends well.
+![Federico on Twitter Blue](Pasted%20image%2020211117192034.png)
 
-  
 
 - [ ] [Tony Halle interviewed about Twitter Blue](https://megaphone.link/VMP7301782835) | *Recode Media*
 
