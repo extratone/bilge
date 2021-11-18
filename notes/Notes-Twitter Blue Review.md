@@ -1,4 +1,8 @@
+# Notes-Twitter Blue Review
+
 ## General Notes
+
+- [ ] According to the expectedly vague, absurd depiction of Twitter Blue's target users, Twitter thinks I, David Blue, should subscribe without a doubt, so I did. (In general, I comply with all behavioral suggestions from Twitter, Incorporated, except for Jack Dorsey's implicit endorsement of Apple Notes as an appropriate means of publishing public-facing documentation.)
 - [ ] Bookmark folders don't function on Desktop???
 - [ ] Configurable Navigation is great, but *make Home removable*!
 - [ ] I absolutely love continuing to see ads.
@@ -40,6 +44,7 @@
 - [ ] `![Twitter Blue Brand Image](https://i.snap.as/F4AODRKo.png)`
 - [ ] `![Thread Reader - Twitter Blue for iOS](https://i.snap.as/SAYPlThr.png)`
 - [ ] `![STOP](https://i.snap.as/RLAwI1K4.png)`
+- [ ] `![Voice Tweets in Thread Reader - Twitter for iOS](https://i.snap.as/1ia6xNyv.png)`
 
 ## Tweets
 
