@@ -31,5 +31,3 @@
 
 * [iOS Apps To Watch](http://simp.ly/p/kq5Khv) (Pretty out of date Simplenote.)
 * [Siri Shortcuts GitHub Repo](https://github.com/extratone/shortcuts)
-
-![David Blue for iOS](https://i.snap.as/e0BjQx1L.png)
