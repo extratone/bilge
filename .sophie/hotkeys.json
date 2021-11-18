@@ -19,9 +19,10 @@
   "command-palette:open": [
     {
       "modifiers": [
-        "Mod"
+        "Mod",
+        "Shift"
       ],
-      "key": "\\"
+      "key": "/"
     }
   ],
   "file-explorer:new-file-in-new-pane": [

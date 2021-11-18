@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "46cdc61549d3c8e1",
+        "id": "53046533c66c99ae",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "b3ea415d41679ab8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Instrument Panel.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -88,8 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 189,
-    "collapsed": true
+    "width": 189
   },
   "right": {
     "id": "ede937ddfac9f863",
@@ -116,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,9 +116,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "correspondence/GitHub Feedback - Future of GitHub Wikis.md"
-              }
+              "state": {}
             }
           },
           {
@@ -143,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,17 +153,17 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "46cdc61549d3c8e1",
+  "active": "53046533c66c99ae",
   "lastOpenFiles": [
-    "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
+    "notes/Notes-Twitter Blue Review.md",
+    "notes/Untitled.md",
     "Instrument Panel.md",
+    "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
     "social/1Password-1Password 8 for Windows is here! 😍 All-new design🌗 Dark mode👩‍💻 Productivity boosters🔐 Top-notch security, and so much moreGet started httpst.coXgE2jgaO44 httpst.coMKZVmhMB5C.md",
     "notes/Notes-1Password 8.md",
     "video/1Password8TwitterVideo.mp4",
-    "notes/Notes-Twitter Blue Review.md",
     "notes/Futureland - 1.md",
     "social/NeoYokel-Watching Jimmy!.md",
-    "$/Pitch - Social Media Consultation.md",
-    "drafts/Min Browser Review.md"
+    "$/Pitch - Social Media Consultation.md"
   ]
 }

@@ -7,5 +7,11 @@
   "newFileFolderPath": "notes",
   "useMarkdownLinks": true,
   "trashOption": "local",
-  "fileSortOrder": "byModifiedTime"
+  "fileSortOrder": "byModifiedTime",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
