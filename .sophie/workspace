@@ -1,14 +1,28 @@
 {
   "main": {
-    "id": "67181c62990352e5",
+    "id": "4d26db566bf5ed7f",
     "type": "split",
     "children": [
       {
-        "id": "799765caa3852be7",
+        "id": "46cdc61549d3c8e1",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "b3ea415d41679ab8",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Instrument Panel.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -102,6 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "correspondence/GitHub Feedback - Future of GitHub Wikis.md"
+              }
             }
           },
           {
@@ -126,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,14 +172,14 @@
     "width": 118,
     "collapsed": true
   },
-  "active": "799765caa3852be7",
+  "active": "46cdc61549d3c8e1",
   "lastOpenFiles": [
     "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
+    "Instrument Panel.md",
     "social/1Password-1Password 8 for Windows is here! 😍 All-new design🌗 Dark mode👩‍💻 Productivity boosters🔐 Top-notch security, and so much moreGet started httpst.coXgE2jgaO44 httpst.coMKZVmhMB5C.md",
     "notes/Notes-1Password 8.md",
     "video/1Password8TwitterVideo.mp4",
     "notes/Notes-Twitter Blue Review.md",
-    "Instrument Panel.md",
     "notes/Futureland - 1.md",
     "social/NeoYokel-Watching Jimmy!.md",
     "$/Pitch - Social Media Consultation.md",
