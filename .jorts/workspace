@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "dbc90e949c76b3e4",
+    "id": "79bf60973acde793",
     "type": "split",
     "children": [
       {
-        "id": "b7c1877070938a80",
+        "id": "a31655d304cd631b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "social/(viticci)-About two months ago, I switched back to @tweetbot as my primary Twitter client. If you haven’t tried Tweetbot in a while, it supports more Twitter features than ever thanks to the new API, and it’s frequently updated with modern iOSiPadO.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -70,6 +73,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "social/(viticci)-About two months ago, I switched back to @tweetbot as my primary Twitter client. If you haven’t tried Tweetbot in a while, it supports more Twitter features than ever thanks to the new API, and it’s frequently updated with modern iOSiPadO.md",
             "collapseAll": true,
             "extraContext": true,
             "sortOrder": "alphabetical",
@@ -85,7 +89,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "social/(viticci)-About two months ago, I switched back to @tweetbot as my primary Twitter client. If you haven’t tried Tweetbot in a while, it supports more Twitter features than ever thanks to the new API, and it’s frequently updated with modern iOSiPadO.md"
+          }
         }
       },
       {
@@ -102,6 +108,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "social/(viticci)-About two months ago, I switched back to @tweetbot as my primary Twitter client. If you haven’t tried Tweetbot in a while, it supports more Twitter features than ever thanks to the new API, and it’s frequently updated with modern iOSiPadO.md",
             "linksCollapsed": true,
             "unlinkedCollapsed": true
           }
@@ -109,17 +116,17 @@
       }
     ]
   },
-  "active": "b7c1877070938a80",
+  "active": "a31655d304cd631b",
   "lastOpenFiles": [
+    "social/(viticci)-About two months ago, I switched back to @tweetbot as my primary Twitter client. If you haven’t tried Tweetbot in a while, it supports more Twitter features than ever thanks to the new API, and it’s frequently updated with modern iOSiPadO.md",
+    "notes/Notes-Twitter Blue Review.md",
+    "notes/Notes-YouTubeMusic.md",
     "Blue on Blue.md",
     "audio/Recording 20211102225511 1.m4a",
     "evernotes/12-13-2016.md",
     "evernotes/101_mph.md",
     "evernotes/E.md",
     "evernotes/Mastodon.md",
-    "evernotes/Untitled_Note-1.md",
-    "Testing.md",
-    "notes/Twitter Blue Review Notes.md",
-    "reference/Why Min may be the future of the web browser, if anyone’s wondering - *Tedium*.md"
+    "evernotes/Untitled_Note-1.md"
   ]
 }

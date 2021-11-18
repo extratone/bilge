@@ -141,7 +141,15 @@
       "key": "P"
     }
   ],
-  "switcher:open": [],
+  "switcher:open": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
   "templater-obsidian:create-new-note-from-template": [
     {
       "modifiers": [
