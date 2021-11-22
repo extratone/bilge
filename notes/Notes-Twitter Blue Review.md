@@ -7,7 +7,7 @@
 - [ ] Configurable Navigation is great, but *make Home removable*!
 - [ ] I absolutely love continuing to see ads.
 - [ ] Lists Discovery (sortof separate) helped me catch a few accounts/friends I assumed were on The New List uhhh for years???
-- [ ] “These features should be available to everyone” is the recurring sentiment among the commentary I’ve found so far.
+- [x] “These features should be available to everyone” is the recurring sentiment among the commentary I’ve found so far.
 - [ ] All Twitter Users are Power Users.
 - [ ] **Stop talking about this bullshit like it’s unavoidable**.
 - [ ] [**POST QUEUE**](https://twitter.com/NeoYokel/status/1460486229800230914) - An actual poweruser feature that cannot be found in *any* Twitter client aside from the PRO tools.
