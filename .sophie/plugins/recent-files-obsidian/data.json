@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Instrument Panel",
+      "path": "Instrument Panel.md"
+    },
+    {
       "basename": "Your experience with Twitter Blue - Twitter, Inc. Space",
       "path": "notes/Your experience with Twitter Blue - Twitter, Inc. Space.md"
     },
@@ -9,8 +13,12 @@
       "path": "notes/Notes-Twitter Blue Review.md"
     },
     {
-      "basename": "Instrument Panel",
-      "path": "Instrument Panel.md"
+      "basename": "1Password Twitter Space",
+      "path": "notes/1Password Twitter Space.md"
+    },
+    {
+      "basename": "Notes-1Password 8",
+      "path": "notes/Notes-1Password 8.md"
     },
     {
       "basename": "GitHub Feedback - Future of GitHub Wikis",
@@ -19,10 +27,6 @@
     {
       "basename": "1Password-1Password 8 for Windows is here! 😍 All-new design🌗 Dark mode👩‍💻 Productivity boosters🔐 Top-notch security, and so much moreGet started httpst.coXgE2jgaO44 httpst.coMKZVmhMB5C",
       "path": "social/1Password-1Password 8 for Windows is here! 😍 All-new design🌗 Dark mode👩‍💻 Productivity boosters🔐 Top-notch security, and so much moreGet started httpst.coXgE2jgaO44 httpst.coMKZVmhMB5C.md"
-    },
-    {
-      "basename": "Notes-1Password 8",
-      "path": "notes/Notes-1Password 8.md"
     },
     {
       "basename": "1Password8TwitterVideo",
@@ -191,14 +195,6 @@
     {
       "basename": "GM",
       "path": "GM.md"
-    },
-    {
-      "basename": "Telegram (Dedicated Draft)",
-      "path": "telegram/Telegram (Dedicated Draft).md"
-    },
-    {
-      "basename": "Drafting",
-      "path": "telegram/Drafting.md"
     }
   ],
   "omittedPaths": [],

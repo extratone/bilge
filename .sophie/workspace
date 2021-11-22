@@ -4,24 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4bbee7f5098bc6a8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "notes/Notes-Twitter Blue Review.md",
-            "mode": "preview"
-          }
-        }
-      },
-      {
-        "id": "a8439a367824a880",
+        "id": "2fdfff3fbff84567",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "notes/Your experience with Twitter Blue - Twitter, Inc. Space.md",
             "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "240a2bbfae571575",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Instrument Panel.md",
+            "mode": "preview"
           }
         }
       }
@@ -88,7 +88,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 189
+    "width": 189,
+    "collapsed": true
   },
   "right": {
     "id": "ede937ddfac9f863",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Your experience with Twitter Blue - Twitter, Inc. Space.md",
+                "file": "Instrument Panel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Your experience with Twitter Blue - Twitter, Inc. Space.md"
+                "file": "Instrument Panel.md"
               }
             }
           },
@@ -142,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Your experience with Twitter Blue - Twitter, Inc. Space.md",
+                "file": "Instrument Panel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,24 +165,25 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
     "width": 118,
     "collapsed": true
   },
-  "active": "a8439a367824a880",
+  "active": "240a2bbfae571575",
   "lastOpenFiles": [
+    "Instrument Panel.md",
     "notes/Your experience with Twitter Blue - Twitter, Inc. Space.md",
     "notes/Notes-Twitter Blue Review.md",
-    "Instrument Panel.md",
+    "notes/1Password Twitter Space.md",
+    "notes/Notes-1Password 8.md",
+    "notes/Untitled.md",
     "correspondence/GitHub Feedback - Future of GitHub Wikis.md",
     "social/1Password-1Password 8 for Windows is here! 😍 All-new design🌗 Dark mode👩‍💻 Productivity boosters🔐 Top-notch security, and so much moreGet started httpst.coXgE2jgaO44 httpst.coMKZVmhMB5C.md",
-    "notes/Notes-1Password 8.md",
     "video/1Password8TwitterVideo.mp4",
-    "notes/Futureland - 1.md",
-    "social/NeoYokel-Watching Jimmy!.md",
-    "$/Pitch - Social Media Consultation.md"
+    "notes/Futureland - 1.md"
   ]
 }

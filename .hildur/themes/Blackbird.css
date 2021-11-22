@@ -50,6 +50,10 @@
   opacity: 1;
 }
 
+.suggestion-item.is-selected {
+  background-color: var(--text-selection);
+}
+
 /* 3. Editor and preview */
 .cm-s-obsidian,
 .markdown-preview-view {

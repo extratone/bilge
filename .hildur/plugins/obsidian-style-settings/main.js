@@ -3733,6 +3733,102 @@ var pickr_min = createCommonjsModule(function (module, exports) {
 
 var Pickr = /*@__PURE__*/getDefaultExportFromCjs(pickr_min);
 
+const ar = {};
+
+const cz = {};
+
+const da = {};
+
+const de = {
+    "Default:": "Standard:",
+    "Error:": "Fehler:",
+    "missing default light value, or value is not in a valid color format": "Fehlender heller standard Wert oder Wert ist in keinem validen Farb-Format",
+    "missing default dark value, or value is not in a valid color format": "Fehlender dunkler standard Wert oder Wert ist in keinem validen Farb-Format",
+    "missing default value, or value is not in a valid color format": "Fehlender standard Wert oder Wert ist in keinem validen Farb-Format",
+    "missing default value": "Fehlender standard Wert",
+};
+
+const en = {
+    "Default:": "Default:",
+    "Error:": "Error:",
+    "missing default light value, or value is not in a valid color format": "missing default light value, or value is not in a valid color format",
+    "missing default dark value, or value is not in a valid color format": "missing default dark value, or value is not in a valid color format",
+    "missing default value, or value is not in a valid color format": "missing default value, or value is not in a valid color format",
+    "missing default value": "missing default value",
+};
+
+const es = {};
+
+const fr = {};
+
+const hi = {};
+
+const id = {};
+
+const it = {};
+
+const ja = {};
+
+const ko = {};
+
+const nl = {};
+
+const no = {};
+
+const pl = {};
+
+const pt = {};
+
+const ptBr = {};
+
+const ro = {};
+
+const ru = {};
+
+const sq = {};
+
+const tr = {};
+
+const uk = {};
+
+const zh = {};
+
+const zhTw = {};
+
+const lang = window.localStorage.getItem("language");
+const localeMap = {
+    ar,
+    cz,
+    da,
+    de,
+    es,
+    fr,
+    hi,
+    id,
+    it,
+    ja,
+    ko,
+    nl,
+    no,
+    pl,
+    "pt-BR": ptBr,
+    pt,
+    ro,
+    ru,
+    sq,
+    tr,
+    uk,
+    "zh-TW": zhTw,
+    zh,
+};
+const locale = localeMap[lang || "en"];
+function t(str) {
+    if (!locale) {
+        console.error("Error: Style Settings locale not found", lang);
+    }
+    return (locale && locale[str]) || en[str];
+}
+
 const resetTooltip = "Restore default";
 function sanitizeText(str) {
     if (str === "") {
@@ -3747,7 +3843,7 @@ function createDescription(description, def, defLabel) {
     }
     if (def) {
         const small = createEl("small");
-        small.appendChild(createEl("strong", { text: "Default: " }));
+        small.appendChild(createEl("strong", { text: `${t('Default:')} ` }));
         small.appendChild(document.createTextNode(defLabel || def));
         const div = createEl("div");
         div.appendChild(small);
@@ -3755,12 +3851,24 @@ function createDescription(description, def, defLabel) {
     }
     return fragment;
 }
+function getTitle(config) {
+    if (lang) {
+        return config[`title.${lang}`] || config.title;
+    }
+    return config.title;
+}
+function getDescription(config) {
+    if (lang) {
+        return config[`description.${lang}`] || config.description;
+    }
+    return config.description;
+}
 function createHeading(opts) {
     new obsidian.Setting(opts.containerEl)
         .setHeading()
         .setClass("style-settings-heading")
-        .setName(opts.config.title)
-        .setDesc(opts.config.description ? opts.config.description : "")
+        .setName(getTitle(opts.config))
+        .setDesc(getDescription(opts.config) ? getDescription(opts.config) : "")
         .then((setting) => {
         if (opts.config.collapsed)
             setting.settingEl.addClass("is-collapsed");
@@ -3787,9 +3895,9 @@ function createHeading(opts) {
                 .then((b) => {
                 b.extraSettingsEl.onClickEvent((e) => {
                     e.stopPropagation();
-                    const title = opts.sectionName === opts.config.title
-                        ? opts.config.title
-                        : `${opts.sectionName} > ${opts.config.title}`;
+                    const title = opts.sectionName === getTitle(opts.config)
+                        ? getTitle(opts.config)
+                        : `${opts.sectionName} > ${getTitle(opts.config)}`;
                     opts.settingsManager.export(title, opts.settingsManager.getSettings(opts.sectionId, opts.children));
                 });
             });
@@ -3800,8 +3908,8 @@ function createClassToggle(opts) {
     const { sectionId, config, containerEl, settingsManager } = opts;
     let toggleComponent;
     new obsidian.Setting(containerEl)
-        .setName(config.title)
-        .setDesc(config.description || "")
+        .setName(getTitle(config))
+        .setDesc(getDescription(config) || "")
         .addToggle((toggle) => {
         const value = settingsManager.getSetting(sectionId, config.id);
         toggle
@@ -3840,7 +3948,7 @@ function createClassMultiToggle(opts) {
     const { sectionId, config, containerEl, settingsManager } = opts;
     let dropdownComponent;
     if (typeof config.default !== "string") {
-        return console.error(`Error: ${config.title} missing default value`);
+        return console.error(`${t('Error:')} ${getTitle(config)} ${t('missing default value')}`);
     }
     let prevValue = settingsManager.getSetting(sectionId, config.id);
     if (prevValue === undefined && !!config.default) {
@@ -3865,8 +3973,8 @@ function createClassMultiToggle(opts) {
         defaultLabel = defaultOption.label;
     }
     new obsidian.Setting(containerEl)
-        .setName(config.title)
-        .setDesc(createDescription(config.description, config.default, defaultLabel))
+        .setName(getTitle(config))
+        .setDesc(createDescription(getDescription(config), config.default, defaultLabel))
         .addDropdown((dropdown) => {
         if (config.allowEmpty) {
             dropdown.addOption("none", "");
@@ -3914,11 +4022,11 @@ function createVariableText(opts) {
     const { sectionId, config, containerEl, settingsManager } = opts;
     let textComponent;
     if (typeof config.default !== "string") {
-        return console.error(`Error: ${config.title} missing default value`);
+        return console.error(`${t('Error:')} ${getTitle(config)} ${t('missing default value')}`);
     }
     new obsidian.Setting(containerEl)
-        .setName(config.title)
-        .setDesc(createDescription(config.description, config.default))
+        .setName(getTitle(config))
+        .setDesc(createDescription(getDescription(config), config.default))
         .addText((text) => {
         const value = settingsManager.getSetting(sectionId, config.id);
         const onChange = obsidian.debounce((value) => {
@@ -3945,11 +4053,11 @@ function createVariableNumber(opts) {
     const { sectionId, config, containerEl, settingsManager } = opts;
     let textComponent;
     if (typeof config.default !== "number") {
-        return console.error(`Error: ${config.title} missing default value`);
+        return console.error(`${t('Error:')} ${getTitle(config)} ${t('missing default value')}`);
     }
     new obsidian.Setting(containerEl)
-        .setName(config.title)
-        .setDesc(createDescription(config.description, config.default.toString(10)))
+        .setName(getTitle(config))
+        .setDesc(createDescription(getDescription(config), config.default.toString(10)))
         .addText((text) => {
         const value = settingsManager.getSetting(sectionId, config.id);
         const onChange = obsidian.debounce((value) => {
@@ -3977,11 +4085,11 @@ function createVariableNumberSlider(opts) {
     const { sectionId, config, containerEl, settingsManager } = opts;
     let sliderComponent;
     if (typeof config.default !== "number") {
-        return console.error(`Error: ${config.title} missing default value`);
+        return console.error(`${t('Error:')} ${getTitle(config)} ${t('missing default value')}`);
     }
     new obsidian.Setting(containerEl)
-        .setName(config.title)
-        .setDesc(createDescription(config.description, config.default.toString(10)))
+        .setName(getTitle(config))
+        .setDesc(createDescription(getDescription(config), config.default.toString(10)))
         .addSlider((slider) => {
         const value = settingsManager.getSetting(sectionId, config.id);
         const onChange = obsidian.debounce((value) => {
@@ -4010,7 +4118,7 @@ function createVariableSelect(opts) {
     const { sectionId, config, containerEl, settingsManager } = opts;
     let dropdownComponent;
     if (typeof config.default !== "string") {
-        return console.error(`Error: ${config.title} missing default value`);
+        return console.error(`${t('Error:')} ${getTitle(config)} ${t('missing default value')}`);
     }
     const defaultOption = config.default
         ? config.options.find((o) => {
@@ -4028,8 +4136,8 @@ function createVariableSelect(opts) {
         defaultLabel = defaultOption.label;
     }
     new obsidian.Setting(containerEl)
-        .setName(config.title)
-        .setDesc(createDescription(config.description, config.default, defaultLabel))
+        .setName(getTitle(config))
+        .setDesc(createDescription(getDescription(config), config.default, defaultLabel))
         .addDropdown((dropdown) => {
         const value = settingsManager.getSetting(sectionId, config.id);
         config.options.forEach((o) => {
@@ -4093,7 +4201,7 @@ function createVariableColor(opts) {
     const { sectionId, config, containerEl, settingsManager } = opts;
     if (typeof config.default !== "string" ||
         !isValidDefaultColor(config.default)) {
-        return console.error(`Error: ${config.title} missing default value, or value is not in a valid color format`);
+        return console.error(`${t('Error:')} ${getTitle(config)} ${t('missing default value, or value is not in a valid color format')}`);
     }
     const value = settingsManager.getSetting(sectionId, config.id);
     const swatches = [];
@@ -4105,8 +4213,8 @@ function createVariableColor(opts) {
         swatches.push(value);
     }
     new obsidian.Setting(containerEl)
-        .setName(config.title)
-        .setDesc(createDescription(config.description, config.default))
+        .setName(getTitle(config))
+        .setDesc(createDescription(getDescription(config), config.default))
         .then((setting) => {
         setting.settingEl.dataset.id = opts.config.id;
         pickr = Pickr.create(getPickrSettings({
@@ -4143,11 +4251,11 @@ function createVariableThemedColor(opts) {
     const { sectionId, config, containerEl, settingsManager } = opts;
     if (typeof config["default-light"] !== "string" ||
         !isValidDefaultColor(config["default-light"])) {
-        return console.error(`Error: ${config.title} missing default light value, or value is not in a valid color format`);
+        return console.error(`${t('Error:')} ${getTitle(config)} ${t('missing default light value, or value is not in a valid color format')}`);
     }
     if (typeof config["default-dark"] !== "string" ||
         !isValidDefaultColor(config["default-dark"])) {
-        return console.error(`Error: ${config.title} missing default dark value, or value is not in a valid color format`);
+        return console.error(`${t('Error:')} ${getTitle(config)} ${t('missing default dark value, or value is not in a valid color format')}`);
     }
     const idLight = `${config.id}@@light`;
     const idDark = `${config.id}@@dark`;
@@ -4177,13 +4285,13 @@ function createVariableThemedColor(opts) {
         instance.addSwatch(color.toHEXA().toString());
     };
     new obsidian.Setting(containerEl)
-        .setName(config.title)
+        .setName(getTitle(config))
         .then((setting) => {
         setting.settingEl.dataset.id = opts.config.id;
         // Construct description
         setting.descEl.createSpan({}, (span) => {
-            if (config.description) {
-                span.appendChild(document.createTextNode(config.description));
+            if (getDescription(config)) {
+                span.appendChild(document.createTextNode(getDescription(config)));
             }
         });
         setting.descEl.createDiv({}, (div) => {

@@ -136,7 +136,7 @@ var en = {
     "Stroke Array Desc": "Node link color base on this value or random color",
     "Save fail": "Save data err",
     "Save success": "Save data success",
-    "Toggle mardkown/mindmap": "Toggle mardkown/mindmap mode"
+    "Toggle mardkown/mindmap": "Toggle to mardkown/mindmap mode"
 };
 
 // British English
@@ -7768,7 +7768,7 @@ class MindMap {
         this.contentEL.style.fontSize = `${this.setting.fontSize}px`;
     }
     //create node
-    init() {
+    init(collapsedIds) {
         var that = this;
         var data = this.data;
         var x = this.setting.canvasSize / 2 - 60;
@@ -7776,6 +7776,12 @@ class MindMap {
         function initNode(d, isRoot, p) {
             that._nodeNum++;
             var n = new Node(d, that);
+            if (collapsedIds && collapsedIds.includes(n.getId())) {
+                n.isExpand = false;
+            }
+            if (p && (!p.isExpand || p.isHide)) {
+                n.isHide = true;
+            }
             that.contentEL.appendChild(n.containEl);
             if (isRoot) {
                 n.setPosition(x, y);
@@ -7810,12 +7816,14 @@ class MindMap {
     }
     traverseDF(callback, node, cbFirst) {
         function recurse(currentNode) {
-            if (currentNode && currentNode.children) {
+            if (currentNode) {
                 if (cbFirst) {
                     callback(currentNode);
                 }
-                for (var i = 0, length = currentNode.children.length; i < length; i++) {
-                    recurse(currentNode.children[i]);
+                if (currentNode.children) {
+                    for (var i = 0, length = currentNode.children.length; i < length; i++) {
+                        recurse(currentNode.children[i]);
+                    }
                 }
                 if (!cbFirst) {
                     callback(currentNode);
@@ -8584,12 +8592,13 @@ class MindMap {
             if (l > 1) {
                 hPrefix = '\n';
             }
+            const ending = n.isExpand ? '' : ` ^${n.getId()}`;
             if (n.getLevel() < level) {
                 for (let i = 0; i < l; i++) {
                     hPrefix += '#';
                 }
                 md += (hPrefix + ' ');
-                md += n.getData().text.trim() + '\n';
+                md += n.getData().text.trim() + ending + '\n';
             }
             else {
                 for (var i = 0; i < n.getLevel() - level; i++) {
@@ -8600,22 +8609,24 @@ class MindMap {
                     var textArr = text.split('\n');
                     var lineLength = textArr.length;
                     if (lineLength == 1) {
-                        md += `${space}- ${text}\n`;
+                        md += `${space}- ${text}${ending}\n`;
                     }
                     else if (lineLength > 1) {
                         //code
                         if (text.startsWith('```')) {
+                            md += '\n';
                             md += `${space}-\n`;
                             textArr.forEach((t, i) => {
-                                md += `${space}  ${t.trim()}\n`;
+                                md += `${space}  ${t.trim()}${i === textArr.length - 1 ? ending : ''}\n`;
                             });
+                            md += '\n';
                         }
                         else {
                             //text
                             md += `${space}- `;
                             textArr.forEach((t, i) => {
                                 if (i > 0) {
-                                    md += `${space}   ${t.trim()}\n`;
+                                    md += `${space}   ${t.trim()}${i === textArr.length - 1 ? ending : ''}\n`;
                                 }
                                 else {
                                     md += `${t.trim()}\n`;
@@ -9528,558 +9539,6 @@ var DocumentFragment = /*#__PURE__*/function () {
 
   return DocumentFragment;
 }();
-/**
- * These objects store the data about the DOM nodes we create, as well as some
- * extra data. They can then be transformed into real DOM nodes with the
- * `toNode` function or HTML markup using `toMarkup`. They are useful for both
- * storing extra properties on the nodes, as well as providing a way to easily
- * work with the DOM.
- *
- * Similar functions for working with MathML nodes exist in mathMLTree.js.
- *
- * TODO: refactor `span` and `anchor` into common superclass when
- * target environments support class inheritance
- */
-
-
-
-
-
-/**
- * Create an HTML className based on a list of classes. In addition to joining
- * with spaces, we also remove empty classes.
- */
-var createClass = function createClass(classes) {
-  return classes.filter(function (cls) {
-    return cls;
-  }).join(" ");
-};
-
-var initNode = function initNode(classes, options, style) {
-  this.classes = classes || [];
-  this.attributes = {};
-  this.height = 0;
-  this.depth = 0;
-  this.maxFontSize = 0;
-  this.style = style || {};
-
-  if (options) {
-    if (options.style.isTight()) {
-      this.classes.push("mtight");
-    }
-
-    var color = options.getColor();
-
-    if (color) {
-      this.style.color = color;
-    }
-  }
-};
-/**
- * Convert into an HTML node
- */
-
-
-var _toNode = function toNode(tagName) {
-  var node = document.createElement(tagName); // Apply the class
-
-  node.className = createClass(this.classes); // Apply inline styles
-
-  for (var style in this.style) {
-    if (this.style.hasOwnProperty(style)) {
-      // $FlowFixMe Flow doesn't seem to understand span.style's type.
-      node.style[style] = this.style[style];
-    }
-  } // Apply attributes
-
-
-  for (var attr in this.attributes) {
-    if (this.attributes.hasOwnProperty(attr)) {
-      node.setAttribute(attr, this.attributes[attr]);
-    }
-  } // Append the children, also as HTML nodes
-
-
-  for (var i = 0; i < this.children.length; i++) {
-    node.appendChild(this.children[i].toNode());
-  }
-
-  return node;
-};
-/**
- * Convert into an HTML markup string
- */
-
-
-var _toMarkup = function toMarkup(tagName) {
-  var markup = "<" + tagName; // Add the class
-
-  if (this.classes.length) {
-    markup += " class=\"" + utils.escape(createClass(this.classes)) + "\"";
-  }
-
-  var styles = ""; // Add the styles, after hyphenation
-
-  for (var style in this.style) {
-    if (this.style.hasOwnProperty(style)) {
-      styles += utils.hyphenate(style) + ":" + this.style[style] + ";";
-    }
-  }
-
-  if (styles) {
-    markup += " style=\"" + utils.escape(styles) + "\"";
-  } // Add the attributes
-
-
-  for (var attr in this.attributes) {
-    if (this.attributes.hasOwnProperty(attr)) {
-      markup += " " + attr + "=\"" + utils.escape(this.attributes[attr]) + "\"";
-    }
-  }
-
-  markup += ">"; // Add the markup of the children, also as markup
-
-  for (var i = 0; i < this.children.length; i++) {
-    markup += this.children[i].toMarkup();
-  }
-
-  markup += "</" + tagName + ">";
-  return markup;
-}; // Making the type below exact with all optional fields doesn't work due to
-// - https://github.com/facebook/flow/issues/4582
-// - https://github.com/facebook/flow/issues/5688
-// However, since *all* fields are optional, $Shape<> works as suggested in 5688
-// above.
-// This type does not include all CSS properties. Additional properties should
-// be added as needed.
-
-
-/**
- * This node represents a span node, with a className, a list of children, and
- * an inline style. It also contains information about its height, depth, and
- * maxFontSize.
- *
- * Represents two types with different uses: SvgSpan to wrap an SVG and DomSpan
- * otherwise. This typesafety is important when HTML builders access a span's
- * children.
- */
-var Span = /*#__PURE__*/function () {
-  function Span(classes, children, options, style) {
-    this.children = void 0;
-    this.attributes = void 0;
-    this.classes = void 0;
-    this.height = void 0;
-    this.depth = void 0;
-    this.width = void 0;
-    this.maxFontSize = void 0;
-    this.style = void 0;
-    initNode.call(this, classes, options, style);
-    this.children = children || [];
-  }
-  /**
-   * Sets an arbitrary attribute on the span. Warning: use this wisely. Not
-   * all browsers support attributes the same, and having too many custom
-   * attributes is probably bad.
-   */
-
-
-  var _proto = Span.prototype;
-
-  _proto.setAttribute = function setAttribute(attribute, value) {
-    this.attributes[attribute] = value;
-  };
-
-  _proto.hasClass = function hasClass(className) {
-    return utils.contains(this.classes, className);
-  };
-
-  _proto.toNode = function toNode() {
-    return _toNode.call(this, "span");
-  };
-
-  _proto.toMarkup = function toMarkup() {
-    return _toMarkup.call(this, "span");
-  };
-
-  return Span;
-}();
-/**
- * This node represents an anchor (<a>) element with a hyperlink.  See `span`
- * for further details.
- */
-
-var Anchor = /*#__PURE__*/function () {
-  function Anchor(href, classes, children, options) {
-    this.children = void 0;
-    this.attributes = void 0;
-    this.classes = void 0;
-    this.height = void 0;
-    this.depth = void 0;
-    this.maxFontSize = void 0;
-    this.style = void 0;
-    initNode.call(this, classes, options);
-    this.children = children || [];
-    this.setAttribute('href', href);
-  }
-
-  var _proto2 = Anchor.prototype;
-
-  _proto2.setAttribute = function setAttribute(attribute, value) {
-    this.attributes[attribute] = value;
-  };
-
-  _proto2.hasClass = function hasClass(className) {
-    return utils.contains(this.classes, className);
-  };
-
-  _proto2.toNode = function toNode() {
-    return _toNode.call(this, "a");
-  };
-
-  _proto2.toMarkup = function toMarkup() {
-    return _toMarkup.call(this, "a");
-  };
-
-  return Anchor;
-}();
-/**
- * This node represents an image embed (<img>) element.
- */
-
-var Img = /*#__PURE__*/function () {
-  function Img(src, alt, style) {
-    this.src = void 0;
-    this.alt = void 0;
-    this.classes = void 0;
-    this.height = void 0;
-    this.depth = void 0;
-    this.maxFontSize = void 0;
-    this.style = void 0;
-    this.alt = alt;
-    this.src = src;
-    this.classes = ["mord"];
-    this.style = style;
-  }
-
-  var _proto3 = Img.prototype;
-
-  _proto3.hasClass = function hasClass(className) {
-    return utils.contains(this.classes, className);
-  };
-
-  _proto3.toNode = function toNode() {
-    var node = document.createElement("img");
-    node.src = this.src;
-    node.alt = this.alt;
-    node.className = "mord"; // Apply inline styles
-
-    for (var style in this.style) {
-      if (this.style.hasOwnProperty(style)) {
-        // $FlowFixMe
-        node.style[style] = this.style[style];
-      }
-    }
-
-    return node;
-  };
-
-  _proto3.toMarkup = function toMarkup() {
-    var markup = "<img  src='" + this.src + " 'alt='" + this.alt + "' "; // Add the styles, after hyphenation
-
-    var styles = "";
-
-    for (var style in this.style) {
-      if (this.style.hasOwnProperty(style)) {
-        styles += utils.hyphenate(style) + ":" + this.style[style] + ";";
-      }
-    }
-
-    if (styles) {
-      markup += " style=\"" + utils.escape(styles) + "\"";
-    }
-
-    markup += "'/>";
-    return markup;
-  };
-
-  return Img;
-}();
-var iCombinations = {
-  'î': "\u0131\u0302",
-  'ï': "\u0131\u0308",
-  'í': "\u0131\u0301",
-  // 'ī': '\u0131\u0304', // enable when we add Extended Latin
-  'ì': "\u0131\u0300"
-};
-/**
- * A symbol node contains information about a single symbol. It either renders
- * to a single text node, or a span with a single text node in it, depending on
- * whether it has CSS classes, styles, or needs italic correction.
- */
-
-var SymbolNode = /*#__PURE__*/function () {
-  function SymbolNode(text, height, depth, italic, skew, width, classes, style) {
-    this.text = void 0;
-    this.height = void 0;
-    this.depth = void 0;
-    this.italic = void 0;
-    this.skew = void 0;
-    this.width = void 0;
-    this.maxFontSize = void 0;
-    this.classes = void 0;
-    this.style = void 0;
-    this.text = text;
-    this.height = height || 0;
-    this.depth = depth || 0;
-    this.italic = italic || 0;
-    this.skew = skew || 0;
-    this.width = width || 0;
-    this.classes = classes || [];
-    this.style = style || {};
-    this.maxFontSize = 0; // Mark text from non-Latin scripts with specific classes so that we
-    // can specify which fonts to use.  This allows us to render these
-    // characters with a serif font in situations where the browser would
-    // either default to a sans serif or render a placeholder character.
-    // We use CSS class names like cjk_fallback, hangul_fallback and
-    // brahmic_fallback. See ./unicodeScripts.js for the set of possible
-    // script names
-
-    var script = scriptFromCodepoint(this.text.charCodeAt(0));
-
-    if (script) {
-      this.classes.push(script + "_fallback");
-    }
-
-    if (/[îïíì]/.test(this.text)) {
-      // add ī when we add Extended Latin
-      this.text = iCombinations[this.text];
-    }
-  }
-
-  var _proto4 = SymbolNode.prototype;
-
-  _proto4.hasClass = function hasClass(className) {
-    return utils.contains(this.classes, className);
-  }
-  /**
-   * Creates a text node or span from a symbol node. Note that a span is only
-   * created if it is needed.
-   */
-  ;
-
-  _proto4.toNode = function toNode() {
-    var node = document.createTextNode(this.text);
-    var span = null;
-
-    if (this.italic > 0) {
-      span = document.createElement("span");
-      span.style.marginRight = this.italic + "em";
-    }
-
-    if (this.classes.length > 0) {
-      span = span || document.createElement("span");
-      span.className = createClass(this.classes);
-    }
-
-    for (var style in this.style) {
-      if (this.style.hasOwnProperty(style)) {
-        span = span || document.createElement("span"); // $FlowFixMe Flow doesn't seem to understand span.style's type.
-
-        span.style[style] = this.style[style];
-      }
-    }
-
-    if (span) {
-      span.appendChild(node);
-      return span;
-    } else {
-      return node;
-    }
-  }
-  /**
-   * Creates markup for a symbol node.
-   */
-  ;
-
-  _proto4.toMarkup = function toMarkup() {
-    // TODO(alpert): More duplication than I'd like from
-    // span.prototype.toMarkup and symbolNode.prototype.toNode...
-    var needsSpan = false;
-    var markup = "<span";
-
-    if (this.classes.length) {
-      needsSpan = true;
-      markup += " class=\"";
-      markup += utils.escape(createClass(this.classes));
-      markup += "\"";
-    }
-
-    var styles = "";
-
-    if (this.italic > 0) {
-      styles += "margin-right:" + this.italic + "em;";
-    }
-
-    for (var style in this.style) {
-      if (this.style.hasOwnProperty(style)) {
-        styles += utils.hyphenate(style) + ":" + this.style[style] + ";";
-      }
-    }
-
-    if (styles) {
-      needsSpan = true;
-      markup += " style=\"" + utils.escape(styles) + "\"";
-    }
-
-    var escaped = utils.escape(this.text);
-
-    if (needsSpan) {
-      markup += ">";
-      markup += escaped;
-      markup += "</span>";
-      return markup;
-    } else {
-      return escaped;
-    }
-  };
-
-  return SymbolNode;
-}();
-/**
- * SVG nodes are used to render stretchy wide elements.
- */
-
-var SvgNode = /*#__PURE__*/function () {
-  function SvgNode(children, attributes) {
-    this.children = void 0;
-    this.attributes = void 0;
-    this.children = children || [];
-    this.attributes = attributes || {};
-  }
-
-  var _proto5 = SvgNode.prototype;
-
-  _proto5.toNode = function toNode() {
-    var svgNS = "http://www.w3.org/2000/svg";
-    var node = document.createElementNS(svgNS, "svg"); // Apply attributes
-
-    for (var attr in this.attributes) {
-      if (Object.prototype.hasOwnProperty.call(this.attributes, attr)) {
-        node.setAttribute(attr, this.attributes[attr]);
-      }
-    }
-
-    for (var i = 0; i < this.children.length; i++) {
-      node.appendChild(this.children[i].toNode());
-    }
-
-    return node;
-  };
-
-  _proto5.toMarkup = function toMarkup() {
-    var markup = "<svg xmlns=\"http://www.w3.org/2000/svg\""; // Apply attributes
-
-    for (var attr in this.attributes) {
-      if (Object.prototype.hasOwnProperty.call(this.attributes, attr)) {
-        markup += " " + attr + "='" + this.attributes[attr] + "'";
-      }
-    }
-
-    markup += ">";
-
-    for (var i = 0; i < this.children.length; i++) {
-      markup += this.children[i].toMarkup();
-    }
-
-    markup += "</svg>";
-    return markup;
-  };
-
-  return SvgNode;
-}();
-var PathNode = /*#__PURE__*/function () {
-  function PathNode(pathName, alternate) {
-    this.pathName = void 0;
-    this.alternate = void 0;
-    this.pathName = pathName;
-    this.alternate = alternate; // Used only for \sqrt, \phase, & tall delims
-  }
-
-  var _proto6 = PathNode.prototype;
-
-  _proto6.toNode = function toNode() {
-    var svgNS = "http://www.w3.org/2000/svg";
-    var node = document.createElementNS(svgNS, "path");
-
-    if (this.alternate) {
-      node.setAttribute("d", this.alternate);
-    } else {
-      node.setAttribute("d", path[this.pathName]);
-    }
-
-    return node;
-  };
-
-  _proto6.toMarkup = function toMarkup() {
-    if (this.alternate) {
-      return "<path d='" + this.alternate + "'/>";
-    } else {
-      return "<path d='" + path[this.pathName] + "'/>";
-    }
-  };
-
-  return PathNode;
-}();
-var LineNode = /*#__PURE__*/function () {
-  function LineNode(attributes) {
-    this.attributes = void 0;
-    this.attributes = attributes || {};
-  }
-
-  var _proto7 = LineNode.prototype;
-
-  _proto7.toNode = function toNode() {
-    var svgNS = "http://www.w3.org/2000/svg";
-    var node = document.createElementNS(svgNS, "line"); // Apply attributes
-
-    for (var attr in this.attributes) {
-      if (Object.prototype.hasOwnProperty.call(this.attributes, attr)) {
-        node.setAttribute(attr, this.attributes[attr]);
-      }
-    }
-
-    return node;
-  };
-
-  _proto7.toMarkup = function toMarkup() {
-    var markup = "<line";
-
-    for (var attr in this.attributes) {
-      if (Object.prototype.hasOwnProperty.call(this.attributes, attr)) {
-        markup += " " + attr + "='" + this.attributes[attr] + "'";
-      }
-    }
-
-    markup += "/>";
-    return markup;
-  };
-
-  return LineNode;
-}();
-function assertSymbolDomNode(group) {
-  if (group instanceof SymbolNode) {
-    return group;
-  } else {
-    throw new Error("Expected symbolNode but got " + String(group) + ".");
-  }
-}
-function assertSpan(group) {
-  if (group instanceof Span) {
-    return group;
-  } else {
-    throw new Error("Expected span<HtmlDomNode> but got " + String(group) + ".");
-  }
-}
 // This file is GENERATED by buildMetrics.sh. DO NOT MODIFY.
 /* harmony default export */ var fontMetricsData = ({
   "AMS-Regular": {
@@ -10664,6 +10123,7 @@ function assertSpan(group) {
     "8764": [-0.10889, 0.39111, 0, 0, 0.89444],
     "8768": [0.19444, 0.69444, 0, 0, 0.31944],
     "8771": [0.00222, 0.50222, 0, 0, 0.89444],
+    "8773": [0.027, 0.638, 0, 0, 0.894],
     "8776": [0.02444, 0.52444, 0, 0, 0.89444],
     "8781": [0.00222, 0.50222, 0, 0, 0.89444],
     "8801": [0.00222, 0.50222, 0, 0, 0.89444],
@@ -11181,7 +10641,7 @@ function assertSpan(group) {
     "8764": [-0.13313, 0.36687, 0, 0, 0.77778],
     "8768": [0.19444, 0.69444, 0, 0, 0.27778],
     "8771": [-0.03625, 0.46375, 0, 0, 0.77778],
-    "8773": [-0.022, 0.589, 0, 0, 1.0],
+    "8773": [-0.022, 0.589, 0, 0, 0.778],
     "8776": [-0.01688, 0.48312, 0, 0, 0.77778],
     "8781": [-0.03625, 0.46375, 0, 0, 0.77778],
     "8784": [-0.133, 0.673, 0, 0, 0.778],
@@ -12439,6 +11899,993 @@ function getGlobalMetrics(size) {
   return fontMetricsBySizeIndex[sizeIndex];
 }
 /**
+ * This file contains information about the options that the Parser carries
+ * around with it while parsing. Data is held in an `Options` object, and when
+ * recursing, a new `Options` object can be created with the `.with*` and
+ * `.reset` functions.
+ */
+
+var sizeStyleMap = [// Each element contains [textsize, scriptsize, scriptscriptsize].
+// The size mappings are taken from TeX with \normalsize=10pt.
+[1, 1, 1], // size1: [5, 5, 5]              \tiny
+[2, 1, 1], // size2: [6, 5, 5]
+[3, 1, 1], // size3: [7, 5, 5]              \scriptsize
+[4, 2, 1], // size4: [8, 6, 5]              \footnotesize
+[5, 2, 1], // size5: [9, 6, 5]              \small
+[6, 3, 1], // size6: [10, 7, 5]             \normalsize
+[7, 4, 2], // size7: [12, 8, 6]             \large
+[8, 6, 3], // size8: [14.4, 10, 7]          \Large
+[9, 7, 6], // size9: [17.28, 12, 10]        \LARGE
+[10, 8, 7], // size10: [20.74, 14.4, 12]     \huge
+[11, 10, 9] // size11: [24.88, 20.74, 17.28] \HUGE
+];
+var sizeMultipliers = [// fontMetrics.js:getGlobalMetrics also uses size indexes, so if
+// you change size indexes, change that function.
+0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.2, 1.44, 1.728, 2.074, 2.488];
+
+var sizeAtStyle = function sizeAtStyle(size, style) {
+  return style.size < 2 ? size : sizeStyleMap[size - 1][style.size - 1];
+}; // In these types, "" (empty string) means "no change".
+
+
+/**
+ * This is the main options class. It contains the current style, size, color,
+ * and font.
+ *
+ * Options objects should not be modified. To create a new Options with
+ * different properties, call a `.having*` method.
+ */
+var Options = /*#__PURE__*/function () {
+  // A font family applies to a group of fonts (i.e. SansSerif), while a font
+  // represents a specific font (i.e. SansSerif Bold).
+  // See: https://tex.stackexchange.com/questions/22350/difference-between-textrm-and-mathrm
+
+  /**
+   * The base size index.
+   */
+  function Options(data) {
+    this.style = void 0;
+    this.color = void 0;
+    this.size = void 0;
+    this.textSize = void 0;
+    this.phantom = void 0;
+    this.font = void 0;
+    this.fontFamily = void 0;
+    this.fontWeight = void 0;
+    this.fontShape = void 0;
+    this.sizeMultiplier = void 0;
+    this.maxSize = void 0;
+    this.minRuleThickness = void 0;
+    this._fontMetrics = void 0;
+    this.style = data.style;
+    this.color = data.color;
+    this.size = data.size || Options.BASESIZE;
+    this.textSize = data.textSize || this.size;
+    this.phantom = !!data.phantom;
+    this.font = data.font || "";
+    this.fontFamily = data.fontFamily || "";
+    this.fontWeight = data.fontWeight || '';
+    this.fontShape = data.fontShape || '';
+    this.sizeMultiplier = sizeMultipliers[this.size - 1];
+    this.maxSize = data.maxSize;
+    this.minRuleThickness = data.minRuleThickness;
+    this._fontMetrics = undefined;
+  }
+  /**
+   * Returns a new options object with the same properties as "this".  Properties
+   * from "extension" will be copied to the new options object.
+   */
+
+
+  var _proto = Options.prototype;
+
+  _proto.extend = function extend(extension) {
+    var data = {
+      style: this.style,
+      size: this.size,
+      textSize: this.textSize,
+      color: this.color,
+      phantom: this.phantom,
+      font: this.font,
+      fontFamily: this.fontFamily,
+      fontWeight: this.fontWeight,
+      fontShape: this.fontShape,
+      maxSize: this.maxSize,
+      minRuleThickness: this.minRuleThickness
+    };
+
+    for (var key in extension) {
+      if (extension.hasOwnProperty(key)) {
+        data[key] = extension[key];
+      }
+    }
+
+    return new Options(data);
+  }
+  /**
+   * Return an options object with the given style. If `this.style === style`,
+   * returns `this`.
+   */
+  ;
+
+  _proto.havingStyle = function havingStyle(style) {
+    if (this.style === style) {
+      return this;
+    } else {
+      return this.extend({
+        style: style,
+        size: sizeAtStyle(this.textSize, style)
+      });
+    }
+  }
+  /**
+   * Return an options object with a cramped version of the current style. If
+   * the current style is cramped, returns `this`.
+   */
+  ;
+
+  _proto.havingCrampedStyle = function havingCrampedStyle() {
+    return this.havingStyle(this.style.cramp());
+  }
+  /**
+   * Return an options object with the given size and in at least `\textstyle`.
+   * Returns `this` if appropriate.
+   */
+  ;
+
+  _proto.havingSize = function havingSize(size) {
+    if (this.size === size && this.textSize === size) {
+      return this;
+    } else {
+      return this.extend({
+        style: this.style.text(),
+        size: size,
+        textSize: size,
+        sizeMultiplier: sizeMultipliers[size - 1]
+      });
+    }
+  }
+  /**
+   * Like `this.havingSize(BASESIZE).havingStyle(style)`. If `style` is omitted,
+   * changes to at least `\textstyle`.
+   */
+  ;
+
+  _proto.havingBaseStyle = function havingBaseStyle(style) {
+    style = style || this.style.text();
+    var wantSize = sizeAtStyle(Options.BASESIZE, style);
+
+    if (this.size === wantSize && this.textSize === Options.BASESIZE && this.style === style) {
+      return this;
+    } else {
+      return this.extend({
+        style: style,
+        size: wantSize
+      });
+    }
+  }
+  /**
+   * Remove the effect of sizing changes such as \Huge.
+   * Keep the effect of the current style, such as \scriptstyle.
+   */
+  ;
+
+  _proto.havingBaseSizing = function havingBaseSizing() {
+    var size;
+
+    switch (this.style.id) {
+      case 4:
+      case 5:
+        size = 3; // normalsize in scriptstyle
+
+        break;
+
+      case 6:
+      case 7:
+        size = 1; // normalsize in scriptscriptstyle
+
+        break;
+
+      default:
+        size = 6;
+      // normalsize in textstyle or displaystyle
+    }
+
+    return this.extend({
+      style: this.style.text(),
+      size: size
+    });
+  }
+  /**
+   * Create a new options object with the given color.
+   */
+  ;
+
+  _proto.withColor = function withColor(color) {
+    return this.extend({
+      color: color
+    });
+  }
+  /**
+   * Create a new options object with "phantom" set to true.
+   */
+  ;
+
+  _proto.withPhantom = function withPhantom() {
+    return this.extend({
+      phantom: true
+    });
+  }
+  /**
+   * Creates a new options object with the given math font or old text font.
+   * @type {[type]}
+   */
+  ;
+
+  _proto.withFont = function withFont(font) {
+    return this.extend({
+      font: font
+    });
+  }
+  /**
+   * Create a new options objects with the given fontFamily.
+   */
+  ;
+
+  _proto.withTextFontFamily = function withTextFontFamily(fontFamily) {
+    return this.extend({
+      fontFamily: fontFamily,
+      font: ""
+    });
+  }
+  /**
+   * Creates a new options object with the given font weight
+   */
+  ;
+
+  _proto.withTextFontWeight = function withTextFontWeight(fontWeight) {
+    return this.extend({
+      fontWeight: fontWeight,
+      font: ""
+    });
+  }
+  /**
+   * Creates a new options object with the given font weight
+   */
+  ;
+
+  _proto.withTextFontShape = function withTextFontShape(fontShape) {
+    return this.extend({
+      fontShape: fontShape,
+      font: ""
+    });
+  }
+  /**
+   * Return the CSS sizing classes required to switch from enclosing options
+   * `oldOptions` to `this`. Returns an array of classes.
+   */
+  ;
+
+  _proto.sizingClasses = function sizingClasses(oldOptions) {
+    if (oldOptions.size !== this.size) {
+      return ["sizing", "reset-size" + oldOptions.size, "size" + this.size];
+    } else {
+      return [];
+    }
+  }
+  /**
+   * Return the CSS sizing classes required to switch to the base size. Like
+   * `this.havingSize(BASESIZE).sizingClasses(this)`.
+   */
+  ;
+
+  _proto.baseSizingClasses = function baseSizingClasses() {
+    if (this.size !== Options.BASESIZE) {
+      return ["sizing", "reset-size" + this.size, "size" + Options.BASESIZE];
+    } else {
+      return [];
+    }
+  }
+  /**
+   * Return the font metrics for this size.
+   */
+  ;
+
+  _proto.fontMetrics = function fontMetrics() {
+    if (!this._fontMetrics) {
+      this._fontMetrics = getGlobalMetrics(this.size);
+    }
+
+    return this._fontMetrics;
+  }
+  /**
+   * Gets the CSS color of the current options object
+   */
+  ;
+
+  _proto.getColor = function getColor() {
+    if (this.phantom) {
+      return "transparent";
+    } else {
+      return this.color;
+    }
+  };
+
+  return Options;
+}();
+
+Options.BASESIZE = 6;
+/* harmony default export */ var src_Options = (Options);
+/**
+ * This file does conversion between units.  In particular, it provides
+ * calculateSize to convert other units into ems.
+ */
+
+ // This table gives the number of TeX pts in one of each *absolute* TeX unit.
+// Thus, multiplying a length by this number converts the length from units
+// into pts.  Dividing the result by ptPerEm gives the number of ems
+// *assuming* a font size of ptPerEm (normal size, normal style).
+
+var ptPerUnit = {
+  // https://en.wikibooks.org/wiki/LaTeX/Lengths and
+  // https://tex.stackexchange.com/a/8263
+  "pt": 1,
+  // TeX point
+  "mm": 7227 / 2540,
+  // millimeter
+  "cm": 7227 / 254,
+  // centimeter
+  "in": 72.27,
+  // inch
+  "bp": 803 / 800,
+  // big (PostScript) points
+  "pc": 12,
+  // pica
+  "dd": 1238 / 1157,
+  // didot
+  "cc": 14856 / 1157,
+  // cicero (12 didot)
+  "nd": 685 / 642,
+  // new didot
+  "nc": 1370 / 107,
+  // new cicero (12 new didot)
+  "sp": 1 / 65536,
+  // scaled point (TeX's internal smallest unit)
+  // https://tex.stackexchange.com/a/41371
+  "px": 803 / 800 // \pdfpxdimen defaults to 1 bp in pdfTeX and LuaTeX
+
+}; // Dictionary of relative units, for fast validity testing.
+
+var relativeUnit = {
+  "ex": true,
+  "em": true,
+  "mu": true
+};
+
+/**
+ * Determine whether the specified unit (either a string defining the unit
+ * or a "size" parse node containing a unit field) is valid.
+ */
+var validUnit = function validUnit(unit) {
+  if (typeof unit !== "string") {
+    unit = unit.unit;
+  }
+
+  return unit in ptPerUnit || unit in relativeUnit || unit === "ex";
+};
+/*
+ * Convert a "size" parse node (with numeric "number" and string "unit" fields,
+ * as parsed by functions.js argType "size") into a CSS em value for the
+ * current style/scale.  `options` gives the current options.
+ */
+
+var calculateSize = function calculateSize(sizeValue, options) {
+  var scale;
+
+  if (sizeValue.unit in ptPerUnit) {
+    // Absolute units
+    scale = ptPerUnit[sizeValue.unit] // Convert unit to pt
+    / options.fontMetrics().ptPerEm // Convert pt to CSS em
+    / options.sizeMultiplier; // Unscale to make absolute units
+  } else if (sizeValue.unit === "mu") {
+    // `mu` units scale with scriptstyle/scriptscriptstyle.
+    scale = options.fontMetrics().cssEmPerMu;
+  } else {
+    // Other relative units always refer to the *textstyle* font
+    // in the current size.
+    var unitOptions;
+
+    if (options.style.isTight()) {
+      // isTight() means current style is script/scriptscript.
+      unitOptions = options.havingStyle(options.style.text());
+    } else {
+      unitOptions = options;
+    } // TODO: In TeX these units are relative to the quad of the current
+    // *text* font, e.g. cmr10. KaTeX instead uses values from the
+    // comparably-sized *Computer Modern symbol* font. At 10pt, these
+    // match. At 7pt and 5pt, they differ: cmr7=1.138894, cmsy7=1.170641;
+    // cmr5=1.361133, cmsy5=1.472241. Consider $\scriptsize a\kern1emb$.
+    // TeX \showlists shows a kern of 1.13889 * fontsize;
+    // KaTeX shows a kern of 1.171 * fontsize.
+
+
+    if (sizeValue.unit === "ex") {
+      scale = unitOptions.fontMetrics().xHeight;
+    } else if (sizeValue.unit === "em") {
+      scale = unitOptions.fontMetrics().quad;
+    } else {
+      throw new src_ParseError("Invalid unit: '" + sizeValue.unit + "'");
+    }
+
+    if (unitOptions !== options) {
+      scale *= unitOptions.sizeMultiplier / options.sizeMultiplier;
+    }
+  }
+
+  return Math.min(sizeValue.number * scale, options.maxSize);
+};
+/**
+ * Round `n` to 4 decimal places, or to the nearest 1/10,000th em. See
+ * https://github.com/KaTeX/KaTeX/pull/2460.
+ */
+
+var makeEm = function makeEm(n) {
+  return +n.toFixed(4) + "em";
+};
+/**
+ * These objects store the data about the DOM nodes we create, as well as some
+ * extra data. They can then be transformed into real DOM nodes with the
+ * `toNode` function or HTML markup using `toMarkup`. They are useful for both
+ * storing extra properties on the nodes, as well as providing a way to easily
+ * work with the DOM.
+ *
+ * Similar functions for working with MathML nodes exist in mathMLTree.js.
+ *
+ * TODO: refactor `span` and `anchor` into common superclass when
+ * target environments support class inheritance
+ */
+
+
+
+
+
+
+/**
+ * Create an HTML className based on a list of classes. In addition to joining
+ * with spaces, we also remove empty classes.
+ */
+var createClass = function createClass(classes) {
+  return classes.filter(function (cls) {
+    return cls;
+  }).join(" ");
+};
+
+var initNode = function initNode(classes, options, style) {
+  this.classes = classes || [];
+  this.attributes = {};
+  this.height = 0;
+  this.depth = 0;
+  this.maxFontSize = 0;
+  this.style = style || {};
+
+  if (options) {
+    if (options.style.isTight()) {
+      this.classes.push("mtight");
+    }
+
+    var color = options.getColor();
+
+    if (color) {
+      this.style.color = color;
+    }
+  }
+};
+/**
+ * Convert into an HTML node
+ */
+
+
+var _toNode = function toNode(tagName) {
+  var node = document.createElement(tagName); // Apply the class
+
+  node.className = createClass(this.classes); // Apply inline styles
+
+  for (var style in this.style) {
+    if (this.style.hasOwnProperty(style)) {
+      // $FlowFixMe Flow doesn't seem to understand span.style's type.
+      node.style[style] = this.style[style];
+    }
+  } // Apply attributes
+
+
+  for (var attr in this.attributes) {
+    if (this.attributes.hasOwnProperty(attr)) {
+      node.setAttribute(attr, this.attributes[attr]);
+    }
+  } // Append the children, also as HTML nodes
+
+
+  for (var i = 0; i < this.children.length; i++) {
+    node.appendChild(this.children[i].toNode());
+  }
+
+  return node;
+};
+/**
+ * Convert into an HTML markup string
+ */
+
+
+var _toMarkup = function toMarkup(tagName) {
+  var markup = "<" + tagName; // Add the class
+
+  if (this.classes.length) {
+    markup += " class=\"" + utils.escape(createClass(this.classes)) + "\"";
+  }
+
+  var styles = ""; // Add the styles, after hyphenation
+
+  for (var style in this.style) {
+    if (this.style.hasOwnProperty(style)) {
+      styles += utils.hyphenate(style) + ":" + this.style[style] + ";";
+    }
+  }
+
+  if (styles) {
+    markup += " style=\"" + utils.escape(styles) + "\"";
+  } // Add the attributes
+
+
+  for (var attr in this.attributes) {
+    if (this.attributes.hasOwnProperty(attr)) {
+      markup += " " + attr + "=\"" + utils.escape(this.attributes[attr]) + "\"";
+    }
+  }
+
+  markup += ">"; // Add the markup of the children, also as markup
+
+  for (var i = 0; i < this.children.length; i++) {
+    markup += this.children[i].toMarkup();
+  }
+
+  markup += "</" + tagName + ">";
+  return markup;
+}; // Making the type below exact with all optional fields doesn't work due to
+// - https://github.com/facebook/flow/issues/4582
+// - https://github.com/facebook/flow/issues/5688
+// However, since *all* fields are optional, $Shape<> works as suggested in 5688
+// above.
+// This type does not include all CSS properties. Additional properties should
+// be added as needed.
+
+
+/**
+ * This node represents a span node, with a className, a list of children, and
+ * an inline style. It also contains information about its height, depth, and
+ * maxFontSize.
+ *
+ * Represents two types with different uses: SvgSpan to wrap an SVG and DomSpan
+ * otherwise. This typesafety is important when HTML builders access a span's
+ * children.
+ */
+var Span = /*#__PURE__*/function () {
+  function Span(classes, children, options, style) {
+    this.children = void 0;
+    this.attributes = void 0;
+    this.classes = void 0;
+    this.height = void 0;
+    this.depth = void 0;
+    this.width = void 0;
+    this.maxFontSize = void 0;
+    this.style = void 0;
+    initNode.call(this, classes, options, style);
+    this.children = children || [];
+  }
+  /**
+   * Sets an arbitrary attribute on the span. Warning: use this wisely. Not
+   * all browsers support attributes the same, and having too many custom
+   * attributes is probably bad.
+   */
+
+
+  var _proto = Span.prototype;
+
+  _proto.setAttribute = function setAttribute(attribute, value) {
+    this.attributes[attribute] = value;
+  };
+
+  _proto.hasClass = function hasClass(className) {
+    return utils.contains(this.classes, className);
+  };
+
+  _proto.toNode = function toNode() {
+    return _toNode.call(this, "span");
+  };
+
+  _proto.toMarkup = function toMarkup() {
+    return _toMarkup.call(this, "span");
+  };
+
+  return Span;
+}();
+/**
+ * This node represents an anchor (<a>) element with a hyperlink.  See `span`
+ * for further details.
+ */
+
+var Anchor = /*#__PURE__*/function () {
+  function Anchor(href, classes, children, options) {
+    this.children = void 0;
+    this.attributes = void 0;
+    this.classes = void 0;
+    this.height = void 0;
+    this.depth = void 0;
+    this.maxFontSize = void 0;
+    this.style = void 0;
+    initNode.call(this, classes, options);
+    this.children = children || [];
+    this.setAttribute('href', href);
+  }
+
+  var _proto2 = Anchor.prototype;
+
+  _proto2.setAttribute = function setAttribute(attribute, value) {
+    this.attributes[attribute] = value;
+  };
+
+  _proto2.hasClass = function hasClass(className) {
+    return utils.contains(this.classes, className);
+  };
+
+  _proto2.toNode = function toNode() {
+    return _toNode.call(this, "a");
+  };
+
+  _proto2.toMarkup = function toMarkup() {
+    return _toMarkup.call(this, "a");
+  };
+
+  return Anchor;
+}();
+/**
+ * This node represents an image embed (<img>) element.
+ */
+
+var Img = /*#__PURE__*/function () {
+  function Img(src, alt, style) {
+    this.src = void 0;
+    this.alt = void 0;
+    this.classes = void 0;
+    this.height = void 0;
+    this.depth = void 0;
+    this.maxFontSize = void 0;
+    this.style = void 0;
+    this.alt = alt;
+    this.src = src;
+    this.classes = ["mord"];
+    this.style = style;
+  }
+
+  var _proto3 = Img.prototype;
+
+  _proto3.hasClass = function hasClass(className) {
+    return utils.contains(this.classes, className);
+  };
+
+  _proto3.toNode = function toNode() {
+    var node = document.createElement("img");
+    node.src = this.src;
+    node.alt = this.alt;
+    node.className = "mord"; // Apply inline styles
+
+    for (var style in this.style) {
+      if (this.style.hasOwnProperty(style)) {
+        // $FlowFixMe
+        node.style[style] = this.style[style];
+      }
+    }
+
+    return node;
+  };
+
+  _proto3.toMarkup = function toMarkup() {
+    var markup = "<img  src='" + this.src + " 'alt='" + this.alt + "' "; // Add the styles, after hyphenation
+
+    var styles = "";
+
+    for (var style in this.style) {
+      if (this.style.hasOwnProperty(style)) {
+        styles += utils.hyphenate(style) + ":" + this.style[style] + ";";
+      }
+    }
+
+    if (styles) {
+      markup += " style=\"" + utils.escape(styles) + "\"";
+    }
+
+    markup += "'/>";
+    return markup;
+  };
+
+  return Img;
+}();
+var iCombinations = {
+  'î': "\u0131\u0302",
+  'ï': "\u0131\u0308",
+  'í': "\u0131\u0301",
+  // 'ī': '\u0131\u0304', // enable when we add Extended Latin
+  'ì': "\u0131\u0300"
+};
+/**
+ * A symbol node contains information about a single symbol. It either renders
+ * to a single text node, or a span with a single text node in it, depending on
+ * whether it has CSS classes, styles, or needs italic correction.
+ */
+
+var SymbolNode = /*#__PURE__*/function () {
+  function SymbolNode(text, height, depth, italic, skew, width, classes, style) {
+    this.text = void 0;
+    this.height = void 0;
+    this.depth = void 0;
+    this.italic = void 0;
+    this.skew = void 0;
+    this.width = void 0;
+    this.maxFontSize = void 0;
+    this.classes = void 0;
+    this.style = void 0;
+    this.text = text;
+    this.height = height || 0;
+    this.depth = depth || 0;
+    this.italic = italic || 0;
+    this.skew = skew || 0;
+    this.width = width || 0;
+    this.classes = classes || [];
+    this.style = style || {};
+    this.maxFontSize = 0; // Mark text from non-Latin scripts with specific classes so that we
+    // can specify which fonts to use.  This allows us to render these
+    // characters with a serif font in situations where the browser would
+    // either default to a sans serif or render a placeholder character.
+    // We use CSS class names like cjk_fallback, hangul_fallback and
+    // brahmic_fallback. See ./unicodeScripts.js for the set of possible
+    // script names
+
+    var script = scriptFromCodepoint(this.text.charCodeAt(0));
+
+    if (script) {
+      this.classes.push(script + "_fallback");
+    }
+
+    if (/[îïíì]/.test(this.text)) {
+      // add ī when we add Extended Latin
+      this.text = iCombinations[this.text];
+    }
+  }
+
+  var _proto4 = SymbolNode.prototype;
+
+  _proto4.hasClass = function hasClass(className) {
+    return utils.contains(this.classes, className);
+  }
+  /**
+   * Creates a text node or span from a symbol node. Note that a span is only
+   * created if it is needed.
+   */
+  ;
+
+  _proto4.toNode = function toNode() {
+    var node = document.createTextNode(this.text);
+    var span = null;
+
+    if (this.italic > 0) {
+      span = document.createElement("span");
+      span.style.marginRight = makeEm(this.italic);
+    }
+
+    if (this.classes.length > 0) {
+      span = span || document.createElement("span");
+      span.className = createClass(this.classes);
+    }
+
+    for (var style in this.style) {
+      if (this.style.hasOwnProperty(style)) {
+        span = span || document.createElement("span"); // $FlowFixMe Flow doesn't seem to understand span.style's type.
+
+        span.style[style] = this.style[style];
+      }
+    }
+
+    if (span) {
+      span.appendChild(node);
+      return span;
+    } else {
+      return node;
+    }
+  }
+  /**
+   * Creates markup for a symbol node.
+   */
+  ;
+
+  _proto4.toMarkup = function toMarkup() {
+    // TODO(alpert): More duplication than I'd like from
+    // span.prototype.toMarkup and symbolNode.prototype.toNode...
+    var needsSpan = false;
+    var markup = "<span";
+
+    if (this.classes.length) {
+      needsSpan = true;
+      markup += " class=\"";
+      markup += utils.escape(createClass(this.classes));
+      markup += "\"";
+    }
+
+    var styles = "";
+
+    if (this.italic > 0) {
+      styles += "margin-right:" + this.italic + "em;";
+    }
+
+    for (var style in this.style) {
+      if (this.style.hasOwnProperty(style)) {
+        styles += utils.hyphenate(style) + ":" + this.style[style] + ";";
+      }
+    }
+
+    if (styles) {
+      needsSpan = true;
+      markup += " style=\"" + utils.escape(styles) + "\"";
+    }
+
+    var escaped = utils.escape(this.text);
+
+    if (needsSpan) {
+      markup += ">";
+      markup += escaped;
+      markup += "</span>";
+      return markup;
+    } else {
+      return escaped;
+    }
+  };
+
+  return SymbolNode;
+}();
+/**
+ * SVG nodes are used to render stretchy wide elements.
+ */
+
+var SvgNode = /*#__PURE__*/function () {
+  function SvgNode(children, attributes) {
+    this.children = void 0;
+    this.attributes = void 0;
+    this.children = children || [];
+    this.attributes = attributes || {};
+  }
+
+  var _proto5 = SvgNode.prototype;
+
+  _proto5.toNode = function toNode() {
+    var svgNS = "http://www.w3.org/2000/svg";
+    var node = document.createElementNS(svgNS, "svg"); // Apply attributes
+
+    for (var attr in this.attributes) {
+      if (Object.prototype.hasOwnProperty.call(this.attributes, attr)) {
+        node.setAttribute(attr, this.attributes[attr]);
+      }
+    }
+
+    for (var i = 0; i < this.children.length; i++) {
+      node.appendChild(this.children[i].toNode());
+    }
+
+    return node;
+  };
+
+  _proto5.toMarkup = function toMarkup() {
+    var markup = "<svg xmlns=\"http://www.w3.org/2000/svg\""; // Apply attributes
+
+    for (var attr in this.attributes) {
+      if (Object.prototype.hasOwnProperty.call(this.attributes, attr)) {
+        markup += " " + attr + "='" + this.attributes[attr] + "'";
+      }
+    }
+
+    markup += ">";
+
+    for (var i = 0; i < this.children.length; i++) {
+      markup += this.children[i].toMarkup();
+    }
+
+    markup += "</svg>";
+    return markup;
+  };
+
+  return SvgNode;
+}();
+var PathNode = /*#__PURE__*/function () {
+  function PathNode(pathName, alternate) {
+    this.pathName = void 0;
+    this.alternate = void 0;
+    this.pathName = pathName;
+    this.alternate = alternate; // Used only for \sqrt, \phase, & tall delims
+  }
+
+  var _proto6 = PathNode.prototype;
+
+  _proto6.toNode = function toNode() {
+    var svgNS = "http://www.w3.org/2000/svg";
+    var node = document.createElementNS(svgNS, "path");
+
+    if (this.alternate) {
+      node.setAttribute("d", this.alternate);
+    } else {
+      node.setAttribute("d", path[this.pathName]);
+    }
+
+    return node;
+  };
+
+  _proto6.toMarkup = function toMarkup() {
+    if (this.alternate) {
+      return "<path d='" + this.alternate + "'/>";
+    } else {
+      return "<path d='" + path[this.pathName] + "'/>";
+    }
+  };
+
+  return PathNode;
+}();
+var LineNode = /*#__PURE__*/function () {
+  function LineNode(attributes) {
+    this.attributes = void 0;
+    this.attributes = attributes || {};
+  }
+
+  var _proto7 = LineNode.prototype;
+
+  _proto7.toNode = function toNode() {
+    var svgNS = "http://www.w3.org/2000/svg";
+    var node = document.createElementNS(svgNS, "line"); // Apply attributes
+
+    for (var attr in this.attributes) {
+      if (Object.prototype.hasOwnProperty.call(this.attributes, attr)) {
+        node.setAttribute(attr, this.attributes[attr]);
+      }
+    }
+
+    return node;
+  };
+
+  _proto7.toMarkup = function toMarkup() {
+    var markup = "<line";
+
+    for (var attr in this.attributes) {
+      if (Object.prototype.hasOwnProperty.call(this.attributes, attr)) {
+        markup += " " + attr + "='" + this.attributes[attr] + "'";
+      }
+    }
+
+    markup += "/>";
+    return markup;
+  };
+
+  return LineNode;
+}();
+function assertSymbolDomNode(group) {
+  if (group instanceof SymbolNode) {
+    return group;
+  } else {
+    throw new Error("Expected symbolNode but got " + String(group) + ".");
+  }
+}
+function assertSpan(group) {
+  if (group instanceof Span) {
+    return group;
+  } else {
+    throw new Error("Expected span<HtmlDomNode> but got " + String(group) + ".");
+  }
+}
+/**
  * This file holds a list of all no-argument functions and single-character
  * symbols (like 'a' or ';').
  *
@@ -12941,9 +13388,9 @@ defineSymbol(math, main, mathord, "\u03D6", "\\varpi", true);
 defineSymbol(math, main, mathord, "\u03F1", "\\varrho", true);
 defineSymbol(math, main, mathord, "\u03C2", "\\varsigma", true);
 defineSymbol(math, main, mathord, "\u03C6", "\\varphi", true);
-defineSymbol(math, main, bin, "\u2217", "*");
+defineSymbol(math, main, bin, "\u2217", "*", true);
 defineSymbol(math, main, bin, "+", "+");
-defineSymbol(math, main, bin, "\u2212", "-");
+defineSymbol(math, main, bin, "\u2212", "-", true);
 defineSymbol(math, main, bin, "\u22C5", "\\cdot", true);
 defineSymbol(math, main, bin, "\u2218", "\\circ");
 defineSymbol(math, main, bin, "\xF7", "\\div", true);
@@ -13398,432 +13845,6 @@ var wideCharacterFont = function wideCharacterFont(wideChar, mode) {
     throw new src_ParseError("Unsupported character: " + wideChar);
   }
 };
-/**
- * This file contains information about the options that the Parser carries
- * around with it while parsing. Data is held in an `Options` object, and when
- * recursing, a new `Options` object can be created with the `.with*` and
- * `.reset` functions.
- */
-
-var sizeStyleMap = [// Each element contains [textsize, scriptsize, scriptscriptsize].
-// The size mappings are taken from TeX with \normalsize=10pt.
-[1, 1, 1], // size1: [5, 5, 5]              \tiny
-[2, 1, 1], // size2: [6, 5, 5]
-[3, 1, 1], // size3: [7, 5, 5]              \scriptsize
-[4, 2, 1], // size4: [8, 6, 5]              \footnotesize
-[5, 2, 1], // size5: [9, 6, 5]              \small
-[6, 3, 1], // size6: [10, 7, 5]             \normalsize
-[7, 4, 2], // size7: [12, 8, 6]             \large
-[8, 6, 3], // size8: [14.4, 10, 7]          \Large
-[9, 7, 6], // size9: [17.28, 12, 10]        \LARGE
-[10, 8, 7], // size10: [20.74, 14.4, 12]     \huge
-[11, 10, 9] // size11: [24.88, 20.74, 17.28] \HUGE
-];
-var sizeMultipliers = [// fontMetrics.js:getGlobalMetrics also uses size indexes, so if
-// you change size indexes, change that function.
-0.5, 0.6, 0.7, 0.8, 0.9, 1.0, 1.2, 1.44, 1.728, 2.074, 2.488];
-
-var sizeAtStyle = function sizeAtStyle(size, style) {
-  return style.size < 2 ? size : sizeStyleMap[size - 1][style.size - 1];
-}; // In these types, "" (empty string) means "no change".
-
-
-/**
- * This is the main options class. It contains the current style, size, color,
- * and font.
- *
- * Options objects should not be modified. To create a new Options with
- * different properties, call a `.having*` method.
- */
-var Options = /*#__PURE__*/function () {
-  // A font family applies to a group of fonts (i.e. SansSerif), while a font
-  // represents a specific font (i.e. SansSerif Bold).
-  // See: https://tex.stackexchange.com/questions/22350/difference-between-textrm-and-mathrm
-
-  /**
-   * The base size index.
-   */
-  function Options(data) {
-    this.style = void 0;
-    this.color = void 0;
-    this.size = void 0;
-    this.textSize = void 0;
-    this.phantom = void 0;
-    this.font = void 0;
-    this.fontFamily = void 0;
-    this.fontWeight = void 0;
-    this.fontShape = void 0;
-    this.sizeMultiplier = void 0;
-    this.maxSize = void 0;
-    this.minRuleThickness = void 0;
-    this._fontMetrics = void 0;
-    this.style = data.style;
-    this.color = data.color;
-    this.size = data.size || Options.BASESIZE;
-    this.textSize = data.textSize || this.size;
-    this.phantom = !!data.phantom;
-    this.font = data.font || "";
-    this.fontFamily = data.fontFamily || "";
-    this.fontWeight = data.fontWeight || '';
-    this.fontShape = data.fontShape || '';
-    this.sizeMultiplier = sizeMultipliers[this.size - 1];
-    this.maxSize = data.maxSize;
-    this.minRuleThickness = data.minRuleThickness;
-    this._fontMetrics = undefined;
-  }
-  /**
-   * Returns a new options object with the same properties as "this".  Properties
-   * from "extension" will be copied to the new options object.
-   */
-
-
-  var _proto = Options.prototype;
-
-  _proto.extend = function extend(extension) {
-    var data = {
-      style: this.style,
-      size: this.size,
-      textSize: this.textSize,
-      color: this.color,
-      phantom: this.phantom,
-      font: this.font,
-      fontFamily: this.fontFamily,
-      fontWeight: this.fontWeight,
-      fontShape: this.fontShape,
-      maxSize: this.maxSize,
-      minRuleThickness: this.minRuleThickness
-    };
-
-    for (var key in extension) {
-      if (extension.hasOwnProperty(key)) {
-        data[key] = extension[key];
-      }
-    }
-
-    return new Options(data);
-  }
-  /**
-   * Return an options object with the given style. If `this.style === style`,
-   * returns `this`.
-   */
-  ;
-
-  _proto.havingStyle = function havingStyle(style) {
-    if (this.style === style) {
-      return this;
-    } else {
-      return this.extend({
-        style: style,
-        size: sizeAtStyle(this.textSize, style)
-      });
-    }
-  }
-  /**
-   * Return an options object with a cramped version of the current style. If
-   * the current style is cramped, returns `this`.
-   */
-  ;
-
-  _proto.havingCrampedStyle = function havingCrampedStyle() {
-    return this.havingStyle(this.style.cramp());
-  }
-  /**
-   * Return an options object with the given size and in at least `\textstyle`.
-   * Returns `this` if appropriate.
-   */
-  ;
-
-  _proto.havingSize = function havingSize(size) {
-    if (this.size === size && this.textSize === size) {
-      return this;
-    } else {
-      return this.extend({
-        style: this.style.text(),
-        size: size,
-        textSize: size,
-        sizeMultiplier: sizeMultipliers[size - 1]
-      });
-    }
-  }
-  /**
-   * Like `this.havingSize(BASESIZE).havingStyle(style)`. If `style` is omitted,
-   * changes to at least `\textstyle`.
-   */
-  ;
-
-  _proto.havingBaseStyle = function havingBaseStyle(style) {
-    style = style || this.style.text();
-    var wantSize = sizeAtStyle(Options.BASESIZE, style);
-
-    if (this.size === wantSize && this.textSize === Options.BASESIZE && this.style === style) {
-      return this;
-    } else {
-      return this.extend({
-        style: style,
-        size: wantSize
-      });
-    }
-  }
-  /**
-   * Remove the effect of sizing changes such as \Huge.
-   * Keep the effect of the current style, such as \scriptstyle.
-   */
-  ;
-
-  _proto.havingBaseSizing = function havingBaseSizing() {
-    var size;
-
-    switch (this.style.id) {
-      case 4:
-      case 5:
-        size = 3; // normalsize in scriptstyle
-
-        break;
-
-      case 6:
-      case 7:
-        size = 1; // normalsize in scriptscriptstyle
-
-        break;
-
-      default:
-        size = 6;
-      // normalsize in textstyle or displaystyle
-    }
-
-    return this.extend({
-      style: this.style.text(),
-      size: size
-    });
-  }
-  /**
-   * Create a new options object with the given color.
-   */
-  ;
-
-  _proto.withColor = function withColor(color) {
-    return this.extend({
-      color: color
-    });
-  }
-  /**
-   * Create a new options object with "phantom" set to true.
-   */
-  ;
-
-  _proto.withPhantom = function withPhantom() {
-    return this.extend({
-      phantom: true
-    });
-  }
-  /**
-   * Creates a new options object with the given math font or old text font.
-   * @type {[type]}
-   */
-  ;
-
-  _proto.withFont = function withFont(font) {
-    return this.extend({
-      font: font
-    });
-  }
-  /**
-   * Create a new options objects with the given fontFamily.
-   */
-  ;
-
-  _proto.withTextFontFamily = function withTextFontFamily(fontFamily) {
-    return this.extend({
-      fontFamily: fontFamily,
-      font: ""
-    });
-  }
-  /**
-   * Creates a new options object with the given font weight
-   */
-  ;
-
-  _proto.withTextFontWeight = function withTextFontWeight(fontWeight) {
-    return this.extend({
-      fontWeight: fontWeight,
-      font: ""
-    });
-  }
-  /**
-   * Creates a new options object with the given font weight
-   */
-  ;
-
-  _proto.withTextFontShape = function withTextFontShape(fontShape) {
-    return this.extend({
-      fontShape: fontShape,
-      font: ""
-    });
-  }
-  /**
-   * Return the CSS sizing classes required to switch from enclosing options
-   * `oldOptions` to `this`. Returns an array of classes.
-   */
-  ;
-
-  _proto.sizingClasses = function sizingClasses(oldOptions) {
-    if (oldOptions.size !== this.size) {
-      return ["sizing", "reset-size" + oldOptions.size, "size" + this.size];
-    } else {
-      return [];
-    }
-  }
-  /**
-   * Return the CSS sizing classes required to switch to the base size. Like
-   * `this.havingSize(BASESIZE).sizingClasses(this)`.
-   */
-  ;
-
-  _proto.baseSizingClasses = function baseSizingClasses() {
-    if (this.size !== Options.BASESIZE) {
-      return ["sizing", "reset-size" + this.size, "size" + Options.BASESIZE];
-    } else {
-      return [];
-    }
-  }
-  /**
-   * Return the font metrics for this size.
-   */
-  ;
-
-  _proto.fontMetrics = function fontMetrics() {
-    if (!this._fontMetrics) {
-      this._fontMetrics = getGlobalMetrics(this.size);
-    }
-
-    return this._fontMetrics;
-  }
-  /**
-   * Gets the CSS color of the current options object
-   */
-  ;
-
-  _proto.getColor = function getColor() {
-    if (this.phantom) {
-      return "transparent";
-    } else {
-      return this.color;
-    }
-  };
-
-  return Options;
-}();
-
-Options.BASESIZE = 6;
-/* harmony default export */ var src_Options = (Options);
-/**
- * This file does conversion between units.  In particular, it provides
- * calculateSize to convert other units into ems.
- */
-
- // This table gives the number of TeX pts in one of each *absolute* TeX unit.
-// Thus, multiplying a length by this number converts the length from units
-// into pts.  Dividing the result by ptPerEm gives the number of ems
-// *assuming* a font size of ptPerEm (normal size, normal style).
-
-var ptPerUnit = {
-  // https://en.wikibooks.org/wiki/LaTeX/Lengths and
-  // https://tex.stackexchange.com/a/8263
-  "pt": 1,
-  // TeX point
-  "mm": 7227 / 2540,
-  // millimeter
-  "cm": 7227 / 254,
-  // centimeter
-  "in": 72.27,
-  // inch
-  "bp": 803 / 800,
-  // big (PostScript) points
-  "pc": 12,
-  // pica
-  "dd": 1238 / 1157,
-  // didot
-  "cc": 14856 / 1157,
-  // cicero (12 didot)
-  "nd": 685 / 642,
-  // new didot
-  "nc": 1370 / 107,
-  // new cicero (12 new didot)
-  "sp": 1 / 65536,
-  // scaled point (TeX's internal smallest unit)
-  // https://tex.stackexchange.com/a/41371
-  "px": 803 / 800 // \pdfpxdimen defaults to 1 bp in pdfTeX and LuaTeX
-
-}; // Dictionary of relative units, for fast validity testing.
-
-var relativeUnit = {
-  "ex": true,
-  "em": true,
-  "mu": true
-};
-
-/**
- * Determine whether the specified unit (either a string defining the unit
- * or a "size" parse node containing a unit field) is valid.
- */
-var validUnit = function validUnit(unit) {
-  if (typeof unit !== "string") {
-    unit = unit.unit;
-  }
-
-  return unit in ptPerUnit || unit in relativeUnit || unit === "ex";
-};
-/*
- * Convert a "size" parse node (with numeric "number" and string "unit" fields,
- * as parsed by functions.js argType "size") into a CSS em value for the
- * current style/scale.  `options` gives the current options.
- */
-
-var calculateSize = function calculateSize(sizeValue, options) {
-  var scale;
-
-  if (sizeValue.unit in ptPerUnit) {
-    // Absolute units
-    scale = ptPerUnit[sizeValue.unit] // Convert unit to pt
-    / options.fontMetrics().ptPerEm // Convert pt to CSS em
-    / options.sizeMultiplier; // Unscale to make absolute units
-  } else if (sizeValue.unit === "mu") {
-    // `mu` units scale with scriptstyle/scriptscriptstyle.
-    scale = options.fontMetrics().cssEmPerMu;
-  } else {
-    // Other relative units always refer to the *textstyle* font
-    // in the current size.
-    var unitOptions;
-
-    if (options.style.isTight()) {
-      // isTight() means current style is script/scriptscript.
-      unitOptions = options.havingStyle(options.style.text());
-    } else {
-      unitOptions = options;
-    } // TODO: In TeX these units are relative to the quad of the current
-    // *text* font, e.g. cmr10. KaTeX instead uses values from the
-    // comparably-sized *Computer Modern symbol* font. At 10pt, these
-    // match. At 7pt and 5pt, they differ: cmr7=1.138894, cmsy7=1.170641;
-    // cmr5=1.361133, cmsy5=1.472241. Consider $\scriptsize a\kern1emb$.
-    // TeX \showlists shows a kern of 1.13889 * fontsize;
-    // KaTeX shows a kern of 1.171 * fontsize.
-
-
-    if (sizeValue.unit === "ex") {
-      scale = unitOptions.fontMetrics().xHeight;
-    } else if (sizeValue.unit === "em") {
-      scale = unitOptions.fontMetrics().quad;
-    } else {
-      throw new src_ParseError("Invalid unit: '" + sizeValue.unit + "'");
-    }
-
-    if (unitOptions !== options) {
-      scale *= unitOptions.sizeMultiplier / options.sizeMultiplier;
-    }
-  }
-
-  return Math.min(sizeValue.number * scale, options.maxSize);
-};
 /* eslint no-console:0 */
 
 /**
@@ -14142,7 +14163,7 @@ var makeSvgSpan = function makeSvgSpan(classes, children, options, style) {
 var makeLineSpan = function makeLineSpan(className, options, thickness) {
   var line = makeSpan([className], [], options);
   line.height = Math.max(thickness || options.fontMetrics().defaultRuleThickness, options.minRuleThickness);
-  line.style.borderBottomWidth = line.height + "em";
+  line.style.borderBottomWidth = makeEm(line.height);
   line.maxFontSize = 1.0;
   return line;
 };
@@ -14282,7 +14303,7 @@ var makeVList = function makeVList(params, options) {
 
   pstrutSize += 2;
   var pstrut = makeSpan(["pstrut"], []);
-  pstrut.style.height = pstrutSize + "em"; // Create a new list of actual children at the correct offsets
+  pstrut.style.height = makeEm(pstrutSize); // Create a new list of actual children at the correct offsets
 
   var realChildren = [];
   var minPos = depth;
@@ -14299,7 +14320,7 @@ var makeVList = function makeVList(params, options) {
       var classes = _child.wrapperClasses || [];
       var style = _child.wrapperStyle || {};
       var childWrap = makeSpan(classes, [pstrut, _elem], undefined, style);
-      childWrap.style.top = -pstrutSize - currPos - _elem.depth + "em";
+      childWrap.style.top = makeEm(-pstrutSize - currPos - _elem.depth);
 
       if (_child.marginLeft) {
         childWrap.style.marginLeft = _child.marginLeft;
@@ -14321,7 +14342,7 @@ var makeVList = function makeVList(params, options) {
 
 
   var vlist = makeSpan(["vlist"], realChildren);
-  vlist.style.height = maxPos + "em"; // A second row is used if necessary to represent the vlist's depth.
+  vlist.style.height = makeEm(maxPos); // A second row is used if necessary to represent the vlist's depth.
 
   var rows;
 
@@ -14333,7 +14354,7 @@ var makeVList = function makeVList(params, options) {
     // So we put another empty span inside the depth strut span.
     var emptySpan = makeSpan([], []);
     var depthStrut = makeSpan(["vlist"], [emptySpan]);
-    depthStrut.style.height = -minPos + "em"; // Safari wants the first row to have inline content; otherwise it
+    depthStrut.style.height = makeEm(-minPos); // Safari wants the first row to have inline content; otherwise it
     // puts the bottom of the *second* row on the baseline.
 
     var topStrut = makeSpan(["vlist-s"], [new SymbolNode("\u200B")]);
@@ -14360,7 +14381,7 @@ var makeGlue = function makeGlue(measurement, options) {
   // Make an empty span for the space
   var rule = makeSpan(["mspace"], [], options);
   var size = calculateSize(measurement, options);
-  rule.style.marginRight = size + "em";
+  rule.style.marginRight = makeEm(size);
   return rule;
 }; // Takes font options, and returns the appropriate fontLookup name
 
@@ -14482,17 +14503,17 @@ var staticSvg = function staticSvg(value, options) {
       height = _svgData$value[2];
   var path = new PathNode(pathName);
   var svgNode = new SvgNode([path], {
-    "width": width + "em",
-    "height": height + "em",
+    "width": makeEm(width),
+    "height": makeEm(height),
     // Override CSS rule `.katex svg { width: 100% }`
-    "style": "width:" + width + "em",
+    "style": "width:" + makeEm(width),
     "viewBox": "0 0 " + 1000 * width + " " + 1000 * height,
     "preserveAspectRatio": "xMinYMin"
   });
   var span = makeSvgSpan(["overlay"], [svgNode], options);
   span.height = height;
-  span.style.height = height + "em";
-  span.style.width = width + "em";
+  span.style.height = makeEm(height);
+  span.style.width = makeEm(width);
   return span;
 };
 
@@ -14710,6 +14731,7 @@ var ordargument = function ordargument(arg) {
  * Then, the buildExpression, buildGroup, and various groupBuilders functions
  * are called, to produce a final HTML tree.
  */
+
 
 
 
@@ -14977,8 +14999,12 @@ function buildHTMLUnbreakable(children, options) {
   // falls at the depth of the expression.
 
   var strut = buildHTML_makeSpan(["strut"]);
-  strut.style.height = body.height + body.depth + "em";
-  strut.style.verticalAlign = -body.depth + "em";
+  strut.style.height = makeEm(body.height + body.depth);
+
+  if (body.depth) {
+    strut.style.verticalAlign = makeEm(-body.depth);
+  }
+
   body.children.unshift(strut);
   return body;
 }
@@ -15072,8 +15098,11 @@ function buildHTML(tree, options) {
 
   if (tagChild) {
     var strut = tagChild.children[0];
-    strut.style.height = htmlNode.height + htmlNode.depth + "em";
-    strut.style.verticalAlign = -htmlNode.depth + "em";
+    strut.style.height = makeEm(htmlNode.height + htmlNode.depth);
+
+    if (htmlNode.depth) {
+      strut.style.verticalAlign = makeEm(-htmlNode.depth);
+    }
   }
 
   return htmlNode;
@@ -15087,6 +15116,7 @@ function buildHTML(tree, options) {
  * The `toNode` and `toMarkup` functions work simlarly to how they do in
  * domTree.js, creating namespaced DOM nodes and HTML text markup respectively.
  */
+
 
 
 
@@ -15284,7 +15314,7 @@ var SpaceNode = /*#__PURE__*/function () {
       return document.createTextNode(this.character);
     } else {
       var node = document.createElementNS("http://www.w3.org/1998/Math/MathML", "mspace");
-      node.setAttribute("width", this.width + "em");
+      node.setAttribute("width", makeEm(this.width));
       return node;
     }
   }
@@ -15297,7 +15327,7 @@ var SpaceNode = /*#__PURE__*/function () {
     if (this.character) {
       return "<mtext>" + this.character + "</mtext>";
     } else {
-      return "<mspace width=\"" + this.width + "em\"/>";
+      return "<mspace width=\"" + makeEm(this.width) + "\"/>";
     }
   }
   /**
@@ -15642,6 +15672,7 @@ var buildHTMLTree = function buildHTMLTree(tree, expression, settings) {
 
 
 
+
 var stretchyCodePoint = {
   widehat: "^",
   widecheck: "ˇ",
@@ -15839,7 +15870,7 @@ var svgSpan = function svgSpan(group, options) {
       var path = new PathNode(pathName);
       var svgNode = new SvgNode([path], {
         "width": "100%",
-        "height": _height + "em",
+        "height": makeEm(_height),
         "viewBox": "0 0 " + viewBoxWidth + " " + viewBoxHeight,
         "preserveAspectRatio": "none"
       });
@@ -15881,7 +15912,7 @@ var svgSpan = function svgSpan(group, options) {
 
         var _svgNode = new SvgNode([_path], {
           "width": "400em",
-          "height": _height2 + "em",
+          "height": makeEm(_height2),
           "viewBox": "0 0 " + viewBoxWidth + " " + _viewBoxHeight,
           "preserveAspectRatio": aligns[i] + " slice"
         });
@@ -15895,7 +15926,7 @@ var svgSpan = function svgSpan(group, options) {
             height: _height2
           };
         } else {
-          _span.style.height = _height2 + "em";
+          _span.style.height = makeEm(_height2);
           spans.push(_span);
         }
       }
@@ -15917,10 +15948,10 @@ var svgSpan = function svgSpan(group, options) {
 
 
   span.height = height;
-  span.style.height = height + "em";
+  span.style.height = makeEm(height);
 
   if (minWidth > 0) {
-    span.style.minWidth = minWidth + "em";
+    span.style.minWidth = makeEm(minWidth);
   }
 
   return span;
@@ -15969,13 +16000,13 @@ var encloseSpan = function encloseSpan(inner, label, topPad, bottomPad, options)
 
     var svgNode = new SvgNode(lines, {
       "width": "100%",
-      "height": totalHeight + "em"
+      "height": makeEm(totalHeight)
     });
     img = buildCommon.makeSvgSpan([], [svgNode], options);
   }
 
   img.height = totalHeight;
-  img.style.height = totalHeight + "em";
+  img.style.height = makeEm(totalHeight);
   return img;
 };
 
@@ -16025,6 +16056,7 @@ function checkSymbolNodeType(node) {
 
   return null;
 }
+
 
 
 
@@ -16145,7 +16177,7 @@ var htmlBuilder = function htmlBuilder(grp, options) {
       left -= width / 2;
     }
 
-    accentBody.style.left = left + "em"; // \textcircled uses the \bigcirc glyph, so it needs some
+    accentBody.style.left = makeEm(left); // \textcircled uses the \bigcirc glyph, so it needs some
     // vertical adjustment to match LaTeX.
 
     if (group.label === "\\textcircled") {
@@ -16177,8 +16209,8 @@ var htmlBuilder = function htmlBuilder(grp, options) {
         elem: accentBody,
         wrapperClasses: ["svg-align"],
         wrapperStyle: skew > 0 ? {
-          width: "calc(100% - " + 2 * skew + "em)",
-          marginLeft: 2 * skew + "em"
+          width: "calc(100% - " + makeEm(2 * skew) + ")",
+          marginLeft: makeEm(2 * skew)
         } : undefined
       }]
     }, options);
@@ -16464,6 +16496,7 @@ defineFunction({
 
 
 
+
 var cdArrowFunctionName = {
   ">": "\\\\cdrightarrow",
   "<": "\\\\cdleftarrow",
@@ -16724,7 +16757,7 @@ defineFunction({
     var newOptions = options.havingStyle(options.style.sup());
     var label = buildCommon.wrapFragment(buildGroup(group.label, newOptions, options), options);
     label.classes.push("cd-label-" + group.side);
-    label.style.bottom = 0.8 - label.depth + "em"; // Zero out label height & depth, so vertical align of arrow is set
+    label.style.bottom = makeEm(0.8 - label.depth); // Zero out label height & depth, so vertical align of arrow is set
     // by the arrow height, not by the label.
 
     label.height = 0;
@@ -16932,7 +16965,7 @@ defineFunction({
       span.classes.push("newline");
 
       if (group.size) {
-        span.style.marginTop = calculateSize(group.size, options) + "em";
+        span.style.marginTop = makeEm(calculateSize(group.size, options));
       }
     }
 
@@ -16945,7 +16978,7 @@ defineFunction({
       node.setAttribute("linebreak", "newline");
 
       if (group.size) {
-        node.setAttribute("height", calculateSize(group.size, options) + "em");
+        node.setAttribute("height", makeEm(calculateSize(group.size, options)));
       }
     }
 
@@ -17209,6 +17242,7 @@ defineFunction({
 
 
 
+
 /**
  * Get the metrics for a given symbol and font, after transformation (i.e.
  * after following replacement from symbols.js)
@@ -17243,7 +17277,7 @@ var centerSpan = function centerSpan(span, options, style) {
   var newOptions = options.havingBaseStyle(style);
   var shift = (1 - options.sizeMultiplier / newOptions.sizeMultiplier) * options.fontMetrics().axisHeight;
   span.classes.push("delimcenter");
-  span.style.top = shift + "em";
+  span.style.top = makeEm(shift);
   span.height -= shift;
   span.depth += shift;
 };
@@ -17316,20 +17350,20 @@ var makeGlyphSpan = function makeGlyphSpan(symbol, font, mode) {
 
 var makeInner = function makeInner(ch, height, options) {
   // Create a span with inline SVG for the inner part of a tall stacked delimiter.
-  var width = fontMetricsData["Size4-Regular"][ch.charCodeAt(0)] ? fontMetricsData["Size4-Regular"][ch.charCodeAt(0)][4].toFixed(3) : fontMetricsData["Size1-Regular"][ch.charCodeAt(0)][4].toFixed(3);
+  var width = fontMetricsData["Size4-Regular"][ch.charCodeAt(0)] ? fontMetricsData["Size4-Regular"][ch.charCodeAt(0)][4] : fontMetricsData["Size1-Regular"][ch.charCodeAt(0)][4];
   var path = new PathNode("inner", innerPath(ch, Math.round(1000 * height)));
   var svgNode = new SvgNode([path], {
-    "width": width + "em",
-    "height": height + "em",
+    "width": makeEm(width),
+    "height": makeEm(height),
     // Override CSS rule `.katex svg { width: 100% }`
-    "style": "width:" + width + "em",
+    "style": "width:" + makeEm(width),
     "viewBox": "0 0 " + 1000 * width + " " + Math.round(1000 * height),
     "preserveAspectRatio": "xMinYMin"
   });
   var span = buildCommon.makeSvgSpan([], [svgNode], options);
   span.height = height;
-  span.style.height = height + "em";
-  span.style.width = width + "em";
+  span.style.height = makeEm(height);
+  span.style.width = makeEm(width);
   return {
     type: "elem",
     elem: span
@@ -17538,7 +17572,7 @@ var sqrtSvg = function sqrtSvg(sqrtName, height, viewBoxHeight, extraViniculum, 
   var svg = new SvgNode([pathNode], {
     // Note: 1000:1 ratio of viewBox to document em width.
     "width": "400em",
-    "height": height + "em",
+    "height": makeEm(height),
     "viewBox": "0 0 400000 " + viewBoxHeight,
     "preserveAspectRatio": "xMinYMin slice"
   });
@@ -17607,7 +17641,7 @@ var makeSqrtImage = function makeSqrtImage(height, options) {
   }
 
   span.height = texHeight;
-  span.style.height = spanHeight + "em";
+  span.style.height = makeEm(spanHeight);
   return {
     span: span,
     advanceWidth: advanceWidth,
@@ -17862,6 +17896,7 @@ var makeLeftRightDelim = function makeLeftRightDelim(delim, height, depth, optio
 
 
 
+
 // Extra data needed for the delimiter handler down below
 var delimiterSizes = {
   "\\bigl": {
@@ -17991,8 +18026,9 @@ defineFunction({
     }
 
     node.setAttribute("stretchy", "true");
-    node.setAttribute("minsize", delimiter.sizeToMaxHeight[group.size] + "em");
-    node.setAttribute("maxsize", delimiter.sizeToMaxHeight[group.size] + "em");
+    var size = makeEm(delimiter.sizeToMaxHeight[group.size]);
+    node.setAttribute("minsize", size);
+    node.setAttribute("maxsize", size);
     return node;
   }
 });
@@ -18250,19 +18286,19 @@ var enclose_htmlBuilder = function htmlBuilder(group, options) {
     scale = scale / newOptions.sizeMultiplier;
     var angleHeight = inner.height + inner.depth + lineWeight + clearance; // Reserve a left pad for the angle.
 
-    inner.style.paddingLeft = angleHeight / 2 + lineWeight + "em"; // Create an SVG
+    inner.style.paddingLeft = makeEm(angleHeight / 2 + lineWeight); // Create an SVG
 
     var viewBoxHeight = Math.floor(1000 * angleHeight * scale);
     var path = phasePath(viewBoxHeight);
     var svgNode = new SvgNode([new PathNode("phase", path)], {
       "width": "400em",
-      "height": viewBoxHeight / 1000 + "em",
+      "height": makeEm(viewBoxHeight / 1000),
       "viewBox": "0 0 400000 " + viewBoxHeight,
       "preserveAspectRatio": "xMinYMin slice"
     }); // Wrap it in a span with overflow: hidden.
 
     img = buildCommon.makeSvgSpan(["hide-tail"], [svgNode], options);
-    img.style.height = angleHeight + "em";
+    img.style.height = makeEm(angleHeight);
     imgShift = inner.depth + lineWeight + clearance;
   } else {
     // Add horizontal padding
@@ -18301,10 +18337,10 @@ var enclose_htmlBuilder = function htmlBuilder(group, options) {
 
     if (/fbox|boxed|fcolorbox/.test(label)) {
       img.style.borderStyle = "solid";
-      img.style.borderWidth = ruleThickness + "em";
+      img.style.borderWidth = makeEm(ruleThickness);
     } else if (label === "angl" && ruleThickness !== 0.049) {
-      img.style.borderTopWidth = ruleThickness + "em";
-      img.style.borderRightWidth = ruleThickness + "em";
+      img.style.borderTopWidth = makeEm(ruleThickness);
+      img.style.borderRightWidth = makeEm(ruleThickness);
     }
 
     imgShift = inner.depth + bottomPad;
@@ -18774,7 +18810,8 @@ var array_htmlBuilder = function htmlBuilder(group, options) {
   var nc = 0;
   var body = new Array(nr);
   var hlines = [];
-  var ruleThickness = Math.max(options.fontMetrics().arrayRuleWidth, options.minRuleThickness // User override.
+  var ruleThickness = Math.max( // From LaTeX \showthe\arrayrulewidth. Equals 0.04 em.
+  options.fontMetrics().arrayRuleWidth, options.minRuleThickness // User override.
   ); // Horizontal spacing
 
   var pt = 1 / options.fontMetrics().ptPerEm;
@@ -18918,18 +18955,24 @@ var array_htmlBuilder = function htmlBuilder(group, options) {
       // between them.
       if (!firstSeparator) {
         colSep = buildCommon.makeSpan(["arraycolsep"], []);
-        colSep.style.width = options.fontMetrics().doubleRuleSep + "em";
+        colSep.style.width = makeEm(options.fontMetrics().doubleRuleSep);
         cols.push(colSep);
       }
 
       if (colDescr.separator === "|" || colDescr.separator === ":") {
         var lineType = colDescr.separator === "|" ? "solid" : "dashed";
         var separator = buildCommon.makeSpan(["vertical-separator"], [], options);
-        separator.style.height = totalHeight + "em";
-        separator.style.borderRightWidth = ruleThickness + "em";
+        separator.style.height = makeEm(totalHeight);
+        separator.style.borderRightWidth = makeEm(ruleThickness);
         separator.style.borderRightStyle = lineType;
-        separator.style.margin = "0 -" + ruleThickness / 2 + "em";
-        separator.style.verticalAlign = -(totalHeight - offset) + "em";
+        separator.style.margin = "0 " + makeEm(-ruleThickness / 2);
+
+        var _shift = totalHeight - offset;
+
+        if (_shift) {
+          separator.style.verticalAlign = makeEm(-_shift);
+        }
+
         cols.push(separator);
       } else {
         throw new src_ParseError("Invalid separator type: " + colDescr.separator);
@@ -18951,7 +18994,7 @@ var array_htmlBuilder = function htmlBuilder(group, options) {
 
       if (sepwidth !== 0) {
         colSep = buildCommon.makeSpan(["arraycolsep"], []);
-        colSep.style.width = sepwidth + "em";
+        colSep.style.width = makeEm(sepwidth);
         cols.push(colSep);
       }
     }
@@ -18966,14 +19009,14 @@ var array_htmlBuilder = function htmlBuilder(group, options) {
         continue;
       }
 
-      var _shift = row.pos - offset;
+      var _shift2 = row.pos - offset;
 
       elem.depth = row.depth;
       elem.height = row.height;
       col.push({
         type: "elem",
         elem: elem,
-        shift: _shift
+        shift: _shift2
       });
     }
 
@@ -18989,7 +19032,7 @@ var array_htmlBuilder = function htmlBuilder(group, options) {
 
       if (sepwidth !== 0) {
         colSep = buildCommon.makeSpan(["arraycolsep"], []);
-        colSep.style.width = sepwidth + "em";
+        colSep.style.width = makeEm(sepwidth);
         cols.push(colSep);
       }
     }
@@ -19089,7 +19132,7 @@ var array_mathmlBuilder = function mathmlBuilder(group, options) {
 
   var gap = group.arraystretch === 0.5 ? 0.1 // {smallmatrix}, {subarray}
   : 0.16 + group.arraystretch - 1 + (group.addJot ? 0.09 : 0);
-  table.setAttribute("rowspacing", gap.toFixed(4) + "em"); // MathML table lines go only between cells.
+  table.setAttribute("rowspacing", makeEm(gap)); // MathML table lines go only between cells.
   // To place a line on an edge we'll use <menclose>, if necessary.
 
   var menclose = "";
@@ -20159,7 +20202,7 @@ var genfrac_mathmlBuilder = function mathmlBuilder(group, options) {
     node.setAttribute("linethickness", "0px");
   } else if (group.barSize) {
     var ruleWidth = calculateSize(group.barSize, options);
-    node.setAttribute("linethickness", ruleWidth + "em");
+    node.setAttribute("linethickness", makeEm(ruleWidth));
   }
 
   var style = adjustStyle(group.size, options.style);
@@ -21014,7 +21057,6 @@ defineFunction({
 
     if (group.totalheight.number > 0) {
       depth = calculateSize(group.totalheight, options) - height;
-      depth = Number(depth.toFixed(2));
     }
 
     var width = 0;
@@ -21024,15 +21066,15 @@ defineFunction({
     }
 
     var style = {
-      height: height + depth + "em"
+      height: makeEm(height + depth)
     };
 
     if (width > 0) {
-      style.width = width + "em";
+      style.width = makeEm(width);
     }
 
     if (depth > 0) {
-      style.verticalAlign = -depth + "em";
+      style.verticalAlign = makeEm(-depth);
     }
 
     var node = new Img(group.src, group.alt, style);
@@ -21048,15 +21090,14 @@ defineFunction({
 
     if (group.totalheight.number > 0) {
       depth = calculateSize(group.totalheight, options) - height;
-      depth = depth.toFixed(2);
-      node.setAttribute("valign", "-" + depth + "em");
+      node.setAttribute("valign", makeEm(-depth));
     }
 
-    node.setAttribute("height", height + depth + "em");
+    node.setAttribute("height", makeEm(height + depth));
 
     if (group.width.number > 0) {
       var width = calculateSize(group.width, options);
-      node.setAttribute("width", width + "em");
+      node.setAttribute("width", makeEm(width));
     }
 
     node.setAttribute("src", group.src);
@@ -21125,6 +21166,7 @@ defineFunction({
 
 
 
+
 defineFunction({
   type: "lap",
   names: ["\\mathllap", "\\mathrlap", "\\mathclap"],
@@ -21164,8 +21206,12 @@ defineFunction({
     // This code resolved issue #1153
 
     var strut = buildCommon.makeSpan(["strut"]);
-    strut.style.height = node.height + node.depth + "em";
-    strut.style.verticalAlign = -node.depth + "em";
+    strut.style.height = makeEm(node.height + node.depth);
+
+    if (node.depth) {
+      strut.style.verticalAlign = makeEm(-node.depth);
+    }
+
     node.children.unshift(strut); // Next, prevent vertical misplacement when next to something tall.
     // This code resolves issue #1234
 
@@ -21283,7 +21329,8 @@ defineFunction({
 
 
 
-// For an operator with limits, assemble the base, sup, and sub into a span.
+ // For an operator with limits, assemble the base, sup, and sub into a span.
+
 var assembleSupSub = function assembleSupSub(base, supGroup, subGroup, options, style, slant, baseShift) {
   base = buildCommon.makeSpan([], [base]);
   var subIsSingleCharacter = subGroup && utils.isCharacterBox(subGroup);
@@ -21323,7 +21370,7 @@ var assembleSupSub = function assembleSupSub(base, supGroup, subGroup, options, 
       }, {
         type: "elem",
         elem: sub.elem,
-        marginLeft: -slant + "em"
+        marginLeft: makeEm(-slant)
       }, {
         type: "kern",
         size: sub.kern
@@ -21336,7 +21383,7 @@ var assembleSupSub = function assembleSupSub(base, supGroup, subGroup, options, 
       }, {
         type: "elem",
         elem: sup.elem,
-        marginLeft: slant + "em"
+        marginLeft: makeEm(slant)
       }, {
         type: "kern",
         size: options.fontMetrics().bigOpSpacing5
@@ -21357,7 +21404,7 @@ var assembleSupSub = function assembleSupSub(base, supGroup, subGroup, options, 
       }, {
         type: "elem",
         elem: sub.elem,
-        marginLeft: -slant + "em"
+        marginLeft: makeEm(-slant)
       }, {
         type: "kern",
         size: sub.kern
@@ -21381,7 +21428,7 @@ var assembleSupSub = function assembleSupSub(base, supGroup, subGroup, options, 
       }, {
         type: "elem",
         elem: sup.elem,
-        marginLeft: slant + "em"
+        marginLeft: makeEm(slant)
       }, {
         type: "kern",
         size: options.fontMetrics().bigOpSpacing5
@@ -21400,13 +21447,14 @@ var assembleSupSub = function assembleSupSub(base, supGroup, subGroup, options, 
     // A negative margin-left was applied to the lower limit.
     // Avoid an overlap by placing a spacer on the left on the group.
     var spacer = buildCommon.makeSpan(["mspace"], [], options);
-    spacer.style.marginRight = slant + "em";
+    spacer.style.marginRight = makeEm(slant);
     parts.unshift(spacer);
   }
 
   return buildCommon.makeSpan(["mop", "op-limits"], parts, options);
 };
 // Limits, symbols
+
 
 
 
@@ -21530,7 +21578,7 @@ var op_htmlBuilder = function htmlBuilder(grp, options) {
   } else {
     if (baseShift) {
       base.style.position = "relative";
-      base.style.top = baseShift + "em";
+      base.style.top = makeEm(baseShift);
     }
 
     return base;
@@ -22147,9 +22195,9 @@ defineFunction({
     var height = calculateSize(group.height, options);
     var shift = group.shift ? calculateSize(group.shift, options) : 0; // Style the rule to the right size
 
-    rule.style.borderRightWidth = width + "em";
-    rule.style.borderTopWidth = height + "em";
-    rule.style.bottom = shift + "em"; // Record the height and width
+    rule.style.borderRightWidth = makeEm(width);
+    rule.style.borderTopWidth = makeEm(height);
+    rule.style.bottom = makeEm(shift); // Record the height and width
 
     rule.width = width;
     rule.height = height + shift;
@@ -22167,21 +22215,22 @@ defineFunction({
     var color = options.color && options.getColor() || "black";
     var rule = new mathMLTree.MathNode("mspace");
     rule.setAttribute("mathbackground", color);
-    rule.setAttribute("width", width + "em");
-    rule.setAttribute("height", height + "em");
+    rule.setAttribute("width", makeEm(width));
+    rule.setAttribute("height", makeEm(height));
     var wrapper = new mathMLTree.MathNode("mpadded", [rule]);
 
     if (shift >= 0) {
-      wrapper.setAttribute("height", "+" + shift + "em");
+      wrapper.setAttribute("height", makeEm(shift));
     } else {
-      wrapper.setAttribute("height", shift + "em");
-      wrapper.setAttribute("depth", "+" + -shift + "em");
+      wrapper.setAttribute("height", makeEm(shift));
+      wrapper.setAttribute("depth", makeEm(-shift));
     }
 
-    wrapper.setAttribute("voffset", shift + "em");
+    wrapper.setAttribute("voffset", makeEm(shift));
     return wrapper;
   }
 });
+
 
 
 
@@ -22248,7 +22297,7 @@ defineFunction({
     // that we're passing an options parameter we should be able to fix
     // this.
 
-    node.setAttribute("mathsize", newOptions.sizeMultiplier + "em");
+    node.setAttribute("mathsize", makeEm(newOptions.sizeMultiplier));
     return node;
   }
 });
@@ -22370,6 +22419,7 @@ defineFunction({
 
 
 
+
 defineFunction({
   type: "sqrt",
   names: ["\\sqrt"],
@@ -22428,7 +22478,7 @@ defineFunction({
 
 
     var imgShift = img.height - inner.height - lineClearance - ruleWidth;
-    inner.style.paddingLeft = advanceWidth + "em"; // Overlay the image and the argument.
+    inner.style.paddingLeft = makeEm(advanceWidth); // Overlay the image and the argument.
 
     var body = buildCommon.makeVList({
       positionType: "firstBaseline",
@@ -22554,6 +22604,7 @@ defineFunction({
 
 
 
+
 /**
  * Sometimes, groups perform special rules when they have superscripts or
  * subscripts attached to them. This function lets the `supsub` group know that
@@ -22645,7 +22696,7 @@ defineFunctionBuilders({
 
 
     var multiplier = options.sizeMultiplier;
-    var marginRight = 0.5 / metrics.ptPerEm / multiplier + "em";
+    var marginRight = makeEm(0.5 / metrics.ptPerEm / multiplier);
     var marginLeft = null;
 
     if (subm) {
@@ -22656,7 +22707,7 @@ defineFunctionBuilders({
 
       if (base instanceof SymbolNode || isOiint) {
         // $FlowFixMe
-        marginLeft = -base.italic + "em";
+        marginLeft = makeEm(-base.italic);
       }
     }
 
@@ -23557,6 +23608,7 @@ var macros = _macros;
 
 
 
+
  //////////////////////////////////////////////////////////////////////
 // macro tools
 
@@ -24178,7 +24230,7 @@ defineMacro("\\TeX", "\\textrm{\\html@mathml{" + "T\\kern-.1667em\\raisebox{-.5e
 // We compute the corresponding \raisebox when A is rendered in \normalsize
 // \scriptstyle, which has a scale factor of 0.7 (see Options.js).
 
-var latexRaiseA = fontMetricsData["Main-Regular"]["T".charCodeAt(0)][1] - 0.7 * fontMetricsData["Main-Regular"]["A".charCodeAt(0)][1] + "em";
+var latexRaiseA = makeEm(fontMetricsData["Main-Regular"]["T".charCodeAt(0)][1] - 0.7 * fontMetricsData["Main-Regular"]["A".charCodeAt(0)][1]);
 defineMacro("\\LaTeX", "\\textrm{\\html@mathml{" + ("L\\kern-.36em\\raisebox{" + latexRaiseA + "}{\\scriptstyle A}") + "\\kern-.15em\\TeX}{LaTeX}}"); // New KaTeX logo based on tweaking LaTeX logo
 
 defineMacro("\\KaTeX", "\\textrm{\\html@mathml{" + ("K\\kern-.17em\\raisebox{" + latexRaiseA + "}{\\scriptstyle A}") + "\\kern-.15em\\TeX}{KaTeX}}"); // \DeclareRobustCommand\hspace{\@ifstar\@hspacer\@hspace}
@@ -25875,7 +25927,8 @@ var Parser = /*#__PURE__*/function () {
       var argType = funcData.argTypes && funcData.argTypes[i];
       var isOptional = i < funcData.numOptionalArgs;
 
-      if (funcData.primitive && argType == null || funcData.type === "sqrt" && i === 1 && optArgs[0] == null) {
+      if (funcData.primitive && argType == null || // \sqrt expands into primitive if optional argument doesn't exist
+      funcData.type === "sqrt" && i === 1 && optArgs[0] == null) {
         argType = "primitive";
       }
 
@@ -26595,7 +26648,7 @@ var renderToHTMLTree = function renderToHTMLTree(expression, options) {
   /**
    * Current KaTeX version
    */
-  version: "0.13.16",
+  version: "0.13.24",
 
   /**
    * Renders the given LaTeX into an HTML+MathML combination, and adds
@@ -26687,7 +26740,7 @@ var renderToHTMLTree = function renderToHTMLTree(expression, options) {
 
 
 /* harmony default export */ var katex_webpack = (katex);
-__webpack_exports__ = __webpack_exports__.default;
+__webpack_exports__ = __webpack_exports__["default"];
 /******/ 	return __webpack_exports__;
 /******/ })()
 ;
@@ -35699,7 +35752,7 @@ function uuid() {
     return (S4() + S4() + '-' + S4() + '-' + S4());
 }
 const transformer = new browser.Transformer();
-const mindmapViewType = "mindmapView";
+const mindmapViewType = "mindmapview";
 const mindmapIcon = "blocks";
 class MindMapView extends obsidian.TextFileView {
     constructor(leaf, plugin) {
@@ -35744,13 +35797,23 @@ class MindMapView extends obsidian.TextFileView {
     mindMapChange() {
         if (this.mindmap) {
             var md = this.mindmap.getMarkdown();
+            var matchArray = [];
+            var collapsedIds = [];
+            const idRegexMultiline = /.+ \^([a-z0-9\-]+)$/gim;
+            while ((matchArray = idRegexMultiline.exec(md)) != null) {
+                collapsedIds = [...collapsedIds, ...matchArray.slice(1, 2)];
+            }
+            this.fileCache.frontmatter.collapsedIds = '';
+            if (collapsedIds.length > 0) {
+                this.fileCache.frontmatter.collapsedIds = collapsedIds;
+            }
             var frontMatter = this.getFrontMatter();
             this.data = frontMatter + md;
             // console.log(this.mindmap.path);
-            //this.app.vault.adapter.write(this.mindmap.path, this.data);
+            // this.app.vault.adapter.write(this.mindmap.path, this.data);
             try {
                 this.requestSave();
-                new obsidian.Notice(`${t("Save success")}`);
+                //new Notice(`${t("Save success")}`);
             }
             catch (err) {
                 console.log(err);
@@ -35805,6 +35868,16 @@ class MindMapView extends obsidian.TextFileView {
         var mdText = this.getMdText(this.data);
         var mindData = this.mdToData(mdText);
         mindData.isRoot = true;
+        const frontmatterContentRegExResult = /^---$(.+?)^---$.+?/mis.exec(data);
+        if (frontmatterContentRegExResult != null && frontmatterContentRegExResult[1]) {
+            frontmatterContentRegExResult[1].split('\n').forEach((frontmatterLine) => {
+                const keyValue = frontmatterLine.split(': ');
+                if (keyValue.length === 2) {
+                    const value = /^[{\[].+[}\]]$/.test(keyValue[1]) ? JSON.parse(keyValue[1]) : keyValue[1];
+                    this.fileCache.frontmatter[keyValue[0]] = value;
+                }
+            });
+        }
         this.mindmap = new MindMap(mindData, this.contentEl, this.plugin.settings);
         this.mindmap.path = ((_a = this.app.workspace.getActiveFile()) === null || _a === void 0 ? void 0 : _a.path) || '';
         this.mindmap.colors = this.colors;
@@ -35818,14 +35891,14 @@ class MindMapView extends obsidian.TextFileView {
                         this.fileCache = this.app.metadataCache.getFileCache(view.file);
                     }
                 }
-                this.mindmap.init();
+                this.mindmap.init(this.fileCache.frontmatter.collapsedIds);
                 this.mindmap.refresh();
                 this.mindmap.view = this;
                 this.firstInit = false;
             }, 100);
         }
         else {
-            this.mindmap.init();
+            this.mindmap.init(this.fileCache.frontmatter.collapsedIds);
             this.mindmap.refresh();
             this.mindmap.view = this;
         }
@@ -35878,9 +35951,12 @@ class MindMapView extends obsidian.TextFileView {
                 flag = false;
                 mapData.v = '> ' + mapData.v;
             }
+            const regexResult = /^.+ \^([a-z0-9\-]+)$/gim.exec(mapData.v);
+            const id = regexResult != null ? regexResult[1] : null;
+            // console.log(id);
             var map = {
-                id: uuid(),
-                text: mapData.v,
+                id: id || uuid(),
+                text: id ? mapData.v.replace(` ^${id}`, '') : mapData.v,
                 children: []
             };
             if (flag && mapData.c && mapData.c.length) {
@@ -36054,7 +36130,7 @@ class MindMapSettingsTab extends obsidian.PluginSettingTab {
             var _a;
             return text
                 .setValue(((_a = this.plugin.settings.strokeArray) === null || _a === void 0 ? void 0 : _a.toString()) || '')
-                .setPlaceholder('Example: red,oragne,blue ...')
+                .setPlaceholder('Example: red,orange,blue ...')
                 .onChange((value) => {
                 this.plugin.settings.strokeArray = value;
                 this.plugin.saveData(this.plugin.settings);
