@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "BlueonTwitterBlue-Space",
+      "path": "video/BlueonTwitterBlue-Space.mp4"
+    },
+    {
       "basename": "NotionLibrary",
       "path": "curation/NotionLibrary.csv"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Reading List",
       "path": "raindrop/Reading List.md"
-    },
-    {
-      "basename": "Social",
-      "path": "events/Social.md"
     }
   ],
   "omittedPaths": [],

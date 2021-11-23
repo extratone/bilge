@@ -1,14 +1,24 @@
 {
   "main": {
-    "id": "8e4ac557de7666c0",
+    "id": "a6e19fb873e92858",
     "type": "split",
     "children": [
       {
-        "id": "6e9059e78f8e78a8",
+        "id": "cc538a0143dd5d51",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "media-view",
+          "state": {
+            "file": "video/BlueonTwitterBlue-Space.mp4",
+            "info": {
+              "type": "video",
+              "filename": "BlueonTwitterBlue-Space.mp4",
+              "src": "video/BlueonTwitterBlue-Space.mp4",
+              "subtitles": [],
+              "hash": ""
+            },
+            "currentTime": 0
+          }
         }
       }
     ],
@@ -69,8 +79,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -101,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "video/BlueonTwitterBlue-Space.mp4",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "video/BlueonTwitterBlue-Space.mp4"
+              }
             }
           },
           {
@@ -125,6 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "video/BlueonTwitterBlue-Space.mp4",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,8 +166,9 @@
     "direction": "horizontal",
     "width": 270.94097900390625
   },
-  "active": "6e9059e78f8e78a8",
+  "active": "cc538a0143dd5d51",
   "lastOpenFiles": [
+    "video/BlueonTwitterBlue-Space.mp4",
     "curation/NotionLibrary.csv",
     "pages/pages.md",
     "Anecdotes.md",
@@ -163,7 +177,6 @@
     "telegram/Universal Clipboard.md",
     "telegram/A Hearty Foundation.md",
     "telegram/Community.md",
-    "telegram/File Transfer & Cloud Backup.md",
-    "CHANGELOG.md"
+    "telegram/File Transfer & Cloud Backup.md"
   ]
 }
