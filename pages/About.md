@@ -67,3 +67,7 @@ Emailing [**davidblue@extratone.com**](mailto:davidblue@extratone.com) and/or en
 ---
 
 <iframe style="border: 0; width: 100%; height: 1600px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/social-directory-21059174/embed"></iframe>
+
+---
+
+<iframe src="https://eldritch.cafe/@cantinto/106809006862919797/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="420" height="195" allowfullscreen="allowfullscreen"></iframe>
