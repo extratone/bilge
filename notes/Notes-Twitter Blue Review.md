@@ -1,13 +1,13 @@
 # Notes-Twitter Blue Review
 
-## General Notes
+[[Twitter Blue Space]]
 
-- [ ] According to the expectedly vague, absurd depiction of Twitter Blue's target users, Twitter thinks I, David Blue, should subscribe without a doubt, so I did. (In general, I comply with all behavioral suggestions from Twitter, Incorporated, except for Jack Dorsey's implicit endorsement of Apple Notes as an appropriate means of publishing public-facing documentation.)
+## General Notes
 - [ ] Bookmark folders don't function on Desktop???
 - [ ] Configurable Navigation is great, but *make Home removable*!
 - [ ] I absolutely love continuing to see ads.
 - [ ] Lists Discovery (sortof separate) helped me catch a few accounts/friends I assumed were on The New List uhhh for years???
-- [x] “These features should be available to everyone” is the recurring sentiment among the commentary I’ve found so far.
+- [ ] “These features should be available to everyone” is the recurring sentiment among the commentary I’ve found so far.
 - [ ] All Twitter Users are Power Users.
 - [ ] **Stop talking about this bullshit like it’s unavoidable**.
 - [ ] [**POST QUEUE**](https://twitter.com/NeoYokel/status/1460486229800230914) - An actual poweruser feature that cannot be found in *any* Twitter client aside from the PRO tools.
@@ -45,6 +45,7 @@
 - [ ] `![Thread Reader - Twitter Blue for iOS](https://i.snap.as/SAYPlThr.png)`
 - [ ] `![STOP](https://i.snap.as/RLAwI1K4.png)`
 - [ ] `![Voice Tweets in Thread Reader - Twitter for iOS](https://i.snap.as/1ia6xNyv.png)`
+- [ ] `![Twitter Spaces by David Blue](https://i.snap.as/LCiDvTxG.jpeg)`
 
 ## Tweets
 
@@ -53,15 +54,15 @@
 
 ## References
 
-- [ ] [**Twitter shouldn’t be hiding basic app improvements behind its Blue paywall**](https://www.theverge.com/2021/11/14/22778827/twitter-blue-undo-button-paywall-features-paid-free)
+- [**Twitter shouldn’t be hiding basic app improvements behind its Blue paywall**](https://www.theverge.com/2021/11/14/22778827/twitter-blue-undo-button-paywall-features-paid-free)
 
-- [ ] [Twitter smarter, Twitter harder with Twitter Blue](https://blog.twitter.com/en_us/topics/product/2021/twitter-smarter--twitter-harder-with-twitter-blue)
+- [Twitter smarter, Twitter harder with Twitter Blue](https://blog.twitter.com/en_us/topics/product/2021/twitter-smarter--twitter-harder-with-twitter-blue)
 
-- [ ] [I tried Twitter Blue so you don't have to — here's what I found](https://www.androidcentral.com/i-tried-twitter-blue-so-you-dont-have) | *Android Central*
+- [I tried Twitter Blue so you don't have to — here's what I found](https://www.androidcentral.com/i-tried-twitter-blue-so-you-dont-have) | *Android Central*
 
-- [ ] [Twitter Blue Is Now Available. Here's Why We Hate It...](https://www.makeuseof.com/twitter-blue-available-why-we-hate-it/) | *MakeUseOf* Damn MakeUseOf… lol
-- [ ] [Where the Intention Economy Beats the Attention Economy](https://blogs.harvard.edu/doc/2021/10/04/where-intention/) | Doc Searls 
-- [ ] [Twitter Blue’s Nuzzel-like top articles summary has arrived for iOS](https://www.theverge.com/2021/11/15/22783594/twitter-blue-nuzzel-top-articles-ios-arrivial-top-articles) | *The Verge*
+- [Twitter Blue Is Now Available. Here's Why We Hate It...](https://www.makeuseof.com/twitter-blue-available-why-we-hate-it/) | *MakeUseOf* Damn MakeUseOf… lol
+- [Where the Intention Economy Beats the Attention Economy](https://blogs.harvard.edu/doc/2021/10/04/where-intention/) | Doc Searls1 
+- [Twitter Blue’s Nuzzel-like top articles summary has arrived for iOS](https://www.theverge.com/2021/11/15/22783594/twitter-blue-nuzzel-top-articles-ios-arrivial-top-articles) | *The Verge*
 
   
 
@@ -78,6 +79,13 @@
 - [ ] [‎Waveform: The MKBHD Podcast: Sony Xperia Pro-i, a USB-C iPhone, and Twitter Blue! on Apple Podcasts](https://podcasts.apple.com/us/podcast/sony-xperia-pro-i-a-usb-c-iphone-and-twitter-blue/id1474429475?i=1000541583420)
 
 - [ ] [‎Waveform: The MKBHD Podcast: Twitter Blue and WWDC! on Apple Podcasts](https://podcasts.apple.com/us/podcast/twitter-blue-and-wwdc/id1474429475?i=1000525031067)
+- [x] [Twitter CTO Parag Agrawal replaces Jack Dorsey as CEO](https://www.theverge.com/2021/11/29/22807651/jack-dorsey-steps-down-twitter-ceo-parag-agrawal-replacement)
+- [ ] [Conservatives think Twitter's new CEO quoting 'The Daily Show' is anti-white](https://www.inputmag.com/culture/right-wing-losers-think-twitters-new-ceo-paraphrasing-the-daily-show-is-anti-white)
+- [ ] [Washington Post’s “look at Dorsey’s legacy”](https://www.washingtonpost.com/technology/2021/11/29/dorsey-steps-down-twitter/)
+- [ ] [New York Times’ profile of Parag Agrawal](https://www.nytimes.com/2021/11/29/technology/parag-agrawal-twitter.html)
+- [ ] [Gist of Jack Dorsey’s Resignation Letter](https://gist.github.com/extratone/0430ca7ed934cd0ed66e452ba90f014b)
+- [ ] [Siri Voice 2 reading Jack’s resignation email aloud](https://whyp.it/t/jack-dorseys-resignation-email-read-aloud-by-siri-voice-2-eX5Yg)
+- [ ] [Jack Dorsey Was the Soul of Twitter](https://www.wired.com/story/jack-dorsey-was-the-soul-of-twitter/) - ([No](https://twitter.com/neoyokel/status/1465557949875736582).)
 
 
 
