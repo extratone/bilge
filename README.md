@@ -20,6 +20,23 @@ See [**my 2020 reflectory post**](https://bilge.world/2020) for a few more detai
 <!-- BLOG-POST-LIST:END -->
 
 
+## Extras
+
+![The Psalms Ebook - Siri Shortcut](https://user-images.githubusercontent.com/43663476/144744764-99fe9020-8ac2-4637-b3a5-856cbd2d4de6.png)
+
+#### [The Psalms Ebook](https://www.icloud.com/shortcuts/eff33d5e122449deb190c70992022c97) (Siri Shortcut)
+A Siri Shortcut that prompts Write.as to generate a .epub file of the whole *Psalms*, *live*. 
+
+![Best of 2021 Cover Art](https://user-images.githubusercontent.com/43663476/144007296-8d74db20-4af6-4ac9-8e8f-75b79347b72f.png)
+
+#### [Best of 2021](https://bit.ly/db2021am) (Apple Music Playlist)
+A playlist of favorites from a year spent listening to and curating electronic music on Apple Music.
+
+![Extratone's Telegram Channel](https://user-images.githubusercontent.com/43663476/144744910-b11b6429-42cd-49c4-84bc-66920d2cd723.png)
+
+#### [Telegram Channel](https://t.me/s/extratone)
+In my estimation, *the* best way to keep up with shared media and curatorial content from myself as well as the ideal place to reach out. See: [the Issue for my upcoming essay on Telegram](https://github.com/extratone/bilge/issues/228).
+
 ## Git
 
 As part of [my continued exploration of Git as an editorial tool](https://github.com/extratone/bilge/discussions/86), I have done my best to make use of as many GitHub-specific features as possible.
