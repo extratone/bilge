@@ -2,16 +2,27 @@
 
 [[Twitter Blue Space]]
 
+## By Feature
+- [[Thread Reader]]
+- [[Custom Navigation]]
+- [[Undo Tweet]]
+- [[Longer Videos & Pinned Conversations]]
+- [[Ad-Free Articles]]
+- [[Bookmark Folders]]
+
 ## General Notes
-- [ ] Bookmark folders don't function on Desktop???
-- [ ] Configurable Navigation is great, but *make Home removable*!
+- [x] Bookmark folders don't function on Desktop???
+- [x] Configurable Navigation is great, but *make Home removable*!
 - [ ] I absolutely love continuing to see ads.
 - [ ] Lists Discovery (sortof separate) helped me catch a few accounts/friends I assumed were on The New List uhhh for years???
-- [ ] “These features should be available to everyone” is the recurring sentiment among the commentary I’ve found so far.
+- [x] “These features should be available to everyone” is the recurring sentiment among the commentary I’ve found so far.
 - [ ] All Twitter Users are Power Users.
 - [ ] **Stop talking about this bullshit like it’s unavoidable**.
 - [ ] [**POST QUEUE**](https://twitter.com/NeoYokel/status/1460486229800230914) - An actual poweruser feature that cannot be found in *any* Twitter client aside from the PRO tools.
-- [ ] It just occurred to me that the app has not randomly logged me out since I paid for Twitter Blue.  
+- [x] It just occurred to me that the app has not randomly logged me out since I paid for Twitter Blue. 
+- [ ] Introducing more preferences is great…but only if they actually persist.
+- [ ] [[Mobile Dot Twitter Dot Com]]
+- [ ] *My* Jack-Leaving-Twitter Conspiracy: Jack leaving Twitter now is a coverup - knowing tech media would talk about his departure endlessly instead of the details of how low-value Twitter Blue is.
 
 ```
 <audio controls>
@@ -28,6 +39,8 @@
 
 ## Tweets
 - [ ] [Avery on threader absorbtion](https://twitter.com/echoesremained/status/1460391960536096771) - `https://twitter.com/echoesremained/status/1460391960536096771?s=21`
+- [ ] [Mobile Dot Twitter Dot Com](https://twitter.com/neoyokel/status/1467393675579871234)
+- [ ] [Preferences Reset](https://twitter.com/neoyokel/status/1463658007791812608)
 
 ## Videos
 1. [Survey](https://twitter.com/NeoYokel/status/1459232262986379265)
@@ -44,8 +57,12 @@
 - [ ] `![Twitter Blue Brand Image](https://i.snap.as/F4AODRKo.png)`
 - [ ] `![Thread Reader - Twitter Blue for iOS](https://i.snap.as/SAYPlThr.png)`
 - [ ] `![STOP](https://i.snap.as/RLAwI1K4.png)`
-- [ ] `![Voice Tweets in Thread Reader - Twitter for iOS](https://i.snap.as/1ia6xNyv.png)`
+- [x] `![Voice Tweets in Thread Reader - Twitter for iOS](https://i.snap.as/1ia6xNyv.png)`
 - [ ] `![Twitter Spaces by David Blue](https://i.snap.as/LCiDvTxG.jpeg)`
+- [ ] `![How to discover Lists - Twitter Documentation](https://i.snap.as/1VbP6m6d.png)`
+- [ ] `![Lists Discovery - Twitter for iOS](https://i.snap.as/thUdMo2o.png)`
+- [ ] `![Undo Tweet - Twitter Blue](https://i.snap.as/Qfb0rFvf.png)`
+- [ ] `![Bookmark Folders - Twitter Blue](https://i.snap.as/VyMNqr7V.png)`
 
 ## Tweets
 
@@ -86,6 +103,9 @@
 - [ ] [Gist of Jack Dorsey’s Resignation Letter](https://gist.github.com/extratone/0430ca7ed934cd0ed66e452ba90f014b)
 - [ ] [Siri Voice 2 reading Jack’s resignation email aloud](https://whyp.it/t/jack-dorseys-resignation-email-read-aloud-by-siri-voice-2-eX5Yg)
 - [ ] [Jack Dorsey Was the Soul of Twitter](https://www.wired.com/story/jack-dorsey-was-the-soul-of-twitter/) - ([No](https://twitter.com/neoyokel/status/1465557949875736582).)
+- [ ] [New Lists Lookup Functionality](https://trello.com/c/DSYUbM5D) - Twitter Roadmap (Trello)
+- [ ] [Scroll is shutting down in "approximately" 30 days to become part of Twitter Blue](https://www.theverge.com/2021/10/5/22711233/scroll-shutting-down-twitter-blue-standalone-subscription-ad-free-article-service) | *The Verge*
+- [ ] [Scroll, the ad-free news startup, tests a limited partnership with McClatchy](https://www.niemanlab.org/2020/12/scroll-the-ad-free-news-startup-will-experiment-with-bundled-subscriptions-at-eight-mcclatchy-sites/) | *Nieman Lab*
 
 
 
