@@ -1,0 +1,806 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+	<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+		<meta charset="utf-8">
+
+		<title>Mastodon for iOS Review &mdash; The Psalms</title>
+		
+		<link rel="stylesheet" type="text/css" href="https://cdn.writeas.net/css/write.e22275dd26a35160e79b7.css" />
+		
+		<link rel="shortcut icon" href="https://i.snap.as/iTL3WJk.png" />
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<link rel="canonical" href="mastodon-ios-app-review.html" />
+		<meta name="generator" content="Write.as">
+		<meta name="title" content="Mastodon for iOS Review &mdash; The Psalms">
+		<meta name="description" content="Indeed, it is here. Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the sp...">
+		
+		<meta name="twitter:label1" value="Views">
+		<meta name="twitter:data1" value="439">
+		<link rel="author" href="index.html" />
+		<meta name="author" content="The Psalms" />
+		<meta itemprop="description" content="Indeed, it is here. Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the sp...">
+		<meta itemprop="datePublished" content="2021-07-31" />
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:description" content="Indeed, it is here. Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the sp...">
+		<meta name="twitter:title" content="Mastodon for iOS Review &mdash; The Psalms">
+		<meta name="twitter:image" content="https://i.snap.as/H212I22P.png">
+		<meta property="og:title" content="Mastodon for iOS Review" />
+		<meta property="og:description" content="Indeed, it is here. Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the sp..." />
+		<meta property="og:site_name" content="The Psalms" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="https://bilge.world/mastodon-ios-app-review" />
+		<meta property="og:updated_time" content="2021-07-31T18:47:01Z" />
+		<meta property="og:image" content="https://i.snap.as/H212I22P.png" /><meta property="og:image" content="https://i.snap.as/7UTf6Qyx.png" /><meta property="og:image" content="https://i.snap.as/IRzEOzXl.png" /><meta property="og:image" content="https://i.snap.as/P5oxTAg9.png" /><meta property="og:image" content="https://i.snap.as/F21Jm29Q.png" /><meta property="og:image" content="https://i.snap.as/H7NjCvd7.png" /><meta property="og:image" content="https://i.snap.as/hqmcJQGx.jpg" /><meta property="og:image" content="https://i.snap.as/sHTDx8AV.png" /><meta property="og:image" content="https://i.snap.as/NKHk8e1W.png" />
+		<meta property="article:published_time" content="2021-07-31T18:47:01Z">
+		
+        
+		<style type="text/css">/* Written in November 2020 by David Blue for bilge.world.
+
+Updated September 14th, 2021 with correct footnote formatting.
+
+`Version 3.1.1` https://github.com/extratone/bilge/releases/tag/3.1
+
+Full, up-to-date source code available at https://github.com/extratone/bilge/
+
+# [The Unlicense, Dave Edition](https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1)
+
+Considering my use of Git as a means to track revisions on my own writing, it's important to note that you should feel free to replace all instances of "software" in the above statement with "words," "writing," "expression," etc.
+
+While I appreciate tremendously the work and contribution of [Arlo Bendiken](https://ar.to/2010/01/set-your-code-free) in the form of The Unlicense, I would like to add that I see no need, personally, to make the refutation of Intellectual Property law regarding my own work into some profound ethical statement. As it stands, I have not to my knowledge been the victim of any sort of theft of any kind, and find the suggestion highly unlikely. If I *am*  made aware of such a case, there is certainly a possibility that I may change my mind on this issue, so I suppose I should highlight that **THESE TERMS ARE SUBJECT TO CHANGE**, though I suspect I would be more flattered and/or amused than actually offended. 
+
+I would also like to annotate that my use of this license should not be regarded as a suggestion that anyone else follow my example, or that I "believe in" taking such action regarding one's work, generally. While I did indeed take the time to set up [a repository](https://github.com/extratone/eoi) of John Perry Barlow's "[The Economy of Ideas](https://www.wired.com/1994/03/economy-ideas/)" in a bunch of different document formats, I do not necessarily agree with all of what he argued, especially in the context of the world 27 years later. If you *are* particularly interested in my opinion on the matter for whatever reason, here is what I have to say to you:
+
+The principled beginning of The Open Web was a great moment in history, but - like all historical principles - it is extremely important that we consider *context* and maintain an appropriate level of criticism when looking back on old manifestos written by old white guys. In general, try your best to *be reasonable*.
+
+***
+
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <https://unlicense.org>
+
+*/
+
+@import url('https://use.typekit.net/kst2rrh.css');
+
+body {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #FFF4E6;
+}
+
+/* old background-color: #f2f2f2 */
+
+#blog-title a {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    /* font-style:bold !important; */
+    color: #00006b;
+}
+
+header nav a {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+header p.description {
+    /* font-style: italic; */
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    line-height: 200% !important;
+    color: #00006b !important;
+    font-size: 1em;
+    margin-left: inherit;
+    margin-right: inherit;
+}
+
+body#collection header {
+    margin-bottom: 1em !important;
+}
+
+
+header nav a {
+    color: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    /* margin-bottom: 1em; */
+}
+
+body,
+article {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    line-height: 155%;
+    font-size: 1.1em !important;
+    color: #000000;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    /* margin-top:1rem !important; */
+}
+
+
+body,
+article a:link {
+    color: #00006b;
+}
+
+body,
+article a:visited {
+    color: #FF0000;
+}
+
+h1 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-size: 2em !important;
+}
+
+h2 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1.4em !important;
+}
+
+h3 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    font-weight: 600;
+    font-size: 1.3em !important;
+}
+
+h4 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h5 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h6 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: .85em !important;
+}
+
+code {
+    /* background-color:#f7ff85 !important; */
+    /* border: 1px solid #da2573 !important;
+    border-radius: 1px !important; */
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+body #post pre, body#collection pre, body#post pre, body#subpage pre {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+.post-title a:visited,
+.post-title a:link {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    color: #00006b !important;
+    font-size: 1.7rem !important;
+}
+
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b !important;
+    font-size: 1rem !important;
+}
+
+body footer nav {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b;
+}
+
+blockquote {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    color: #333333 !important;
+    border-left: 2.5px solid #00006b !important;
+}
+
+table {
+    background-color: #FFFdeb !important;
+    font-size: 0.8em !important;
+    line-height: 1.2em;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    border: 1px solid #f43f32 !important;
+    border-radius: 1px !important;
+}
+
+article table td, article table th {
+    border: 1px solid !important;
+    border-color: #da2573 !important;
+}
+
+
+.gist {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+}
+
+.gist .gist-meta {
+    font-family: proxima-nova-extra-condensed, sans-serif !important;
+    font-weight: 600 !important;
+    color: #1c0021 !important;
+}
+
+.gist, .gist article, .gist article p {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+}
+
+
+.gist .gist-file .gist-data {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+}
+
+.gist, .gist article, .gist article p {
+    white-space: normal !important;
+}
+
+/* .gist .gist-hr {
+    display: hide !important;
+} */
+
+hr {
+    border: 2px solid red;
+}
+
+
+body footer a.home:link,
+body footer a.home:visited {
+    color: #00006b;
+}
+
+.action {
+    font-family: proxima-nova-condensed, sans-serif;
+}
+
+nav#manage ul a {
+    color: #00006b;
+}
+
+nav#paging a {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+}
+
+
+a.bt {
+    background-color: #0d0d0d !important;
+    color: #00006b !important;
+}
+
+a.hashtag {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: #00006b !important;
+}
+
+body#collection #wrapper time,
+body#subpage #wrapper time,
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 0.95em;
+    color: #00006b !important;
+}
+
+
+.custom-nav {
+    text-align: center;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: red;
+}
+
+.custom-nav a:link,
+.custom-nav a:visited,
+.custom-nav a:hover,
+.custom-nav a:active {
+    color: #00006b;
+}
+
+.custom-nav a:hover,
+.custom-nav a:active {
+    text-decoration: underline;
+}
+
+#subscribe-btn {
+    border: 1px #FF0000;
+    background: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: #FFF4E6;
+}
+
+#emailsub {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+}
+
+sup {
+    vertical-align: auto !important;
+}
+
+.footnote {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /*vertical-align: sub !important; */
+    margin: -4px 0px 0 0 !important;
+    color: #da2573 !important;
+    font-size: 0.8em;
+    line-height: 0.1em !important;
+    text-decoration:underline #FF0000;
+}
+
+.footnote-ref {
+    margin-left:15px;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /* margin-left:2.5px; */
+    color: #da2573 !important;
+    font-size: 1.15em;
+    /* text-decoration:underline #FF0000; */
+}
+
+.footnote-ref-text {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+    color: #1c0021 !important;
+    font-size: 1em;
+    /* border-top: #00006b dotted 1px; */
+}</style>
+		
+
+	</head>
+	<body id="post">
+		
+		<div id="overlay"></div>
+
+		<header>
+		<h1 dir="ltr" id="blog-title"><a rel="author" href="index.html" class="h-card p-author">The Psalms</a></h1>
+			<nav>
+				
+				<a class="pinned" href="about.html">About</a><a class="pinned" href="reading.html">Reading</a><a class="pinned" href="podcast.html">Podcast</a>
+				
+				
+			</nav>
+		</header>
+
+		
+
+		<article id="post-body" class="norm h-entry "><h2 id="title" class="p-name dated">Mastodon for iOS Review</h2><time class="dt-published" datetime="2021-07-31T18:47:01Z" pubdate itemprop="datePublished" content="2021-07-31 18:47:01 &#43;0000 UTC">July 31, 2021</time><div class="e-content"><p><img src="https://i.snap.as/sHTDx8AV.png" alt="Mastodon for iOS"/></p>
+
+<p>Indeed, <strong><a href="https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974">it is here</a></strong>. Essentially, Mastodon Commander-in-Chief Eugen Rochko and his team developed a whole, exceptional iOS app in the span of time it took me to write the <a href="mastodon-ios-apps.html">third-party Mastodon iOS app showcase</a> just before this item in <em>The Psalms</em>’ feed. If you’re new to this conversation, perhaps it’d be best to start in February of this year, with <a href="https://blog.joinmastodon.org/2021/02/developing-an-official-ios-app-for-mastodon/">Eugen’s announcement of the “official” Mastodon app’s development</a> on the official Mastodon blog. “We need an official Mastodon app that is free to download and that is specialized in helping new users get started on the platform,” argues Eugen, in response to feedback indicating “the lack of an app that carries [Mastodon’s] name in the app stores trips up newcomers.” My first thought regarding the idea of an app <em>Specialized</em> in onboarding cynically jumped to the assumption that such a design choice would result in a less-than-ideal experience for those of us who already call Mastodon our home. However, as a <a href="https://patreon.com/mastodon">Patreon</a> supporter of the Mastodon Project, I’ve had the privilege of testing the final result for the past five weeks, and I can tell ya… It is so much more than that.</p>
+
+<p><iframe allow="monetization" class="embedly-embed" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FbD8GQvNrE7E%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DbD8GQvNrE7E&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FbD8GQvNrE7E%2Fhqdefault.jpg&amp;key=d932fa08bf1f47efbbe54cb3d746839f&amp;type=text%2Fhtml&amp;schema=youtube" width="640" height="360" scrolling="no" title="YouTube embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe></p>
+
+<h2 id="onboarding">Onboarding</h2>
+
+<p>I’d like to offer the <a href="https://youtu.be/bD8GQvNrE7E">demo video</a> embedded above as an unusually succinct (from me) demonstration of the delightfully well-considered onboarding process. I would go so far as to declare it <strong>the best all-around social network onboarding process currently available</strong>. Having very recently slugged through the official Twitter app’s equivalent, the frames greeting new Mastodon users within this app are unbelievably exceptional.</p>
+
+<p><img src="https://i.snap.as/P5oxTAg9.png" alt="Onboarding in Mastodon for iOS"/></p>
+
+<p>First, we’re presented with a list of Mastodon instances (servers,) organized by category. Those friends of mine to whom I’ve failed to “sell” Mastodon have cited server selection as a major obstacle of confusion and I can’t imagine a better means of addressing it than the tool offered by this app. It’s beautiful and fast in a way previous utilities – like <a href="https://instances.social">instances.social</a> – cannot be, especially for those most lacking in attention. Once we’ve chosen a server, we are immediately presented up front with a clearly readable document containing the “ground rules” set by its administrators. In my experience, these rules tend to be notably <strong>easy-to-understand</strong> and <strong>not open to interpretation</strong>, as if they were written primarily in the interest of community wellness rather than to construct a defense from legal action.</p>
+
+<p>After we’ve agreed to the relevant terms of the server we’ve chosen, it’s on to account creation, which offers the options to which citizens of the social web have become accustomed – profile picture, username, email address, and password – but notably without the <a href="https://gimletmedia.com/shows/reply-all/n8hxzr7/176-twicarus">inexplicable errors</a> exhibited for years in Big Social’s equivalent functions. Immediately following this frame, we are prompted to check our inboxes for a confirmation link. The explanation for my dramatic exclamation in the demo video comes down to Mastodon for iOS’ implementation of the operating system&#39;s intra-app linking function (with the syntax <code>mastodon://</code>,) which (in my experience) is hardly ever utilized correctly. The result is that I was able to click the incoming confirmation link within Outlook for iOS and then proceed <em>within the Mastodon app</em> instead of being bounced off to a web browser. This integration should not be remarkable, but – in the context of iOS development as it stands in 2021 – it most certainly is.</p>
+
+<p>After confirmation, we are offered the option to explore the app’s “Find people to follow” function, which is informed by “a mix of most followed accounts and most-engaged-with accounts from recent times that post primarily in your language,” as <a href="https://mastodon.social/@Gargron/106674282886448440">Eugen explained</a> in response to an earlier draft of this post. Indeed, the remarkably relevant results offered to me in the demo were not actually remarkable at all: I just know a lot of folks on mastodon.online – especially those who post the most. That&#39;s the whole bit! If you need “proof,” <a href="https://mastodon.online/@keys">here is the finished result</a>, but obviously, I would advise you download the app and try yourself. (It&#39;s a cliché, yes, but seriously... What do you have to lose?)</p>
+
+<p><img src="https://i.snap.as/F21Jm29Q.png"/></p>
+
+<h2 id="advantages">Advantages</h2>
+
+<p>One of the distinctly missing functions among the breadth of third-party offerings has been the ability to edit one&#39;s profile information from within the app. Mastodon for iOS addresses this in a particularly visually impressive way (see image embedded above.) Some also have yet to be updated with support for Polls, which the new app encompasses in a manner that puts Big Social&#39;s equivalents to shame. The ability to vertically drag individual options in the compose interface, for instance, reflects insight only gained by <em>actually using these features</em>. The result is definitively the best means of crafting a Mastodon poll, for what that&#39;s worth.</p>
+
+<p><img src="https://i.snap.as/NKHk8e1W.png" alt="Polling in Mastodon for iOS"/></p>
+
+<h3 id="shortcuts">Shortcuts</h3>
+
+<p>As of this writing, Mastodon for  iOS also includes Siri Shortcut support by way of a single action, entitled “Post on Mastodon.” Mostly in the interest of demonstration, I have created and published two Shortcuts around this action on RoutineHub:</p>
+<ol><li><p>“<strong><a href="https://routinehub.co/shortcut/9776/">Mastodon Share</a></strong>” – a text-only Shortcut meant for the Share Sheet.</p></li>
+
+<li><p>“<strong><a href="https://routinehub.co/shortcut/9781/">Mastgur</a></strong>” – a more complicated Shortcut utilizing Imgur actions to get around the current Mastodon for iOS action&#39;s lack of multimedia support.</p></li></ol>
+
+<p><img src="https://i.snap.as/H212I22P.png" alt="Siri Shortcuts for Mastodon for iOS"/></p>
+
+<p>Mastodon friend Emma&#39;s <a href="https://mstdn.cloud.themaymeow.com/@emma/106656610574981709">customization of the latter</a> is a great example of how quickly one can tailor these (and all other) Siri Shortcuts to their own particular use.</p>
+
+<h2 id="challenges">Challenges</h2>
+
+<p>As of this writing, coverage of the app’s release amounted only to <a href="https://www.theverge.com/2021/7/30/22602275/mastodon-decentralized-social-network-official-ios-app-launches">a single news item from </a><em><a href="https://www.theverge.com/2021/7/30/22602275/mastodon-decentralized-social-network-official-ios-app-launches">The Verge</a></em><a href="https://www.theverge.com/2021/7/30/22602275/mastodon-decentralized-social-network-official-ios-app-launches">’s Adi Robinson</a>, which notes the omission of local/federated “firehose” timeline views out of a desire to “reduce the potential for conflict with Apple.” (see: the Inc.’s <a href="https://litchie.com/2021/07/idos2-will-be-gone">blatantly inconsistent enforcement</a> of its store policies in the past few months.) As a Mastodon user who <em>does</em> occasionally engage with my local and federated timelines, I find this decision reasonable considering the wellspring of third-party apps on iOS which <em>do</em> support said views and the app’s explicit focus on brand new, fragile users. My personal experience disagrees with Eugen’s description of these timelines as a suboptimal means of capital-D Discovery, however, considering I’ve found ~70-80% of <a href="https://github.com/extratone/bilge/blob/main/curation/mastodonfollowing.csv">the 600+ accounts I follow</a>, there. (Though it should be noted that I <em>do not</em> represent any majority in my social media-specific preferences or behavior.)</p>
+
+<p>Though the onboarding process’ people to follow finder is pretty darn stellar, I worry that our hypothetical new user has a high chance of landing on a more-or-less empty timeline. (For many, I’m sure this would be a welcome relief, at least initially.) A well-limited Local timeline view, at least, might prove a valuable upcoming addition. Regardless, I am 100% positive these omissions from the <em>initial release</em> version of this iOS app do not constitute some new ideological opposition to the greater concept of Federation.</p>
+
+<p><img src="https://i.snap.as/7UTf6Qyx.png" alt="Composition Details in Mastodon for iOS"/></p>
+
+<p>Naturally, a recurring complaint about the app is already surfacing in hashtag iOS on the Fediverse: <a href="https://mastodon.social/@wiredfire/106672087623244223">no multiple account support</a>?! Perhaps you’ve already written me off as a mindless devotee, but – especially after exploring <a href="https://github.com/extratone/FediiOS">the whole breadth of Mastodon apps available on iOS</a> (all of which support multiple accounts) – the significance of this omission as a target for gripes seems laughably minuscule. Considering I have yet to delete any of the 20 apps I tested, I personally feel <em>pretty well covered</em> when it comes to checking my (embarrassingly numerous) alt accounts. It’d be one thing if longtime users/powerusers were left wanting for available apps designed for us, but we have a more diverse, quality palette to choose from than any other social media protocol. To decry this app – which was explicitly designed from the very beginning for new users – for skipping a function offered by <em>more than a dozen alternatives</em> is patently absurd. If you’ve got multiple accounts you feel the need to check regularly, order them by frequency, authenticate all but number one in the free, dependable <a href="https://apps.apple.com/us/app/amaroq-for-mastodon/id1214116200">Amaroq</a>, and save Mastodon’s new app for your main.</p>
+
+<h2 id="delights">Delights</h2>
+
+<p>The “relentless originality” I spoke of in my <em>third-party</em> showcase is no less exemplified in this first-party Mastodon app. Its color palette is a welcome departure from Tootsuite’s (the mother web application,) while still remaining definitively recognizable. The artwork dispersed throughout the app is adorable, as you’ve seen, and its bespoke audio player is without a doubt my favorite of such devices.</p>
+
+<p><img src="https://i.snap.as/IRzEOzXl.png" alt="Mastodon for iOS Audio Player"/></p>
+
+<p>Custom audio notifications especially stood out among those third-party apps, so the project-sourced app’s inclusion of the iconic Mastodon “boop” is yet another small inclusion that adds a surprising amount of substance to the whole experience.</p>
+
+
+
+<p>Though quite specific to myself and the few other iPhone users who regularly command our handsets with physical keyboards, the Mastodon app’s inclusion of <strong>Bluetooth keyboard shortcuts</strong> provoked a moment of true euphoria when I first discovered them. As per my ‘<em><a href="https://github.com/extrakeys">iPhone and the Bluetooth Keyboard</a></em> project, I have bestowed upon Mastodon for iPhone semi-officially “our” Universal Clacker Award for its consideration of us “full keyboard-strapped cellular phone users.” (As of this writing, the award is just a “trophy.”)</p>
+
+<p><img src="https://i.snap.as/H7NjCvd7.png" alt="Mastodon for iPhone - Universal Clacker Award"/></p>
+
+<h3 id="mastodon-for-ios-keyboard-shortcuts">Mastodon for iOS Keyboard Shortcuts</h3>
+
+<table>
+<thead>
+<tr>
+<th align="center">Action</th>
+<th align="center">Key</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td align="center">Open Compose Window</td>
+<td align="center">⌘ + N</td>
+</tr>
+
+<tr>
+<td align="center">Send Toot</td>
+<td align="center">⌘ + Return</td>
+</tr>
+
+<tr>
+<td align="center">Home Timeline/Refresh Timeline</td>
+<td align="center">⌘ + 1</td>
+</tr>
+
+<tr>
+<td align="center">Explore Tab</td>
+<td align="center">⌘ + 2</td>
+</tr>
+
+<tr>
+<td align="center">Notifications</td>
+<td align="center">⌘ + 3</td>
+</tr>
+
+<tr>
+<td align="center">Favorites</td>
+<td align="center">⌘ + F</td>
+</tr>
+
+<tr>
+<td align="center">Settings</td>
+<td align="center">⌘ + ,</td>
+</tr>
+
+<tr>
+<td align="center">Next Toot</td>
+<td align="center">j</td>
+</tr>
+
+<tr>
+<td align="center">Previous Toot</td>
+<td align="center">k</td>
+</tr>
+
+<tr>
+<td align="center">Toot Details</td>
+<td align="center">l</td>
+</tr>
+
+<tr>
+<td align="center">Favorite</td>
+<td align="center">f</td>
+</tr>
+
+<tr>
+<td align="center">Boost</td>
+<td align="center">r</td>
+</tr>
+</tbody>
+</table>
+
+<p>An important consideration to inform the perspective through which we analyze such an app, I’d argue, is that <strong>this app could have been very bad</strong>. Those who bewilderingly measure the success of social networking services/protocols by their profit growth viability, alone, may well suggest it <em>should</em> have been bad. Had it been just mediocre, half-assed, and/or full of bugs, I’m sure I would still have paused everything to write and publish this review. The reality, though, is nothing less than exceptional. Unlike some of the third-party examples I discussed, I would argue Mastodon for iPhone to be an “objectively” excellent piece of software in that I cannot imagine any one sort of iPhone user <em>not</em> finding it refreshing in some way.</p>
+
+
+
+<p>I would sincerely worry for the person who feels nothing at all from the artwork, the bespoke UI, or the general care exhibited in its craftsmanship, <em>but</em> they wouldn’t have exhausted reasons to use it. From the very first beta release I installed to the first release version pushed to the App Store just yesterday, the app has <em>never</em> crashed, and the single bug I encountered was documented and fixed before I had time to begin a feedback report. While Twitter’s official iOS app does include a few Siri Shortcuts actions, they are all made immediately useless by a universal command to open the app, itself. Remove the obsessive insistence that any/all functions only be performed with your app in focus – even when it surely makes no difference to your ad tech mechanism – and you have Mastodon’s single action, “Show When Run” toggle included.</p>
+
+<p>I’m not sure what I expected from an “official” Mastodon app upon first reading that winter blog post, but what I’ve been delivered is quite a gem. Regardless of how its specific feature omissions may strike your ideological organ(s,) you cannot deny that great time and energy was invested in this app.</p>
+
+<p><img src="https://i.snap.as/hqmcJQGx.jpg" alt="Mastodon for iOS QR Code"/></p>
+
+<h2 id="notable-hyperlinks">Notable Hyperlinks</h2>
+<ul><li>The newly-publicized <a href="https://github.com/mastodon/mastodon-ios">GitHub Repository</a></li>
+<li>The app’s <a href="https://www.producthunt.com/posts/mastodon-for-ios">Product Hunt Page</a> (Congratulations on “#1 Product of the Day!”… I think?)</li>
+<li><a href="https://www.patreon.com/mastodon">The Mastodon Project Patreon page</a></li></ul>
+
+<p><a href="tag%253Asoftware/index.html" class="hashtag"><span>#</span><span class="p-category">software</span></a></p>
+</div></article>
+
+		
+
+		
+		<footer dir="ltr"><hr><nav><p style="font-size: 0.9em">published with <a class="home pubd" href="https://write.as/">write.as</a></p></nav></footer>
+		
+
+		<noscript><p><img src="https://analytics.write.as/piwik.php?idsite=16" style="border:0;" alt="" /></p></noscript>
+	</body>
+	
+	
+		<script type="text/javascript" src="https://platform.twitter.com/widgets.js" async></script><script type="text/javascript" src="https://hypothes.is/embed.js" async></script>
+		<script type="text/javascript">var topP = document.createElement("p");
+//topP.style.textAlign = "center";
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://tiny.write.as/bilge">Tiny</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
+var cont = document.getElementById("wrapper");
+if (cont !== null) {
+    // Add to blog index and tag pages
+    cont.appendChild(topP);
+} else {
+    // Add to individual blog post page
+    cont = document.getElementById("post-body");
+    cont.insertAdjacentHTML("afterend", topP.outerHTML);
+}
+
+// src: https://platform.twitter.com/widgets.js
+
+// src: https://hypothes.is/embed.js
+
+window.hypothesisConfig = function () {
+  return {
+    "openSidebar": false, 
+    "theme": "clean",
+    branding: {
+      appBackgroundColor: '#e6f7ff',
+      ctaBackgroundColor: '#da2573',
+      ctaTextColor: '#00006b',
+      selectionFontFamily: 'Georgia, serif'
+    }
+  };
+};
+
+// Footnote hyperlinks in the body.
+var notePattern = /\[\^(\d+)\]/g;
+var noteText = "<a name=\"fn$1\"></a><sup><a class=\"footnote\" href="https://bilge.world/\&quot;#fnref$1\"">$1</a></sup>";
+
+// Footnote references at the bottom.
+var refPattern = /\[(\d+)\](.*)/g;
+var refText = "<a name=\"fnref$1\"></a><sup><a class=\"footnote-ref\" href="https://bilge.world/\&quot;#fn$1\"">$1</a></sup><span class=\"footnote-ref-text\">$2</span>";
+
+var postContent = document.getElementById("post-body").innerHTML;
+postContent = postContent.replace(notePattern, noteText);
+postContent = postContent.replace(refPattern, refText);
+document.getElementById("post-body").innerHTML = postContent;</script>
+	
+	
+<script>
+  
+  addEventListener('DOMContentLoaded', function () {
+    var hlbaseUri = "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/";
+    var lb = document.querySelectorAll("code[class^='language-']");
+
+    
+    var aliasmap = {
+      "elisp"      : "lisp",
+      "emacs-lisp" : "lisp",
+      "c"          : "cpp",
+      "cc"         : "cpp",
+      "h"          : "cpp",
+      "c++"        : "cpp",
+      "h++"        : "cpp",
+      "hpp"        : "cpp",
+      "hh"         : "cpp",
+      "hxx"        : "cpp",
+      "cxx"        : "cpp",
+      "sh"         : "bash",
+      "js"         : "javascript",
+      "jsx"        : "javascript",
+      "html"       : "xml"
+    };
+
+    
+    var langs = ["apache", "bash", "coffeescript", "cpp", "cs", "css", "diff",
+                 "http", "ini", "java", "javascript", "json", "makefile", "xml",
+                 "markdown", "nginx", "objectivec", "perl", "php", "properties",
+                 "python", "ruby", "shell", "sql"];
+
+    
+    function highlight(nodes) {
+      for (i=0; i < nodes.length; i++) {
+        hljs.highlightBlock(nodes[i]);
+      }
+    }
+
+    
+    function loadLanguages(uris, callback) {
+      uris.forEach(function(uri) {
+        var sc = document.createElement('script');
+        sc.src = uri;
+        sc.async = false; 
+        
+        if (uris.indexOf(uri) == uris.length-1) {
+          
+          
+          
+          sc.onload = callback;
+          sc.onerror = callback;
+        }
+        document.head.appendChild(sc);
+      });
+    }
+
+    
+    if (lb.length > 0) {
+      
+      var st = document.createElement('link');
+      st.rel = "stylesheet";
+      st.href = hlbaseUri + "styles/atom-one-light.min.css";
+      document.head.appendChild(st);
+
+      
+      var jss = [hlbaseUri + "highlight.min.js"];
+      
+      for (i=0; i < lb.length; i++) {
+        lang = lb[i].className.replace('language-','').toLowerCase();
+        
+        if (aliasmap[lang]) lang = aliasmap[lang];
+        lurl = hlbaseUri + "languages/" + lang + ".min.js";
+        if (!(langs.includes(lang) || jss.includes(lurl))) {
+          jss.push(lurl);
+        }
+      }
+      
+      loadLanguages(jss, () => {highlight(lb)});
+    }
+  });
+</script>
+
+	<script src="https://cdn.writeas.net/js/localdate.js" integrity="sha384-2h0jAAXW06POyeBB2kpmJH+tWBF2mCWnv4DucLFRZXs+D8NX/MjGV7C/aCC2Ywki" crossorigin="anonymous"></script>
+	<script type="text/javascript">
+
+var pinning = false;
+function unpinPost(e, postID) {
+	e.preventDefault();
+	if (pinning) {
+		return;
+	}
+	pinning = true;
+
+	var $header = document.getElementsByTagName('header')[0];
+	var callback = function() {
+		
+		var $pinnedNavLink = $header.getElementsByTagName('nav')[0].querySelector('.pinned.selected');
+		$pinnedNavLink.style.display = 'none';
+		try { _paq.push(['trackEvent', 'Post', 'unpin', 'post']); } catch(e) {}
+	};
+
+	var $pinBtn = $header.getElementsByClassName('unpin')[0];
+	$pinBtn.innerHTML = '...';
+
+	var http = new XMLHttpRequest();
+	var url = "/api/collections/bilge/unpin";
+	var params = [ { "id": postID } ];
+	http.open("POST", url, true);
+	http.setRequestHeader("Content-type", "application/json");
+	http.onreadystatechange = function() {
+		if (http.readyState == 4) {
+			pinning = false;
+			if (http.status == 200) {
+				callback();
+				$pinBtn.style.display = 'none';
+				$pinBtn.innerHTML = 'Pin';
+			} else if (http.status == 409) {
+				$pinBtn.innerHTML = 'Unpin';
+			} else {
+				$pinBtn.innerHTML = 'Unpin';
+				alert("Failed to unpin." + (http.status>=500?" Please try again.":""));
+			}
+		}
+	}
+	http.send(JSON.stringify(params));
+};
+
+var $form = document.getElementById('emailsub');
+if ($form != null) {
+	$form.onsubmit = function() {
+		var $sub = document.getElementById('subscribe-btn');
+		$sub.disabled = true;
+		$sub.value = 'Subscribing...';
+	}
+}
+
+	
+
+	
+	try { 
+	  var _paq = _paq || [];
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  _paq.push(['enableHeartBeatTimer']);
+	  (function() {
+		var u="https://analytics.write.as/";
+		_paq.push(['setTrackerUrl', u+'piwik.php']);
+		_paq.push(['setSiteId', 16]);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  })();
+	} catch (e) {   }
+	
+	try { 
+	  WebFontConfig = {
+		custom: { families: [ 'Lora:400,700:latin', 'Open+Sans:400,700:latin' ], urls: [ 'https:\/\/cdn.writeas.net/css/fonts.4ce1882.css' ] }
+	  };
+	  (function() {
+		var wf = document.createElement('script');
+		wf.src = 'https:\/\/cdn.writeas.net/js/webfont.js';
+		wf.type = 'text/javascript';
+		wf.async = 'true';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(wf, s);
+	  })();
+	} catch (e) {   }
+	</script>
+
+    
+</html>

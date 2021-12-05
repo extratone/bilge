@@ -1,0 +1,686 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+	<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+		<meta charset="utf-8">
+
+		<title>SoundCloud Go&#43; &mdash; The Psalms</title>
+		
+		<link rel="stylesheet" type="text/css" href="https://cdn.writeas.net/css/write.e22275dd26a35160e79b7.css" />
+		
+		<link rel="shortcut icon" href="https://i.snap.as/iTL3WJk.png" />
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<link rel="canonical" href="soundcloud-go.html" />
+		<meta name="generator" content="Write.as">
+		<meta name="title" content="SoundCloud Go&#43; &mdash; The Psalms">
+		<meta name="description" content="I’ve got some fucking opinions about SoundCloud…   My friend Sierra has used SoundCloud almost exclusively for her music discovery, co...">
+		
+		<meta name="twitter:label1" value="Views">
+		<meta name="twitter:data1" value="87">
+		<link rel="author" href="index.html" />
+		<meta name="author" content="The Psalms" />
+		<meta itemprop="description" content="I’ve got some fucking opinions about SoundCloud…   My friend Sierra has used SoundCloud almost exclusively for her music discovery, co...">
+		<meta itemprop="datePublished" content="2020-08-09" />
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:description" content="I’ve got some fucking opinions about SoundCloud…   My friend Sierra has used SoundCloud almost exclusively for her music discovery, co...">
+		<meta name="twitter:title" content="SoundCloud Go&#43; &mdash; The Psalms">
+		<meta name="twitter:image" content="https://i.snap.as/2eB6JrY.png">
+		<meta property="og:title" content="SoundCloud Go&#43;" />
+		<meta property="og:description" content="I’ve got some fucking opinions about SoundCloud…   My friend Sierra has used SoundCloud almost exclusively for her music discovery, co..." />
+		<meta property="og:site_name" content="The Psalms" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="https://bilge.world/soundcloud-go" />
+		<meta property="og:updated_time" content="2020-08-09T19:27:32Z" />
+		<meta property="og:image" content="https://i.snap.as/2eB6JrY.png" /><meta property="og:image" content="https://i.snap.as/78HwnfKK.png" />
+		<meta property="article:published_time" content="2020-08-09T19:27:32Z">
+		
+        
+		<style type="text/css">/* Written in November 2020 by David Blue for bilge.world.
+
+Updated September 14th, 2021 with correct footnote formatting.
+
+`Version 3.1.1` https://github.com/extratone/bilge/releases/tag/3.1
+
+Full, up-to-date source code available at https://github.com/extratone/bilge/
+
+# [The Unlicense, Dave Edition](https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1)
+
+Considering my use of Git as a means to track revisions on my own writing, it's important to note that you should feel free to replace all instances of "software" in the above statement with "words," "writing," "expression," etc.
+
+While I appreciate tremendously the work and contribution of [Arlo Bendiken](https://ar.to/2010/01/set-your-code-free) in the form of The Unlicense, I would like to add that I see no need, personally, to make the refutation of Intellectual Property law regarding my own work into some profound ethical statement. As it stands, I have not to my knowledge been the victim of any sort of theft of any kind, and find the suggestion highly unlikely. If I *am*  made aware of such a case, there is certainly a possibility that I may change my mind on this issue, so I suppose I should highlight that **THESE TERMS ARE SUBJECT TO CHANGE**, though I suspect I would be more flattered and/or amused than actually offended. 
+
+I would also like to annotate that my use of this license should not be regarded as a suggestion that anyone else follow my example, or that I "believe in" taking such action regarding one's work, generally. While I did indeed take the time to set up [a repository](https://github.com/extratone/eoi) of John Perry Barlow's "[The Economy of Ideas](https://www.wired.com/1994/03/economy-ideas/)" in a bunch of different document formats, I do not necessarily agree with all of what he argued, especially in the context of the world 27 years later. If you *are* particularly interested in my opinion on the matter for whatever reason, here is what I have to say to you:
+
+The principled beginning of The Open Web was a great moment in history, but - like all historical principles - it is extremely important that we consider *context* and maintain an appropriate level of criticism when looking back on old manifestos written by old white guys. In general, try your best to *be reasonable*.
+
+***
+
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <https://unlicense.org>
+
+*/
+
+@import url('https://use.typekit.net/kst2rrh.css');
+
+body {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #FFF4E6;
+}
+
+/* old background-color: #f2f2f2 */
+
+#blog-title a {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    /* font-style:bold !important; */
+    color: #00006b;
+}
+
+header nav a {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+header p.description {
+    /* font-style: italic; */
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    line-height: 200% !important;
+    color: #00006b !important;
+    font-size: 1em;
+    margin-left: inherit;
+    margin-right: inherit;
+}
+
+body#collection header {
+    margin-bottom: 1em !important;
+}
+
+
+header nav a {
+    color: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    /* margin-bottom: 1em; */
+}
+
+body,
+article {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    line-height: 155%;
+    font-size: 1.1em !important;
+    color: #000000;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    /* margin-top:1rem !important; */
+}
+
+
+body,
+article a:link {
+    color: #00006b;
+}
+
+body,
+article a:visited {
+    color: #FF0000;
+}
+
+h1 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-size: 2em !important;
+}
+
+h2 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1.4em !important;
+}
+
+h3 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    font-weight: 600;
+    font-size: 1.3em !important;
+}
+
+h4 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h5 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h6 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: .85em !important;
+}
+
+code {
+    /* background-color:#f7ff85 !important; */
+    /* border: 1px solid #da2573 !important;
+    border-radius: 1px !important; */
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+body #post pre, body#collection pre, body#post pre, body#subpage pre {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+.post-title a:visited,
+.post-title a:link {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    color: #00006b !important;
+    font-size: 1.7rem !important;
+}
+
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b !important;
+    font-size: 1rem !important;
+}
+
+body footer nav {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b;
+}
+
+blockquote {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    color: #333333 !important;
+    border-left: 2.5px solid #00006b !important;
+}
+
+table {
+    background-color: #FFFdeb !important;
+    font-size: 0.8em !important;
+    line-height: 1.2em;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    border: 1px solid #f43f32 !important;
+    border-radius: 1px !important;
+}
+
+article table td, article table th {
+    border: 1px solid !important;
+    border-color: #da2573 !important;
+}
+
+
+.gist {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+}
+
+.gist .gist-meta {
+    font-family: proxima-nova-extra-condensed, sans-serif !important;
+    font-weight: 600 !important;
+    color: #1c0021 !important;
+}
+
+.gist, .gist article, .gist article p {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+}
+
+
+.gist .gist-file .gist-data {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+}
+
+.gist, .gist article, .gist article p {
+    white-space: normal !important;
+}
+
+/* .gist .gist-hr {
+    display: hide !important;
+} */
+
+hr {
+    border: 2px solid red;
+}
+
+
+body footer a.home:link,
+body footer a.home:visited {
+    color: #00006b;
+}
+
+.action {
+    font-family: proxima-nova-condensed, sans-serif;
+}
+
+nav#manage ul a {
+    color: #00006b;
+}
+
+nav#paging a {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+}
+
+
+a.bt {
+    background-color: #0d0d0d !important;
+    color: #00006b !important;
+}
+
+a.hashtag {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: #00006b !important;
+}
+
+body#collection #wrapper time,
+body#subpage #wrapper time,
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 0.95em;
+    color: #00006b !important;
+}
+
+
+.custom-nav {
+    text-align: center;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: red;
+}
+
+.custom-nav a:link,
+.custom-nav a:visited,
+.custom-nav a:hover,
+.custom-nav a:active {
+    color: #00006b;
+}
+
+.custom-nav a:hover,
+.custom-nav a:active {
+    text-decoration: underline;
+}
+
+#subscribe-btn {
+    border: 1px #FF0000;
+    background: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: #FFF4E6;
+}
+
+#emailsub {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+}
+
+sup {
+    vertical-align: auto !important;
+}
+
+.footnote {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /*vertical-align: sub !important; */
+    margin: -4px 0px 0 0 !important;
+    color: #da2573 !important;
+    font-size: 0.8em;
+    line-height: 0.1em !important;
+    text-decoration:underline #FF0000;
+}
+
+.footnote-ref {
+    margin-left:15px;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /* margin-left:2.5px; */
+    color: #da2573 !important;
+    font-size: 1.15em;
+    /* text-decoration:underline #FF0000; */
+}
+
+.footnote-ref-text {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+    color: #1c0021 !important;
+    font-size: 1em;
+    /* border-top: #00006b dotted 1px; */
+}</style>
+		
+
+	</head>
+	<body id="post">
+		
+		<div id="overlay"></div>
+
+		<header>
+		<h1 dir="ltr" id="blog-title"><a rel="author" href="index.html" class="h-card p-author">The Psalms</a></h1>
+			<nav>
+				
+				<a class="pinned" href="about.html">About</a><a class="pinned" href="reading.html">Reading</a><a class="pinned" href="podcast.html">Podcast</a>
+				
+				
+			</nav>
+		</header>
+
+		
+
+		<article id="post-body" class="norm h-entry "><h2 id="title" class="p-name dated">SoundCloud Go+</h2><time class="dt-published" datetime="2020-08-09T19:27:32Z" pubdate itemprop="datePublished" content="2020-08-09 19:27:32 &#43;0000 UTC">August 9, 2020</time><div class="e-content"><p><img src="https://i.snap.as/2eB6JrY.png" alt="SoundCloud Tile"/></p>
+
+<h2 id="i-ve-got-some-fucking-opinions-about-soundcloud">I’ve got some fucking opinions about SoundCloud…</h2>
+
+<p>My friend Sierra has used SoundCloud almost exclusively for her music discovery, consumption, and recommendations, but has remained resolute in her unwillingness to financially invest in the service. As such, her listening is regularly interrupted by ads and limited to bitrates <a href="https://www.magneticmag.com/2018/01/soundcloud-lowers-sound-quality-uploads-half/">as low as 64kbps</a>. Since I was last employed, I have maintained a vow to her that I would pay for a subscription to SoundCloud Go+ – the premium <em>listener</em> tier of the service – with my own money, once I was once again in place at a steady job. This move would remove all advertising from her listening and <a href="https://help.soundcloud.com/hc/en-us/articles/360010227514-High-Quality-Streaming">up its bitrate to 256kbps</a>, among <a href="https://checkout.soundcloud.com/go">other benefits</a>.</p>
+
+<p>Two nights ago, we were refueling her car in preparation for another one of our recreational drives into rural Missouri when I made the decision on a whim to simply signup for a trial of Go+ on <a href="https://soundcloud.com/chordoslut">my own account</a> using Apple Pay, mostly because I knew we’d be going out of effective cell network range and one of Go+’s most emphasized features is its ability to download music locally. (Since my Apple Music subscription expired earlier this year, I only have <a href="https://bigkrit.com/music/king-remembered-in-time/">a single album</a> actually downloaded on my phone.)</p>
+
+<p><iframe allow="monetization" class="embedly-embed" src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fw.soundcloud.com%2Fplayer%2F%3Fvisual%3Dtrue%26url%3Dhttps%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F255811428%26show_artwork%3Dtrue&amp;display_name=SoundCloud&amp;url=https%3A%2F%2Fsoundcloud.com%2Fkeithjarrettofficial%2Frio-part-v&amp;image=https%3A%2F%2Fi1.sndcdn.com%2Fartworks-4o6X0NzCmNjZ-0-t500x500.jpg&amp;key=d932fa08bf1f47efbbe54cb3d746839f&amp;type=text%2Fhtml&amp;schema=soundcloud" width="500" height="500" scrolling="no" title="SoundCloud embed" frameborder="0" allow="autoplay; fullscreen" allowfullscreen="true"></iframe></p>
+
+<p>***
+The above is what I wrote several weeks ago, just as I was beginning my trial period. Now, having experienced a significant amount of time as a SoundCloud Go user, I am a bit sad that my trial is over. To be honest, I fully intended to become a paying subscriber, but my PayPal account was $0.70 short of the $12.99 monthly fee when the first billing cycle came, two weeks ago. This is not a conclusion I expected to come to, as SoundCloud’s fundamental arrangement could not possibly differ any more from the music streaming service I long claimed as my ideal own: Apple Music.</p>
+
+<p>One major worry I would imagine potential subscribers may have when approaching SoundCloud as a replacement for their single music subscription service would revolve around the extent of SoundCloud’s establishment music industry library. There’s no way your Dad’s Sunday barbecue playlist is going to be on <em>SoundCloud</em>, right? Strangely enough, I was unable to find a single track that <em>was not</em> in the library. From my own favorite <a href="https://soundcloud.com/keithjarrettofficial">Keith Jarrett’s archives</a> to <a href="https://soundcloud.com/dixiechicks/sets/gaslighter-2">the new Dixie Chicks album</a>, every bit of big time record label-distributed music I could conceieve of could be found aside the Go+ badge (though notably, neither of these showed significant playcounts.) As far as the app experience goes, I <em>swear</em> it got smoother as soon as I signed up for Go+. This is probably bullshit, but regardless, with the seemingly ever-widening disparity in the experiences of free vs. premium users, SoundCloud appears to be moving actively away from the former.</p>
+
+<p><img src="https://i.snap.as/78HwnfKK.png" alt="SoundCloud Desktop Keyboard Shortcuts"/></p>
+
+<p>I have long said (somewhat in jest) that <a href="https://soundcloud.com/chancetherapper">Chance The Rapper</a> is the only reason SoundCloud still exists.</p>
+
+<blockquote><p>From a future historian’s perspective, the battle for the definitive name in independent digital music distribution has already won, largely thanks to its relationship with Chance The Rapper, who’s quickly become a “cultural influencer, thought leader, global star,” and one of my generation’s upmost celebrity champions. Obviously, there is little sense trying to determine whether SoundCloud <em>earned</em> his partnership or landed their popular association with his name as long as the artist maintains it publicly, while continuing to <a href="https://soundcloud.com/pitchfork/pitchfork-presents-in-sight-out-chance-the-rapper">give new meaning</a> to the phrase “serially likable.”
+-“<a href="bandcamp-streaming-music.html">Bandcamp: Streaming’s Secret Savior</a>” | July, 2018</p></blockquote>
+
+<p>If <em><a href="https://www.cnet.com/news/chance-the-rapper-soundcloud/">CNET_ was asking the question</a> a year before that Bandcamp essay, I think I can feel properly varified. What I’d really like to know, now: does Chance still feel the same way about the streaming service after the launch of SoundCloud Go+? Considering that I am far from a <em>real</em> music journalist, I do not have any more contact resources than you have. That said, I left [a comment on his Facebook Page](<a href="https://www.facebook.com/chancetherapper/posts/3299672310124810?comment=">https://www.facebook.com/chancetherapper/posts/3299672310124810?comment</a></em>id=3319045628187478). I guess we’ll see.</p>
+
+<p>Some more technical bits: SoundCloud is now castable on Chromecast, but <em>not</em> supported by Apple CarPlay, for whatever that’s worth. Notably apart from Bandcamp and Apple Music and aligned with Spotify, SoundCloud is explicitly investing in algorithmic music discovery, which means its users are doing the curatorial work. <em>I</em> am doing/have done the curatorial work. That means the DnB crowd is going to receieve Toto recommendations, given what I sought out for this post. You’re welcome, and sorry…</p>
+<ol><li>While I was surprisingly unable to find any Tweets or Evernotes further evangelizing Apple Music (I suspect I’m thinking of an old, untranscribed <em>Drycast</em> episode,) I found real magic in the service as I perceieved it: $9.99 a month for <em>all of iTunes</em>. 13 year-old me would considerthat one helluva deal.</li>
+<li>Naturally, if you know of one, please do comment and/or <a href="https://www.davidblue.wtf/contact/">drop me a line</a>.</li>
+<li>In fact, it is the only streaming app I found that _does not _have CarPlay support. Even Bandcamp and MixCloud for iOS do!</li></ol>
+
+<p><a href="tag%253Amusic.html" class="hashtag"><span>#</span><span class="p-category">music</span></a> <a href="tag%253Asoftware/index.html" class="hashtag"><span>#</span><span class="p-category">software</span></a></p>
+</div></article>
+
+		
+
+		
+		<footer dir="ltr"><hr><nav><p style="font-size: 0.9em">published with <a class="home pubd" href="https://write.as/">write.as</a></p></nav></footer>
+		
+
+		<noscript><p><img src="https://analytics.write.as/piwik.php?idsite=16" style="border:0;" alt="" /></p></noscript>
+	</body>
+	
+	
+		<script type="text/javascript" src="https://platform.twitter.com/widgets.js" async></script><script type="text/javascript" src="https://hypothes.is/embed.js" async></script>
+		<script type="text/javascript">var topP = document.createElement("p");
+//topP.style.textAlign = "center";
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://tiny.write.as/bilge">Tiny</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
+var cont = document.getElementById("wrapper");
+if (cont !== null) {
+    // Add to blog index and tag pages
+    cont.appendChild(topP);
+} else {
+    // Add to individual blog post page
+    cont = document.getElementById("post-body");
+    cont.insertAdjacentHTML("afterend", topP.outerHTML);
+}
+
+// src: https://platform.twitter.com/widgets.js
+
+// src: https://hypothes.is/embed.js
+
+window.hypothesisConfig = function () {
+  return {
+    "openSidebar": false, 
+    "theme": "clean",
+    branding: {
+      appBackgroundColor: '#e6f7ff',
+      ctaBackgroundColor: '#da2573',
+      ctaTextColor: '#00006b',
+      selectionFontFamily: 'Georgia, serif'
+    }
+  };
+};
+
+// Footnote hyperlinks in the body.
+var notePattern = /\[\^(\d+)\]/g;
+var noteText = "<a name=\"fn$1\"></a><sup><a class=\"footnote\" href="https://bilge.world/\&quot;#fnref$1\"">$1</a></sup>";
+
+// Footnote references at the bottom.
+var refPattern = /\[(\d+)\](.*)/g;
+var refText = "<a name=\"fnref$1\"></a><sup><a class=\"footnote-ref\" href="https://bilge.world/\&quot;#fn$1\"">$1</a></sup><span class=\"footnote-ref-text\">$2</span>";
+
+var postContent = document.getElementById("post-body").innerHTML;
+postContent = postContent.replace(notePattern, noteText);
+postContent = postContent.replace(refPattern, refText);
+document.getElementById("post-body").innerHTML = postContent;</script>
+	
+	
+<script>
+  
+  addEventListener('DOMContentLoaded', function () {
+    var hlbaseUri = "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/";
+    var lb = document.querySelectorAll("code[class^='language-']");
+
+    
+    var aliasmap = {
+      "elisp"      : "lisp",
+      "emacs-lisp" : "lisp",
+      "c"          : "cpp",
+      "cc"         : "cpp",
+      "h"          : "cpp",
+      "c++"        : "cpp",
+      "h++"        : "cpp",
+      "hpp"        : "cpp",
+      "hh"         : "cpp",
+      "hxx"        : "cpp",
+      "cxx"        : "cpp",
+      "sh"         : "bash",
+      "js"         : "javascript",
+      "jsx"        : "javascript",
+      "html"       : "xml"
+    };
+
+    
+    var langs = ["apache", "bash", "coffeescript", "cpp", "cs", "css", "diff",
+                 "http", "ini", "java", "javascript", "json", "makefile", "xml",
+                 "markdown", "nginx", "objectivec", "perl", "php", "properties",
+                 "python", "ruby", "shell", "sql"];
+
+    
+    function highlight(nodes) {
+      for (i=0; i < nodes.length; i++) {
+        hljs.highlightBlock(nodes[i]);
+      }
+    }
+
+    
+    function loadLanguages(uris, callback) {
+      uris.forEach(function(uri) {
+        var sc = document.createElement('script');
+        sc.src = uri;
+        sc.async = false; 
+        
+        if (uris.indexOf(uri) == uris.length-1) {
+          
+          
+          
+          sc.onload = callback;
+          sc.onerror = callback;
+        }
+        document.head.appendChild(sc);
+      });
+    }
+
+    
+    if (lb.length > 0) {
+      
+      var st = document.createElement('link');
+      st.rel = "stylesheet";
+      st.href = hlbaseUri + "styles/atom-one-light.min.css";
+      document.head.appendChild(st);
+
+      
+      var jss = [hlbaseUri + "highlight.min.js"];
+      
+      for (i=0; i < lb.length; i++) {
+        lang = lb[i].className.replace('language-','').toLowerCase();
+        
+        if (aliasmap[lang]) lang = aliasmap[lang];
+        lurl = hlbaseUri + "languages/" + lang + ".min.js";
+        if (!(langs.includes(lang) || jss.includes(lurl))) {
+          jss.push(lurl);
+        }
+      }
+      
+      loadLanguages(jss, () => {highlight(lb)});
+    }
+  });
+</script>
+
+	<script src="https://cdn.writeas.net/js/localdate.js" integrity="sha384-2h0jAAXW06POyeBB2kpmJH+tWBF2mCWnv4DucLFRZXs+D8NX/MjGV7C/aCC2Ywki" crossorigin="anonymous"></script>
+	<script type="text/javascript">
+
+var pinning = false;
+function unpinPost(e, postID) {
+	e.preventDefault();
+	if (pinning) {
+		return;
+	}
+	pinning = true;
+
+	var $header = document.getElementsByTagName('header')[0];
+	var callback = function() {
+		
+		var $pinnedNavLink = $header.getElementsByTagName('nav')[0].querySelector('.pinned.selected');
+		$pinnedNavLink.style.display = 'none';
+		try { _paq.push(['trackEvent', 'Post', 'unpin', 'post']); } catch(e) {}
+	};
+
+	var $pinBtn = $header.getElementsByClassName('unpin')[0];
+	$pinBtn.innerHTML = '...';
+
+	var http = new XMLHttpRequest();
+	var url = "/api/collections/bilge/unpin";
+	var params = [ { "id": postID } ];
+	http.open("POST", url, true);
+	http.setRequestHeader("Content-type", "application/json");
+	http.onreadystatechange = function() {
+		if (http.readyState == 4) {
+			pinning = false;
+			if (http.status == 200) {
+				callback();
+				$pinBtn.style.display = 'none';
+				$pinBtn.innerHTML = 'Pin';
+			} else if (http.status == 409) {
+				$pinBtn.innerHTML = 'Unpin';
+			} else {
+				$pinBtn.innerHTML = 'Unpin';
+				alert("Failed to unpin." + (http.status>=500?" Please try again.":""));
+			}
+		}
+	}
+	http.send(JSON.stringify(params));
+};
+
+var $form = document.getElementById('emailsub');
+if ($form != null) {
+	$form.onsubmit = function() {
+		var $sub = document.getElementById('subscribe-btn');
+		$sub.disabled = true;
+		$sub.value = 'Subscribing...';
+	}
+}
+
+	
+
+	
+	try { 
+	  var _paq = _paq || [];
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  _paq.push(['enableHeartBeatTimer']);
+	  (function() {
+		var u="https://analytics.write.as/";
+		_paq.push(['setTrackerUrl', u+'piwik.php']);
+		_paq.push(['setSiteId', 16]);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  })();
+	} catch (e) {   }
+	
+	try { 
+	  WebFontConfig = {
+		custom: { families: [ 'Lora:400,700:latin', 'Open+Sans:400,700:latin' ], urls: [ 'https:\/\/cdn.writeas.net/css/fonts.4ce1882.css' ] }
+	  };
+	  (function() {
+		var wf = document.createElement('script');
+		wf.src = 'https:\/\/cdn.writeas.net/js/webfont.js';
+		wf.type = 'text/javascript';
+		wf.async = 'true';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(wf, s);
+	  })();
+	} catch (e) {   }
+	</script>
+
+    
+</html>

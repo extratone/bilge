@@ -1,0 +1,702 @@
+<!DOCTYPE HTML>
+<html lang="en" dir="ltr">
+	<head prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article#">
+		<meta charset="utf-8">
+
+		<title>Discord is Better Than Slack &mdash; The Psalms</title>
+		
+		<link rel="stylesheet" type="text/css" href="https://cdn.writeas.net/css/write.e22275dd26a35160e79b7.css" />
+		
+		<link rel="shortcut icon" href="https://i.snap.as/iTL3WJk.png" />
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		
+		<link rel="canonical" href="discord-slack-comparison.html" />
+		<meta name="generator" content="Write.as">
+		<meta name="title" content="Discord is Better Than Slack &mdash; The Psalms">
+		<meta name="description" content="Why Extratone has used Discord instead of Slack for our team chat.  Back in 2015, I hosted a pre-Extratone culture podcast called Dryca...">
+		
+		<meta name="twitter:label1" value="Views">
+		<meta name="twitter:data1" value="1,460">
+		<link rel="author" href="index.html" />
+		<meta name="author" content="The Psalms" />
+		<meta itemprop="description" content="Why Extratone has used Discord instead of Slack for our team chat.  Back in 2015, I hosted a pre-Extratone culture podcast called Dryca...">
+		<meta itemprop="datePublished" content="2020-05-24" />
+		<meta name="twitter:card" content="summary">
+		<meta name="twitter:description" content="Why Extratone has used Discord instead of Slack for our team chat.  Back in 2015, I hosted a pre-Extratone culture podcast called Dryca...">
+		<meta name="twitter:title" content="Discord is Better Than Slack &mdash; The Psalms">
+		<meta name="twitter:image" content="https://i.snap.as/szp1oaF.png">
+		<meta property="og:title" content="Discord is Better Than Slack" />
+		<meta property="og:description" content="Why Extratone has used Discord instead of Slack for our team chat.  Back in 2015, I hosted a pre-Extratone culture podcast called Dryca..." />
+		<meta property="og:site_name" content="The Psalms" />
+		<meta property="og:type" content="article" />
+		<meta property="og:url" content="https://bilge.world/discord-slack-comparison" />
+		<meta property="og:updated_time" content="2020-05-24T22:07:50Z" />
+		<meta property="og:image" content="https://i.snap.as/szp1oaF.png" />
+		<meta property="article:published_time" content="2020-05-24T22:07:50Z">
+		
+        
+		<style type="text/css">/* Written in November 2020 by David Blue for bilge.world.
+
+Updated September 14th, 2021 with correct footnote formatting.
+
+`Version 3.1.1` https://github.com/extratone/bilge/releases/tag/3.1
+
+Full, up-to-date source code available at https://github.com/extratone/bilge/
+
+# [The Unlicense, Dave Edition](https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1)
+
+Considering my use of Git as a means to track revisions on my own writing, it's important to note that you should feel free to replace all instances of "software" in the above statement with "words," "writing," "expression," etc.
+
+While I appreciate tremendously the work and contribution of [Arlo Bendiken](https://ar.to/2010/01/set-your-code-free) in the form of The Unlicense, I would like to add that I see no need, personally, to make the refutation of Intellectual Property law regarding my own work into some profound ethical statement. As it stands, I have not to my knowledge been the victim of any sort of theft of any kind, and find the suggestion highly unlikely. If I *am*  made aware of such a case, there is certainly a possibility that I may change my mind on this issue, so I suppose I should highlight that **THESE TERMS ARE SUBJECT TO CHANGE**, though I suspect I would be more flattered and/or amused than actually offended. 
+
+I would also like to annotate that my use of this license should not be regarded as a suggestion that anyone else follow my example, or that I "believe in" taking such action regarding one's work, generally. While I did indeed take the time to set up [a repository](https://github.com/extratone/eoi) of John Perry Barlow's "[The Economy of Ideas](https://www.wired.com/1994/03/economy-ideas/)" in a bunch of different document formats, I do not necessarily agree with all of what he argued, especially in the context of the world 27 years later. If you *are* particularly interested in my opinion on the matter for whatever reason, here is what I have to say to you:
+
+The principled beginning of The Open Web was a great moment in history, but - like all historical principles - it is extremely important that we consider *context* and maintain an appropriate level of criticism when looking back on old manifestos written by old white guys. In general, try your best to *be reasonable*.
+
+***
+
+This is free and unencumbered software released into the public domain.
+
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
+
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
+
+For more information, please refer to <https://unlicense.org>
+
+*/
+
+@import url('https://use.typekit.net/kst2rrh.css');
+
+body {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    font-style: normal;
+    background-color: #FFF4E6;
+}
+
+/* old background-color: #f2f2f2 */
+
+#blog-title a {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    /* font-style:bold !important; */
+    color: #00006b;
+}
+
+header nav a {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    font-size: 1.2em;
+}
+
+header p.description {
+    /* font-style: italic; */
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    line-height: 200% !important;
+    color: #00006b !important;
+    font-size: 1em;
+    margin-left: inherit;
+    margin-right: inherit;
+}
+
+body#collection header {
+    margin-bottom: 1em !important;
+}
+
+
+header nav a {
+    color: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    /* margin-bottom: 1em; */
+}
+
+body,
+article {
+    font-family: adobe-caslon-pro, serif !important;
+    font-weight: 400;
+    line-height: 155%;
+    font-size: 1.1em !important;
+    color: #000000;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    /* margin-top:1rem !important; */
+}
+
+
+body,
+article a:link {
+    color: #00006b;
+}
+
+body,
+article a:visited {
+    color: #FF0000;
+}
+
+h1 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 900;
+    font-size: 2em !important;
+}
+
+h2 {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1.4em !important;
+}
+
+h3 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-extra-condensed, sans-serif;
+    font-weight: 600;
+    font-size: 1.3em !important;
+}
+
+h4 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h5 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: 1em !important;
+}
+
+h6 {
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-size: .85em !important;
+}
+
+code {
+    /* background-color:#f7ff85 !important; */
+    /* border: 1px solid #da2573 !important;
+    border-radius: 1px !important; */
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+body #post pre, body#collection pre, body#post pre, body#subpage pre {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    /* padding: 0px 0px 0px 0px !important; */
+}
+
+.post-title a:visited,
+.post-title a:link {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 900;
+    color: #00006b !important;
+    font-size: 1.7rem !important;
+}
+
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b !important;
+    font-size: 1rem !important;
+}
+
+body footer nav {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    color: #00006b;
+}
+
+blockquote {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    color: #333333 !important;
+    border-left: 2.5px solid #00006b !important;
+}
+
+table {
+    background-color: #FFFdeb !important;
+    font-size: 0.8em !important;
+    line-height: 1.2em;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    border: 1px solid #f43f32 !important;
+    border-radius: 1px !important;
+}
+
+article table td, article table th {
+    border: 1px solid !important;
+    border-color: #da2573 !important;
+}
+
+
+.gist {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+    font-size: 18px !important;
+}
+
+.gist .gist-meta {
+    font-family: proxima-nova-extra-condensed, sans-serif !important;
+    font-weight: 600 !important;
+    color: #1c0021 !important;
+}
+
+.gist, .gist article, .gist article p {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400 !important;
+}
+
+
+.gist .gist-file .gist-data {
+    background: #FFFdeb; !important;
+    border: 1px solid #da2573 !important;
+    border-radius: 1px !important;
+    font-size: 0.85em !important;
+    color: #1c0021 !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+}
+
+.gist, .gist article, .gist article p {
+    white-space: normal !important;
+}
+
+/* .gist .gist-hr {
+    display: hide !important;
+} */
+
+hr {
+    border: 2px solid red;
+}
+
+
+body footer a.home:link,
+body footer a.home:visited {
+    color: #00006b;
+}
+
+.action {
+    font-family: proxima-nova-condensed, sans-serif;
+}
+
+nav#manage ul a {
+    color: #00006b;
+}
+
+nav#paging a {
+    color: #00006b !important;
+    font-family: proxima-nova-condensed, sans-serif !important;
+}
+
+
+a.bt {
+    background-color: #0d0d0d !important;
+    color: #00006b !important;
+}
+
+a.hashtag {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: #00006b !important;
+}
+
+body#collection #wrapper time,
+body#subpage #wrapper time,
+body#post article time.dt-published,
+body#subpage article time.dt-published {
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 0.95em;
+    color: #00006b !important;
+}
+
+
+.custom-nav {
+    text-align: center;
+    font-size: 0.85em;
+    text-transform: uppercase;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    color: red;
+}
+
+.custom-nav a:link,
+.custom-nav a:visited,
+.custom-nav a:hover,
+.custom-nav a:active {
+    color: #00006b;
+}
+
+.custom-nav a:hover,
+.custom-nav a:active {
+    text-decoration: underline;
+}
+
+#subscribe-btn {
+    border: 1px #FF0000;
+    background: #00006b;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 700;
+    font-size: 1em;
+    color: #FFF4E6;
+}
+
+#emailsub {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+}
+
+sup {
+    vertical-align: auto !important;
+}
+
+.footnote {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /*vertical-align: sub !important; */
+    margin: -4px 0px 0 0 !important;
+    color: #da2573 !important;
+    font-size: 0.8em;
+    line-height: 0.1em !important;
+    text-decoration:underline #FF0000;
+}
+
+.footnote-ref {
+    margin-left:15px;
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 700;
+    /* margin-left:2.5px; */
+    color: #da2573 !important;
+    font-size: 1.15em;
+    /* text-decoration:underline #FF0000; */
+}
+
+.footnote-ref-text {
+    font-family: proxima-nova-condensed, sans-serif !important;
+    font-weight: 400;
+    color: #1c0021 !important;
+    font-size: 1em;
+    /* border-top: #00006b dotted 1px; */
+}</style>
+		
+
+	</head>
+	<body id="post">
+		
+		<div id="overlay"></div>
+
+		<header>
+		<h1 dir="ltr" id="blog-title"><a rel="author" href="index.html" class="h-card p-author">The Psalms</a></h1>
+			<nav>
+				
+				<a class="pinned" href="about.html">About</a><a class="pinned" href="reading.html">Reading</a><a class="pinned" href="podcast.html">Podcast</a>
+				
+				
+			</nav>
+		</header>
+
+		
+
+		<article id="post-body" class="norm h-entry "><h2 id="title" class="p-name dated">Discord is Better Than Slack</h2><time class="dt-published" datetime="2020-05-24T22:07:50Z" pubdate itemprop="datePublished" content="2020-05-24 22:07:50 &#43;0000 UTC">May 24, 2020</time><div class="e-content"><p><img src="https://i.snap.as/szp1oaF.png" alt="Discord Art Orange"/></p>
+
+<h2 id="why-extratone-has-used-discord-instead-of-slack-for-our-team-chat">Why Extratone has used Discord instead of Slack for our team chat.</h2>
+
+<p>Back in 2015, I hosted a pre-<em>Extratone</em> culture podcast called <a href="https://open.spotify.com/episode/2zjkrB28csR68YoY1M1eSk"><em>Drycast</em></a> with musician friends from all over the net. To record remotely, we originally used Teamspeak 3 – a gamer VoIP staple. When I discovered Discord, I thought we&#39;d found podcasting heaven. Originally, the free plan included 128kbps audio in its voice channels, which was nearly twice what we were getting out of our <em>paid</em> Teamspeak server. If I were still podcasting, Discord&#39;s <a href="https://support.discord.com/hc/en-us/articles/360041721052-Server-Video">just-released server video feature</a> would undoubtedly prove invaluable for live streams.</p>
+
+<p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">are you thankful for Discord?</p>&mdash; ※ David Blue ※ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1261334179352100865?ref_src=twsrc%5Etfw">May 15, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>According to <a href="https://twitter.com/NeoYokel/status/1261334179352100865?s=20">a poll I ran on Twitter</a>, 2/3rds of all people on Earth are thankful for Discord&#39;s existence. This is not surprising considering what every Discord user is still offered without spending any money at all: community spaces with audio/video and text chat capability, organizable by Twitch and YouTube-integrated roles with a plethora of different permission options, instantly and easily shareable by customizable temporary or permanent invite links through an application that&#39;s about as cross-platform as one can get (Windows, Mac, Linux, Android, iOS, or simply one&#39;s web browser.) Those of us that remember <a href="https://twitter.com/NeoYokel/status/1244758973867229185">IRC</a>, Ventrilo, and Teamspeak should all consider Discord a tremendous gift.</p>
+
+<iframe src="https://www.youtube.com/embed/NNJ2n6XKmmA" frameborder="0" allowfullscreen=""></iframe>
+
+<p>Never before have so many VoIP, video, and text chat features been offered together, or in such a beautiful package. “What we really did was create an all-in-one voice, video, and text chat app that replaced this constellation of tools that people would use,” said CEO Jason Citron in <a href="https://youtu.be/NNJ2n6XKmmA">an interview with CNBC</a>. Technically in terms of these details, Discord <em>has no competition</em>. Slack offers text and voice chat with its paid plans, yes, but nothing close in terms of video – especially considering <a href="https://www.polygon.com/2019/8/9/20798559/discord-go-live-private-stream-voice-channel">Discord Go Live</a>, its fairly-new streaming feature, which allows users to stream game video directly to 10 other users in the server. With some jury-rigging, it&#39;s possible to simply screen share this way, which is an essential sell for business video communication applications like Skype.</p>
+
+<p><blockquote class="twitter-tweet"><p lang="en" dir="ltr">Does anyone else have a discord server where you&#39;re the only member and you use different text channels to plan your weekly schedules lmaoooo</p>&mdash; Jab got 2 Jabs (@jab50yen) <a href="https://twitter.com/jab50yen/status/1270886743395520512?ref_src=twsrc%5Etfw">June 11, 2020</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+<p>“Discord and Slack have many similarities, but Discord is the superior tool,” says <a href="https://medium.com/ardentunited/why-we-use-discord-and-not-slack-500ac8027824">esports team Ardent United</a>. “Discord has voice channels, which allows us to easily chat with our supporters and other team members. Discord also allows us to set user roles and permissions which makes moderation extremely simple.” It&#39;s not just gaming companies, though. Decentralized cloud platform Sia also <a href="https://blog.sia.tech/sia-is-moving-from-slack-to-discord-195f87feb6a6">moved their community</a> to Discord:</p>
+
+<blockquote><p>Its intended audience is gamers, but many large communities have switched from Slack to Discord, including development communities like <a href="https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html">Reactiflux</a> and <a href="https://medium.com/@polymoon/unreal-slackers-is-moving-to-discord-c93492eb0612">Unreal Slackers</a>. It includes an unlimited number of users, unlimited file uploads (with a per-file size limit), unlimited message histories, and really great moderation and spam filtering features.</p></blockquote>
+
+<p>Slack is <a href="https://www.pcmag.com/reviews/slack">often praised</a> for its integrations, but it shares support with <a href="https://zapier.com/blog/slack-vs-discord/">Zapier</a> – a dedicated web integration service which more or less integrates them equally.</p>
+
+<blockquote><p>Slack works with <a href="https://slack.com/integrations">a long list of tools</a>, including Google Calendar, Zendesk, Salesforce, Wunderlist, and dozens of others. If you&#39;re looking for an integration that isn&#39;t immediately obvious, you can always turn to Zapier for help, because Slack is a supported service. Zapier is an online service that creates integrations between other apps and services, without you having to know any code to make it happen.</p></blockquote>
+
+<p>For sharing detailed post embeds, there&#39;s also <a href="https://discohook.org/">Discohook</a>, which I just discovered. Productivity company Chanty&#39;s blog wrote perhaps <a href="https://www.chanty.com/blog/discord-vs-slack">the most in-depth comparison</a> of the two services (emphasis theirs):</p>
+
+<blockquote><p>At their core, Discord and Slack and very similar. Both are <strong>team chat apps</strong> with a similar interface. Both apps have <strong>team communication organized</strong> in channels. The biggest difference between the two is their <strong>target audience</strong>, and of course, their <strong>specific features</strong>.</p></blockquote>
+
+<p>Ultimately, one must decide how relevant the services&#39; respective target audiences are to productivity. For a not-for-profit media organization like <em>Extratone</em>, Discord&#39;s features-for-price ratio is simply too rich to pass up. If you&#39;d like, <a href="https://discord.gg/0b9KQUKP858b0iZF">stop by our server</a> or try out <a href="https://discord.new/Nx7gawD84mMx">our server template</a>.</p>
+
+<hr/>
+
+<h2 id="further-reading">Further Reading</h2>
+<ul><li>“<a href="https://toucharcade.com/2015/09/14/ex-fates-forever-developers-making-discord-a-voice-comm-app-for-multiplayer-mobile-games/">Ex-‘Fates Forever’ Developers Making ‘Discord’, a Voice Comm App For Multiplayer Mobile Games</a>” | <em>toucharcade</em></li>
+<li>“<a href="https://www.pcgamer.com/one-year-after-its-launch-discord-is-the-best-voip-service-available/">One year after its launch, Discord is the best VoIP service available</a>” | <em>PC Gamer</em></li>
+<li>“<a href="https://www.polygon.com/2017/7/27/16046030/discord-raiding">Discord has a major raiding issue, but the developers are trying to fix it</a>” | <em>Polygon</em></li>
+<li>“<a href="https://www.nytimes.com/2017/08/15/technology/discord-chat-app-alt-right.html">This Was the Alt-Right’s Favorite Chat App. Then Came Charlottesville</a>” | <em>The New York Times</em></li>
+<li>“<a href="https://variety.com/2019/gaming/news/discord-nitro-boost-server-1203232450/">Discord Nitro Users Now Have Server Boosting Perks</a>” | <em>Variety</em></li>
+<li>“<a href="https://www.vox.com/2018/8/9/17665350/discord-jason-citron-games-store-pc-fortnite-valve-steam-kurt-wagner-recode-media-podcast">Gaming chat app Discord will start selling games to its 150 million users</a>” | <em>Vox</em></li>
+<li>“<a href="https://www.techjunkie.com/slack-vs-discord/">Slack Vs. Discord: Which Is Right For You?</a>” | <em>TechJunkie</em></li>
+<li>“<a href="https://miguelpiedrafita.com/slack-discord/">Should you be using Discord instead of Slack?</a>” | Miguel Piedrafita</li>
+<li>“<a href="https://www.theverge.com/21269875/slack-ceo-stewart-butterfield-interview-microsoft-remote-work-vergecast">Slack CEO Stewart Butterfield on Competing With Microsoft, the Future of Work, and Managing All Those Notifications</a>” | <em>The Verge</em></li></ul>
+
+<p><a href="tag%253Asoftware/index.html" class="hashtag"><span>#</span><span class="p-category">software</span></a></p>
+</div></article>
+
+		
+
+		
+		<footer dir="ltr"><hr><nav><p style="font-size: 0.9em">published with <a class="home pubd" href="https://write.as/">write.as</a></p></nav></footer>
+		
+
+		<noscript><p><img src="https://analytics.write.as/piwik.php?idsite=16" style="border:0;" alt="" /></p></noscript>
+	</body>
+	
+	
+		<script type="text/javascript" src="https://platform.twitter.com/widgets.js" async></script><script type="text/javascript" src="https://hypothes.is/embed.js" async></script>
+		<script type="text/javascript">var topP = document.createElement("p");
+//topP.style.textAlign = "center";
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://tiny.write.as/bilge">Tiny</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
+var cont = document.getElementById("wrapper");
+if (cont !== null) {
+    // Add to blog index and tag pages
+    cont.appendChild(topP);
+} else {
+    // Add to individual blog post page
+    cont = document.getElementById("post-body");
+    cont.insertAdjacentHTML("afterend", topP.outerHTML);
+}
+
+// src: https://platform.twitter.com/widgets.js
+
+// src: https://hypothes.is/embed.js
+
+window.hypothesisConfig = function () {
+  return {
+    "openSidebar": false, 
+    "theme": "clean",
+    branding: {
+      appBackgroundColor: '#e6f7ff',
+      ctaBackgroundColor: '#da2573',
+      ctaTextColor: '#00006b',
+      selectionFontFamily: 'Georgia, serif'
+    }
+  };
+};
+
+// Footnote hyperlinks in the body.
+var notePattern = /\[\^(\d+)\]/g;
+var noteText = "<a name=\"fn$1\"></a><sup><a class=\"footnote\" href="https://bilge.world/\&quot;#fnref$1\"">$1</a></sup>";
+
+// Footnote references at the bottom.
+var refPattern = /\[(\d+)\](.*)/g;
+var refText = "<a name=\"fnref$1\"></a><sup><a class=\"footnote-ref\" href="https://bilge.world/\&quot;#fn$1\"">$1</a></sup><span class=\"footnote-ref-text\">$2</span>";
+
+var postContent = document.getElementById("post-body").innerHTML;
+postContent = postContent.replace(notePattern, noteText);
+postContent = postContent.replace(refPattern, refText);
+document.getElementById("post-body").innerHTML = postContent;</script>
+	
+	
+<script>
+  
+  addEventListener('DOMContentLoaded', function () {
+    var hlbaseUri = "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.13.1/";
+    var lb = document.querySelectorAll("code[class^='language-']");
+
+    
+    var aliasmap = {
+      "elisp"      : "lisp",
+      "emacs-lisp" : "lisp",
+      "c"          : "cpp",
+      "cc"         : "cpp",
+      "h"          : "cpp",
+      "c++"        : "cpp",
+      "h++"        : "cpp",
+      "hpp"        : "cpp",
+      "hh"         : "cpp",
+      "hxx"        : "cpp",
+      "cxx"        : "cpp",
+      "sh"         : "bash",
+      "js"         : "javascript",
+      "jsx"        : "javascript",
+      "html"       : "xml"
+    };
+
+    
+    var langs = ["apache", "bash", "coffeescript", "cpp", "cs", "css", "diff",
+                 "http", "ini", "java", "javascript", "json", "makefile", "xml",
+                 "markdown", "nginx", "objectivec", "perl", "php", "properties",
+                 "python", "ruby", "shell", "sql"];
+
+    
+    function highlight(nodes) {
+      for (i=0; i < nodes.length; i++) {
+        hljs.highlightBlock(nodes[i]);
+      }
+    }
+
+    
+    function loadLanguages(uris, callback) {
+      uris.forEach(function(uri) {
+        var sc = document.createElement('script');
+        sc.src = uri;
+        sc.async = false; 
+        
+        if (uris.indexOf(uri) == uris.length-1) {
+          
+          
+          
+          sc.onload = callback;
+          sc.onerror = callback;
+        }
+        document.head.appendChild(sc);
+      });
+    }
+
+    
+    if (lb.length > 0) {
+      
+      var st = document.createElement('link');
+      st.rel = "stylesheet";
+      st.href = hlbaseUri + "styles/atom-one-light.min.css";
+      document.head.appendChild(st);
+
+      
+      var jss = [hlbaseUri + "highlight.min.js"];
+      
+      for (i=0; i < lb.length; i++) {
+        lang = lb[i].className.replace('language-','').toLowerCase();
+        
+        if (aliasmap[lang]) lang = aliasmap[lang];
+        lurl = hlbaseUri + "languages/" + lang + ".min.js";
+        if (!(langs.includes(lang) || jss.includes(lurl))) {
+          jss.push(lurl);
+        }
+      }
+      
+      loadLanguages(jss, () => {highlight(lb)});
+    }
+  });
+</script>
+
+	<script src="https://cdn.writeas.net/js/localdate.js" integrity="sha384-2h0jAAXW06POyeBB2kpmJH+tWBF2mCWnv4DucLFRZXs+D8NX/MjGV7C/aCC2Ywki" crossorigin="anonymous"></script>
+	<script type="text/javascript">
+
+var pinning = false;
+function unpinPost(e, postID) {
+	e.preventDefault();
+	if (pinning) {
+		return;
+	}
+	pinning = true;
+
+	var $header = document.getElementsByTagName('header')[0];
+	var callback = function() {
+		
+		var $pinnedNavLink = $header.getElementsByTagName('nav')[0].querySelector('.pinned.selected');
+		$pinnedNavLink.style.display = 'none';
+		try { _paq.push(['trackEvent', 'Post', 'unpin', 'post']); } catch(e) {}
+	};
+
+	var $pinBtn = $header.getElementsByClassName('unpin')[0];
+	$pinBtn.innerHTML = '...';
+
+	var http = new XMLHttpRequest();
+	var url = "/api/collections/bilge/unpin";
+	var params = [ { "id": postID } ];
+	http.open("POST", url, true);
+	http.setRequestHeader("Content-type", "application/json");
+	http.onreadystatechange = function() {
+		if (http.readyState == 4) {
+			pinning = false;
+			if (http.status == 200) {
+				callback();
+				$pinBtn.style.display = 'none';
+				$pinBtn.innerHTML = 'Pin';
+			} else if (http.status == 409) {
+				$pinBtn.innerHTML = 'Unpin';
+			} else {
+				$pinBtn.innerHTML = 'Unpin';
+				alert("Failed to unpin." + (http.status>=500?" Please try again.":""));
+			}
+		}
+	}
+	http.send(JSON.stringify(params));
+};
+
+var $form = document.getElementById('emailsub');
+if ($form != null) {
+	$form.onsubmit = function() {
+		var $sub = document.getElementById('subscribe-btn');
+		$sub.disabled = true;
+		$sub.value = 'Subscribing...';
+	}
+}
+
+	
+
+	
+	try { 
+	  var _paq = _paq || [];
+	  _paq.push(['trackPageView']);
+	  _paq.push(['enableLinkTracking']);
+	  _paq.push(['enableHeartBeatTimer']);
+	  (function() {
+		var u="https://analytics.write.as/";
+		_paq.push(['setTrackerUrl', u+'piwik.php']);
+		_paq.push(['setSiteId', 16]);
+		var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+		g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+	  })();
+	} catch (e) {   }
+	
+	try { 
+	  WebFontConfig = {
+		custom: { families: [ 'Lora:400,700:latin', 'Open+Sans:400,700:latin' ], urls: [ 'https:\/\/cdn.writeas.net/css/fonts.4ce1882.css' ] }
+	  };
+	  (function() {
+		var wf = document.createElement('script');
+		wf.src = 'https:\/\/cdn.writeas.net/js/webfont.js';
+		wf.type = 'text/javascript';
+		wf.async = 'true';
+		var s = document.getElementsByTagName('script')[0];
+		s.parentNode.insertBefore(wf, s);
+	  })();
+	} catch (e) {   }
+	</script>
+
+    
+</html>
