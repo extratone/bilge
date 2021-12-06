@@ -6,7 +6,7 @@
 
 Incredibly, the second most powerful social media company in the world has finally managed to implement a paid subscription model, as I’ve been begging them to do for [at least 5 years](https://twitter.com/neoyokel/status/696094018862718976), now. For three U.S. Dollars a month, “[Twitter Blue](https://blog.twitter.com/en_us/topics/company/2021/introducing-twitter-blue)” is [now available](https://www.theverge.com/2021/11/9/22766286/twitter-blue-subscription-service-scroll-nuzzel-undo-tweets-ad-free-articles-us) for all United States users. Aside from [a relentless, rude, two and a half hour-long rant](https://apple.co/3wVZs3v) at two new friends on *End User*, I should confess that I haven’t spoken adequately to peers at length about their Twitter use - understandably, busy independent artists don’t seem to find themsevles with the spare time to hypothesize methodically about what they might want from the service, going forward. From the mass of commentary on Twitter Blue I *was* able to gather, a resounding sentiment refrains: *these features should be available to everyone*.
 
-https://open.spotify.com/episode/0ImyC2Twm5qyx9lxmcKmkP
+https://open.spotify.com/episode/3VSCTrzf9QN2MjyFMQ930d
 
 Frankly, after all these years, there’s not all that much to actually say about the product, itself. Thanks to Spaces, I happened to catch a chance to ask my favorite sage of late - Jason Scott, original creator of textfiles.com - for his thoughts. 
 
@@ -26,16 +26,13 @@ Of course, this new development of mine hasn’t actually managed to delivery an
 
 The peeves aren’t new, but I’ve found my own redundancy within *The Psalms* to be less and less… redundant, if that makes sense. This company’s software is bad and its continued prioritization of the two native mobile applications (neither of which it actually built) over any other clients for *all* user considerations is a spectacular tedium to follow. Its world record breaking inability to understand anything about how its *whole shit* fits into the lives of *any* of its users continues to astound. My peak irritation about the whole situation, lately, is that *you fuckers* continue to discuss alterations to social software, generally, as if they are *inevitable* with a sense of complicity I will *not* allow. I’m not going to argue that you’re *obligated* to speak up and out in a labor sense, but beseeching that you **expect more** from these organizations as a customer, a citizen, and a human being.
 
-### All Users are Power Users
-
-The episode of *End User* embedded above is one of the only podcast episodes I’ve ever made which I actually find *too painful* to listen back to[^2], but I still think it’s valuable. There’s a specific bit of the conversation between [@alisonbuki](https://twitter.com/alisonbuki) and I in which the term “Poweruser” is actually thrown around regarding my own use of Twitter Lists, Tweetbot, and a few other “”””Hacks”””” to consume content *deliberately*. 
-
+For your sake, I've spent the time to break Twitter Blue's offering down specifically, feature by feature, only because I have yet to see it done methododically in detail from the tech media sources you'd normally depend on.
 
 ![Thread Reader - Twitter Blue for iOS](https://i.snap.as/SAYPlThr.png)
 
 ## Thread Reader
 
-If I’m honest, the majority of the discourse I’ve picked up surrounding Twitter threads in the past few years has been negative. Vaguely, “getting lost” is something I recall being expressed. Twitter Blue’s Thread Reader offers a “reader view”-like experience in three different font sizes - none of which looked particularly optimal, to my eye. If there’s anything to say about it, really, it’s suggest this adjustment be made more variable, natively, though further adjustment is allowed at the moment by using `⌘ + =, -, and 9` for those iPhone keyboarders among you.
+If I’m honest, the majority of the discourse I’ve picked up surrounding Twitter threads in the past few years has been negative. Vaguely, “getting lost” is something I recall being expressed. Twitter Blue’s Thread Reader offers a “reader view”-like experience in three different font sizes - none of which looked particularly optimal, to my eye. If there’s anything to say about it, really, it’s suggest this adjustment be made more variable, natively, though further adjustment is allowed at the moment by using `⌘ + =, -, and 0` for those iPhone keyboarders among you.
 
 ![Voice Tweets in Thread Reader - Twitter for iOS](https://i.snap.as/1ia6xNyv.png)
 
@@ -55,9 +52,9 @@ https://twitter.com/neoyokel/status/1463658007791812608
 
 As you’ll see in the screenshot embedded above, Custom Navigation offers one a choice of up to 6 tabs from a total of 10, which include [some Bluetooth keyboard shortcut considerations](https://github.com/ExtraKeys/keys/issues/31#issuecomment-986184090) I suspect you’ll not find detailed from any other source. To start, `⌘ + F` will now reliably open the Explore tab and (most of the time) deliver one’s cursor directly to its search field. However, **this only functions when Explore has been selected as one of the bottom nav tabs**, which really misses out on an opportunity for the shortcut to be uniquely useful, in my view. Otherwise, `⌘ + 1-6` will open the bottom tabs you’ve chosen in order, which means - brace yourselves - that Twitter Blue’s Custom Navigation technically includes configurable keyboard shortcuts.
 
-https://open.spotify.com/episode/3VSCTrzf9QN2MjyFMQ930d
+https://twitter.com/neoyokel/status/1467681892468154370
 
-Also notable: when viewing the obligatory Home tab, one can navigate between their Lists with just the (unmodified) left and right arrow keys!  `⌘ + ,` is now a dependable way of opening the app’s Settings menu, `⌘ + \` pulls up the account switcher, `⌘ + =,-,0` manipulates text size, app-wide. Several other commands in [the public-facing keyboard shortcuts documentation](https://help.twitter.com/en/using-twitter/twitter-ios-app) - like `⌘ + M` to switch between light and dark modes, for instance - either have yet to be updated in the document or are iPadOS-only. 
+Also notable: when viewing the obligatory Home tab, one can navigate between their Lists with just the (unmodified) left and right arrow keys!  `⌘ + ,` is now a dependable way of opening the app’s Settings menu, `⌘ + \` pulls up the account switcher, `⌘ + =,-,0` manipulates text size, app-wide. `⌘ + V` will open Tweets from links in one’s clipboard from anywhere in the app - not a new trick, I don’t think, but a clever one. Several other commands in [the public-facing keyboard shortcuts documentation](https://help.twitter.com/en/using-twitter/twitter-ios-app) - like `⌘ + M` to switch between light and dark modes, for instance - either have yet to be updated in the document or are iPadOS-exclusive. 
 
 ![Undo Tweet - Twitter Blue](https://i.snap.as/Qfb0rFvf.png)
 
@@ -138,7 +135,7 @@ The answer offered by Twitter, Inc. to the question of “How does my ad-free re
 
 ## Bookmark Folders
 
-Bookmarks and **Bookmark Folders**** represent yet further evidence that someone at Twitter, Inc. *actually uses Twitter* (or perhaps has a friend or family member.) Technically, they also represent one of few core functions exclusive to Twitter’s own clients. (Consider: Tweetbot even supports polls, now.) However, like the Thread Reader and “Custom Themes,” Bookmark Folders, too, feel like an afterthought shoved in the bundle an hour before a deadline. Specifically, their color-coded icons look like placeholders for custom images… which aren’t supported, and they represent 0 additional function as curatorial/archival tools (no exporting/aggregating/or sorting, even) beyond simply nesting bookmarks into… folders.
+Bookmarks and **Bookmark Folders** represent yet further evidence that someone at Twitter, Inc. *actually uses Twitter* (or perhaps has a friend or family member.) Technically, they also represent one of few core functions exclusive to Twitter’s own clients. (Consider: Tweetbot even supports polls, now.) However, like the Thread Reader and “Custom Themes,” Bookmark Folders, too, feel like an afterthought shoved in the bundle an hour before a deadline. Specifically, their color-coded icons look like placeholders for custom images… which aren’t supported, and they represent 0 additional function as curatorial/archival tools (no exporting/aggregating/or sorting, even) beyond simply nesting bookmarks into… folders.
 
 ![Themes & Icons - Twitter Blue for iOS](https://i.snap.as/935pp2QS.png)
 
@@ -151,6 +148,12 @@ https://twitter.com/neoyokel/status/1467422017527951366
 Absolutely zero effort has been expended thus far in recharacterizing what Web Twitter still calls “Colors” as “Themes,” and the only *exclusivity* in the icon options is that some are seasonal, or otherwise time-limited, for what possible purpose I cannot conceive. This from a company of more than 5000 full-time employees. 
 
 In contrast, from a full-time team of two - both of whom suffered through bad COVID infections, this year - Tweetbot now includes an even further broadened spectrum of app-wide themes and 19 app icons in total, including, yes, at least two very cute, limited-time seasonal options. 
+
+https://open.spotify.com/episode/0ImyC2Twm5qyx9lxmcKmkP
+
+## All Users are Power Users
+
+The episode of *End User* embedded above is one of the only podcast episodes I’ve ever made which I actually find *too painful* to listen back to[^2], but I still think it’s valuable. There’s a specific bit of the conversation between [@alisonbuki](https://twitter.com/alisonbuki) and I in which the term “Poweruser” is actually thrown around regarding my own use of Twitter Lists, Tweetbot, and a few other *Hax* to consume content *deliberately*. I think I failed somewhere in my portrayal of this curation and miscommunicated the nature of what I was trying to get at by “making use of the tools available to you.” 
 
 [1] Despite the fact that Tweeting via SMS has [since been disabled](https://www.theverge.com/2019/9/4/20849865/twitter-disables-sms-text-message-tweeting-jack-dorsey-ceo-hack).
 [2] I was just… rude. Very rude. “Necessary” is not a term I’d apply to this rudeness, but… Just give me this once, is all I’d ask.
