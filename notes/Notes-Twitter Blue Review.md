@@ -9,6 +9,7 @@
 - [[Longer Videos & Pinned Conversations]]
 - [[Ad-Free Articles]]
 - [[Bookmark Folders]]
+- [[Icons & “Themes”]]
 
 ## General Notes
 - [x] Bookmark folders don't function on Desktop???
@@ -38,9 +39,10 @@
 - [Twitter Blue Publishers - Twitter List](https://twitter.com/i/lists/1448014243245150209)
 
 ## Tweets
-- [ ] [Avery on threader absorbtion](https://twitter.com/echoesremained/status/1460391960536096771) - `https://twitter.com/echoesremained/status/1460391960536096771?s=21`
-- [ ] [Mobile Dot Twitter Dot Com](https://twitter.com/neoyokel/status/1467393675579871234)
-- [ ] [Preferences Reset](https://twitter.com/neoyokel/status/1463658007791812608)
+- [ ] [Avery on threader absorbtion](https://twitter.com/echoesremained/status/1460391960536096771) - `https://twitter.com/echoesremained/status/1460391960536096771`
+- [x] [Mobile Dot Twitter Dot Com](https://twitter.com/neoyokel/status/1467393675579871234)
+- [x] [Preferences Reset](https://twitter.com/neoyokel/status/1463658007791812608)
+- [ ] [Tweetbot pricing and themes](https://twitter.com/neoyokel/status/1467422017527951366)
 
 ## Videos
 1. [Survey](https://twitter.com/NeoYokel/status/1459232262986379265)
@@ -50,12 +52,12 @@
 ## Images
 - [ ] `![Twitter Logo 2021](https://i.snap.as/aGCRJeUq.png)`
 - [ ] `![Twitter in Jorts Dock, 2021](https://i.snap.as/zp5uCNwa.png)`
-- [ ] `![Ad-Free Articles in Safari - Twitter Blue](https://i.snap.as/7RBw18tJ.png)`
-- [ ] `![Pinned DMs - Twitter Blue on iOS](https://i.snap.as/8aFbZdVQ.png)`
-- [ ] `![Custom Navigation - Twitter Blue on iOS](https://i.snap.as/hu2p7mN2.png)`
+- [x] `![Ad-Free Articles in Safari - Twitter Blue](https://i.snap.as/7RBw18tJ.png)`
+- [x] `![Pinned DMs - Twitter Blue on iOS](https://i.snap.as/8aFbZdVQ.png)`
+- [x] `![Custom Navigation - Twitter Blue on iOS](https://i.snap.as/hu2p7mN2.png)`
 - [ ] `![App Icons - Twitter Blue for iOS](https://i.snap.as/vNO1FH8h.png)`
-- [ ] `![Twitter Blue Brand Image](https://i.snap.as/F4AODRKo.png)`
-- [ ] `![Thread Reader - Twitter Blue for iOS](https://i.snap.as/SAYPlThr.png)`
+- [x] `![Twitter Blue Brand Image](https://i.snap.as/F4AODRKo.png)`
+- [x] `![Thread Reader - Twitter Blue for iOS](https://i.snap.as/SAYPlThr.png)`
 - [ ] `![STOP](https://i.snap.as/RLAwI1K4.png)`
 - [x] `![Voice Tweets in Thread Reader - Twitter for iOS](https://i.snap.as/1ia6xNyv.png)`
 - [ ] `![Twitter Spaces by David Blue](https://i.snap.as/LCiDvTxG.jpeg)`
@@ -63,7 +65,20 @@
 - [ ] `![Lists Discovery - Twitter for iOS](https://i.snap.as/thUdMo2o.png)`
 - [ ] `![Undo Tweet - Twitter Blue](https://i.snap.as/Qfb0rFvf.png)`
 - [ ] `![Bookmark Folders - Twitter Blue](https://i.snap.as/VyMNqr7V.png)`
+- [ ] `![Twitter Blue Tabs](https://i.snap.as/Qs5cIakt.png)`
+- [ ] `![Kansas City Star Twitter Blue Comparison](https://i.snap.as/ATS5Q3ok.png)`
+- [ ] `![See Your Impact - Twitter Blue](https://user-images.githubusercontent.com/43663476/144753270-c9687e0d-1307-41ba-b403-990923d70acf.png)`
+- [ ] `![Themes & Icons - Twitter Blue for iOS](https://i.snap.as/935pp2QS.png)`
 
+```
+![Twitter Blue Bevel](https://i.snap.as/XR4mJRCG.png)
+![Twitter Blue Stone BG](https://i.snap.as/Ohvd6AuC.png)
+![Twitter Blue Stone BG](https://i.snap.as/GAq5bVYw.jpg)
+![Twitter Blue Stone](https://i.snap.as/CHmbp6pD.png)
+![Twitter Blue Planet](https://i.snap.as/LVAPpaln.png)
+![Twitter Blue Grill](https://i.snap.as/Zug0oWF9.png)
+![Twitter Blue Grill](https://i.snap.as/rfl2Y8Tk.jpg)
+```
 ## Tweets
 
 - `https://twitter.com/neoyokel/status/696094018862718976`
@@ -106,6 +121,7 @@
 - [ ] [New Lists Lookup Functionality](https://trello.com/c/DSYUbM5D) - Twitter Roadmap (Trello)
 - [ ] [Scroll is shutting down in "approximately" 30 days to become part of Twitter Blue](https://www.theverge.com/2021/10/5/22711233/scroll-shutting-down-twitter-blue-standalone-subscription-ad-free-article-service) | *The Verge*
 - [ ] [Scroll, the ad-free news startup, tests a limited partnership with McClatchy](https://www.niemanlab.org/2020/12/scroll-the-ad-free-news-startup-will-experiment-with-bundled-subscriptions-at-eight-mcclatchy-sites/) | *Nieman Lab*
+- [ ] [More worrisome circulation figures for The Kansas City Star](https://jimmycsays.com/2018/02/13/more-worrisome-circulation-figures-for-the-kansas-city-star/)
 
 
 
