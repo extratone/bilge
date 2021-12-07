@@ -1,4 +1,4 @@
-# ⸎ David Blue Styleguide ⸎
+# David Blue Styleguide
 
 `Saturday, July 31, 2021 9:00:48 PM`
 
@@ -13,32 +13,25 @@ In a desire to quantify/document my own personal preferences in composition, I h
 ### spelling
 
 - "WiFi"
-
 - “sortof”
-
 - “featureset”
-
 - “Web Site”
+- "poweruser"
+- "end user"
+- "[undercovered](https://www.icloud.com/shortcuts/18eb1e77ab0b455f82da4c4c6e521368)"
+- "Siri Shortcut"
 
 
 ## Do Not
 
 - "I'd be *remiss*..."
-
 - "Really *struck* me."
-
 - "At the end of the day..."
-
 - "When it's all said and done..."
-
 - "In the final hour..."
-
 - "Out of all the __, __ really stood out to me..."
-
 - "In my book..."
-
 - "In my estimation..."
-
 - **All idioms**.
 - **All platitudes**.
 - The “tldr” school of thought.
