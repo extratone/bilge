@@ -18,13 +18,15 @@
 - [ ] I absolutely love continuing to see ads.
 - [ ] Lists Discovery (sortof separate) helped me catch a few accounts/friends I assumed were on The New List uhhh for years???
 - [x] “These features should be available to everyone” is the recurring sentiment among the commentary I’ve found so far.
-- [ ] All Twitter Users are Power Users.
+- [ ] All Twitter Users ~~are~~Should Be Power Users.
 - [ ] **Stop talking about this bullshit like it’s unavoidable**.
 - [ ] [**POST QUEUE**](https://twitter.com/NeoYokel/status/1460486229800230914) - An actual poweruser feature that cannot be found in *any* Twitter client aside from the PRO tools.
 - [x] It just occurred to me that the app has not randomly logged me out since I paid for Twitter Blue. 
-- [ ] Introducing more preferences is great…but only if they actually persist.
+- [x] Introducing more preferences is great…but only if they actually persist.
 - [ ] [[Mobile Dot Twitter Dot Com]]
-- [ ] *My* Jack-Leaving-Twitter Conspiracy: Jack leaving Twitter now is a coverup - knowing tech media would talk about his departure endlessly instead of the details of how low-value Twitter Blue is.
+- [x] *My* Jack-Leaving-Twitter Conspiracy: Jack leaving Twitter now is a coverup - knowing tech media would talk about his departure endlessly instead of the details of how low-value Twitter Blue is.
+- [ ] Instead of placing the bet on local newspapers like *The Kansas City Star*, Twitter should take the ad-free risk themselves and offer, simply, a completely ad-free Twitter experience. That might just be worth $2.99 a month.
+- [x] Hey Twitter, here’s a brief list of likely hirable iOS developers better than yours.
 
 ```
 <audio controls>
@@ -120,9 +122,11 @@
 - [ ] [Siri Voice 2 reading Jack’s resignation email aloud](https://whyp.it/t/jack-dorseys-resignation-email-read-aloud-by-siri-voice-2-eX5Yg)
 - [ ] [Jack Dorsey Was the Soul of Twitter](https://www.wired.com/story/jack-dorsey-was-the-soul-of-twitter/) - ([No](https://twitter.com/neoyokel/status/1465557949875736582).)
 - [ ] [New Lists Lookup Functionality](https://trello.com/c/DSYUbM5D) - Twitter Roadmap (Trello)
-- [ ] [Scroll is shutting down in "approximately" 30 days to become part of Twitter Blue](https://www.theverge.com/2021/10/5/22711233/scroll-shutting-down-twitter-blue-standalone-subscription-ad-free-article-service) | *The Verge*
-- [ ] [Scroll, the ad-free news startup, tests a limited partnership with McClatchy](https://www.niemanlab.org/2020/12/scroll-the-ad-free-news-startup-will-experiment-with-bundled-subscriptions-at-eight-mcclatchy-sites/) | *Nieman Lab*
-- [ ] [More worrisome circulation figures for The Kansas City Star](https://jimmycsays.com/2018/02/13/more-worrisome-circulation-figures-for-the-kansas-city-star/)
+- [x] [Scroll is shutting down in "approximately" 30 days to become part of Twitter Blue](https://www.theverge.com/2021/10/5/22711233/scroll-shutting-down-twitter-blue-standalone-subscription-ad-free-article-service) | *The Verge*
+- [x] [Scroll, the ad-free news startup, tests a limited partnership with McClatchy](https://www.niemanlab.org/2020/12/scroll-the-ad-free-news-startup-will-experiment-with-bundled-subscriptions-at-eight-mcclatchy-sites/) | *Nieman Lab*
+- [x] [More worrisome circulation figures for The Kansas City Star](https://jimmycsays.com/2018/02/13/more-worrisome-circulation-figures-for-the-kansas-city-star/)
+- [ ] [Twitter Has a New CEO; What About a New Business Model?](https://stratechery.com/2021/twitter-has-a-new-ceo-what-about-a-new-business-model/)
+- [ ] [**Twitter API endpoint map**](https://developer.twitter.com/en/docs/twitter-api/migrate/twitter-api-endpoint-map)
 
 
 
