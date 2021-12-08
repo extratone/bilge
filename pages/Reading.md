@@ -44,6 +44,8 @@ Ernie Smith's *Tedium* is unlike any other publication on the web.
 
 An ongoing list of some of my absolute favorite reads on The Net.
 
+* “[What would a real Web3 look like](https://write.as/matt/what-would-a-real-web3-look-like)?” | Matt Baer
+* “[Katie Couric Is Not for Everyone](https://www.thecut.com/2021/10/katie-couric-memoir-going-there.html)” | *The Cut*
 * “[Finding Inspiration Again](https://write.as/matt/finding-inspiration-again)” | Matt Baer
 * “[The Airwaves of Navajo Nation](https://www.theverge.com/22543812/navajo-nation-radio-stations-coronavirus-dine-bizaad-ktnn-kyat) “| *The Verge*
 * “[On Techno-Orienatalism](https://reallifemag.com/on-techno-orientalism)” | *Real Life*
