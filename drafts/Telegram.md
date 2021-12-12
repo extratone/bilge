@@ -1,4 +1,4 @@
-# I Trust Telegram  
+# I Trust Telegram
   
 ![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)
 
@@ -116,7 +116,7 @@ One of Telegram's most unique (and potentially powerful, I believe) community fe
   <source src="https://github.com/extratone/bilge/raw/main/audio/The%20man%20who%20wants%20to%20out-Uber%20Uber-CBC.mp3">
 </audio>
 
-As for the persistence of *Live* location-sharing, I can vouch for its reliability on the Android side, at least, as per my aforementioned experience with a partner who used Telegram and shared their location with me for both safety and convenience. As someone with the most immense possible privilege regarding safety and dating, I would also like to suggest sharing one's live location with a private Telegram group chat with friends as an alternative to service's like [Tinder's Noonlight](https://www.help.tinder.com/hc/en-us/articles/360039260031-What-is-Noonlight-).
+As for the persistence of *Live* location-sharing, I can vouch for its reliability on the Android side, at least, as per my aforementioned experience with a partner who used Telegram and shared their location with me for both safety and convenience. As someone with the most immense possible privilege regarding safety and dating, I would also like to suggest sharing one's live location with a private Telegram group chat with friends as an alternative to services like [Tinder's Noonlight](https://www.help.tinder.com/hc/en-us/articles/360039260031-What-is-Noonlight-).
 
 
 
@@ -167,7 +167,7 @@ It very well could have been mostly chance that contributed to Telegram's curren
 
 Telegram's story certainly *stands out*, though the voice of its creator, Pavel Durov, actually *telling* this story at length can now only be found [on *WIRED UK*'s MixCloud account](https://www.mixcloud.com/wiredUK/telegrams-pavel-durov-podcast-256), in [episode 256 of their *WIRED Podcast*](https://www.wired.co.uk/article/episode-256). Telegram was experiencing the peak of its presence in mainstream Western news media, who just *would not* let go of the fact that some leader of some terrorist organization recommended Telegram to someone for something at some point in time.[^12] Listening back, it's the nomadic "decentralized" beginnings of the organization - which I had forgotten entirely - which sounded a big, resonant Parallel Alarm in my brain: for very different reasons, [Bandcamp also operating without an office](https://bilge.world/bandcamp-streaming-music) (from a public library, charmingly,) at that time. 
 
-"Can there only be one winner in the messaging wars?" David Rowan, to which Pavel - in the deliberate, uncomfortable-sounding tone he uses throughout the interview - responds by first noting a *real truth* for actual users: we tend to end up with a billion, each grouped generally by types of relationships. iMessage is for your family and local friends, Facebook Messenger is for your school group project, IRC and Element are for your insane, privacy-obsessed Linux friends, and Telegram is for [unsolicited video chats of worm tubs](https://twitter.com/ammnontet/status/1449594872139186181).
+"Can there only be one winner in the messaging wars?" asks David Rowan, which Pavel - in the deliberate, uncomfortable-sounding tone he uses throughout the interview - answers first noting a *real truth* for actual users: we tend to end up with a billion, each grouped generally by types of relationships. iMessage is for your family and local friends, Facebook Messenger is for your school group project, IRC and Element are for your insane, privacy-obsessed Linux friends, and Telegram is for [unsolicited video chats of worm tubs](https://twitter.com/ammnontet/status/1449594872139186181).
 
 ------
 
