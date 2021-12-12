@@ -1,10 +1,10 @@
-# I Trust Telegram
-
+# I Trust Telegram  
+  
 ![Patel Clouds Theme in the Chat Background Tool](https://i.snap.as/9Bxz27ZX.png)
 
 ## How I’ve used Telegram as the ultimate cross-platform Universal Clipboard, file sharing service, and more.
 
-Believe it or not, I, too originally sought the Russian-owned, cross-platform-as-hell messaging service for “privacy” - or perhaps *solitude* would be more apt. It was in 2017, amidst the shock that the Tump Presidency was *actually going to happen* [^1], that I happened to hear about his pick for Secretary of Education, Betsy DeVos, whom had just 18 months prior led myself and some twenty thousand other poor souls in a most capitalist prayer to the Christian God for prosperity at her pyramid scheme’s ultimate “superbowl” gathering in Cincinatti. I ha`32`d decided to “infiltrate” AMWAY under the ridiculous assumption that I might be able to contribute some new insight in writing critically about what I might witness. (In truth, I found my experiences that summer so utterly traumatic, existentially, that I never was able to do so.) I don’t know what consequences of her ascension to the Lord of American Schooling I expected to happen, but I was pretty hysterical about it - that is, more unhumorously alarmed about some grander world happening as I’d ever been by a long shot. For the first and only time in memory, I felt compelled to take some sort of malicious, obscured action - to organize somehow for a purpose other than to be publicly critical of this person, and to use my knowledge about digital media to the fullest possible extent to scrutinize her administration’s every movement and to be prepared, even, to take some sort of real action if she… well, I don’t know. I *didn’t* know anything, really, about anti-government organization, generally, but I was not acting rationally in the slightest.[^2]
+Believe it or not, I, too originally sought the Russian-owned, cross-platform-as-hell messaging service for “privacy” - or perhaps *solitude* would be more apt. It was in 2017, amidst the shock that the Tump Presidency was *actually going to happen* [^1], that I happened to hear about his pick for Secretary of Education, Betsy DeVos, whom had just 18 months prior led myself and some twenty thousand other poor souls in a most capitalist prayer to the Christian God for prosperity at her pyramid scheme’s ultimate “superbowl” gathering in Cincinatti. I had decided to “infiltrate” AMWAY under the ridiculous assumption that I might be able to contribute some new insight in writing critically about what I might witness. (In truth, I found my experiences that summer so utterly traumatic, existentially, that I never was able to do so.) I don’t know what consequences of her ascension to the Lord of American Schooling I expected to happen, but I was pretty hysterical about it - that is, more unhumorously alarmed about some grander world happening as I’d ever been by a long shot. For the first and only time in memory, I felt compelled to take some sort of malicious, obscured action - to organize somehow for a purpose other than to be publicly critical of this person, and to use my knowledge about digital media to the fullest possible extent to scrutinize her administration’s every movement and to be prepared, even, to take some sort of real action if she… well, I don’t know. I *didn’t* know anything, really, about anti-government organization, generally, but I was not acting rationally in the slightest.[^2]
 
 ![White Sapphire](https://i.snap.as/aNADRjvK.png)
 
@@ -115,7 +115,7 @@ One of Telegram's most unique (and potentially powerful, I believe) community fe
 <audio controls>
   <source src="https://github.com/extratone/bilge/raw/main/audio/The%20man%20who%20wants%20to%20out-Uber%20Uber-CBC.mp3">
 </audio>
-*
+
 As for the persistence of *Live* location-sharing, I can vouch for its reliability on the Android side, at least, as per my aforementioned experience with a partner who used Telegram and shared their location with me for both safety and convenience. As someone with the most immense possible privilege regarding safety and dating, I would also like to suggest sharing one's live location with a private Telegram group chat with friends as an alternative to service's like [Tinder's Noonlight](https://www.help.tinder.com/hc/en-us/articles/360039260031-What-is-Noonlight-).
 
 
@@ -149,7 +149,6 @@ My thinking while drafting this argument kept returning to a single, simple real
 
 ![Storage Management - Telegram for iOS](https://i.snap.as/BecGI6kg.png)
 
-
 Returning to the topic of their age… In its eight operating years, Telegram has embarked upon - and *actually completed*! - a gargantuan amount of projects. [Telegraph](https://telegra.ph/), the CMS, its [Web](http://web.telegram.org/), [Android](https://telegram.org/android), and [Linux](https://itsfoss.com/install-telegram-desktop-linux/) clients, [embeddedable comments widgets](https://comments.app), its [online theme creation tool](https://themes.telegram.org/), and on and on. Across their various types, Telegram’s software is universally simple, frugal, robust, and easy-to-use. Frankly, by contrast, Discord has done *nothing*? Though you’ll find openly-available solutions to accomplish much of what you can on Telegram in terms of moderation and other utilitarian concerns, like the aforementioned Craig bot, they are *all* the work of third-parties. While Discord the *company* is much more [transparently profiled](https://discord.com/company) on the web than “Telegram FZ LLC,” the latter’s actual work is very well documented [across GitHub](https://github.com/TelegramMessenger). 
 
 ![Telegram Desktop in Windows 11](https://i.snap.as/DFQzGGeZ.png)
@@ -168,7 +167,7 @@ It very well could have been mostly chance that contributed to Telegram's curren
 
 Telegram's story certainly *stands out*, though the voice of its creator, Pavel Durov, actually *telling* this story at length can now only be found [on *WIRED UK*'s MixCloud account](https://www.mixcloud.com/wiredUK/telegrams-pavel-durov-podcast-256), in [episode 256 of their *WIRED Podcast*](https://www.wired.co.uk/article/episode-256). Telegram was experiencing the peak of its presence in mainstream Western news media, who just *would not* let go of the fact that some leader of some terrorist organization recommended Telegram to someone for something at some point in time.[^12] Listening back, it's the nomadic "decentralized" beginnings of the organization - which I had forgotten entirely - which sounded a big, resonant Parallel Alarm in my brain: for very different reasons, [Bandcamp also operating without an office](https://bilge.world/bandcamp-streaming-music) (from a public library, charmingly,) at that time. 
 
-"Can there only be one winner in the messaging wars?" David Rowan, to which Pavel - in the deliberate, uncomfortable-sounding tone he uses throughout the interview - responds by first noting a *real truth* for actual users: we tend to end up with a billion, each grouped generally by types of relationships.
+"Can there only be one winner in the messaging wars?" David Rowan, to which Pavel - in the deliberate, uncomfortable-sounding tone he uses throughout the interview - responds by first noting a *real truth* for actual users: we tend to end up with a billion, each grouped generally by types of relationships. iMessage is for your family and local friends, Facebook Messenger is for your school group project, IRC and Element are for your insane, privacy-obsessed Linux friends, and Telegram is for [unsolicited video chats of worm tubs](https://twitter.com/ammnontet/status/1449594872139186181).
 
 ------
 
@@ -183,4 +182,4 @@ Telegram's story certainly *stands out*, though the voice of its creator, Pavel 
 [9] Simulcast services like [Happs](https://happs.tv/@DavidBlue) - which still exists, astonishingly - offer an intriguing utility for those intending to stream regularly and wishing to do so across multiple platforms. It does not, at the moment, support either Telegram or Discord.
 [10] Speaking as someone with [actual extensive ridesharing experience](https://dieselgoth.com/volkswagen-jetta-sportwagen-tdi-review.html), notably.
 [11] Yes, there are some fellow Open Source Folks who’ve frankly struggled to let IRC go. It was an amazing protocol and will always be intertwined with the very first layed bricks of what we’d call the Social Web, but my friends… I sincerely think we should all try our hands at ham radio, instead. I think that would legitimately be a better use of our time than trying to implement two-factor authentication for IRC in this year of our spiteful Lourde 2021.
-[12] Disparaging Telegram for this is akin to shitting on Google because it is or was almost certainly the Taliban's favorite search engine, no? 
+[12] Disparaging Telegram for this is akin to shitting on Google because it is or was almost certainly the Taliban's favorite search engine, no?
