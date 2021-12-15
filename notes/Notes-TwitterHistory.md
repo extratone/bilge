@@ -12,11 +12,19 @@
 - [Xperia Play UNCOVERED]](https://youtube.com/watch?v=gQTyUrL7gEc)
 
 ## Tweets
-- https://twitter.com/neoyokel/status/666726242675101697
+- [ ] [You Can Go Fast…](https://twitter.com/neoyokel/status/666726242675101697)
+- [ ] [Rick Roll Ringtone](https://twitter.com/neoyokel/status/7775103604)
+- [ ] [Google Allo Moment](https://twitter.com/i/events/785522167714766848)
+- [ ] [True/False 2017 Moment](https://twitter.com/i/events/781963844532920320)
+- [ ] [MAGFest 2017 Moment](https://twitter.com/i/events/840282289049391104)
+- [ ] [Drycast Memories Moment](https://twitter.com/i/events/789792690292400128)
+- [ ] [Good Times with Google Moment](https://twitter.com/i/events/997999016678866944)
+- [ ] [Saved Searches](https://twitter.com/neoyokel/status/1374939906179497987)
 
 ## Images
 - [ ] `![Watching Jimmy - Twitter for iOS](https://i.snap.as/m4Ls06fs.png)`
 - [ ] `![Watching Jimmy! - Tweetbot](https://i.snap.as/WfZk08wb.png)`
+- [ ] `![Watching Jimmy Sentiment Analysis](https://user-images.githubusercontent.com/43663476/146107888-ad09a1a2-9e51-4f67-8660-a4effd6d6969.png)`
 - [ ] ![Drycast Classic Banner](https://i.snap.as/Vy46eZzP.png)
 - [ ] ![Sn00ki Denial](https://i.snap.as/gYZ9piaG.png)
 - [ ] ![Eat Rocks](https://i.snap.as/R2Yg7CcX.jpeg)
@@ -39,11 +47,18 @@
 - [ ] ![Illmatic Facebook](https://i.snap.as/xPRB157k.jpeg)
 - [ ] ![Buying a Gun is So Easy](https://i.snap.as/Ood9xT32.png)
 - [ ] ![DeadDigitizer](https://i.snap.as/HIvLIU9A.png)
+- [ ] `![Because They’re Republicans - Austin](https://i.snap.as/SiFuVn9q.jpeg)`
 
 ## Videos
 - [ ] Twitter Adds Motion Pictures
 ```
 <video controls>
   <source src="https://user-images.githubusercontent.com/43663476/145752211-24c36e4d-de68-4abf-8c2b-2d7263a95b1f.MOV">
+</video>
+```
+- [ ] Watching Jiimmy Barking
+```
+<video controls>
+  <source src="https://user-images.githubusercontent.com/43663476/146107980-c8817a6e-a66d-4b17-8332-169c84d6e086.MOV">
 </video>
 ```
