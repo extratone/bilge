@@ -1,23 +1,28 @@
 # Notes-Telegram
 
-## General
-* **Telegram and Discord are the same age**
-* Telegram’s cross-platform, resource-frugal clients and phone number-based accounts/auth literally make it more **class mobile** than Discord.
-* What in fuck is this website… “[Telegram for iOS - NONE](http://tsfkb.wikidot.com/apps:ios)”
-* My [personal Telegram satellite GitHub Repository](https://github.com/extratone/t)
-* [Send to Telegram Drafts Action](https://actions.getdrafts.com/a/18E)
-* [r/columbiamo - Local Telegram Group Chat for Columbia](https://reddit.com/r/columbiamo/comments/c4na0v/local_telegram_group_chat_for_columbia/)
-* Relative link to messages that don't involve complex scripting.
-* Unlimited file upload limit - **2GB PER FILE LIMIT**.
-* Cross-platform as all fuck.
-* Every programming/scripting language ever has at least a few (probably unfinished and abandoned) projects in the wild building support for Telegram APIs.
-* Drafts as a safe dependable space to compose text does not have a windows equivalent, but Telegram can sort of function in that regard, largely because it continuously saves what one types in the text field. 
-* Element … or Matrix… or whatever the actual protocol is called… is nothing but a great way to waste your time and the planet’s energy in obfuscating willy nilly. 
-* Perhaps I should have accepted long ago that my particular priorities are *not* as resonant with other users as I would like to believe.
-* Notification management in Telegram as well considered as I’ve ever experienced, which makes a lot of sense now that I am a long time user.
-* When I lost all my shit in Portland, much of what was saved was thanks to Telegram.
-* The particular features that define Telegram’s competence are not immediately obvious, for the most part. Being able to quickly change the recipient of a forwarded message, for instance,
-* Telegram is notably lacking in translation support considering it's such an international space.
+- ## General
+- **Telegram and Discord are the same age**
+- Telegram’s cross-platform, resource-frugal clients and phone number-based accounts/auth literally make it more **class mobile** than Discord.
+- What in fuck is this website… “[Telegram for iOS - NONE](http://tsfkb.wikidot.com/apps:ios)”
+- My [personal Telegram satellite GitHub Repository](https://github.com/extratone/t)
+- [Send to Telegram Drafts Action](https://actions.getdrafts.com/a/18E)
+- [r/columbiamo - Local Telegram Group Chat for Columbia](https://reddit.com/r/columbiamo/comments/c4na0v/local_telegram_group_chat_for_columbia/)
+- Relative link to messages that don't involve complex scripting.
+- Unlimited file upload limit - **2GB PER FILE LIMIT**.
+- Cross-platform as all fuck.
+- Every programming/scripting language ever has at least a few (probably unfinished and abandoned) projects in the wild building support for Telegram APIs.
+- Drafts as a safe dependable space to compose text does not have a windows equivalent, but Telegram can sort of function in that regard, largely because it continuously saves what one types in the text field. 
+- Element … or Matrix… or whatever the actual protocol is called… is nothing but a great way to waste your time and the planet’s energy in obfuscating willy nilly. 
+- Perhaps I should have accepted long ago that my particular priorities are *not* as resonant with other users as I would like to believe.
+- Notification management in Telegram as well considered as I’ve ever experienced, which makes a lot of sense now that I am a long time user.
+- When I lost all my shit in Portland, much of what was saved was thanks to Telegram.
+- The particular features that define Telegram’s competence are not immediately obvious, for the most part. Being able to quickly change the recipient of a forwarded message, for instance,
+- Telegram is notably lacking in translation support considering it's such an international space.
+
+## Tweets
+
+- [ ] [WhatsApp Preview Voice Message Joke Tweet](https://twitter.com/neoyokel/status/1471155614248312839)
+- [ ] [Making WhatsApp better one Telegram update at a time…](https://twitter.com/telegram/status/1435225485072535557)
 
 
 ## References
