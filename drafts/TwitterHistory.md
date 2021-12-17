@@ -24,6 +24,8 @@ History will suggest, no doubt, that my being among the earliest iPhone adopters
 
 https://twitter.com/neoyokel/status/7775103604
 
+
+
 ==
 
 [1] My first and only Mac. In the greater context of Mac History, also a particularly interesting outlier, in my opinion. It was the only model year an aluminum-bodied Apple machine ever bore the name "MacBook" as opposed to "MacBook Pro" and the only said machine to have a removable battery, which - in my case - certainly encouraged [some absurd behavior](https://twitter.com/NeoYokel/status/1470165080482451461).
