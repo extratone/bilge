@@ -3,6 +3,7 @@
 - [Documenting my Personal Twitter History · Issue #287 · extratone/bilge](https://github.com/extratone/bilge/issues/287)
 - [Chaff](https://write.as/chaff/david-blues-twitter-history)
 - [[MomMilitia stuff]]
+- [https://davidblue.wtf/favorited/](https://davidblue.wtf/favorited/)
 
 ## General
 - [ ] Old Tweetdeck’s prolific multi-service distribution and rate abilities.
