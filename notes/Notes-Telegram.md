@@ -1,6 +1,7 @@
 # Notes-Telegram
 
-- ## General
+## General
+
 - **Telegram and Discord are the same age**
 - Telegram’s cross-platform, resource-frugal clients and phone number-based accounts/auth literally make it more **class mobile** than Discord.
 - What in fuck is this website… “[Telegram for iOS - NONE](http://tsfkb.wikidot.com/apps:ios)”
@@ -52,11 +53,12 @@
 - [Tweetbot 6 Pro](https://t.me/addtheme/Tweetbot6Pro)
 - [SYSTEM COLORS Themes for iOS-Bound Telegram – Telegraph](https://telegra.ph/SYSTEM-COLORS-Themes-for-iOS-Bound-Telegram-09-27)
 - [SYSTEM BLUE](https://t.me/addtheme/systemblue)
--   [SYSTEM PINK](https://t.me/addtheme/systempink)
--   [SYSTEM PURPLE](https://t.me/addtheme/systempurple)
--   [SYSTEM RED](https://t.me/addtheme/systemred)
--   [SYSTEM GREEN](https://t.me/addtheme/systemgreen)
--   [SYSTEM ORANGE](https://t.me/addtheme/systemorange)
+- [SYSTEM PINK](https://t.me/addtheme/systempink)
+- [SYSTEM PURPLE](https://t.me/addtheme/systempurple)
+- [SYSTEM RED](https://t.me/addtheme/systemred)
+- [SYSTEM GREEN](https://t.me/addtheme/systemgreen)
+- [SYSTEM ORANGE](https://t.me/addtheme/systemorange)
+- [Honey Highlight 2021](https://t.me/addtheme/HoneyHighlight2021)
 
 ## Channels
 - [Telegram iOS Talk](https://t.me/TelegramiOStalk)
@@ -111,4 +113,4 @@ as far as *send to yourself* functions… Telegram’s is the absolute most capa
 
 <iframe id="reddit-embed" src="https://www.redditmedia.com/r/Telegram/comments/hv4rgk/i_love_this/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="auto" width="480" scrolling="no"></iframe>
 
-<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/telegram-20593542/embed/sort=-created&theme=auto"></iframe>
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/telegram-20593542/embed/sort=-created&theme=auto"></iframe> ==[[w:Documentation]]==
