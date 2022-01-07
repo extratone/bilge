@@ -4,6 +4,8 @@
 
 ## How I’ve used Telegram as the ultimate cross-platform Universal Clipboard, file sharing service, and more.
 
+<!--more-->
+
 <audio controls>
   <source src="https://davidblue.wtf/audio/Telegram.m4a">
 </audio>
@@ -173,6 +175,10 @@ Telegram's story certainly *stands out*, though the voice of its creator, Pavel 
 
 "Can there only be one winner in the messaging wars?" asks David Rowan, which Pavel - in the deliberate, uncomfortable-sounding tone he uses throughout the interview - answers first noting a *real truth* for actual users: we tend to end up with a billion, each grouped generally by types of relationships. iMessage is for your family and local friends, Facebook Messenger is for your school group project, IRC and Element are for your insane, privacy-obsessed Linux friends, and Telegram is for [unsolicited video chats of worm tubs](https://twitter.com/ammnontet/status/1449594872139186181).
 
+*For more, up-to-the-minute information on Telegram as well as Configuration files from me, see my [Telegram Raindrop Collection](https://raindrop.io/davidblue/telegram-20593542) (embedded below,) and/or [this post's corresponding GitHub Issue](https://github.com/extratone/bilge/issues/228).
+
+<iframe style="border: 0; width: 100%; height: 900px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/telegram-20593542/embed"></iframe>
+
 ------
 
 [1] I still have not accepted this, by the way. I’m still back there.
@@ -187,3 +193,5 @@ Telegram's story certainly *stands out*, though the voice of its creator, Pavel 
 [10] Speaking as someone with [actual extensive ridesharing experience](https://dieselgoth.com/volkswagen-jetta-sportwagen-tdi-review.html), notably.
 [11] Yes, there are some fellow Open Source Folks who’ve frankly struggled to let IRC go. It was an amazing protocol and will always be intertwined with the very first layed bricks of what we’d call the Social Web, but my friends… I sincerely think we should all try our hands at ham radio, instead. I think that would legitimately be a better use of our time than trying to implement two-factor authentication for IRC in this year of our spiteful Lourde 2021.
 [12] Disparaging Telegram for this is akin to shitting on Google because it is or was almost certainly the Taliban's favorite search engine, no?
+
+#software #media
