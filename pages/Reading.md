@@ -1,5 +1,3 @@
-# Reading
-
 ![COMPAQ 386](https://i.snap.as/niq0aqH.png)
 
 <iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/reading-list-13380406/embed/sort=-created"></iframe>
@@ -44,6 +42,7 @@ Ernie Smith's *Tedium* is unlike any other publication on the web.
 
 An ongoing list of some of my absolute favorite reads on The Net.
 
+* “[A Great Diversity of Relationships](https://blog.cjeller.site/a-great-diversity-of-relationships)” | CJ Eller
 * “[What would a real Web3 look like](https://write.as/matt/what-would-a-real-web3-look-like)?” | Matt Baer
 * “[Katie Couric Is Not for Everyone](https://www.thecut.com/2021/10/katie-couric-memoir-going-there.html)” | *The Cut*
 * “[Finding Inspiration Again](https://write.as/matt/finding-inspiration-again)” | Matt Baer
