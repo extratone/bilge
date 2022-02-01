@@ -148,6 +148,8 @@
 
 > Monterey’s focus is all about system apps, a topic near and dear to me. With the technical building blocks in place and a refined design out of the way, Monterey is one of the most tangible, user-facing payoffs of the past three years of transition. More than ever before, Apple is advancing system apps across all of its platforms at the same time. Finally, everything is everywhere.
 
+> Monterey’s focus is all about system apps
+
 # [My Obsidian Setup, Part 3: My 'Dashboard' Note for Quick Links, Todoist Tasks, Saving Ideas, and Keeping Track of Current Projects](https://club.macstories.net/posts/extension-284)
 
 > What I need, however, is a tool that lets me see, at a glance, all the things I’m currently working on and stuff that’s on my mind, allowing me to quickly jump to those things and start processing them.
@@ -608,6 +610,10 @@
 
 > Today, the 30 students in my son’s high-school class have far more technological savvy than all but a handful of the 535 members of the U.S. Congress.
 
+# [The Best Clipboard Manager for Mac | TheSweetBits](https://thesweetbits.com/best-clipboard-manager-mac/)
+
+> We recommend Paste 3 to professionals who need to manage a diverse collection of clipboard entries.
+
 # [Facebook’s new Privacy Center shows you settings and info on how to use them - The Verge](https://www.theverge.com/2022/1/7/22872351/meta-facebook-privacy-center-defaults-education-controls)
 
 > Facebook’s emphasis on education (its press release uses the word “learn” nine times and also includes phrases like “brush up”) really puts the responsibility for the systems it builds onto the user.
@@ -637,3 +643,138 @@
 > ### ZalgoScript
 > 
 > A while ago I found an [interesting bug](https://github.com/Microsoft/ChakraCore/issues/3050) on Edge. Basically Edge is treating characters as whitespace that it shouldn’t. It appears to be unicode combining characters that exhibit this behaviour. What if we combine this bug with Zalgo? We then have ZalgoScript! I first generated a list of characters that Edge treats as whitespace (of which there are a lot, check the github issue for the list). I decided to fuzz the characters 768-879 (the fuzzer code includes that range by default), the fuzzer logged that character 837 along with any character within the 768-879 range produced side effects. This is cool; I could loop through this list and combine characters to produce Zalgo that was also valid JavaScript.
+
+# [Markdown Settings - Drafts User Guide](https://docs.getdrafts.com/docs/settings/markdown)
+
+> MultiMarkdown
+> -------------
+> 
+> [MultiMarkdown](https://fletcher.github.io/MultiMarkdown-6/) is a Markdown parser by Fletcher Penney which adds several powerful extensions to the original Markdown specification including tables and footnotes. Drafts includes MultiMarkdown 6. More details about MultiMarkdown syntax and extensions can be found in the [user guide](https://fletcher.github.io/MultiMarkdown-6/).
+> 
+> The following options are available for rendering with MultiMarkdown:
+> 
+> *   **Markdown compatibility mode**: Treat input as plain Markdown without MultiMarkdown extensions enabled.
+> *   **Smart quotes**: Replace straight quotes
+> *   **Escaped link breaks**: If enabled, the \\ character can be used to force a new line
+> *   **Footnotes**: Enable or disable footnote syntax
+> *   **Random footnotes**: Use randomized identifier numbers for footnotes
+> *   **No labels**: Enable or disable adding of id attributes to headers
+> *   **Process HTML**: If enabled, text inside HTML tags will be processed
+> *   **No metadata**: Disable special handling of metadata at the top of documents
+> *   **Obfuscate**: If enabled, the email address will be obfuscated in HTML output
+> *   **Critic markup**: Enable [Critic Markup](http://criticmarkup.com).
+
+# [MacStories Weekly: Issue 303](https://club.macstories.net/posts/macstories-weekly-issue-303)
+
+> Todoist has added the ability to paste a list into the app, which separates each item in the list by its newline characters to create individual tasks.
+
+# [OS X 10.10 Yosemite – 512 Pixels](https://512pixels.net/projects/aqua-screenshot-library/os-x-10-10-yosemite/)
+
+> Photos replaced both iPhoto and Aperture, and allowed users to sync their entire photo library with iCloud.
+
+# [Our Man in Japan: Mazda Museum, Hiroshima - RMS Motoring](https://rmsmotoring.com/feature/our-man-in-japan-mazda-museum-hiroshima/)
+
+> Rotary Hall
+
+# [Tot Review: Collect and Edit Bits of Text - MacStories](https://www.macstories.net/reviews/tot-review-collect-and-edit-bits-of-text/)
+
+> What sets The Iconfactory’s latest app apart, however, is the combination of embracing constraints and adopting system technologies with a thoughtful, balanced design.
+
+# [Drafts Script Reference](https://scripting.getdrafts.com/globals#keyboardtypes)
+
+> ### keyboardTypes
+> 
+> keyboardTypes: "default" | "numbersAndPunctuation" | "numberPad" | "phonePad" | "namePhonePad" | "emailAddress" | "decimalPad" | "webSearch" | "URL"
+
+# [TypeScript: Why does TypeScript exist?](https://www.typescriptlang.org/why-create-typescript)
+
+> A string is a programming term for a collection of characters. They `"look like this"`
+
+# [Goodbyes - Miss Rose](https://missrose.org/guide/greetings/goodbyes/)
+
+> {first}
+> 
+> User's first name
+> 
+> {last}
+> 
+> User's last name
+> 
+> {fullname}
+> 
+> User's full name
+> 
+> {username}
+> 
+> The user's username (If none is available, Rose will revert to using {mention}
+> 
+> {mention}
+> 
+> @mentions the user, using their first name
+> 
+> {id}
+> 
+> The user's ID
+> 
+> {chatname}
+> 
+> The name of the group chat
+> 
+> {rules}
+> 
+> Adds a link to your group chat's **_rules_**
+
+# [Notes - Miss Rose](https://missrose.org/guide/notes/)
+
+> As a last note (pun intended), you may want to update a note, rather than deleting it and making a new one. To do this, you would simply issue the /save command again, just like you were making a new note.
+
+# [Pro Tips](https://docs.taio.app/#/editor/pro-tips)
+
+> This article was completed using Taio on the eve of public beta
+
+# [Group tabs in Safari on Mac - Apple Support](https://support.apple.com/guide/safari/group-tabs-ibrwa2d73908/mac)
+
+> To quickly email the links in a Tab Group to others, drag the Tab Group from the Safari sidebar to an email message.
+
+# [Is Old Music Killing New Music? - by Ted Gioia](https://tedgioia.substack.com/p/is-old-music-killing-new-music?utm_campaign=MidRange&utm_medium=email&utm_source=Revue%20newsletter)
+
+> According to [MRC Data](https://mrcdatareports.com/), old songs now represent 70% of the US music market.
+
+# [Gladys Callback Scheme — BRU.BUILD](http://www.bru.build/gladys-callback-scheme)
+
+> Gladys supports the _x-success_ and _x-error_ parameters from the spec.
+
+# [The 2021 MacStories Selects Awards](https://club.macstories.net/episodes/253)
+
+> The MacStories Selects Award Winners
+> 
+> *   Best New App: Noir
+>     
+>     *   [Noir website](https://getnoir.app/)
+>     
+>     *   [Noir on the App Store](https://apps.apple.com/us/app/noir-dark-mode-for-safari/id1581140954)
+>     *   [MacStories article](https://www.macstories.net/stories/safari-extensions-for-ios-and-ipados-15-a-roundup-of-our-favorites/)
+
+# [Reactions, Spoilers, Translation and QR Codes](https://telegram.org/blog/reactions-spoilers-translations)
+
+> Enabling **Translation** in _Settings > Language_ adds a dedicated **Translate button** to the context menu when selecting a message.
+
+# [Here's what's new in iOS 15.4 and iPadOS 15.4 - 9to5Mac](https://9to5mac.com/2022/01/27/ios-15-4-new-features/)
+
+> iOS 15.4 lets users add [notes to their iCloud Keychain](https://9to5mac.com) passwords for the first time, replicating a popular feature of third-party password managers
+
+> iPadOS 15.4 includes a new Keyboard Brightness option that can be added to Control Center.
+
+# [Why Spotify kept Joe Rogan over Neil Young - The Verge](https://www.theverge.com/2022/1/27/22904463/joe-rogan-spotify-neil-young-decision-moderation-podcasts)
+
+> This marks a critical turning point in Spotify’s company narrative. It’s no longer a music company but one committed to podcasting to the point that it’ll compromise relationships with musical artists to ensure its strategy’s success.
+
+> _JRE_ has become the lynchpin to its entire podcasting apparatus.
+
+# [RoutineHub • All Shortcut Info](https://routinehub.co/shortcut/6549/)
+
+> This shortcut supports both **RoutineHub and iCloud** links.
+
+# [MacStories Weekly: Issue 305](https://club.macstories.net/posts/macstories-weekly-issue-305)
+
+> there’s a new button called ‘Delete and Edit’ that deletes the original tweet and puts it back in the Compose window.
