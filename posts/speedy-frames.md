@@ -1,9 +1,10 @@
 # Speedy Frames
-[[Speedy Frames Shortcut Documentation]]
 
 ![Speedy Frames Web Banner](https://i.snap.as/ZnCTpWtH.png)
 
 ## Federico Viticci's Apple Frames shortcut, optimized for super fast single-shot iPhone mockups.
+
+<!--more-->
 
 The single element that's allowed me to go from publishing regular ole' iPhone screenshots to photorealistic mockups like you see embedded below is an absolutely ingenious, hugely powerful Siri shortcut by *MacStories* founder Federico Viticci called [Apple Frames](https://www.macstories.net/ios/apple-frames-2-0-faster-lighter-and-featuring-support-for-iphone-13-ipad-mini-ipad-10-2-imac-24-macbook-air-and-multiple-languages). Out of [all the shortcuts and workflows](https://raindrop.io/davidblue/siri-shortcuts-21598130) I've discovered, fiddled with, hoarded, and discarded since [iOS 12 beta](https://bilge.world/siri-shortcuts-ios12-review), I think I can definitively say that it remains the most impressive use of iOS automation, ever, for reasons you're likely not all that interested in. 
 
@@ -55,5 +56,11 @@ Technically, there is much optimization to be done beyond this point - if you're
 - [ShareShortcuts](https://shareshortcuts.com/shortcuts/1557-speedy-frames.html)
 - "[Apple Frames 2.0: Faster, Lighter, and Featuring Support for iPhone 13, iPad mini, iPad 10.2", iMac 24", MacBook Air, and Multiple Languages](https://www.macstories.net/ios/apple-frames-2-0-faster-lighter-and-featuring-support-for-iphone-13-ipad-mini-ipad-10-2-imac-24-macbook-air-and-multiple-languages/)" | *MacStories*
 
+## 1.1 Update
+`2-01-2022`
+I added a [Delete Photos](https://www.matthewcassinelli.com/actions/delete-photos/) action that deletes the pre-mockup screenshot to reduce clutter. 
+
 [1] My methods of timing and actual volume of data (read: repetitions) is far from scientific, just so you know. 
 [2] As of iOS 15.3 Beta 1, anyway.
+
+#software #automation
