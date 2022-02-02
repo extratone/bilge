@@ -1,46 +1,55 @@
-| **Action**                                 | Command |
-|:------------------------------------------:|:-------:|
-| Send to Saved Messages (Telegram)          | ⌃G      |
-| Embed  Element                             | ⇧⌃A     |
-| Strikethrough                              | ⇧⌥S     |
-| Send to Telegram                           | ⌃8      |
-| Timestamp                                  | ⇧⌃T     |
-| Word Count                                 | ⌥⌘W     |
-| Toggle Last                                | ⌃⇥      |
-| Drafts Link                                | ⇧⌃C     |
-| Draft Info                                 | ⌥I      |
-| Dark/Light Toggle                          | ⇧⌃L     |
-| Typewriter Toggle                          | ⌥T      |
-| Load The Psalms                            | ⌥.      |
-| Preview MMD                                | ⌥⌘/     |
-| Lines to * List                            | ⌥L      |
-| Fantastically Good Event Parser            | ⇧⌘E     |
-| Markdown Header #                          | ⌃⌘H     |
-| Markdown Bold (**)                         | ⌘B      |
-| Code Block (```)                           | ⌃⌘C     |
-| Preview                                    | ⌥⌘P     |
-| Markdown Header (#)                        | ⌃⌘H     |
-| Markdown Emphasis (*)                      | ⌘I      |
-| Markdown List                              | ⌃L      |
-| Markdown Link                              | ⌘K      |
-| Replace URLs by MD links                   | ⇧⌘U     |
-| Markdown Footnote (Variation)              | ⌃F      |
-| Markdown Link                              | ⌘K      |
-| Markdown Link                              | ⌘K      |
-| Copy                                       | ⌃C      |
-| Email to myself                            | ⇧⌥M     |
-| Save to Files as...                        | ⌘S      |
-| Clipboard…                                 | ⌥C      |
-| Find                                       | ⇧⌥F     |
-| Tasks                                      | ⌃T      |
-| Indent                                     | ⌘]      |
-| Outdent                                    | ⌘[      |
-| Send to Bear silently                      | ⇧⌘↩︎     |
-| TAD-Copy as Rich Text                      | ⌃⌥C     |
-| TAD-Trash Note                             | ⌃-      |
-| TAD-Search Actions                         | ⌘/      |
-| TAD-Duplicate Draft and Load               | ⌥D      |
-| TAD-Prime Preview MMD                      | ⌃P      |
-| TAD-Preview with Marked2                   | ⇧⌃⌥P    |
-| TAD-Replace with Synonym                   | ⌃⌥S     |
-| TAD-MediaWiki Insert Timestamped Signature | ⇧⌥V     |
+# Drafts Keyboard Shortcuts
+`02022022-081640`
+- Copy Draft Link as MD link - ⇧⌃C
+- Tot7 Draft Link as MD link - ⇧⌃E
+- Append to 7th Tot Dot - ⌥7
+- Send to Saved Messages (Telegram) (copy) - ⌃G
+- CJ Telegram - ⌃⌥G
+- Drakesville - ⌃M
+- Strikethrough - ⌃S
+- Insert DavodTime™  timestamp. - ⇧⌃T
+- GitHub Issue - ⌃⌥I
+- Keyboard Shortcuts Export - ⇧⌃K
+- Selection Word Count - ⌃W
+- Draft Info - ⌃I
+- Dark/Light Toggle - ⇧⌃L
+- Load The Psalms - ⌥.
+- Preview MMD - ⌥⌘/
+- TAD-Toggle Last Two Modified Drafts - ⇧⇥
+- Text Modifier… - ⇧⌥t
+- Markdown Header (#) - ⌃⌘H
+- Markdown Bold (**) - ⌘B
+- Markdown Quotation (>) - ⌃Q
+- Code Block (```) - ⌃⌘C
+- Markdown Emphasis (*) - ⌘I
+- Markdown List - ⌃L
+- Markdown Link - ⌘K
+- Replace URLs by MD links - ⇧⌘U
+- Markdown Footnote (Variation) - ⌃F
+- Copy - ⌃C
+- New Draft with Template - ⇧⌘N
+- Clipboard… - ⌥C
+- Find - ⇧⌥F
+- Tasks - ⌃T
+- Copy Tags - ⌃⌥T
+- Save Version - ⇧⌘S
+- Open NeoCities Workspace - ⇧⌃N
+- Format JavaScript - ⌥⌘F
+- Drafts 5 JavaScript API list - ⌘D
+- Refresh TextExpander Snippets - ⇧⌘R
+- TAD-Copy as Rich Text - ⌃⌥C
+- TAD-Share as File: Markdown - ⇧⌃S
+- TAD-Push Draft to GitHub Repo - ⇧⌃G
+- TAD-Trash Note - ⌃-
+- TAD-Load Previous Workspace - ⇧⌥⌘⇥
+- TAD-Load Next Workspace - ⌥⌘⇥
+- TAD-Search Actions - ⌘/
+- TAD-Duplicate Draft and Load - ⌃D
+- TAD-Prime Preview MMD - ⌃P
+- TAD-Prime Preview GFM - ⌥⌘P
+- TAD-Preview with Marked2 - ⇧⌃P
+- TAD-Update TextExpander - ⌥⌘R
+- TAD-Replace with Synonym - ⌃⌥S
+- Written Workspace - ⌘2
+- Documentation Workspace - ⌘3
+- Hole Workspace - ⌘9
