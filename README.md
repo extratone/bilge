@@ -12,11 +12,11 @@ See [**my 2020 reflectory post**](https://bilge.world/2020) for a few more detai
 
 # Latest Work
 <!-- BLOG-POST-LIST:START -->
+- [Automating Write.as Posts on macOS](https://bilge.world/automating-writeas-posts?pk_campaign=rss-feed)
 - [Text Replacement](https://bilge.world/text-replacement?pk_campaign=rss-feed)
 - [Telegram Extras](https://bilge.world/telegram-extras?pk_campaign=rss-feed)
 - [I Trust Telegram](https://bilge.world/telegram?pk_campaign=rss-feed)
 - [Speedy Frames](https://bilge.world/speedy-frames?pk_campaign=rss-feed)
-- [David Blue on Twitter Blue](https://bilge.world/twitter-blue?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
 
 
