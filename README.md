@@ -8,6 +8,8 @@
 
 See [**my 2020 reflectory post**](https://bilge.world/2020) for a few more details.
 
+**Check out [the *Extratone* Telegram](https://t.me/extratone) channel**!
+
 ![Psalms Project Board](https://github.com/extratone/bilge/raw/main/images/Project%20Board.png)
 
 # Latest Work
