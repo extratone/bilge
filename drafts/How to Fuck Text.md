@@ -14,15 +14,17 @@ I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a 
 
 ![Discerning Yelp Connoisseur](https://i.snap.as/K2E9UV7S.png)
 
-The core necessity of any good text fucker is a robust text editing and/or word processing application. Zalgo text is a real bitch for Electron apps like my dearest [Typora](https://typora.io), unfortunately. On iOS, this summation also applies to [Obsidian](https://obsidian.md), I’m afraid.
-
 <audio controls>
   <source src="https://github.com/extratone/bilge/raw/main/audio/Voice%20Notes/textfucker.mp3">
 </audio>
 
 ## History
 
+As detailed in the audio account embedded above, I believe my Text Fucking career began somewhere around the 7th grade, at 13-14 years old. It was my second or third time flunking MS02 - the Microsoft Office II course.
+
 ## Apps
+
+The core necessity of any good text fucker is a robust text editing and/or word processing application. Zalgo text is a real bitch for Electron apps like my dearest [Typora](https://typora.io), unfortunately. On iOS, this summation also applies to [Obsidian](https://obsidian.md), I’m afraid.
 
 I have previously reviewed two wonderful Text Fucking iOS apps on this blog: [**UniChar**](https://bilge.world/unichar-for-ios-app-review) and [**Zalgo Generator**](https://bilge.world/zalgo-generator-ios-app-review). There’s now [a macOS version of the latter](https://apps.apple.com/us/app/zalgo-generator/id1304137527) which is particularly powerful. Or at least has particularly powerful implications. There are a few more to be discovered, though:
 
