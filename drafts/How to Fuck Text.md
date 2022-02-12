@@ -16,6 +16,12 @@ I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a 
 
 The core necessity of any good text fucker is a robust text editing and/or word processing application. Zalgo text is a real bitch for Electron apps like my dearest [Typora](https://typora.io), unfortunately. On iOS, this summation also applies to [Obsidian](https://obsidian.md), I’m afraid.
 
+<audio controls>
+  <source src="https://github.com/extratone/bilge/raw/main/audio/Voice%20Notes/textfucker.mp3">
+</audio>
+
+## History
+
 ## Apps
 
 I have previously reviewed two wonderful Text Fucking iOS apps on this blog: [**UniChar**](https://bilge.world/unichar-for-ios-app-review) and [**Zalgo Generator**](https://bilge.world/zalgo-generator-ios-app-review). There’s now [a macOS version of the latter](https://apps.apple.com/us/app/zalgo-generator/id1304137527) which is particularly powerful. Or at least has particularly powerful implications. There are a few more to be discovered, though:
@@ -30,8 +36,10 @@ Textcraft, by Aviary and Mast creator, Shihab Meboob, has become my goto Text Fu
 
 ### TextExpander
 
-Another cross-platform application - this one [extending to Windows](https://textexpander.com/download), too - TextExpander has very recently become an integral part of my day-to-day creative life. It’s used by professionals 
+Another cross-platform application - this one [extending to Windows](https://textexpander.com/download), too - TextExpander has very recently become an integral part of my day-to-day creative life. It’s used by professionals, supposedly, to “expand” any sort of text, set off scripts (on macOS,) and paste fill in-able templates. These functions are divided into “[snippets](https://textexpander.com/learn/getting-started)” as part of “[snippet groups](https://textexpander.com/learn/getting-started/getting-started-for-admin).” In fact, I’ve created [**a dedicated snippet group to accompany this guide**](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b).
 
 ![TextFuckSnippetGroup](https://user-images.githubusercontent.com/43663476/153726468-25b5a5a9-0381-4720-b1e7-c7fb2ef357d9.png)
 
-[1] Whaddya think‽‽‽ Should I write a book‽‽‽
+It’s not much just yet, but if you “subscribe” to this snippet group from your own account, you’ll be treated to whatever I come up with in the future, delievered to your devices in real time.
+
+[1] Whaddya think‽‽‽ [Should I write a book](https://twitter.com/NeoYokel/status/1492589668843634692)‽‽‽

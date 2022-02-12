@@ -101,3 +101,8 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] ![DeadDigitizer](https://i.snap.as/HIvLIU9A.png)
 - [ ] `![TextcraftIcon](https://user-images.githubusercontent.com/43663476/153724474-6a64b3d3-cb87-428e-81d6-a900746f9886.png)`
 - [ ] `![TextFuckSnippetGroup](https://user-images.githubusercontent.com/43663476/153726468-25b5a5a9-0381-4720-b1e7-c7fb2ef357d9.png)`
+
+## TextExpander
+- [ ] [Extratext Snippet Group, Documented](https://davidblue.wtf/extratext/)
+- [ ] [Extratext Snippet Group Share](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb)
+- [ ] [Text Fuck Snippet Group Share](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)
