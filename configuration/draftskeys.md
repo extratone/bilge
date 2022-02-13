@@ -1,5 +1,5 @@
 # Drafts Keyboard Shortcuts (iOS Export)
-`02132022-035618`
+`02132022-061259`
 - Markdown Capture Selected URL - ⌥O
 - Copy Body - ⇧⌃⌥C
 - Copy Draft Link as MD link - ⇧⌃C
@@ -17,8 +17,8 @@
 - Text to Gladys - ⌥G
 - Insert DavodTime™  timestamp. - ⇧⌃⌥T
 - Simplenote - ⇧⌃W
-- Export Psalms Notes - ⇧⌃⌥E
-- Export Psalms Drafts - ⇧⌃⌥S
+- Export Psalms Notes - ⇧⌃⌥N
+- Export Psalms Drafts - ⇧⌃⌥D
 - Keyboard Shortcuts Export - ⇧⌃K
 - Selection Word Count - ⌃W
 - Draft Info - ⌃I
@@ -27,6 +27,7 @@
 - Preview MMD - ⌥⌘/
 - TAD-Toggle Last Two Modified Drafts - ⇧⇥
 - Zalgos - ⇧⌃Z
+- RandoDraft - ⇧⌃⌥R
 - Text Modifier… - ⇧⌥t
 - Store Page URLs - ⇧⌥S
 - Save to Written folder as .md - ⌥⌘S
@@ -69,7 +70,7 @@
 - Written Workspace - ⌘2
 - Documentation Workspace - ⌘3
 - Hole Workspace - ⌘9
-- Testing - ⌥9
+- Testing - ⌥0
 - Current Work Draft - ⌥1
 - Current Work Notes - ⌥2
 - Three - ⌥3
