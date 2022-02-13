@@ -16,6 +16,8 @@
 
 ## Images
 - `![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)`
+- `![BookmarksinDrafts](https://user-images.githubusercontent.com/43663476/153778986-a9a33a80-12a3-4042-8941-2e2d5e427703.png)`
+- `![Black&YellowTheme](https://user-images.githubusercontent.com/43663476/153780995-5b7ac09d-4c21-4e61-b1ba-163ce106fb01.png)`
 
 ## References
 - [ ] [Bookmarks - Drafts User Guide](https://docs.getdrafts.com/docs/settings/bookmarks)
