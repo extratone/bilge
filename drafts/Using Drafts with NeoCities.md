@@ -9,7 +9,11 @@ Thanks to recent learning, I have managed to manifest one of my alltime fantasy 
 ![NeoCitiesActionGroup](https://user-images.githubusercontent.com/43663476/152169590-518d1043-c02b-49a1-9f19-76699362ab96.png)
 
 It wasn't as simple as `<p>[draft]</p>
-`, either.
+`, either. In order to produce [satisfactory results](https://davidblue.wtf/drafts/A350D578-1CFA-4B5A-8655-74F6B3AD72AE.html), I had to wrap every output in a very custom HTML template which I would very much encourage you to personalize before using (considering especially that it includes my personalized footer links and [colors](http://bilge.world/colophon).) You can view that template in full [here](https://davidblue.wtf/drafts/8700B562-8716-489A-B554-641549B6B3E5.html). To be honest, I can’t quite recall where I found the original, but it was probably either included with a native Drafts action or found among [Stephen Millard’s TAD library](https://www.thoughtasylum.com/tadpole).
+
+![toDraft-UUID](https://user-images.githubusercontent.com/43663476/153755878-5b40147a-040b-4e8f-83ae-ce187d40ec0d.png)
+
+The most reliable means of identifying, pushing, and retrieving a draft from a WebDAV site (that I found, anyway,) is by using its [Universally unique identifier](https://en.m.wikipedia.org/wiki/Universally_unique_identifier) (UUID) in its pathname. An apt example: [the draft I’m currently whittling on](https://davidblue.wtf/drafts/7247282E-340B-4890-A2F7-0481AF31321E.html), enumerated `7247282E-340B-4890-A2F7-0481AF31321E`. The action above - [Draft to /drafts as UUID.html](https://actions.getdrafts.com/a/1ve) - will push the contents of your current draft to /drafts/`the Draft’s UUID`.html.
 
 [[w:NeoCities]]
 
