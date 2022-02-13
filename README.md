@@ -14,11 +14,11 @@ See [**my 2020 reflectory post**](https://bilge.world/2020) for a few more detai
 
 # Latest Work
 <!-- BLOG-POST-LIST:START -->
+- [Using Drafts with NeoCities](https://bilge.world/using-drafts-with-neocities?pk_campaign=rss-feed)
 - [Zalgo Text in a Keyboard Shortcut](https://bilge.world/drafts-zalgo-action?pk_campaign=rss-feed)
 - [The Psalms’ 2021](https://bilge.world/2021?pk_campaign=rss-feed)
 - [Automating Write.as Posts on macOS](https://bilge.world/automating-writeas-posts?pk_campaign=rss-feed)
 - [Text Replacement](https://bilge.world/text-replacement?pk_campaign=rss-feed)
-- [Telegram Extras](https://bilge.world/telegram-extras?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
 
 
