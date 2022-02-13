@@ -5,6 +5,7 @@
 - [⨃🄝ɨ∁ɧ⍙℟ for iOS Review](https://bilge.world/unichar-for-ios-app-review)
 - [Z̴͏a͞l͟g͝o͏ ̕G͟͝e͞n͞҉è̛ŗ͡a͝͞t̴o҉r͞ for iOS](https://bilge.world/zalgo-generator-ios-app-review)
 - [Text Fucking · extratone/bilge Wiki](https://github.com/extratone/bilge/wiki/Text-Fucking)
+- [Zalgo Text in a Keyboard Shortcut](https://bilge.world/drafts-zalgo-action)
 
 ## General
 - [ ] WHEN IM COMIN DINE IN MY FOREIGN AND IM ROLLIN ONE DEEP THAT SHOULD TELL YA BOUT ME and the earliest iOS-native automation. 
@@ -42,26 +43,31 @@
 ## Siri Shortcuts!
 - [ ] ASCII Keyboard in the MF gallery?
 - [ ] [All the Single Ladies ASCII](https://www.icloud.com/shortcuts/51392bf23f104b93baf72000955ed334)
+- [ ] [Random Characters ⇨ Clipboard](https://www.icloud.com/shortcuts/ed9216202df4481d9ae001b0531384c2)
+- [ ] [Random Characters ⇨ Mastodon](https://www.icloud.com/shortcuts/af64b43604334d21ad5a6668471b828f)
+- [ ] [Random Characters ⇨ Tumblr](https://www.icloud.com/shortcuts/399a857145e34d8b94b994fa3f9ca300)
 
 ## Social
 ```
 <iframe src="https://octodon.social/@DaveHiggins/102565065494333224/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
 ```
+
 - [ ] [Rabbit](https://twitter.com/NeoYokel/status/1449622067343728642) - `https://twitter.com/NeoYokel/status/1449622067343728642`
 - [ ] [TextExpander cross-platform non-advertisement](https://twitter.com/NeoYokel/status/1492588288624017408)
 - [ ] [Full Book Poll](https://twitter.com/NeoYokel/status/1492589668843634692)
+- [ ] [GREGZALGOS](https://twitter.com/draftsapp/status/1492645727729766400)
+- [ ] [Disturbing](https://twitter.com/NeoYokel/status/1492783081593483266)
 
 ### Accessibility Poll
 - [Mastodon](https://mastodon.social/@DavidBlue/107589034582138302)
 - [Twitter](https://twitter.com/NeoYokel/status/1479932149256146945)
 
-```
 hey accessible-knowledgable folks,
 
 before I write my “how to fuck text” guide, I’d like to know…
 
 how disruptive are unusual characters/zalgo text and the like to daily lives of web folks with accessibility considerations?
-```
+
 
 ## Counter-Spam
 - [Drafts’ iMessage App for counter-spamming](https://t.me/extratone/9629)
@@ -101,8 +107,12 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] ![DeadDigitizer](https://i.snap.as/HIvLIU9A.png)
 - [ ] `![TextcraftIcon](https://user-images.githubusercontent.com/43663476/153724474-6a64b3d3-cb87-428e-81d6-a900746f9886.png)`
 - [ ] `![TextFuckSnippetGroup](https://user-images.githubusercontent.com/43663476/153726468-25b5a5a9-0381-4720-b1e7-c7fb2ef357d9.png)`
+- [ ] `![Textcraft for macOS](https://user-images.githubusercontent.com/43663476/153737944-46db7da5-6d85-41da-abd1-78a54bb58b99.png)`
 
 ## TextExpander
 - [ ] [Extratext Snippet Group, Documented](https://davidblue.wtf/extratext/)
 - [ ] [Extratext Snippet Group Share](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb)
 - [ ] [Text Fuck Snippet Group Share](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)
+
+## References
+- [ ] [Clipping (audio) - Wikipedia](https://en.m.wikipedia.org/wiki/Clipping_(audio))
