@@ -27,6 +27,7 @@
 01252022-020121
 - [ ] [Text Case](https://tools.applemediaservices.com/app/1407730596)
 - [ ] [Textcraft](https://apps.apple.com/us/app/textcraft/id1546719359)
+- [ ] [Actions](https://apps.apple.com/us/app/actions/id1586435171)
 
 ## Wanted/ToDo
 - [x] TextExpander snippets! A collection, even?
