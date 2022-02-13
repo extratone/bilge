@@ -30,7 +30,7 @@ My Text Fucking reached its peak proliferation in [the Drywall Era](https://dryw
 
 https://twitter.com/NeoYokel/status/1492783081593483266
 
-As Drywall’s first and second albums - “[Hamura](https://ihadtopee.bandcamp.com/album/hamura)” and “[Suburban Anarchy](https://ihadtopee.bandcamp.com/album/suburban-anarchy),” respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Z̸̡̤̯̰̮͈͙̆ͤ̿ͨa̢̓̀̓ͤl̡̨̩̼g̸̡̝̣̹͖̀̕͜҉o̡̞̊̓̓̔͝͡ T̘͛͢҉̹̉̀ͫe̶̗̠̲͛҉̱̙͇ͬx̧̡͈͍͕͘t͎̘̠̺ͨ͘ was the digital text equivalent. In fact, I couldn’t have imagined a more apt way to describe it. Beyond The Rails was my cringey “label” name, directly describing this phenomenon. Indeed, Zalgo Text goes beyond the “rails” of text input/display fields reliably, depending on the intensity of the configuration you’re using to create it.
+As Drywall’s first and second albums - “[Hamura](https://ihadtopee.bandcamp.com/album/hamura)” and “[Suburban Anarchy](https://ihadtopee.bandcamp.com/album/suburban-anarchy),” respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Z̸̡̤̯̰̮͈͙̆ͤ̿ͨa̢̓̀̓ͤl̡̨̩̼g̸̡̝̣̹͖̀̕͜҉o̡̞̊̓̓̔͝͡ T̘͛͢҉̹̉̀ͫe̶̗̠̲͛҉̱̙͇ͬx̧̡͈͍͕͘t͎̘̠̺ͨ͘ was the digital text equivalent. In fact, I couldn’t have imagined a more apt way to describe it. *Beyond The Rails* was my cringey “label” name, directly describing this phenomenon. Indeed, Zalgo Text goes beyond the “rails” of text input/display fields reliably, depending on the intensity of the configuration you’re using to create it. 
 
 ## Apps
 
@@ -61,14 +61,14 @@ Another cross-platform application - this one [extending to Windows](https://tex
 
 ![TextFuckSnippetGroup](https://user-images.githubusercontent.com/43663476/153726468-25b5a5a9-0381-4720-b1e7-c7fb2ef357d9.png)
 
-It’s not much just yet, but if you “[subscribe](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)” to this snippet group from your own account, you’ll be treated to whatever I come up with in the future, delivered to your devices in real time. 
+It’s not much just yet, but if you “[subscribe](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)” to this snippet group from your own account, you’ll be treated to whatever I come up with in the future, delivered to your devices in real time. If you find yourself trying it out, you may as well check out my main Snippet Group, [Extratext](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb), which is documented [here](https://davidblue.wtf/extratext).
 
 
 ## Siri Shortcuts
 
 ![TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)
 
-Another method of general Text Fuckery on iOS is through its relatively new personal automation system, Siri Shortcuts.
+Another method of general Text Fuckery on iOS is achieved through its relatively new personal automation system, Siri Shortcuts.
 
 <video controls>
   <source src="https://user-images.githubusercontent.com/43663476/153750931-30b05024-a3dd-4939-8d84-fcd0cafa8537.MOV">
