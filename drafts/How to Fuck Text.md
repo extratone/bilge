@@ -6,6 +6,8 @@
 
 My [project to properly document Bluetooth keyboard support on iPhone](https://uikeycommand.com) has given me a new reverence for accessibility, generally, which might come as a hypocritical statement at the beginning of such a piece, but I *did* [explicitly ask you](https://mastodon.social/@DavidBlue/107589034582138302) if you felt this subject was anti-accessibility before I officially embarked upon writing This Post. I don't consider the answer - a very weak "no" - to be an all-encompassing excuse, whatsoever. If you feel this post's existence has the potential to do real harm, [contact me](https://davidblue.wtf/db.vcf) and I *will* straight up take it down. I dare you. Since I consider myself a genuine authority on Text Fucking, however, I am going to do my best to main unapologetic language when expressing opinions in orbit of the matter. You can trust me, I think.
 
+![Discerning Yelp Connoisseur](https://i.snap.as/K2E9UV7S.png)
+
 Here’s my definition from [the “Text Fucking” entry](https://github.com/extratone/bilge/wiki/Text-Fucking) in [*The Psalms* wiki](https://github.com/extratone/bilge/wiki):
 
 **Text Fucking** *verb*
@@ -13,8 +15,6 @@ a.) hardcore text manipulation.
 b.) destruction of usable digital text.
 
 I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a discipline, nearly. At least enough so that I believe this Post is worth it[^1]. Like most disciplines, it can be used for your particular definitions of “good” and/or “bad.” I would like to think most of my use over the years has been toward my own of “good,” but - as per the unsearchable nature of Fucked Text, generally - this is not easily verifiable or citable.
-
-![Discerning Yelp Connoisseur](https://i.snap.as/K2E9UV7S.png)
 
 <audio controls>
   <source src="https://github.com/extratone/bilge/raw/main/audio/Voice%20Notes/textfucker.mp3">
@@ -30,7 +30,7 @@ My Text Fucking reached its peak proliferation in [the Drywall Era](https://dryw
 
 https://twitter.com/NeoYokel/status/1492783081593483266
 
-As Drywall’s first and second albums - “[Hamura](https://ihadtopee.bandcamp.com/album/hamura)” and “[Suburban Anarchy](https://ihadtopee.bandcamp.com/album/suburban-anarchy),” respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Z̸̡̤̯̰̮͈͙̆ͤ̿ͨa̢̓̀̓ͤl̡̨̩̼g̸̡̝̣̹͖̀̕͜҉o̡̞̊̓̓̔͝͡ T̘͛͢҉̹̉̀ͫe̶̗̠̲͛҉̱̙͇ͬx̧̡͈͍͕͘t͎̘̠̺ͨ͘ was the digital text equivalent. In fact, I couldn’t have imagined a more apt way to describe it.
+As Drywall’s first and second albums - “[Hamura](https://ihadtopee.bandcamp.com/album/hamura)” and “[Suburban Anarchy](https://ihadtopee.bandcamp.com/album/suburban-anarchy),” respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Z̸̡̤̯̰̮͈͙̆ͤ̿ͨa̢̓̀̓ͤl̡̨̩̼g̸̡̝̣̹͖̀̕͜҉o̡̞̊̓̓̔͝͡ T̘͛͢҉̹̉̀ͫe̶̗̠̲͛҉̱̙͇ͬx̧̡͈͍͕͘t͎̘̠̺ͨ͘ was the digital text equivalent. In fact, I couldn’t have imagined a more apt way to describe it. Beyond The Rails was my cringey “label” name, directly describing this phenomenon. Indeed, Zalgo Text goes beyond the “rails” of text input/display fields reliably, depending on the intensity of the configuration you’re using to create it.
 
 ## Apps
 
