@@ -1,9 +1,0 @@
-{
-  "folderNoteHide": false,
-  "folderNoteType": "inside",
-  "folderNoteName": "_about_",
-  "folderNoteKey": "alt",
-  "folderNoteAutoRename": true,
-  "folderDelete2Note": false,
-  "folderNoteStrInit": "# {{FOLDER_NAME}} Overview\n {{FOLDER_BRIEF_LIVE}} \n"
-}
