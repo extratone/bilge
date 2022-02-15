@@ -58,6 +58,9 @@
 - [ ] [Full Book Poll](https://twitter.com/NeoYokel/status/1492589668843634692)
 - [ ] [GREGZALGOS](https://twitter.com/draftsapp/status/1492645727729766400)
 - [ ] [Disturbing](https://twitter.com/NeoYokel/status/1492783081593483266)
+- [ ] [Clapcase](https://twitter.com/NeoYokel/status/1493568263984500737)
+- [ ] [DraftsImage](https://twitter.com/NeoYokel/status/1493566818723708933)
+- [ ] [Fuck1](https://twitter.com/NeoYokel/status/1493566606290661376)
 
 ### Accessibility Poll
 - [Mastodon](https://mastodon.social/@DavidBlue/107589034582138302)
@@ -109,6 +112,18 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] `![TextcraftIcon](https://user-images.githubusercontent.com/43663476/153724474-6a64b3d3-cb87-428e-81d6-a900746f9886.png)`
 - [ ] `![TextFuckSnippetGroup](https://user-images.githubusercontent.com/43663476/153726468-25b5a5a9-0381-4720-b1e7-c7fb2ef357d9.png)`
 - [ ] `![Textcraft for macOS](https://user-images.githubusercontent.com/43663476/153737944-46db7da5-6d85-41da-abd1-78a54bb58b99.png)`
+- [ ] `![RandomTextAction](https://user-images.githubusercontent.com/43663476/153781368-a58bbb73-5675-48d6-9317-3538701a27d1.png)`
+- [ ] `![TextCaseforiOS](https://user-images.githubusercontent.com/43663476/154004997-534ea5c3-ec4c-4f29-90b1-f8e92a7c8224.png)`
+
+
+## Icons
+![Bear-2](https://user-images.githubusercontent.com/43663476/154006126-6a653f20-eebd-4068-ae79-23e857216b31.png)
+![RSS Button for Safari](https://user-images.githubusercontent.com/43663476/154006128-d85e1e42-7534-483a-9dba-fbbf7fecdff1.png)
+![Wayback Machine](https://user-images.githubusercontent.com/43663476/154006131-e36668d0-7fb9-4df9-9956-b0becfdf7aec.png)
+![PocketTube](https://user-images.githubusercontent.com/43663476/154006133-bcbce3ad-b23c-488e-b2ec-3a2d7a2c8c54.png)
+![Simplenote](https://user-images.githubusercontent.com/43663476/154006134-0f32b723-abf4-48e4-9953-9b51c66fd2d2.png)
+![Text Case](https://user-images.githubusercontent.com/43663476/154006137-74a7006f-862a-40b1-96e4-258b5b49ed2d.png)
+![Zalgo Generator](https://user-images.githubusercontent.com/43663476/154006139-a26bdcae-ef8f-4a54-b1cf-35bfc86148a4.png)
 
 ## TextExpander
 - [ ] [Extratext Snippet Group, Documented](https://davidblue.wtf/extratext/)

@@ -22,7 +22,7 @@ I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a 
 
 ## History
 
-As detailed in the audio account embedded above, I believe my Text Fucking career began somewhere around the 7th grade, at 13-14 years old. It was my second or third time flunking MS02 - the Microsoft Office II course - taken on fairly outdated school desktop machines in the 2007-2008 era, all running Windows XP. Because of some inexplicable ability to simply do what I was told, I would spend class periods trying to create the largest possible text file in Notepad by copying and pasting huge, exponentially growing globs. Eventually, I did crash a machine at least once. Though it could very well be simply the self-exaggerated recollection of preteendom, I even remember crashing the school server with one of those files.
+As detailed in the audio account embedded above, I believe my Text Fucking career began somewhere around the 7th grade, at 13-14 years old. It was my second or third time flunking MS02 - the Microsoft Office II course - taken on fairly outdated school desktop machines in the 2007-2008 era, all running Windows XP. Because of some inexplicable ability to simply do what I was told, I would spend class periods trying to create the largest possible text file in Notepad by copying and pasting huge, exponentially growing globs. Eventually, I did crash a machine at least once. Though it could very well be simply the self-exaggerated recollection of preteendom, I even remember crashing the school server with one of those files. They were ginormous for plaintext.
 
 https://twitter.com/draftsapp/status/1492645727729766400
 
@@ -31,6 +31,8 @@ My Text Fucking reached its peak proliferation in [the Drywall Era](https://dryw
 https://twitter.com/NeoYokel/status/1492783081593483266
 
 As Drywall’s first and second albums - “[Hamura](https://ihadtopee.bandcamp.com/album/hamura)” and “[Suburban Anarchy](https://ihadtopee.bandcamp.com/album/suburban-anarchy),” respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Zalgo Text was the digital text equivalent. In fact, I couldn’t have imagined a more apt way to describe it. *Beyond The Rails* was my cringey “label” name, directly describing this phenomenon. Indeed, Zalgo Text goes beyond the “rails” of text input/display fields reliably, depending on the intensity of the configuration you’re using to create it. 
+
+https://twitter.com/NeoYokel/status/1493041887279734784
 
 ## Apps
 
@@ -66,22 +68,32 @@ Another cross-platform application - this one [extending to Windows](https://tex
 
 It’s not much just yet, but if you “[subscribe](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)” to this snippet group from your own account, you’ll be treated to whatever I come up with in the future, delivered to your devices in real time. If you find yourself trying it out, you may as well check out my main Snippet Group, [Extratext](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb), which is documented [here](https://davidblue.wtf/extratext). 
 
+## Text Case
+
+Christopher R Hannah’s Text Case is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[^4]
+
+
 ## Siri Shortcuts
 
 ![TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)
 
-Another method of general Text Fuckery on iOS is achieved through its relatively new personal automation system, Siri Shortcuts. Through a Reddit thread I've never been able to find again, I discovered a method of randomizing strings of text that led to the creation of the Shortcuts you see below, all with native actions (aside from the outputs of those with specific services.) If you're willing to splurge on the whole 3.3mb, free (for macOS, iPadOS, and iOS) [**Actions app**](https://apps.apple.com/us/app/actions/id1586435171), you can accomplish the same task, but much more quickly and with less resource consumption. 
+Another method of general Text Fuckery on iOS is achieved through its relatively “new”[^2] personal automation system, Siri Shortcuts. Through a Reddit thread I've never been able to find again, I discovered a method of randomizing strings of text that led to the creation of the Shortcuts you see below, all with native actions (aside from the outputs of those with specific services.) If you're willing to splurge on the whole 3.3mb, free (for macOS, iPadOS, and iOS) [**Actions app**](https://apps.apple.com/us/app/actions/id1586435171), you can accomplish the same task, but much more quickly and with less resource consumption. I think you can spare the space.[^3]
+
+Perhaps the best place to start would be with the most documented (and perhaps most unique) Text Fucking Siri Shortcut I have to offer you. “[The Fastest Route to Twitter Jail](https://bilge.world/twitter-jail)” in fact details the workings of [**my Twitter Jail shortcut**](https://routinehub.co/shortcut/11086/),
 
 ![Random Text ⇨ Clipboard](https://user-images.githubusercontent.com/43663476/153768899-51ed409f-7fef-46d0-978f-8a5fc19ad5f7.png)
 
+If you’re new to Shorcuts entirely, what you see above will result in a string of random text copied to your clipboard, so that you can paste it whereever you might “need” to. Notably, I’ve been extremely lazy with the strings, despite having [the absolute best app for creating them](https://apps.apple.com/us/app/unichar-unicode-keyboard/id880811847) on my iPhone. I’d suggest you download it and play around yourself. As I said in [my review](http://bilge.world/unichar-for-ios-app-review), UniChar is a beautiful celebration of the diversity of Unicode. If what I’m talking about isn’t straightforward-sounding to you, [let me know](https://davidblue.wtf/db.vcf)! I absolutely *will* sit down and build something just for you.
+ 
+![RandomTextAction](https://user-images.githubusercontent.com/43663476/153781368-a58bbb73-5675-48d6-9317-3538701a27d1.png)
+
 ### Text-Fucking Siri Shortcuts with Actions
+
+These three shortcuts require [the Actions app](https://apps.apple.com/us/app/actions/id1586435171), but the single action used across all of them - called `Random Text` - is one that works across all platforms. 
 
 - [Random Characters ⇨ Clipboard](https://www.icloud.com/shortcuts/ed9216202df4481d9ae001b0531384c2)
 - [Random Characters ⇨ Mastodon](https://www.icloud.com/shortcuts/af64b43604334d21ad5a6668471b828f)
 - [Random Characters ⇨ Tumblr](https://www.icloud.com/shortcuts/399a857145e34d8b94b994fa3f9ca300)
-
-
-or 
 
 https://twitter.com/NeoYokel/status/1492926569496649730
 
@@ -101,3 +113,6 @@ https://twitter.com/NeoYokel/status/1492926569496649730
 
 —-
 [1] Whaddya think‽‽‽ [Should I write a book](https://twitter.com/NeoYokel/status/1492589668843634692)‽‽‽
+[2] I say “new” here because of how many users genuinely have never encountered the concept, whatsoever, even going on five years since Workflow was made native.
+[3] A few of the single images embedded in this Post are larger than that.
+[4] Nevertheless, I shall do my best to remain ashamed of my redundant inadequacy.
