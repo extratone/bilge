@@ -18,10 +18,13 @@
 
 ## Misc
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
+- [ ] Wikilinks are actually really dangerous.
+- [ ] Direct integration with Agiltortoise’s [Terminology](https://apps.apple.com/us/app/terminology-dictionary/id687798859) remains unique, compelling, and far superior, ridiculously, to the subscription fee-requiring LookUp.
 
 ## Social
 - [another advantage of Drafts being Native as Fuck… this action runs entirely in the background.](https://twitter.com/NeoYokel/status/1490748762779791360)
 - [Switching between drafts with numeric keyboard shortcuts](https://twitter.com/NeoYokel/status/1492567120336535552)
+- [Wide Boy](https://twitter.com/NeoYokel/status/1493380856223838215)
 
 ## Images
 - `![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)`
@@ -32,6 +35,10 @@
 - `![ArrangeMode](https://user-images.githubusercontent.com/43663476/153938891-ff5312ba-31d4-415f-88e4-e3e14925575f.png)`
 - `![SynonymsWithaKeyboardShortcut](https://user-images.githubusercontent.com/43663476/153939391-c92f75c1-1313-4ead-96fa-c6ef0927a59d.png)`
 - `![Autocomplete](https://user-images.githubusercontent.com/43663476/153939600-e26cd8eb-b78f-4d67-a5fb-993b508830f9.png)`
+- `![TerminologyIntegration](https://user-images.githubusercontent.com/43663476/153948463-31435ed0-76e7-4b33-be9f-3089248e34f4.png)`
+- `![ReminderIntegrations](https://user-images.githubusercontent.com/43663476/153950328-e0e71931-d407-469f-a882-b9566f37399c.png)`
+- `![ControllingBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png)`
+- `![TriggeringBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966718-f51329cd-5928-4127-9958-42d972882521.png)`
 
 ## References
 - [ ] [Bookmarks - Drafts User Guide](https://docs.getdrafts.com/docs/settings/bookmarks)
