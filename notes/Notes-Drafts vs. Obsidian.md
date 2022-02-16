@@ -58,3 +58,4 @@
 - [ ] [Delete Your Notes](https://club.macstories.net/posts/delete-your-notes)
 - [ ] [Everything but the Text Editor](https://club.macstories.net/episodes/203)
 - [ ] [Searching for the perfect iOS Markdown writing tool](https://sixcolors.com/post/2021/03/searching-for-the-perfect-ios-markdown-writing-tool/)
+- [ ] The whole [Attributions list](https://docs.getdrafts.com/docs/misc/attributions) for Drafts is just *seven items in length*.
