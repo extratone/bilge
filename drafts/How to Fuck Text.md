@@ -14,7 +14,7 @@ Here’s my definition from [the “Text Fucking” entry](https://github.com/ex
 a.) hardcore text manipulation.
 b.) destruction of usable digital text.
 
-I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a discipline, nearly. At least enough so that I believe this Post is worth it[^1]. Like most disciplines, it can be used for your particular definitions of “good” and/or “bad.” I would like to think most of my use over the years has been toward my own of “good,” but - as per the unsearchable nature of Fucked Text, generally - this is not easily verifiable or citable.
+I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a discipline, nearly. At least enough so that I believe this Post is worth it[^1]. Like most disciplines, it can be used for your particular definitions of “good” and/or “bad.” I would like to think most of my use over the years has been toward my own of “good,” but - as per the unsearchable nature of Fucked Text, generally - this is not easily verifiable or citable. Regardless of my performance, however, I genuinely believe Text Fucking can be an endeavor that leads to more “positive” outcomes, whoever you may be. As I did, you might find yourself with a greater appreciation of and a desire to learn more about those individuals and organizations working in the Accessible Technology industry, ever toward a more inclusive digital future. It’s my hope that the weaponization of such an otherwise banal part of life might empower you with the simple fact of your capabilities, even if you don’t ever choose to actually implement them in a single instance.
 
 <audio controls>
   <source src="https://github.com/extratone/bilge/raw/main/audio/Voice%20Notes/textfucker.mp3">
@@ -48,7 +48,7 @@ If you don't believe me, here are some more particularly robust text editors on 
 
 If that’s not enough for you, I suggest perusing [Brett Terpstra’s iTextEditors Wiki](https://brettterpstra.com/ios-text-editors).
 
-I have previously reviewed two wonderful Text Fucking iOS apps on this blog: [**UniChar**](https://bilge.world/unichar-for-ios-app-review) and [**Zalgo Generator**](https://bilge.world/zalgo-generator-ios-app-review). There’s now [a macOS version of the latter](https://apps.apple.com/us/app/zalgo-generator/id1304137527) which is particularly powerful. Or at least has particularly powerful implications. There are a few more to be discovered, though:
+I have previously reviewed two wonderful Text Fucking iOS apps on this blog: [**UniChar**](https://bilge.world/unichar-for-ios-app-review) and [**Zalgo Generator**](https://bilge.world/zalgo-generator-ios-app-review). There’s now [a macOS version of the latter](https://apps.apple.com/us/app/zalgo-generator/id1304137527) which is particularly powerful - or at least has particularly powerful implications. There are a few more to be discovered, though:
 
 ![TextcraftIcon](https://user-images.githubusercontent.com/43663476/153724474-6a64b3d3-cb87-428e-81d6-a900746f9886.png)
 
@@ -68,18 +68,33 @@ Another cross-platform application - this one [extending to Windows](https://tex
 
 It’s not much just yet, but if you “[subscribe](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)” to this snippet group from your own account, you’ll be treated to whatever I come up with in the future, delivered to your devices in real time. If you find yourself trying it out, you may as well check out my main Snippet Group, [Extratext](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb), which is documented [here](https://davidblue.wtf/extratext). 
 
-## Text Case
+![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)
 
-Christopher R Hannah’s Text Case is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[^4]
+### Text Case
 
+Christopher R Hannah’s Text Case is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[^4] 
 
 ## Siri Shortcuts
 
 ![TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)
 
-Another method of general Text Fuckery on iOS is achieved through its relatively “new”[^2] personal automation system, Siri Shortcuts. Through a Reddit thread I've never been able to find again, I discovered a method of randomizing strings of text that led to the creation of the Shortcuts you see below, all with native actions (aside from the outputs of those with specific services.) If you're willing to splurge on the whole 3.3mb, free (for macOS, iPadOS, and iOS) [**Actions app**](https://apps.apple.com/us/app/actions/id1586435171), you can accomplish the same task, but much more quickly and with less resource consumption. I think you can spare the space.[^3]
+Another method of general Text Fuckery on iOS is achieved through its relatively “new”[^2] personal automation system, Siri Shortcuts. In fact, Apple includes what I would define as a genuine Text Fucker™ of a shortcut in its default shortcuts gallery, called “[All the Single Ladies ASCII](https://www.icloud.com/shortcuts/51392bf23f104b93baf72000955ed334)” which can be used to create rather adorable text snippets like this:
+```txt
+(•_•)
+<)   )╯DAVID BLUE
+ /    \ 
 
-Perhaps the best place to start would be with the most documented (and perhaps most unique) Text Fucking Siri Shortcut I have to offer you. “[The Fastest Route to Twitter Jail](https://bilge.world/twitter-jail)” in fact details the workings of [**my Twitter Jail shortcut**](https://routinehub.co/shortcut/11086/),
+  (•_•)
+ \(   (> WROTE
+  /    \
+
+ (•_•)
+<)   )╯THIS.
+ /    \
+```
+Through a Reddit thread I've never been able to find again, I discovered a method of randomizing strings of text that led to the creation of the Shortcuts you see below, all with native actions (aside from the outputs of those with specific services.) If you're willing to splurge on the whole 3.3mb, free (for macOS, iPadOS, and iOS) [**Actions app**](https://apps.apple.com/us/app/actions/id1586435171), you can accomplish the same task, but much more quickly and with less resource consumption. I think you can spare the space.[^3]
+
+Perhaps the best place to start would be with the most documented (and perhaps most unique) Text Fucking Siri Shortcut I have to offer you. “[The Fastest Route to Twitter Jail](https://bilge.world/twitter-jail)” in fact details the workings of [**my Twitter Jail shortcut**](https://routinehub.co/shortcut/11086/), which uses [Tweetbot](http://bilge.world/tweetbot-6-ios-review)’s shortcuts actions to send 310 Tweets of random text in less than four minutes to an account of your specification. 
 
 ![Random Text ⇨ Clipboard](https://user-images.githubusercontent.com/43663476/153768899-51ed409f-7fef-46d0-978f-8a5fc19ad5f7.png)
 

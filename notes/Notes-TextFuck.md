@@ -19,19 +19,20 @@
 ## Apps
 
 - [ ] [Text Split](https://apps.apple.com/us/app/text-split/id1547206241)
-- [ ] [TextExpander](https://apps.apple.com/us/app/textexpander-keyboard/id1075927186)
-- [ ] [UniChar](https://apps.apple.com/us/app/unichar-unicode-keyboard/id880811847)
+- [x] [TextExpander](https://apps.apple.com/us/app/textexpander-keyboard/id1075927186)
+- [x] [UniChar](https://apps.apple.com/us/app/unichar-unicode-keyboard/id880811847)
 - [ ] [GitHub - tomauty/ZalgoTextGenerator: An Android app to generate Zalgo text for those times when you need to invoke the hive-mind representing chaos on the go](https://github.com/tomauty/ZalgoTextGenerator)
-- [ ] [Zalgo Generator on MacOS!](https://apps.apple.com/us/app/zalgo-generator/id1304137527)
+- [x] [Zalgo Generator on MacOS!](https://apps.apple.com/us/app/zalgo-generator/id1304137527)
 - [ ] [zalgo-js - npm](https://www.npmjs.com/package/zalgo-js) 01252022-020116
 01252022-020121
 - [ ] [Text Case](https://tools.applemediaservices.com/app/1407730596)
 - [ ] [Textcraft](https://apps.apple.com/us/app/textcraft/id1546719359)
 - [ ] [Actions](https://apps.apple.com/us/app/actions/id1586435171)
+- [ ] [Terminology](https://apps.apple.com/us/app/terminology-dictionary/id687798859)
 
 ## Wanted/ToDo
-- [x] TextExpander snippets! A collection, even?
-- [ ] [**Zalgo Drafts Action!!!**](https://twitter.com/NeoYokel/status/1492591057950892040)
+- [x] [TextFuck TextExpander Snippet Group](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)
+- [x] [**Zalgo Drafts Action!!!**](https://twitter.com/NeoYokel/status/1492591057950892040)
 
 ```
 ⠯̀҉͎̝͈̤̯͍⒎̶͏҉̙̪̭̭̙̗̖̫̟͈͍̗͉̙∧̶̢̞̯͚̪̲̱͍̬̞̭͉̤͍͉͓͟͠͝ͅº̶̷̛̛̰̥̣̥͉̥̱̖̝̟̫̻ͅʲ̵̢͓̪̬̟̦̥̱̪͙̀͠䷹̸̨̫̭͎̹͍̖͖͙͙̼̫͎̙́͠䷹͏͠͏̙̪̹̗͎̱͖̭̩͍͔̙͍̼̹̯̭̭͞͡∝̷̸̸̩̥͍̻⊑̶̧̬̥͈̠̜͍̟̤̤̞̀̕͜
@@ -114,6 +115,7 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] `![Textcraft for macOS](https://user-images.githubusercontent.com/43663476/153737944-46db7da5-6d85-41da-abd1-78a54bb58b99.png)`
 - [ ] `![RandomTextAction](https://user-images.githubusercontent.com/43663476/153781368-a58bbb73-5675-48d6-9317-3538701a27d1.png)`
 - [ ] `![TextCaseforiOS](https://user-images.githubusercontent.com/43663476/154004997-534ea5c3-ec4c-4f29-90b1-f8e92a7c8224.png)`
+- [x] `![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)`
 
 
 ## Icons
