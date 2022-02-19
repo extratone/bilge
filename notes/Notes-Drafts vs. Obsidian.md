@@ -15,6 +15,7 @@
 - [ ] Let me see you live switch back and forth between devices editing the same documents with any coherence in Obsidian, eh? Git is wonderful, but it was built to be used like we’re using it, and we need to consider that. Indeed, what if iCloud Drive sync is mostly an advantage? *Especially* when it’s Native As Fuck.
 - [ ] I just a moment ago rid my main repository of Obsidian for good and it was almost 1000 files.
 - [ ] Still much much more out of the box because it is so in a different way - I keep discovering things Drafts will do for me instead of something else, but better, where I feel like Obsidian is all about finding more stuff to do.
+- [ ] Using draft_open_links and Tot, I have created my own dashboard outside of Drafts, which works especially beautifully on macOS.
 
 ## Misc
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
@@ -39,6 +40,8 @@
 - `![ReminderIntegrations](https://user-images.githubusercontent.com/43663476/153950328-e0e71931-d407-469f-a882-b9566f37399c.png)`
 - `![ControllingBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png)`
 - `![TriggeringBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966718-f51329cd-5928-4127-9958-42d972882521.png)`
+- `![ArrangeMode](https://user-images.githubusercontent.com/43663476/154339203-1c30713e-cb53-40c6-8e70-7f75c1dfdee2.png)`
+- [[The LightRedDot Theme by jamiejenkins]]
 
 ## References
 - [ ] [Bookmarks - Drafts User Guide](https://docs.getdrafts.com/docs/settings/bookmarks)
