@@ -48,6 +48,7 @@
 - [ ] [Random Characters ⇨ Clipboard](https://www.icloud.com/shortcuts/ed9216202df4481d9ae001b0531384c2)
 - [ ] [Random Characters ⇨ Mastodon](https://www.icloud.com/shortcuts/af64b43604334d21ad5a6668471b828f)
 - [ ] [Random Characters ⇨ Tumblr](https://www.icloud.com/shortcuts/399a857145e34d8b94b994fa3f9ca300)
+- [ ] [Fuck](https://www.icloud.com/shortcuts/edcc737ed7304a17bb3b4d8897aae29c)
 
 ## Social
 ```
@@ -117,6 +118,7 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] `![TextCaseforiOS](https://user-images.githubusercontent.com/43663476/154004997-534ea5c3-ec4c-4f29-90b1-f8e92a7c8224.png)`
 - [x] `![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)`
 - [ ] `![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)`
+- [ ] `![Fuck Shortcut](https://user-images.githubusercontent.com/43663476/154841943-3ba7b019-c146-4765-90b1-2f52e34f3911.png)`
 
 
 ## Icons

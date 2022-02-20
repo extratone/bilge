@@ -78,6 +78,14 @@ Christopher R Hannah’s Text Case is by far the most modern of all the dedicate
 
 Without being able to share my own “flows” (unfortunately,) all I can share with you is [this Siri Shortcut](https://www.icloud.com/shortcuts/6fd60faf566142b3b7d1fb0a0631fa1b) which is called from [this Drafts action](https://actions.getdrafts.com/a/1wQ) to reformat selected text (or the entire contents of the current draft) into proper MLA Title format before amending the results to a specific draft. I also created and published a shortcut called “[Speak Word Count](https://routinehub.co/shortcut/11094)” which uses Text Case’s Word Count “format” and [Siri Speech Synthesis](https://bilge.world/siri-tts) to speak aloud the word count of either the current selection (from the share sheet) or the contents currently in the system clipboard.
 
+![Fuck Shortcut](https://user-images.githubusercontent.com/43663476/154841943-3ba7b019-c146-4765-90b1-2f52e34f3911.png)
+
+I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17bb3b4d8897aae29c) - a Siri Shortcut with three of my favorite Text Case formattings so far in succession: “Mocking Spongebob” (ick,) “Upside Down,” and “Clap Case.” It acts upon - and replaces - any text you’ve copied to the clipboard. Here’s an example:
+
+```
+ᴉ┴ 👏 ∀ɔʇs 👏 nԀou 👏  👏  👏 ∀up 👏 ɹƎd˥ɐɔǝs 👏  👏  👏 ∀u⅄ 👏 ┴Ǝx┴ 👏 ⅄On’Λǝ 👏 ɔoԀIǝp 👏 ┴o 👏 ʇɥǝ 👏 ɔlᴉdqo∀ɹp
+```
+
 ## Siri Shortcuts
 
 ![TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)
