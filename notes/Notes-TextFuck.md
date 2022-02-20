@@ -119,13 +119,13 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 
 
 ## Icons
-![Bear-2](https://user-images.githubusercontent.com/43663476/154006126-6a653f20-eebd-4068-ae79-23e857216b31.png)
-![RSS Button for Safari](https://user-images.githubusercontent.com/43663476/154006128-d85e1e42-7534-483a-9dba-fbbf7fecdff1.png)
-![Wayback Machine](https://user-images.githubusercontent.com/43663476/154006131-e36668d0-7fb9-4df9-9956-b0becfdf7aec.png)
-![PocketTube](https://user-images.githubusercontent.com/43663476/154006133-bcbce3ad-b23c-488e-b2ec-3a2d7a2c8c54.png)
-![Simplenote](https://user-images.githubusercontent.com/43663476/154006134-0f32b723-abf4-48e4-9953-9b51c66fd2d2.png)
-![Text Case](https://user-images.githubusercontent.com/43663476/154006137-74a7006f-862a-40b1-96e4-258b5b49ed2d.png)
-![Zalgo Generator](https://user-images.githubusercontent.com/43663476/154006139-a26bdcae-ef8f-4a54-b1cf-35bfc86148a4.png)
+- ![Bear-2](https://user-images.githubusercontent.com/43663476/154006126-6a653f20-eebd-4068-ae79-23e857216b31.png)
+- ![RSS Button for Safari](https://user-images.githubusercontent.com/43663476/154006128-d85e1e42-7534-483a-9dba-fbbf7fecdff1.png)
+- ![Wayback Machine](https://user-images.githubusercontent.com/43663476/154006131-e36668d0-7fb9-4df9-9956-b0becfdf7aec.png)
+- ![PocketTube](https://user-images.githubusercontent.com/43663476/154006133-bcbce3ad-b23c-488e-b2ec-3a2d7a2c8c54.png)
+- ![Simplenote](https://user-images.githubusercontent.com/43663476/154006134-0f32b723-abf4-48e4-9953-9b51c66fd2d2.png)
+- ![Text Case](https://user-images.githubusercontent.com/43663476/154006137-74a7006f-862a-40b1-96e4-258b5b49ed2d.png)
+- ![Zalgo Generator](https://user-images.githubusercontent.com/43663476/154006139-a26bdcae-ef8f-4a54-b1cf-35bfc86148a4.png)
 
 ## TextExpander
 - [ ] [Extratext Snippet Group, Documented](https://davidblue.wtf/extratext/)

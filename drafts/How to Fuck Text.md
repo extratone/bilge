@@ -28,7 +28,7 @@ https://twitter.com/draftsapp/status/1492645727729766400
 
 My Text Fucking reached its peak proliferation in [the Drywall Era](https://drywallmusic.tumblr.com), when I first discovered the magic of Zalgo Text. The original generator at eemo.net has been replaced by an exact duplicate at [eeemo.net](http://eeemo.net). I have actually managed to successfully duplicate it [on my own NeoCities website](https://davidblue.wtf/zalgo/), as well. You might say that this original Zalgo Generator is The Original Text Fucking Tool. It can still generate quantities of fucked digital text information that *will* Fuck Shit Up on any social network, and as far as I can tell, the entire program is contained within [a single HTML file](https://davidblue.wtf/zalgo/index.html).
 
-https://twitter.com/NeoYokel/status/1492783081593483266
+==https://twitter.com/NeoYokel/status/1492783081593483266== REPLACE
 
 As Drywall’s first and second albums - “[Hamura](https://ihadtopee.bandcamp.com/album/hamura)” and “[Suburban Anarchy](https://ihadtopee.bandcamp.com/album/suburban-anarchy),” respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Zalgo Text was the digital text equivalent. In fact, I couldn’t have imagined a more apt way to describe it. *Beyond The Rails* was my cringey “label” name, directly describing this phenomenon. Indeed, Zalgo Text goes beyond the “rails” of text input/display fields reliably, depending on the intensity of the configuration you’re using to create it. 
 
