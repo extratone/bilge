@@ -31,7 +31,13 @@ There is tremendous value in the hype surrounding whatever writing app is curren
 
 > There will always be advantages to being fully native on the platform.
 
-Said Greg Pierce, Drafts creator, quoting from [his 2018 interview with *MacStories*](https://club.macstories.net/posts/interview-greg-pierce-1). When I hear “fully native,” I think of Drafts, of course, but also [Tweetbot](http://bilge.world/tweetbot-6-ios-review) and [Bear](https://apps.apple.com/us/app/bear-markdown-notes/id1016366447) - all three of which are coded mostly in Objective C, if I’m not mistaken. I think of them as the most robust third-party applications I’ve ever used on any platform. Among Drafts specific advantages as a native app are [direct Siri Shortcuts integration](https://www.macstories.net/reviews/drafts-5-4-siri-shortcuts-wordpress-and-more/), extensive URL scheme and x-callback-url  
+Said Greg Pierce, Drafts creator, quoting from [his 2018 interview with *MacStories*](https://club.macstories.net/posts/interview-greg-pierce-1). When I hear “fully native,” I think of Drafts, of course, but also [Tweetbot](http://bilge.world/tweetbot-6-ios-review) and [Bear](https://apps.apple.com/us/app/bear-markdown-notes/id1016366447) - all three of which are coded mostly in Objective C, if I’m not mistaken. I think of them as the most robust third-party applications I’ve ever used on any platform. Among Drafts specific advantages as a native app are [direct Siri Shortcuts integration](https://www.macstories.net/reviews/drafts-5-4-siri-shortcuts-wordpress-and-more/), extensive [URL scheme/x-callback-url support](https://docs.getdrafts.com/docs/automation/urlschemes)[^3], the best [iCloud syncing](https://docs.getdrafts.com/docs/settings/sync) I’ve ever seen from any application on iOS and macOS, a legendary share sheet-bound [web capture extension](https://docs.getdrafts.com/docs/extensions/share), the ability to send full draft contents from [an iMessage app](https://docs.getdrafts.com/docs/extensions/message), an award-winning [Apple Watch app](https://docs.getdrafts.com/docs/extensions/applewatch), gorgeous, configurable, and actually useful(!) [widgets](https://docs.getdrafts.com/docs/extensions/widgets), and even iOS and macOS [icon badge support](https://docs.getdrafts.com/docs/settings/notifications), among an extensive list of others.
+
+![ControllingBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png)
+
+## Sending
+
+For instance, with a single keyboard shortcut (`^M`,) I can send the full contents of my current draft to an email address of my choice without leaving the app. The same also applies to sending via SMS (`⌥M`, if you care to know.)[^4] I was able to configure these vie the public [Mail Action Wizard](https://tools.getdrafts.com/wizards/mail) and [Messages Action Wizard](https://tools.getdrafts.com/wizards/message), respectively, and they work across iOS, iPadOS and macOS, out of the box, incredibly. I also used the latter to configure an action which sends messages to my [Family Tech Support iMessage group](https://bilge.world/ios-15-family-review) - a mix of 10 digit phone numbers and email addresses - astonishingly easily. It sends messages with the current draft title as the subject line and the body text as the message body.
 
 
 ![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)
@@ -44,3 +50,5 @@ I also have [an action](https://actions.getdrafts.com/a/1wN) that saves to root 
 
 [1] Usually of a much more directed sort.
 [2] Yes, a real shot. I promise.
+[3] Consider that Drafts creator, Greg Pierce, also *invented* x-callback-urls.
+[4] Those actions can be examined: [Drakesville](https://actions.getdrafts.com/a/1wR) & [SMS Drakesville](https://actions.getdrafts.com/a/1wS).
