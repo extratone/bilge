@@ -3,6 +3,7 @@
 - [Tilde](https://tilde.town/~extratone/blink)
 - [SSH Primer for TildeTown](https://tilde.town/~extratone/wiki/getting-started/ssh.html)
 - [["Tilde.Club: I had a couple drinks and woke up with 1,000 nerds"]]
+- [Simplenote Preview](http://simp.ly/publish/bx24Cq)
 
 ## Images
 - [ ] `![BlinktoTilde](https://tilde.town/~extratone/images/blinktotilde.png)`
