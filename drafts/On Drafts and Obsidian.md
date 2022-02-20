@@ -29,9 +29,18 @@ I’m one hundred percent positive I spent far, *far* more time reading about an
 
 There is tremendous value in the hype surrounding whatever writing app is currently trending. A trip not so far back in the *MacStories* archives reveals that just [four years ago or so](https://club.macstories.net/posts/compiling-and-exporting-tagged-notes-in-drafts-5), Drafts was having its’ own moment [after the release of Drafts 5](https://club.macstories.net/posts/interview-greg-pierce-1). [Tim Nahumck's review for *MacStories*](https://www.macstories.net/reviews/drafts-5-the-macstories-review/) was quite celebratory. Rosemary Orchard - undeniably the queen of automation on Apple Devices - also [praised it in her review](https://rosemaryorchard.com/blog/my-drafts-5-review/). I can tell you that no major release of any Windows application I use regularly has ever gotten such attention as Drafts 5, even - at least, not in my lifetime. Perhaps this is for the better, but I think not. Anyway, that topic is for [another time](https://github.com/extratone/bilge/issues/292).
 
+> There will always be advantages to being fully native on the platform.
+
+Said Greg Pierce, Drafts creator, quoting from [his 2018 interview with *MacStories*](https://club.macstories.net/posts/interview-greg-pierce-1). When I hear “fully native,” I think of Drafts, of course, but also [Tweetbot](http://bilge.world/tweetbot-6-ios-review) and [Bear](https://apps.apple.com/us/app/bear-markdown-notes/id1016366447) - all three of which are coded mostly in Objective C, if I’m not mistaken. I think of them as the most robust third-party applications I’ve ever used on any platform. Among Drafts specific advantages as a native app are [direct Siri Shortcuts integration](https://www.macstories.net/reviews/drafts-5-4-siri-shortcuts-wordpress-and-more/), extensive URL scheme and x-callback-url  
+
+
+![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)
+
 ## System/Working Copy Folder Access
 
-With my current Drafts setup, I need only hit `⇧^⌥D` to push my current draft to *The Psalms*’ [drafts folder](https://github.com/extratone/bilge/tree/main/drafts/) in Working Copy. The same applies with the keyboard shortcut `⇧^⌥N` and the corresponding notes draft and the [/notes repo folder](https://github.com/extratone/bilge/tree/main/notes/). On my iPhone, I’m currently switching back and forth between these using `⌥3` and `⌥4`, respectfully. If you’d like to see, here are those two (unlisted actions) on the Drafts Action Directory: [Export Psalms Drafts](https://actions.getdrafts.com/a/1wL) & [Export Psalms Notes](https://actions.getdrafts.com/a/1wM). 
+With my current Drafts setup, I need only hit `⇧^⌥D` to push my current draft to *The Psalms*’ [drafts folder](https://github.com/extratone/bilge/tree/main/drafts/) in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) - the golden standard iOS Git client. The same applies with the keyboard shortcut `⇧^⌥N` and the corresponding notes draft and the [/notes repo folder](https://github.com/extratone/bilge/tree/main/notes/). On my iPhone, I’m currently switching back and forth between these using `⌥3` and `⌥4`, respectfully. If you’d like to see, here are those two (unlisted actions) on the Drafts Action Directory: [Export Psalms Drafts](https://actions.getdrafts.com/a/1wL) & [Export Psalms Notes](https://actions.getdrafts.com/a/1wM). 
+
+I also have [an action](https://actions.getdrafts.com/a/1wN) that saves to root iCloud Drive folder called “Written” with the keyboard command `⌥⌘S`. 
 
 [1] Usually of a much more directed sort.
 [2] Yes, a real shot. I promise.

@@ -16,6 +16,7 @@
 - [ ] I just a moment ago rid my main repository of Obsidian for good and it was almost 1000 files.
 - [ ] Still much much more out of the box because it is so in a different way - I keep discovering things Drafts will do for me instead of something else, but better, where I feel like Obsidian is all about finding more stuff to do.
 - [ ] Using draft_open_links and Tot, I have created my own dashboard outside of Drafts, which works especially beautifully on macOS.
+- [ ] Instant synonyms with `^⌥S` calling Stephen Millard’s `TAD-Replace With Synonym` action. (As part of [ThoughtAsylum-Writing Action Group](https://actions.getdrafts.com/g/1cu))
 
 ## Misc
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
@@ -41,6 +42,9 @@
 - `![ControllingBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png)`
 - `![TriggeringBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966718-f51329cd-5928-4127-9958-42d972882521.png)`
 - `![ArrangeMode](https://user-images.githubusercontent.com/43663476/154339203-1c30713e-cb53-40c6-8e70-7f75c1dfdee2.png)`
+- `![ArrangeModeLandscape](https://user-images.githubusercontent.com/43663476/154815196-48e6535f-e740-4c6c- b40b-7db3ab190d27.png)`
+- `![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)`
+- `![TipCalculatorLandscape](https://user-images.githubusercontent.com/43663476/154821804-3d6d90b4-76d4-4082-a4dc-7dde5631c296.png)`
 - [[The LightRedDot Theme by jamiejenkins]]
 
 ## References
@@ -62,3 +66,5 @@
 - [ ] [Everything but the Text Editor](https://club.macstories.net/episodes/203)
 - [ ] [Searching for the perfect iOS Markdown writing tool](https://sixcolors.com/post/2021/03/searching-for-the-perfect-ios-markdown-writing-tool/)
 - [ ] The whole [Attributions list](https://docs.getdrafts.com/docs/misc/attributions) for Drafts is just *seven items in length*.
+- [ ] [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
+- [ ] [Drafts 5.4: Siri Shortcuts, WordPress, and More](https://www.macstories.net/reviews/drafts-5-4-siri-shortcuts-wordpress-and-more/) | *MacStories*
