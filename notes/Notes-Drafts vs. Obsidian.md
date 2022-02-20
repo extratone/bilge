@@ -17,6 +17,7 @@
 - [ ] Still much much more out of the box because it is so in a different way - I keep discovering things Drafts will do for me instead of something else, but better, where I feel like Obsidian is all about finding more stuff to do.
 - [ ] Using draft_open_links and Tot, I have created my own dashboard outside of Drafts, which works especially beautifully on macOS.
 - [ ] Instant synonyms with `^⌥S` calling Stephen Millard’s `TAD-Replace With Synonym` action. (As part of [ThoughtAsylum-Writing Action Group](https://actions.getdrafts.com/g/1cu))
+- [ ] In essence, I’m just worried. 
 
 ## Misc
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
@@ -29,23 +30,24 @@
 - [Wide Boy](https://twitter.com/NeoYokel/status/1493380856223838215)
 
 ## Images
-- `![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)`
-- `![BookmarksinDrafts](https://user-images.githubusercontent.com/43663476/153778986-a9a33a80-12a3-4042-8941-2e2d5e427703.png)`
-- `![Black&YellowTheme](https://user-images.githubusercontent.com/43663476/153780995-5b7ac09d-4c21-4e61-b1ba-163ce106fb01.png)`
-- `![FullSerifMode](https://user-images.githubusercontent.com/43663476/153918963-22bee968-92ac-441c-8535-e90c4658840c.png)`
-- `![HalfSerifMode](https://user-images.githubusercontent.com/43663476/153919115-6d34655e-ed9e-4d28-b3e4-55b136d8ba37.png)`
-- `![ArrangeMode](https://user-images.githubusercontent.com/43663476/153938891-ff5312ba-31d4-415f-88e4-e3e14925575f.png)`
-- `![SynonymsWithaKeyboardShortcut](https://user-images.githubusercontent.com/43663476/153939391-c92f75c1-1313-4ead-96fa-c6ef0927a59d.png)`
-- `![Autocomplete](https://user-images.githubusercontent.com/43663476/153939600-e26cd8eb-b78f-4d67-a5fb-993b508830f9.png)`
-- `![TerminologyIntegration](https://user-images.githubusercontent.com/43663476/153948463-31435ed0-76e7-4b33-be9f-3089248e34f4.png)`
-- `![ReminderIntegrations](https://user-images.githubusercontent.com/43663476/153950328-e0e71931-d407-469f-a882-b9566f37399c.png)`
-- `![ControllingBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png)`
-- `![TriggeringBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966718-f51329cd-5928-4127-9958-42d972882521.png)`
-- `![ArrangeMode](https://user-images.githubusercontent.com/43663476/154339203-1c30713e-cb53-40c6-8e70-7f75c1dfdee2.png)`
-- `![ArrangeModeLandscape](https://user-images.githubusercontent.com/43663476/154815196-48e6535f-e740-4c6c- b40b-7db3ab190d27.png)`
-- `![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)`
-- `![TipCalculatorLandscape](https://user-images.githubusercontent.com/43663476/154821804-3d6d90b4-76d4-4082-a4dc-7dde5631c296.png)`
-- [[The LightRedDot Theme by jamiejenkins]]
+- [x] ![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)
+- [ ] `![BookmarksinDrafts](https://user-images.githubusercontent.com/43663476/153778986-a9a33a80-12a3-4042-8941-2e2d5e427703.png)`
+- [x] `![Black&YellowTheme](https://user-images.githubusercontent.com/43663476/153780995-5b7ac09d-4c21-4e61-b1ba-163ce106fb01.png)`
+- [ ] `![FullSerifMode](https://user-images.githubusercontent.com/43663476/153918963-22bee968-92ac-441c-8535-e90c4658840c.png)`
+- [ ] `![HalfSerifMode](https://user-images.githubusercontent.com/43663476/153919115-6d34655e-ed9e-4d28-b3e4-55b136d8ba37.png)`
+- [ ] `![ArrangeMode](https://user-images.githubusercontent.com/43663476/153938891-ff5312ba-31d4-415f-88e4-e3e14925575f.png)`
+- [ ] `![SynonymsWithaKeyboardShortcut](https://user-images.githubusercontent.com/43663476/153939391-c92f75c1-1313-4ead-96fa-c6ef0927a59d.png)`
+- [ ] `![Autocomplete](https://user-images.githubusercontent.com/43663476/153939600-e26cd8eb-b78f-4d67-a5fb-993b508830f9.png)`
+- [ ] `![TerminologyIntegration](https://user-images.githubusercontent.com/43663476/153948463-31435ed0-76e7-4b33-be9f-3089248e34f4.png)`
+- [ ] ![ReminderIntegrations](https://user-images.githubusercontent.com/43663476/153950328-e0e71931-d407-469f-a882-b9566f37399c.png)
+- [ ] `![ControllingBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png)`
+- [ ] `![TriggeringBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966718-f51329cd-5928-4127-9958-42d972882521.png)`
+- [ ] `![ArrangeMode](https://user-images.githubusercontent.com/43663476/154339203-1c30713e-cb53-40c6-8e70-7f75c1dfdee2.png)`
+- [ ] `![ArrangeModeLandscape](https://user-images.githubusercontent.com/43663476/154815196-48e6535f-e740-4c6c- b40b-7db3ab190d27.png)`
+- [ ] `![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)`
+- [ ] `![TipCalculatorLandscape](https://user-images.githubusercontent.com/43663476/154821804-3d6d90b4-76d4-4082-a4dc-7dde5631c296.png)`
+- [ ] `![Sending Drafts from iMessage](https://user-images.githubusercontent.com/43663476/154845607-1dc5e1c5-759a-4030-84ab-d609491f7acb.png)`
+- [ ] [[The LightRedDot Theme by jamiejenkins]]
 
 ## References
 - [ ] [Bookmarks - Drafts User Guide](https://docs.getdrafts.com/docs/settings/bookmarks)
