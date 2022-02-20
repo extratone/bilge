@@ -74,6 +74,10 @@ It’s not much just yet, but if you “[subscribe](https://app.textexpander.com
 
 Christopher R Hannah’s Text Case is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[^4] 
 
+![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)
+
+Without being able to share my own “flows” (unfortunately,) all I can share with you is [this Siri Shortcut](https://www.icloud.com/shortcuts/6fd60faf566142b3b7d1fb0a0631fa1b) which is called from [this Drafts action](https://actions.getdrafts.com/a/1wQ) to reformat selected text (or the entire contents of the current draft) into proper MLA Title format before amending the results to a specific draft. I also created and published a shortcut called “[Speak Word Count](https://routinehub.co/shortcut/11094)” which uses Text Case’s Word Count “format” and [Siri Speech Synthesis](https://bilge.world/siri-tts) to speak aloud the word count of either the current selection (from the share sheet) or the contents currently in the system clipboard.
+
 ## Siri Shortcuts
 
 ![TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)

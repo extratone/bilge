@@ -116,6 +116,7 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] `![RandomTextAction](https://user-images.githubusercontent.com/43663476/153781368-a58bbb73-5675-48d6-9317-3538701a27d1.png)`
 - [ ] `![TextCaseforiOS](https://user-images.githubusercontent.com/43663476/154004997-534ea5c3-ec4c-4f29-90b1-f8e92a7c8224.png)`
 - [x] `![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)`
+- [ ] `![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)`
 
 
 ## Icons
