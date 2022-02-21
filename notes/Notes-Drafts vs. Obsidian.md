@@ -47,7 +47,14 @@
 - [ ] `![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)`
 - [ ] `![TipCalculatorLandscape](https://user-images.githubusercontent.com/43663476/154821804-3d6d90b4-76d4-4082-a4dc-7dde5631c296.png)`
 - [ ] `![Sending Drafts from iMessage](https://user-images.githubusercontent.com/43663476/154845607-1dc5e1c5-759a-4030-84ab-d609491f7acb.png)`
+- [ ] `![Long Press to Change Editor Options](https://user-images.githubusercontent.com/43663476/154864287-4f2d21d5-d332-4e75-8c81-9fb74cde1f70.png)`
 - [ ] [[The LightRedDot Theme by jamiejenkins]]
+
+## Videos
+- [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)
+<video controls>
+  <source src="https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV">
+</video>
 
 ## References
 - [ ] [Bookmarks - Drafts User Guide](https://docs.getdrafts.com/docs/settings/bookmarks)
