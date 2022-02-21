@@ -24,7 +24,7 @@ I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a 
 
 As detailed in the audio account embedded above, I believe my Text Fucking career began somewhere around the 7th grade, at 13-14 years old. It was my second or third time flunking MS02 - the Microsoft Office II course - taken on fairly outdated school desktop machines in the 2007-2008 era, all running Windows XP. Because of some inexplicable ability to simply do what I was told, I would spend class periods trying to create the largest possible text file in Notepad by copying and pasting huge, exponentially growing globs. Eventually, I did crash a machine at least once. Though it could very well be simply the self-exaggerated recollection of preteendom, I even remember crashing the school server with one of those files. They were ginormous for plaintext.
 
-https://twitter.com/draftsapp/status/1492645727729766400
+https://twitter.com/NeoYokel/status/1495487495622045699
 
 My Text Fucking reached its peak proliferation in [the Drywall Era](https://drywallmusic.tumblr.com), when I first discovered the magic of Zalgo Text. The original generator at eemo.net has been replaced by an exact duplicate at [eeemo.net](http://eeemo.net). I have actually managed to successfully duplicate it [on my own NeoCities website](https://davidblue.wtf/zalgo/), as well. You might say that this original Zalgo Generator is The Original Text Fucking Tool. It can still generate quantities of fucked digital text information that *will* Fuck Shit Up on any social network, and as far as I can tell, the entire program is contained within [a single HTML file](https://davidblue.wtf/zalgo/index.html).
 
@@ -37,6 +37,8 @@ https://twitter.com/NeoYokel/status/1493041887279734784
 ## Apps
 
 The core necessity of any good text fucker is a robust text editing and/or word processing application. Zalgo text is a real bitch for Electron apps like my dearest [Typora](https://typora.io), unfortunately. On iOS, this summation also applies to [Obsidian](https://obsidian.md), I’m afraid. I recommend native apps like [Drafts](https://apps.apple.com/us/app/drafts/id1435957248) (big surprise) - which astonishingly has [**its very own native Zalgo action**](https://actions.getdrafts.com/a/1vM) as developer Greg’s [gift to me](https://twitter.com/draftsapp/status/1492645727729766400)! - and [Bear](https://apps.apple.com/us/app/bear-markdown-notes/id1016366447) (no less of a surprise.) In terms of default configuration intensity, the Drafts action hits the sweet spot out of the box.
+
+https://twitter.com/draftsapp/status/1492645727729766400
 
 If you don't believe me, here are some more particularly robust text editors on iOS:
 
