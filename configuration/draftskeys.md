@@ -1,7 +1,6 @@
 # Drafts Keyboard Shortcuts (iOS Export)
-`02132022-061259`
+`02202022-162808`
 - Markdown Capture Selected URL - ⌥O
-- Copy Body - ⇧⌃⌥C
 - Copy Draft Link as MD link - ⇧⌃C
 - Tot5 Draft Link as MD link - ⇧⌃E
 - Append Selection to 7th Tot Dot - ⌃⌥7
@@ -9,12 +8,15 @@
 - Prepend to 7th Tot Dot - ⇧⌥7
 - Tweetbot Selection - ⌥P
 - Post Selection to Mastodon - ⇧⌥P
+- DraftsImageSmall - ⇧⌃⌥I
+- Post to Mastodon - ⇧⌃⌥M
 - DraftsImage - ⇧⌃I
-- Telegram Extratone with Rich Text Copied - ⇧⌃T
+- Telegram Extratone with Rich Text Copied - ⇧⌃G
 - Send to Saved Messages (Telegram) (copy) - ⌃G
 - Drakesville - ⌃M
 - SMS Drakesville - ⌥M
-- Text to Gladys - ⌥G
+- Post to Write.as Blog - ⇧⌃⌥W
+- ~ Town Copy HTML - ⇧⌃⌥C
 - Insert DavodTime™  timestamp. - ⇧⌃⌥T
 - Simplenote - ⇧⌃W
 - Export Psalms Notes - ⇧⌃⌥N
@@ -26,11 +28,14 @@
 - Load The Psalms - ⌥.
 - Preview MMD - ⌥⌘/
 - TAD-Toggle Last Two Modified Drafts - ⇧⇥
+- Store Page URLs - ⇧⌃U
+- Print Text - ⌃⌥P
+- Lookup in Terminology - ⇧⌃D
+- Text Modifier… - ⇧⌥t
 - Zalgos - ⇧⌃Z
 - RandoDraft - ⇧⌃⌥R
-- Text Modifier… - ⇧⌥t
-- Store Page URLs - ⇧⌥S
 - Save to Written folder as .md - ⌥⌘S
+- Create Bear Note From Webpage - ⇧⌃B
 - Markdown Header (#) - ⌃⌘H
 - Markdown Bold (**) - ⌘B
 - Markdown Quotation (>) - ⌃Q
@@ -42,7 +47,6 @@
 - Markdown Footnote (Variation) - ⌃F
 - Strikethrough - ⌃S
 - Copy - ⌃C
-- Print - ⌃⌥P
 - New Draft with Template - ⇧⌘N
 - Clipboard… - ⌥C
 - Find - ⇧⌥F
@@ -51,10 +55,14 @@
 - Save Version - ⇧⌘S
 - Copy Draft Open Link - ⇧⌘E
 - Open URL - ⇧⌃O
+- Synonym - ⌃⌥S
 - Tweet Selection - ⇧⌃⌥P
+- NeoCities HTML Preview - ⌥⌘P
 - Open NeoCities Workspace - ⇧⌃N
 - Format JavaScript - ⌥⌘F
 - Drafts 5 JavaScript API list - ⌘D
+- Clipboard Folder as txt - ⇧⌃⌥⌘C
+- Error - ⇧⌃⌥↓
 - GitHub Issue - ⌃⌥I
 - Refresh TextExpander Snippets - ⇧⌘R
 - TAD-Trash Note - ⌃-
@@ -63,10 +71,8 @@
 - TAD-Search Actions - ⌘/
 - TAD-Duplicate Draft and Load - ⌃D
 - TAD-Prime Preview MMD - ⌃P
-- TAD-Prime Preview GFM - ⌥⌘P
 - TAD-Preview with Marked2 - ⇧⌃P
 - TAD-Update TextExpander - ⌥⌘R
-- TAD-Replace with Synonym - ⌃⌥S
 - Written Workspace - ⌘2
 - Documentation Workspace - ⌘3
 - Hole Workspace - ⌘9
@@ -81,7 +87,9 @@
 - Eight - ⇧⌥2
 - Nine - ⇧⌥3
 - Ten - ⇧⌥4
+- Eleven - ⇧⌥5
+- Twelve - ⇧⌥6
 - Clear Clipboard - ⌥⇥
 - Copy as Rich Text - ⌃⌥C
 - Share as File: Markdown - ⇧⌃S
-- Push Draft to GitHub Repo - ⇧⌃G
+- Push Draft to GitHub Repo - ⌥G
