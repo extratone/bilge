@@ -64,6 +64,7 @@
 - [ ] [DraftsImage](https://twitter.com/NeoYokel/status/1493566818723708933)
 - [ ] [Fuck1](https://twitter.com/NeoYokel/status/1493566606290661376)
 - [ ] [New Groove Clipping Example](https://twitter.com/OutOfContextTRB/status/1479643501402939392)
+- [ ] [Bringing back XD](https://twitter.com/armonte/status/1489327260586983425)
 
 ### Accessibility Poll
 - [Mastodon](https://mastodon.social/@DavidBlue/107589034582138302)

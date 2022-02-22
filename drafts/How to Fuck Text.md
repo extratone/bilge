@@ -2,7 +2,7 @@
 
 ![TextFuckHeaderImage](https://user-images.githubusercontent.com/43663476/153741149-a149b9b4-bb62-47a8-9991-44904bdcfc03.jpeg)
 
-## A guide on digital text fuckery (largely on iOS) from one of the world’s foremost authorities.[[w:null]]
+## A guide on digital text fuckery (largely on iOS) from one of the world’s foremost authorities.
 
 My [project to properly document Bluetooth keyboard support on iPhone](https://uikeycommand.com) has given me a new reverence for accessibility, generally, which might come as a hypocritical statement at the beginning of such a piece, but I *did* [explicitly ask you](https://mastodon.social/@DavidBlue/107589034582138302) if you felt this subject was anti-accessibility before I officially embarked upon writing This Post. I don't consider the answer - a very weak "no" - to be an all-encompassing excuse, whatsoever. If you feel this post's existence has the potential to do real harm, [contact me](https://davidblue.wtf/db.vcf) and I *will* straight up take it down. I dare you. Since I consider myself a genuine authority on Text Fucking, however, I am going to do my best to main unapologetic language when expressing opinions in orbit of the matter. You can trust me, I think.
 
@@ -19,11 +19,25 @@ I won’t share any of your identifying information anywhere, nor will I respond
 
 ![Discerning Yelp Connoisseur](https://i.snap.as/K2E9UV7S.png)
 
-Here’s my definition from [the “Text Fucking” entry](https://github.com/extratone/bilge/wiki/Text-Fucking) in [*The Psalms* wiki](https://github.com/extratone/bilge/wiki):
+Hopefully, we’re now free to get specific. Here’s my definition from [the “Text Fucking” entry](https://github.com/extratone/bilge/wiki/Text-Fucking) in [*The Psalms* wiki](https://github.com/extratone/bilge/wiki):
 
-**Text Fucking** *verb*
+<!-- EMBED : [[u:C91449D3-9926-41A5-B589-64118EC2348F]] -->
+
+# text fucking
+1. **Text Fucking** *verb*
 a.) hardcore text manipulation.
 b.) destruction of usable digital text.
+
+2. **Text Fuckery** *noun*
+the discipline of text fucking.
+
+3. **Text Fuckery** *noun*
+the output... the *result* of the verb.
+<!-- [[u:C91449D3-9926-41A5-B589-64118EC2348F]] : EMBED -->
+
+[[disruption]]
+
+I might also append an esp. in either neutral or constructive applications. Again, a Zalgoed Tweet every once in a while is funny, but mass spamming strangers in peer-to-peer spaces is not. Not funny in any sense. To draw a medium parallel with audio - as I will several times in this guide, you’ll find - genuinely disruptive text manipulation is like choosing to push your pirate radio out on the volunteer-run community station’s frequency instead of the corporate-owned hits channel’s. Any sense you might be doing something worthwhile dramatically vanishes and the possibility of accomplishing something a bit *original*, even, is nullified in the womb.
 
 I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a discipline, nearly. At least enough so that I believe this Post is worth it[^1]. Like most disciplines, it can be used for your particular definitions of “good” and/or “bad.” I would like to think most of my use over the years has been toward my own of “good,” but - as per the unsearchable nature of Fucked Text, generally - this is not easily verifiable or citable. Regardless of my performance, however, I genuinely believe Text Fucking can be an endeavor that leads to more “positive” outcomes, whoever you may be. As I did, you might find yourself with a greater appreciation of and a desire to learn more about those individuals and organizations working in the Accessible Technology industry, ever toward a more inclusive digital future. It’s my hope that the weaponization of such an otherwise banal part of life might empower you with the simple fact of your capabilities, even if you don’t ever choose to actually implement them in a single instance.
 
