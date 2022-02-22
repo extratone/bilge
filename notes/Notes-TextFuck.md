@@ -8,7 +8,7 @@
 - [Zalgo Text in a Keyboard Shortcut](https://bilge.world/drafts-zalgo-action)
 
 ## General
-- [ ] WHEN IM COMIN DINE IN MY FOREIGN AND IM ROLLIN ONE DEEP THAT SHOULD TELL YA BOUT ME and the earliest iOS-native automation. 
+- [x] WHEN IM COMIN DINE IN MY FOREIGN AND IM ROLLIN ONE DEEP THAT SHOULD TELL YA BOUT ME and the earliest iOS-native automation. 
 - [ ] Drywall YouTube Channel, MAWOTAFTIWYAFF, and early auto-tagging.
 
 ## Other Tools
@@ -59,10 +59,11 @@
 - [ ] [TextExpander cross-platform non-advertisement](https://twitter.com/NeoYokel/status/1492588288624017408)
 - [ ] [Full Book Poll](https://twitter.com/NeoYokel/status/1492589668843634692)
 - [ ] [GREGZALGOS](https://twitter.com/draftsapp/status/1492645727729766400)
-- [ ] [Disturbing](https://twitter.com/NeoYokel/status/1492783081593483266)
+- [x] [Disturbing](https://twitter.com/NeoYokel/status/1492783081593483266)
 - [ ] [Clapcase](https://twitter.com/NeoYokel/status/1493568263984500737)
 - [ ] [DraftsImage](https://twitter.com/NeoYokel/status/1493566818723708933)
 - [ ] [Fuck1](https://twitter.com/NeoYokel/status/1493566606290661376)
+- [ ] [New Groove Clipping Example](https://twitter.com/OutOfContextTRB/status/1479643501402939392)
 
 ### Accessibility Poll
 - [Mastodon](https://mastodon.social/@DavidBlue/107589034582138302)
@@ -82,7 +83,7 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
   <source src="https://alt-text-as-poetry.net/assets/2-Context-v2.mp3">
 </audio>
 
-[Alt Text as Poetry](https://alt-text-as-poetry.net/?utm_source=Daily&utm_campaign=3c4988c1e2-tcidaily&utm_medium=email&utm_term=0_3742c429c9-3c4988c1e2-179508230)
+[Alt Text as Poetry](https://alt-text-as-poetry.net/?utm_szource=Daily&utm_campaign=3c4988c1e2-tcidaily&utm_medium=email&utm_term=0_3742c429c9-3c4988c1e2-179508230)
 
 > Alt text is an essential part of web accessibility.
 > It is often disregarded or understood through the lens of compliance, as an unwelcome burden to be met with minimum effort.

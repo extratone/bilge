@@ -2,9 +2,20 @@
 
 ![TextFuckHeaderImage](https://user-images.githubusercontent.com/43663476/153741149-a149b9b4-bb62-47a8-9991-44904bdcfc03.jpeg)
 
-## A guide on digital text fuckery (largely on iOS) from one of the world’s foremost authorities.
+## A guide on digital text fuckery (largely on iOS) from one of the world’s foremost authorities.[[w:null]]
 
 My [project to properly document Bluetooth keyboard support on iPhone](https://uikeycommand.com) has given me a new reverence for accessibility, generally, which might come as a hypocritical statement at the beginning of such a piece, but I *did* [explicitly ask you](https://mastodon.social/@DavidBlue/107589034582138302) if you felt this subject was anti-accessibility before I officially embarked upon writing This Post. I don't consider the answer - a very weak "no" - to be an all-encompassing excuse, whatsoever. If you feel this post's existence has the potential to do real harm, [contact me](https://davidblue.wtf/db.vcf) and I *will* straight up take it down. I dare you. Since I consider myself a genuine authority on Text Fucking, however, I am going to do my best to main unapologetic language when expressing opinions in orbit of the matter. You can trust me, I think.
+
+It’s already as good a place as any, editorially, to initiate the goddamned “*good vs. evil*” discussion because we could very easily find ourselves sincerely addressing the class implications of Text Fucking, otherwise. I want to offer myself, fully, as your test target and/or guinea pig, if you will. If you’re looking for a phone number upon which to set the sights of any of the methodologies shared here (or otherwise, for that matter,) here is mine: **+1 (573) 823-4380**. If you’re on a mobile device, definitely try out [this link to my full contact card](https://davidblue.wtf/db.vcf), and consider this brief list of some other potential targets of mine:
+
+- [Telegram](https://t.me/extratone)
+- [Email](mailto:davidblue@extratone.com) 
+- [Twitter](https://twitter.com/NeoYokel)
+- [Mastodon](https://mastodon.social/@DavidBlue)
+- [Discord](https://discord.gg/0b9KQUKP858b0iZF)
+- [*Everywhere*](https://raindrop.io/davidblue/social-directory-21059174)...
+
+I won’t share any of your identifying information anywhere, nor will I respond unless you ask, but I *guarantee* I *will* be utterly delighted to receive any volume of Fuckery in any inbox you’re capable of sending it to because I have been so at the half-dozen or so message strings I’ve received over the past few weeks. Even if you somehow manage to find a means of *un*delighting me, that would be a far better scenario for all involved parties than my catching word you used one of my shortcuts to send *Mein Kampf* to a prayer request line or some shit. I promise it will always be more fun to shoot for *constructive disruption* over edgy bullshit, especially in this New Age when nothing is certain and nobody is talking. As much as the person who wrote the Yelp! review, below, would’ve loved to advocate for contribution to the noise for the simple sake of it, he’s fucking dead.
 
 ![Discerning Yelp Connoisseur](https://i.snap.as/K2E9UV7S.png)
 
@@ -27,8 +38,6 @@ As detailed in the audio account embedded above, I believe my Text Fucking caree
 https://twitter.com/NeoYokel/status/1495487495622045699
 
 My Text Fucking reached its peak proliferation in [the Drywall Era](https://drywallmusic.tumblr.com), when I first discovered the magic of Zalgo Text. The original generator at eemo.net has been replaced by an exact duplicate at [eeemo.net](http://eeemo.net). I have actually managed to successfully duplicate it [on my own NeoCities website](https://davidblue.wtf/zalgo/), as well. You might say that this original Zalgo Generator is The Original Text Fucking Tool. It can still generate quantities of fucked digital text information that *will* Fuck Shit Up on any social network, and as far as I can tell, the entire program is contained within [a single HTML file](https://davidblue.wtf/zalgo/index.html).
-
-==https://twitter.com/NeoYokel/status/1492783081593483266== REPLACE
 
 As Drywall’s first and second albums - “[Hamura](https://ihadtopee.bandcamp.com/album/hamura)” and “[Suburban Anarchy](https://ihadtopee.bandcamp.com/album/suburban-anarchy),” respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Zalgo Text was the digital text equivalent. In fact, I couldn’t have imagined a more apt way to describe it. *Beyond The Rails* was my cringey “label” name, directly describing this phenomenon. Indeed, Zalgo Text goes beyond the “rails” of text input/display fields reliably, depending on the intensity of the configuration you’re using to create it. 
 
@@ -70,6 +79,18 @@ Another cross-platform application - this one [extending to Windows](https://tex
 
 It’s not much just yet, but if you “[subscribe](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)” to this snippet group from your own account, you’ll be treated to whatever I come up with in the future, delivered to your devices in real time. If you find yourself trying it out, you may as well check out my main Snippet Group, [Extratext](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb), which is documented [here](https://davidblue.wtf/extratext). 
 
+![COMIN DINE](https://user-images.githubusercontent.com/43663476/154876382-95749054-1a47-4dec-9e4d-0c2e1229f79e.png)
+
+## Automation
+
+Debatably, my personal history with automation began with the release of IFTT (now IFTTT) somewhere around 2010-2011. Once it was integrated with Twitter and Evernote, I set it to save all of my Twitter favorites in separate, tagged Evernotes. The result was quite tremendous, as you might imagine, and is partially immortalized in my current [Twitter Raindrop collection](https://raindrop.io/davidblue/twitter-13759854). Tremendous, but not in a Text Fucking sense. Sometime just after high school, though, I configured an IFTT recipe that posted “WHEN IM COMIN DINE IN MY FOREIGN AND IM ROLLIN ONE DEEP THAT SHOULD TELL YA BOUT ME” across my social networks, every morning at 6:10 AM.
+
+https://twitter.com/NeoYokel/status/1492783081593483266
+
+It was in the same era that one of my handful of lifetime genius ideas came to me: it occurred to me that I could automate [the Drywall Tumblr page](https://drywallmusic.tumblr.com) entirely by signing up its “post via email” address for all the spam lists I could find. The result is axiomatic. It is also Text Fucking, emphatically. Though I certainly didn’t know it by the name “automation,” then - nor did I associate the term with anything digital, really - contemporary personal automation enables virtually infinite Text Fucking possibilities. No longer does one have to manually copy the entirety of a huge Wikipedia page in order to break their friend’s phone for 5 days - now, they need only configure a native app on their cellular telephone to send [the whole of the *Spy Kids 3* screenplay](https://routinehub.co/shortcut/10919), for instance, to said friend, in the background, even, as they continue scrolling through the Ticking App.
+
+Of course, while the means of *distributing* Text Fuckery have gotten vastly more robust, capable, and sophisticated, so too have the terminals by which intended targets *experience* the Fuckery. The friend’s handset and elemental carrier plan in our example may very well be perfectly capable of receiving an entire film script, line-by-line, also in the background, perhaps even without the target ever noticing or suffering a single consequence. 
+
 ![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)
 
 ### Text Case
@@ -88,7 +109,7 @@ I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17
 ᴉ┴ 👏 ∀ɔʇs 👏 nԀou 👏  👏  👏 ∀up 👏 ɹƎd˥ɐɔǝs 👏  👏  👏 ∀u⅄ 👏 ┴Ǝx┴ 👏 ⅄On’Λǝ 👏 ɔoԀIǝp 👏 ┴o 👏 ʇɥǝ 👏 ɔlᴉdqo∀ɹp
 ```
 
-## Siri Shortcuts
+### Siri Shortcuts
 
 ![TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)
 
