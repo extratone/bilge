@@ -17,7 +17,8 @@
 - [ ] Still much much more out of the box because it is so in a different way - I keep discovering things Drafts will do for me instead of something else, but better, where I feel like Obsidian is all about finding more stuff to do.
 - [ ] Using draft_open_links and Tot, I have created my own dashboard outside of Drafts, which works especially beautifully on macOS.
 - [ ] Instant synonyms with `^⌥S` calling Stephen Millard’s `TAD-Replace With Synonym` action. (As part of [ThoughtAsylum-Writing Action Group](https://actions.getdrafts.com/g/1cu))
-- [ ] In essence, I’m just worried. 
+- [ ] In essence, I’m just worried.
+- [ ] Backwards compatibility!
 
 ## Misc
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
@@ -28,9 +29,10 @@
 - [another advantage of Drafts being Native as Fuck… this action runs entirely in the background.](https://twitter.com/NeoYokel/status/1490748762779791360)
 - [Switching between drafts with numeric keyboard shortcuts](https://twitter.com/NeoYokel/status/1492567120336535552)
 - [Wide Boy](https://twitter.com/NeoYokel/status/1493380856223838215)
+- [Greg’s Drafts 31 Tweet](https://twitter.com/agiletortoise/status/1495240934556057605)
 
 ## Images
-- [x] ![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)
+- [x] `![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)`
 - [ ] `![BookmarksinDrafts](https://user-images.githubusercontent.com/43663476/153778986-a9a33a80-12a3-4042-8941-2e2d5e427703.png)`
 - [x] `![Black&YellowTheme](https://user-images.githubusercontent.com/43663476/153780995-5b7ac09d-4c21-4e61-b1ba-163ce106fb01.png)`
 - [ ] `![FullSerifMode](https://user-images.githubusercontent.com/43663476/153918963-22bee968-92ac-441c-8535-e90c4658840c.png)`
@@ -40,20 +42,28 @@
 - [ ] `![Autocomplete](https://user-images.githubusercontent.com/43663476/153939600-e26cd8eb-b78f-4d67-a5fb-993b508830f9.png)`
 - [ ] `![TerminologyIntegration](https://user-images.githubusercontent.com/43663476/153948463-31435ed0-76e7-4b33-be9f-3089248e34f4.png)`
 - [ ] ![ReminderIntegrations](https://user-images.githubusercontent.com/43663476/153950328-e0e71931-d407-469f-a882-b9566f37399c.png)
-- [ ] `![ControllingBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png)`
+- [x] `![ControllingBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966641-fad3a074-4938-4cef-b1c8-ed900cd8599c.png)`
 - [ ] `![TriggeringBearfromDrafts](https://user-images.githubusercontent.com/43663476/153966718-f51329cd-5928-4127-9958-42d972882521.png)`
 - [ ] `![ArrangeMode](https://user-images.githubusercontent.com/43663476/154339203-1c30713e-cb53-40c6-8e70-7f75c1dfdee2.png)`
 - [ ] `![ArrangeModeLandscape](https://user-images.githubusercontent.com/43663476/154815196-48e6535f-e740-4c6c- b40b-7db3ab190d27.png)`
 - [ ] `![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)`
-- [ ] `![TipCalculatorLandscape](https://user-images.githubusercontent.com/43663476/154821804-3d6d90b4-76d4-4082-a4dc-7dde5631c296.png)`
+- [x] `![TipCalculatorLandscape](https://user-images.githubusercontent.com/43663476/154821804-3d6d90b4-76d4-4082-a4dc-7dde5631c296.png)`
 - [ ] `![Sending Drafts from iMessage](https://user-images.githubusercontent.com/43663476/154845607-1dc5e1c5-759a-4030-84ab-d609491f7acb.png)`
 - [ ] `![Long Press to Change Editor Options](https://user-images.githubusercontent.com/43663476/154864287-4f2d21d5-d332-4e75-8c81-9fb74cde1f70.png)`
+- [ ] `![Find & Replace with Regular Expressions](https://user-images.githubusercontent.com/43663476/154865771-47d8565b-424f-477e-b664-770a1b0d2fb1.png)`
 - [ ] [[The LightRedDot Theme by jamiejenkins]]
+- [ ] `![Bellelle Dark Theme](https://user-images.githubusercontent.com/43663476/155053127-40026c08-e839-4ec3-996e-3ed0660a8a2d.png)`
+- [ ] `![Grey and Orange Theme](https://user-images.githubusercontent.com/43663476/155100185-b8270067-abb4-4735-825d-c70cd2ee4d53.png)`
+- [ ] `![Grey and Orange Theme](https://user-images.githubusercontent.com/43663476/155100214-407d1546-3ce0-46ef-b2c7-7702fc18f0f4.png)`
 
 ## Videos
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)
 <video controls>
   <source src="https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV">
+</video>
+- [Arrange Mode Demo](https://imgur.com/gallery/6NdIiVJ)
+<video controls>
+  <source src="https://user-images.githubusercontent.com/43663476/155023319-c031aa8c-706e-442c-a5a6-59d0adf95e03.MOV">
 </video>
 
 ## References
