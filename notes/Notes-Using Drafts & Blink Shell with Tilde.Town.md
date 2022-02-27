@@ -5,9 +5,13 @@
 - [["Tilde.Club: I had a couple drinks and woke up with 1,000 nerds"]]
 - [Simplenote Preview](http://simp.ly/publish/bx24Cq)
 
+## General
+- You can lock the phone with the external display running, but it won’t update, even with mosh and `geo` on.
+
 ## Documentation
 - [[FEELS MANUAL]] ...if only it wasn’t called *feels*
 - [^ on Tilde](https://tilde.town/~extratone/manual/feels/)
+- [UNIX Command Line Tools Roundup | Blink Shell](https://docs.blink.sh/advanced/unix-roundup)
 
 ## Images
 - [ ] `![BlinktoTilde](https://tilde.town/~extratone/images/blinktotilde.png)`
@@ -28,6 +32,7 @@
 - [ ] ![geo Landscape](https://user-images.githubusercontent.com/43663476/155102101-a24813fa-7db2-44f4-b4e7-46f8e0680d40.png)
 - [ ] ![bbj Read Portrait](https://user-images.githubusercontent.com/43663476/155115451-2025e581-b7a4-45b0-b61f-6927ad9f55fb.png)
 - [ ] ![Blink Notification Landscape](https://user-images.githubusercontent.com/43663476/155115556-f62e786a-6fa8-43e5-ba53-e9c9c30144cb.png)
+- [ ] ![Tomorrow Night Blue](https://user-images.githubusercontent.com/43663476/155212433-f65f34b4-952d-4f78-a6cf-8d99d4374b87.png)
 
 ### Town Mail
 

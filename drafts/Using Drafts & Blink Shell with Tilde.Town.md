@@ -24,7 +24,7 @@ Now, in order to connect, all I need do is run the command `ssh Tilde.Town`. Wha
 
 ![Adding Files App Locations in Blink](https://user-images.githubusercontent.com/43663476/154846342-b9d49f30-61c4-438d-8886-0414951807f6.png)
 
-From my perspective, [Blink’s documentation regarding the addition of Files App locations](https://docs.blink.sh/advanced/files-app) in the “Hosts” menus is a bit misleading. “Just flip the switch” is more or less accurate, but regrettably, the sort of “integration” Blink allows doesn’t actually lend toward moving files between other iOS file providers, nor does it allow much access from other apps like [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) and Drafts.
+From my perspective, [Blink’s documentation regarding the addition of Files App locations](https://docs.blink.sh/advanced/files-app) in the “Hosts” menus is a bit misleading. “Just flip the switch” is more or less accurate, but regrettably, the sort of “integration” Blink allows doesn’t actually lend toward moving files between other iOS file providers, nor does it allow much access from other apps like [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) and Drafts, not to mention Shortcuts. 
 
 ![Blink File Providers](https://user-images.githubusercontent.com/43663476/154846662-df10d713-6f54-46d2-8fb9-d1f77d42b14e.png)
 
