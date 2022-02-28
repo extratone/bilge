@@ -1,6 +1,10 @@
 # Drafts Keyboard Shortcuts (iOS Export)
-`02202022-162808`
-- Markdown Capture Selected URL - ⌥O
+`02282022-155735`
+- **Toggle Editing Mode** - ⌘ Return
+- **Toggle Flagged** - ⌘ ⇧ L
+- **Quick Search** - ⌘ ⇧ F
+- **Quick Navigation** - ⌘ \
+- **Markdown Capture Selected** URL - ⌥O
 - Copy Draft Link as MD link - ⇧⌃C
 - Tot5 Draft Link as MD link - ⇧⌃E
 - Append Selection to 7th Tot Dot - ⌃⌥7
@@ -22,57 +26,57 @@
 - Export Psalms Notes - ⇧⌃⌥N
 - Export Psalms Drafts - ⇧⌃⌥D
 - Keyboard Shortcuts Export - ⇧⌃K
-- Selection Word Count - ⌃W
+- **Selection Word Count** - ⌃W
 - Draft Info - ⌃I
 - Dark/Light Toggle - ⇧⌃L
-- Load The Psalms - ⌥.
-- Preview MMD - ⌥⌘/
-- TAD-Toggle Last Two Modified Drafts - ⇧⇥
-- Store Page URLs - ⇧⌃U
+- **Load The Psalms** - ⌥.
+- **Preview MMD** - ⌥⌘/
+- **TAD-Toggle Last Two Modified Drafts** - ⇧⇥
+- **Store Page URLs** - ⇧⌃U
 - Print Text - ⌃⌥P
-- Lookup in Terminology - ⇧⌃D
-- Text Modifier… - ⇧⌥t
+- **Lookup in Terminology** - ⇧⌃D
+- **Text Modifier…** - ⇧⌥t
 - Zalgos - ⇧⌃Z
-- RandoDraft - ⇧⌃⌥R
+- **RandoDraft** - ⇧⌃⌥R
 - Save to Written folder as .md - ⌥⌘S
-- Create Bear Note From Webpage - ⇧⌃B
-- Markdown Header (#) - ⌃⌘H
+- **Create Bear Note From Webpage** - ⇧⌃B
+- **Markdown Header (#)** - ⌃⌘H
 - Markdown Bold (**) - ⌘B
-- Markdown Quotation (>) - ⌃Q
-- Code Block (```) - ⌃⌘C
+- **Markdown Quotation (>)** - ⌃Q
+- **Code Block (```)** - ⌃⌘C
 - Markdown Emphasis (*) - ⌘I
 - Markdown List - ⌃L
 - Markdown Link - ⌘K
 - Replace URLs by MD links - ⇧⌘U
 - Markdown Footnote (Variation) - ⌃F
-- Strikethrough - ⌃S
+- **Strikethrough** - ⌃S
 - Copy - ⌃C
 - New Draft with Template - ⇧⌘N
-- Clipboard… - ⌥C
-- Find - ⇧⌥F
+- **Clipboard…** - ⌥C
+- ~~Find - ⇧⌥F~~
 - Tasks - ⌃T
-- Copy Tags - ⌃⌥T
+- **Copy Tags** - ⌃⌥T
 - Save Version - ⇧⌘S
-- Copy Draft Open Link - ⇧⌘E
+- **Copy Draft Open Link** - ⇧⌘E
 - Open URL - ⇧⌃O
-- Synonym - ⌃⌥S
+- **Synonym** - ⌃⌥S
 - Tweet Selection - ⇧⌃⌥P
 - NeoCities HTML Preview - ⌥⌘P
 - Open NeoCities Workspace - ⇧⌃N
-- Format JavaScript - ⌥⌘F
-- Drafts 5 JavaScript API list - ⌘D
-- Clipboard Folder as txt - ⇧⌃⌥⌘C
+- ~~Format JavaScript - ⌥⌘F~~
+- ~~Drafts 5 JavaScript API list - ⌘D~~
+- **Clipboard Folder as txt** - ⇧⌃⌥⌘C
 - Error - ⇧⌃⌥↓
-- GitHub Issue - ⌃⌥I
+- **GitHub Issue** - ⌃⌥I
 - Refresh TextExpander Snippets - ⇧⌘R
 - TAD-Trash Note - ⌃-
 - TAD-Load Previous Workspace - ⇧⌥⌘⇥
 - TAD-Load Next Workspace - ⌥⌘⇥
 - TAD-Search Actions - ⌘/
 - TAD-Duplicate Draft and Load - ⌃D
-- TAD-Prime Preview MMD - ⌃P
+- **TAD-Prime Preview MMD** - ⌃P
 - TAD-Preview with Marked2 - ⇧⌃P
-- TAD-Update TextExpander - ⌥⌘R
+- ~~TAD-Update TextExpander - ⌥⌘R~~
 - Written Workspace - ⌘2
 - Documentation Workspace - ⌘3
 - Hole Workspace - ⌘9
@@ -91,5 +95,5 @@
 - Twelve - ⇧⌥6
 - Clear Clipboard - ⌥⇥
 - Copy as Rich Text - ⌃⌥C
-- Share as File: Markdown - ⇧⌃S
-- Push Draft to GitHub Repo - ⌥G
+- **Share as File: Markdown** - ⇧⌃S
+- **Push Draft to GitHub Repo** - ⌥G
