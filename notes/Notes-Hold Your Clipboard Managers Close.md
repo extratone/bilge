@@ -8,9 +8,11 @@
 > **Unfortunately, Copied has been removed from the App Store due to a patent infringement claim. I’m not sure if it will be temporary or permanent yet. Please request a refund from the App Store.**
 > Kevin
 
-![CopiedFolder](https://user-images.githubusercontent.com/43663476/148679892-8779aba1-bf02-4e51-aca6-ba5b52b18cb9.png)
+## Images
 
-![Copied](https://user-images.githubusercontent.com/43663476/148679894-abd9bed6-6030-4f3a-9509-23dc95cfcbf8.png)
+- [ ] ![CopiedFolder](https://user-images.githubusercontent.com/43663476/148679892-8779aba1-bf02-4e51-aca6-ba5b52b18cb9.png)
+- [ ] ![Copied](https://user-images.githubusercontent.com/43663476/148679894-abd9bed6-6030-4f3a-9509-23dc95cfcbf8.png)
+- [ ] `![Paste Hex Colors](https://user-images.githubusercontent.com/43663476/155983735-0d7ee9cc-99e5-43b7-b06d-5a24b6e7d2a6.png)`
 
 ## References
 [[MacStories on Copied]]
