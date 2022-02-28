@@ -5,6 +5,8 @@
 
 ## Native As Fuck might be out of style, but who can afford redundancy? Not I.
 
+<!--more-->
+
 Undoubtedly, the most creatively productive person in my family is my brother-in-law, [Carlos Gabriel Ruiz](https://twitter.com/los_gabriel), who somehow manages to take care of a houseold, raise a preteen son, work a full-time iOS dev job of the most tedious, high-grade sort, *and* churn out [visual and written work](https://www.carlosgabrielruiz.com) on a regular basis. Have *you* ever seen quite so many vertical bars in a personal site title? I don’t think *I* have, and I know they’re legitimate. Something he told me last year has been on my mind nearly every day, since: his preferred word processor is Ye Olde FinalDraft, in which he still uses the same templates he configured in college. (That was quite a while ago.) I’ve thought about it just about every day, since, as I’ve spent an inquantifiable amount of time Just Fucking Around with my “workflow,” and reading other professional accounts of Just Fucking Around with workflows[^1] these past eighteen months. Do I spend more time configuring my writing spaces than *actually writing* because I have nothing to say? (I’m going to be interspersing embedded screenshots throughout this post that may or may not have something to do with the nearby contents. Sorry, I just captured far too many.)
 
 ![Black&YellowTheme](https://user-images.githubusercontent.com/43663476/153780995-5b7ac09d-4c21-4e61-b1ba-163ce106fb01.png)
@@ -55,16 +57,30 @@ For instance, with a single keyboard shortcut (`^M`,) I can send the full conten
 
 ![Sending Drafts from iMessage](https://user-images.githubusercontent.com/43663476/154845607-1dc5e1c5-759a-4030-84ab-d609491f7acb.png)
 
-If I couldn’t be bothered with configuring my own actions, I could use the aforementioned iMessage App to send whole drafts to whomever. (I just noticed that even *it* reflects the current theme.) Note in the screenshot embedded above the header that one can not only *send* draft contents to [Bear](https://apps.apple.com/us/app/bear-markdown-notes/id1016366447), but they can actually *command* virtually all of the configurable editor settings from within Drafts. This is enabled via the also aforementioned URL scheme and x-callback-url support in Drafts.
+If I couldn’t be bothered with configuring my own actions, I could use the aforementioned iMessage App to send whole drafts to whomever. (I just noticed that even *it* reflects the current theme.) Note in the screenshot embedded above the header that one can not only *send* draft contents to [Bear](https://apps.apple.com/us/app/bear-markdown-notes/id1016366447), but they can actually *command* virtually all of the configurable editor settings from within Drafts. This is enabled via the also aforementioned URL scheme and x-callback-url support in Drafts. 
+
+![Terminology Draft](https://user-images.githubusercontent.com/43663476/155904725-8489c896-adfc-4f43-8901-eb897ab998e4.png)
+
+Similarly is Drafts’ integration with another Agile Tortoise app, [Terminology Dictionary](https://apps.apple.com/us/app/terminology-dictionary/id687798859). As I noted in my [App Store review](https://tilde.town/~extratone/appreviews/terminology), I’ve set up a ridiculously easy and enjoyable integration involving a keyboard shortcut (^⇧D) to send selected words to Terminology, where I have set up a button in the primary top bar with the default “Drafts (definitions)” action, relying on this scheme:
+
+`drafts://create?text=[[definitions]]%0A[[note]]`
+
+This creates a new draft of a given term with its definitions, along with any notes I’ve entered to accompany it. (An example result is shown in the screenshot embedded above.) Crucially - as I also mentioned the aforelinked review - Terminology allows me to enter *my own terms* that may or may not necessarily return from established dictionaries, this way, as shown below:
+
+![aforelinked in Terminology](https://user-images.githubusercontent.com/43663476/155905726-ffa126d6-ccb5-497f-a80c-51ba457b1330.png)
 
 
 ![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)
 
 ## System/Working Copy Folder Access
 
-With my current Drafts setup, I need only hit `⇧^⌥D` to push my current draft to *The Psalms*’ [drafts folder](https://github.com/extratone/bilge/tree/main/drafts/) in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) - the golden standard iOS Git client. The same applies with the keyboard shortcut `⇧^⌥N` and the corresponding notes draft and the [/notes repo folder](https://github.com/extratone/bilge/tree/main/notes/). On my iPhone, I’m currently switching back and forth between these using `⌥3` and `⌥4`, respectfully. If you’d like to see, here are those two (unlisted actions) on the Drafts Action Directory: [Export Psalms Drafts](https://actions.getdrafts.com/a/1wL) & [Export Psalms Notes](https://actions.getdrafts.com/a/1wM). 
+With my current Drafts setup, I need only hit `⇧^⌥D` to push my current draft to *The Psalms*’ [drafts folder](https://github.com/extratone/bilge/tree/main/drafts/) in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) - the golden standard iOS Git client. The same applies with the keyboard shortcut `⇧^⌥N` and the corresponding notes draft and the [/notes repo folder](https://github.com/extratone/bilge/tree/main/notes/). On my iPhone, I’m currently switching back and forth between these using `⌥3` and `⌥4`, respectfully. If you’d like to see, here are those two (unlisted actions) on the Drafts Action Directory: [Export Psalms Drafts](https://actions.getdrafts.com/a/1wL) & [Export Psalms Notes](https://actions.getdrafts.com/a/1wM). I also have [an action](https://actions.getdrafts.com/a/1wN) that saves to a root iCloud Drive folder as a .md file called “Written” with the keyboard command `⌥⌘S`.
 
-I also have [an action](https://actions.getdrafts.com/a/1wN) that saves to root iCloud Drive folder called “Written” with the keyboard command `⌥⌘S`. 
+## Theming 
+
+Some of Obsidian’s themes are quite gorgeous, no doubt, but - once again - there’s nothing quite like those of a *native app* to get the stylistic hunger going. I must admit my knowledge of the theme creation process for Obsidian is virtually nill, but I think it’s indicative of Drafts’ malleability that I was able to create [such beautiful themes](https://extratone.github.io/drafts/) with zero knowledge of anything but CSS and [the handiest JSON manipulation tool, anywhere](https://apps.apple.com/us/app/jayson/id1468691718). 
+
+---
 
 [1] Usually of a much more directed sort.
 [2] Yes, a real shot. I promise.

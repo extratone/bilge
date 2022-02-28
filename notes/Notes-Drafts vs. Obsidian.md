@@ -19,6 +19,8 @@
 - [ ] Instant synonyms with `^⌥S` calling Stephen Millard’s `TAD-Replace With Synonym` action. (As part of [ThoughtAsylum-Writing Action Group](https://actions.getdrafts.com/g/1cu))
 - [ ] In essence, I’m just worried.
 - [ ] Backwards compatibility!
+- [ ] Launching webpages from my Test note because of TextExpander integration.
+- [ ] How easy it was to [repair the TAD issue](https://forums.getdrafts.com/t/script-error-syntaxerror-json-parse-error-unexpected-identifier-drafts-line-number-53-column-35/12187).
 
 ## Misc
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
@@ -55,6 +57,8 @@
 - [ ] `![Bellelle Dark Theme](https://user-images.githubusercontent.com/43663476/155053127-40026c08-e839-4ec3-996e-3ed0660a8a2d.png)`
 - [ ] `![Grey and Orange Theme](https://user-images.githubusercontent.com/43663476/155100185-b8270067-abb4-4735-825d-c70cd2ee4d53.png)`
 - [ ] `![Grey and Orange Theme](https://user-images.githubusercontent.com/43663476/155100214-407d1546-3ce0-46ef-b2c7-7702fc18f0f4.png)`
+- [x] `![Terminology Draft](https://user-images.githubusercontent.com/43663476/155904725-8489c896-adfc-4f43-8901-eb897ab998e4.png)`
+- [x] `![aforelinked in Terminology](https://user-images.githubusercontent.com/43663476/155905726-ffa126d6-ccb5-497f-a80c-51ba457b1330.png)`
 
 ## Videos
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)
