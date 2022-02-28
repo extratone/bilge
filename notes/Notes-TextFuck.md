@@ -1,5 +1,6 @@
 # Notes-TextFuck
 - [[How to Fuck Text]]
+- [[Principles of Text Fucking]]
 - [How to Fuck Text · Issue #222 · extratone/bilge](https://github.com/extratone/bilge/issues/222)
 - [An Oral History of David Blue - Digital Text Menace](https://whyp.it/t/an-oral-history-of-david-blue-digitext-menace-e3yX9) - Whyp
 - [⨃🄝ɨ∁ɧ⍙℟ for iOS Review](https://bilge.world/unichar-for-ios-app-review)
@@ -139,3 +140,6 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 
 ## References
 - [ ] [Clipping (audio) - Wikipedia](https://en.m.wikipedia.org/wiki/Clipping_(audio))
+- [ ] [Review: TextExpander Touch 2 a typing timesaver for iOS](https://www.macworld.com/article/221252/review-textexpander-touch-2-a-typing-timesaver-for-ios.html) | *MacWorld*
+- [ ] [[“Review: TextExpander Touch 2 a typing timesaver for iOS”]]
+- [ ] 
