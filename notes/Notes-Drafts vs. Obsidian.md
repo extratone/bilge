@@ -18,9 +18,10 @@
 - [ ] Using draft_open_links and Tot, I have created my own dashboard outside of Drafts, which works especially beautifully on macOS.
 - [ ] Instant synonyms with `^⌥S` calling Stephen Millard’s `TAD-Replace With Synonym` action. (As part of [ThoughtAsylum-Writing Action Group](https://actions.getdrafts.com/g/1cu))
 - [ ] In essence, I’m just worried.
-- [ ] Backwards compatibility!
+- [ ] Backwards compatibility! - I was able to sync all ~1600 drafts in my library + themes + actions in around 5 minutes on an eight-year-old iPad Air.
 - [ ] Launching webpages from my Test note because of TextExpander integration.
 - [ ] How easy it was to [repair the TAD issue](https://forums.getdrafts.com/t/script-error-syntaxerror-json-parse-error-unexpected-identifier-drafts-line-number-53-column-35/12187).
+- [ ] Posting to WordPress/Medium with a single step.
 
 ## Misc
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
@@ -32,6 +33,7 @@
 - [Switching between drafts with numeric keyboard shortcuts](https://twitter.com/NeoYokel/status/1492567120336535552)
 - [Wide Boy](https://twitter.com/NeoYokel/status/1493380856223838215)
 - [Greg’s Drafts 31 Tweet](https://twitter.com/agiletortoise/status/1495240934556057605)
+- [Backwards compatibility Tweet](https://twitter.com/NeoYokel/status/1498412135268982784)
 
 ## Images
 - [x] `![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)`
@@ -40,7 +42,7 @@
 - [ ] `![FullSerifMode](https://user-images.githubusercontent.com/43663476/153918963-22bee968-92ac-441c-8535-e90c4658840c.png)`
 - [ ] `![HalfSerifMode](https://user-images.githubusercontent.com/43663476/153919115-6d34655e-ed9e-4d28-b3e4-55b136d8ba37.png)`
 - [ ] `![ArrangeMode](https://user-images.githubusercontent.com/43663476/153938891-ff5312ba-31d4-415f-88e4-e3e14925575f.png)`
-- [ ] `![SynonymsWithaKeyboardShortcut](https://user-images.githubusercontent.com/43663476/153939391-c92f75c1-1313-4ead-96fa-c6ef0927a59d.png)`
+- [ ] ![SynonymsWithaKeyboardShortcut](https://user-images.githubusercontent.com/43663476/153939391-c92f75c1-1313-4ead-96fa-c6ef0927a59d.png)
 - [ ] `![Autocomplete](https://user-images.githubusercontent.com/43663476/153939600-e26cd8eb-b78f-4d67-a5fb-993b508830f9.png)`
 - [ ] `![TerminologyIntegration](https://user-images.githubusercontent.com/43663476/153948463-31435ed0-76e7-4b33-be9f-3089248e34f4.png)`
 - [ ] ![ReminderIntegrations](https://user-images.githubusercontent.com/43663476/153950328-e0e71931-d407-469f-a882-b9566f37399c.png)
@@ -59,6 +61,9 @@
 - [ ] `![Grey and Orange Theme](https://user-images.githubusercontent.com/43663476/155100214-407d1546-3ce0-46ef-b2c7-7702fc18f0f4.png)`
 - [x] `![Terminology Draft](https://user-images.githubusercontent.com/43663476/155904725-8489c896-adfc-4f43-8901-eb897ab998e4.png)`
 - [x] `![aforelinked in Terminology](https://user-images.githubusercontent.com/43663476/155905726-ffa126d6-ccb5-497f-a80c-51ba457b1330.png)`
+- [x] `![LookUp Failure](https://user-images.githubusercontent.com/43663476/155922296-4c00c372-8b79-4dfd-b421-5d718845a782.png)`
+- [ ] `![Written Folder](https://user-images.githubusercontent.com/43663476/155971770-907a90aa-c955-4928-bbad-6cd1a61216ea.png)`
+- [ ] `![Quick Navigation](https://user-images.githubusercontent.com/43663476/156029543-89c96f8f-0a23-4434-8514-a6e8349bb565.png)`
 
 ## Videos
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)

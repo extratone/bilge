@@ -69,16 +69,35 @@ This creates a new draft of a given term with its definitions, along with any no
 
 ![aforelinked in Terminology](https://user-images.githubusercontent.com/43663476/155905726-ffa126d6-ccb5-497f-a80c-51ba457b1330.png)
 
+This is contrasted with the popular app [LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448) (which I also own,) which only allows one to save terms returned from search. Obviously, this doesn’t exclude entering words by way of [its Shortcuts action](https://www.icloud.com/shortcuts/09609fefe91340e0b4f07df5b332cafc), which makes said action virtually useless, from my view.
+
+![LookUp Failure](https://user-images.githubusercontent.com/43663476/155922296-4c00c372-8b79-4dfd-b421-5d718845a782.png)
+
+While we’re on the subject of dictionaries - one of my favorites from [Stephen Millard’s ThoughtAsylum action library](https://www.thoughtasylum.com/tadpole/) is `Replace with Synonym`, which I’ve tied to `^⌥S`. On either a selected word or a single-word draft, keying this shortcut brings up the prompt shown in the screenshot embedded below:
+
+![SynonymsWithaKeyboardShortcut](https://user-images.githubusercontent.com/43663476/153939391-c92f75c1-1313-4ead-96fa-c6ef0927a59d.png)
+
+I’m assuming the action uses the iOS system dictionary, which is great, but deserves an app in and of itself as it has on macOS, in my opinion.
 
 ![ExportPsalmsActionsLandscape](https://user-images.githubusercontent.com/43663476/154817269-0713a89d-d1a0-46a1-b2ed-57a84abddff8.png)
 
 ## System/Working Copy Folder Access
 
-With my current Drafts setup, I need only hit `⇧^⌥D` to push my current draft to *The Psalms*’ [drafts folder](https://github.com/extratone/bilge/tree/main/drafts/) in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) - the golden standard iOS Git client. The same applies with the keyboard shortcut `⇧^⌥N` and the corresponding notes draft and the [/notes repo folder](https://github.com/extratone/bilge/tree/main/notes/). On my iPhone, I’m currently switching back and forth between these using `⌥3` and `⌥4`, respectfully. If you’d like to see, here are those two (unlisted actions) on the Drafts Action Directory: [Export Psalms Drafts](https://actions.getdrafts.com/a/1wL) & [Export Psalms Notes](https://actions.getdrafts.com/a/1wM). I also have [an action](https://actions.getdrafts.com/a/1wN) that saves to a root iCloud Drive folder as a .md file called “Written” with the keyboard command `⌥⌘S`.
+With my current Drafts setup, I need only hit `⇧^⌥D` to push my current draft to *The Psalms*’ [drafts folder](https://github.com/extratone/bilge/tree/main/drafts/) in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) - the golden standard iOS Git client. The same applies with the keyboard shortcut `⇧^⌥N` and the corresponding notes draft and the [/notes repo folder](https://github.com/extratone/bilge/tree/main/notes/). On my iPhone, I’m currently switching back and forth between these using `⌥3` and `⌥4`, respectfully. If you’d like to see, here are those two (unlisted actions) on the Drafts Action Directory: [Export Psalms Drafts](https://actions.getdrafts.com/a/1wL) & [Export Psalms Notes](https://actions.getdrafts.com/a/1wM). I also have [an action](https://actions.getdrafts.com/a/1wN) that saves to a root iCloud Drive folder as a .md file called “Written” with the keyboard command `⌥⌘S`. 
+
+![Written Folder](https://user-images.githubusercontent.com/43663476/155971770-907a90aa-c955-4928-bbad-6cd1a61216ea.png)
+
+If one wished, they could output web-read HTML files this way via a similarly-configured action with [Drafts’ templates](https://docs.getdrafts.com/docs/editor/previews).
+
+![WindowsEternal-iPadPro](https://user-images.githubusercontent.com/43663476/154896941-f15cfe59-dd8f-4310-b4be-fe55ee4e4bc7.PNG)
 
 ## Theming 
 
 Some of Obsidian’s themes are quite gorgeous, no doubt, but - once again - there’s nothing quite like those of a *native app* to get the stylistic hunger going. I must admit my knowledge of the theme creation process for Obsidian is virtually nill, but I think it’s indicative of Drafts’ malleability that I was able to create [such beautiful themes](https://extratone.github.io/drafts/) with zero knowledge of anything but CSS and [the handiest JSON manipulation tool, anywhere](https://apps.apple.com/us/app/jayson/id1468691718). 
+
+https://twitter.com/NeoYokel/status/1498412135268982784
+
+## Backwards Compatibility
 
 ---
 
