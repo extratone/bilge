@@ -22,6 +22,8 @@
 - [ ] Launching webpages from my Test note because of TextExpander integration.
 - [ ] How easy it was to [repair the TAD issue](https://forums.getdrafts.com/t/script-error-syntaxerror-json-parse-error-unexpected-identifier-drafts-line-number-53-column-35/12187).
 - [ ] Posting to WordPress/Medium with a single step.
+- [ ] [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273) is perhaps even more redundant in regards to Drafts, but establishing its own identity.
+- [ ] [Actions for Obsidian in the Action Directory](https://actions.getdrafts.com/search?utf8=✓&q=obsidian).
 
 ## Misc
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
@@ -66,6 +68,7 @@
 - [ ] `![Quick Navigation](https://user-images.githubusercontent.com/43663476/156029543-89c96f8f-0a23-4434-8514-a6e8349bb565.png)`
 - [x] `![Obsidian Publish Example](https://user-images.githubusercontent.com/43663476/156826733-4e596f5f-2f90-4e88-977e-fb6dc8f9c218.png)`
 - [x] `![Versioning in Drafts](https://user-images.githubusercontent.com/43663476/156828832-b8c4554f-a7b9-4ff3-997b-329e6a227e57.png)`
+- [ ] `![Committing Drafts in Working Copy](https://user-images.githubusercontent.com/43663476/156829737-65cf15d3-9118-4f06-8796-5097c474e7a2.png)`
 
 ## Videos
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)

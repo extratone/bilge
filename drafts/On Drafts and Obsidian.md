@@ -33,7 +33,7 @@ Not just in support, but in requests. I think [my inquiry into the possibility o
 
 ![TipCalculatorLandscape](https://user-images.githubusercontent.com/43663476/154821804-3d6d90b4-76d4-4082-a4dc-7dde5631c296.png)
 
-I distinctly remember one such thread that resolved a ridiculous and mild panic I’d been set in when I accidentally disabled Background App Refresh for Drafts, which caused a hullabaloo, as you might imagine. I didn’t think to check the Settings app until we were 4 replies and one whole morning deep. Obviously, I was deeply embarrassed - so much so that I actually considered lying about the cause - but I told him the truth and received the most patient *no problem, good to know* in the history of the world.
+I distinctly remember one such thread that resolved a ridiculous and mild panic I’d been set in when I accidentally disabled Background App Refresh for Drafts, which caused a hullabaloo, as you might imagine. I didn’t think to check the Settings app until we were 4 replies and one whole morning deep. Obviously, I was deeply embarrassed - so much so that I actually considered lying about the cause - but I told him the truth and received the most patient *no problem, good to know* in the history of the world. When Stephen Millard’s Thought Asylum actions ceased functioning in my library, I posted [a reply in the forums](https://forums.getdrafts.com/t/script-error-syntaxerror-json-parse-error-unexpected-identifier-drafts-line-number-53-column-35/12187), which led to both Greg and Stephen’s help in resolving the issue within hours. 
 
 ![BookmarksinDrafts](https://user-images.githubusercontent.com/43663476/153778986-a9a33a80-12a3-4042-8941-2e2d5e427703.png)
 
@@ -95,7 +95,7 @@ Regarding using Git with Drafts via [Working Copy](https://apps.apple.com/us/app
 
 ![Versioning in Drafts](https://user-images.githubusercontent.com/43663476/156828832-b8c4554f-a7b9-4ff3-997b-329e6a227e57.png)
 
-After a while, however, I realized that I was perfectly happy with [Drafts’ native versioning system](https://docs.getdrafts.com/docs/drafts/versionhistory) in the majority of applications and that it most often resulted in much quicker/easier access to previous draft versions that Git could possibly enable.
+After a while, however, I realized that I was perfectly happy with [Drafts’ native versioning system](https://docs.getdrafts.com/docs/drafts/versionhistory) in the majority of projects and that it most often resulted in much quicker/easier access to previous draft versions that Git could possibly enable. I’ve recently taken to occasionally saving versions manually with the [Save Version action](https://actions.getdrafts.com/a/1YL) tied to `⌘⇧S`.
 
 ![WindowsEternal-iPadPro](https://user-images.githubusercontent.com/43663476/154896941-f15cfe59-dd8f-4310-b4be-fe55ee4e4bc7.PNG)
 
@@ -109,7 +109,7 @@ https://twitter.com/NeoYokel/status/1498412135268982784
 
 I’m writing this portion from a first-generation [iPad Air](https://en.m.wikipedia.org/wiki/IPad_Air) I just inherited, which dates back to late 2013 and iOS 9. I’ve found some surprising delights within its last supported OS - 12.5.5 - and one of them has been Drafts’ support of that OS, up to Drafts version 26.3.5. (I just switched back to my 12 Pro Max and found everything instantly synced.) Most of the features I’m using in Drafts 31 on the latter device are still present. All of my actions and their corresponding keyboard shortcuts function and all of my themes are present, as are, naturally, my 1600+ drafts. As I noted in the Tweet embedded above, this all took less than ten minutes to sync *while I was doing other tasks*.
 
-The threshold of this backwards compatibility lies somewhere between iOS 9 and 12 - I know because I was *not* able to download Drafts on the iPhone 4S recently given to me by a friend. Unfortunately, my purchases of pre-5.0 Drafts versions are on another Apple account for which I no longer have the password.
+The threshold of this backwards compatibility lies somewhere between iOS 9 and 12 - I know because I was *not* able to download Drafts on the iPhone 4S recently given to me by a friend. Unfortunately, my purchases of pre-5.0 Drafts versions are on another Apple account for which I no longer have the password. Obsidian’s iOS compatibility also goes back to 12.1, though I found it particularly sticky to use on my iPad Air, if that makes sense. This is understandable, or at least it would be, were both Drafts and Bear not entirely smooth and functional on the same hardware.
 
 ---
 
