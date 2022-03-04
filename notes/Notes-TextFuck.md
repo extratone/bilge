@@ -142,4 +142,7 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] [Clipping (audio) - Wikipedia](https://en.m.wikipedia.org/wiki/Clipping_(audio))
 - [ ] [Review: TextExpander Touch 2 a typing timesaver for iOS](https://www.macworld.com/article/221252/review-textexpander-touch-2-a-typing-timesaver-for-ios.html) | *MacWorld*
 - [ ] [[“Review: TextExpander Touch 2 a typing timesaver for iOS”]]
-- [ ] 
+- [ ] [Review: TextExpander is autocorrect on steroids, usable across Mac, iPad, and iPhone](https://9to5mac.com/2017/05/12/textexpander-review-mac-ipad-iphone/)
+- [ ] [TextExpander Touch 2.0 Brings Fill-In Snippets, Formatted Text To iOS](https://www.macstories.net/reviews/textexpander-touch-2-0-brings-fill-in-snippets-formatted-text-to-ios/)
+- [ ] [[“TextExpander Touch 2.0 Brings Fill-In Snippets, Formatted Text To iOS”]]
+- [ ] [TextExpander (for Mac) Review](https://www.pcmag.com/reviews/textexpander-for-mac)

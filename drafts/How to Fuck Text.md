@@ -84,11 +84,11 @@ I have previously reviewed two wonderful Text Fucking iOS apps on this blog: [**
 
 ### TextExpander
 
-Another cross-platform application - this one [extending to Windows](https://textexpander.com/download), too - TextExpander has very recently become an integral part of my day-to-day creative life. It’s used by professionals at companies with "thousands of people," supposedly, to “expand” any sort of text, set off scripts (on macOS,) and paste fill in-able templates. These functions are divided into “[snippets](https://textexpander.com/learn/getting-started)” as part of “[snippet groups](https://textexpander.com/learn/getting-started/getting-started-for-admin).” In fact, I’ve created [**a dedicated snippet group to accompany this guide**](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b). You can view all my TextExpander snippets in [this GitHub Repository](https://github.com/extratone/TextExpander).
+Another cross-platform application - this one [extending to Windows](https://textexpander.com/download), too - TextExpander has very recently (and quite swiftly) become an integral part of my day-to-day creative life. It’s used by professionals at companies with "thousands of people," supposedly, to “expand” any sort of text, set off scripts (on macOS,) and paste fill in-able templates. These functions are divided into “[snippets](https://textexpander.com/learn/getting-started)” as part of “[snippet groups](https://textexpander.com/learn/getting-started/getting-started-for-admin).” In fact, I’ve created [**a dedicated snippet group to accompany this guide**](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b). You can view all my TextExpander snippets in [this GitHub Repository](https://github.com/extratone/TextExpander).
 
 ![TextFuckSnippetGroup](https://user-images.githubusercontent.com/43663476/153726468-25b5a5a9-0381-4720-b1e7-c7fb2ef357d9.png)
 
-It’s not much just yet, but if you “[subscribe](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)” to my dedicated Text Fuck snippet group from your own account, you’ll be treated to whatever I come up with in the future, delivered to your devices in real time.[^5] The great pro of TextExpander is its target pro usergroup, for which it is built to be reliable and very powerful. It enables quick macros for strings as short as ⁌•-¬䷂☃︎𝄫𝄢⟫L𝔒’⌤⌄∔×−฿🄕𝄢 up to [entire book chapters](https://bilge.world/blimps-burden-chapter-6). It also has more complex functions, likely the most relevant to our use of which being clipboard insertion anywhere within a snippet. Crucial to the strong Text Fucker, this function has high potential for multiplied volume. One might set up a snippet that duplicates the clipboard’s content nine times on new lines and attach the macro `\9`.
+It’s not much just yet, but if you “[subscribe](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)” to my dedicated Text Fuck snippet group from your own account, you’ll be treated to whatever I come up with in the future, delivered to your devices in real time.[^5] The great pro of TextExpander is its target pro usergroup, for which it is built to be reliable and very powerful. It enables quick macros for strings as short as ⁌•-¬䷂☃︎𝄫𝄢⟫L𝔒’⌤⌄∔×−฿🄕𝄢 up to [entire book chapters](https://bilge.world/blimps-burden-chapter-6). It also has more complex functions, likely the most relevant to our use of which being clipboard insertion anywhere within a snippet. Crucial to the strong Text Fucker, this function has high potential for multiplied volume. One might set up a snippet that duplicates the clipboard’s content nine times on new lines and attach the macro `\9`. 
 
 ![COMIN DINE](https://user-images.githubusercontent.com/43663476/154876382-95749054-1a47-4dec-9e4d-0c2e1229f79e.png)
 
@@ -125,6 +125,7 @@ I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17
 ![TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)
 
 A standalone method of general Text Fuckery on iOS is achieved through its relatively “new”[^2] personal automation system, Siri Shortcuts. In fact, Apple includes what I would define as a genuine Text Fucker™ of a shortcut in its default shortcuts gallery, called “[All the Single Ladies ASCII](https://www.icloud.com/shortcuts/51392bf23f104b93baf72000955ed334)” which can be used to create rather adorable text snippets like this:
+
 ```txt
 (•_•)
 <)   )╯DAVID BLUE
@@ -138,6 +139,7 @@ A standalone method of general Text Fuckery on iOS is achieved through its relat
 <)   )╯THIS.
  /    \
 ```
+
 Through a Reddit thread I’ve never been able to find again, I discovered a method of randomizing strings of text that led to the creation of the Shortcuts you see below, all with native actions (aside from the outputs of those with specific services.) If you’re willing to splurge on the whole 3.3mb, free (for macOS, iPadOS, and iOS) [**Actions app**](https://apps.apple.com/us/app/actions/id1586435171), you can accomplish the same task, but much more quickly and with less resource consumption. I think you can spare the space.[^3]
 
 Perhaps the best place to start would be with the most documented (and perhaps most unique) Text Fucking Siri Shortcut I have to offer you. “[The Fastest Route to Twitter Jail](https://bilge.world/twitter-jail)” in fact details the workings of [**my Twitter Jail shortcut**](https://routinehub.co/shortcut/11086/), which uses [Tweetbot](http://bilge.world/tweetbot-6-ios-review)’s shortcuts actions to send 310 Tweets of random text in less than four minutes to an account of your specification. 
