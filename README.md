@@ -14,11 +14,11 @@ See [**my 2020 reflectory post**](https://bilge.world/2020) for a few more detai
 
 # Latest Work
 <!-- BLOG-POST-LIST:START -->
+- [Run Siri Shortcuts with Hyperlinks](https://bilge.world/run-siri-shortcuts-with-hyperlinks?pk_campaign=rss-feed)
 - [Apple Rag Review](https://bilge.world/apple-polishing-cloth?pk_campaign=rss-feed)
 - [Windows Eternal Drafts Theme](https://bilge.world/windows-eternal?pk_campaign=rss-feed)
 - [David Blue’s RoutineHub Library](https://bilge.world/shortcuts?pk_campaign=rss-feed)
 - [The Fastest Route to Twitter Jail](https://bilge.world/twitter-jail?pk_campaign=rss-feed)
-- [Using Drafts with NeoCities](https://bilge.world/using-drafts-with-neocities?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
 
 
