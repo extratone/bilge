@@ -87,7 +87,15 @@ With my current Drafts setup, I need only hit `⇧^⌥D` to push my current draf
 
 ![Written Folder](https://user-images.githubusercontent.com/43663476/155971770-907a90aa-c955-4928-bbad-6cd1a61216ea.png)
 
-If one wished, they could output web-read HTML files this way via a similarly-configured action with [Drafts’ templates](https://docs.getdrafts.com/docs/editor/previews).
+If one wished, they could output web-read HTML files this way via a similarly-configured action with [Drafts’ templates](https://docs.getdrafts.com/docs/editor/previews), which would make it awfully easy to publish whole website updates directly from Drafts. Of course, I’ve heard good things about [Obsidian’s own publishing service](https://obsidian.md/publish), though none of the examples I could find in the gallery were scrollable on my iPhone or particularly breathtaking[^5].
+
+![Obsidian Publish Example](https://user-images.githubusercontent.com/43663476/156826733-4e596f5f-2f90-4e88-977e-fb6dc8f9c218.png)
+
+Regarding using Git with Drafts via [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807), it’s actually possible to do so [pre-Drafts File Bookmarks](https://forums.getdrafts.com/t/setup-drafts-on-ios-with-working-copy/9197), if you’d like. I ran with this setup for a while in 2020, the results of which you can inspect, still, on [my Drafts-specific GitHub Repository](https://github.com/extratone/drafts). From what I remember it’s quite similar in many ways to running Obsidian directly off a Working Copy repository - both can be iCloud synced and still have all revisions tracked.
+
+![Versioning in Drafts](https://user-images.githubusercontent.com/43663476/156828832-b8c4554f-a7b9-4ff3-997b-329e6a227e57.png)
+
+After a while, however, I realized that I was perfectly happy with [Drafts’ native versioning system](https://docs.getdrafts.com/docs/drafts/versionhistory) in the majority of applications and that it most often resulted in much quicker/easier access to previous draft versions that Git could possibly enable.
 
 ![WindowsEternal-iPadPro](https://user-images.githubusercontent.com/43663476/154896941-f15cfe59-dd8f-4310-b4be-fe55ee4e4bc7.PNG)
 
@@ -99,9 +107,14 @@ https://twitter.com/NeoYokel/status/1498412135268982784
 
 ## Backwards Compatibility
 
+I’m writing this portion from a first-generation [iPad Air](https://en.m.wikipedia.org/wiki/IPad_Air) I just inherited, which dates back to late 2013 and iOS 9. I’ve found some surprising delights within its last supported OS - 12.5.5 - and one of them has been Drafts’ support of that OS, up to Drafts version 26.3.5. (I just switched back to my 12 Pro Max and found everything instantly synced.) Most of the features I’m using in Drafts 31 on the latter device are still present. All of my actions and their corresponding keyboard shortcuts function and all of my themes are present, as are, naturally, my 1600+ drafts. As I noted in the Tweet embedded above, this all took less than ten minutes to sync *while I was doing other tasks*.
+
+The threshold of this backwards compatibility lies somewhere between iOS 9 and 12 - I know because I was *not* able to download Drafts on the iPhone 4S recently given to me by a friend. Unfortunately, my purchases of pre-5.0 Drafts versions are on another Apple account for which I no longer have the password.
+
 ---
 
 [1] Usually of a much more directed sort.
 [2] Yes, a real shot. I promise.
 [3] Consider that Drafts creator, Greg Pierce, also *invented* x-callback-urls.
 [4] Those actions can be examined: [Drakesville](https://actions.getdrafts.com/a/1wR) & [SMS Drakesville](https://actions.getdrafts.com/a/1wS).
+[5] I realize this seems like ridiculous criteria, but Drafts is breathtaking.

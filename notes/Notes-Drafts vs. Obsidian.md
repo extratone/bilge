@@ -64,6 +64,8 @@
 - [x] `![LookUp Failure](https://user-images.githubusercontent.com/43663476/155922296-4c00c372-8b79-4dfd-b421-5d718845a782.png)`
 - [ ] `![Written Folder](https://user-images.githubusercontent.com/43663476/155971770-907a90aa-c955-4928-bbad-6cd1a61216ea.png)`
 - [ ] `![Quick Navigation](https://user-images.githubusercontent.com/43663476/156029543-89c96f8f-0a23-4434-8514-a6e8349bb565.png)`
+- [x] `![Obsidian Publish Example](https://user-images.githubusercontent.com/43663476/156826733-4e596f5f-2f90-4e88-977e-fb6dc8f9c218.png)`
+- [x] `![Versioning in Drafts](https://user-images.githubusercontent.com/43663476/156828832-b8c4554f-a7b9-4ff3-997b-329e6a227e57.png)`
 
 ## Videos
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)
@@ -96,3 +98,6 @@
 - [ ] The whole [Attributions list](https://docs.getdrafts.com/docs/misc/attributions) for Drafts is just *seven items in length*.
 - [ ] [The Fall of Roam](https://every.to/superorganizers/the-fall-of-roam)
 - [ ] [Drafts 5.4: Siri Shortcuts, WordPress, and More](https://www.macstories.net/reviews/drafts-5-4-siri-shortcuts-wordpress-and-more/) | *MacStories*
+- [ ] [How I Make Drafts Work for Me — HeyDingus](https://heydingus.net/blog/2021/7/how-i-make-drafts-work-for-me)
+- [x] [Setup: Drafts on iOS with Working Copy - Tips & Tricks - Drafts Community](https://forums.getdrafts.com/t/setup-drafts-on-ios-with-working-copy/9197)
+- [x] [Version History](https://docs.getdrafts.com/docs/drafts/versionhistory)
