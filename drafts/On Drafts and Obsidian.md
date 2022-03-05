@@ -15,7 +15,7 @@ I tried Obsidian. In fact - and I'm still not one hundred percent positive about
 
 > At its core, Obsidian is a Markdown text editor. Just point the app to a folder on your iPhone or iPad and you're ready to get started. The app is based on web technologies, which means it is highly customizable. Obsidian supports a theming system, with a wide variety of themes provided by the app's vibrant community of users and plugins to extend the app's functionality. The app's primary views are its editor and preview mode, which can be split into multiple panes both vertically and horizontally. Obsidian also supports saved workspaces that allow users to open a predefined group of notes easily, commands for quickly opening documents and accessing the app's features, along with extensive, customizable keyboard shortcut support. Of course, notes can be linked internally, allowing for the creation of a wiki-like web of documents.
 
-In the interim, I've reviewed these few sentences over and over again, trying to find the discrepancy, but basically the core of my issue is that **Federico is describing *Drafts* as I know it, word for word**. In fact, since you're here, bear with me just a second as I misquote him, replacing the word "Obsidian" with "Drafts:"
+In the interim, I've reviewed these few sentences over and over again, trying to find the discrepancy, but basically the core of my issue is that **Federico is describing *Drafts* as I know it, word for word**. In fact, since you're here, bear with me just a second as I misquote him to an imperial degree, replacing the word "Obsidian" with "Drafts:"
 
 > At its core, Drafts is a Markdown text editor. Just point the app to a folder on your iPhone or iPad and you're ready to get started. ~~The app is based on web technologies~~, which means it is highly customizable. Drafts supports a theming system, with a wide variety of themes provided by the app's vibrant community of users and plugins to extend the app's functionality. The app's primary views are its editor and preview mode, which can be split into multiple panes both vertically and horizontally. Drafts also supports saved workspaces that allow users to open a predefined group of notes easily, commands for quickly opening documents and accessing the app's features, along with extensive, customizable keyboard shortcut support. Of course, notes can be linked internally, allowing for the creation of a wiki-like web of documents.
 
@@ -95,7 +95,7 @@ Regarding using Git with Drafts via [Working Copy](https://apps.apple.com/us/app
 
 ![Versioning in Drafts](https://user-images.githubusercontent.com/43663476/156828832-b8c4554f-a7b9-4ff3-997b-329e6a227e57.png)
 
-After a while, however, I realized that I was perfectly happy with [Drafts’ native versioning system](https://docs.getdrafts.com/docs/drafts/versionhistory) in the majority of projects and that it most often resulted in much quicker/easier access to previous draft versions that Git could possibly enable. I’ve recently taken to occasionally saving versions manually with the [Save Version action](https://actions.getdrafts.com/a/1YL) tied to `⌘⇧S`.
+After a while, however, I realized that I was perfectly happy with [Drafts’ native versioning system](https://docs.getdrafts.com/docs/drafts/versionhistory) in the majority of projects and that it most often resulted in much quicker/easier access to previous draft versions that Git could possibly enable. I’ve recently taken to occasionally saving versions manually with the [Save Version action](https://actions.getdrafts.com/a/1YL) tied to `⌘⇧S`. Combined with the export actions I showcased above, I trust my current Drafts setup more than I’ve ever trusted any of the writing environments I’ve lived in, which is really saying something.
 
 ![WindowsEternal-iPadPro](https://user-images.githubusercontent.com/43663476/154896941-f15cfe59-dd8f-4310-b4be-fe55ee4e4bc7.PNG)
 
@@ -103,18 +103,32 @@ After a while, however, I realized that I was perfectly happy with [Drafts’ na
 
 Some of Obsidian’s themes are quite gorgeous, no doubt, but - once again - there’s nothing quite like those of a *native app* to get the stylistic hunger going. I must admit my knowledge of the theme creation process for Obsidian is virtually nill, but I think it’s indicative of Drafts’ malleability that I was able to create [such beautiful themes](https://extratone.github.io/drafts/) with zero knowledge of anything but CSS and [the handiest JSON manipulation tool, anywhere](https://apps.apple.com/us/app/jayson/id1468691718). 
 
+![ENCOM Widgets](https://user-images.githubusercontent.com/43663476/156087079-abad2f15-5f83-438d-9c96-cf8ee7d7c4c7.png)
+
+Once again, thanks to Drafts’ nativeness, its widgets, too, can be themed. (This is not something I discovered until recently, re-reading the “[Creating Themes](https://docs.getdrafts.com/docs/extending/development/theme-format)” article. Notably, [Obsidian’s equivalent](https://help.obsidian.md/How+to/Add+custom+styles) is quite lackluster.) Above is an embedded screenshot of two widgets bearing the look of my newest Drafts theme, [ENCOM](https://directory.getdrafts.com/t/1wg). I’m [not much of a widgets person](https://whyp.it/t/on-widgets-54991), but it’s hard not to leave Drafts’ around, somewhere, given how beautiful they look.
+
 https://twitter.com/NeoYokel/status/1498412135268982784
 
 ## Backwards Compatibility
 
-I’m writing this portion from a first-generation [iPad Air](https://en.m.wikipedia.org/wiki/IPad_Air) I just inherited, which dates back to late 2013 and iOS 9. I’ve found some surprising delights within its last supported OS - 12.5.5 - and one of them has been Drafts’ support of that OS, up to Drafts version 26.3.5. (I just switched back to my 12 Pro Max and found everything instantly synced.) Most of the features I’m using in Drafts 31 on the latter device are still present. All of my actions and their corresponding keyboard shortcuts function and all of my themes are present, as are, naturally, my 1600+ drafts. As I noted in the Tweet embedded above, this all took less than ten minutes to sync *while I was doing other tasks*.
+I’m writing this portion from a first-generation [iPad Air](https://en.m.wikipedia.org/wiki/IPad_Air) I just inherited, which dates back to late 2013 and iOS 9. I’ve found some surprising delights within its last supported OS - 12.5.5 - and one of them has been Drafts’ support of that OS, up to Drafts version 26.3.5. (I just switched back to my 12 Pro Max and found everything instantly synced.) Most of the features I’m using in Drafts 31 on the latter device are still present. All of my actions and their corresponding keyboard shortcuts function and all of my themes are present, as are, naturally, my 1600+ drafts. As I noted in the Tweet embedded above, this all took less than ten minutes to sync *while I was doing other shit*.
 
-The threshold of this backwards compatibility lies somewhere between iOS 9 and 12 - I know because I was *not* able to download Drafts on the iPhone 4S recently given to me by a friend. Unfortunately, my purchases of pre-5.0 Drafts versions are on another Apple account for which I no longer have the password. Obsidian’s iOS compatibility also goes back to 12.1, though I found it particularly sticky to use on my iPad Air, if that makes sense. This is understandable, or at least it would be, were both Drafts and Bear not entirely smooth and functional on the same hardware.
+The threshold of this backwards compatibility lies somewhere between iOS 9 and 12 - I know because I was *not* able to download Drafts on the iPhone 4S recently given to me by a friend. Unfortunately, my purchases of pre-5.0 Drafts versions are on another Apple account for which I no longer have the password. I wouldn’t be surprised, though, if I could get Drafts 1.0 or 2.0 running on that phone, had I access. Obsidian’s iOS compatibility also goes back to 12.1, though I found it particularly sticky to use on my iPad Air, if that makes sense. This is understandable, or at least it would be, were both Drafts and Bear not entirely smooth and functional on the same hardware.
+
+## Cross-Compatibility 
+
+Drafts’ cross-compatibility is perhaps its (and native apps, in general) weakest link. Full interaction with Drafts can be done on iOS, iPadOS, and macOS, but not Windows, nor will the prospect of doing so on the latter ever be realistic. Drafts’ [Web Capture utility](https://docs.getdrafts.com/docs/extensions/web-capture) enables drafts to be *created* from anywhere, however, and I - a Windows user, still - have found it genuinely useful.
+
+By contrast, Obsidian can run on virtually anything, including Windows machines. On a git repository, version tracking is also completely cross-compatible, obviously.
+
+## The Issue
+
+Though this inadvertently turned into a sort of half-review of Drafts/showcase of my own Drafts setup, I really intended to highlight a single concern regarding this whole comparison: **redundancy**. *To Each His Own* is the classic counter-argument I’ve gotten when I’ve brought this up, but - as a Windows user, especially - the wealth of development time being (forgive me) squandered off in the direction of Obsidian without a single clear voice saying “holdup” is just a painful thing to witness. My desire in spending all this time writing is to perhaps prompt a “*wait, haven’t we already done this?*” among prospective third-party users/user-developers. One might say the same of [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273), which is another flavor of the files app-driven iOS text editor, but it’s being built by a single person.
 
 ---
 
 [1] Usually of a much more directed sort.
-[2] Yes, a real shot. I promise.
+[2] Yes, a real shot. I promise. I even co-maintain [a dedicated Obsidian Raindrop collection](https://raindrop.io/davidblue/obsidian-20957282).
 [3] Consider that Drafts creator, Greg Pierce, also *invented* x-callback-urls.
 [4] Those actions can be examined: [Drakesville](https://actions.getdrafts.com/a/1wR) & [SMS Drakesville](https://actions.getdrafts.com/a/1wS).
 [5] I realize this seems like ridiculous criteria, but Drafts is breathtaking.

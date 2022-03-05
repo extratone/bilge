@@ -104,3 +104,7 @@
 - [ ] [How I Make Drafts Work for Me — HeyDingus](https://heydingus.net/blog/2021/7/how-i-make-drafts-work-for-me)
 - [x] [Setup: Drafts on iOS with Working Copy - Tips & Tricks - Drafts Community](https://forums.getdrafts.com/t/setup-drafts-on-ios-with-working-copy/9197)
 - [x] [Version History](https://docs.getdrafts.com/docs/drafts/versionhistory)
+- [ ] [Drafts 2.0: New Fonts, New Look, A Brand New Kind of Sync, And Now On iPad](https://www.macstories.net/reviews/drafts-2-0-new-fonts-new-look-a-brand-new-kind-of-sync-and-now-on-ipad/)
+- [ ] [Drafts 2.0  New Fonts, New Look, A Brand New Kind of Sync, And Now On iPad](drafts://open?uuid=C3670318-F206-4414-A6D5-17E4898CB897)
+- [ ] [Drafts Review](drafts://open?uuid=391F1351-B2B2-4E9C-B5C7-79C0F3DA4B18)
+- [ ] [Drafts, Shortcuts, and Working Copy, The Movie](https://scottwillsey.com/blog/ios/draftsthemovie/)
