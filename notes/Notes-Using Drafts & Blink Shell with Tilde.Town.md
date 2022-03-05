@@ -3,15 +3,19 @@
 - [Tilde](https://tilde.town/~extratone/blink)
 - [SSH Primer for TildeTown](https://tilde.town/~extratone/wiki/getting-started/ssh.html)
 - [["Tilde.Club: I had a couple drinks and woke up with 1,000 nerds"]]
+- [Tilde.Club  I had a couple drinks and woke up with 1,000 nerds](drafts://open?uuid=F39811CF-76C9-423A-8DCA-1B4C7E6F0A93)
 - [Simplenote Preview](http://simp.ly/publish/bx24Cq)
 
 ## General
 - You can lock the phone with the external display running, but it won’t update, even with mosh and `geo` on.
+- Mention the fork, [a-Shell](https://apps.apple.com/us/app/a-shell/id1473805438).
+- In-app notifications seem to happen relatively arbitrarily.
 
 ## Documentation
 - [[FEELS MANUAL]] ...if only it wasn’t called *feels*
 - [^ on Tilde](https://tilde.town/~extratone/manual/feels/)
 - [UNIX Command Line Tools Roundup | Blink Shell](https://docs.blink.sh/advanced/unix-roundup)
+- [Blink adds Wake On LAN command](https://github.com/blinksh/blink/issues/951)
 
 ## Images
 - [ ] `![BlinktoTilde](https://tilde.town/~extratone/images/blinktotilde.png)`
@@ -33,6 +37,10 @@
 - [ ] ![bbj Read Portrait](https://user-images.githubusercontent.com/43663476/155115451-2025e581-b7a4-45b0-b61f-6927ad9f55fb.png)
 - [ ] ![Blink Notification Landscape](https://user-images.githubusercontent.com/43663476/155115556-f62e786a-6fa8-43e5-ba53-e9c9c30144cb.png)
 - [ ] ![Tomorrow Night Blue](https://user-images.githubusercontent.com/43663476/155212433-f65f34b4-952d-4f78-a6cf-8d99d4374b87.png)
+- [ ] ![Remote Mac Files](https://user-images.githubusercontent.com/43663476/155912890-d5f33a52-c211-4616-bd7a-cb4556564d68.png)
+- [ ] `![w3m](https://user-images.githubusercontent.com/43663476/155915293-4bfa4ac8-4441-4f0d-b0b4-f3ae311f45f6.png)`
+- [ ] ![Dot Gov bbj](https://user-images.githubusercontent.com/43663476/156838413-b6195682-6b40-401c-b667-be332784f244.png)
+- [ ] ![Repository Cleaning](https://user-images.githubusercontent.com/43663476/156869875-93a67975-beb2-4a25-a855-b845514ed8b3.png)
 
 ### Town Mail
 
@@ -46,6 +54,7 @@
 
 
 ### Mini Tutorial: [Uploading images to the Tildeverse with Blink Shell](https://tilde.town/~extratone/videos/uploadingimageswithblink.MP4)
+
 <video controls>
   <source src="https://tilde.town/~extratone/videos/uploadingimageswithblink.MP4">
 </video>
