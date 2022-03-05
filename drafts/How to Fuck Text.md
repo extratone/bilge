@@ -102,24 +102,6 @@ It was in the same era that one of my handful of lifetime genius ideas came to m
 
 Of course, while the means of *distributing* Text Fuckery have gotten vastly more robust, capable, and sophisticated, so too have the terminals by which intended targets *experience* the Fuckery. The friend’s handset and elemental carrier plan in our example may very well be perfectly capable of receiving an entire film script, line-by-line, also in the background, perhaps even without the target ever noticing or suffering a single consequence. 
 
-![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)
-
-### Text Case
-
-Christopher R Hannah’s Text Case is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[^4] 
-
-![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)
-
-Without being able to share my own “flows” (unfortunately,) all I can share with you is [this Siri Shortcut](https://www.icloud.com/shortcuts/6fd60faf566142b3b7d1fb0a0631fa1b) which is called from [this Drafts action](https://actions.getdrafts.com/a/1wQ) to reformat selected text (or the entire contents of the current draft) into proper MLA Title format before amending the results to a specific draft. I also created and published a shortcut called “[Speak Word Count](https://routinehub.co/shortcut/11094)” which uses Text Case’s Word Count “format” and [Siri Speech Synthesis](https://bilge.world/siri-tts) to speak aloud the word count of either the current selection (from the share sheet) or the contents currently in the system clipboard.
-
-![Fuck Shortcut](https://user-images.githubusercontent.com/43663476/154841943-3ba7b019-c146-4765-90b1-2f52e34f3911.png)
-
-I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17bb3b4d8897aae29c) - a Siri Shortcut with three of my favorite Text Case formattings so far in succession: “Mocking Spongebob” (ick,) “Upside Down,” and “Clap Case.” It acts upon - and replaces - any text you’ve copied to the clipboard. Here’s an example:
-
-```
-ᴉ┴ 👏 ∀ɔʇs 👏 nԀou 👏  👏  👏 ∀up 👏 ɹƎd˥ɐɔǝs 👏  👏  👏 ∀u⅄ 👏 ┴Ǝx┴ 👏 ⅄On’Λǝ 👏 ɔoԀIǝp 👏 ┴o 👏 ʇɥǝ 👏 ɔlᴉdqo∀ɹp
-```
-
 ### Siri Shortcuts
 
 ![TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)
@@ -150,7 +132,7 @@ If you’re new to Shorcuts entirely, what you see above will result in a string
  
 ![RandomTextAction](https://user-images.githubusercontent.com/43663476/153781368-a58bbb73-5675-48d6-9317-3538701a27d1.png)
 
-### Text-Fucking Siri Shortcuts with Actions
+#### Text-Fucking Siri Shortcuts with Actions
 
 These three shortcuts require [the Actions app](https://apps.apple.com/us/app/actions/id1586435171), but the single action used across all of them - called `Random Text` - is one that works across all platforms. 
 
@@ -164,7 +146,15 @@ https://twitter.com/NeoYokel/status/1492926569496649730
   <source src=“https://user-images.githubusercontent.com/43663476/153750931-30b05024-a3dd-4939-8d84-fcd0cafa8537.MOV”>
 </video>
 
-### Native Text-Fucking Siri Shortcuts
+#### Text-Fucking Siri Shortcuts with Toolbox Pro, Actions, and Aviary
+
+Here are three shortcuts that may or may not be useful to you, each using Shihab Meboob’s [Aviary](https://apps.apple.com/us/app/aviary-for-twitter/id1522043420) to Tweet images en masse. The third also requires you have [LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448) and a populated collection.
+
+- [Tweet Symbol Images](https://www.icloud.com/shortcuts/a328611ebcab4f8ba271c0f89e3a7025)
+- [Tweet Color Images](https://www.icloud.com/shortcuts/192008f53ad74860b1de1d7adccedb69)
+- [Tweet Vocabulary Images](https://www.icloud.com/shortcuts/7417bf83a7a349099e1a50b1b091285b)
+
+#### Native Text-Fucking Siri Shortcuts
 
 - [Random Text ⇨ Twitter](https://www.icloud.com/shortcuts/0873152dee3e4d32828cd28bcbc1be06) ([Tweetbot](https://apps.apple.com/us/app/tweetbot-6-for-twitter/id1527500834))
 - [Random Text ⇨ Twitter II](https://www.icloud.com/shortcuts/21ab008699ce44dabc9f9a249fc6f881)
@@ -173,6 +163,24 @@ https://twitter.com/NeoYokel/status/1492926569496649730
 - [Random Text ⇨ Mastodon](https://www.icloud.com/shortcuts/0e517d1438b44d3d980c8afb9891a724)
 - [Random Text ⇨ Tumblr](https://www.icloud.com/shortcuts/3c38ca0a7ec9413f9c9a6f6328fb1b09)
 - [Random Text ⇨ WordPress](https://www.icloud.com/shortcuts/07668aacd5ce4e59b76dd54ffc255209)
+
+![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)
+
+### Text Case
+
+Christopher R Hannah’s Text Case is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[^4] 
+
+![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)
+
+Without being able to share my own “flows” (unfortunately,) all I can share with you is [this Siri Shortcut](https://www.icloud.com/shortcuts/6fd60faf566142b3b7d1fb0a0631fa1b) which is called from [this Drafts action](https://actions.getdrafts.com/a/1wQ) to reformat selected text (or the entire contents of the current draft) into proper MLA Title format before amending the results to a specific draft. I also created and published a shortcut called “[Speak Word Count](https://routinehub.co/shortcut/11094)” which uses Text Case’s Word Count “format” and [Siri Speech Synthesis](https://bilge.world/siri-tts) to speak aloud the word count of either the current selection (from the share sheet) or the contents currently in the system clipboard.
+
+![Fuck Shortcut](https://user-images.githubusercontent.com/43663476/154841943-3ba7b019-c146-4765-90b1-2f52e34f3911.png)
+
+I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17bb3b4d8897aae29c) - a Siri Shortcut with three of my favorite Text Case formattings so far in succession: “Mocking Spongebob” (ick,) “Upside Down,” and “Clap Case.” It acts upon - and replaces - any text you’ve copied to the clipboard. Here’s an example:
+
+```
+ᴉ┴ 👏 ∀ɔʇs 👏 nԀou 👏  👏  👏 ∀up 👏 ɹƎd˥ɐɔǝs 👏  👏  👏 ∀u⅄ 👏 ┴Ǝx┴ 👏 ⅄On’Λǝ 👏 ɔoԀIǝp 👏 ┴o 👏 ʇɥǝ 👏 ɔlᴉdqo∀ɹp
+```
 
 —-
 [1] Whaddya think‽‽‽ [Should I write a book](https://twitter.com/NeoYokel/status/1492589668843634692)‽‽‽

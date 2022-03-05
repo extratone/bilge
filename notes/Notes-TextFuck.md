@@ -139,6 +139,7 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] [Text Fuck Snippet Group Share](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)
 
 ## References
+
 - [ ] [Clipping (audio) - Wikipedia](https://en.m.wikipedia.org/wiki/Clipping_(audio))
 - [ ] [Review: TextExpander Touch 2 a typing timesaver for iOS](https://www.macworld.com/article/221252/review-textexpander-touch-2-a-typing-timesaver-for-ios.html) | *MacWorld*
 - [ ] [[“Review: TextExpander Touch 2 a typing timesaver for iOS”]]
@@ -146,3 +147,4 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] [TextExpander Touch 2.0 Brings Fill-In Snippets, Formatted Text To iOS](https://www.macstories.net/reviews/textexpander-touch-2-0-brings-fill-in-snippets-formatted-text-to-ios/)
 - [ ] [[“TextExpander Touch 2.0 Brings Fill-In Snippets, Formatted Text To iOS”]]
 - [ ] [TextExpander (for Mac) Review](https://www.pcmag.com/reviews/textexpander-for-mac)
+- [ ] [TextExpander/TextExpanderTouchSDK: TextExpander touch SDK](https://github.com/TextExpander/TextExpanderTouchSDK)
