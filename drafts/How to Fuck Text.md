@@ -54,6 +54,8 @@ As Drywall’s first and second albums - “[Hamura](https://ihadtopee.bandcamp.
 
 https://twitter.com/NeoYokel/status/1493041887279734784
 
+I continue to pursue this discipline in a largely automated way, as we’ll discuss in depth.
+
 ## Apps
 
 The core necessity of any good text fucker is a robust text editing and/or word processing application. Zalgo text is a real bitch for Electron apps like my dearest [Typora](https://typora.io), unfortunately. On iOS, this summation also applies to [Obsidian](https://obsidian.md), I’m afraid. I recommend native apps like [Drafts](https://apps.apple.com/us/app/drafts/id1435957248) (big surprise) - which astonishingly has [**its very own native Zalgo action**](https://actions.getdrafts.com/a/1vM) as developer Greg’s [gift to me](https://twitter.com/draftsapp/status/1492645727729766400)! - and [Bear](https://apps.apple.com/us/app/bear-markdown-notes/id1016366447) (no less of a surprise.) In terms of default configuration intensity, the Drafts action hits the sweet spot out of the box.
