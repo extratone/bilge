@@ -94,7 +94,7 @@ It’s not much just yet, but if you “[subscribe](https://app.textexpander.com
 
 ## Automation
 
-Debatably, my personal history with automation began with the release of IFTT (now IFTTT) somewhere around 2010-2011. Once it was integrated with Twitter and Evernote, I set it to save all of my Twitter favorites in separate, tagged Evernotes. The result was quite tremendous, as you might imagine, and is partially immortalized in my current [Twitter Raindrop collection](https://raindrop.io/davidblue/twitter-13759854). Tremendous, but not in a Text Fucking sense. Sometime just after high school, though, I configured an IFTT recipe that posted “WHEN IM COMIN DINE IN MY FOREIGN AND IM ROLLIN ONE DEEP THAT SHOULD TELL YA BOUT ME” across my social networks, every morning at 6:10 AM.
+Debatably, my personal history with automation began with the release of IFTT (now [IFTTT](https://apps.apple.com/us/app/ifttt-automation-workflow/id660944635)) somewhere around 2010-2011. Once it was integrated with Twitter and Evernote, I set it to save all of my Twitter favorites in separate, tagged Evernotes. The result was quite tremendous, as you might imagine, and is partially immortalized in my current [Twitter Raindrop collection](https://raindrop.io/davidblue/twitter-13759854). Tremendous, but not in a Text Fucking sense. Sometime just after high school, though, I configured an IFTT recipe that posted “WHEN IM COMIN DINE IN MY FOREIGN AND IM ROLLIN ONE DEEP THAT SHOULD TELL YA BOUT ME” across my social networks, every morning at 6:10 AM.
 
 https://twitter.com/NeoYokel/status/1492783081593483266
 
