@@ -1,8 +1,10 @@
 # How to Fuck Text
 
-![TextFuckHeaderImage](https://user-images.githubusercontent.com/43663476/153741149-a149b9b4-bb62-47a8-9991-44904bdcfc03.jpeg)
+![Fuck Banner](https://i.snap.as/zeOD3AWR.png)
 
 ## A guide on digital text fuckery (largely on iOS) from one of the world’s foremost authorities.
+
+<!--more-->
 
 My [project to properly document Bluetooth keyboard support on iPhone](https://uikeycommand.com) has given me a new reverence for accessibility, generally, which might come as a hypocritical statement at the beginning of such a piece, but I *did* [explicitly ask you](https://mastodon.social/@DavidBlue/107589034582138302) if you felt this subject was anti-accessibility before I officially embarked upon writing This Post. I don't consider the answer - a very weak "no" - to be an all-encompassing excuse, whatsoever. If you feel this post's existence has the potential to do real harm, [contact me](https://davidblue.wtf/db.vcf) and I *will* straight up take it down. I dare you. Since I consider myself a genuine authority on Text Fucking, however, I am going to do my best to main unapologetic language when expressing opinions in orbit of the matter. You can trust me, I think.
 
@@ -32,9 +34,11 @@ the discipline of text fucking.
 3. **Text Fuckery** *noun*
 the output... the *result* of the verb.
 
-[[disruption]]
+[disruption](drafts://open?uuid=6BFECB0C-8D3C-4E16-9586-16D56DFA6F4B)
 
 I might also append an esp. in either neutral or constructive applications. Again, a Zalgoed Tweet every once in a while is funny, but mass spamming strangers in peer-to-peer spaces is not. Not funny in any sense. To draw a medium parallel with audio - as I will several times in this guide, you’ll find - genuinely disruptive text manipulation is like choosing to push your pirate radio out on the volunteer-run community station’s frequency instead of the corporate-owned hits channel’s. Any sense you might be doing something worthwhile dramatically vanishes and the possibility of accomplishing something a bit *original*, even, is nullified in the womb.
+
+![gm2](https://i.snap.as/Cu9MC89q.png)
 
 I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a discipline, nearly. At least enough so that I believe this Post is worth it[^1]. Like most disciplines, it can be used for your particular definitions of “good” and/or “bad.” I would like to think most of my use over the years has been toward my own of “good,” but - as per the unsearchable nature of Fucked Text, generally - this is not easily verifiable or citable. Regardless of my performance, however, I genuinely believe Text Fucking can be an endeavor that leads to more “positive” outcomes, whoever you may be. As I did, you might find yourself with a greater appreciation of and a desire to learn more about those individuals and organizations working in the Accessible Technology industry, ever toward a more inclusive digital future. It’s my hope that the weaponization of such an otherwise banal part of life might empower you with the simple fact of your capabilities, even if you don’t ever choose to actually implement them in a single instance.
 
@@ -50,11 +54,21 @@ https://twitter.com/NeoYokel/status/1495487495622045699
 
 My Text Fucking reached its peak proliferation in [the Drywall Era](https://drywallmusic.tumblr.com), when I first discovered the magic of Zalgo Text. The original generator at eemo.net has been replaced by an exact duplicate at [eeemo.net](http://eeemo.net). I have actually managed to successfully duplicate it [on my own NeoCities website](https://davidblue.wtf/zalgo/), as well. You might say that this original Zalgo Generator is The Original Text Fucking Tool. It can still generate quantities of fucked digital text information that *will* Fuck Shit Up on any social network, and as far as I can tell, the entire program is contained within [a single HTML file](https://davidblue.wtf/zalgo/index.html).
 
-As Drywall’s first and second albums - “[Hamura](https://ihadtopee.bandcamp.com/album/hamura)” and “[Suburban Anarchy](https://ihadtopee.bandcamp.com/album/suburban-anarchy),” respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Zalgo Text was the digital text equivalent. In fact, I couldn’t have imagined a more apt way to describe it. *Beyond The Rails* was my cringey “label” name, directly describing this phenomenon. Indeed, Zalgo Text goes beyond the “rails” of text input/display fields reliably, depending on the intensity of the configuration you’re using to create it. 
+As Drywall’s first and second albums - [*Hamura*](https://ihadtopee.bandcamp.com/album/hamura) and [*Suburban Anarchy*](https://ihadtopee.bandcamp.com/album/suburban-anarchy), respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Zalgo Text was the digital text equivalent, though there were others. The latter’s most wildly-entitled track, “Í£Í†Ì„Ì“Ì‡Ì¿Í›ÍÍŽÍÍ¬Ìƒ&ÍÌµÍ‡Ì Ì¥ÌªÌ„ÌÍŒÍ¯Ì“​$​Ì¯Ì»Ì£ÍšÍ’Ì‰ÌÍ‘,” does not actually include any Zalgo text in its title’s final form, [on Bandcamp](https://ihadtopee.bandcamp.com/track/-)[^6], yet I think we can agree it is thoroughly Fucked. *Beyond The Rails* was my cringey “label” name, directly describing, technically, the matter of clipping audio. Indeed, Zalgo Text goes beyond the “rails” of text input/display fields reliably, depending on the intensity of the configuration you’re using to create it. 
 
 https://twitter.com/NeoYokel/status/1493041887279734784
 
-I continue to pursue this discipline in a largely automated way, as we’ll discuss in depth.
+When [iMovie for iPhone](https://apps.apple.com/us/app/imovie/id377298193) first became available, making actual video editing and creation possible on iPhone OS in the iPhone 4 era, I took advantage of a very particular - but extremely powerful - function that was originally allowed creators on YouTube’s iOS app. It’s very hard to describe without being able to show, but it allowed for the rapid addition of tags to any video via an autocomplete-ish feature, up to the full tag limit. The series of Drywall videos that were essentially just vlogs shot from our high school lunch table - entitled *Men and Women of The Armed Forces, This is What You are Fighting For*[^7] (MAWOTAFTIWYAFF) - were all thoroughly tagged this way.
+
+https://www.youtube.com/watch?v=-5eMO8PJJp4
+
+The most notable event in my personal text history, though, happened on Mastodon - as much does these days, if you weren’t aware. I was [posting about Zalgo text’s creation](https://mastodon.social/@DavidBlue/102564857843257870) when **its actual creator**, Dave Higgins - with whom I’d unknowingly been mutuals for some time, apparently - [replied](https://octodon.social/@DaveHiggins/102565065494333224):
+
+<iframe src="https://octodon.social/@DaveHiggins/102565065494333224/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+
+If there is a living God of Text Fucking, surely it is they.
+
+I continue to pursue this discipline in a largely automated way, as we’ll discuss in depth. It’s not an especially practical or beneficial one, no, but it is mine.
 
 ## Apps
 
@@ -62,7 +76,7 @@ The core necessity of any good text fucker is a robust text editing and/or word 
 
 https://twitter.com/draftsapp/status/1492645727729766400
 
-If you don't believe me, here are some more particularly robust text editors on iOS:
+If you don’t believe me, here are some more particularly robust text editors on iOS:
 
 - [Kodex](https://apps.apple.com/us/app/kodex/id1038574481)
 - [Koder](https://apps.apple.com/us/app/koder-code-editor/id1447489375)
@@ -86,7 +100,7 @@ I have previously reviewed two wonderful Text Fucking iOS apps on this blog: [**
 
 ### TextExpander
 
-Another cross-platform application - this one [extending to Windows](https://textexpander.com/download), too - TextExpander has very recently (and quite swiftly) become an integral part of my day-to-day creative life. It’s used by professionals at companies with "thousands of people," supposedly, to “expand” any sort of text, set off scripts (on macOS,) and paste fill in-able templates. These functions are divided into “[snippets](https://textexpander.com/learn/getting-started)” as part of “[snippet groups](https://textexpander.com/learn/getting-started/getting-started-for-admin).” In fact, I’ve created [**a dedicated snippet group to accompany this guide**](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b). You can view all my TextExpander snippets in [this GitHub Repository](https://github.com/extratone/TextExpander).
+Another cross-platform application - this one [extending to Windows](https://textexpander.com/download), too - TextExpander has very recently (and quite swiftly) become an integral part of my day-to-day creative life. It’s used by professionals at companies with “thousands of people,” supposedly, to “expand” any sort of text, set off scripts (on macOS,) and paste fill in-able templates. These functions are divided into “[snippets](https://textexpander.com/learn/getting-started)” as part of “[snippet groups](https://textexpander.com/learn/getting-started/getting-started-for-admin).” In fact, I’ve created [**a dedicated snippet group to accompany this guide**](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b). You can view all my TextExpander snippets in [this GitHub Repository](https://github.com/extratone/TextExpander).
 
 ![TextFuckSnippetGroup](https://user-images.githubusercontent.com/43663476/153726468-25b5a5a9-0381-4720-b1e7-c7fb2ef357d9.png)
 
@@ -190,3 +204,5 @@ I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17
 [3] A few of the single images embedded in this Post are larger than that.
 [4] Nevertheless, I shall do my best to remain ashamed of my redundant inadequacy.
 [5] If you find yourself trying it out, you may as well check out my main Snippet Group, [Extratext](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb), which is documented [here](https://davidblue.wtf/extratext). 
+[6] You might be interested to hear how human Siri Voice 2 sounds [attempting to read the title aloud](https://twitter.com/NeoYokel/status/1500149497111920642).
+[7] It just now occurred to me that the series title wasn’t exactly gender-inclusive, but the series, itself, wasn’t actually of any value, anyway.

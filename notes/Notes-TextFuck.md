@@ -1,12 +1,13 @@
 # Notes-TextFuck
 - [[How to Fuck Text]]
-- [[Principles of Text Fucking]]
+- [Principles of Text Fucking](drafts://open?uuid=194FF296-B132-4A15-A788-1BFDE5D380B9)
 - [How to Fuck Text · Issue #222 · extratone/bilge](https://github.com/extratone/bilge/issues/222)
 - [An Oral History of David Blue - Digital Text Menace](https://whyp.it/t/an-oral-history-of-david-blue-digitext-menace-e3yX9) - Whyp
 - [⨃🄝ɨ∁ɧ⍙℟ for iOS Review](https://bilge.world/unichar-for-ios-app-review)
 - [Z̴͏a͞l͟g͝o͏ ̕G͟͝e͞n͞҉è̛ŗ͡a͝͞t̴o҉r͞ for iOS](https://bilge.world/zalgo-generator-ios-app-review)
 - [Text Fucking · extratone/bilge Wiki](https://github.com/extratone/bilge/wiki/Text-Fucking)
 - [Zalgo Text in a Keyboard Shortcut](https://bilge.world/drafts-zalgo-action)
+- [Dave Higgins Mastodon Thread](here’s the bizarre Mastodon thread in which I realized the creator of Zalgo text and I were mutuals. lol https://mastodon.social/web/@DavidBlue/102565948347237566)
 
 ## General
 - [x] WHEN IM COMIN DINE IN MY FOREIGN AND IM ROLLIN ONE DEEP THAT SHOULD TELL YA BOUT ME and the earliest iOS-native automation. 
