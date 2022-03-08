@@ -1,5 +1,4 @@
 # On Drafts and Obsidian
-[[Notes-Drafts vs. Obsidian]]
 
 ![Draftsidian](https://user-images.githubusercontent.com/43663476/153770870-53acbea2-c058-42e5-95ac-c5db8fab433f.png)
 
@@ -53,7 +52,7 @@ Said Greg Pierce, Drafts creator, quoting from [his 2018 interview with *MacStor
 
 ## Sending
 
-For instance, with a single keyboard shortcut (`^M`,) I can send the full contents of my current draft to an email address of my choice without leaving the app. The same also applies to sending via SMS (`⌥M`, if you care to know.)[^4] I was able to configure these vie the public [Mail Action Wizard](https://tools.getdrafts.com/wizards/mail) and [Messages Action Wizard](https://tools.getdrafts.com/wizards/message), respectively, and they work across iOS, iPadOS and macOS, out of the box, incredibly. I also used the latter to configure an action which sends messages to my [Family Tech Support iMessage group](https://bilge.world/ios-15-family-review) - a mix of 10 digit phone numbers and email addresses - astonishingly easily. It sends messages with the current draft title as the subject line and the body text as the message body.
+For instance, with a single keyboard shortcut (`^M`,) I can send the full contents of my current draft to an email address of my choice without leaving the app. Using an Email-to-Post address (which *The Psalms* does in fact have,) this would mean publishing with that single shortcut. The same also applies to sending via SMS (`⌥M`, if you care to know.)[^4] I was able to configure these vie the public [Mail Action Wizard](https://tools.getdrafts.com/wizards/mail) and [Messages Action Wizard](https://tools.getdrafts.com/wizards/message), respectively, and they work across iOS, iPadOS and macOS, out of the box, incredibly. I also used the latter to configure an action which sends messages to my [Family Tech Support iMessage group](https://bilge.world/ios-15-family-review) - a mix of 10 digit phone numbers and email addresses - astonishingly easily. It sends messages with the current draft title as the subject line and the body text as the message body.
 
 ![Sending Drafts from iMessage](https://user-images.githubusercontent.com/43663476/154845607-1dc5e1c5-759a-4030-84ab-d609491f7acb.png)
 
@@ -123,7 +122,7 @@ By contrast, Obsidian can run on virtually anything, including Windows machines.
 
 ## The Issue
 
-Though this inadvertently turned into a sort of half-review of Drafts/showcase of my own Drafts setup, I really intended to highlight a single concern regarding this whole comparison: **redundancy**. *To Each His Own* is the classic counter-argument I’ve gotten when I’ve brought this up, but - as a Windows user, especially - the wealth of development time being (forgive me) squandered off in the direction of Obsidian without a single clear voice saying “holdup” is just a painful thing to witness. My desire in spending all this time writing is to perhaps prompt a “*wait, haven’t we already done this?*” among prospective third-party users/user-developers. One might say the same of [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273), which is another flavor of the files app-driven iOS text editor, but it’s being built by a single person.
+Though this inadvertently turned into a sort of half-review of Drafts/showcase of my own Drafts setup, I really intended to highlight a single concern regarding this whole comparison: **redundancy**. *To Each His Own* is the classic counter-argument I’ve gotten when I’ve brought this up, but - as a Windows user, especially - the wealth of development time being (forgive me) squandered off in the direction of Obsidian without a single clear voice saying “holdup” is just a painful thing to witness. My desire in spending all this time writing is to perhaps prompt a “*wait, haven’t we already done this?*” among prospective third-party users/user-developers. One might say the same of [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273), which is another flavor of the files app-driven iOS text editor, but it’s being built by a single person on a particular bent. 
 
 ---
 
