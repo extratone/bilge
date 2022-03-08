@@ -54,6 +54,8 @@ https://twitter.com/NeoYokel/status/1495487495622045699
 
 My Text Fucking reached its peak proliferation in [the Drywall Era](https://drywallmusic.tumblr.com), when I first discovered the magic of Zalgo Text. The original generator at eemo.net has been replaced by an exact duplicate at [eeemo.net](http://eeemo.net). I have actually managed to successfully duplicate it [on my own NeoCities website](https://davidblue.wtf/zalgo/), as well. You might say that this original Zalgo Generator is The Original Text Fucking Tool. It can still generate quantities of fucked digital text information that *will* Fuck Shit Up on any social network, and as far as I can tell, the entire program is contained within [a single HTML file](https://davidblue.wtf/zalgo/index.html).
 
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3533156466/size=large/bgcol=fff4e6/linkcol=00006b/tracklist=false/artwork=small/track=549558740/transparent=true/" seamless><a href="https://ihadtopee.bandcamp.com/album/suburban-anarchy">Suburban Anarchy by Drywall</a></iframe>
+
 As Drywall’s first and second albums - [*Hamura*](https://ihadtopee.bandcamp.com/album/hamura) and [*Suburban Anarchy*](https://ihadtopee.bandcamp.com/album/suburban-anarchy), respectively - were studies in [audio clipping](https://en.m.wikipedia.org/wiki/Clipping_(audio)), I felt strongly at the time that Zalgo Text was the digital text equivalent, though there were others. The latter’s most wildly-entitled track, “Í£Í†Ì„Ì“Ì‡Ì¿Í›ÍÍŽÍÍ¬Ìƒ&ÍÌµÍ‡Ì Ì¥ÌªÌ„ÌÍŒÍ¯Ì“​$​Ì¯Ì»Ì£ÍšÍ’Ì‰ÌÍ‘,” does not actually include any Zalgo text in its title’s final form, [on Bandcamp](https://ihadtopee.bandcamp.com/track/-)[^6], yet I think we can agree it is thoroughly Fucked. *Beyond The Rails* was my cringey “label” name, directly describing, technically, the matter of clipping audio. Indeed, Zalgo Text goes beyond the “rails” of text input/display fields reliably, depending on the intensity of the configuration you’re using to create it. 
 
 https://twitter.com/NeoYokel/status/1493041887279734784
@@ -66,13 +68,11 @@ The most notable event in my personal text history, though, happened on Mastodon
 
 <iframe src="https://octodon.social/@DaveHiggins/102565065494333224/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
 
-If there is a living God of Text Fucking, surely it is they.
-
-I continue to pursue this discipline in a largely automated way, as we’ll discuss in depth. It’s not an especially practical or beneficial one, no, but it is mine.
+If there is a living God/Ultimate Sage/Premiere Authority/Professor of Text Fucking, surely it is they, so to have a conversation with them was quite an honor, especially to be able to [call them father](https://mastodon.social/@DavidBlue/102565952197076202), of sorts. I continue to pursue this discipline in a largely automated way, as we’ll discuss in depth. It’s not an especially practical or beneficial one, no, but it is mine. (And Dave Higgins’, to be fair.)
 
 ## Apps
 
-The core necessity of any good text fucker is a robust text editing and/or word processing application. Zalgo text is a real bitch for Electron apps like my dearest [Typora](https://typora.io), unfortunately. On iOS, this summation also applies to [Obsidian](https://obsidian.md), I’m afraid. I recommend native apps like [Drafts](https://apps.apple.com/us/app/drafts/id1435957248) (big surprise) - which astonishingly has [**its very own native Zalgo action**](https://actions.getdrafts.com/a/1vM) as developer Greg’s [gift to me](https://twitter.com/draftsapp/status/1492645727729766400)! - and [Bear](https://apps.apple.com/us/app/bear-markdown-notes/id1016366447) (no less of a surprise.) In terms of default configuration intensity, the Drafts action hits the sweet spot out of the box.
+The core necessity of any good Text Fucker is a robust text editing and/or word processing application. Zalgo text is a real bitch for Electron apps like my dearest [Typora](https://typora.io), unfortunately. On iOS, this summation also applies to [Obsidian](https://obsidian.md), I’m afraid. I recommend native apps like [Drafts](https://apps.apple.com/us/app/drafts/id1435957248) (big surprise) - which astonishingly has [**its very own native Zalgo action**](https://actions.getdrafts.com/a/1vM) as developer Greg’s [gift to me](https://twitter.com/draftsapp/status/1492645727729766400)! - and [Bear](https://apps.apple.com/us/app/bear-markdown-notes/id1016366447) (no less of a surprise.) In terms of default configuration intensity, the Drafts action hits the sweet spot out of the box.
 
 https://twitter.com/draftsapp/status/1492645727729766400
 
@@ -184,7 +184,7 @@ Here are three shortcuts that may or may not be useful to you, each using Shihab
 
 ### Text Case
 
-Christopher R Hannah’s Text Case is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[^4] 
+Christopher R Hannah’s [Text Case](https://apps.apple.com/us/app/text-case/id1492174677) is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[^4] 
 
 ![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)
 
