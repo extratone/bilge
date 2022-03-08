@@ -1,6 +1,6 @@
 # How to Fuck Text
 
-![Fuck Banner](https://i.snap.as/zeOD3AWR.png)
+![ Fuck Banner](https://i.snap.as/zeOD3AWR.png)
 
 ## A guide on digital text fuckery (largely on iOS) from one of the world’s foremost authorities.
 
@@ -19,7 +19,7 @@ It’s already as good a place as any, editorially, to initiate the goddamned �
 
 I won’t share any of your identifying information anywhere, nor will I respond unless you ask, but I *guarantee* I *will* be utterly delighted to receive any volume of Fuckery in any inbox you’re capable of sending it to because I have been so at the half-dozen or so message strings I’ve received over the past few weeks. Even if you somehow manage to find a means of *un*delighting me, that would be a far better scenario for all involved parties than my catching word you used one of my shortcuts to send *Mein Kampf* to a prayer request line or some shit. I promise it will always be more fun to shoot for *constructive disruption* over edgy bullshit, especially in this New Age when nothing is certain and nobody is talking. As much as the person who wrote the Yelp! review, below, would’ve loved to advocate for contribution to the noise for the simple sake of it, he’s fucking dead.
 
-![Discerning Yelp Connoisseur](https://i.snap.as/K2E9UV7S.png)
+![ Discerning Yelp Connoisseur](https://i.snap.as/K2E9UV7S.png)
 
 Hopefully, we’re now free to get specific. Here’s my definition from [the “Text Fucking” entry](https://github.com/extratone/bilge/wiki/Text-Fucking) in [*The Psalms* wiki](https://github.com/extratone/bilge/wiki):
 
@@ -34,11 +34,11 @@ the discipline of text fucking.
 3. **Text Fuckery** *noun*
 the output... the *result* of the verb.
 
-[disruption](drafts://open?uuid=6BFECB0C-8D3C-4E16-9586-16D56DFA6F4B)
+[disruption](drafts://open? uuid=6BFECB0C-8D3C-4E16-9586-16D56DFA6F4B)
 
 I might also append an esp. in either neutral or constructive applications. Again, a Zalgoed Tweet every once in a while is funny, but mass spamming strangers in peer-to-peer spaces is not. Not funny in any sense. To draw a medium parallel with audio - as I will several times in this guide, you’ll find - genuinely disruptive text manipulation is like choosing to push your pirate radio out on the volunteer-run community station’s frequency instead of the corporate-owned hits channel’s. Any sense you might be doing something worthwhile dramatically vanishes and the possibility of accomplishing something a bit *original*, even, is nullified in the womb.
 
-![gm2](https://i.snap.as/Cu9MC89q.png)
+![ gm2](https://i.snap.as/Cu9MC89q.png)
 
 I won’t say Text Fucking is an art. Indeed, perhaps it is anti-art. It *is* a discipline, nearly. At least enough so that I believe this Post is worth it[^1]. Like most disciplines, it can be used for your particular definitions of “good” and/or “bad.” I would like to think most of my use over the years has been toward my own of “good,” but - as per the unsearchable nature of Fucked Text, generally - this is not easily verifiable or citable. Regardless of my performance, however, I genuinely believe Text Fucking can be an endeavor that leads to more “positive” outcomes, whoever you may be. As I did, you might find yourself with a greater appreciation of and a desire to learn more about those individuals and organizations working in the Accessible Technology industry, ever toward a more inclusive digital future. It’s my hope that the weaponization of such an otherwise banal part of life might empower you with the simple fact of your capabilities, even if you don’t ever choose to actually implement them in a single instance.
 
@@ -62,7 +62,7 @@ https://twitter.com/NeoYokel/status/1493041887279734784
 
 When [iMovie for iPhone](https://apps.apple.com/us/app/imovie/id377298193) first became available, making actual video editing and creation possible on iPhone OS in the iPhone 4 era, I took advantage of a very particular - but extremely powerful - function that was originally allowed creators on YouTube’s iOS app. It’s very hard to describe without being able to show, but it allowed for the rapid addition of tags to any video via an autocomplete-ish feature, up to the full tag limit. The series of Drywall videos that were essentially just vlogs shot from our high school lunch table - entitled *Men and Women of The Armed Forces, This is What You are Fighting For*[^7] (MAWOTAFTIWYAFF) - were all thoroughly tagged this way.
 
-https://www.youtube.com/watch?v=-5eMO8PJJp4
+https://www.youtube.com/watch? v=-5eMO8PJJp4
 
 The most notable event in my personal text history, though, happened on Mastodon - as much does these days, if you weren’t aware. I was [posting about Zalgo text’s creation](https://mastodon.social/@DavidBlue/102564857843257870) when **its actual creator**, Dave Higgins - with whom I’d unknowingly been mutuals for some time, apparently - [replied](https://octodon.social/@DaveHiggins/102565065494333224):
 
@@ -88,7 +88,7 @@ If that’s not enough for you, I suggest perusing [Brett Terpstra’s iTextEdit
 
 I have previously reviewed two wonderful Text Fucking iOS apps on this blog: [**UniChar**](https://bilge.world/unichar-for-ios-app-review) and [**Zalgo Generator**](https://bilge.world/zalgo-generator-ios-app-review). There’s now [a macOS version of the latter](https://apps.apple.com/us/app/zalgo-generator/id1304137527) which is particularly powerful - or at least has particularly powerful implications. There are a few more to be discovered, though:
 
-![TextcraftIcon](https://user-images.githubusercontent.com/43663476/153724474-6a64b3d3-cb87-428e-81d6-a900746f9886.png)
+![ TextcraftIcon](https://user-images.githubusercontent.com/43663476/153724474-6a64b3d3-cb87-428e-81d6-a900746f9886.png)
 
 ### Textcraft
 
@@ -96,17 +96,29 @@ I have previously reviewed two wonderful Text Fucking iOS apps on this blog: [**
 
 ![Textcraft for macOS](https://user-images.githubusercontent.com/43663476/153737944-46db7da5-6d85-41da-abd1-78a54bb58b99.png)
 
-![TextExpanderIcon](https://user-images.githubusercontent.com/43663476/153726269-6d8cee5d-116b-4b28-99a0-91842e502456.png)
+Textcraft offers a customizable list of 90 live “transformations” to the text you’re entering. Here’s a directly-quoted list of use cases from [the app’s press kit](https://071cf2cf-09dc-47f7-a1e6-296ba59e1c3a.filesusr.com/archives/5aca2a_49a996e8434a485098cc73c2e2b4f36e.zip? dn=Textcraft_PressKit_ShihabMehboob.zip):
+
+- For a casual tweeter who wants to TyPe LiKe ThIs with minimal effort. 
+- For an influencer needing to add hashtags before all of their words in a massive word cloud sentence before uploading to Instagram.
+- For the coder/designer needing to strip HTML or encode/decode strings in Base64.
+- For the blogger wanting fancy text in bubbles, squares, cursive, or stylised differently on their website.
+- For the website designer who wants to add underscores between all words for use in code, or change the format between cases.
+- For the journalist who wants to redact or underline some text.
+- For the cryptographer who wants to convert strings to SHA128 and SHA256.
+
+In my personal use, I’ve noticed it’s by far the quickest way to add m   u   l   t   i   p   l   e       c   h   a   r   a   c   t   e   r       s   p   a   c   e   s I’ve ever come across, all enabled by the app’s one-touch-to-copy function. As I said in [my App Store review](https://tilde.town/~extratone/appreviews/textcraft), the iOS app weighs in at a featherweight 3.7 MB and a reasonable $4.99 one-time purchase fee, which is high value for someone like me.
+
+![ TextExpanderIcon](https://user-images.githubusercontent.com/43663476/153726269-6d8cee5d-116b-4b28-99a0-91842e502456.png)
 
 ### TextExpander
 
 Another cross-platform application - this one [extending to Windows](https://textexpander.com/download), too - TextExpander has very recently (and quite swiftly) become an integral part of my day-to-day creative life. It’s used by professionals at companies with “thousands of people,” supposedly, to “expand” any sort of text, set off scripts (on macOS,) and paste fill in-able templates. These functions are divided into “[snippets](https://textexpander.com/learn/getting-started)” as part of “[snippet groups](https://textexpander.com/learn/getting-started/getting-started-for-admin).” In fact, I’ve created [**a dedicated snippet group to accompany this guide**](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b). You can view all my TextExpander snippets in [this GitHub Repository](https://github.com/extratone/TextExpander).
 
-![TextFuckSnippetGroup](https://user-images.githubusercontent.com/43663476/153726468-25b5a5a9-0381-4720-b1e7-c7fb2ef357d9.png)
+![ TextFuckSnippetGroup](https://user-images.githubusercontent.com/43663476/153726468-25b5a5a9-0381-4720-b1e7-c7fb2ef357d9.png)
 
-It’s not much just yet, but if you “[subscribe](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)” to my dedicated Text Fuck snippet group from your own account, you’ll be treated to whatever I come up with in the future, delivered to your devices in real time.[^5] The great pro of TextExpander is its target pro usergroup, for which it is built to be reliable and very powerful. It enables quick macros for strings as short as ⁌•-¬䷂☃︎𝄫𝄢⟫L𝔒’⌤⌄∔×−฿🄕𝄢 up to [entire book chapters](https://bilge.world/blimps-burden-chapter-6). It also has more complex functions, likely the most relevant to our use of which being clipboard insertion anywhere within a snippet. Crucial to the strong Text Fucker, this function has high potential for multiplied volume. One might set up a snippet that duplicates the clipboard’s content nine times on new lines and attach the macro `\9`. 
+It’s not much just yet, but if you “[subscribe](https://app.textexpander.com/public/12c50fb2360617d3cc66d757cf26383b)” to my dedicated Text Fuck snippet group from your own account, you’ll be treated to whatever I come up with in the future, delivered to your devices in real time.[ ^5] The great pro of TextExpander is its target pro usergroup, for which it is built to be reliable and very powerful. It enables quick macros for strings as short as ⁌•-¬䷂☃︎𝄫𝄢⟫L𝔒’⌤⌄∔×−฿🄕𝄢 up to [entire book chapters](https://bilge.world/blimps-burden-chapter-6). It also has more complex functions, likely the most relevant to our use of which being clipboard insertion anywhere within a snippet. Crucial to the strong Text Fucker, this function has high potential for multiplied volume. One might set up a snippet that duplicates the clipboard’s content nine times on new lines and attach the macro `\9`. 
 
-![COMIN DINE](https://user-images.githubusercontent.com/43663476/154876382-95749054-1a47-4dec-9e4d-0c2e1229f79e.png)
+![ COMIN DINE](https://user-images.githubusercontent.com/43663476/154876382-95749054-1a47-4dec-9e4d-0c2e1229f79e.png)
 
 ## Automation
 
@@ -120,7 +132,7 @@ Of course, while the means of *distributing* Text Fuckery have gotten vastly mor
 
 ### Siri Shortcuts
 
-![TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)
+![ TextFuckShortcuts](https://user-images.githubusercontent.com/43663476/153750918-ca0c5eb6-0d91-4d7f-b70b-550f0f44c528.png)
 
 A standalone method of general Text Fuckery on iOS is achieved through its relatively “new”[^2] personal automation system, Siri Shortcuts. In fact, Apple includes what I would define as a genuine Text Fucker™ of a shortcut in its default shortcuts gallery, called “[All the Single Ladies ASCII](https://www.icloud.com/shortcuts/51392bf23f104b93baf72000955ed334)” which can be used to create rather adorable text snippets like this:
 
@@ -138,15 +150,15 @@ A standalone method of general Text Fuckery on iOS is achieved through its relat
  /    \
 ```
 
-Through a Reddit thread I’ve never been able to find again, I discovered a method of randomizing strings of text that led to the creation of the Shortcuts you see below, all with native actions (aside from the outputs of those with specific services.) If you’re willing to splurge on the whole 3.3mb, free (for macOS, iPadOS, and iOS) [**Actions app**](https://apps.apple.com/us/app/actions/id1586435171), you can accomplish the same task, but much more quickly and with less resource consumption. I think you can spare the space.[^3]
+Through a Reddit thread I’ve never been able to find again, I discovered a method of randomizing strings of text that led to the creation of the Shortcuts you see at the bottom of this section, all with native actions (aside from the outputs of those with specific services.) If you’re willing to splurge on the whole 3.3mb, free (for macOS, iPadOS, and iOS) [**Actions app**](https://apps.apple.com/us/app/actions/id1586435171), you can accomplish the same task, but much more quickly and with less resource consumption. I think you can spare the space.[ ^3]
 
 Perhaps the best place to start would be with the most documented (and perhaps most unique) Text Fucking Siri Shortcut I have to offer you. “[The Fastest Route to Twitter Jail](https://bilge.world/twitter-jail)” in fact details the workings of [**my Twitter Jail shortcut**](https://routinehub.co/shortcut/11086/), which uses [Tweetbot](http://bilge.world/tweetbot-6-ios-review)’s shortcuts actions to send 310 Tweets of random text in less than four minutes to an account of your specification. 
 
-![Random Text ⇨ Clipboard](https://user-images.githubusercontent.com/43663476/153768899-51ed409f-7fef-46d0-978f-8a5fc19ad5f7.png)
+![ Random Text ⇨ Clipboard](https://user-images.githubusercontent.com/43663476/153768899-51ed409f-7fef-46d0-978f-8a5fc19ad5f7.png)
 
 If you’re new to Shorcuts entirely, what you see above will result in a string of random text copied to your clipboard, so that you can paste it whereever you might “need” to. Notably, I’ve been extremely lazy with the strings, despite having [the absolute best app for creating them](https://apps.apple.com/us/app/unichar-unicode-keyboard/id880811847) on my iPhone. I’d suggest you download it and play around yourself. As I said in [my review](http://bilge.world/unichar-for-ios-app-review), UniChar is a beautiful celebration of the diversity of Unicode. If what I’m talking about isn’t straightforward-sounding to you, [let me know](https://davidblue.wtf/db.vcf)! I absolutely *will* sit down and build something just for you.
  
-![RandomTextAction](https://user-images.githubusercontent.com/43663476/153781368-a58bbb73-5675-48d6-9317-3538701a27d1.png)
+![ RandomTextAction](https://user-images.githubusercontent.com/43663476/153781368-a58bbb73-5675-48d6-9317-3538701a27d1.png)
 
 #### Text-Fucking Siri Shortcuts with Actions
 
@@ -159,7 +171,7 @@ These three shortcuts require [the Actions app](https://apps.apple.com/us/app/ac
 https://twitter.com/NeoYokel/status/1492926569496649730
 
 <video controls>
-  <source src=“https://user-images.githubusercontent.com/43663476/153750931-30b05024-a3dd-4939-8d84-fcd0cafa8537.MOV”>
+  <source src=“https://user-images.githubusercontent.com/43663476/153750931-30b05024-a3dd-4939-8d84-fcd0cafa8537. MOV”>
 </video>
 
 #### Text-Fucking Siri Shortcuts with Toolbox Pro, Actions, and Aviary
@@ -180,17 +192,17 @@ Here are three shortcuts that may or may not be useful to you, each using Shihab
 - [Random Text ⇨ Tumblr](https://www.icloud.com/shortcuts/3c38ca0a7ec9413f9c9a6f6328fb1b09)
 - [Random Text ⇨ WordPress](https://www.icloud.com/shortcuts/07668aacd5ce4e59b76dd54ffc255209)
 
-![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)
+![ TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)
 
 ### Text Case
 
-Christopher R Hannah’s [Text Case](https://apps.apple.com/us/app/text-case/id1492174677) is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[^4] 
+Christopher R Hannah’s [Text Case](https://apps.apple.com/us/app/text-case/id1492174677) is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[ ^4] 
 
-![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)
+![ MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)
 
 Without being able to share my own “flows” (unfortunately,) all I can share with you is [this Siri Shortcut](https://www.icloud.com/shortcuts/6fd60faf566142b3b7d1fb0a0631fa1b) which is called from [this Drafts action](https://actions.getdrafts.com/a/1wQ) to reformat selected text (or the entire contents of the current draft) into proper MLA Title format before amending the results to a specific draft. I also created and published a shortcut called “[Speak Word Count](https://routinehub.co/shortcut/11094)” which uses Text Case’s Word Count “format” and [Siri Speech Synthesis](https://bilge.world/siri-tts) to speak aloud the word count of either the current selection (from the share sheet) or the contents currently in the system clipboard.
 
-![Fuck Shortcut](https://user-images.githubusercontent.com/43663476/154841943-3ba7b019-c146-4765-90b1-2f52e34f3911.png)
+![ Fuck Shortcut](https://user-images.githubusercontent.com/43663476/154841943-3ba7b019-c146-4765-90b1-2f52e34f3911.png)
 
 I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17bb3b4d8897aae29c) - a Siri Shortcut with three of my favorite Text Case formattings so far in succession: “Mocking Spongebob” (ick,) “Upside Down,” and “Clap Case.” It acts upon - and replaces - any text you’ve copied to the clipboard. Here’s an example:
 
