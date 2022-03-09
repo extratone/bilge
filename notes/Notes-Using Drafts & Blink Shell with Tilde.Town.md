@@ -18,6 +18,7 @@
 - [[“Using the iPad Pro as my development machine”]]
 - [Setting up an iPad for coding is my greatest feat as a computer user](https://www.theverge.com/circuitbreaker/2018/3/27/17152482/ipad-pro-web-development-setup-how-to-terminal-apps) | *The Verge*
 - [[“Setting up an iPad for coding is my greatest feat as a computer user”]]
+- [~vilmibm's tilde town shrine](https://tilde.town/~vilmibm/town.html)
 
 ## Documentation
 - [[FEELS MANUAL]] ...if only it wasn’t called *feels*
@@ -26,6 +27,7 @@
 - [Blink adds Wake On LAN command](https://github.com/blinksh/blink/issues/951)
 - [Mosh Research Paper](https://mosh.org/mosh-paper.pdf)
 - [Mosh Essay](https://www.usenix.org/system/files/login/articles/winstein.pdf)
+- [Docs for xcall Command](drafts://open?uuid=E6DB8345-04E4-4665-837B-E25CD4C302ED)
 
 ## Images
 - [ ] `![BlinktoTilde](https://tilde.town/~extratone/images/blinktotilde.png)`
@@ -61,6 +63,7 @@
 - [ ] ![Digital Ocean Speedtest](https://user-images.githubusercontent.com/43663476/157373390-fc5db582-c592-4c60-9c27-abb060b2866a.png)
 - [ ] ![Blink Autocomplete](https://user-images.githubusercontent.com/43663476/157376845-c2adf11e-7f8c-44d1-8a37-fec0a9fabbcc.png)
 - [ ] ![Blink Settings](https://user-images.githubusercontent.com/43663476/157378620-9fb29373-d49e-4519-b734-8c75caf54dad.png)
+- [ ] ![Blink and Code](https://user-images.githubusercontent.com/43663476/157388631-7668b9d9-22e7-4fef-8c36-1081e213c193.png)
 
 ### Town Mail
 

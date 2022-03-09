@@ -29,15 +29,43 @@ First, Blink’s settings menu is accessed by typing `config` and/or `⌘,`. Unf
 
 ![Local UNIX Commands in Blink-ManPage](https://user-images.githubusercontent.com/43663476/155014762-7b8bfc6d-d6df-418a-b43e-6d7aa56582bb.png)
 
-Compared with its fork, a-Shell, Blink’s local UNIX command list is a bit sparse. It’s accessed exclusively with `TAB`.
+Compared with its fork, a-Shell, Blink’s local UNIX command list is a bit sparse. It’s accessed exclusively with `TAB`. Where a-Shell has `pickFolder`, Blink has `link-files`, which does effectively the same thing: the Files app is opened, prompting you to select a folder, which will become visible and accessible in the command line.
+
+![Repository Cleaning](https://user-images.githubusercontent.com/43663476/156869875-93a67975-beb2-4a25-a855-b845514ed8b3.png)
+
+Linking [*The Psalms*’ GitHub Repository](https://github.com/extratone/bilge) in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) with `link-files` in Blink had profound results. I was offered a brief glance of that enhanced productivity command line evangelists always seem to be on about, if only because the files and directories were color-coded by type so distinctly. `open` also somehow lead to swifter previews than in Working Copy, despite that app’s brilliance.
+
+![BaityYouTubeThumbnail](https://user-images.githubusercontent.com/43663476/155200832-d2d5fdcb-9538-4f3e-be46-e3b203f28f17.png)
+
+Some other particularly intriguing standouts include `say`, which unfortunately does *not* use your preferred Siri voice to speak aloud text, but rather the oldest there is. `facecam` will open a manipulatable circle of your device’s front-facing camera view, as shown in the screenshot embedded above. `openurl` will instantly open a formally-formatted web URL in Safari, which can come in handy. `pbcopy` and `pbpaste` really do manipulate the iOS system clipboard, which I probably find more impressive than I should. `code` is the newest to the bunch and will open a local instance of GitHub Codespaces(?) If this is truly useful on iPad - which plenty of positive feedback on social suggests it is, to at least a few human beings - it is barely usable on iPhone, which is to be expected, really.
+
+![Blink and Code](https://user-images.githubusercontent.com/43663476/157388631-7668b9d9-22e7-4fef-8c36-1081e213c193.png)
+
+Blink’s own “[UNIX Command Line Tools Roundup](https://docs.blink.sh/advanced/unix-roundup)” does an okay job of outlining the rest of the basic networking and file management commands included that act locally, though I’ve still been unable to find out what `skstore` does. `xcall` opens x-callback-URLs, though I’m [still trying to figure out](https://reddit.com/r/BlinkShell/comments/ta27h9/docs_for_xcall_command) what the command’s options are. `ed` the ancient command line text editor is available, though I’ve yet to learn to use it, and `uptime` appears to be actually accurate?
 
 ![Importing Keys in Blink Shell](https://user-images.githubusercontent.com/43663476/154846142-4d16aa31-ee99-4ce9-94c5-852765d7d0b7.png)
 
-## SSH
+## Remotes with SSH and Mosh
 
 If you’re entirely new to SSH as a concept, I’ve found no better introduction than [Tilde.Town’s own SSH Primer](https://tilde.town/~extratone/wiki/getting-started/ssh.html). I screwed up my first attempt at obtaining a key, but Town Maintainer [vilmibm](https://tilde.town/~vilmibm) kindly responded to my Twitter DM in December of last year asking to instate a new key. I can’t remember whether or not I generated it originally within Blink, but regardless, the app’s key management is as intuitive as I’ve seen. 
 
 ![Blink Autocomplete](https://user-images.githubusercontent.com/43663476/157376845-c2adf11e-7f8c-44d1-8a37-fec0a9fabbcc.png)
+
+One of my unexpected favorite bits about Blink is its autocomplete feature which applies to both “commands and hosts” as quoted from [its singular mention in the docs](https://docs.blink.sh/whats-new#version-100). There very well could be a better means of typing out absurdly long filenames in other terminal emulators, but I’ve personally not come across anything remotely like this magic of Blink’s. Especially for someone newish to the command line like myself, its autocomplete occasionally borders on “intelligent auto*suggestion*” without actually crossing the threshold in an irritating way. Once I configured Tilde.Town as a host (with the local name Tilde.Town,) all I need do to connect is begin to type `ssh T` or `mosh T` (ssh keys == mosh keys, which I wish I knew weeks ago) and `TAB` to complete the full `ssh Tilde.Town` or `mosh Tilde.Town` commands.
+
+![Adding Files App Locations in Blink](https://user-images.githubusercontent.com/43663476/154846342-b9d49f30-61c4-438d-8886-0414951807f6.png)
+
+Once you’ve connected to Town, you should take advantage of [Blink’s Files app integration](https://docs.blink.sh/advanced/files-app) by adding a location at the bottom of its entry in the Hosts menu. This adds Blink to the master, root list of file providers in the app. From there, all of the Files app’s features (including drag-and-drop) will apply to Tilde.Town as long as you’re sustaining at least one connection via ssh or mosh.
+
+![Blink File Providers](https://user-images.githubusercontent.com/43663476/154846662-df10d713-6f54-46d2-8fb9-d1f77d42b14e.png)
+
+To illustrate, here’s a wee, one-take tutorial on uploading images this way:
+
+### Mini Tutorial: [Uploading images to the Tildeverse with Blink Shell](https://tilde.town/~extratone/videos/uploadingimageswithblink.MP4)
+
+<video controls>
+  <source src="https://tilde.town/~extratone/videos/uploadingimageswithblink.MP4">
+</video>
 
 ---
 
