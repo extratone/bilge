@@ -9,13 +9,15 @@
 ## General
 - You can lock the phone with the external display running, but it won’t update, even with mosh and `geo` on.
 - Mention the fork, [a-Shell](https://apps.apple.com/us/app/a-shell/id1473805438).
-- In-app notifications seem to happen relatively arbitrarily.
+- In-app notifications seem to happen relatively arbitrarily - winget, for instance, will just fire off constant notifications if you let it.
 
 ## Documentation
 - [[FEELS MANUAL]] ...if only it wasn’t called *feels*
 - [^ on Tilde](https://tilde.town/~extratone/manual/feels/)
 - [UNIX Command Line Tools Roundup | Blink Shell](https://docs.blink.sh/advanced/unix-roundup)
 - [Blink adds Wake On LAN command](https://github.com/blinksh/blink/issues/951)
+- [Mosh Research Paper](https://mosh.org/mosh-paper.pdf)
+- [Mosh Essay](https://www.usenix.org/system/files/login/articles/winstein.pdf)
 
 ## Images
 - [ ] `![BlinktoTilde](https://tilde.town/~extratone/images/blinktotilde.png)`
@@ -41,6 +43,12 @@
 - [ ] `![w3m](https://user-images.githubusercontent.com/43663476/155915293-4bfa4ac8-4441-4f0d-b0b4-f3ae311f45f6.png)`
 - [ ] ![Dot Gov bbj](https://user-images.githubusercontent.com/43663476/156838413-b6195682-6b40-401c-b667-be332784f244.png)
 - [ ] ![Repository Cleaning](https://user-images.githubusercontent.com/43663476/156869875-93a67975-beb2-4a25-a855-b845514ed8b3.png)
+- [ ] ![Broadcast Theme](https://user-images.githubusercontent.com/43663476/156903296-1897cc00-eeab-4014-a112-c8ef5933448e.png)
+- [ ] ![Floraverse Theme](https://tilde.town/~extratone/images/floraverse.png)
+- [ ] ![Blink Icon](https://tilde.town/~extratone/icons/blink.png)
+- [ ] ![iSH Shell](https://user-images.githubusercontent.com/43663476/157366813-507c80a8-7e9a-4bfc-9a0b-f8c47f79ea16.png)
+- [ ] ![a-Shell](https://user-images.githubusercontent.com/43663476/157366827-f2ee4e44-397a-4832-82ea-a06cb1138c73.png)
+- [ ] ![iSH Shell and a-Shell](https://user-images.githubusercontent.com/43663476/157366845-a604bd4c-3ea8-46fe-85e6-930adb8ca180.png)
 
 ### Town Mail
 
