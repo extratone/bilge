@@ -1,4 +1,6 @@
 # Notes-Using Drafts & Blink Shell with Tilde.Town
+- [[Tilde.Town on iPhone with Blink Shell (Attempt 1)]]
+- [Tilde.Town on iPhone with Blink Shell (Attempt 1)](drafts://open?uuid=E43D7483-F933-47DE-989C-BFD1D6931C1A)
 - [GitHub Issue](https://github.com/extratone/bilge/issues/307)
 - [Tilde](https://tilde.town/~extratone/blink)
 - [SSH Primer for TildeTown](https://tilde.town/~extratone/wiki/getting-started/ssh.html)
@@ -10,6 +12,12 @@
 - You can lock the phone with the external display running, but it won’t update, even with mosh and `geo` on.
 - Mention the fork, [a-Shell](https://apps.apple.com/us/app/a-shell/id1473805438).
 - In-app notifications seem to happen relatively arbitrarily - winget, for instance, will just fire off constant notifications if you let it.
+
+## References
+- [Using the iPad Pro as my development machine](https://arslan.io/2019/01/07/using-the-ipad-pro-as-my-development-machine/) | Fatih Arslan
+- [[“Using the iPad Pro as my development machine”]]
+- [Setting up an iPad for coding is my greatest feat as a computer user](https://www.theverge.com/circuitbreaker/2018/3/27/17152482/ipad-pro-web-development-setup-how-to-terminal-apps) | *The Verge*
+- [[“Setting up an iPad for coding is my greatest feat as a computer user”]]
 
 ## Documentation
 - [[FEELS MANUAL]] ...if only it wasn’t called *feels*
@@ -29,7 +37,7 @@
 - [ ] `![Blink iOS Notification](https://user-images.githubusercontent.com/43663476/154821329-1e69b926-95e0-49cf-ad62-299734c40175.png)`
 - [ ] `![Town Forums](https://user-images.githubusercontent.com/43663476/154822545-2af4927e-1faf-4c57-af06-bbf998ebf95d.png)`
 - [ ] `![TildeTown htop](https://user-images.githubusercontent.com/43663476/154873966-cf9fbcce-ed9f-4410-a796-7a4632798339.png)`
-- [ ] `![Local UNIX Commands in Blink-ManPage](https://user-images.githubusercontent.com/43663476/155014762-7b8bfc6d-d6df-418a-b43e-6d7aa56582bb.png)`
+- [ ] ![Local UNIX Commands in Blink-ManPage](https://user-images.githubusercontent.com/43663476/155014762-7b8bfc6d-d6df-418a-b43e-6d7aa56582bb.png)
 - [ ] `![Local UNIX Commands in Blink-CLRS](https://user-images.githubusercontent.com/43663476/155014803-2364cf54-2313-4298-b8d7-6332e40d8c57.png)`
 - [ ] `![Signing a Guestbook in Blink](https://user-images.githubusercontent.com/43663476/155023070-8be27b2f-4ac9-4ac9-8c8e-df578dddf6c3.png)`
 - [ ] `![Blink Blogging](https://user-images.githubusercontent.com/43663476/155053028-e9299d65-2f22-4ae1-95a4-aca9c61847c0.png)`
@@ -49,6 +57,10 @@
 - [ ] ![iSH Shell](https://user-images.githubusercontent.com/43663476/157366813-507c80a8-7e9a-4bfc-9a0b-f8c47f79ea16.png)
 - [ ] ![a-Shell](https://user-images.githubusercontent.com/43663476/157366827-f2ee4e44-397a-4832-82ea-a06cb1138c73.png)
 - [ ] ![iSH Shell and a-Shell](https://user-images.githubusercontent.com/43663476/157366845-a604bd4c-3ea8-46fe-85e6-930adb8ca180.png)
+- [ ] ![Apreche Reply](https://user-images.githubusercontent.com/43663476/157371504-32ebbca7-81bf-43c0-a762-cdbc0ad50181.png)
+- [ ] ![Digital Ocean Speedtest](https://user-images.githubusercontent.com/43663476/157373390-fc5db582-c592-4c60-9c27-abb060b2866a.png)
+- [ ] ![Blink Autocomplete](https://user-images.githubusercontent.com/43663476/157376845-c2adf11e-7f8c-44d1-8a37-fec0a9fabbcc.png)
+- [ ] ![Blink Settings](https://user-images.githubusercontent.com/43663476/157378620-9fb29373-d49e-4519-b734-8c75caf54dad.png)
 
 ### Town Mail
 

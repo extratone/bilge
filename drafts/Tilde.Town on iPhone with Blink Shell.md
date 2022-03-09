@@ -1,69 +1,44 @@
 # Tilde.Town on iPhone with Blink Shell
+- [Tilde.Town on iPhone with Blink Shell (Attempt 1)](drafts://open?uuid=E43D7483-F933-47DE-989C-BFD1D6931C1A)
 
-![bbj Out](https://user-images.githubusercontent.com/43663476/155115271-faa55bfd-d151-4741-9a6c-e9664a457503.png)
+![Blink Folder](https://tilde.town/~extratone/icons/blinkfolder.png)
 
 *A work-in-progress guide to using [Blink Shell](https://testflight.apple.com/v1/app/1156707581) with one’s Tilde site on iPhone*.
 
-I can’t remember how I discovered it, exactly, but maintaining a presence on [The Tildeverse](https://tildeverse.org) was a goal of mine for a long time. I would’ve achieved it in the Summer of 2020, but I had absolutely zero understanding of how SSH worked and managed to almost instantly bunk my signup to [Tilde.Town](https://tilde.town). After renewing my key at the end of 2021, however, I’ve been gradually building up [My Page](https://tilde.town/~extratone), and doing so exclusively on and from [my iPhone 12 Pro Max](https://github.com/extratone/jorts). I’ve done so using a beautiful app called [Blink Shell](https://blink.sh), which offers a free “[Community Edition](https://testflight.apple.com/v1/app/1156707581)” in the form of that Testflight link. I’ve just become a subscriber of something called “Blink+” for $19.99 a year... [perhaps in haste](https://reddit.com/r/BlinkShell/comments/sq3zur/_/hxlvgq4/?context=1). I did so within the application entitled “[Blink Shell & Code](https://apps.apple.com/us/app/blink-shell-code/id1594898306)” on the App Store.
+I was completely unaware of the Tildeverse’s origin story - documented in [a Medium post](https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf) by *WIRED* Editor-in-Chief, Paul Ford - until this year, somehow, though I knew of its existence as far back as 2018. I was living in an unairconditioned Portland apartment, then, and had found myself *stuck* with Linux for the first time in my adult life. Consequentially, this period of my life became my first true introduction to the Command Line - a space I knew no more about than the layest layman. Hopping between my system’s shell and the DOS machines I was emulating on it (to explore the history of word processors, mostly,) I believe I struggled through dare I say a Rite of Computing Passage, obtaining the capability (and eventually, the muscle memory) to navigate a filesystem with `cd`, `ls`, and (on DOS) `dir`. It wasn’t until I came home in ‘19 that I discovered the two primary emulated Linux shells *on iOS*: [**iSH Shell**](https://apps.apple.com/us/app/ish-shell/id1436902243) and [**a-Shell**](https://apps.apple.com/us/app/a-shell/id1473805438).
 
-https://twitter.com/blinkshell/status/1492143584006397955
+![iSH Shell and a-Shell](https://user-images.githubusercontent.com/43663476/157366845-a604bd4c-3ea8-46fe-85e6-930adb8ca180.png)
 
-![Blink+ Explanation](https://tilde.town/~extratone/images/blinkplusexplanation.jpeg)
+The former is designed to emulate [Alpine Linux](https://alpinelinux.org) and has just recently added direct filesystem access via the Files app. The latter is, I’m told, quite extensible, and includes Siri Shortcuts actions that have enabled it to underpin powerful scraping shortcuts like [SW-DLT](https://routinehub.co/shortcut/7284/) - a sort of frontend for youtube-dl and now yt-dlp. Both are open source, but a-Shell is actually [a fork](https://github.com/holzschu/a-shell) of our subject app, now called “[**Blink Shell & Code**](https://apps.apple.com/us/app/blink-shell-code/id1594898306)” in the App Store.[^1]
 
-Apparently, without Blink+, users of said app will be bothered with a reminder about subscribing “no more than 3 times a day.” Personally, I was just hoping for access to [Blink’s Siri Shortcuts actions](https://user-images.githubusercontent.com/43663476/154815568-950d948e-4cb9-4213-9d97-fd68af4973eb.png), which reference starting and stopping a remote machine. 
+![bbj Out](https://user-images.githubusercontent.com/43663476/155115271-faa55bfd-d151-4741-9a6c-e9664a457503.png)
 
-![Blink Subscription Plan](https://user-images.githubusercontent.com/43663476/154814967-55b990ff-a752-484e-9539-f217c177bfbd.png)
+Blink’s tag is “a professional, desktop grade terminal for iOS.” Its [landing page](https://blink.sh) touts a “first class iOS experience, with software and hardware keyboard, and the full edge-to-edge experience” experience. On *iPad*, Blink’s heyday was well documented by the likes of [Paul Miller’s 2018 article for *The Verge*](https://www.theverge.com/circuitbreaker/2018/3/27/17152482/ipad-pro-web-development-setup-how-to-terminal-apps) and Fatih Arslan’s 2019 “[Using the iPad Pro as my development machine](https://arslan.io/2019/01/07/using-the-ipad-pro-as-my-development-machine/).” These pieces more or less detail different use cases of the exact sort Blink was designed for - “professional” work done using an iPad as the terminal for a remote Linux/macOS machine.
 
-![Blink Siri Shortcuts Actions](https://user-images.githubusercontent.com/43663476/154815568-950d948e-4cb9-4213-9d97-fd68af4973eb.png)
+![Apreche Reply](https://user-images.githubusercontent.com/43663476/157371504-32ebbca7-81bf-43c0-a762-cdbc0ad50181.png)
 
-Anyway, Blink is gorgeous, regardless of the price, and I expect that Testflight link to last a long time. I’ll let [TildeTown’s own SSH primer](https://tilde.town/~extratone/wiki/getting-started/ssh.html) explain the basics, but notably, Blink Shell allowed me to simply import my SSH key from my password manager as a text file.
+Since I’ve [apparently](https://twitter.com/NeoYokel/status/1421410673049972739) turned my life goal into doing stuff on my iPhone originally meant to be done on iPads, I’ve managed to find myself [an active member](https://tilde.town/~extratone) of the Tilde.Town community - a place exclusively accessible via SSH, aside from [public pages](https://raindrop.io/davidblue/tilde-22520136) - exclusively through [my iPhone 12 Pro Max](https://github.com/extratone/jorts). I’m not the first to use Blink to do this - note [Apreche](https://tilde.town/~apreche)’s reply to my thread, embedded above - but I suspect I’m the first to spend significant Town Time on my *fucking phone*, so I thought it might be worth laying out some of the particulars I’ve learned along the way. 
 
-![Importing Keys in Blink Shell](https://user-images.githubusercontent.com/43663476/154846142-4d16aa31-ee99-4ce9-94c5-852765d7d0b7.png)
+*It’s important to note that 99% of the use detailed in this guide/account involves the use of a paired Bluetooth keyboard.*
 
-Now, in order to connect, all I need do is run the command `ssh Tilde.Town`. What I wish I’d realized weeks ago: **ssh keys == mosh keys**. Running `mosh Tilde.Town` works without any further configuration from this point.
+![Blink Settings](https://user-images.githubusercontent.com/43663476/157378620-9fb29373-d49e-4519-b734-8c75caf54dad.png)
 
-![Adding Files App Locations in Blink](https://user-images.githubusercontent.com/43663476/154846342-b9d49f30-61c4-438d-8886-0414951807f6.png)
+## Locally
 
-From my perspective, [Blink’s documentation regarding the addition of Files App locations](https://docs.blink.sh/advanced/files-app) in the “Hosts” menus is a bit misleading. “Just flip the switch” is more or less accurate, but regrettably, the sort of “integration” Blink allows doesn’t actually lend toward moving files between other iOS file providers, nor does it allow much access from other apps like [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) and Drafts, not to mention Shortcuts. 
-
-![Blink File Providers](https://user-images.githubusercontent.com/43663476/154846662-df10d713-6f54-46d2-8fb9-d1f77d42b14e.png)
-
-Regardless, being able to access Tilde.Town files from within the Files app GUI - which is a bit slow, but works most of the time - should be especially handy for those new to the command line. In fact, I can’t really think of any desktop equivalent to this function, but I’m quite behind on my knowledge of Linux software. Since the filesystem of any machine you’re moshing or sshing into can be shown this way, here’s an example of files on a remote Mac:
-
-![Remote Mac Files](https://user-images.githubusercontent.com/43663476/155912890-d5f33a52-c211-4616-bd7a-cb4556564d68.png)
-
-You’ll need to consider that compressed files cannot be reliably uncompressed from this view - you’ll have to take to the command line for that or uncompress them locally, first.
-
-![Town Help](https://tilde.town/~extratone/images/blinktotilde.png)
-
-![Town Chat in Blink](https://user-images.githubusercontent.com/43663476/154862497-07b02606-a67a-46a8-bb77-74564d2f7f27.png)
-
-## Chat
-
-The IRC client TildeTown uses is called [WeeChat](https://weechat.org) and - especially if it’s been as long for you as it had been for me - you might find (as I did) learning the ropes to be a bit dubitable. I’ve [duplicated the full User Guide](https://tilde.town/~extratone/manual/weechat/) for your consideration. I got stuck at the concept of switching buffers, so my Big Pro hint is to start off running `/buffer 1` followed by `help`. 
-
-## Images and Videos
-
-What I didn’t realize until recently is that Blink actually makes my entire TildeTown presence available in the Files app.
-
-![Town Directory in the Files App with Blink](https://tilde.town/~extratone/images/dir.png)
-
-This appears to be a persistent remote SSH connection because files added here become *instantly* viewable on the web, as illustrated by [my brief video tutorial](https://tilde.town/~extratone/videos/uploadingimageswithblink.MP4) embedded below:
-
-### Mini Tutorial: [Uploading images to the Tildeverse with Blink Shell](https://tilde.town/~extratone/videos/uploadingimageswithblink.MP4)
-
-<video controls>
-  <source src="https://tilde.town/~extratone/videos/uploadingimageswithblink.MP4">
-</video>
+First, Blink’s settings menu is accessed by typing `config` and/or `⌘,`. Unfortunately, there’s no method of installing the entire selection of available [fonts](https://github.com/blinksh/fonts) or [themes](https://github.com/blinksh/themes) - you’ll have to do so one at a time, though you can optimize the process by learning/copy-and-pasting the url scheme for the fonts/themes directories on their respective repos. I especially recommend [CLRS](https://github.com/blinksh/themes/blob/master/themes/CLRS.js), [Man Page](https://github.com/blinksh/themes/blob/master/themes/Man%20Page.js), and [MonaLisa](https://github.com/blinksh/themes/blob/master/themes/MonaLisa.js), but this Post is saturated with *too* many mocked up screenshots of Blink themes to reasonably continue that list any further.
 
 ![Local UNIX Commands in Blink-ManPage](https://user-images.githubusercontent.com/43663476/155014762-7b8bfc6d-d6df-418a-b43e-6d7aa56582bb.png)
 
-## Local Commands
+Compared with its fork, a-Shell, Blink’s local UNIX command list is a bit sparse. It’s accessed exclusively with `TAB`.
 
-Linking [*The Psalms*’ GitHub Repository](https://github.com/extratone/bilge) in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807) with `link-files` in Blink had profound results. I was offered a brief glance of that enhanced productivity command line evangelists always seem to be on about, if only because the files and directories were color-coded by type so distinctly. `open` also somehow lead to swifter previews than in Working Copy, despite that app’s brilliance.
+![Importing Keys in Blink Shell](https://user-images.githubusercontent.com/43663476/154846142-4d16aa31-ee99-4ce9-94c5-852765d7d0b7.png)
 
-![Repository Cleaning](https://user-images.githubusercontent.com/43663476/156869875-93a67975-beb2-4a25-a855-b845514ed8b3.png)
+## SSH
 
-## Drafts
+If you’re entirely new to SSH as a concept, I’ve found no better introduction than [Tilde.Town’s own SSH Primer](https://tilde.town/~extratone/wiki/getting-started/ssh.html). I screwed up my first attempt at obtaining a key, but Town Maintainer [vilmibm](https://tilde.town/~vilmibm) kindly responded to my Twitter DM in December of last year asking to instate a new key. I can’t remember whether or not I generated it originally within Blink, but regardless, the app’s key management is as intuitive as I’ve seen. 
 
-I’ve also configured [an action](https://actions.getdrafts.com/a/1wO) for AgileTortoise’s [Drafts](https://apps.apple.com/us/app/drafts/id1435957248) (my preferred writing space for most of my adult life) which copies the contents of my current draft as HTML via [my template](https://tilde.town/~extratone/template/1.3.txt). I’ve also set this action to the keyboard shortcut `⇧^⌥C`. I then enter blink and use GNU-nano, Tilde-side, to write the contents. I’m almost positive this is *not* the most elegant means of transferring content, but honestly, it’s so quick to just trigger my HTMLizing-to-clipboard action with `⇧^⌥C`, switch to Blink, and then regular ole `⌘V` paste into nano, `^O` + `^X` to (formally) write out and exit that my brief musings about the Blink URL scheme have felt particularly ridiculous.
+![Blink Autocomplete](https://user-images.githubusercontent.com/43663476/157376845-c2adf11e-7f8c-44d1-8a37-fec0a9fabbcc.png)
+
+---
+
+[1] [Blink’s icon](https://tilde.town/~extratone/icons/blink.png) is perhaps my most favorite of any application, ever.
