@@ -168,8 +168,6 @@ These three shortcuts require [the Actions app](https://apps.apple.com/us/app/ac
 - [Random Characters ⇨ Mastodon](https://www.icloud.com/shortcuts/af64b43604334d21ad5a6668471b828f)
 - [Random Characters ⇨ Tumblr](https://www.icloud.com/shortcuts/399a857145e34d8b94b994fa3f9ca300)
 
-https://twitter.com/NeoYokel/status/1492926569496649730
-
 <video controls>
   <source src=“https://user-images.githubusercontent.com/43663476/153750931-30b05024-a3dd-4939-8d84-fcd0cafa8537. MOV”>
 </video>
@@ -192,13 +190,17 @@ Here are three shortcuts that may or may not be useful to you, each using Shihab
 - [Random Text ⇨ Tumblr](https://www.icloud.com/shortcuts/3c38ca0a7ec9413f9c9a6f6328fb1b09)
 - [Random Text ⇨ WordPress](https://www.icloud.com/shortcuts/07668aacd5ce4e59b76dd54ffc255209)
 
-![ TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)
+![Text Case Icon](https://user-images.githubusercontent.com/43663476/154006137-74a7006f-862a-40b1-96e4-258b5b49ed2d.png)
 
 ### Text Case
 
-Christopher R Hannah’s [Text Case](https://apps.apple.com/us/app/text-case/id1492174677) is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[ ^4] 
+Christopher R Hannah’s [Text Case](https://apps.apple.com/us/app/text-case/id1492174677) is by far the most modern of all the dedicated text manipulation applications I have to share with you. Available (separately) on both [macOS](https://apps.apple.com/us/app/terminology-dictionary/id687798859) and [iOS](https://apps.apple.com/us/app/text-case/id1407730596), it’s a “flow”-based, Siri Shortcuts-resembling text formatting app with some very powerful functions. 
 
-![ MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)
+![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)
+
+I know that’s basically word-for-word what anyone else’s had to say about it since its debut, four years ago... I apologize for the redundancy, but the way it works is extremely hard to describe in a way that makes any sense, especially just with a few video clips and/or static images.[ ^4] 
+
+![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)
 
 Without being able to share my own “flows” (unfortunately,) all I can share with you is [this Siri Shortcut](https://www.icloud.com/shortcuts/6fd60faf566142b3b7d1fb0a0631fa1b) which is called from [this Drafts action](https://actions.getdrafts.com/a/1wQ) to reformat selected text (or the entire contents of the current draft) into proper MLA Title format before amending the results to a specific draft. I also created and published a shortcut called “[Speak Word Count](https://routinehub.co/shortcut/11094)” which uses Text Case’s Word Count “format” and [Siri Speech Synthesis](https://bilge.world/siri-tts) to speak aloud the word count of either the current selection (from the share sheet) or the contents currently in the system clipboard.
 
@@ -210,7 +212,17 @@ I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17
 ᴉ┴ 👏 ∀ɔʇs 👏 nԀou 👏  👏  👏 ∀up 👏 ɹƎd˥ɐɔǝs 👏  👏  👏 ∀u⅄ 👏 ┴Ǝx┴ 👏 ⅄On’Λǝ 👏 ɔoԀIǝp 👏 ┴o 👏 ʇɥǝ 👏 ɔlᴉdqo∀ɹp
 ```
 
-—-
+![Dwafts](https://user-images.githubusercontent.com/43663476/157349288-2fff224d-05dd-4bcf-a4e3-feec486ac6fa.png)
+
+### Drafts
+
+Though I already mentioned Drafts’ Zalgo action earlier, it’s worth its own heading, here, because it’s what enabled me to generate the text images embedded in this Post with a single keyboard shortcut. The magic is not in fact happening within Drafts, but rather in the Siri Shortcuts it calls and provides text for.
+
+- [DraftsImage](https://www.icloud.com/shortcuts/09d229c3b5064480a30ac784b7edd3ef)
+- [DraftsImageSmall](https://www.icloud.com/shortcuts/fa3b63050cde48e4933bac6d9b1545df)
+
+
+---
 [1] Whaddya think‽‽‽ [Should I write a book](https://twitter.com/NeoYokel/status/1492589668843634692)‽‽‽
 [2] I say “new” here because of how many users genuinely have never encountered the concept, whatsoever, even going on five years since Workflow was made native.
 [3] A few of the single images embedded in this Post are larger than that.

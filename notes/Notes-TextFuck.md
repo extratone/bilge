@@ -123,7 +123,10 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [x] `![TextCase](https://user-images.githubusercontent.com/43663476/154810776-5ecc4fb5-2fd3-48e3-be1b-d86287cd1965.png)`
 - [ ] `![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)`
 - [ ] `![Fuck Shortcut](https://user-images.githubusercontent.com/43663476/154841943-3ba7b019-c146-4765-90b1-2f52e34f3911.png)`
+- [ ] `![Dwafts](https://user-images.githubusercontent.com/43663476/157349288-2fff224d-05dd-4bcf-a4e3-feec486ac6fa.png)`
 
+## Video
+- [DraftsImage demo](https://davidblue.wtf/video/draftsimage.mp4)
 
 ## Icons
 - ![Bear-2](https://user-images.githubusercontent.com/43663476/154006126-6a653f20-eebd-4068-ae79-23e857216b31.png)
@@ -131,8 +134,9 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - ![Wayback Machine](https://user-images.githubusercontent.com/43663476/154006131-e36668d0-7fb9-4df9-9956-b0becfdf7aec.png)
 - ![PocketTube](https://user-images.githubusercontent.com/43663476/154006133-bcbce3ad-b23c-488e-b2ec-3a2d7a2c8c54.png)
 - ![Simplenote](https://user-images.githubusercontent.com/43663476/154006134-0f32b723-abf4-48e4-9953-9b51c66fd2d2.png)
-- ![Text Case](https://user-images.githubusercontent.com/43663476/154006137-74a7006f-862a-40b1-96e4-258b5b49ed2d.png)
+- ![Text Case Icon](https://user-images.githubusercontent.com/43663476/154006137-74a7006f-862a-40b1-96e4-258b5b49ed2d.png)
 - ![Zalgo Generator](https://user-images.githubusercontent.com/43663476/154006139-a26bdcae-ef8f-4a54-b1cf-35bfc86148a4.png)
+- ![Drafts Alt Icon](https://user-images.githubusercontent.com/43663476/148675995-eaa6458a-f0af-4592-bc5e-798f72719576.png)
 
 ## TextExpander
 - [ ] [Extratext Snippet Group, Documented](https://davidblue.wtf/extratext/)
