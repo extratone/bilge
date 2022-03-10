@@ -28,6 +28,7 @@
 - [Mosh Research Paper](https://mosh.org/mosh-paper.pdf)
 - [Mosh Essay](https://www.usenix.org/system/files/login/articles/winstein.pdf)
 - [Docs for xcall Command](drafts://open?uuid=E6DB8345-04E4-4665-837B-E25CD4C302ED)
+- [Blink-FS VSCode Extension](https://marketplace.visualstudio.com/items?itemName=BlinkShellInc.blink-fs)
 
 ## Images
 - [ ] `![BlinktoTilde](https://tilde.town/~extratone/images/blinktotilde.png)`
@@ -64,6 +65,7 @@
 - [ ] ![Blink Autocomplete](https://user-images.githubusercontent.com/43663476/157376845-c2adf11e-7f8c-44d1-8a37-fec0a9fabbcc.png)
 - [ ] ![Blink Settings](https://user-images.githubusercontent.com/43663476/157378620-9fb29373-d49e-4519-b734-8c75caf54dad.png)
 - [ ] ![Blink and Code](https://user-images.githubusercontent.com/43663476/157388631-7668b9d9-22e7-4fef-8c36-1081e213c193.png)
+- [ ] ![Novel Chat Fixed](https://user-images.githubusercontent.com/43663476/157527773-e7a43834-7ba5-4264-a001-e75ecc032fa0.png)
 
 ### Town Mail
 
@@ -81,3 +83,6 @@
 <video controls>
   <source src="https://tilde.town/~extratone/videos/uploadingimageswithblink.MP4">
 </video>
+
+## Town Chat Configuration
+- `/set weechat.look.prefix_align_max 9`

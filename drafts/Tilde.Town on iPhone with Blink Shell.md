@@ -41,7 +41,7 @@ Some other particularly intriguing standouts include `say`, which unfortunately 
 
 ![Blink and Code](https://user-images.githubusercontent.com/43663476/157388631-7668b9d9-22e7-4fef-8c36-1081e213c193.png)
 
-Blink’s own “[UNIX Command Line Tools Roundup](https://docs.blink.sh/advanced/unix-roundup)” does an okay job of outlining the rest of the basic networking and file management commands included that act locally, though I’ve still been unable to find out what `skstore` does. `xcall` opens x-callback-URLs, though I’m [still trying to figure out](https://reddit.com/r/BlinkShell/comments/ta27h9/docs_for_xcall_command) what the command’s options are. `ed` the ancient command line text editor is available, though I’ve yet to learn to use it, and `uptime` appears to be actually accurate?
+Blink’s own “[UNIX Command Line Tools Roundup](https://docs.blink.sh/advanced/unix-roundup)” does an okay job of outlining the rest of the basic networking and file management commands included that act locally, though I’ve still been unable to find out what `skstore` does. `xcall` opens x-callback-URLs, though I’m [still trying to figure out](https://reddit.com/r/BlinkShell/comments/ta27h9/docs_for_xcall_command) what the command’s options are. `ed` the ancient command line text editor is available, though I’ve yet to learn to use it, and `uptime` appears to be actually accurate? Being able to run `whois` locally on iPhone has its uses, especially given the aforementioned support of `pbcopy`. `whois bilge.world | pbcopy` copies *The Psalms* domain registry information to the iOS clipboard in a flash.
 
 ![Importing Keys in Blink Shell](https://user-images.githubusercontent.com/43663476/154846142-4d16aa31-ee99-4ce9-94c5-852765d7d0b7.png)
 
@@ -67,6 +67,32 @@ To illustrate, here’s a wee, one-take tutorial on uploading images this way:
   <source src="https://tilde.town/~extratone/videos/uploadingimageswithblink.MP4">
 </video>
 
+![Novel Chat Fixed](https://tilde.town/~extratone/images/novelchatfixed.png)
+
+## Chat
+
+The IRC client TildeTown uses is called [WeeChat](https://weechat.org) and - especially if it’s been as long for you as it had been for me - you might find (as I did) learning the ropes to be a bit dubitable. I’ve [duplicated the full User Guide](https://tilde.town/~extratone/manual/weechat/) for your consideration. I got stuck at the concept of switching buffers, so my Big Pro hint is to start off running `/buffer 1` followed by `help`. In order to display the chat even remotely readably in portrait mode on an iPhone, you’ll need to remove the buffer list by hiding it. (Try `/help bar` in the first buffer.) You’ll also need to zoom out a bit and set the display mode to `Cover` via the menus that appear with a *three-finger* tap anywhere on screen.
+
+Assuming you intend to stay connected to Town IRC *On The Go*, I’d advise always starting your intended chat window with mosh, which - through [a whole bunch of alchemy](https://docs.blink.sh/advanced/advanced-mosh) I’m incapable of understanding - establishes a much more flexible sort of connection that’s actually realistically dependable from within the uncertain world of a backgrounded iPhone app. Optionally, [the `geo` command](https://docs.blink.sh/advanced/advanced-ssh#persistent-ssh-connections-with-blink) can be used to force iOS into allowing Blink a more genuine background running state with `geo track`. Additionally, `geo current` displays a nicely-formatted set of location information:[^2]
+
+```json
+{
+  “Latitude” : 38.933988900043886,
+  “AltitudeRef” : 0,
+  “GPSVersion” : “2.3.0.0”,
+  “DateStamp” : “2022:03:09”,
+  “Altitude” : 203.0797061920166,
+  “Longitude” : 92.388242309618036,
+  “LongitudeRef” : “W”,
+  “TimeStamp” : “14:35:13.140000”,
+  “LatitudeRef” : “N”,
+  “DOP” : 35
+}
+```
+
+As you’d expect, the persistence allowed by this feature - which does, indeed, extend to remote files access in the Files app as you move about the world - comes at a significant consumptive power and resource sacrifice. If you parse the slapdash language in the docs, the implication is that you should only need to use the `geo` command to make *ssh* connections persistent, not mosh connections. Since encountering this wording, I’ve yet to have an opportunity to explore the real world truth of this supposition because I have only my rotting legs to propel me around, these days.
+
 ---
 
 [1] [Blink’s icon](https://tilde.town/~extratone/icons/blink.png) is perhaps my most favorite of any application, ever.
+[2] Yes, that is my real location information and yes, I did include it intentionally. Please come kill me as soon as possible. Also, “DOR” is apparently an acronym for “[Dilution of Precision](https://en.m.wikipedia.org/wiki/Dilution_of_precision_(navigation)),” which is a mildly interesting measurement to read up on.
