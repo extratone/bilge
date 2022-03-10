@@ -71,7 +71,7 @@ To illustrate, here’s a wee, one-take tutorial on uploading images this way:
 
 ## Chat
 
-The IRC client TildeTown uses is called [WeeChat](https://weechat.org) and - especially if it’s been as long for you as it had been for me - you might find (as I did) learning the ropes to be a bit dubitable. I’ve [duplicated the full User Guide](https://tilde.town/~extratone/manual/weechat/) for your consideration. I got stuck at the concept of switching buffers, so my Big Pro hint is to start off running `/buffer 1` followed by `help`. In order to display the chat even remotely readably in portrait mode on an iPhone, you’ll need to remove the buffer list by hiding it. (Try `/help bar` in the first buffer.) You’ll also need to zoom out a bit and set the display mode to `Cover` via the menus that appear with a *three-finger* tap anywhere on screen. To achieve the look shown in the screenshot embedded above, you’ll need to hide a few things, but I’ll come back to those specific commands in a sec.
+The IRC client TildeTown uses is called [WeeChat](https://weechat.org) and - especially if it’s been as long for you as it had been for me - you might find (as I did) learning the ropes to be a bit dubitable. I’ve [duplicated the full User Guide](https://tilde.town/~extratone/manual/weechat/) for your consideration. I got stuck at the concept of switching buffers, so my Big Pro hint is to start off running `/buffer 1` followed by `help`. In order to display the chat even remotely readably in portrait mode on an iPhone, you’ll need to remove the buffer list by hiding it. (Try `/help bar` in the first buffer.) You’ll also need to zoom out a bit and set the display mode to `Fill` via the menus that appear with a *three-finger* tap anywhere on screen. To achieve the look shown in the screenshot embedded above, you’ll need to hide a few things, but I’ll come back to those specific commands in a sec.
 
 Assuming you intend to stay connected to Town IRC *On The Go*, I’d advise always starting your intended chat window with mosh, which - through [a whole bunch of alchemy](https://docs.blink.sh/advanced/advanced-mosh) I’m incapable of understanding - establishes a much more flexible sort of connection that’s actually realistically dependable from within the uncertain world of a backgrounded iPhone app. Optionally, [the `geo` command](https://docs.blink.sh/advanced/advanced-ssh#persistent-ssh-connections-with-blink) can be used to force iOS into allowing Blink a more genuine background running state with `geo track`. Additionally, `geo current` displays a nicely-formatted set of location information:[^2]
 
@@ -99,6 +99,23 @@ If I remember correctly, I once found a surprisingly capable (for the time and c
 My memories of computer use from that time are ever so vague, but after just a brief junket to the era’s surviving app literature, some abyssal images within me were stirred. I suspect I tried every possible solution as I’ve always tended to, even back then, on my first generation iPhone and then my 4S. I remember Colloquy being the most tenable, but far from persistent, of course. As I recall, one could maintain a conversation as a passenger on a car trip, for instance, but remaining ambiently, eternally *Logged In* - as is the ancient custom of Internet Relay Chat - was too far out of reach to even be of consideration. 
 
 To be honest, I still find the whole idea unnatural, and I’m not alone, but I can promise you that **running Blink on a recent iPhone with the average American cellular connection is as close to the full WeeChat experience as is possible on a handset, today**, for whatever that may be worth to you. Thanks to some incredibly helpful new TildeTown friends, its copious configurability pivoted from an insurmountable, puzzling ordeal to a never before conceived of solution. If you haven’t already, skim the actual conversation contained within the pre-header screenshot, above.
+
+#### WeeChat Configuration
+
+The following is the precise set of commands involved in making weechat look as the screenshot does, though in no particular order. As [m455](https://tilde.town/~m455) pointed out, `fset` is the tool that lists available configurable options and their current status in a linear way. The default of the second option in the list is apparently `11`, but I fiddled quite a bit to find `9` more optimum.
+
+- `fset`
+- `/set weechat.look.prefix_align_max 9`
+- `/bar hide bufflist`
+- `/bar hide fset`
+- `/bar hide title`
+- `/bar hide nicklist`
+- `/set weechat.look.buffer_time_format "%M"`
+
+If you eliminate the value of the very last command (so just “”) and add `/bar hide status` to the list, you’ll end up with a more minimal-looking, timestamp-less experience:
+
+![Spacedust Chat Minimal](https://tilde.town/~extratone/images/spacedustchatminimal.png)
+
 
 ---
 

@@ -71,6 +71,8 @@
 - [ ] ![Blink and Code](https://user-images.githubusercontent.com/43663476/157388631-7668b9d9-22e7-4fef-8c36-1081e213c193.png)
 - [ ] ![Novel Chat Fixed](https://user-images.githubusercontent.com/43663476/157527773-e7a43834-7ba5-4264-a001-e75ecc032fa0.png)
 - [ ] ![whois dad](https://user-images.githubusercontent.com/43663476/157562361-5fac9425-8463-463d-b749-0aa4177c0580.png)
+- [ ] ![Spacedust Chat Minimal](https://user-images.githubusercontent.com/43663476/157768680-8bcdc3c8-1e8d-4b9f-acca-ac8e3bdd242e.png)
+- [ ] ![Spacedust Chat Minimal](https://tilde.town/~extratone/images/spacedustchatminimal.png)
 
 ### Town Mail
 
@@ -90,9 +92,10 @@
 </video>
 
 ## Town Chat Configuration
+- `fset`
 - `/set weechat.look.prefix_align_max 9`
 - `/bar hide bufflist`
 - `/bar hide fset`
 - `/bar hide title`
 - `/bar hide nicklist`
-- Setting the timestamps to minute-only
+- `/set weechat.look.buffer_time_format "%M"`
