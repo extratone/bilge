@@ -13,6 +13,10 @@
 - Mention the fork, [a-Shell](https://apps.apple.com/us/app/a-shell/id1473805438).
 - In-app notifications seem to happen relatively arbitrarily - winget, for instance, will just fire off constant notifications if you let it.
 
+## Other Apps
+- [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261)
+- [Secure ShellFish](https://apps.apple.com/us/app/ssh-client-by-working-copy/id1336634154)
+
 ## References
 - [Using the iPad Pro as my development machine](https://arslan.io/2019/01/07/using-the-ipad-pro-as-my-development-machine/) | Fatih Arslan
 - [[“Using the iPad Pro as my development machine”]]
@@ -66,6 +70,7 @@
 - [ ] ![Blink Settings](https://user-images.githubusercontent.com/43663476/157378620-9fb29373-d49e-4519-b734-8c75caf54dad.png)
 - [ ] ![Blink and Code](https://user-images.githubusercontent.com/43663476/157388631-7668b9d9-22e7-4fef-8c36-1081e213c193.png)
 - [ ] ![Novel Chat Fixed](https://user-images.githubusercontent.com/43663476/157527773-e7a43834-7ba5-4264-a001-e75ecc032fa0.png)
+- [ ] ![whois dad](https://user-images.githubusercontent.com/43663476/157562361-5fac9425-8463-463d-b749-0aa4177c0580.png)
 
 ### Town Mail
 
@@ -86,3 +91,8 @@
 
 ## Town Chat Configuration
 - `/set weechat.look.prefix_align_max 9`
+- `/bar hide bufflist`
+- `/bar hide fset`
+- `/bar hide title`
+- `/bar hide nicklist`
+- Setting the timestamps to minute-only
