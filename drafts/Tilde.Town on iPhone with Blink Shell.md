@@ -116,8 +116,18 @@ If you eliminate the value of the very last command (so just “”) and add `/b
 
 ![Spacedust Chat Minimal](https://tilde.town/~extratone/images/spacedustchatminimal.png)
 
+![Town TV](https://user-images.githubusercontent.com/43663476/157794243-413146bf-d004-4502-8ecd-b9bde2c10437.jpeg)
+
+## Town Television
+
+Due largely to its primary market of iPad-bound developers living and working in remote Digital Ocean droplets, significant effort (I assume) has been expended in making Blink Shell one of the few iOS apps which *usably* supports external AirPlay displays, even, yes, on iPhone. As far as I can tell, all of the iPad options in the appearance settings menu seen below have also functioned in my tests on iPhone, casting an entirely separate set of Blink windows to my mom’s [Huge Ass Samsung television](https://www.samsung.com/us/support/televisions-home-theater/televisions/qled-4k-tvs/t-model-line-up-2020) in ten-eighty pee.[^3]
+
+![Blink Appearance Settings](https://user-images.githubusercontent.com/43663476/157918199-c9007d31-cb39-4e18-9e2d-e10ac3c93974.png)
+
+If you’ve somehow found yourself this far, you’re probably looking for the keyboard shortcut`⌘O`, which **switches your currently active cursor between the device and the external display**. “You can also move windows between iPad and External Display with `⇧⌘O`,” say [the docs](https://docs.blink.sh/basics/tips-and-tricks#display-what-is-blink-window).
 
 ---
 
 [1] [Blink’s icon](https://tilde.town/~extratone/icons/blink.png) is perhaps my most favorite of any application, ever.
 [2] Yes, that is my real location information and yes, I did include it intentionally. Please come kill me as soon as possible. Also, “DOR” is apparently an acronym for “[Dilution of Precision](https://en.m.wikipedia.org/wiki/Dilution_of_precision_(navigation)),” which is a mildly interesting measurement to read up on.
+[3] As [the screenshots I captured suggest](https://github.com/extratone/bilge/issues/307#issuecomment-1065429898), anyway. Obviously, I do not posess the means to test the true resolution display to mine eyes.

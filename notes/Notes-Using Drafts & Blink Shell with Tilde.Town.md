@@ -5,13 +5,16 @@
 - [Tilde](https://tilde.town/~extratone/blink)
 - [SSH Primer for TildeTown](https://tilde.town/~extratone/wiki/getting-started/ssh.html)
 - [["Tilde.Club: I had a couple drinks and woke up with 1,000 nerds"]]
-- [Tilde.Club  I had a couple drinks and woke up with 1,000 nerds](drafts://open?uuid=F39811CF-76C9-423A-8DCA-1B4C7E6F0A93)
+- [Tilde.Club - I had a couple drinks and woke up with 1,000 nerds](drafts://open?uuid=F39811CF-76C9-423A-8DCA-1B4C7E6F0A93)
 - [Simplenote Preview](http://simp.ly/publish/bx24Cq)
 
 ## General
 - You can lock the phone with the external display running, but it won’t update, even with mosh and `geo` on.
 - Mention the fork, [a-Shell](https://apps.apple.com/us/app/a-shell/id1473805438).
 - In-app notifications seem to happen relatively arbitrarily - winget, for instance, will just fire off constant notifications if you let it.
+- `cat /etc/shells`
+- Town TV
+- Themes persistent to Terminal on macOS??? ∆
 
 ## Other Apps
 - [Textastic](https://apps.apple.com/us/app/textastic-code-editor/id1049254261)
@@ -33,6 +36,7 @@
 - [Mosh Essay](https://www.usenix.org/system/files/login/articles/winstein.pdf)
 - [Docs for xcall Command](drafts://open?uuid=E6DB8345-04E4-4665-837B-E25CD4C302ED)
 - [Blink-FS VSCode Extension](https://marketplace.visualstudio.com/items?itemName=BlinkShellInc.blink-fs)
+- [T Model Line Up (2020), TVs Support | Samsung Care US](https://www.samsung.com/us/support/televisions-home-theater/televisions/qled-4k-tvs/t-model-line-up-2020/)
 
 ## Images
 - [ ] `![BlinktoTilde](https://tilde.town/~extratone/images/blinktotilde.png)`
@@ -73,6 +77,15 @@
 - [ ] ![whois dad](https://user-images.githubusercontent.com/43663476/157562361-5fac9425-8463-463d-b749-0aa4177c0580.png)
 - [ ] ![Spacedust Chat Minimal](https://user-images.githubusercontent.com/43663476/157768680-8bcdc3c8-1e8d-4b9f-acca-ac8e3bdd242e.png)
 - [ ] ![Spacedust Chat Minimal](https://tilde.town/~extratone/images/spacedustchatminimal.png)
+- [ ] ![Detached Mosh Sessions](https://user-images.githubusercontent.com/43663476/157905038-5ea4921c-bb24-4558-8238-18f2b5a9cbb2.png)
+- [ ] ![Just Use a Fucking Computer](https://user-images.githubusercontent.com/43663476/157907728-f166a19c-6166-4ce4-8d9b-1a63f043304e.png)
+- [ ] ![Blink Appearance Settings](https://user-images.githubusercontent.com/43663476/157918199-c9007d31-cb39-4e18-9e2d-e10ac3c93974.png)
+
+### External Television Screen Captures
+
+- [GitHub Comment](https://github.com/extratone/bilge/issues/307#issuecomment-1065429898)
+- ![Huge Ass 1](https://user-images.githubusercontent.com/43663476/157942279-b73ac403-0a3f-4887-aaea-ee562af83f20.jpeg)
+- ![Huge Ass 2](https://user-images.githubusercontent.com/43663476/157943389-ac957273-57c9-4d99-accd-33ee3c3c413d.jpeg)
 
 ### Town Mail
 
