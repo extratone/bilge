@@ -99,7 +99,7 @@ article {
     font-weight: 400;
     line-height: 155%;
     font-size: 1.1em !important;
-    color: #000000;
+    color: #000001;
     padding-left: 0.5rem;
     padding-right: 0.5rem;
     /* margin-top:1rem !important; */
@@ -131,27 +131,37 @@ h2 {
 }
 
 h3 {
-    color: #1c0021 !important;
+    color: #4078f2 !important;
     font-family: proxima-nova-extra-condensed, sans-serif;
     font-weight: 600;
     font-size: 1.3em !important;
 }
 
 h4 {
-    color: #1c0021 !important;
+    color: #f43f32 !important;
     font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
     font-size: 1em !important;
 }
 
 h5 {
-    color: #1c0021 !important;
+    color: #662545 !important;
     font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
     font-size: 1em !important;
 }
 
 h6 {
-    color: #1c0021 !important;
+    color: #80808C !important;
     font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
+    font-size: .85em !important;
+}
+
+li {
+    color: #80808C !important;
+    font-family: proxima-nova-condensed, sans-serif;
+    font-weight: 400;
     font-size: .85em !important;
 }
 
