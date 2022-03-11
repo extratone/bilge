@@ -24,6 +24,8 @@
 - [ ] Posting to WordPress/Medium with a single step.
 - [ ] [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273) is perhaps even more redundant in regards to Drafts, but establishing its own identity.
 - [ ] [Actions for Obsidian in the Action Directory](https://actions.getdrafts.com/search?utf8=✓&q=obsidian).
+- [ ] Drafts’ absurdly high rating in the App Store.
+- [ ] [Live preview update - Obsidian Help](https://help.obsidian.md/Live+preview+update)
 
 ## Misc
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
@@ -109,3 +111,4 @@
 - [ ] [Drafts 2.0  New Fonts, New Look, A Brand New Kind of Sync, And Now On iPad](drafts://open?uuid=C3670318-F206-4414-A6D5-17E4898CB897)
 - [ ] [Drafts Review](drafts://open?uuid=391F1351-B2B2-4E9C-B5C7-79C0F3DA4B18)
 - [ ] [Drafts, Shortcuts, and Working Copy, The Movie](https://scottwillsey.com/blog/ios/draftsthemovie/)
+- [ ] [Choosing Obsidian over Roam????](https://youtu.be/AWUk8-6yG2g)
