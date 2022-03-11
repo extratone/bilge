@@ -216,13 +216,14 @@ I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17
 
 ### Drafts
 
-Though I already mentioned Drafts’ Zalgo action earlier, it’s worth its own heading, here, because it’s what enabled me to generate the text images embedded in this Post with a single keyboard shortcut. The magic is not in fact happening within Drafts, but rather in the Siri Shortcuts it calls and provides text for.
+Though I already mentioned Drafts’ Zalgo action earlier, it’s worth its own heading, here, because it’s what enabled me to generate the text images embedded in this Post with a single keyboard shortcut. The magic is not in fact happening within Drafts, but rather in the Siri Shortcuts it calls and provides text for. These two are customized for me (so you’ll need to delete the actions you don’t want/need,) but will faithfully reproduce the style of the images you’ve seen as configured for [Toolbox Pro](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977) users.
 
 - [DraftsImage](https://www.icloud.com/shortcuts/09d229c3b5064480a30ac784b7edd3ef)
 - [DraftsImageSmall](https://www.icloud.com/shortcuts/fa3b63050cde48e4933bac6d9b1545df)
 
 
 ---
+
 [1] Whaddya think‽‽‽ [Should I write a book](https://twitter.com/NeoYokel/status/1492589668843634692)‽‽‽
 [2] I say “new” here because of how many users genuinely have never encountered the concept, whatsoever, even going on five years since Workflow was made native.
 [3] A few of the single images embedded in this Post are larger than that.
