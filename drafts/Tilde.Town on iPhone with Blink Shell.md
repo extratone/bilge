@@ -5,7 +5,7 @@
 
 *A work-in-progress guide to using [Blink Shell](https://testflight.apple.com/v1/app/1156707581) with one’s Tilde site on iPhone*.
 
-I was completely unaware of the Tildeverse’s origin story - documented in [a Medium post](https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf) by *WIRED* Editor-in-Chief, Paul Ford - until this year, somehow, though I knew of its existence as far back as 2018. I was living in an unairconditioned Portland apartment, then, and had found myself *stuck* with Linux for the first time in my adult life. Consequentially, this period of my life became my first true introduction to the Command Line - a space I knew no more about than the layest layman. Hopping between my system’s shell and the DOS machines I was emulating on it (to explore the history of word processors, mostly,) I believe I struggled through dare I say a Rite of Computing Passage, obtaining the capability (and eventually, the muscle memory) to navigate a filesystem with `cd`, `ls`, and (on DOS) `dir`. It wasn’t until I came home in ‘19 that I discovered the two primary emulated Linux shells *on iOS*: [**iSH Shell**](https://apps.apple.com/us/app/ish-shell/id1436902243) and [**a-Shell**](https://apps.apple.com/us/app/a-shell/id1473805438).
+I was completely unaware of the Tildeverse’s origin story - documented in [a Medium post](https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf) by *WIRED* Editor-in-Chief, Paul Ford - until this year, somehow, though I knew of its existence as far back as 2018. I was living in an unairconditioned Portland apartment, then, and had found myself *stuck* with Linux for the first time in my adult life. Consequentially, this period of my life became my first true introduction to the Command Line - a space about which I knew no more than the layest layman. Hopping between my ten-year-old, post-corporate system’s shell and the DOS machines I was emulating on it (exploring the history of word processors, mostly,) I believe I struggled through dare I say a Rite of Computing Passage, obtaining the capability (and eventually, the muscle memory) to navigate a filesystem with `cd`, `ls`, and (on DOS) `dir`. It wasn’t until I came home in ‘19 that I discovered the two primary emulated Linux shells *on iOS*: [**iSH Shell**](https://apps.apple.com/us/app/ish-shell/id1436902243) and [**a-Shell**](https://apps.apple.com/us/app/a-shell/id1473805438).
 
 ![iSH Shell and a-Shell](https://user-images.githubusercontent.com/43663476/157366845-a604bd4c-3ea8-46fe-85e6-930adb8ca180.png)
 
@@ -17,7 +17,7 @@ Blink’s tag is “a professional, desktop grade terminal for iOS.” Its [land
 
 ![Apreche Reply](https://user-images.githubusercontent.com/43663476/157371504-32ebbca7-81bf-43c0-a762-cdbc0ad50181.png)
 
-Since I’ve [apparently](https://twitter.com/NeoYokel/status/1421410673049972739) turned my life goal into doing stuff on my iPhone originally meant to be done on iPads, I’ve managed to find myself [an active member](https://tilde.town/~extratone) of the Tilde.Town community - a place exclusively accessible via SSH, aside from [public pages](https://raindrop.io/davidblue/tilde-22520136) - exclusively through [my iPhone 12 Pro Max](https://github.com/extratone/jorts). I’m not the first to use Blink to do this - note [Apreche](https://tilde.town/~apreche)’s reply to my thread, embedded above - but I suspect I’m the first to spend significant Town Time on my *fucking phone*, so I thought it might be worth laying out some of the particulars I’ve learned along the way. 
+Since I’ve [apparently](https://twitter.com/NeoYokel/status/1421410673049972739) ended up with a primary life mission of *doing stuff on my iPhone originally meant to be done on iPads*, I’ve managed to find myself [an active member](https://tilde.town/~extratone) of the Tilde.Town community - a place exclusively accessible via SSH, aside from [public pages](https://raindrop.io/davidblue/tilde-22520136) - exclusively through [my iPhone 12 Pro Max](https://github.com/extratone/jorts). I’m not the first to use Blink to do this - note [Apreche](https://tilde.town/~apreche)’s reply to my thread, embedded above - but I suspect I’m the first to spend significant Town Time on my *fucking phone*, so I thought it might be worth laying out some of the particulars I’ve learned along the way. 
 
 *It’s important to note that 99% of the use detailed in this guide/account involves the use of a paired Bluetooth keyboard.*
 
@@ -102,7 +102,7 @@ To be honest, I still find the whole idea unnatural, and I’m not alone, but I 
 
 #### WeeChat Configuration
 
-The following is the precise set of commands involved in making weechat look as the screenshot does, though in no particular order. As [m455](https://tilde.town/~m455) pointed out, `fset` is the tool that lists available configurable options and their current status in a linear way. The default of the second option in the list is apparently `11`, but I fiddled quite a bit to find `9` more optimum.
+The following is the precise set of commands involved in making WeeChat look as the screenshot does, though in no particular order. As [m455](https://tilde.town/~m455) pointed out, `fset` is the tool that lists available configurable options and their current status in a linear way. The default of the second option in the list is apparently `11`, but I fiddled quite a bit to find `9` more optimum.
 
 - `fset`
 - `/set weechat.look.prefix_align_max 9`
@@ -116,6 +116,8 @@ If you eliminate the value of the very last command (so just “”) and add `/b
 
 ![Spacedust Chat Minimal](https://tilde.town/~extratone/images/spacedustchatminimal.png)
 
+If indeed there is a “reasonable” configuration for command line IRC display on a telephone in the year 2022, surely, this is it.
+
 ![Town TV](https://user-images.githubusercontent.com/43663476/157794243-413146bf-d004-4502-8ecd-b9bde2c10437.jpeg)
 
 ## Town Television
@@ -124,7 +126,7 @@ Due largely to its primary market of iPad-bound developers living and working in
 
 ![Blink Appearance Settings](https://user-images.githubusercontent.com/43663476/157918199-c9007d31-cb39-4e18-9e2d-e10ac3c93974.png)
 
-If you’ve somehow found yourself this far, you’re probably looking for the keyboard shortcut`⌘O`, which **switches your currently active cursor between the device and the external display**. “You can also move windows between iPad and External Display with `⇧⌘O`,” say [the docs](https://docs.blink.sh/basics/tips-and-tricks#display-what-is-blink-window).
+If you’ve somehow found yourself this far, you’re probably looking for the keyboard shortcut`⌘O`, which **switches your currently active cursor between the device and the external display**. “You can also move windows between iPad and External Display with `⇧⌘O`,” say [the docs](https://docs.blink.sh/basics/tips-and-tricks#display-what-is-blink-window). Other considerations I’ve discovered through experiments with this: You can lock the phone with the external display running, but it won’t update, even with mosh or with`geo track.` AirPlay will also cease after a period I couldn’t be bothered to determine, so if anything, this is more of an inconvenience than a feature.
 
 ---
 
