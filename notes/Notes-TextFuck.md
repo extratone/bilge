@@ -86,7 +86,7 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
   <source src="https://alt-text-as-poetry.net/assets/2-Context-v2.mp3">
 </audio>
 
-[Alt Text as Poetry](https://alt-text-as-poetry.net/?utm_szource=Daily&utm_campaign=3c4988c1e2-tcidaily&utm_medium=email&utm_term=0_3742c429c9-3c4988c1e2-179508230)
+[Alt Text as Poetry](https://alt-text-as-poetry.net)
 
 > Alt text is an essential part of web accessibility.
 > It is often disregarded or understood through the lens of compliance, as an unwelcome burden to be met with minimum effort.
@@ -125,6 +125,7 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] `![Fuck Shortcut](https://user-images.githubusercontent.com/43663476/154841943-3ba7b019-c146-4765-90b1-2f52e34f3911.png)`
 - [ ] `![Dwafts](https://user-images.githubusercontent.com/43663476/157349288-2fff224d-05dd-4bcf-a4e3-feec486ac6fa.png)`
 - [ ] `![Single Page, All of Unicode](https://user-images.githubusercontent.com/43663476/158152225-bcad1dc9-f033-4e12-adee-6eb99935fd1d.png)`
+- [ ] `![Text Modifier Drafts Action](https://user-images.githubusercontent.com/43663476/158194647-1ecacacd-2783-44a7-b4af-2f07b6d6471d.png)`
 
 ## Video
 - [DraftsImage demo](https://davidblue.wtf/video/draftsimage.mp4)

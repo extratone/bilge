@@ -217,13 +217,17 @@ Though I already mentioned Drafts’ Zalgo action earlier, the app worth its own
 - [DraftsImage](https://www.icloud.com/shortcuts/09d229c3b5064480a30ac784b7edd3ef)
 - [DraftsImageSmall](https://www.icloud.com/shortcuts/fa3b63050cde48e4933bac6d9b1545df)
 
-If you plan to leave the titles the same, you might just directly install their corresponding actions: [DraftsImage](https://directory.getdrafts.com/a/1x2) and [DraftsImageSmall](https://directory.getdrafts.com/a/1x3).
+If you plan to leave the titles the same, you might just directly install their corresponding actions: [DraftsImage](https://directory.getdrafts.com/a/1x2) and [DraftsImageSmall](https://directory.getdrafts.com/a/1x3). There are a few actions from other creators I have yet to mention. Tim Nahumck’s [Text Modifier](https://actions.getdrafts.com/a/1Bg) action - as pictured in the screenshot embedded below - is a handy one, as is Greg’s own [Unicode Fun](https://actions.getdrafts.com/a/1T2). He also published [Emojify](https://actions.getdrafts.com/a/1ly) and [Fake Wordle](https://actions.getdrafts.com/a/1tf), which I find hilarious.
+
+![Text Modifier Drafts Action](https://user-images.githubusercontent.com/43663476/158194647-1ecacacd-2783-44a7-b4af-2f07b6d6471d.png)
 
 ![Single Page, All of Unicode](https://user-images.githubusercontent.com/43663476/158152225-bcad1dc9-f033-4e12-adee-6eb99935fd1d.png)
 
 ## Other Tools
 
-Thanks to [Taro Yabuki](https://github.com/taroyabuki)’s [project](https://github.com/taroyabuki/onepage-unicode-chars) to display all graphical unicode characters in a single page, I created and uploaded [a PDF of them all](https://davidblue.wtf/tools/unicode.pdf), hosted on my NeoCities.
+Thanks to [Taro Yabuki](https://github.com/taroyabuki)’s [project](https://github.com/taroyabuki/onepage-unicode-chars) to display all graphical unicode characters in a single page, I created and uploaded [a PDF of them all](https://davidblue.wtf/tools/unicode.pdf), hosted on my NeoCities. If you have trouble viewing it there, you should be able to download it from [this iCloud Drive share link](https://www.icloud.com/iclouddrive/04dxiD0KYZoebradRmjDQOaBg#unicode). There’s quite a myriad of available “weird text” tools available on the open web, found easily with the most basic bitch search engine queries. [MegaCoolTest.com](http://megacooltext.com) is an old favorite of mine[^8] that functions a lot like Textcraft, come to think of it. 
+
+I originally intended to thoroughly test some of the results found when searching the App Store for “[weird text](itms-apps://search.itunes.apple.com/WebObjects/MZSearch.woa/wa/search?media=software&term=weird%20text),” but they’re far too numerous and - for the most part - far too janky to be worthwhile.
 
 ---
 
@@ -234,3 +238,4 @@ Thanks to [Taro Yabuki](https://github.com/taroyabuki)’s [project](https://git
 [5] If you find yourself trying it out, you may as well check out my main Snippet Group, [Extratext](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb), which is documented [here](https://davidblue.wtf/extratext). 
 [6] You might be interested to hear how human Siri Voice 2 sounds [attempting to read the title aloud](https://twitter.com/NeoYokel/status/1500149497111920642).
 [7] It just now occurred to me that the series title wasn’t exactly gender-inclusive, but the series, itself, wasn’t actually of any value, anyway.
+[8] I’ve also duplicated this one [on my NeoCities](https://davidblue.wtf/cool/).
