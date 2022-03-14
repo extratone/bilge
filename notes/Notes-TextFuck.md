@@ -124,6 +124,7 @@ how disruptive are unusual characters/zalgo text and the like to daily lives of 
 - [ ] `![MLADraft Shortcut](https://user-images.githubusercontent.com/43663476/154823905-90618f3b-45f4-42d0-940f-c8b04d395410.png)`
 - [ ] `![Fuck Shortcut](https://user-images.githubusercontent.com/43663476/154841943-3ba7b019-c146-4765-90b1-2f52e34f3911.png)`
 - [ ] `![Dwafts](https://user-images.githubusercontent.com/43663476/157349288-2fff224d-05dd-4bcf-a4e3-feec486ac6fa.png)`
+- [ ] `![Single Page, All of Unicode](https://user-images.githubusercontent.com/43663476/158152225-bcad1dc9-f033-4e12-adee-6eb99935fd1d.png)`
 
 ## Video
 - [DraftsImage demo](https://davidblue.wtf/video/draftsimage.mp4)

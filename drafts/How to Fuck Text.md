@@ -62,7 +62,7 @@ https://twitter.com/NeoYokel/status/1493041887279734784
 
 When [iMovie for iPhone](https://apps.apple.com/us/app/imovie/id377298193) first became available, making actual video editing and creation possible on iPhone OS in the iPhone 4 era, I took advantage of a very particular - but extremely powerful - function that was originally allowed creators on YouTube’s iOS app. It’s very hard to describe without being able to show, but it allowed for the rapid addition of tags to any video via an autocomplete-ish feature, up to the full tag limit. The series of Drywall videos that were essentially just vlogs shot from our high school lunch table - entitled *Men and Women of The Armed Forces, This is What You are Fighting For*[^7] (MAWOTAFTIWYAFF) - were all thoroughly tagged this way.
 
-https://www.youtube.com/watch? v=-5eMO8PJJp4
+https://www.youtube.com/watch?v=-5eMO8PJJp4
 
 The most notable event in my personal text history, though, happened on Mastodon - as much does these days, if you weren’t aware. I was [posting about Zalgo text’s creation](https://mastodon.social/@DavidBlue/102564857843257870) when **its actual creator**, Dave Higgins - with whom I’d unknowingly been mutuals for some time, apparently - [replied](https://octodon.social/@DaveHiggins/102565065494333224):
 
@@ -168,10 +168,6 @@ These three shortcuts require [the Actions app](https://apps.apple.com/us/app/ac
 - [Random Characters ⇨ Mastodon](https://www.icloud.com/shortcuts/af64b43604334d21ad5a6668471b828f)
 - [Random Characters ⇨ Tumblr](https://www.icloud.com/shortcuts/399a857145e34d8b94b994fa3f9ca300)
 
-<video controls>
-  <source src=“https://user-images.githubusercontent.com/43663476/153750931-30b05024-a3dd-4939-8d84-fcd0cafa8537. MOV”>
-</video>
-
 #### Text-Fucking Siri Shortcuts with Toolbox Pro, Actions, and Aviary
 
 Here are three shortcuts that may or may not be useful to you, each using Shihab Meboob’s [Aviary](https://apps.apple.com/us/app/aviary-for-twitter/id1522043420) to Tweet images en masse. The third also requires you have [LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448) and a populated collection.
@@ -216,11 +212,18 @@ I’ve also created [**Fuck**](https://www.icloud.com/shortcuts/edcc737ed7304a17
 
 ### Drafts
 
-Though I already mentioned Drafts’ Zalgo action earlier, it’s worth its own heading, here, because it’s what enabled me to generate the text images embedded in this Post with a single keyboard shortcut. The magic is not in fact happening within Drafts, but rather in the Siri Shortcuts it calls and provides text for. These two are customized for me (so you’ll need to delete the actions you don’t want/need,) but will faithfully reproduce the style of the images you’ve seen as configured for [Toolbox Pro](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977) users.
+Though I already mentioned Drafts’ Zalgo action earlier, the app worth its own heading, here, because it’s what enabled me to generate the text images embedded in this Post with a single keyboard shortcut. The magic is not in fact happening within Drafts, but rather in the Siri Shortcuts it calls and provides text for. These two are customized for me (so you’ll need to delete the actions you don’t want/need,) but will faithfully reproduce the style of the images you’ve seen as configured for [Toolbox Pro](https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977) users.
 
 - [DraftsImage](https://www.icloud.com/shortcuts/09d229c3b5064480a30ac784b7edd3ef)
 - [DraftsImageSmall](https://www.icloud.com/shortcuts/fa3b63050cde48e4933bac6d9b1545df)
 
+If you plan to leave the titles the same, you might just directly install their corresponding actions: [DraftsImage](https://directory.getdrafts.com/a/1x2) and [DraftsImageSmall](https://directory.getdrafts.com/a/1x3).
+
+![Single Page, All of Unicode](https://user-images.githubusercontent.com/43663476/158152225-bcad1dc9-f033-4e12-adee-6eb99935fd1d.png)
+
+## Other Tools
+
+Thanks to [Taro Yabuki](https://github.com/taroyabuki)’s [project](https://github.com/taroyabuki/onepage-unicode-chars) to display all graphical unicode characters in a single page, I created and uploaded [a PDF of them all](https://davidblue.wtf/tools/unicode.pdf), hosted on my NeoCities.
 
 ---
 
