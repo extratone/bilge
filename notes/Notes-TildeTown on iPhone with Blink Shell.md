@@ -82,6 +82,8 @@
 - [ ] ![Just Use a Fucking Computer](https://user-images.githubusercontent.com/43663476/157907728-f166a19c-6166-4ce4-8d9b-1a63f043304e.png)
 - [ ] ![Blink Appearance Settings](https://user-images.githubusercontent.com/43663476/157918199-c9007d31-cb39-4e18-9e2d-e10ac3c93974.png)
 - [ ] ![Notifications in Blink](https://user-images.githubusercontent.com/43663476/158088240-a0f27c3c-1782-4323-bfc5-2c280d3c98e9.png)
+- [ ] ![Blink Keyboard Shortcuts](https://user-images.githubusercontent.com/43663476/158213859-c477ddb3-dc51-47b2-8e2f-fa0df9b339ad.png)
+- [ ] ![Blink Custom Key Presses](https://user-images.githubusercontent.com/43663476/158233450-e7a2eec8-1eae-478d-ab7e-35a2dec79e25.png)
 
 ### External Television Screen Captures
 

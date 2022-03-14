@@ -6,6 +6,10 @@
 
 <!--more-->
 
+<audio controls>
+  <source src="https://davidblue.wtf/audio/blink.m4a">
+</audio>
+
 I was completely unaware of the Tildeverse’s origin story - documented in [a Medium post](https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf) by *WIRED* Editor-in-Chief, Paul Ford - until this year, somehow, though I knew of its existence as far back as 2018. I was living in an unairconditioned Portland apartment, then, and had found myself *stuck* with Linux for the first time in my adult life. Consequentially, this period of my life became my first true introduction to the Command Line - a space about which I knew no more than the layest layman. Hopping between my ten-year-old, post-corporate system’s shell and the DOS machines I was emulating on it (exploring the history of word processors, mostly,) I believe I struggled through dare I say a Rite of Computing Passage, obtaining the capability (and eventually, the muscle memory) to navigate a filesystem with `cd`, `ls`, and (on DOS) `dir`. It wasn’t until I came home in ‘19 that I discovered the two primary emulated Linux shells *on iOS*: [**iSH Shell**](https://apps.apple.com/us/app/ish-shell/id1436902243) and [**a-Shell**](https://apps.apple.com/us/app/a-shell/id1473805438).
 
 ![iSH Shell and a-Shell](https://user-images.githubusercontent.com/43663476/157366845-a604bd4c-3ea8-46fe-85e6-930adb8ca180.png)
@@ -43,6 +47,18 @@ Some other particularly intriguing standouts include `say`, which unfortunately 
 ![Blink and Code](https://user-images.githubusercontent.com/43663476/157388631-7668b9d9-22e7-4fef-8c36-1081e213c193.png)
 
 Blink’s own “[UNIX Command Line Tools Roundup](https://docs.blink.sh/advanced/unix-roundup)” does an okay job of outlining the rest of the basic networking and file management commands included that act locally, though I’ve still been unable to find out what `skstore` does. `xcall` opens x-callback-URLs, though I’m [still trying to figure out](https://reddit.com/r/BlinkShell/comments/ta27h9/docs_for_xcall_command) what the command’s options are. `ed` the ancient command line text editor is available, though I’ve yet to learn to use it, and `uptime` appears to be actually accurate? Being able to run `whois` locally on iPhone has its uses, especially given the aforementioned support of `pbcopy`. `whois bilge.world | pbcopy` copies *The Psalms* domain registry information to the iOS clipboard in a flash.
+
+![Blink Keyboard Shortcuts](https://user-images.githubusercontent.com/43663476/158213859-c477ddb3-dc51-47b2-8e2f-fa0df9b339ad.png)
+
+### Keyboarding
+
+To its credit, I think [Blink’s landing page](https://blink.sh) represents the most explicitly pro-keyboard literature I’ve ever seen for an iOS app. From my fairly extensive use, its Bluetooth keyboard support fully reflects these declarations, even on iPhone. Out of the list of shortcuts you see in the screenshot embedded above, `Share Selection` is by far the one I use most, usually to open a link from the Tilde IRC chat. If I’m lucky/accurate, double tapping said link will select all of it and *only* it. 
+
+After a link is selected - which sometimes involves rotating the phone and/or zooming far out to get longer URLS in a single line - I’m able to call it up in the iOS sharesheet with `⌥U`, then open it in Safari with a Siri Shortcut I’ve placed there entitled “[O P E N](https://www.icloud.com/shortcuts/52e6c820f965488b91ca4b76c99434af).” Or - in the case of a direct link to a file - I could use another shortcut of mine just below it, called “[DOWNLOAD](https://www.icloud.com/shortcuts/af5a886c9b044bf194dd52127a3939c3),” which uses the [Get Contents of URL](https://www.matthewcassinelli.com/actions/get-contents-of-url/) action to download files directly to my Downloads folder in iCloud Drive. Googling a selection (⌥G) has come in handy once or twice. I tried the Stack Overflow shortcut for kicks, but was meant with an endless string of CAPTCHA requests.
+
+![Blink Custom Key Presses](https://user-images.githubusercontent.com/43663476/158233450-e7a2eec8-1eae-478d-ab7e-35a2dec79e25.png)
+
+An extraordinary feature of Blink’s which I originally misunderstood and have just begun to play with: **custom key presses**. In `Config ⇨ Keyboard ⇨ Custom Presses`, one can assign any text that can be hex encoded (Base16) to a keyboard shortcut. I’ve created a Siri Shortcut that requires the free version of [GizmoPack](https://apps.apple.com/us/app/gizmopack/id1505218567) to aid myself (and you, hopefully,) in quickly converting plain text commands to this format. In the screenshots embedded above, the shortcuts listed on the left correspond in order with the commands listed on the right. You’ll note I’ve begun to attempt assigning quick keys to my most commonly typed-out commands.
 
 ![Importing Keys in Blink Shell](https://user-images.githubusercontent.com/43663476/154846142-4d16aa31-ee99-4ce9-94c5-852765d7d0b7.png)
 
