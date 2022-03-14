@@ -2,6 +2,7 @@
 - [[Tilde.Town on iPhone with Blink Shell (Attempt 1)]]
 - [Tilde.Town on iPhone with Blink Shell (Attempt 1)](drafts://open?uuid=E43D7483-F933-47DE-989C-BFD1D6931C1A)
 - [GitHub Issue](https://github.com/extratone/bilge/issues/307)
+- [**On The Psalms**](https://bilge.world/tildetown-iphone-blink-shell)
 - [Tilde](https://tilde.town/~extratone/blink)
 - [SSH Primer for TildeTown](https://tilde.town/~extratone/wiki/getting-started/ssh.html)
 - [["Tilde.Club: I had a couple drinks and woke up with 1,000 nerds"]]
@@ -80,6 +81,7 @@
 - [ ] ![Detached Mosh Sessions](https://user-images.githubusercontent.com/43663476/157905038-5ea4921c-bb24-4558-8238-18f2b5a9cbb2.png)
 - [ ] ![Just Use a Fucking Computer](https://user-images.githubusercontent.com/43663476/157907728-f166a19c-6166-4ce4-8d9b-1a63f043304e.png)
 - [ ] ![Blink Appearance Settings](https://user-images.githubusercontent.com/43663476/157918199-c9007d31-cb39-4e18-9e2d-e10ac3c93974.png)
+- [ ] ![Notifications in Blink](https://user-images.githubusercontent.com/43663476/158088240-a0f27c3c-1782-4323-bfc5-2c280d3c98e9.png)
 
 ### External Television Screen Captures
 

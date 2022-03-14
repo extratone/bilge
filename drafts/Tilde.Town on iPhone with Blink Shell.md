@@ -1,9 +1,10 @@
 # Tilde.Town on iPhone with Blink Shell
-- [Tilde.Town on iPhone with Blink Shell (Attempt 1)](drafts://open?uuid=E43D7483-F933-47DE-989C-BFD1D6931C1A)
 
 ![Blink Folder](https://tilde.town/~extratone/icons/blinkfolder.png)
 
-*A work-in-progress guide to using [Blink Shell](https://testflight.apple.com/v1/app/1156707581) with one’s Tilde site on iPhone*.
+## The ideal means of *On The Go* participation in The Tildeverse.
+
+<!--more-->
 
 I was completely unaware of the Tildeverse’s origin story - documented in [a Medium post](https://medium.com/message/tilde-club-i-had-a-couple-drinks-and-woke-up-with-1-000-nerds-a8904f0a2ebf) by *WIRED* Editor-in-Chief, Paul Ford - until this year, somehow, though I knew of its existence as far back as 2018. I was living in an unairconditioned Portland apartment, then, and had found myself *stuck* with Linux for the first time in my adult life. Consequentially, this period of my life became my first true introduction to the Command Line - a space about which I knew no more than the layest layman. Hopping between my ten-year-old, post-corporate system’s shell and the DOS machines I was emulating on it (exploring the history of word processors, mostly,) I believe I struggled through dare I say a Rite of Computing Passage, obtaining the capability (and eventually, the muscle memory) to navigate a filesystem with `cd`, `ls`, and (on DOS) `dir`. It wasn’t until I came home in ‘19 that I discovered the two primary emulated Linux shells *on iOS*: [**iSH Shell**](https://apps.apple.com/us/app/ish-shell/id1436902243) and [**a-Shell**](https://apps.apple.com/us/app/a-shell/id1473805438).
 
@@ -127,6 +128,18 @@ Due largely to its primary market of iPad-bound developers living and working in
 ![Blink Appearance Settings](https://user-images.githubusercontent.com/43663476/157918199-c9007d31-cb39-4e18-9e2d-e10ac3c93974.png)
 
 If you’ve somehow found yourself this far, you’re probably looking for the keyboard shortcut`⌘O`, which **switches your currently active cursor between the device and the external display**. “You can also move windows between iPad and External Display with `⇧⌘O`,” say [the docs](https://docs.blink.sh/basics/tips-and-tricks#display-what-is-blink-window). Other considerations I’ve discovered through experiments with this: You can lock the phone with the external display running, but it won’t update, even with mosh or with`geo track.` AirPlay will also cease after a period I couldn’t be bothered to determine, so if anything, this is more of an inconvenience than a feature.
+
+![Notifications in Blink](https://user-images.githubusercontent.com/43663476/158088240-a0f27c3c-1782-4323-bfc5-2c280d3c98e9.png)
+
+## Other Considerations
+
+Blink has a URL scheme - `blinkshell://run?key=[YourKey]&cmd=` - but it’s not particularly useful, largely because it’s for the moment left [without any real documentation](https://reddit.com/r/BlinkShell/comments/swzphf/url_scheme_documentation/). I was able to create a Drafts action that runs one’s current selection as a command in Blink, but the app doesn’t appear to like it very much, if you know what I mean. Blink also integrates with iOS system notifications - as exemplified in the screenshot embedded above - and they *do* work consistently with mentions in town chat, even outside the app, though I’ve yet to see one including any useful information. You’ll know that *something* happened, maybe. Recently, the app has taken to displaying a nondescript notification every time I re-open WeeChat, even without new messages since the last time I opened it.
+
+Somehow, upon logging into macOS for the first time since installing all the aforementioned themes in Blink, I found the same themes available in the Mac Terminal. I’m sure there’s an explanation involving hidden iCloud Drive folders - and I can’t imagine being anything but pleasantly surprised to find oneself flush with more Terminal themes - but it’s still worth a heads up.
+
+Philosophically, one might declare the practice I’ve outlined here to be definitively against everything the Tildeverse is about - the small web, Linuxy stuff. Bringing this up in TildeChat a few times, I was met only with acceptance. In fact, acceptance, curiosity, and support is *all* I’ve been met with throughout my first few months as a townie, and I hope this Post encourages/aids more folks to come join me in this shared computer. You can find the sign-up form for TildeTown [here](https://cgi.tilde.town/users/signup) and the corresponding GitHub Issue for this post (with a bunch more screenshots) [here](https://github.com/extratone/bilge/issues/307).
+
+#software #configuration
 
 ---
 
