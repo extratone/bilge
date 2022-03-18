@@ -108,8 +108,10 @@ Chronology is the primary sortation method by default - by creation date, last m
 
 ![Notes Organization - Drafts vs Bear](https://user-images.githubusercontent.com/43663476/158259554-5191b921-8064-4ac6-8720-f9c5fa3c67b8.png)
 
-Around this time two years ago, however, my computing life was still very much Windows desktop-first. I had found myself delivered to markdown stupidly late in life - not in actual use of the syntax, but in knowing it by name - by way of [my own very misplaced hype](https://bilge.world/evernote-dropbox-paper-word-processing-history) surrounding Dropbox’s then-new web-based WYSIWYG text editor frontend, [Paper](https://paper.dropbox.com).
+Around this time two years ago, however, my computing life was still very much Windows desktop-first. I had found myself delivered to markdown stupidly late in life - not in actual use of the syntax, but in knowing it by name - by way of [my own very misplaced hype](https://bilge.world/evernote-dropbox-paper-word-processing-history) surrounding Dropbox’s then-new web-based WYSIWYG text editor frontend, [Paper](https://paper.dropbox.com).[^6] 
 
+Before I began to experiment with [the Git-atop methodology](https://github.com/extratone/bilge/issues/245) that now underpins *The Psalms*, there was a brief period I barely recall during which my whole process was *just* directly editing plain markdown text files living locally on my Surface Laptop 2 with a younger, pre-release build of [Typora](https://typora.io). What *does* certainly stand out, in hindsight, is how much work I consistently published over that time
+ 
 ## Theming 
 
 Some of Obsidian’s themes are quite gorgeous, no doubt, but - once again - there’s nothing quite like those of a *native app* to get the stylistic hunger going. I must admit my knowledge of the theme creation process for Obsidian is virtually nill, but I think it’s indicative of Drafts’ malleability that I was able to create [such beautiful themes](https://extratone.github.io/drafts/) with zero knowledge of anything but CSS and [the handiest JSON manipulation tool, anywhere](https://apps.apple.com/us/app/jayson/id1468691718). 
@@ -145,3 +147,4 @@ One might say the same of [Taio](https://apps.apple.com/us/app/taio-markdown-tex
 [3] Consider that Drafts creator, Greg Pierce, also *invented* x-callback-urls.
 [4] Those actions can be examined: [Drakesville](https://actions.getdrafts.com/a/1wR) & [SMS Drakesville](https://actions.getdrafts.com/a/1wS).
 [5] I realize this seems like ridiculous criteria, but Drafts is breathtaking.
+[6] For the record, the Post I hyperlinked, here - “Evernote, Dropbox Paper, and the History of Word Processing” - represents ons of those wretched instances in which I spent significant time and intellectual energy on commentary I thought at the time to be far more informed/insightful/original than it actually was, realistically.  

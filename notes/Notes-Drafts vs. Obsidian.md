@@ -7,6 +7,7 @@
 - [SoFar SimpleNote](http://simp.ly/publish/ffZXcw)
 
 ## General
+
 - [ ] Might just be because my systems are limited in performance?
 - [ ] The one thing Drafts cannot offer and probably never will: true cross-platform integration with Windows. That's fucking okay, though.
 - [ ] It’s not that I’m against Electron apps - as a Windows user, I cannot afford to be discriminating whatsoever when it comes to new, functional software.
@@ -18,7 +19,7 @@
 - [ ] Using draft_open_links and Tot, I have created my own dashboard outside of Drafts, which works especially beautifully on macOS.
 - [ ] Instant synonyms with `^⌥S` calling Stephen Millard’s `TAD-Replace With Synonym` action. (As part of [ThoughtAsylum-Writing Action Group](https://actions.getdrafts.com/g/1cu))
 - [ ] In essence, I’m just worried.
-- [ ] Backwards compatibility! - I was able to sync all ~1600 drafts in my library + themes + actions in around 5 minutes on an eight-year-old iPad Air.
+- [x] Backwards compatibility! - I was able to sync all ~1600 drafts in my library + themes + actions in around 5 minutes on an eight-year-old iPad Air.
 - [ ] Launching webpages from my Test note because of TextExpander integration.
 - [ ] How easy it was to [repair the TAD issue](https://forums.getdrafts.com/t/script-error-syntaxerror-json-parse-error-unexpected-identifier-drafts-line-number-53-column-35/12187).
 - [ ] Posting to WordPress/Medium with a single step.
@@ -26,21 +27,28 @@
 - [ ] [Actions for Obsidian in the Action Directory](https://actions.getdrafts.com/search?utf8=✓&q=obsidian).
 - [ ] Drafts’ absurdly high rating in the App Store.
 - [ ] [Live preview update - Obsidian Help](https://help.obsidian.md/Live+preview+update)
+- [ ] [Folding Text / Collapsable Headers - Feature Requests - Drafts Community](https://forums.getdrafts.com/t/folding-text-collapsable-headers/1034) - it looks like I may be one of few Drafts users who is *uninterested* in folding headers. In the several implementations I’ve tried them over the years, they tend to just confuse me / get me lost. 
 
 ## Misc
+
 - [ ] [Obsidian Attempt · Issue #219 · extratone/bilge](https://github.com/extratone/bilge/issues/219)
 - [ ] Wikilinks are actually really dangerous.
 - [ ] Direct integration with Agiltortoise’s [Terminology](https://apps.apple.com/us/app/terminology-dictionary/id687798859) remains unique, compelling, and far superior, ridiculously, to the subscription fee-requiring LookUp.
+- [ ] [RoutineHub - List .md Drafts Open Links by Tag](https://routinehub.co/shortcut/11085/)
+- [ ] [Index by Tag with Drafts Open Links via Siri Shortcuts - Tips & Tricks - Drafts Community](https://forums.getdrafts.com/t/index-by-tag-with-drafts-open-links-via-siri-shortcuts/12296/2)
 
 ## Social
+
 - [another advantage of Drafts being Native as Fuck… this action runs entirely in the background.](https://twitter.com/NeoYokel/status/1490748762779791360)
 - [Switching between drafts with numeric keyboard shortcuts](https://twitter.com/NeoYokel/status/1492567120336535552)
 - [Wide Boy](https://twitter.com/NeoYokel/status/1493380856223838215)
 - [Greg’s Drafts 31 Tweet](https://twitter.com/agiletortoise/status/1495240934556057605)
 - [Backwards compatibility Tweet](https://twitter.com/NeoYokel/status/1498412135268982784)
 - [Greg’s 14 years ago today Tweet](https://twitter.com/agiletortoise/status/1500939960207253509)
+- [I found another Taio user](https://mastodon.xyz/@CutThroatNeko/107925765618277225)
 
 ## Images
+
 - [x] `![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)`
 - [ ] `![BookmarksinDrafts](https://user-images.githubusercontent.com/43663476/153778986-a9a33a80-12a3-4042-8941-2e2d5e427703.png)`
 - [x] `![Black&YellowTheme](https://user-images.githubusercontent.com/43663476/153780995-5b7ac09d-4c21-4e61-b1ba-163ce106fb01.png)`
@@ -72,8 +80,10 @@
 - [x] `![Obsidian Publish Example](https://user-images.githubusercontent.com/43663476/156826733-4e596f5f-2f90-4e88-977e-fb6dc8f9c218.png)`
 - [x] `![Versioning in Drafts](https://user-images.githubusercontent.com/43663476/156828832-b8c4554f-a7b9-4ff3-997b-329e6a227e57.png)`
 - [ ] `![Committing Drafts in Working Copy](https://user-images.githubusercontent.com/43663476/156829737-65cf15d3-9118-4f06-8796-5097c474e7a2.png)`
+- [ ] `![Notes Organization - Drafts vs Bear](https://user-images.githubusercontent.com/43663476/158259554-5191b921-8064-4ac6-8720-f9c5fa3c67b8.png)`
 
 ## Videos
+
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)
 <video controls>
   <source src="https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV">
@@ -84,6 +94,7 @@
 </video>
 
 ## References
+
 - [ ] [Bookmarks - Drafts User Guide](https://docs.getdrafts.com/docs/settings/bookmarks)
 - [ ] [Services - Drafts User Guide](https://docs.getdrafts.com/docs/actions/steps/services)
 - [ ] [iTextEditors - iPhone and iPad text/code editors and writing tools compared](https://brettterpstra.com/ios-text-editors/#obsidian)
@@ -112,3 +123,16 @@
 - [ ] [Drafts Review](drafts://open?uuid=391F1351-B2B2-4E9C-B5C7-79C0F3DA4B18)
 - [ ] [Drafts, Shortcuts, and Working Copy, The Movie](https://scottwillsey.com/blog/ios/draftsthemovie/)
 - [ ] [Choosing Obsidian over Roam????](https://youtu.be/AWUk8-6yG2g)
+- [ ] - [Referencing an image from photos app - iOS - Actions - Help & Questions - Drafts Community](https://forums.getdrafts.com/t/referencing-an-image-from-photos-app-ios/11325/5)
+
+> In Obsidian, the file in photos is copied into the Obsidian vault when you select it. Hence it can use a relative reference to the file at that point.
+> Drafts could easily insert the text content for the image reference, and send that over to Obsidian. The tricky bit however is referencing an image held in the photos app.
+> As a text-based tool, Drafts does have the capability to do some work with files, but primarily text files, and nothing for interacting with files held within the Apple Photos application - they are not available through the files app.
+> In a similar Shortcuts-based approach to the one used by @tf2, you could replicate the Obsidian process (not using external hosting), and you can integrate that with an action in Drafts that adds the image reference. But Drafts alone is not currently able to interact directly with Apple Photos.
+
+## Obsidian Documentation
+
+- [Using obsidian URI - Obsidian Help](https://help.obsidian.md/Advanced+topics/Using+obsidian+URI)
+- [Obsidian - Obsidian Help](https://help.obsidian.md/Obsidian/Obsidian#How+we're+different) - The about page quotes fucking John Locke lmfao.
+- [Obsidian - Obsidian Help](drafts://open?uuid=1657C00E-CCFB-414C-8BE2-E31B719127CC)
+- [Obsidian Roadmap | Trello](https://trello.com/b/Psqfqp7I/obsidian-roadmap)
