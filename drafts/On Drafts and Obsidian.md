@@ -98,13 +98,25 @@ After a while, however, I realized that I was perfectly happy with [Drafts’ na
 
 ![WindowsEternal-iPadPro](https://user-images.githubusercontent.com/43663476/154896941-f15cfe59-dd8f-4310-b4be-fe55ee4e4bc7.PNG)
 
+## Management and Navigation
+
+One of the absolute core differences between Drafts and native filesystem-based applications like Obsidian is the fundamental way notes are organized. I’ll quote this particularly succinct passage [from the documentation](https://docs.getdrafts.com/drafts/):
+
+> Drafts has a lightweight organization system similar to email. Individual drafts are created in the “Inbox”. When a draft has been processed, it can be moved to the Archive to long term storage or the Trash if it no longer needed. A draft can also, optionally, be flagged and have any number of tags assigned to it.
+
+Chronology is the primary sortation method by default - by creation date, last modified date, or last accessed date. Drafts and Bear share the basic principle, as you’ll note in the screenshot embedded below - the two writing applications which have had the greatest influence on my thinking. It’s important to mention this, I think, because there’s a very real possibility I have been too embedded in the core methodology of these systems for too long to be critical of them and am blinded to the full spectrum of advantages inherent to directly editing text files in the filesystem.
+
+![Notes Organization - Drafts vs Bear](https://user-images.githubusercontent.com/43663476/158259554-5191b921-8064-4ac6-8720-f9c5fa3c67b8.png)
+
+Around this time two years ago, however, my computing life was still very much Windows desktop-first. I had found myself delivered to markdown stupidly late in life - not in actual use of the syntax, but in knowing it by name - by way of [my own very misplaced hype](https://bilge.world/evernote-dropbox-paper-word-processing-history) surrounding Dropbox’s then-new web-based WYSIWYG text editor frontend, [Paper](https://paper.dropbox.com).
+
 ## Theming 
 
 Some of Obsidian’s themes are quite gorgeous, no doubt, but - once again - there’s nothing quite like those of a *native app* to get the stylistic hunger going. I must admit my knowledge of the theme creation process for Obsidian is virtually nill, but I think it’s indicative of Drafts’ malleability that I was able to create [such beautiful themes](https://extratone.github.io/drafts/) with zero knowledge of anything but CSS and [the handiest JSON manipulation tool, anywhere](https://apps.apple.com/us/app/jayson/id1468691718). 
 
 ![ENCOM Widgets](https://user-images.githubusercontent.com/43663476/156087079-abad2f15-5f83-438d-9c96-cf8ee7d7c4c7.png)
 
-Once again, thanks to Drafts’ nativeness, its widgets, too, can be themed. (This is not something I discovered until recently, re-reading the “[Creating Themes](https://docs.getdrafts.com/docs/extending/development/theme-format)” article. Notably, [Obsidian’s equivalent](https://help.obsidian.md/How+to/Add+custom+styles) is quite lackluster.) Above is an embedded screenshot of two widgets bearing the look of my newest Drafts theme, [ENCOM](https://directory.getdrafts.com/t/1wg). I’m [not much of a widgets person](https://whyp.it/t/on-widgets-54991), but it’s hard not to leave Drafts’ around, somewhere, given how beautiful they look.
+Once again, thanks to Drafts’ indigenousness, its widgets, too, can be themed. (This is not something I discovered until recently, re-reading the “[Creating Themes](https://docs.getdrafts.com/docs/extending/development/theme-format)” article. Notably, [Obsidian’s equivalent](https://help.obsidian.md/How+to/Add+custom+styles) is quite lackluster.) Above is an embedded screenshot of two widgets bearing the look of my newest Drafts theme, [ENCOM](https://directory.getdrafts.com/t/1wg). I’m [not much of a widgets person](https://whyp.it/t/on-widgets-54991), but it’s hard not to leave Drafts’ around, somewhere, given how beautiful they look.
 
 https://twitter.com/NeoYokel/status/1498412135268982784
 
@@ -122,7 +134,9 @@ By contrast, Obsidian can run on virtually anything, including Windows machines.
 
 ## The Issue
 
-Though this inadvertently turned into a sort of half-review of Drafts/showcase of my own Drafts setup, I really intended to highlight a single concern regarding this whole comparison: **redundancy**. *To Each His Own* is the classic counter-argument I’ve gotten when I’ve brought this up, but - as a Windows user, especially - the wealth of development time being (forgive me) squandered off in the direction of Obsidian without a single clear voice saying “holdup” is just a painful thing to witness. My desire in spending all this time writing is to perhaps prompt a “*wait, haven’t we already done this?*” among prospective third-party users/user-developers. One might say the same of [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273), which is another flavor of the files app-driven iOS text editor, but it’s being built by a single person on a particular bent. 
+Though this inadvertently turned into a sort of half-review of Drafts/showcase of my own Drafts setup, I really intended to highlight a single concern regarding this whole comparison: **redundancy**. *To Each His Own* is the classic counter-argument I’ve gotten when I’ve brought this up, but - as a Windows user, especially - the wealth of development time being (forgive me) squandered off in the direction of Obsidian without a single clear voice saying “holdup” is just a painful thing to witness. My desire in spending all this time writing is to perhaps prompt a “*wait, haven’t we already done this?*” among prospective third-party users/user-developers. 
+
+One might say the same of [Taio](https://apps.apple.com/us/app/taio-markdown-text-actions/id1527036273), which is another flavor of the files app-driven iOS text editor, but it’s being built by a single person on a particular bent. A Mastodon mutual of mine [declared Taio to be the best markdown app](https://mastodon.xyz/@CutThroatNeko/107925765618277225). My favorite App Store review of Taio is subtitled “Like Obsidian ++...”
 
 ---
 
