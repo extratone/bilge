@@ -46,6 +46,7 @@
 - [Backwards compatibility Tweet](https://twitter.com/NeoYokel/status/1498412135268982784)
 - [Greg’s 14 years ago today Tweet](https://twitter.com/agiletortoise/status/1500939960207253509)
 - [I found another Taio user](https://mastodon.xyz/@CutThroatNeko/107925765618277225)
+- [Federico’s holiday project](https://twitter.com/viticci/status/1481687474753658890)
 
 ## Images
 
@@ -136,3 +137,8 @@
 - [Obsidian - Obsidian Help](https://help.obsidian.md/Obsidian/Obsidian#How+we're+different) - The about page quotes fucking John Locke lmfao.
 - [Obsidian - Obsidian Help](drafts://open?uuid=1657C00E-CCFB-414C-8BE2-E31B719127CC)
 - [Obsidian Roadmap | Trello](https://trello.com/b/Psqfqp7I/obsidian-roadmap)
+
+```
+obsidian://open?vault=Testing&file=Colophon
+obsidian://advanced-uri?vault=Testing&filepath=Colophon.md&heading=Colophon
+```
