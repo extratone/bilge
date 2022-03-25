@@ -3,6 +3,8 @@
 - [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)
 - [Tot Version History](drafts://open?uuid=BADF99AB-3478-49C3-BF73-704C16C9E154) 
 - [Tot Help, Merged](drafts://open?uuid=E4E1326D-7FF8-4E5D-9E91-8509D2789259)
+- [Shortcuts Actions are coming to Tot](drafts://open?uuid=DE4A4195-9D96-4CF0-922A-DB642CB6838F)
+- [Testing Tot’s Shortcuts Actions Cross-Platform](drafts://open?uuid=452AC87B-E3DD-4BAF-8850-61FF6B51EC13)
 
 ## Mine
 
@@ -27,6 +29,29 @@
 - ![Tot Icon](https://user-images.githubusercontent.com/43663476/159338219-26bcb4da-770f-4d6c-8b62-7e9f5dec012b.png)
 - ![Tot Folder](https://user-images.githubusercontent.com/43663476/159338345-8ea492b1-de57-4b41-8461-3655c35be400.png)
 - ![Tot Easter Egg](https://i.snap.as/nYeHSeRs.png)
+
+## Videos
+**Custom Bullet Character Handling**
+<video controls>
+  <source src="https://davidblue.wtf/tot/TotCustomBullets.mp4">
+</video>
+
+### macOS Showcase on Tot Repo
+- https://github.com/extratone/tot/raw/main/macos/4dark.png
+- https://github.com/extratone/tot/raw/main/macos/7.png
+- https://github.com/extratone/tot/raw/main/macos/6.png
+- https://github.com/extratone/tot/raw/main/macos/5.png
+- https://github.com/extratone/tot/raw/main/macos/4.png
+- https://github.com/extratone/tot/raw/main/macos/3.png
+- https://github.com/extratone/tot/raw/main/macos/2.png
+- https://github.com/extratone/tot/raw/main/macos/1.png
+- https://github.com/extratone/tot/raw/main/macos/7dark.png
+- https://github.com/extratone/tot/raw/main/macos/6dark.png
+- https://github.com/extratone/tot/raw/main/macos/5dark.png
+- https://github.com/extratone/tot/raw/main/macos/3dark.png
+- https://github.com/extratone/tot/raw/main/macos/2dark.png
+- https://github.com/extratone/tot/raw/main/macos/1dark.png
+- https://github.com/extratone/tot/raw/main/macos/3dark.png
 
 ## Drafts Directory and Tot
 - [Search for “Tot”](https://actions.getdrafts.com/search?utf8=✓&q=tot)
@@ -76,6 +101,22 @@
 - [ ] [Can I add more than seven dots? / Tot / Knowledge Base - The Iconfactory Support](https://support.iconfactory.com/kb/tot/can-i-add-more-than-seven-dots)
 - [ ] [Can I customize the colors of the dots? / Tot / Knowledge Base - The Iconfactory Support](https://support.iconfactory.com/kb/tot/can-i-customize-the-colors-of-the-dots)
 - [ ] [Use a floating window / Tot / Knowledge Base - The Iconfactory Support](https://support.iconfactory.com/kb/tot/use-a-floating-window)
+- [ ] [Iconfactory's Tot is the new hotness in text editors and sticky-notes - Knapsack](https://knapsack.news/iconfactorys-tot-is-the-new-hotness-in-text-editors-and-sticky-notes/)
+- [ ] [Tot: The Killer App – Jon Mitchell, author and musician](https://jonmitchell.net/blog/tot)
+- [ ] [Tot: opinionated app design matters](https://www.nickschaden.com/2020/03/30/tot/)
+- [ ] [Tot](https://daringfireball.net/2020/02/tot)
+- [ ] [Tot is new text editor for Mac, iPhone, and iPad focused on constraints and ease of use](https://9to5mac.com/2020/02/29/tot-text-editor-mac-iphone-ipad/)
+- [ ] [Tot Review: Collect and Edit Bits of Text](https://www.macstories.net/reviews/tot-review-collect-and-edit-bits-of-text/)
+- [ ] [Apps We're Trying: Tot – The Sweet Setup](https://thesweetsetup.com/apps-were-trying-tot/)
+- [ ] [Tot – canion.me](https://canion.me/tot)
+- [ ] [The Iconfactory Tot review: An elegant, essential ‘scratchpad’ notetaking app](https://www.macworld.com/article/233920/tot-pocket-review.html)
+- [ ] [Tot, text editor to the stars, gets the best share extension yet](https://www.imore.com/tot-text-editor-stars-gets-best-share-extension-yet)
+- [ ] [Iconfactory’s Tot updated for… less color](https://sixcolors.com/link/2020/05/iconfactorys-tot-updated-for-less-color/)
+- [ ] [Dy-nam-ic! • The Breakroom](https://blog.iconfactory.com/2020/02/dy-nam-ic/)
+- [ ] [Tot Doesn’t Work for Me - Bicycle For Your Mind](https://bicycleforyourmind.com/tot_doesn't_work_for_me) - [Bear](bear://x-callback-url/open-note?id=C3A3C27F-057A-4E4D-9924-6476A99B6421-21477-000002C264D8B8F2)
+- [ ] [Tot Pocket is a Simple Cross-Platform Notes App](https://appadvice.com/post/tot-pocket-is-a-simple-cross-platform-notes-app/1498235191/1750930361)
+- [ ] [Tot Pocket – a virtual stratchpad for quick-fire notes](https://www.tapsmart.com/apps/tot-pocket-virtual-stratchpad-quick-fire-notes/)
+
 
 ## Images
 
@@ -87,6 +128,12 @@
 - ![Tot Services Menu - macOS](https://github.com/extratone/tot/raw/main/media/TotServicesMenu.png)
 - ![As Custom As I got](https://github.com/extratone/tot/raw/main/media/AsCustomAsItGets.png)
 
+## Videos
+
 <video controls>
   <source src="https://github.com/extratone/tot/raw/main/media/TotGitDemo.mov">
 </video>
+
+- [Running Siri Shortcuts from Tot](https://user-images.githubusercontent.com/43663476/159879950-46bccb5a-f378-42cd-8866-745ff39cdf66.mov)
+
+
