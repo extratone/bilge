@@ -8,6 +8,8 @@
 - [ ] Old Tweetdeck’s prolific multi-service distribution and rate abilities.
 - [ ] Before and after I stopped capitalizing the first letter of the first word of every tweet.
 - [ ] [[Austin's Webs Site Archive]]
+- [ ] Timmy’s Pool Party
+- [ ] [Donald Tump will never be president of the United States](https://twitter.com/neoyokel/status/712292559058444288)
 
 ### Which Image? Poll
 - [Mastodon](https://mastodon.social/@DavidBlue/107447317464499158)
@@ -27,7 +29,20 @@
 - [ ] [New iPhone Nano: Real or Fake? - YouTube](https://www.youtube.com/watch?v=olDDnffKYuw)
 - [ ] [SSD Stress Test: 50 apps at Once - YouTube](https://www.youtube.com/watch?v=xgCrnXfi1y4)
 - [ ] [Currently trending right now](https://davidblue.wtf/video/trending.MOV)
-
+- [ ] Twitter Adds Motion Pictures
+```
+<video controls>
+  <source src="https://user-images.githubusercontent.com/43663476/145752211-24c36e4d-de68-4abf-8c2b-2d7263a95b1f.MOV">
+</video>
+```
+- [ ] Watching Jiimmy Barking
+```
+<video controls>
+  <source src="3">
+</video>
+```
+- [ ] [What Really Happened to TechnoBuffalo - YouTube](https://www.youtube.com/watch?v=kTMHp-B5wEc)[^1]
+- [ ] [Ten years ago, I predicted 2022. Did I get it right? - YouTube](https://www.youtube.com/watch?v=NYj3DnI81AQ&t=316s)
 ## Tweets
 - [ ] [You Can Go Fast…](https://twitter.com/neoyokel/status/666726242675101697)
 - [x] [Rick Roll Ringtone](https://twitter.com/neoyokel/status/7775103604)
@@ -41,6 +56,8 @@
 - [ ] [Ass Fell Off](https://twitter.com/ChetMunch/status/521530899507073024r54)
 - [ ] [Suck My Unholy Head](https://twitter.com/ChetMunch/status/702119731059240960)
 - [ ] [The last time I was a Mac user](https://twitter.com/NeoYokel/status/1480490353245528069)
+- [ ] [Jesus Handset Poll](https://twitter.com/NeoYokel/status/825951279910440960)
+- [ ] [THE PUMPS ARE LEARNING](https://twitter.com/GasStationMemes/status/812138830933331968)
 
 ## Images
 - [ ] `![Watching Jimmy - Twitter for iOS](https://i.snap.as/m4Ls06fs.png)`
@@ -71,18 +88,10 @@
 - [x] `![Because They’re Republicans - Austin](https://i.snap.as/SiFuVn9q.jpeg)`
 - [ ] `![Bob Geldoff in 2011](https://i.snap.as/9PEGgPYJ.jpeg)`
 
-## Videos
-- [ ] Twitter Adds Motion Pictures
-```
-<video controls>
-  <source src="https://user-images.githubusercontent.com/43663476/145752211-24c36e4d-de68-4abf-8c2b-2d7263a95b1f.MOV">
-</video>
-```
-- [ ] Watching Jiimmy Barking
-```
-<video controls>
-  <source src="3">
-</video>
-```
-- [ ] [What Really Happened to TechnoBuffalo - YouTube](https://www.youtube.com/watch?v=kTMHp-B5wEc)[^1]
-- [ ] [Ten years ago, I predicted 2022. Did I get it right? - YouTube](https://www.youtube.com/watch?v=NYj3DnI81AQ&t=316s)
+## Audio
+- [The Life and Death of Twitter for Mac](https://tilde.town/~extratone/audio/twitterformac-gwoober.mp3) (Tilde)
+- [The Life and Death of Twitter for Mac](https://davidblue.wtf/audio/twitterformac-gwoober.mp3)
+
+<audio controls>
+  <source src="https://davidblue.wtf/audio/twitterformac-gwoober.mp3">
+</audio>

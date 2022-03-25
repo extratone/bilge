@@ -14,7 +14,7 @@ If you cared to, you might surmise that this beginning indicates something profo
 
 ## 2009-2012
 
-I had a single friend, Austin, who was even remotely as interested as I became in tweaking MacOS/iOS and would have an inexpressible amount of influence on my computing life. Though he lived only 25 minutes away, we’d exclusively hang out over FaceTime(?) for hours, sharing OSX customizations and links to videos by Mark Watson ([SoldierKnowsBest](https://youtube.com/user/soldierknowsbest)) and Jon Rettinger ([John4Lakers](https://youtube.com/user/jon4lakers).) It was an extremely exciting time in consumer technology, we thought. I felt it, in that way a lot of us find ourselves desperately reaching back for.
+I had a single friend[^2], Austin, who was even remotely as interested as I became in tweaking MacOS/iOS and would have an inexpressible amount of influence on my computing life. Though he lived only 25 minutes away, we’d exclusively hang out over FaceTime(?) for hours, sharing OSX customizations and links to videos by Mark Watson ([SoldierKnowsBest](https://youtube.com/user/soldierknowsbest)) and Jon Rettinger ([John4Lakers](https://youtube.com/user/jon4lakers).) It was an extremely exciting time in consumer technology, we thought. I felt it, in that way a lot of us find ourselves desperately reaching back for.
 
 https://www.youtube.com/watch?v=WpsAyeVzn5w
 
@@ -24,10 +24,23 @@ History will suggest, no doubt, that my being among the earliest iPhone adopters
 
 *My first generation iPhone, Bob Geldoff, in 2011.*
 
+Perhaps something entirely unique to Twitter is its way of justifying itself in one’s professional life persistently across any modern professional aspirations. When I thought I might write about technology for a living (pre-2010,) I knew a Twitter presence mattered. When I thought I might about cars for a living (and eventually did, post-2011,) I knew and exemplified how much a Twitter presence mattered. It was through Twitter that I met the only person to ever publish me, that the then-Editor-in-Chief of *Autoweek* “discovered” me, and through DMs that he asked me to apply for a job.[^3] Even from the very beginning, this was true, somehow, though it was so in a less [disaparagable](https://bilge.world/social-media-strategy) sense, I’d say.
+
 https://twitter.com/neoyokel/status/7775103604
 
-I was generally inteolerable in 2010.
+I was generally intolerable in 2010. This remained true until a new high school friend group cultured and socialized me around 2011-2012, which is when they introduced me to many of the original “weird Twitter”[^4] friend group of which I still count many as current friends.
+
+https://youtube.com/watch?v=BH5rVzs3u98
+
+## 2013-2016
+
+My peak Vine phase, though none of it is recollectable easily. I began my 7-year-long career in convenience in the Spring of 2014 working for the busiest of two HyVee gas stations in town.
+
+https://twitter.com/GasStationMemes/status/812138830933331968
 
 ===
 
-[1] My first and only Mac. In the greater context of Mac History, also a particularly interesting outlier, in my opinion. It was the only model year an aluminum-bodied Apple machine ever bore the name "MacBook" as opposed to "MacBook Pro" and the only said machine to have a removable battery, which - in my case - certainly encouraged [some absurd behavior](https://twitter.com/NeoYokel/status/1470165080482451461).
+[1] My first and only Mac. In the greater context of Mac History, also a particularly interesting outlier, in my opinion. It was the only model year an aluminum-bodied Apple machine ever bore the name “MacBook” as opposed to “MacBook Pro” and the only said machine to have a removable battery, which - in my case - certainly encouraged [some absurd behavior](https://twitter.com/NeoYokel/status/1470165080482451461).
+[2] Single as in one friend.
+[3] Unfortunately, I declined to do so and you don’t want to know why, I promise.
+[4] I’m genuinely sorry for using this term. I debated adding four whole quotation marks on each side.
