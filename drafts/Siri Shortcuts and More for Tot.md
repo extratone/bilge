@@ -3,3 +3,5 @@
 - [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
 
 ![Tot Folder](https://user-images.githubusercontent.com/43663476/159338345-8ea492b1-de57-4b41-8461-3655c35be400.png)
+
+I’d lusted after Iconfactory’s [Tot](https://tot.rocks) for its app icons for a long time, but it wasn’t until a sale at the beginning of the year that I actually dove in and bought [Tot Pocket](https://apps.apple.com/us/app/tot-pocket/id1498235191) - the iOS app. As a primarily iPhone-bound user, now, I’ve found it extremely handy as a container for URL-scheme-powered links, largely to run Siri Shortcuts and open specific drafts in [Drafts](https://apps.apple.com/us/app/drafts/id1435957248).

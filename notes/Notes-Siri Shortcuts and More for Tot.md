@@ -1,5 +1,6 @@
 # Notes-Siri Shortcuts and More for Tot
 - [GitHub Issue](https://github.com/extratone/bilge/issues/314)
+- [**Tot-specific GitHub Repository**](https://github.com/extratone/tot)
 - [Siri Shortcuts and More for Tot](drafts://open?uuid=9DAFE8FC-3655-4FBD-BA16-7439BAC109FA)
 - [Tot Version History](drafts://open?uuid=BADF99AB-3478-49C3-BF73-704C16C9E154) 
 - [Tot Help, Merged](drafts://open?uuid=E4E1326D-7FF8-4E5D-9E91-8509D2789259)
@@ -29,6 +30,9 @@
 - ![Tot Icon](https://user-images.githubusercontent.com/43663476/159338219-26bcb4da-770f-4d6c-8b62-7e9f5dec012b.png)
 - ![Tot Folder](https://user-images.githubusercontent.com/43663476/159338345-8ea492b1-de57-4b41-8461-3655c35be400.png)
 - ![Tot Easter Egg](https://i.snap.as/nYeHSeRs.png)
+
+## Shortcuts
+- [ ] [Tot Jar Shortcut](drafts://open?uuid=7A7DCF8B-BAE7-40B4-96E8-311BFC769722)
 
 ## Videos
 **Custom Bullet Character Handling**
@@ -95,6 +99,7 @@
 
 ## References
 
+- [ ] [Tot + Shortcuts = Geek Bliss • The Breakroom](https://blog.iconfactory.com/2022/03/tot-shortcuts-geek-bliss/)
 - [ ] [Notes With Focus : App Store Story](https://apps.apple.com/us/story/id1507996679)
 - [ ] [Using Custom Fonts in Tot Pocket / Tot / Knowledge Base - The Iconfactory Support](https://support.iconfactory.com/kb/tot/using-custom-fonts-in-tot-pocket)
 - [ ] [Is there a limit to how much text I can store? / Tot / Knowledge Base - The Iconfactory Support](https://support.iconfactory.com/kb/tot/is-there-a-limit-to-how-much-text-i-can-store)
