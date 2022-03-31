@@ -33,6 +33,7 @@
 
 ## Shortcuts
 - [ ] [Tot Jar Shortcut](drafts://open?uuid=7A7DCF8B-BAE7-40B4-96E8-311BFC769722)
+- [ ] [Hot Tot Dot Swap Shortcut](drafts://open?uuid=1E11D78E-134E-4583-A6E1-414855E66312)
 
 ## Videos
 **Custom Bullet Character Handling**
@@ -132,6 +133,8 @@
 - ![Tot Share Sheet - macOS](https://github.com/extratone/tot/raw/main/media/TotShareSheet-macOS.png)
 - ![Tot Services Menu - macOS](https://github.com/extratone/tot/raw/main/media/TotServicesMenu.png)
 - ![As Custom As I got](https://github.com/extratone/tot/raw/main/media/AsCustomAsItGets.png)
+- ![Tot Dashboard](https://user-images.githubusercontent.com/43663476/160951777-1b84b133-4f12-4a4f-93b8-2ddb62b033ec.png)
+- ![Tot Dashboard Compare](https://user-images.githubusercontent.com/43663476/160951975-ebc1cc18-3a90-4372-988b-779d69deed28.png)
 
 ## Videos
 
