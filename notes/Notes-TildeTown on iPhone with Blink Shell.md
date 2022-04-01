@@ -1,13 +1,25 @@
 # Notes-TildeTown on iPhone with Blink Shell
+- [Tilde.Town on iPhone with Blink Shell](drafts://open?uuid=BC643564-4819-4039-BF2F-293514E5E4CF)
 - [[Tilde.Town on iPhone with Blink Shell (Attempt 1)]]
 - [Tilde.Town on iPhone with Blink Shell (Attempt 1)](drafts://open?uuid=E43D7483-F933-47DE-989C-BFD1D6931C1A)
 - [GitHub Issue](https://github.com/extratone/bilge/issues/307)
 - [**On The Psalms**](https://bilge.world/tildetown-iphone-blink-shell)
 - [Tilde](https://tilde.town/~extratone/blink)
+- [Tilde Guide Tweet](https://twitter.com/NeoYokel/status/1503187276444098560)
 - [SSH Primer for TildeTown](https://tilde.town/~extratone/wiki/getting-started/ssh.html)
 - [["Tilde.Club: I had a couple drinks and woke up with 1,000 nerds"]]
 - [Tilde.Club - I had a couple drinks and woke up with 1,000 nerds](drafts://open?uuid=F39811CF-76C9-423A-8DCA-1B4C7E6F0A93)
 - [Simplenote Preview](http://simp.ly/publish/bx24Cq)
+
+## Platinum Clacker Award
+- ![Dark TTM](https://ttm.sh/iv8.png)
+- ![Light TTM](https://ttm.sh/iv7.png)
+- ![Dark GitHub](https://user-images.githubusercontent.com/43663476/158336795-3ea16066-c95b-4610-8413-4e9e354e7491.png)
+- ![Light GitHub](https://user-images.githubusercontent.com/43663476/158336801-9b8a5ace-8e1d-4013-b753-7c6a4fcd5f6a.png)
+- ![Blink Universal Clacker Award](https://uikeycommand.com/awards/blink/BlinkUCABoth.png)
+- ![Blink Universal Clacker Award](https://uikeycommand.com/awards/blink/BlinkUCALight.png)
+- ![Blink Universal Clacker Award](https://uikeycommand.com/awards/blink/BlinkUCADark.png)
+
 
 ## General
 - You can lock the phone with the external display running, but it won’t update, even with mosh and `geo` on.

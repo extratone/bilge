@@ -153,6 +153,8 @@ Blink has a URL scheme - `blinkshell://run?key=[YourKey]&cmd=` - but it’s not 
 
 Somehow, upon logging into macOS for the first time since installing all the aforementioned themes in Blink, I found the same themes available in the Mac Terminal. I’m sure there’s an explanation involving hidden iCloud Drive folders - and I can’t imagine being anything but pleasantly surprised to find oneself flush with more Terminal themes - but it’s still worth a heads up.
 
+![Blink Universal Clacker Award](https://uikeycommand.com/awards/blink/BlinkUCABoth.png)
+
 Philosophically, one might declare the practice I’ve outlined here to be definitively against everything the Tildeverse is about - the small web, Linuxy stuff. Bringing this up in TildeChat a few times, I was met only with acceptance. In fact, acceptance, curiosity, and support is *all* I’ve been met with throughout my first few months as a townie, and I hope this Post encourages/aids more folks to come join me in this shared computer. You can find the sign-up form for TildeTown [here](https://cgi.tilde.town/users/signup) and the corresponding GitHub Issue for this post (with a bunch more screenshots) [here](https://github.com/extratone/bilge/issues/307).
 
 #software #configuration
