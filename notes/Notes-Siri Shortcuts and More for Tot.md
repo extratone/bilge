@@ -30,10 +30,15 @@
 - ![Tot Icon](https://user-images.githubusercontent.com/43663476/159338219-26bcb4da-770f-4d6c-8b62-7e9f5dec012b.png)
 - ![Tot Folder](https://user-images.githubusercontent.com/43663476/159338345-8ea492b1-de57-4b41-8461-3655c35be400.png)
 - ![Tot Easter Egg](https://i.snap.as/nYeHSeRs.png)
+- ![Tot Actions Showcase](https://i.snap.as/tWyBQKCI.png)
 
 ## Shortcuts
 - [ ] [Tot Jar Shortcut](drafts://open?uuid=7A7DCF8B-BAE7-40B4-96E8-311BFC769722)
 - [ ] [Hot Tot Dot Swap Shortcut](drafts://open?uuid=1E11D78E-134E-4583-A6E1-414855E66312)
+- [ ] [Tot Markdown Backup](drafts://open?uuid=F145474F-4CD1-4053-BA14-5CFF16857362)
+- [ ] [Dot Info Shortcut](drafts://open?uuid=5C07CFF1-1F28-4AA0-9704-FF52939536D3)
+- [ ] [Tot ⇨ Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
+- [ ] [Markdown Link ⇨ Dot Shortcut](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D)
 
 ## Videos
 **Custom Bullet Character Handling**
