@@ -6,6 +6,7 @@
 - [Tot Help, Merged](drafts://open?uuid=E4E1326D-7FF8-4E5D-9E91-8509D2789259)
 - [Shortcuts Actions are coming to Tot](drafts://open?uuid=DE4A4195-9D96-4CF0-922A-DB642CB6838F)
 - [Testing Tot’s Shortcuts Actions Cross-Platform](drafts://open?uuid=452AC87B-E3DD-4BAF-8850-61FF6B51EC13)
+- [Tot Git Shortcuts](drafts://open?uuid=D566B537-EBFA-4D11-96BC-544E1F61CDCB)
 
 ## Mine
 
@@ -39,6 +40,8 @@
 - [ ] [Dot Info Shortcut](drafts://open?uuid=5C07CFF1-1F28-4AA0-9704-FF52939536D3)
 - [ ] [Tot ⇨ Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
 - [ ] [Markdown Link ⇨ Dot Shortcut](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D)
+- [ ] [Tot Git-iOS](https://www.icloud.com/shortcuts/69aa72b435b94d5f82106e4309303072)
+- [ ] [Tot Git-macOS](https://www.icloud.com/shortcuts/2597158919384c3eb706230b025abe16)
 
 ## Videos
 **Custom Bullet Character Handling**
@@ -140,6 +143,7 @@
 - ![As Custom As I got](https://github.com/extratone/tot/raw/main/media/AsCustomAsItGets.png)
 - ![Tot Dashboard](https://user-images.githubusercontent.com/43663476/160951777-1b84b133-4f12-4a4f-93b8-2ddb62b033ec.png)
 - ![Tot Dashboard Compare](https://user-images.githubusercontent.com/43663476/160951975-ebc1cc18-3a90-4372-988b-779d69deed28.png)
+- ![Apple Note Shared to Tot](https://user-images.githubusercontent.com/43663476/162532529-d273a9bf-2aca-4961-82e8-6d3ee8bf54fa.png)
 
 ## Videos
 

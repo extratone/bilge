@@ -23,3 +23,9 @@ For better or worse, though, there is now a much more reliable solution. Iconfac
 3. **Query Dot** - “Gets text and [JSON data + metadata] from a dot.”
 4. **Set Dot** - “Sets all the text in a dot.”
 5. **Show Dot** - “Shows the specified dot.”
+
+These comprehensively replace the functions of both Tot’s URL scheme and the available macOS script, adding significant functionality on top. For one thing, `Add to Dot` is smart enough to automatically add a space before appending any content to the end of a Dot, unlike the URL scheme’s append function. 
+
+The first and most basic Siri Shortcut I have to offer is [**Tot ⇨ Apple Notes**](https://routinehub.co/shortcut/11500) which simply transfers the current contents of all 7 Tot Dots to individual Apple Notes per each.
+
+![Apple Note Shared to Tot](https://user-images.githubusercontent.com/43663476/162532529-d273a9bf-2aca-4961-82e8-6d3ee8bf54fa.png)
