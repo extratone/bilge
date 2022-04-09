@@ -50,3 +50,20 @@ One of Tot’s existing less-than-obvious capabilities, *titled* links can be ap
 <video controls>
   <source src="https://user-images.githubusercontent.com/43663476/161469532-7c3c55b7-1bc6-44df-a0b1-561923c2c36a.MOV">
 </video>
+
+[**Reminders List ⇨ Tot**](https://routinehub.co/shortcut/11539) is, by default, an extremely verbose method of itemizing the whole of a given list in Apple Reminders in a Tot Dot, complete with URL scheme-enabled links, tags, dates, notes, and URLs. Here’s the format in full, spacing included:
+
+```
+**[Title](URL)**
+`Tags`
+[Link](URL)
+Created: Creation Date
+Due: Due Date
+
+Notes
+
+```
+
+Hopefully it isn’t obvious, but this is perhaps the only shortcut shared in this Post for which I don’t personally have a use, but I can imagine an especially lengthy list transforming into a somewhat more visually-digestible view via a modified version with all but the markdown-formatted title link omitted. Here’s an example result out of the box:
+
+![Reminders to Tot Result-macOS](https://user-images.githubusercontent.com/43663476/162554829-f2f28d61-4c8b-41cb-8d52-536a16dfe572.png)

@@ -69,7 +69,7 @@
 - [x] [Dot Info Shortcut](drafts://open?uuid=5C07CFF1-1F28-4AA0-9704-FF52939536D3)
 - [x] [Tot ⇨ Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
 - [x] [Markdown Link ⇨ Dot Shortcut](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D)
-- [ ] [Reminders List ⇨ Tot Shortcut](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368)
+- [x] [Reminders List ⇨ Tot Shortcut](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368)
 - [x] [Clear Dot Shortcut](drafts://open?uuid=F4F062E4-F265-40A3-B101-03413D7996F8)
 - [ ] [Dot ⇨ New Draft Shortcut](drafts://open?uuid=D20C28B8-6BCA-465F-9F4E-30F4EDA4D0E2)
 - [x] [Dots Summary Shortcut](drafts://open?uuid=7EB80DE5-1074-43E6-B2D3-213A2CD35D5B)
