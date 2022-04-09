@@ -45,15 +45,34 @@
 - ![Tot Dashboard Compare](https://user-images.githubusercontent.com/43663476/160951975-ebc1cc18-3a90-4372-988b-779d69deed28.png)
 - ![Apple Note Shared to Tot](https://user-images.githubusercontent.com/43663476/162532529-d273a9bf-2aca-4961-82e8-6d3ee8bf54fa.png)
 - ![Dot Info Result](https://i.snap.as/n5TgXpPB.png)
+- ![The Psalms Tot Theme-iOSCombined](https://davidblue.wtf/tot/ThePsalmsTotTheme.png)
+- ![Tot-Titled Link from Sharesheet](https://user-images.githubusercontent.com/43663476/162573783-77a10c20-028f-4ceb-a130-63849c93f499.png)
 
 ## Shortcuts
+
+### RoutineHub
+- [RoutineHub • Tot Jar](https://routinehub.co/shortcut/11456/)
+- [RoutineHub • Hot Tot Dot Swap](https://routinehub.co/shortcut/11457/)
+- [RoutineHub • Dot Info](https://routinehub.co/shortcut/11459/)
+- [RoutineHub • Tot ⇨ Apple Notes](https://routinehub.co/shortcut/11500/)
+- [RoutineHub • Tot Markdown Backup](https://routinehub.co/shortcut/11458/)
+- [RoutineHub • Markdown Link ⇨ Tot Dot](https://routinehub.co/shortcut/11504/)
+- [RoutineHub • Reminders List ⇨ Tot](https://routinehub.co/shortcut/11539/)
+- [RoutineHub • Clear Dot](https://routinehub.co/shortcut/11540/)
+- [RoutineHub • Dot ⇨ New Draft](https://routinehub.co/shortcut/11541/)
+- [RoutineHub • Dots Summary](https://routinehub.co/shortcut/11542/)
+
+### Drafts
 - [x] [Tot Jar Shortcut](drafts://open?uuid=7A7DCF8B-BAE7-40B4-96E8-311BFC769722)
 - [x] [Hot Tot Dot Swap Shortcut](drafts://open?uuid=1E11D78E-134E-4583-A6E1-414855E66312)
 - [ ] [Tot Markdown Backup](drafts://open?uuid=F145474F-4CD1-4053-BA14-5CFF16857362)
 - [x] [Dot Info Shortcut](drafts://open?uuid=5C07CFF1-1F28-4AA0-9704-FF52939536D3)
 - [x] [Tot ⇨ Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
-- [ ] [Markdown Link ⇨ Dot Shortcut](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D)
+- [x] [Markdown Link ⇨ Dot Shortcut](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D)
 - [ ] [Reminders List ⇨ Tot Shortcut](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368)
+- [x] [Clear Dot Shortcut](drafts://open?uuid=F4F062E4-F265-40A3-B101-03413D7996F8)
+- [ ] [Dot ⇨ New Draft Shortcut](drafts://open?uuid=D20C28B8-6BCA-465F-9F4E-30F4EDA4D0E2)
+- [x] [Dots Summary Shortcut](drafts://open?uuid=7EB80DE5-1074-43E6-B2D3-213A2CD35D5B)
 - [ ] [Tot Git-iOS](https://www.icloud.com/shortcuts/69aa72b435b94d5f82106e4309303072)
 - [ ] [Tot Git-macOS](https://www.icloud.com/shortcuts/2597158919384c3eb706230b025abe16)
 - [ ] [Tot Git Restore-macOS](https://www.icloud.com/shortcuts/0196edc014534e61bcb3f8b372c314d7)

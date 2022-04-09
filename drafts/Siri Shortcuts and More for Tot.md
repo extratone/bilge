@@ -1,6 +1,7 @@
 # Siri Shortcuts and More for Tot
 - [GitHub Issue](https://github.com/extratone/bilge/issues/314)
-- [Notes-Siri Shortcuts and More for Tot](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
+- [WTF](drafts://open?uuid=E6D127B8-B5CE-45F5-8D6A-0BC5CE12A149)
+- [Tilde](https://tilde.town/~extratone/tot/)
 
 ![Tot Folder](https://user-images.githubusercontent.com/43663476/159338345-8ea492b1-de57-4b41-8461-3655c35be400.png)
 
@@ -14,7 +15,7 @@ Tot’s had its own URL scheme all along, which I utilized in two published Draf
 tot://7/append?text=%0A[Text]
 ```
 
-For better or worse, though, there is now a much more reliable solution. Iconfactory [added Siri Shortcuts actions for Tot](https://blog.iconfactory.com/2022/03/tot-shortcuts-geek-bliss/) on all supported platforms, and I’ve already switched to using them, instead. I find the overview in their blog post (and release notes) to be a bit vague, so I think it’s worth listing each of the new actions:
+For better or worse, though, there is now a much more reliable solution. Iconfactory [added Siri Shortcuts actions for Tot](https://blog.iconfactory.com/2022/03/tot-shortcuts-geek-bliss/) on all supported platforms, and I’ve already switched to using them, instead. I find the overview in their blog post (and release notes) to be a bit vague, so I think it’s worth [listing](https://www.icloud.com/shortcuts/06b41c1e86b8485bbfa7f8aafa82b127) each of the new actions:
 
 ![Tot Actions Showcase](https://i.snap.as/tWyBQKCI.png)
 
@@ -28,7 +29,7 @@ These comprehensively replace the functions of both Tot’s URL scheme and the a
 
 ## Shortcuts
 
-The first and most basic Siri Shortcut I have to offer is [**Tot ⇨ Apple Notes**](https://routinehub.co/shortcut/11500) which simply transfers the current contents of all 7 Tot Dots to individual Apple Notes per each. If you’d like to transfer content in the other direction, using `Send a Copy` in the pre-sharesheet from Apple Notes and then selecting Tot’s icon seems to do so fairly reliably:
+The first and most basic Siri Shortcuts I have to offer are [**Clear Dot**](https://routinehub.co/shortcut/11540) - which erases all contents from a Dot specified at run after one has confirmed with a [Show Alert](https://www.matthewcassinelli.com/actions/show-alert) action - and [**Tot ⇨ Apple Notes**](https://routinehub.co/shortcut/11500) which simply transfers the current contents of all 7 Tot Dots to individual Apple Notes per each. If you’d like to transfer content in the other direction, using `Send a Copy` in the pre-sharesheet from Apple Notes and then selecting Tot’s icon seems to do so fairly reliably:
 
 ![Apple Note Shared to Tot](https://user-images.githubusercontent.com/43663476/162532529-d273a9bf-2aca-4961-82e8-6d3ee8bf54fa.png)
 
@@ -39,3 +40,13 @@ Next is [**Tot Jar**](https://routinehub.co/shortcut/11456), which uses the `Que
 [**Hot Tot Dot Swap**](https://routinehub.co/shortcut/11457) - undoubtedly my best-titled Shortcut, yet - allows one to reliably swap the contents of two Tot Dots. [**Dot Info**](https://routinehub.co/shortcut/11459) prompts you to select a Dot and then displays all available information about it that is *not* content. It will then ask if you’d like to append said info to the Dot, itself, in this format:
 
 ![Dot Info Result](https://i.snap.as/n5TgXpPB.png)
+
+[**Dots Summary**](https://routinehub.co/shortcut/11542) sums up the line, word, and character counts for all 7 Tot Dots, combined. It, too, will offer to append the result to a Dot of your choosing.
+
+![Tot-Titled Link from Sharesheet](https://user-images.githubusercontent.com/43663476/162573783-77a10c20-028f-4ceb-a130-63849c93f499.png)
+
+One of Tot’s existing less-than-obvious capabilities, *titled* links can be appended from the share sheet in Safari as shown in the screenshot embedded above, but my [**Markdown Link ⇨ Dot**](https://routinehub.co/shortcut/11504/) shortcut goes a step further, formatting the titled link as a markdown list item (`-`).   The [video demo](https://user-images.githubusercontent.com/43663476/161469532-7c3c55b7-1bc6-44df-a0b1-561923c2c36a.MOV) embedded below makes this process feel a lot more sluggish than it practically is, especially if you prioritize the shortcut in your own sharesheet list.
+
+<video controls>
+  <source src="https://user-images.githubusercontent.com/43663476/161469532-7c3c55b7-1bc6-44df-a0b1-561923c2c36a.MOV">
+</video>
