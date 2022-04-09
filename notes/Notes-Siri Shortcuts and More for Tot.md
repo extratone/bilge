@@ -32,16 +32,32 @@
 - ![Tot Folder](https://user-images.githubusercontent.com/43663476/159338345-8ea492b1-de57-4b41-8461-3655c35be400.png)
 - ![Tot Easter Egg](https://i.snap.as/nYeHSeRs.png)
 - ![Tot Actions Showcase](https://i.snap.as/tWyBQKCI.png)
+- ![Tot Jar Result](https://user-images.githubusercontent.com/43663476/162535816-e3fb6862-8ffd-4071-a2a7-db3681eac79c.png)
+- ![Reminders List to Tot Result-iOS](https://user-images.githubusercontent.com/43663476/162556142-fcb415c7-216c-4dc9-ac3e-00a82ab98e54.png)
+- ![Custom](https://user-images.githubusercontent.com/43663476/159667345-8dd47c87-8778-4feb-93b9-94fa8ed2c802.png)
+- ![TotServicesMenu](https://user-images.githubusercontent.com/43663476/159667353-9b95b81a-740b-4546-b20e-8207e5af3096.png)
+- ![TotShareSheet](https://user-images.githubusercontent.com/43663476/159667357-0311596f-0a81-4bec-a0b4-9c4447a50dfb.png)
+- ![Tot Theme Preferences](https://github.com/extratone/tot/raw/main/media/TotThemePreferences.png)
+- ![Tot Share Sheet - macOS](https://github.com/extratone/tot/raw/main/media/TotShareSheet-macOS.png)
+- ![Tot Services Menu - macOS](https://github.com/extratone/tot/raw/main/media/TotServicesMenu.png)
+- ![As Custom As I got](https://github.com/extratone/tot/raw/main/media/AsCustomAsItGets.png)
+- ![Tot Dashboard](https://user-images.githubusercontent.com/43663476/160951777-1b84b133-4f12-4a4f-93b8-2ddb62b033ec.png)
+- ![Tot Dashboard Compare](https://user-images.githubusercontent.com/43663476/160951975-ebc1cc18-3a90-4372-988b-779d69deed28.png)
+- ![Apple Note Shared to Tot](https://user-images.githubusercontent.com/43663476/162532529-d273a9bf-2aca-4961-82e8-6d3ee8bf54fa.png)
+- ![Dot Info Result](https://i.snap.as/n5TgXpPB.png)
 
 ## Shortcuts
-- [ ] [Tot Jar Shortcut](drafts://open?uuid=7A7DCF8B-BAE7-40B4-96E8-311BFC769722)
-- [ ] [Hot Tot Dot Swap Shortcut](drafts://open?uuid=1E11D78E-134E-4583-A6E1-414855E66312)
+- [x] [Tot Jar Shortcut](drafts://open?uuid=7A7DCF8B-BAE7-40B4-96E8-311BFC769722)
+- [x] [Hot Tot Dot Swap Shortcut](drafts://open?uuid=1E11D78E-134E-4583-A6E1-414855E66312)
 - [ ] [Tot Markdown Backup](drafts://open?uuid=F145474F-4CD1-4053-BA14-5CFF16857362)
-- [ ] [Dot Info Shortcut](drafts://open?uuid=5C07CFF1-1F28-4AA0-9704-FF52939536D3)
-- [ ] [Tot ⇨ Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
+- [x] [Dot Info Shortcut](drafts://open?uuid=5C07CFF1-1F28-4AA0-9704-FF52939536D3)
+- [x] [Tot ⇨ Apple Notes Shortcut](drafts://open?uuid=10EFCF5F-AAD4-4A4B-830A-9C02BDC766D0)
 - [ ] [Markdown Link ⇨ Dot Shortcut](drafts://open?uuid=706A5C55-1E97-47A3-AA25-CB1DD29C821D)
+- [ ] [Reminders List ⇨ Tot Shortcut](drafts://open?uuid=B5C542E5-CDDA-48CE-909A-8A2B028B9368)
 - [ ] [Tot Git-iOS](https://www.icloud.com/shortcuts/69aa72b435b94d5f82106e4309303072)
 - [ ] [Tot Git-macOS](https://www.icloud.com/shortcuts/2597158919384c3eb706230b025abe16)
+- [ ] [Tot Git Restore-macOS](https://www.icloud.com/shortcuts/0196edc014534e61bcb3f8b372c314d7)
+- [ ] [Tot Actions Showcase](https://www.icloud.com/shortcuts/06b41c1e86b8485bbfa7f8aafa82b127)
 
 ## Videos
 **Custom Bullet Character Handling**
@@ -132,19 +148,6 @@
 - [ ] [Tot Pocket – a virtual stratchpad for quick-fire notes](https://www.tapsmart.com/apps/tot-pocket-virtual-stratchpad-quick-fire-notes/)
 
 
-## Images
-
-- ![Custom](https://user-images.githubusercontent.com/43663476/159667345-8dd47c87-8778-4feb-93b9-94fa8ed2c802.png)
-- ![TotServicesMenu](https://user-images.githubusercontent.com/43663476/159667353-9b95b81a-740b-4546-b20e-8207e5af3096.png)
-- ![TotShareSheet](https://user-images.githubusercontent.com/43663476/159667357-0311596f-0a81-4bec-a0b4-9c4447a50dfb.png)
-- ![Tot Theme Preferences](https://github.com/extratone/tot/raw/main/media/TotThemePreferences.png)
-- ![Tot Share Sheet - macOS](https://github.com/extratone/tot/raw/main/media/TotShareSheet-macOS.png)
-- ![Tot Services Menu - macOS](https://github.com/extratone/tot/raw/main/media/TotServicesMenu.png)
-- ![As Custom As I got](https://github.com/extratone/tot/raw/main/media/AsCustomAsItGets.png)
-- ![Tot Dashboard](https://user-images.githubusercontent.com/43663476/160951777-1b84b133-4f12-4a4f-93b8-2ddb62b033ec.png)
-- ![Tot Dashboard Compare](https://user-images.githubusercontent.com/43663476/160951975-ebc1cc18-3a90-4372-988b-779d69deed28.png)
-- ![Apple Note Shared to Tot](https://user-images.githubusercontent.com/43663476/162532529-d273a9bf-2aca-4961-82e8-6d3ee8bf54fa.png)
-
 ## Videos
 
 <video controls>
@@ -152,5 +155,3 @@
 </video>
 
 - [Running Siri Shortcuts from Tot](https://user-images.githubusercontent.com/43663476/159879950-46bccb5a-f378-42cd-8866-745ff39cdf66.mov)
-
-

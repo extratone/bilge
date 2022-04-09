@@ -24,8 +24,18 @@ For better or worse, though, there is now a much more reliable solution. Iconfac
 4. **Set Dot** - “Sets all the text in a dot.”
 5. **Show Dot** - “Shows the specified dot.”
 
-These comprehensively replace the functions of both Tot’s URL scheme and the available macOS script, adding significant functionality on top. For one thing, `Add to Dot` is smart enough to automatically add a space before appending any content to the end of a Dot, unlike the URL scheme’s append function. 
+These comprehensively replace the functions of both Tot’s URL scheme and the available macOS script, adding significant functionality on top. For one thing, `Add to Dot` is smart enough to automatically add a space before appending any content to the end of a Dot, unlike the URL scheme’s append function.
 
-The first and most basic Siri Shortcut I have to offer is [**Tot ⇨ Apple Notes**](https://routinehub.co/shortcut/11500) which simply transfers the current contents of all 7 Tot Dots to individual Apple Notes per each.
+## Shortcuts
+
+The first and most basic Siri Shortcut I have to offer is [**Tot ⇨ Apple Notes**](https://routinehub.co/shortcut/11500) which simply transfers the current contents of all 7 Tot Dots to individual Apple Notes per each. If you’d like to transfer content in the other direction, using `Send a Copy` in the pre-sharesheet from Apple Notes and then selecting Tot’s icon seems to do so fairly reliably:
 
 ![Apple Note Shared to Tot](https://user-images.githubusercontent.com/43663476/162532529-d273a9bf-2aca-4961-82e8-6d3ee8bf54fa.png)
+
+Next is [**Tot Jar**](https://routinehub.co/shortcut/11456), which uses the `Query Dot` action to store the full JSON data of all 7 dots in individual key paths within a single dictionary in [Data Jar](https://apps.apple.com/us/app/data-jar/id1453273600).
+
+![Tot Jar Result](https://user-images.githubusercontent.com/43663476/162535816-e3fb6862-8ffd-4071-a2a7-db3681eac79c.png)
+
+[**Hot Tot Dot Swap**](https://routinehub.co/shortcut/11457) - undoubtedly my best-titled Shortcut, yet - allows one to reliably swap the contents of two Tot Dots. [**Dot Info**](https://routinehub.co/shortcut/11459) prompts you to select a Dot and then displays all available information about it that is *not* content. It will then ask if you’d like to append said info to the Dot, itself, in this format:
+
+![Dot Info Result](https://i.snap.as/n5TgXpPB.png)
