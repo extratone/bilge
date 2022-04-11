@@ -36,6 +36,9 @@
 - [ ] Direct integration with Agiltortoise’s [Terminology](https://apps.apple.com/us/app/terminology-dictionary/id687798859) remains unique, compelling, and far superior, ridiculously, to the subscription fee-requiring LookUp.
 - [ ] [RoutineHub - List .md Drafts Open Links by Tag](https://routinehub.co/shortcut/11085/)
 - [ ] [Index by Tag with Drafts Open Links via Siri Shortcuts - Tips & Tricks - Drafts Community](https://forums.getdrafts.com/t/index-by-tag-with-drafts-open-links-via-siri-shortcuts/12296/2)
+- [ ] [Drafts Directory: On My Mind](https://directory.getdrafts.com/g/1yM)
+- [ ] [On My Mind Action Group by FlohGro](drafts://open?uuid=C90B70B3-A594-4736-86B2-E4F1924D3096)
+- [ ] [Would you consider offering a GitBook theme on Obsidian?  · Issue #38 · h16nning/typora-gitbook-theme](https://github.com/h16nning/typora-gitbook-theme/issues/38) (NO.)
 
 ## Social
 
@@ -50,7 +53,7 @@
 
 ## Images
 
-- [x] `![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)`
+- [ ] `![SpaceTakenbyDrafts](https://user-images.githubusercontent.com/43663476/153721368-59fbb89f-46ff-46da-8caf-8d24047e3589.png)`
 - [ ] `![BookmarksinDrafts](https://user-images.githubusercontent.com/43663476/153778986-a9a33a80-12a3-4042-8941-2e2d5e427703.png)`
 - [x] `![Black&YellowTheme](https://user-images.githubusercontent.com/43663476/153780995-5b7ac09d-4c21-4e61-b1ba-163ce106fb01.png)`
 - [ ] `![FullSerifMode](https://user-images.githubusercontent.com/43663476/153918963-22bee968-92ac-441c-8535-e90c4658840c.png)`
@@ -82,9 +85,11 @@
 - [x] `![Versioning in Drafts](https://user-images.githubusercontent.com/43663476/156828832-b8c4554f-a7b9-4ff3-997b-329e6a227e57.png)`
 - [ ] `![Committing Drafts in Working Copy](https://user-images.githubusercontent.com/43663476/156829737-65cf15d3-9118-4f06-8796-5097c474e7a2.png)`
 - [ ] `![Notes Organization - Drafts vs Bear](https://user-images.githubusercontent.com/43663476/158259554-5191b921-8064-4ac6-8720-f9c5fa3c67b8.png)`
+- [ ] `![A Complete Mess](https://user-images.githubusercontent.com/43663476/160045048-23b34db5-0aa3-430b-8453-c52258646115.png)`
 
 ## Videos
 
+- [Everything You Need to Know about Obsidian Sync - YouTube](https://youtube.com/watch?v=XC40RgvH1D4)
 - [Terminology Integration](https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV)
 <video controls>
   <source src="https://user-images.githubusercontent.com/43663476/154864296-c6cc7b2d-ce04-444e-9e27-0f0ddef252d7.MOV">
@@ -131,12 +136,17 @@
 > As a text-based tool, Drafts does have the capability to do some work with files, but primarily text files, and nothing for interacting with files held within the Apple Photos application - they are not available through the files app.
 > In a similar Shortcuts-based approach to the one used by @tf2, you could replicate the Obsidian process (not using external hosting), and you can integrate that with an action in Drafts that adds the image reference. But Drafts alone is not currently able to interact directly with Apple Photos.
 
+- [How to process notes in Obsidian // Readwise Official Obsidian plugin](https://youtube.com/watch?v=Rw1L5sxlnuU&feature=share)
+- [My Obsidian Setup, Part 8: Simplifying Thought Capture with 'On My Mind'](https://club.macstories.net/posts/my-obsidian-setup-part-8-simplifying-thought-capture-with-on-my-mind)
+
 ## Obsidian Documentation
 
 - [Using obsidian URI - Obsidian Help](https://help.obsidian.md/Advanced+topics/Using+obsidian+URI)
 - [Obsidian - Obsidian Help](https://help.obsidian.md/Obsidian/Obsidian#How+we're+different) - The about page quotes fucking John Locke lmfao.
 - [Obsidian - Obsidian Help](drafts://open?uuid=1657C00E-CCFB-414C-8BE2-E31B719127CC)
 - [Obsidian Roadmap | Trello](https://trello.com/b/Psqfqp7I/obsidian-roadmap)
+- [My Obsidian Setup, Part 9-Saving Articles and Music Albums for Later with Shortcuts and Dataview](drafts://open?uuid=606E4131-B901-481C-AEDA-2EEDA1F8E1C4)
+- [My Favorite Obsidian Plugins for Automating the Management of Notes](drafts://open?uuid=047F0715-7D39-4178-AAA4-4627111888BA)
 
 ```
 obsidian://open?vault=Testing&file=Colophon
