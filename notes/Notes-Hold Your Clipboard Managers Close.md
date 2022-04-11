@@ -3,6 +3,7 @@
 - [Hold Your Clipboard Managers Close · Issue #291 · extratone/bilge](https://github.com/extratone/bilge/issues/291)
 - [Kevin Email Thread](https://app.sparkmailapp.com/web-share/YQYdGyL3Uv-lWXAJIoxWsQFM5QAdfkkqI64y44Ni)
 - [[Copied Email]]
+- [Tilde](https://tilde.town/~extratone/copied)
 
 > Hello,
 > **Unfortunately, Copied has been removed from the App Store due to a patent infringement claim. I’m not sure if it will be temporary or permanent yet. Please request a refund from the App Store.**
