@@ -50,6 +50,7 @@
 - [Greg’s 14 years ago today Tweet](https://twitter.com/agiletortoise/status/1500939960207253509)
 - [I found another Taio user](https://mastodon.xyz/@CutThroatNeko/107925765618277225)
 - [Federico’s holiday project](https://twitter.com/viticci/status/1481687474753658890)
+- [8% battery in 90 seconds](https://twitter.com/NeoYokel/status/1513633034955857922)
 
 ## Images
 
