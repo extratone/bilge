@@ -1,4 +1,4 @@
-# Notes: Writeas/WriteFreely iOS Publishing Workflow 
+# Notes-Writeas/WriteFreely iOS Publishing Workflow 
 
 [[Writeas/WriteFreely iOS Publishing Workflow]]
 
