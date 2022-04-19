@@ -6,6 +6,12 @@
 - [Drafts Directory: Export Review Draft](https://actions.getdrafts.com/a/1L7)
 - [SoFar SimpleNote](http://simp.ly/publish/ffZXcw)
 
+## Obsidian Positives!
+
+- [ ] **Keyboard shortcuts tracking**! Though Obsidian’s iPadOS/iOS app is notably the first I’ve ever seen that somehow escapes the iPad’s system shortcuts guide, there’s a huge personal advantage for me in the fact that somewhere, Obsidian’s current keyboard shortcuts configuration at any given time is exposable in my filesystem, and changes to the configuration are, therefore, git-trackable!
+- [ ] [Finally found a view I actually like](https://twitter.com/NeoYokel/status/1515064841794424838).
+![LandscapeSidian](https://i.snap.as/E2vXFYc4.png)
+
 ## General
 
 - [ ] Might just be because my systems are limited in performance?
@@ -87,6 +93,8 @@
 - [ ] `![Committing Drafts in Working Copy](https://user-images.githubusercontent.com/43663476/156829737-65cf15d3-9118-4f06-8796-5097c474e7a2.png)`
 - [ ] `![Notes Organization - Drafts vs Bear](https://user-images.githubusercontent.com/43663476/158259554-5191b921-8064-4ac6-8720-f9c5fa3c67b8.png)`
 - [ ] `![A Complete Mess](https://user-images.githubusercontent.com/43663476/160045048-23b34db5-0aa3-430b-8453-c52258646115.png)`
+- [ ] ![Wiki-Style External Links](https://i.snap.as/GrHTQEky.jpeg)
+- [ ] ![WinSidian](https://i.snap.as/yzszY7zL.png)
 
 ## Videos
 
