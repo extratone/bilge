@@ -4,6 +4,7 @@ Updated `04192022-083429`
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
 - [WTF](https://davidblue.wtf/drafts/218F8FAA-C0B9-4B4F-B896-3089E005E86E.html)
+- [Telegraph](https://telegra.ph/WTF-Redirection-04-19)
 
 ---
 
@@ -24,6 +25,7 @@ Updated `04192022-083429`
 https://davidblue.wtf/mastodonfollowing
 - [**/pixelfed**](https://davidblue.wtf/pixelfed), Redirects to my profile on pixelfed.social.
 - [**/podcast**](https://davidblue.wtf/podcast), Redirects to *End Users* pods.link page.
+- [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/redirection**](https://davidblue.wtf/redirection), Redirects to this document!
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to my RoutineHub profile.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
