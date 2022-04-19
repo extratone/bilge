@@ -1,40 +1,29 @@
-# Notes-Using Drafts with NeoCities
-- [GitHub Issue](https://github.com/extratone/bilge/issues/297)
-- [Drafts Directory](https://actions.getdrafts.com/g/1uF)
-- [NeoCities/WebDAV Action Group · Issue #13 · extratone/drafts](https://github.com/extratone/drafts/issues/13)
-- [[WebDAV Service - Drafts User Guide]]
+# Notes-Using Drafts With NeoCities
+- [Using Drafts with NeoCities · Issue #297 · extratone/bilge](https://github.com/extratone/bilge/issues/297)
+- [WTF](https://davidblue.wtf/drafts/)
+- [**NeoCities Action Group**](https://actions.getdrafts.com/g/1uF)  | Action Directory
+- [WebDAV Service Action Steps](https://docs.getdrafts.com/docs/actions/steps/services#webdav) | Drafts Documentation
+- [TAD-Auto Document Action Group](https://www.thoughtasylum.com/taagd/#tad-auto-document-action-group)
 
-![NeoCitiesActionGroupPreview](https://user-images.githubusercontent.com/43663476/150894801-5e536946-969f-4910-a22a-24cde4c4c6e1.png)
 
-## Individual Action Links
-- [Push Draft to Root as HTML | Drafts Directory](https://actions.getdrafts.com/a/1v9)
-- [Draft to Root as UUID.html | Drafts Directory](https://actions.getdrafts.com/a/1v0)
-- [Draft to Root as Text Timestamp | Drafts Directory](https://actions.getdrafts.com/a/1va)
-- [Draft to /{title} as index.html | Drafts Directory](https://actions.getdrafts.com/a/1vb)
-- [Open /{title} | Drafts Directory](https://actions.getdrafts.com/a/1vc)
-- [Push Draft to /drafts as HTML | Drafts Directory](https://actions.getdrafts.com/a/1vd)
-- [Draft to /drafts as UUID.html | Drafts Directory](https://actions.getdrafts.com/a/1ve)
+[Services - Drafts User Guide](https://docs.getdrafts.com/docs/actions/steps/services#webdav)
 
-## General
-- [ ] [NeoCities HTML Template](https://davidblue.wtf/drafts/8700B562-8716-489A-B554-641549B6B3E5.html)
+## WebDAV
+iOS macOS
+*Create and modify files on a WebDAV enabled server.*
 
-## Images
-- `![toDraft-UUID](https://user-images.githubusercontent.com/43663476/153755878-5b40147a-040b-4e8f-83ae-ce187d40ec0d.png)`
+### OPTIONS
 
-## Social
-- [NeoCities Chatroom Discord Message Link](https://canary.discord.com/channels/763850583823482880/763850583823482883/935415154022187038)
-- [Reminder](x-apple-reminderkit://REMCDReminder/D89261F2-BDA9-4A5E-AC12-BFF14F04FF61)
-- [(2) A set of Drafts Actions for interacting with your NeoCities site via WebDAV. : neocities](https://www.reddit.com/r/neocities/comments/si7ydf/a_set_of_drafts_actions_for_interacting_with_your/)
+**Account Identifier**: A friendly name for the associated credentials used for this action. The first time the action is run, the user will be prompted to enter the WebDAV server URL, and their username/password for the connection. This information will be stored for future use and can be reset in Settings > Credentials. The identifier can be any short string, but should help identify the intended server - like possibly a fragment of the host name. All WebDAV actions with the same account identifier will use the same set of credentials, so use different identifiers to target different servers/accounts.
 
-### Suggestions/Requests for a WebDAV (NeoCities, in my case) Action Group
-[Suggestions/Requests for a WebDAV (NeoCities, in my case) Action Group - Actions - Share What You've Made - Drafts Community](https://forums.getdrafts.com/t/suggestions-requests-for-a-webdav-neocities-in-my-case-action-group/11994)
+**Name**: Template for file name, including extension.
 
-![NeoCitiesActionGroupPreview](https://user-images.githubusercontent.com/43663476/150894801-5e536946-969f-4910-a22a-24cde4c4c6e1.png)
+**Path**: Template for folder path, relative to root directory. For local files, this is the app “Documents” folder, for iCloud Drive it is the “Drafts 5” folder in iCloud Drive.
 
-Howdy folks! After discovering that Drafts includes [a WebDAV service](https://docs.getdrafts.com/docs/actions/steps/services#webdav) a few days ago, I've been toying around with my first attempt at Action development from scratch. I've long fantasized about a more direct way to interact with my NeoCities site(s) - (NeoCities supports WebDAV as its exclusive means of remote file management.)    The end goal for the Action Group would be to utilize Drafts' WebDAV support to its absolute fullest extent to interact with/manage files on a web server over WebDAV.
+**Template**: Template for the content of the file.
 
-So far, I've been able to push drafts to the server successfully but only when titled by UUID or Timestamp. (`3BA64907-441A-4F34-9F4D-DB39E6EFF898.html/2022-02-13-08-01-52.html`)  When I try to use `[[title]]` or `Notes-Using Drafts with NeoCities`, the resulting path is unreadable for some reason.
-
-Anywho, I thought I'd open a thread here. Any suggestions/tips from those of you with more experience developing actions are more than welcome!
-
-Here's [the (unlisted) Action Directory link](https://actions.getdrafts.com/g/1uF) for those with the time/curiosity to check on my progress.
+**Write Type**:
+**create**: Create a new file. If an existing file already exists at the location, **create as new file with a number suffix added**.
+**replace**: Create new file, overwriting an existing if it exists.
+**prepend**: Prepend template content at the beginning of the file. Create the file if it does not already exist.
+**append**: Append template content at the end of the file. Create the file if it does not already exist.
