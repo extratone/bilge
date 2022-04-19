@@ -1,5 +1,7 @@
 # How I Manage Drafts
 - [Notes-How I Manage Drafts](drafts://open?uuid=939FF8C4-CB56-4A5F-99E9-D88E7162BE4E)
+- [Tilde](https://tilde.town/~extratone/drafts/manage/)
+- [WTF](https://davidblue.wtf/drafts/0BF34703-065D-4A2F-9F89-381A2348405E.html)
 
 ![Drafts Library Summary](https://user-images.githubusercontent.com/43663476/163240429-65a75405-3535-415f-a47b-4e68073c9089.png)
 
@@ -16,11 +18,15 @@ In [the eighth post](https://forums.getdrafts.com/t/i-have-too-many-drafts-to-ha
 
 Having used Drafts so long, it’s notable that I can still remember being originally put off by most of its notes management methods at first, especially [Workspaces](https://docs.getdrafts.com/docs/drafts/workspaces). Unfortunately, I couldn’t tell you how I originally dealt with them as I’ve flushed the entirety of my Drafts library at least three or four times since[^1]. Over the years, I’ve come to prefer Workspaces and [Tagging](https://docs.getdrafts.com/docs/drafts/tagging) in Drafts over just about any other method of notes organization for my text living space.
 
-Also worthy of note - if you weren’t already aware - is the fact that I am primarily a Drafts user on my [iPhone 12 Pro Max](https://github.com/extratone/jorts) [*with a paired Bluetooth keyboard*](https://extratone.github.io/drafts/#drafts-keyboard-shortcuts--ios-export-). 
+Also worthy of note - if you weren’t already aware - is the fact that I am primarily a Drafts user on my [iPhone 12 Pro Max](https://github.com/extratone/jorts) [*with a paired Bluetooth keyboard*](https://extratone.github.io/drafts/#drafts-keyboard-shortcuts--ios-export-). This includes many special considerations. Along with Drafts’ support of [TextExpander](https://apps.apple.com/us/app/textexpander-keyboard/id1075927186), its malleable keyboard shortcuts are why I now use Drafts to launch into a significant number of non-Drafts-related tasks/locations. From [Google searches](https://directory.getdrafts.com/a/1yu) to [calling Siri Shortcuts](https://actions.getdrafts.com/a/1xP), starting in Drafts allows me to attach keyboard shortcuts to a whole bunch of commands to which I’d be otherwise unable to.
+
+![Switcher Workspace](https://i.snap.as/AKZ4458Q.png)
 
 ## The Basics
 
-Most of my personal workspaces can be viewed/downloaded via links in the README of [this GitHub repository](https://github.com/extratone/drafts), though they’re not going to be very useful beyond inspection. In terms of priority, their assigned keyboard shortcuts should be the most telling. 
+Sortof like [Federico Viticci’s “dashboard” note in Obsidian](https://club.macstories.net/posts/extension-284), I’ve been using a single Draft as my launching-off point for the command line-esque functions described above. I’ve assigned it `⌥0` via a single [action](https://directory.getdrafts.com/a/1yw) in my [“Switcher” Workspace](https://directory.getdrafts.com/g/1ue). Most of my personal workspaces can be viewed/downloaded via links in the README of [this GitHub repository](https://github.com/extratone/drafts), though they’re not going to be very useful beyond inspection. In terms of priority, their assigned keyboard shortcuts should be the most telling. 
+
+![Workspaces](https://i.snap.as/pb8H9CCx.png)
 
 
 [1] Not out of necessity, I should say.

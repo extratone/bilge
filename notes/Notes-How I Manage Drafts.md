@@ -11,10 +11,19 @@
 > I know I should make it a habit to review my drafts at the end of the day to move them to it’s appropriate system. Often, I find myself too exhausted at the end of the day that I just want to close the computer and call it a day. Then, they start to pile up. 
 
 > What is the best practice?
+- [How I Use Drafts - How Do You  (Feedback appreciated)](drafts://open?uuid=7DA86FDD-E1B7-4EA4-91B2-689B37E10E25)
 
 ## Configurables 
 
 - [Switcher Workspace](https://directory.getdrafts.com/g/1ue)
+- [Google Search Action](https://directory.getdrafts.com/a/1yu)
+- [Dashboard Action](https://directory.getdrafts.com/a/1yw)
+- [Extratext Snippet Group](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb)
+
+## Siri Shortcuts
+
+- [Store Page URLs](https://www.icloud.com/shortcuts/2da1c2aa12b24df1873a756b977e9ef5)
+- [Store Page URLs-Action](https://directory.getdrafts.com/a/1yx)
 
 ## References
 
@@ -34,8 +43,11 @@ One of the absolute core differences between Drafts and native filesystem-based 
 > Drafts has a lightweight organization system similar to email. Individual drafts are created in the “Inbox”. When a draft has been processed, it can be moved to the Archive to long term storage or the Trash if it no longer needed. A draft can also, optionally, be flagged and have any number of tags assigned to it.
 
 Chronology is the primary sortation method by default - by creation date, last modified date, or last accessed date. Drafts and Bear share the basic principle, as you’ll note in the screenshot embedded below - the two writing applications which have had the greatest influence on my thinking. It’s important to mention this, I think, because there’s a very real possibility I have been too embedded in the core methodology of these systems for too long to be critical of them and am blinded to the full spectrum of advantages inherent to directly editing text files in the filesystem.
+- [My Obsidian Setup, Part 3: My 'Dashboard' Note for Quick Links, Todoist Tasks, Saving Ideas, and Keeping Track of Current Projects](https://club.macstories.net/posts/extension-284)
 
 ## Images
 
 - [x] ![Drafts Library Summary](https://i.snap.as/aV8azEcA.image)
 - [ ] ![Drafts Library Summary](https://user-images.githubusercontent.com/43663476/163240429-65a75405-3535-415f-a47b-4e68073c9089.png)
+- [x] ![Switcher Workspace](https://i.snap.as/AKZ4458Q.png)
+- [x] ![Workspaces](https://i.snap.as/pb8H9CCx.png)
