@@ -12,6 +12,10 @@
 
 > What is the best practice?
 
+## Configurables 
+
+- [Switcher Workspace](https://directory.getdrafts.com/g/1ue)
+
 ## References
 
 - [Managing Drafts](https://docs.getdrafts.com/drafts/)
