@@ -1,0 +1,508 @@
+{
+  "data": [
+    {
+      "id": "1463104300909936644",
+      "name": "Brad",
+      "username": "whypwebsite"
+    },
+    {
+      "id": "1396300885282668544",
+      "name": "Resign for Diversity Campaign",
+      "username": "Resign4Divrsity"
+    },
+    {
+      "id": "1368198057372889089",
+      "name": "Alex Stern",
+      "username": "AlexWStern"
+    },
+    {
+      "id": "1347668784144904198",
+      "name": "Newsletter Nerds",
+      "username": "NewsletterNerds"
+    },
+    {
+      "id": "1334882035022917634",
+      "name": "brianna",
+      "username": "justbrizigs"
+    },
+    {
+      "id": "1330729881848729600",
+      "name": "The Kansas City Defender",
+      "username": "KCDefender"
+    },
+    {
+      "id": "1319810229396246529",
+      "name": "caitlin",
+      "username": "_caitlinruth"
+    },
+    {
+      "id": "1313487385477500930",
+      "name": "MinimalistEdTech",
+      "username": "MinimalEdTech"
+    },
+    {
+      "id": "1306335292668801025",
+      "name": "Platformer",
+      "username": "platformer"
+    },
+    {
+      "id": "1304586481948860418",
+      "name": "Missouri Independent",
+      "username": "MO_Independent"
+    },
+    {
+      "id": "1302620323083362308",
+      "name": "The Spritely Project",
+      "username": "spritelyproject"
+    },
+    {
+      "id": "1301030949627596800",
+      "name": "Library Futures",
+      "username": "library_futures"
+    },
+    {
+      "id": "1298053652150509568",
+      "name": "Sterling Price",
+      "username": "SPriceMedia"
+    },
+    {
+      "id": "1293967338245468161",
+      "name": "The Brick House",
+      "username": "brickhousecoop"
+    },
+    {
+      "id": "1242240513811480576",
+      "name": "Clubhouse",
+      "username": "Clubhouse"
+    },
+    {
+      "id": "1194401315197259776",
+      "name": "Discourse Blog",
+      "username": "discourse_blog"
+    },
+    {
+      "id": "1187379988716277763",
+      "name": "No Wars 🔥🚓🔥 No Borders 🔥🚓🔥 No States",
+      "username": "Vicky_ACAB"
+    },
+    {
+      "id": "1172140563774300160",
+      "name": "Jessica Lucas",
+      "username": "jesslucaswrites"
+    },
+    {
+      "id": "1168976680867762177",
+      "name": "Twitter Able",
+      "username": "TwitterAble"
+    },
+    {
+      "id": "1168917099579957249",
+      "name": "CJ Eller",
+      "username": "CJEller3"
+    },
+    {
+      "id": "1155907653002022912",
+      "name": "The Drift",
+      "username": "thedrift_mag"
+    },
+    {
+      "id": "1110236087258177537",
+      "name": "🅿️AL",
+      "username": "pal____"
+    },
+    {
+      "id": "1067543993913872384",
+      "name": "Ziff Davis Creators Guild",
+      "username": "zdcreatorsguild"
+    },
+    {
+      "id": "1058186994700992513",
+      "name": "The Black Techies Podcast",
+      "username": "theblacktechies"
+    },
+    {
+      "id": "1057665929633501190",
+      "name": "Chris Grieser",
+      "username": "pseudo_meta"
+    },
+    {
+      "id": "1039691181590949889",
+      "name": "Alex Pan ♻︎",
+      "username": "HelloAlexPan"
+    },
+    {
+      "id": "1020063919828856832",
+      "name": "Lauren Harris",
+      "username": "LHarrisWrites"
+    },
+    {
+      "id": "962055546785288194",
+      "name": "Foreign Exchanges",
+      "username": "fx_newsletter"
+    },
+    {
+      "id": "920321515077414912",
+      "name": "Readwise",
+      "username": "readwise"
+    },
+    {
+      "id": "905797748577984513",
+      "name": "Them",
+      "username": "them"
+    },
+    {
+      "id": "875882643614814208",
+      "name": "Mastodon",
+      "username": "joinmastodon"
+    },
+    {
+      "id": "867603654680989696",
+      "name": "Citations Needed",
+      "username": "CitationsPod"
+    },
+    {
+      "id": "863607585202622466",
+      "name": "Luci for Chai Tea",
+      "username": "Bri_Seven"
+    },
+    {
+      "id": "861461591283220480",
+      "name": "Anthony Young",
+      "username": "Anjyoun"
+    },
+    {
+      "id": "861344263900200961",
+      "name": "DCOM Groupies",
+      "username": "DcomGroupies"
+    },
+    {
+      "id": "838207951391326208",
+      "name": "rosemarie",
+      "username": "rosemarieho_"
+    },
+    {
+      "id": "833824950196830209",
+      "name": "DCG 201 🇺🇦🇳🇬 #украина",
+      "username": "defcon201nj"
+    },
+    {
+      "id": "822242253712322560",
+      "name": "Makena Kelly",
+      "username": "kellymakena"
+    },
+    {
+      "id": "808464904575299584",
+      "name": "Zoë Schiffer // on leave until May. Send tips!",
+      "username": "ZoeSchiffer"
+    },
+    {
+      "id": "774776936983764994",
+      "name": "Justin Parmer",
+      "username": "JustinParmer14"
+    },
+    {
+      "id": "757545484902883328",
+      "name": "Situation Publishing",
+      "username": "sitpub"
+    },
+    {
+      "id": "703261049194192896",
+      "name": "Pia Ceres",
+      "username": "lapiaenrose"
+    },
+    {
+      "id": "4180280415",
+      "name": "natasha",
+      "username": "nmasc_"
+    },
+    {
+      "id": "4011928402",
+      "name": "Jacob Silverman",
+      "username": "SilvermanJacob"
+    },
+    {
+      "id": "3939645135",
+      "name": "Greg Dool",
+      "username": "GregDool"
+    },
+    {
+      "id": "3233815033",
+      "name": "Writers of Color",
+      "username": "WritersofColor"
+    },
+    {
+      "id": "3160537898",
+      "name": "Hal Estep",
+      "username": "HalEstep20"
+    },
+    {
+      "id": "3094962986",
+      "name": "jab's alt",
+      "username": "DJPissDrop"
+    },
+    {
+      "id": "3081786572",
+      "name": "Mark Schultz",
+      "username": "wordrefiner"
+    },
+    {
+      "id": "2983469177",
+      "name": "HONR Network",
+      "username": "honrnetwork"
+    },
+    {
+      "id": "2970434660",
+      "name": "Meira Gebel♡",
+      "username": "MeiraGebel"
+    },
+    {
+      "id": "2893813821",
+      "name": "Cheyenne MacDonald",
+      "username": "_cheymac"
+    },
+    {
+      "id": "2890147555",
+      "name": "Jessica González",
+      "username": "JGo4Justice"
+    },
+    {
+      "id": "2796729222",
+      "name": "morgan sung",
+      "username": "morgan_sung"
+    },
+    {
+      "id": "2597280410",
+      "name": "Justine Calma",
+      "username": "justcalma"
+    },
+    {
+      "id": "2541819282",
+      "name": "Mad Men Quotes",
+      "username": "MadMenQts"
+    },
+    {
+      "id": "2440063854",
+      "name": "LA Turtle",
+      "username": "evan_breen"
+    },
+    {
+      "id": "2419542895",
+      "name": "Nicole Dalessandro",
+      "username": "nicoleyoko"
+    },
+    {
+      "id": "2355257515",
+      "name": "Headline Smasher",
+      "username": "HeadlineSmasher"
+    },
+    {
+      "id": "2315783322",
+      "name": "Views of the News",
+      "username": "viewsonkbia"
+    },
+    {
+      "id": "2291159162",
+      "name": "Raechel Anne Jolie",
+      "username": "reblgrrlraechel"
+    },
+    {
+      "id": "2246392123",
+      "name": "Gabe Schneider",
+      "username": "gabemschneider"
+    },
+    {
+      "id": "2244340904",
+      "name": "Recode",
+      "username": "Recode"
+    },
+    {
+      "id": "2162132592",
+      "name": "Mark Stenberg",
+      "username": "MarkStenberg3"
+    },
+    {
+      "id": "1699604941",
+      "name": "Rasmus Kleis Nielsen",
+      "username": "rasmus_kleis"
+    },
+    {
+      "id": "1471542956",
+      "name": "Elizabeth Bruenig",
+      "username": "ebruenig"
+    },
+    {
+      "id": "1306199515",
+      "name": "John McWhorter",
+      "username": "JohnHMcWhorter"
+    },
+    {
+      "id": "1285294903",
+      "name": "kait ‘crisp’ sanchez",
+      "username": "crisp_red"
+    },
+    {
+      "id": "1036534076",
+      "name": "👁👅👁",
+      "username": "AlisonBuki"
+    },
+    {
+      "id": "1018011002",
+      "name": "🟣paul campbell",
+      "username": "paulghosts8"
+    },
+    {
+      "id": "763881199",
+      "name": "Liam O'Dell",
+      "username": "LiamODellUK"
+    },
+    {
+      "id": "749768262",
+      "name": "Akoto Ofori-Atta",
+      "username": "akoto_oa"
+    },
+    {
+      "id": "626637689",
+      "name": "Sebastián Martínez Valdivia",
+      "username": "sebastiansings"
+    },
+    {
+      "id": "597768555",
+      "name": "Nick Quah",
+      "username": "nwquah"
+    },
+    {
+      "id": "539535746",
+      "name": "Ariel Shapiro",
+      "username": "arshapiro90"
+    },
+    {
+      "id": "505013560",
+      "name": "David ImeI",
+      "username": "DurvidImel"
+    },
+    {
+      "id": "491000858",
+      "name": "Toby",
+      "username": "tobyshorin"
+    },
+    {
+      "id": "432178846",
+      "name": "Remy Hdz",
+      "username": "RemyHdz_"
+    },
+    {
+      "id": "400228232",
+      "name": "Ali Montag",
+      "username": "ali_montag"
+    },
+    {
+      "id": "395674143",
+      "name": "Evan Greer",
+      "username": "evan_greer"
+    },
+    {
+      "id": "363376534",
+      "name": "Ash Parrish",
+      "username": "adashtra"
+    },
+    {
+      "id": "359425864",
+      "name": "Kurt Wagner",
+      "username": "KurtWagner8"
+    },
+    {
+      "id": "354649570",
+      "name": "Sarah Alister",
+      "username": "AlisterSarah_"
+    },
+    {
+      "id": "354252749",
+      "name": "Kristine Lois Villanueva 🌶️🇵🇭",
+      "username": "kristine_ish"
+    },
+    {
+      "id": "342525301",
+      "name": "Karen Maniraho",
+      "username": "maniraho"
+    },
+    {
+      "id": "325100970",
+      "name": "Hypothesis",
+      "username": "hypothes_is"
+    },
+    {
+      "id": "323024295",
+      "name": "James",
+      "username": "JamesHercher"
+    },
+    {
+      "id": "299449780",
+      "name": "Angela Chen",
+      "username": "chengela"
+    },
+    {
+      "id": "291131695",
+      "name": "Jon Allsop",
+      "username": "Jon_Allsop"
+    },
+    {
+      "id": "282352687",
+      "name": "Kaya Yurieff",
+      "username": "kyurieff"
+    },
+    {
+      "id": "274121823",
+      "name": "Nieman Foundation",
+      "username": "niemanfdn"
+    },
+    {
+      "id": "251118807",
+      "name": "Damon K",
+      "username": "dada_drummer"
+    },
+    {
+      "id": "249518485",
+      "name": "Sean Illing",
+      "username": "seanilling"
+    },
+    {
+      "id": "246885545",
+      "name": "Rachael Cusick",
+      "username": "RachaelQsick"
+    },
+    {
+      "id": "246154627",
+      "name": "Shivangi",
+      "username": "Shivangi_g"
+    },
+    {
+      "id": "244619289",
+      "name": "Evan DeSimone",
+      "username": "Smorgasboredom"
+    },
+    {
+      "id": "216140356",
+      "name": "Theorizing the Web",
+      "username": "TtW_conf"
+    },
+    {
+      "id": "208725869",
+      "name": "Taylor Lorenz",
+      "username": "TaylorLorenz"
+    },
+    {
+      "id": "205260592",
+      "name": "Journal of Electronic Publishing",
+      "username": "JEPub"
+    },
+    {
+      "id": "181246076",
+      "name": "Fernando Narro",
+      "username": "narro93"
+    }
+  ],
+  "meta": {
+    "result_count": 100,
+    "next_token": "4611686018608633980"
+  }
+}
