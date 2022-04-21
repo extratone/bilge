@@ -1,0 +1,1466 @@
+{
+  "result" : true,
+  "items" : [
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-20T19:46:09.938Z",
+      "count" : 315,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-20T20:29:50.512Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 24318185,
+      "author" : true,
+      "title" : "agiletortoise",
+      "view" : "list",
+      "cover" : [
+
+      ],
+      "expanded" : true,
+      "created" : "2022-04-20T19:46:03.711Z",
+      "slug" : "agiletortoise",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 24318185
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-20T12:34:47.083Z",
+      "count" : 13,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-20T12:39:48.473Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 24313145,
+      "author" : true,
+      "title" : "04202022-073428",
+      "view" : "list",
+      "cover" : [
+
+      ],
+      "expanded" : true,
+      "created" : "2022-04-20T12:34:46.402Z",
+      "slug" : "04202022-073428",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 24313145
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-20T12:10:26.772Z",
+      "count" : 12,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-20T12:20:02.587Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 24312539,
+      "author" : true,
+      "title" : "04202022-070953",
+      "view" : "list",
+      "cover" : [
+
+      ],
+      "expanded" : true,
+      "created" : "2022-04-20T12:10:26.152Z",
+      "slug" : "04202022-070953",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 24312539
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-20T02:43:21.888Z",
+      "count" : 312,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-20T02:43:21.860Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 24305148,
+      "author" : true,
+      "title" : "MacStories Weekly",
+      "view" : "list",
+      "cover" : [
+
+      ],
+      "expanded" : true,
+      "created" : "2022-04-20T02:29:01.129Z",
+      "slug" : "mac-stories-weekly",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 24305148
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-20T02:25:04.371Z",
+      "count" : 294,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-20T02:30:58.077Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 24305138,
+      "author" : true,
+      "title" : "04192022-212420",
+      "view" : "list",
+      "cover" : [
+
+      ],
+      "expanded" : true,
+      "created" : "2022-04-20T02:24:53.091Z",
+      "slug" : "04192022-212420",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 24305138
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-20T01:03:13.010Z",
+      "count" : 36,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-20T01:14:34.598Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 24304720,
+      "author" : true,
+      "title" : "twittutorials",
+      "view" : "list",
+      "cover" : [
+
+      ],
+      "expanded" : true,
+      "created" : "2022-04-20T01:03:11.519Z",
+      "slug" : "twittutorials",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 24304720
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-14T22:36:33.070Z",
+      "count" : 3444,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-14T22:52:49.636Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 24212271,
+      "author" : true,
+      "title" : "tld-list",
+      "view" : "list",
+      "cover" : [
+
+      ],
+      "expanded" : true,
+      "created" : "2022-04-14T22:35:27.126Z",
+      "slug" : "tld-list",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 24212271
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-12T19:29:26.338Z",
+      "count" : 431,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-13T23:53:36.030Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 24156840,
+      "author" : true,
+      "title" : "Matthew Cassinelli Member Shortcuts",
+      "color" : "#fc3c04",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/241\/568\/40\/56f0e1ec708c1c341b9e0c400b53df49.png"
+      ],
+      "expanded" : true,
+      "created" : "2022-04-12T19:24:16.733Z",
+      "slug" : "matthew-cassinelli-member-shortcuts",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 24156840
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-04T11:44:45.021Z",
+      "count" : 2179,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-05T05:07:42.459Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 24002814,
+      "author" : true,
+      "title" : "WTF Drafts",
+      "color" : "#4aad4f",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/240\/028\/14\/6421165b95db6c8ab072156d33740285.png"
+      ],
+      "expanded" : true,
+      "created" : "2022-04-04T01:15:06.952Z",
+      "slug" : "wtf-drafts",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 24002814
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-04T11:45:23.040Z",
+      "count" : 233,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-04T11:45:23.040Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 23978721,
+      "author" : true,
+      "title" : "Import",
+      "color" : "#94727c",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/239\/787\/21\/331e0b29b82a2f963e641bcad505b725.png"
+      ],
+      "expanded" : true,
+      "created" : "2022-04-02T19:09:46.356Z",
+      "slug" : "import",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 23978721
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-03-23T20:12:40.929Z",
+      "count" : 312,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-03-23T20:21:35.585Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 23813962,
+      "author" : true,
+      "title" : "remindersurls",
+      "view" : "list",
+      "cover" : [
+
+      ],
+      "expanded" : true,
+      "created" : "2022-03-23T20:12:33.554Z",
+      "slug" : "remindersurls",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 23813962
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-14T22:46:04.008Z",
+      "count" : 1495,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-14T22:46:04.008Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 22520136,
+      "author" : true,
+      "title" : "tilde",
+      "color" : "#060506",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/225\/201\/36\/Tilde_Folder.png"
+      ],
+      "expanded" : false,
+      "created" : "2022-01-18T10:23:23.252Z",
+      "slug" : "tilde",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 22520136
+    },
+    {
+      "description" : "My friend Nina (https:\/\/twitter.com\/smallcreature99,) on laying down. Original moment: https:\/\/twitter.com\/i\/events\/1395934071197474828",
+      "lastUpdate" : "2021-12-27T09:19:42.097Z",
+      "count" : 26,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-27T09:24:21.746Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 22099048,
+      "author" : true,
+      "title" : "Nina Loves Laying Down",
+      "color" : "#8d706b",
+      "view" : "grid",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/220\/990\/48\/Nina.jpg"
+      ],
+      "expanded" : false,
+      "created" : "2021-12-27T09:13:32.040Z",
+      "slug" : "nina-loves-laying-down",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 22099048
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2021-12-17T18:50:53.272Z",
+      "count" : 168,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-16T02:12:24.694Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 21940358,
+      "author" : true,
+      "title" : "Friends",
+      "color" : "#1b90c2",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/219\/403\/58\/1f264a367efc5d0c169d0652b89cf581.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-12-15T23:44:55.880Z",
+      "slug" : "friends",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 21940358
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-19T19:06:20.003Z",
+      "count" : 219,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-19T19:06:20.003Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 21499718,
+      "author" : true,
+      "title" : "Screaming",
+      "color" : "#fc6e04",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/214\/997\/18\/ad9ff00cdae11a962d7666329c58ff1a.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-11-23T13:32:50.193Z",
+      "slug" : "screaming",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 21499718
+    },
+    {
+      "description" : "Content regarding Federated Social considerations. Mastodon, PixelFed, PeerTube, etc.",
+      "lastUpdate" : "2022-01-16T04:51:12.603Z",
+      "count" : 287,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-01-16T04:51:12.602Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 21008112,
+      "author" : true,
+      "title" : "Federated",
+      "color" : "#2296f6",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/210\/081\/12\/f5d25bce2f50b2598204295487388664.png"
+      ],
+      "expanded" : true,
+      "created" : "2021-10-27T12:50:15.280Z",
+      "slug" : "federated",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 21008112
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-01-16T15:11:17.322Z",
+      "count" : 246,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-21T02:23:54.222Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 21008073,
+      "author" : true,
+      "title" : "MacStories Shortcuts Library",
+      "color" : "#303d9c",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/210\/080\/73\/e0778971d0c6c783f7119f5d75219c33.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-10-27T12:39:57.848Z",
+      "slug" : "mac-stories-shortcuts-library",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 21008073
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2021-11-23T14:39:59.916Z",
+      "count" : 13,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-13T23:43:04.976Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 20997203,
+      "author" : true,
+      "title" : "writeas",
+      "view" : "list",
+      "cover" : [
+
+      ],
+      "expanded" : true,
+      "created" : "2021-10-26T17:29:27.117Z",
+      "slug" : "writeas",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 20997203
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-21T06:54:41.612Z",
+      "count" : 1730,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-21T07:12:03.008Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 20889671,
+      "author" : true,
+      "title" : "Adult",
+      "color" : "#a47732",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/208\/896\/71\/34afb7652f421b0c4717f1f1fca85c52.png"
+      ],
+      "expanded" : true,
+      "created" : "2021-10-20T01:49:35.580Z",
+      "slug" : "adult",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 20889671
+    },
+    {
+      "description" : "Regarding the Bluetooth keyboard x iPhone project.",
+      "lastUpdate" : "2022-04-15T16:42:52.673Z",
+      "count" : 217,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-15T16:46:22.589Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 18921605,
+      "author" : true,
+      "title" : "UIKeyCommand (ExtraKeys)",
+      "color" : "#707879",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/189\/216\/05\/db52a80de8b122ca70650e6917b2f3ee.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-07-06T16:17:44.983Z",
+      "slug" : "ui-key-command-extra-keys",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 18921605
+    },
+    {
+      "description" : "As the President makes any aircraft he's aboard \"Airforce One,\" so to does David Blue make any space \"Studio Eat\" when audio is being recorded.",
+      "lastUpdate" : "2022-04-14T22:38:23.463Z",
+      "count" : 184,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-10T23:51:08.451Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 17059498,
+      "author" : true,
+      "title" : "Studio Eat",
+      "color" : "#737d82",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/170\/594\/98\/6487151702e90607cb785a63f3386693.png"
+      ],
+      "expanded" : true,
+      "created" : "2021-03-16T11:26:39.521Z",
+      "slug" : "studio-eat",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 17059498
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2021-10-31T23:02:03.141Z",
+      "count" : 9,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-14T03:57:05.483Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13453161,
+      "author" : true,
+      "title" : "Correspondence",
+      "color" : "#1e86e3",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/134\/531\/61\/8c9fa81c6477ed180922e669490d2b83.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-13T14:34:49.618Z",
+      "slug" : "correspondence",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 13453161
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2021-12-20T09:33:18.225Z",
+      "count" : 263,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-14T04:55:59.173Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13435232,
+      "author" : true,
+      "title" : "Visuals",
+      "color" : "#2d90aa",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/134\/352\/32\/c8688cb53b211157cba7ff6513cb9660.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-12T23:18:55.760Z",
+      "slug" : "visuals",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 13435232
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-20T02:56:29.992Z",
+      "count" : 636,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-20T03:00:21.325Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13425444,
+      "author" : true,
+      "title" : "Curiosities",
+      "color" : "#aa7a05",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/134\/254\/44\/51aba6f4d3682718f53f2f03cfc70a5b.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-12T03:54:56.997Z",
+      "slug" : "curiosities",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 13425444
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2021-12-12T12:51:44.666Z",
+      "count" : 90,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-14T04:56:22.619Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13390659,
+      "author" : true,
+      "title" : "Academia",
+      "color" : "#7f735e",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/133\/906\/59\/6625d360f0d04d8e24c84dc2f8f8c475.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-11T01:24:13.675Z",
+      "slug" : "academia",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 13390659
+    },
+    {
+      "description" : "(This is my one and only music curation feed, almost exclusively powered by song.link.)",
+      "lastUpdate" : "2022-04-16T00:13:14.428Z",
+      "count" : 621,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-16T00:19:27.663Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13387737,
+      "author" : true,
+      "title" : "🅶🅴🆁🅾🅶🅴🆁🅸🅶🅴🅶🅴🅶🅴",
+      "color" : "#2394f4",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/133\/877\/37\/265b3e1e54f720c4e8ca3cc4032bba37.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-10T16:38:44.669Z",
+      "slug" : "",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 13387737
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-21T04:12:42.549Z",
+      "count" : 255,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-19T23:01:02.608Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13387666,
+      "author" : true,
+      "title" : "Software",
+      "color" : "#4084bd",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/133\/876\/66\/e1aca252cf7fe1c5a12c7d95b845be4b.png"
+      ],
+      "expanded" : true,
+      "created" : "2020-09-10T16:14:33.029Z",
+      "slug" : "software",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 13387666
+    },
+    {
+      "description" : "Since I first began working online in 2016, I have grown and maintained quite a curatorial habit, and therefore sought all sorts of modern curator's tools. The system I settled upon for some five years: a dedicated Reading List channel in Extratone's Discord. It wasn't until this past year that I encouraged something which (so far) has exceeded willy-nilly copy-and-paste of URLs into a single feed. It's an application\/bookmarking service called Raindrop which includes tagging, public, RSS-enabled collections, and fairy competent web page archiving.\n\nThis is my main Reading List Raindrop feed, but there are 13 others on my Profile.",
+      "lastUpdate" : "2022-04-21T00:21:35.940Z",
+      "count" : 31300,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-21T02:07:07.335Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13380406,
+      "author" : true,
+      "title" : "Reading List",
+      "color" : "#6a6bb4",
+      "view" : "simple",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/133\/804\/06\/41769ee4ddff9929d929c660efc588d3.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-10T03:00:57.776Z",
+      "slug" : "reading-list",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 13380406
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-10T19:11:26.512Z",
+      "count" : 694,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-10T19:11:26.512Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13379949,
+      "author" : true,
+      "title" : "Automotive",
+      "color" : "#747a9c",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/133\/799\/49\/fe07e4c21fe97e3137abb7ad9b843f1d.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-10T00:57:05.859Z",
+      "slug" : "automotive",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 13379949
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2021-12-06T12:06:16.935Z",
+      "count" : 71,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-15T06:43:30.458Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13379916,
+      "author" : true,
+      "title" : "Speed Dial",
+      "color" : "#039bab",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/133\/799\/16\/51d74b4f68a1091279dc5a0989eb000a.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-10T00:56:43.610Z",
+      "slug" : "speed-dial",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 13379916
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-01-16T04:51:12.603Z",
+      "count" : 108,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-01-16T04:51:12.602Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13379926,
+      "author" : true,
+      "title" : "Blogs",
+      "color" : "#a17b0f",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/133\/799\/26\/435e9594b4b2a6876b40ea87edee9561.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-10T00:56:46.822Z",
+      "slug" : "blogs",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : false,
+      "sort" : 5
+    },
+    {
+      "description" : "Mostly using Tweetbot - though the same functionality is also accessible in TweetDeck - I have decided to be more intentional about using Twitter’s obfuscated “Collections” feature. It’s going to take a while, but I’m using this Collection of Collections to gather them, here.",
+      "lastUpdate" : "2022-04-15T05:08:17.069Z",
+      "count" : 15,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-15T05:08:17.064Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 21068892,
+      "author" : true,
+      "title" : "Timelines",
+      "color" : "#71787a",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/210\/688\/92\/00fb51437e1b7407a3259abe206bf9a4.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-10-30T19:15:08.689Z",
+      "slug" : "timelines",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 2
+    },
+    {
+      "description" : "A **digital magazine collection** intended to both explore that concept as well as simply function as a directory of virtually every magazine I've ever come across on the internet.",
+      "lastUpdate" : "2022-04-12T00:43:24.311Z",
+      "count" : 437,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-12T00:43:24.308Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13419360,
+      "author" : true,
+      "title" : "Magazines",
+      "color" : "#f93a06",
+      "view" : "masonry",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/134\/193\/60\/93c194de9e791b9745f27e3a809553af.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-09-11T21:54:33.917Z",
+      "slug" : "magazines",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 0
+    },
+    {
+      "description" : "This is a master list of over 100,000 twitter.com\/ links I've managed to accumulate over my 12+ years of daily Twitter use via a variety of automations\/services\/systems like the one you're looking at now!",
+      "lastUpdate" : "2022-04-21T05:15:36.450Z",
+      "count" : 108679,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-21T05:15:36.450Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 13759854,
+      "author" : true,
+      "title" : "Twitter",
+      "color" : "#12989d",
+      "view" : "masonry",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/137\/598\/54\/6674ee04791453bb408b092273dc7188.png"
+      ],
+      "expanded" : true,
+      "created" : "2020-10-04T02:29:22.694Z",
+      "slug" : "twitter",
+      "sort" : 0,
+      "public" : true,
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      }
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2021-12-16T16:46:38.758Z",
+      "count" : 62,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-16T16:56:12.927Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 14450649,
+      "author" : true,
+      "title" : "Spectacle",
+      "color" : "#b46f59",
+      "view" : "grid",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/144\/506\/49\/92bea0872e93db3f481ef2d712d45107.png"
+      ],
+      "expanded" : false,
+      "created" : "2020-11-02T15:23:06.427Z",
+      "slug" : "spectacle",
+      "sort" : 0,
+      "public" : true,
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      }
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-21T06:47:25.520Z",
+      "count" : 1256,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-21T06:53:11.610Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 16469527,
+      "author" : true,
+      "title" : "iOS",
+      "color" : "#b56f2f",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/164\/695\/27\/6f8b59e11889f3817c2d601071f5f4a4.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-02-12T18:44:30.922Z",
+      "slug" : "i-os",
+      "sort" : 0,
+      "public" : true,
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      }
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2021-12-17T01:54:30.346Z",
+      "count" : 166,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-17T01:54:30.341Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 18932299,
+      "author" : true,
+      "title" : "Hardware",
+      "color" : "#6a7b8e",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/189\/322\/99\/331e0dba5e7d4bc42adef24d82317b5f.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-07-07T17:28:56.631Z",
+      "slug" : "hardware",
+      "sort" : 0,
+      "public" : false,
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      }
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-20T18:01:34.537Z",
+      "count" : 95,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-01-16T04:51:12.602Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 20973111,
+      "author" : true,
+      "title" : "David Blue",
+      "color" : "#392597",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/209\/731\/11\/David_Blue_for_i_OS_Icon_500.png"
+      ],
+      "expanded" : true,
+      "created" : "2021-10-25T04:07:21.203Z",
+      "slug" : "david-blue",
+      "sort" : 0,
+      "public" : false,
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      }
+    },
+    {
+      "description" : "This collection is my best attempt to maintain a database of public profile\/account\/user pages for all of the various web services and networks I've signed up for in my time. It is 𝙣𝙤𝙩 a curatorial expression of preference. More than a few of the host services beneathe some of these pages are in fact ones I wouldn't advise anyone to visit, even, to say the least.\n\nIf you arrived here simply wanting to get in touch with David Blue, here are the basics:\n\n𝚍𝚊𝚟𝚒𝚍𝚋𝚕𝚞𝚎@𝚎𝚡𝚝𝚛𝚊𝚝𝚘𝚗𝚎.𝚌𝚘𝚖\n+𝟏 (𝟓𝟕𝟑) 𝟖𝟐𝟑-𝟒𝟑𝟖𝟎",
+      "lastUpdate" : "2022-04-15T16:46:08.649Z",
+      "count" : 133,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-15T16:46:08.648Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 21059174,
+      "author" : true,
+      "title" : "Social Directory",
+      "color" : "#725e62",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/210\/591\/74\/David_Blue_for_i_OS_Icon_2_500.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-10-30T04:07:36.109Z",
+      "slug" : "social-directory",
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      },
+      "public" : true,
+      "sort" : 0
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2021-12-21T19:00:39.196Z",
+      "count" : 3,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2021-12-21T19:00:39.184Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 21129455,
+      "author" : true,
+      "title" : "Identity",
+      "color" : "#5a819d",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/211\/294\/55\/b9c2bd937163b370dc5e8add2e2191f4.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-11-03T03:27:15.978Z",
+      "slug" : "identity",
+      "sort" : 0,
+      "public" : false,
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      }
+    },
+    {
+      "description" : "",
+      "lastUpdate" : "2022-04-19T14:47:18.939Z",
+      "count" : 275,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-19T14:47:18.939Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 21970473,
+      "author" : true,
+      "title" : "Branding",
+      "color" : "#2978f4",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/219\/704\/73\/acb131be34a2fbb20a798adbea6bae47.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-12-17T23:03:15.768Z",
+      "slug" : "branding",
+      "sort" : 0,
+      "public" : false,
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      }
+    },
+    {
+      "description" : "Introducing THE 2 0 2 1 𝔓𝔈ℜ𝔇ℑ𝔗ℑ𝔒𝔑 ICON SET. \n\nIdk man I’ve just been avoiding doing *anything* actually need to and playing around with MacOS for the first time in 10 years. Might do an actual post on The Psalms later but all the file sharing links you need are already up on the Wiki: https:\/\/bit.ly\/2021perdition",
+      "lastUpdate" : "2022-04-08T22:37:52.732Z",
+      "count" : 73,
+      "creatorRef" : {
+        "_id" : 517010,
+        "name" : "davidblue",
+        "email" : ""
+      },
+      "lastAction" : "2022-04-08T22:37:52.708Z",
+      "access" : {
+        "draggable" : true,
+        "level" : 4,
+        "root" : false,
+        "for" : 517010
+      },
+      "_id" : 22044338,
+      "author" : true,
+      "title" : "2 0 2 1 𝔓𝔈ℜ𝔇ℑ𝔗ℑ𝔒𝔑",
+      "color" : "#1b74cd",
+      "view" : "list",
+      "cover" : [
+        "https:\/\/up.raindrop.io\/collection\/thumbs\/220\/443\/38\/3a080a89a3cb226a5c84e8c46b962a1c.png"
+      ],
+      "expanded" : false,
+      "created" : "2021-12-23T09:56:26.414Z",
+      "slug" : "2-0-2-1",
+      "sort" : 0,
+      "public" : true,
+      "user" : {
+        "$id" : 517010,
+        "$db" : "",
+        "$ref" : "users"
+      }
+    }
+  ]
+}
