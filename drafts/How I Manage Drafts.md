@@ -24,9 +24,18 @@ Also worthy of note - if you weren’t already aware - is the fact that I am pri
 
 ## The Basics
 
-Sortof like [Federico Viticci’s “dashboard” note in Obsidian](https://club.macstories.net/posts/extension-284), I’ve been using a single Draft as my launching-off point for the command line-esque functions described above. I’ve assigned it `⌥0` via a single [action](https://directory.getdrafts.com/a/1yw) in my [“Switcher” Workspace](https://directory.getdrafts.com/g/1ue). Most of my personal workspaces can be viewed/downloaded via links in the README of [this GitHub repository](https://github.com/extratone/drafts), though they’re not going to be very useful beyond inspection. In terms of priority, their assigned keyboard shortcuts should be the most telling. 
+Most of my personal workspaces can be viewed/downloaded via links in the README of [this GitHub repository](https://github.com/extratone/drafts), though they’re not going to be very useful beyond inspection. In terms of priority, their assigned keyboard shortcuts should be the most telling. “[Hole](https://actions.getdrafts.com/w/1vR)” is as near as makes no difference to a pure chronological list of all drafts, sorted by modification date, which often comes in handy when I need to find an untagged draft created from elsewhere or when I just feel the need to see *all* my most recently-modified drafts ordered as such. 
 
 ![Workspaces](https://i.snap.as/pb8H9CCx.png)
 
+You’ll note that most of my workspaces include the default sorting options - that is, displaying flagged drafts at the top of the list under all conditions, and under all conditions, sorting the rest by modification date. One notable exception is my [Vocabulary workspace](https://directory.getdrafts.com/w/1zN), which is sorted alphabetically. 
+
+![Vocabulary Workspace](https://i.snap.as/3VLAXk96.png)
+
+## UUIDs
+
+Sortof like [Federico Viticci’s “dashboard” note in Obsidian](https://club.macstories.net/posts/extension-284), I’ve been using a single Draft as my launching-off point for the command line-esque functions described above. I’ve assigned it `⌥0` via a single [action](https://directory.getdrafts.com/a/1yw) in my [“Switcher” Workspace](https://directory.getdrafts.com/g/1ue), enabled by the magic of UUIDs, which we’ll get into later.
+
+[How I Manage Drafts](https://chaff.writeas.com/how-i-manage-drafts)
 
 [1] Not out of necessity, I should say.

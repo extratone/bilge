@@ -19,6 +19,7 @@
 - [Google Search Action](https://directory.getdrafts.com/a/1yu)
 - [Dashboard Action](https://directory.getdrafts.com/a/1yw)
 - [Extratext Snippet Group](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb)
+- [Vocabulary Workspace](https://directory.getdrafts.com/w/1zN)
 
 ## Siri Shortcuts
 
@@ -51,3 +52,5 @@ Chronology is the primary sortation method by default - by creation date, last m
 - [ ] ![Drafts Library Summary](https://user-images.githubusercontent.com/43663476/163240429-65a75405-3535-415f-a47b-4e68073c9089.png)
 - [x] ![Switcher Workspace](https://i.snap.as/AKZ4458Q.png)
 - [x] ![Workspaces](https://i.snap.as/pb8H9CCx.png)
+- [ ] ![Excess Versions](https://i.snap.as/HasDT2p7.png)
+- [x] ![Vocabulary Workspace](https://i.snap.as/3VLAXk96.png)
