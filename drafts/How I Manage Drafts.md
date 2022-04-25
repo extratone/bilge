@@ -24,7 +24,7 @@ Also worthy of note - if you weren’t already aware - is the fact that I am pri
 
 ## The Basics
 
-Most of my personal workspaces can be viewed/downloaded via links in the README of [this GitHub repository](https://github.com/extratone/drafts), though they’re not going to be very useful beyond inspection. In terms of priority, their assigned keyboard shortcuts should be the most telling. “[Hole](https://actions.getdrafts.com/w/1vR)” is as near as makes no difference to a pure chronological list of all drafts, sorted by modification date, which often comes in handy when I need to find an untagged draft created from elsewhere or when I just feel the need to see *all* my most recently-modified drafts ordered as such. 
+You can view a recent result of the [Drafts Library Summary](https://actions.getdrafts.com/a/12X) action on my personal library [here](https://davidblue.wtf/drafts/library). It shows a total tag count of 200 even, which is a bit excessive and not entirely reflective of the number of these I actually use. Most of my personal workspaces can be viewed/downloaded via links in the README of [this GitHub repository](https://github.com/extratone/drafts), though they’re not going to be very useful beyond inspection. In terms of priority, their assigned keyboard shortcuts should be the most telling. “[Hole](https://actions.getdrafts.com/w/1vR)” is as near as makes no difference to a pure chronological list of all drafts, sorted by modification date, which often comes in handy when I need to find an untagged draft created from elsewhere or when I just feel the need to see *all* my most recently-modified drafts ordered as such. 
 
 ![Workspaces](https://i.snap.as/pb8H9CCx.png)
 

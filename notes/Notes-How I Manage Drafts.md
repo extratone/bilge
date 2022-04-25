@@ -13,6 +13,10 @@
 > What is the best practice?
 - [How I Use Drafts - How Do You  (Feedback appreciated)](drafts://open?uuid=7DA86FDD-E1B7-4EA4-91B2-689B37E10E25)
 
+## General 
+
+- [Drafts Library Summary](https://davidblue.wtf/drafts/library/)
+
 ## Configurables 
 
 - [Switcher Workspace](https://directory.getdrafts.com/g/1ue)
@@ -20,6 +24,7 @@
 - [Dashboard Action](https://directory.getdrafts.com/a/1yw)
 - [Extratext Snippet Group](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb)
 - [Vocabulary Workspace](https://directory.getdrafts.com/w/1zN)
+- [Drafts Library Summary action](https://actions.getdrafts.com/a/12X)
 
 ## Siri Shortcuts
 
