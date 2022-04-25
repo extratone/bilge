@@ -28,7 +28,7 @@ You can view a recent result of the [Drafts Library Summary](https://actions.get
 
 ![Workspaces](https://i.snap.as/pb8H9CCx.png)
 
-You’ll note that most of my workspaces include the default sorting options - that is, displaying flagged drafts at the top of the list under all conditions, and under all conditions, sorting the rest by modification date. One notable exception is my [Vocabulary workspace](https://directory.getdrafts.com/w/1zN), which is sorted alphabetically. 
+You’ll note that most of my workspaces include the default sorting options - that is, displaying flagged drafts at the top of the list under all conditions, and under all conditions, sorting the rest by modification date. One notable exception is my [Vocabulary workspace](https://directory.getdrafts.com/w/1zN), which is sorted alphabetically.
 
 ![Vocabulary Workspace](https://i.snap.as/3VLAXk96.png)
 
