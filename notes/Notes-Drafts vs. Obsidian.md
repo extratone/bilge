@@ -5,6 +5,8 @@
 - [Compiling and Exporting Tagged Notes in Drafts 5](https://club.macstories.net/posts/compiling-and-exporting-tagged-notes-in-drafts-5) | *MacStories*
 - [Drafts Directory: Export Review Draft](https://actions.getdrafts.com/a/1L7)
 - [SoFar SimpleNote](http://simp.ly/publish/ffZXcw)
+- [Drafts Universal Clacker Award](https://uikeycommand.com/awards/drafts)
+- [Drafts Universal Clacker Award](drafts://open?uuid=B8C70F5B-B7BE-4F55-BB08-AD563B05C3AC)
 
 ## Obsidian Positives!
 
@@ -33,7 +35,8 @@
 - [ ] [Actions for Obsidian in the Action Directory](https://actions.getdrafts.com/search?utf8=✓&q=obsidian).
 - [ ] Drafts’ absurdly high rating in the App Store.
 - [ ] [Live preview update - Obsidian Help](https://help.obsidian.md/Live+preview+update)
-- [ ] [Folding Text / Collapsable Headers - Feature Requests - Drafts Community](https://forums.getdrafts.com/t/folding-text-collapsable-headers/1034) - it looks like I may be one of few Drafts users who is *uninterested* in folding headers. In the several implementations I’ve tried them over the years, they tend to just confuse me / get me lost. 
+- [ ] [Folding Text / Collapsable Headers - Feature Requests - Drafts Community](https://forums.getdrafts.com/t/folding-text-collapsable-headers/1034) - it looks like I may be one of few Drafts users who is *uninterested* in folding headers. In the several implementations I’ve tried them over the years, they tend to just confuse me / get me lost.
+- [ ] My *entire* library of just over 2000 drafts can be exported in seconds into a single, 26.3 megabyte [JSON file](https://i.snap.as/NJQL39r9.png).
 
 ## Misc
 
@@ -45,6 +48,7 @@
 - [ ] [Drafts Directory: On My Mind](https://directory.getdrafts.com/g/1yM)
 - [ ] [On My Mind Action Group by FlohGro](drafts://open?uuid=C90B70B3-A594-4736-86B2-E4F1924D3096)
 - [ ] [Would you consider offering a GitBook theme on Obsidian?  · Issue #38 · h16nning/typora-gitbook-theme](https://github.com/h16nning/typora-gitbook-theme/issues/38) (NO.)
+- [ ] [Six Months Later](https://reddit.com/r/ObsidianMD/comments/u4n9x9/6_months_of_note_taking_later/) | r/ObsidianMD
 
 ## Social
 
@@ -57,6 +61,7 @@
 - [I found another Taio user](https://mastodon.xyz/@CutThroatNeko/107925765618277225)
 - [Federico’s holiday project](https://twitter.com/viticci/status/1481687474753658890)
 - [8% battery in 90 seconds](https://twitter.com/NeoYokel/status/1513633034955857922)
+- [The grocery list](https://twitter.com/NeoYokel/status/1518839952330608641)
 
 ## Images
 
@@ -95,6 +100,8 @@
 - [ ] `![A Complete Mess](https://user-images.githubusercontent.com/43663476/160045048-23b34db5-0aa3-430b-8453-c52258646115.png)`
 - [ ] ![Wiki-Style External Links](https://i.snap.as/GrHTQEky.jpeg)
 - [ ] ![WinSidian](https://i.snap.as/yzszY7zL.png)
+- [ ] ![Replace Drafts with Taio](https://i.snap.as/5bMhS8l0.png)
+- [ ] ![Drafts Backup-Export Example](https://i.snap.as/NJQL39r9.png)
 
 ## Videos
 
