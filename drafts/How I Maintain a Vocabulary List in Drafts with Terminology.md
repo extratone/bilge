@@ -32,4 +32,9 @@ I then manually add the “Vocabulary” tag to the Draft, completing the proces
 
 ## Publication
 
-For the past few weeks, I’ve been wreaking havoc on NeoCities’ global activity feed using [the action group I created](https://bilge.world/using-drafts-with-neocities) on [the /drafts directory](https://davidblue.wtf/drafts) of davidblue dot wtf. Specifically, the action that uploads HTML files to that directory named by the UUID of the draft. (Here’s [the corresponding link for this post](https://davidblue.wtf/drafts/F20BB579-E235-4F04-8BCE-22AAF15A97C2.html), for example.)
+For the past few weeks, I’ve been wreaking havoc on NeoCities’ global activity feed using [the action group I created](https://bilge.world/using-drafts-with-neocities) on [the /drafts directory](https://davidblue.wtf/drafts) of davidblue dot wtf. Specifically, the action that uploads HTML files to that directory named by the UUID of the draft. (Here’s [the corresponding link for this post](https://davidblue.wtf/drafts/F20BB579-E235-4F04-8BCE-22AAF15A97C2.html), for example.) With consequent [draft_open_urls](https://docs.getdrafts.com/docs/actions/templates#identifier-tags) left in the footer of each as per my current, more or less universal [HTML template](https://tilde.town/~extratone/template/1.4.txt), I’m able to immediately open the appropriate draft locally. 
+
+![Vocabulary Index Shortcut](https://i.snap.as/2npm338t.png)
+
+In order to maintain [an updated index](https://davidblue.wtf/vocabulary) of the whole list, I’ve created [a Siri Shortcut](https://www.icloud.com/shortcuts/113f8e45729c4466860c3c7c668e939d) which transforms the UUIDs of the drafts in the vocabulary workspace into markdown-formatted hyperlinks of their web-dwelling counterparts. 
+- [How I Maintain a Vocabulary List in Drafts with Terminology](https://chaff.writeas.com/how-i-maintain-a-vocabulary-list-in-drafts-with-terminology-mp6z)
