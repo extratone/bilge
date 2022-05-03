@@ -14,11 +14,11 @@ See [**my 2020 reflectory post**](https://bilge.world/2020) for a few more detai
 
 # Latest Work
 <!-- BLOG-POST-LIST:START -->
+- [How I Maintain a Vocabulary List in Drafts with Terminology](https://bilge.world/drafts-terminology-vocabulary?pk_campaign=rss-feed)
 - [TildeTown on iPhone with Blink Shell](https://bilge.world/tildetown-iphone-blink-shell?pk_campaign=rss-feed)
 - [Run Siri Shortcuts with Hyperlinks](https://bilge.world/run-siri-shortcuts-with-hyperlinks?pk_campaign=rss-feed)
 - [Apple Rag Review](https://bilge.world/apple-polishing-cloth?pk_campaign=rss-feed)
 - [Windows Eternal Drafts Theme](https://bilge.world/windows-eternal?pk_campaign=rss-feed)
-- [David Blue’s RoutineHub Library](https://bilge.world/shortcuts?pk_campaign=rss-feed)
 <!-- BLOG-POST-LIST:END -->
 
 
