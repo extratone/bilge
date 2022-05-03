@@ -3,6 +3,7 @@
 - [How I Manage Drafts](drafts://open?uuid=0BF34703-065D-4A2F-9F89-381A2348405E)
 - [WTF](https://davidblue.wtf/drafts/939FF8C4-CB56-4A5F-99E9-D88E7162BE4E.html)
 - [I have too many drafts to handle! - General Discussion - Drafts Community](https://forums.getdrafts.com/t/i-have-too-many-drafts-to-handle/12428/2)
+- [How I maintain a personal vocabulary](https://bilge.world/drafts-terminology-vocabulary)
 - [I have too many drafts to handle!](drafts://open?uuid=B1E83A7F-9C31-4881-B608-FA1E12D3B17D)
 > Drafts made it too easy to dump my thoughts into text.
 
