@@ -1,4 +1,5 @@
 # How I Maintain a Vocabulary List in Drafts with Terminology
+- [**The Psalms**](https://bilge.world/drafts-terminology-vocabulary)
 - [GitHub Issue](https://github.com/extratone/bilge/issues/324)
 - [WTF](https://davidblue.wtf/drafts/F20BB579-E235-4F04-8BCE-22AAF15A97C2.html)
 - [Vocabulary Index shortcut](https://www.icloud.com/shortcuts/113f8e45729c4466860c3c7c668e939d)
@@ -36,5 +37,10 @@ For the past few weeks, I’ve been wreaking havoc on NeoCities’ global activi
 
 ![Vocabulary Index Shortcut](https://i.snap.as/2npm338t.png)
 
-In order to maintain [an updated index](https://davidblue.wtf/vocabulary) of the whole list, I’ve created [a Siri Shortcut](https://www.icloud.com/shortcuts/113f8e45729c4466860c3c7c668e939d) which transforms the UUIDs of the drafts in the vocabulary workspace into markdown-formatted hyperlinks of their web-dwelling counterparts. 
-- [How I Maintain a Vocabulary List in Drafts with Terminology](https://chaff.writeas.com/how-i-maintain-a-vocabulary-list-in-drafts-with-terminology-mp6z)
+In order to maintain [an updated index](https://davidblue.wtf/vocabulary) of the whole list, I’ve created [a Siri Shortcut](https://www.icloud.com/shortcuts/113f8e45729c4466860c3c7c668e939d) which transforms the UUIDs of the drafts in the vocabulary workspace into markdown-formatted hyperlinks of their web-dwelling counterparts.
+
+![Terminology Favorites List](https://i.snap.as/D8GtXEd3.png)
+
+Even if you’ve no intention of publishing your personal vocabulary - or integrating it with Drafts, even - Terminology is still the dictionary app I’d recommend over any others.
+
+#configuration #software #automation
