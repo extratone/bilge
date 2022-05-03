@@ -62,6 +62,13 @@
 - [Federico’s holiday project](https://twitter.com/viticci/status/1481687474753658890)
 - [8% battery in 90 seconds](https://twitter.com/NeoYokel/status/1513633034955857922)
 - [The grocery list](https://twitter.com/NeoYokel/status/1518839952330608641)
+- [Drafts and Obsidian - why? - General Discussion - Drafts Community](https://forums.getdrafts.com/t/drafts-and-obsidian-why/10968)
+- [Drafts and Obsidian - why - Drafts Forums](drafts://open?uuid=BA7D2761-D2F6-41F4-88A3-52F07169F880)
+> This is not a setup I use, so others may have more specific comments, but for a lot of Drafts users they prefer to keep Drafts as their temporary storage where they gather fleeting thoughts, ideas, tasks, etc., throughout the day - and have another more curated long-term storage system for notes.
+> In the paper world analogy, Drafts is the inbox on their desk - Obsidian (or other system) their filing cabinet.  Some things that hit your inbox end up going back out to someone else’s desk, some to the shredder - and only some to the permanent, organized reference source of the filing cabinet.
+> People have used Drafts like this for years with different back end storage systems - from Evernote, to files in Dropbox. Obsidian seems to be a new popular choice for this type of reference because of it’s enhanced abilities to cross-reference documents.
+> (Obsidian people feel free to expand on that or clarify if I am wrong)
+
 
 ## Images
 
@@ -163,6 +170,7 @@
 - [Obsidian Roadmap | Trello](https://trello.com/b/Psqfqp7I/obsidian-roadmap)
 - [My Obsidian Setup, Part 9-Saving Articles and Music Albums for Later with Shortcuts and Dataview](drafts://open?uuid=606E4131-B901-481C-AEDA-2EEDA1F8E1C4)
 - [My Favorite Obsidian Plugins for Automating the Management of Notes](drafts://open?uuid=047F0715-7D39-4178-AAA4-4627111888BA)
+- [HIPAA Requirements and Obsidian Primer - Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/Guides/HIPAA+Requirements+and+Obsidian+Primer)
 
 ```
 obsidian://open?vault=Testing&file=Colophon
