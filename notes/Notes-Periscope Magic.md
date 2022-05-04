@@ -1,10 +1,17 @@
 # Notes-Periscope Magic
+- [GitHub Issue](https://github.com/extratone/bilge/issues/79)
+- [A Good Place  Periscope Magic](drafts://open?uuid=4B149084-B41C-4C82-8FD2-0FB7CCF67B6B)
+- [WTF](https://davidblue.wtf/drafts/480EF899-1228-4751-BFA2-1F197BF1B71A.html)
+
+
 "[**Meet people, explore the world**](https://apps.apple.com/us/app/periscope-live-video-streaming/id972909677)"
 
 Turns out, Periscope *does* have a [data export tool](https://www.pscp.tv/account/your-data) and it's actually quite advanced.
 
 ## History
+- [Periscope: Anglesey man behind video streaming app](bear://x-callback-url/open-note?id=E3EE94BE-428F-4EBC-94BB-0A1F5C266FF2-87497-00000954DED1172F)
 - [x] "[What it's like to sell your startup for ~$120 million before it's even launched: Meet Twitter's new prized possession, Periscope](https://www.businessinsider.com/what-is-periscope-and-why-twitter-bought-it-2015-3)" | *Business Insider*
+- [What it's like to sell your startup for ~$120 million before it's even launched: Meet Twitter's new prized possession, Periscope](bear://x-callback-url/open-note?id=654E2347-8B75-4587-BF71-7E4F591D06C1-87497-000009555D8DB487)
 - [ ] "[Twitter Buys Live Streaming App Periscope](https://techcrunch.com/2015/03/04/twitter-in-talks-with-live-streaming-app-periscope/)" | *TechCrunch*
 - [ ] "[Twitter Confirms Periscope Acquisition, And Here's How The Livestreaming App Works](https://techcrunch.com/2015/03/13/how-periscope-works/)" | *TechCrunch*
 - [ ] "[The Race To Make Everyone A Livestreamer](https://techcrunch.com/2015/03/08/the-inevitable-democratization/)" | *TechCrunch*
@@ -43,13 +50,17 @@ Turns out, Periscope *does* have a [data export tool](https://www.pscp.tv/accoun
   > What excites us most about Periscope is the power of seeing something for yourself. We watched someone rise above the Sonoma valley in a hot air balloon; we witnessed “Hands Up Don’t Shoot” directly from Ferguson, Missouri, a terrifying fire that erupted in San Francisco’s Mission district and a live performance from a pianist who played any song requested from the audience.
 - [ ] "[Periscope, by the Numbers](https://medium.com/periscope/periscope-by-the-numbers-6b23dc6a1704)" | *Periscope* on *Medium*
 <blockquote  class="twitter-tweet tw-align-center"><p lang="en" dir="ltr">You may have  heard some news: It involves a blue bird. <a  href="https://twitter.com/hashtag/YouCanGuessTheRest?src=hash&amp;ref_src=twsrc%5Etfw">#YouCanGuessTheRest</a>  <a  href="https://twitter.com/hashtag/WeJoinedTheFlockInJanuary?src=hash&amp;ref_src=twsrc%5Etfw">#WeJoinedTheFlockInJanuary</a>  <a  href="https://twitter.com/hashtag/AreWeUsingThisRight?src=hash&amp;ref_src=twsrc%5Etfw">#AreWeUsingThisRight</a>  <a  href="https://twitter.com/hashtag/IsThisThingOn?src=hash&amp;ref_src=twsrc%5Etfw">#IsThisThingOn</a></p>&mdash;  Periscope (@PeriscopeCo) <a  href="https://twitter.com/PeriscopeCo/status/576429747057504257?ref_src=twsrc%5Etfw">March  13, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js"  charset="utf-8"></script>
+
 ## Profiles
+
 - [x] [Juanita Ureno Leblanc](https://www.pscp.tv/Jquinta)
 - [ ] [Greg](https://www.pscp.tv/highhopes)
 - [ ] [Xanath](https://www.pscp.tv/xanathsp)
 - [ ] [Ashers](https://www.pscp.tv/OMFGAshers)
 - [ ] [Nicole](https://www.pscp.tv/Nicole3)
+
 ## Current State of Periscope
+
 - [ ] "[Periscope CEO: We're Growing (And Facebook Doesn't Scare Us One Bit!)](https://www.vox.com/2016/3/28/11587300/periscope-growing-livestreaming-facebook)" | *Recode*
   > “We were thinking about this before it was super interesting to the big players so the fact that Facebook, the 800-pound gorilla, woke up one day and decided that live was interesting is very flattering for us. They couldn’t have been further from this a year ago.”
 - [ ] "[Cisco: Online video to account for 82% of all Internet traffic by 2021!](https://techblog.comsoc.org/2017/06/10/cisco-increased-use-of-web-video-to-be-82-of-all-internet-traffic-by-2021/)" | *Cisco*
@@ -57,8 +68,10 @@ Turns out, Periscope *does* have a [data export tool](https://www.pscp.tv/accoun
   > Periscope is not dead, and for a small cohort of people, it’s more than a simple platform. It’s the last campfire in the night.
 - [ ] "[The Videos That Rocked America. The Song That Knows Our Rage.](https://www.nytimes.com/2020/06/03/arts/george-floyd-video-racism.html)" | *The New York Times*
 - [ ] "[The nerve center of the American news cycle](https://www.axios.com/twitter-downloads-george-floyd-misinformation-226ea16c-84a0-4e2e-a85f-dfade902ed01.html)" | *Axios*
+
 ## Competition
 - [ ] "[Mark Zuckerberg Is 'Obsessed' With Livestreaming, Making Live a Top Priority at Facebook](https://www.vox.com/2016/2/26/11588264/mark-zuckerberg-is-obsessed-with-livestreaming-making-live-a-top)" | *Recode*
+
 ## My Scopes
 - [ ] [Jefferson City Protest and Closing Prayer](https://www.periscope.tv/AsphaltApostle/1eaJbQjdNlnGX)
   ![Closing Prayer - Jefferson City Protest](https://i.snap.as/CRfCziF.png)
