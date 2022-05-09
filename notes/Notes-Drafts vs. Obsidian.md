@@ -109,6 +109,7 @@
 - [ ] ![WinSidian](https://i.snap.as/yzszY7zL.png)
 - [ ] ![Replace Drafts with Taio](https://i.snap.as/5bMhS8l0.png)
 - [ ] ![Drafts Backup-Export Example](https://i.snap.as/NJQL39r9.png)
+- [ ] ![Resolve Conflicts in Obsidian Repo](https://i.snap.as/v3vRAbaU.png)
 
 ## Videos
 
@@ -153,6 +154,7 @@
 - [ ] [Drafts, Shortcuts, and Working Copy, The Movie](https://scottwillsey.com/blog/ios/draftsthemovie/)
 - [ ] [Choosing Obsidian over Roam????](https://youtu.be/AWUk8-6yG2g)
 - [ ] - [Referencing an image from photos app - iOS - Actions - Help & Questions - Drafts Community](https://forums.getdrafts.com/t/referencing-an-image-from-photos-app-ios/11325/5)
+- [ ] [Mac Power Users #639: Software Club: Greg Pierce and Drafts - Relay FM](https://www.relay.fm/mpu/639)
 
 > In Obsidian, the file in photos is copied into the Obsidian vault when you select it. Hence it can use a relative reference to the file at that point.
 > Drafts could easily insert the text content for the image reference, and send that over to Obsidian. The tricky bit however is referencing an image held in the photos app.
