@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `04192022-083429`
+Updated 05092022-040927
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -17,12 +17,17 @@ Updated `04192022-083429`
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
 - [**/gerogerigegege**](https://davidblue.wtf/gerogerigegege), Redirects to my main music Raindrop collection.
 - [**/github**](https://davidblue.wtf/github), Redirects to my GitHub profile.
+- [**/gt7**](https://davidblue.wtf/gt7), Redirects to a mirrored Apple Music I created of the official Gran Turismo 7 playlist on Spotify.
+- [**/gt7spotify**](https://davidblue.wtf/gt7spotify), Redirects to the official Gran Turismo 7 playlist on Spotify.
 - [**/hire**](https://davidblue.wtf/hire), Redirects to my “General Consultation” Fantastical Openings page.
 - [**/honk**](https://davidblue.wtf/honk), Redirects to the YouTube playlist for the legacy Drywall car show, *Honk*.
+- [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
+- [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
+- [**/live**](https://davidblue.wtf/live), A dynamic redirect I use whenever I go live on YouTube/Twitter/Twitch, etc.
 - [**/mastodon**](https://davidblue.wtf/mastodon), Redirects to my profile on mastodon.social.
-- [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks)
-- [**/mastodonlists**](https://davidblue.wtf/masto)
-https://davidblue.wtf/mastodonfollowing
+- [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
+- [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
+- [**/periscope**](https://davidblue.wtf/periscope). Redirects to the “Periscope” playlist on *Extratone*’s YouTube channel.
 - [**/pixelfed**](https://davidblue.wtf/pixelfed), Redirects to my profile on pixelfed.social.
 - [**/podcast**](https://davidblue.wtf/podcast), Redirects to *End Users* pods.link page.
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
@@ -30,8 +35,8 @@ https://davidblue.wtf/mastodonfollowing
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to my RoutineHub profile.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
 - [**/snapchat**](https://davidblue.wtf/snapchat), Redirects to my Snapchat profile.
-- [**/spykids3spam**](https://davidblue.wtf/spykids3spam)
-- [**/telegram**](https://davidblue.wtf/telegram), Redirects to the Extratone Telegram channel.
+- [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
+- [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/trent**](https://davidblue.wtf/trent), Redirect to the timecoded YouTube moment we discovered His Name...
 - [**/twitter**](https://davidblue.wtf/twitter), Redirects to my Twitter profile.
 - [**/vocabulary**](https://davidblue.wtf/vocabulary), Redirects internally to the WTF vocabulary index.
