@@ -1,6 +1,6 @@
 var topP = document.createElement("p");
 //topP.style.textAlign = "center";
-topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://tiny.write.as/bilge">Tiny</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
+topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://tiny.write.as/bilge">Tiny</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
 var cont = document.getElementById("wrapper");
 if (cont !== null) {
     // Add to blog index and tag pages
@@ -13,7 +13,7 @@ if (cont !== null) {
 
 // src: https://platform.twitter.com/widgets.js
 
-// src: https://hypothes.is/embed.js
+.= src: https://hypothes.is/embed.js
 
 window.hypothesisConfig = function () {
   return {
@@ -38,5 +38,5 @@ var refText = "<a name=\"fnref$1\"></a><sup><a class=\"footnote-ref\" href=\"#fn
 
 var postContent = document.getElementById("post-body").innerHTML;
 postContent = postContent.replace(notePattern, noteText);
-postContent = postContent.replace(refPattern, refText);
+postContent = postContent.replace(refPattern#, refText);
 document.getElementById("post-body").innerHTML = postContent;
