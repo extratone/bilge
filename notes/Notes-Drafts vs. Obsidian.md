@@ -1,5 +1,5 @@
 # Notes-Drafts vs. Obsidian
-- [GitHub Issue](https://github.com/extratone/bilge/issues/301)
+- [**GitHub Issue**](https://github.com/extratone/bilge/issues/301)
 - [Drafts vs. Obsidian Stuff · Issue #22 · extratone/drafts](https://github.com/extratone/drafts/issues/22)
 - [["Compiling and Exporting Tagged Notes in Drafts 5"]]
 - [Compiling and Exporting Tagged Notes in Drafts 5](https://club.macstories.net/posts/compiling-and-exporting-tagged-notes-in-drafts-5) | *MacStories*
@@ -7,6 +7,7 @@
 - [SoFar SimpleNote](http://simp.ly/publish/ffZXcw)
 - [Drafts Universal Clacker Award](https://uikeycommand.com/awards/drafts)
 - [Drafts Universal Clacker Award](drafts://open?uuid=B8C70F5B-B7BE-4F55-BB08-AD563B05C3AC)
+- [OBSIDIAN SMACKDOWN Video](drafts://open?uuid=BB1A3BC3-AD77-4AF2-8088-1818E05A63B5) 
 
 ## Obsidian Positives!
 
@@ -68,6 +69,9 @@
 > In the paper world analogy, Drafts is the inbox on their desk - Obsidian (or other system) their filing cabinet.  Some things that hit your inbox end up going back out to someone else’s desk, some to the shredder - and only some to the permanent, organized reference source of the filing cabinet.
 > People have used Drafts like this for years with different back end storage systems - from Evernote, to files in Dropbox. Obsidian seems to be a new popular choice for this type of reference because of it’s enhanced abilities to cross-reference documents.
 > (Obsidian people feel free to expand on that or clarify if I am wrong)
+
+- [*Multiple Items*!!! ](https://twitter.com/NeoYokel/status/1527983706157219851)
+![MultipleItems](https://i.snap.as/6ahpaKTA.png)
 
 
 ## Images
@@ -163,6 +167,7 @@
 
 - [How to process notes in Obsidian // Readwise Official Obsidian plugin](https://youtube.com/watch?v=Rw1L5sxlnuU&feature=share)
 - [My Obsidian Setup, Part 8: Simplifying Thought Capture with 'On My Mind'](https://club.macstories.net/posts/my-obsidian-setup-part-8-simplifying-thought-capture-with-on-my-mind)
+- [Why Remotion is a native macOS app (not Electron)](https://www.remotion.com/blog/why-remotion-is-a-native-macos-app-not-electron) - [Bear](bear://x-callback-url/open-note?id=AC563E25-58AD-4FD6-B617-73738F81C9BA-533-000000A11B965056)
 
 ## Obsidian Documentation
 
