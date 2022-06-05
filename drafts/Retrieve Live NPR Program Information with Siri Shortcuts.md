@@ -1,6 +1,7 @@
 # Retrieve Live NPR Program Information with Siri Shortcuts
 - [GitHub Issue](https://github.com/extratone/bilge/issues/331)
 - [Notes - Retrieve Live NPR Program Information with Siri Shortcuts](drafts://open?uuid=32965B91-A784-4651-9F9E-EE02C9548DE2)
+- [WTF](https://davidblue.wtf/drafts/FC5D51EA-5AF1-45E2-8E4B-2313AF84C31D.html)
 
 ![Finding UCSID](https://i.snap.as/F6m7OrxL.png)
 

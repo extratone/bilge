@@ -1,4 +1,4 @@
-# Notes - Retrieve Live NPR Program Information with Siri Shortcuts
+# Notes-Retrieve Live NPR Program Information with Siri Shortcuts
 - [GitHub Issue](https://github.com/extratone/bilge/issues/331)
 - [Retrieve Live NPR Program Information with Siri Shortcuts](drafts://open?uuid=FC5D51EA-5AF1-45E2-8E4B-2313AF84C31D)
 - [WTF](https://davidblue.wtf/drafts/32965B91-A784-4651-9F9E-EE02C9548DE2.html)
@@ -10,6 +10,10 @@
 - [Broadcasts App](https://apps.apple.com/us/app/broadcasts/id1469995354)
 - [What's on KBIA?](https://www.icloud.com/shortcuts/04ec61d2f057497bba899eb434b3da07)
 - [What's on KBIA? Shortcut](drafts://open?uuid=8BCB0692-9274-4E1F-AFE1-1AFC17BB2877)
+
+## General
+
+- [API Nuts Twitter Search](https://twitter.com/search?q=%22api%22%20%40neoyokel&src=typed_query&f=live)
 
 ## Images
 
