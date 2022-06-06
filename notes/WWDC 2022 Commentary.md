@@ -2,6 +2,7 @@
 - [GitHub Issue](https://github.com/extratone/bilge/issues/332)
 - [WTF](https://davidblue.wtf/drafts/57D5E99D-EF49-4085-8BB5-FAE3275BCB30.html)
 - [Apple’s Worldwide Developers Conference kicks off June 6 with keynote address - Apple](https://www.apple.com/newsroom/2022/05/apples-worldwide-developers-conference-kicks-off-june-6-with-keynote-address/)
+- [Safari 16 Beta Release Notes | Apple Developer Documentation](https://developer.apple.com/documentation/safari-release-notes/safari-16-release-notes)
 
 
 
