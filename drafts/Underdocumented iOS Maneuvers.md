@@ -4,6 +4,10 @@
 
 ## Peep this dope listicle of iPhone Pro Tips
 
+If you hadn't noticed, I've somehow managed to be truly capital-R Radicalized in the past year or two by something I never would have expected: external keyboard support on iPhone. In that time, I've started and discarded many drafts for this Post, about the "hidden" "hacks" that make iOS - an operating system I definitely *do not* "love" - actually *usable*.
+
+===
+
 It became most apparent during my research for [my iPhone 12 Pro Max Review](https://github.com/extratone/bilge/issues/45) that Apple’s mobile operating system and all that it entails has changed profoundly over the course of its history even moreso than is immediately obvious. The operating system that thwarted the very idea of the Power User currently has numerous features that were added explicitly for them. (One might suggest this really began in iOS 12, with [Siri Shortcuts](http://bilge.world/siri-shortcuts-ios12-review).) The trouble is that many of these features overlap into what the most average user might use in their day-to-day operation of their handsets and tablets. **Showing timestamps in iMessage**, for instance, is a function which one should not have to stumble upon or take to an internet search to find. (<u>Swipe from right to left in a conversation</u>.) Little functions like this are incredibly poorly documented, considering iOS is maintained by the most valuable company in the history of the world.
 
 Apple does make an effort to educate new users, mainly through the [Tips app](https://apps.apple.com/us/app/tips/id1069509450), which has indeed become more useful and insightful over time, but still leaves a whole lot to be desired. They also publish an owner’s manual-esque *[iPhone Users Guide](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewBook?id=1515995528)*, which is unfortunately completely inaccessible in any format outside of the native Books app. (I made a not-insignificant effort to convert the volume to a PDF for your sake, but found myself completely defeated by DRM, hilariously.) Some of the functions listed in this post are accompanied by links to Apple Support web pages, but far too many have no such entries, which - from my perspective - is absolutely inexcusable on Apple’s part. Inexcusable, but perhaps not inexplicable. 
@@ -29,12 +33,7 @@ My suspicion regarding the general sentiment among iOS users was largely validat
 8. <u>Tap and hold on a contact within Share Sheet</u> to **prompt "Suggest Less" option**.
 9. [Adding captions to photos and videos](https://www.macrumors.com/how-to/add-captions-photos-iphone-ipad/)
 
-
-
 <blockquote class="twitter-tweet tw-align-center" data-partner="tweetdeck"><p lang="en" dir="ltr">while I’m thinking about it...<br>here’s how to clear your iPhone’s RAM.<br><br>You need to get to the Settings➯General➯Shut Down screen and the hold down the home button. (Pre-iPhone X just use the physical button instead of AssistiveTouch.) <a href="https://t.co/DUgnoOwtEr">pic.twitter.com/DUgnoOwtEr</a></p>&mdash; ※ David Blue ※ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1344866358333472772">January 1, 2021</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 `https://twitter.com/NeoYokel/status/1344866358333472772`
-
-[Underdocumented Maneuvers in iOS](https://chaff.writeas.com/underdocumented-maneuvers-in-ios)
-
