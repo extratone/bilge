@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated 05092022-040927
+Updated `06052022-220756`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -9,10 +9,15 @@ Updated 05092022-040927
 ---
 
 - [**/auto**](https://davidblue.wtf/auto), Redirects to the “auto” tag on The Psalms.
+- [**/baseball**](https://davidblue.wtf/baseball), Redirects to MySpace Tom’s baseball Twitter List.
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
+- [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
+- [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
 - [**/drafts/keys**](https://davidblue.wtf/drafts/keys), Redirects to a list of my Drafts keyboard shortcuts on WTF.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
+- [**/distributed**](https://davidblue.wtf/distributed), Redirects to my shared iCloud Drive folder.
 - [**/eat**](https://davidblue.wtf/eat), Redirects to the Studio Eat Raindrop Collection.
+- [**/editorial**](https://davidblue.wtf/editorial), Redirects to my main page for Editorial for iOS.
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
 - [**/gerogerigegege**](https://davidblue.wtf/gerogerigegege), Redirects to my main music Raindrop collection.
@@ -32,6 +37,7 @@ Updated 05092022-040927
 - [**/podcast**](https://davidblue.wtf/podcast), Redirects to *End Users* pods.link page.
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/redirection**](https://davidblue.wtf/redirection), Redirects to this document!
+- [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to my RoutineHub profile.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
 - [**/snapchat**](https://davidblue.wtf/snapchat), Redirects to my Snapchat profile.
