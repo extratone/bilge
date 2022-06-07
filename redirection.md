@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `06052022-220756`
+Updated `06072022-042450`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -8,6 +8,7 @@ Updated `06052022-220756`
 
 ---
 
+- [**/astrology**](https://davidblue.wtf/astrology), Redirects to "The Day of Reformed Precocity."
 - [**/auto**](https://davidblue.wtf/auto), Redirects to the “auto” tag on The Psalms.
 - [**/baseball**](https://davidblue.wtf/baseball), Redirects to MySpace Tom’s baseball Twitter List.
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
