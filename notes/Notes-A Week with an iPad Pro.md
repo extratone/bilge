@@ -1,15 +1,22 @@
 # Notes-A Week with an iPad Pro
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
-- [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html)
+- [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
 
 ## General
 
 - Class Traitor
 
+## Social
+
+this the closest I've ever come to a homescreen in this device's layout which I'm at least *comfortable seeing every now and then*. idk why I"m so bad or why I even waste my time - the rational thing would be to just duplicate whatever homescreens I can find of Federico Viticci's lol.
+
+---
+
 ## Reading
 
 - [iOS and iPadOS 16: The MacStories Overview](https://www.macstories.net/stories/ios-and-ipados-16-the-macstories-overview/)
+- [11 Tips for Working on the iPad](https://www.macstories.net/ios/11-tips-for-working-on-the-ipad/)
 ---
 
 ![Where I Started](https://i.snap.as/udlv0Ln9.png)
@@ -74,8 +81,56 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 
 - The background persistence really is uncanny... like stumbling upon the fact that I was still logged in to TildeTown IRC in Blink (mosh tho) after like TWO DAYS without opening  Blink even though I had *not* enabled `geo track`.
 
+## General Keyboarding Notes
+
+- I must confesss, I was *completely unaware* of the existence of iPadOS' "Floating Keyboard" view and when I inexplicably managed to trigger it for the fist time, I was treated to a pretty severe laughing fit because... well.
+
 ---
 
 ## Questions Answered
 
 - [ ] *Does iPad/iPadOS respond to multiple connected keyboards at once?* - Yes! Thank God.
+
+---
+
+## Videos
+
+- [Big Boy; Infinitely Bigger Phone](https://youtu.be/ZEWZ34eeboM)
+- "[What iPadOS 16 means for iPad Users](https://youtu.be/W3iEQoNMftk)" - Christopher Lawly
+- [Brandon Butch's First Things](https://youtu.be/uLFvvP3LNuw)
+
+## Audio
+
+- [Federico's 2021 iPad Pro Review: Step into the Capture Zone](https://appstories.net/episodes/219)
+
+
+---
+
+## WWDC 2022
+
+[What's new in UIKit - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10059/)
+
+
+- [Introducing Private Click Measurement, PCM | WebKit](https://webkit.org/blog/11529/introducing-private-click-measurement-pcm/)
+- [wwdc21-10059 | Apple Developer Forums](https://developer.apple.com/forums/tags/wwdc21-10059)
+- [Apple Developer Documentation](https://developer.apple.com/documentation/uikit)
+- [https://devstreaming-cdn.apple.com/videos/wwdc/2021/10059/5/A2B84844-AAFE-437F-B1A2-7D4CC79957E2/downloads/wwdc2021-10059_hd.mp4?dl=1](https://devstreaming-cdn.apple.com/videos/wwdc/2021/10059/5/A2B84844-AAFE-437F-B1A2-7D4CC79957E2/downloads/wwdc2021-10059_hd.mp4?dl=1)
+- [https://devstreaming-cdn.apple.com/videos/wwdc/2021/10059/5/A2B84844-AAFE-437F-B1A2-7D4CC79957E2/downloads/wwdc2021-10059_sd.mp4?dl=1](https://devstreaming-cdn.apple.com/videos/wwdc/2021/10059/5/A2B84844-AAFE-437F-B1A2-7D4CC79957E2/downloads/wwdc2021-10059_sd.mp4?dl=1)
+- [Apple’s privacy pillars in focus - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10085)
+- [Design great actions for Shortcuts, Siri, and Suggestions - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10283)
+- [Focus on iPad keyboard navigation - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10260)
+- [Make blazing fast lists and collection views - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10252)
+- [Meet privacy-preserving ad attribution - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10033)
+- [Meet TextKit 2 - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10061)
+- [Meet the Location Button - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10102)
+- [Meet the UIKit button system - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10064)
+- [Qualities of a great Mac Catalyst app - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10053)
+- [SF Symbols in UIKit and AppKit - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10251)
+- [Take your iPad apps to the next level - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10057)
+- [What's new in Mac Catalyst - WWDC21 - Videos - Apple Developer](https://developer.apple.com/videos/play/wwdc2021/10052)
+
+---
+
+## Screens
+
+- ![Distinctly, this is the first moment 06102022-190201 I've looked at the homescreen and not gagged.](https://i.snap.as/AbOIIQHr.png)
