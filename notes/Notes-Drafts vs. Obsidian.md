@@ -73,6 +73,8 @@
 - [*Multiple Items*!!! ](https://twitter.com/NeoYokel/status/1527983706157219851)
 ![MultipleItems](https://i.snap.as/6ahpaKTA.png)
 
+- [Greg Pierce on Kids and the Current World](drafts://open?uuid=26EEBBC6-1730-4C22-A3C4-99952335E1AA)
+
 
 ## Images
 
@@ -168,6 +170,7 @@
 - [How to process notes in Obsidian // Readwise Official Obsidian plugin](https://youtube.com/watch?v=Rw1L5sxlnuU&feature=share)
 - [My Obsidian Setup, Part 8: Simplifying Thought Capture with 'On My Mind'](https://club.macstories.net/posts/my-obsidian-setup-part-8-simplifying-thought-capture-with-on-my-mind)
 - [Why Remotion is a native macOS app (not Electron)](https://www.remotion.com/blog/why-remotion-is-a-native-macos-app-not-electron) - [Bear](bear://x-callback-url/open-note?id=AC563E25-58AD-4FD6-B617-73738F81C9BA-533-000000A11B965056)
+- [New draft from browser using hot key? - Drafts Forums](https://forums.getdrafts.com/t/new-draft-from-browser-using-hot-key/12715)
 
 ## Obsidian Documentation
 
