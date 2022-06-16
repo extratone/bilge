@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `06072022-042450`
+Updated `06162022-142446`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -33,6 +33,7 @@ Updated `06072022-042450`
 - [**/mastodon**](https://davidblue.wtf/mastodon), Redirects to my profile on mastodon.social.
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
+- [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
 - [**/periscope**](https://davidblue.wtf/periscope). Redirects to the “Periscope” playlist on *Extratone*’s YouTube channel.
 - [**/pixelfed**](https://davidblue.wtf/pixelfed), Redirects to my profile on pixelfed.social.
 - [**/podcast**](https://davidblue.wtf/podcast), Redirects to *End Users* pods.link page.
@@ -45,6 +46,7 @@ Updated `06072022-042450`
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/trent**](https://davidblue.wtf/trent), Redirect to the timecoded YouTube moment we discovered His Name...
+- [**/tripod**](https://davidblue.wtf/tripod), Redirects to some brief documentation I attempted to explain the hellish contraption I use to suspend my phone in front of my face when keyboarding.
 - [**/twitter**](https://davidblue.wtf/twitter), Redirects to my Twitter profile.
 - [**/vocabulary**](https://davidblue.wtf/vocabulary), Redirects internally to the WTF vocabulary index.
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
