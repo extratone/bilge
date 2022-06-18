@@ -3,6 +3,7 @@
 - [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 - [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
 - [Amanda Shared Apple Notes folder](https://www.icloud.com/notes/02b_42E6OkqYpzcVn2fV_gX_A#Amanda) (which doesn't really mean much, no.)
+- [Notes-A Week with an iPad Pro](https://chaff.writeas.com/notes-a-week-with-an-ipad-pro)
 
 ## General
 
@@ -73,7 +74,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 
 - [ ] Update Hell
 - [ ] Authentication Hell
-- [ ] Is Tot gonna work? If not, replace with widgets?
+- [x] Is Tot gonna work? If not, replace with widgets? ANSWER: TOT WORKS - See [Twitter Video](https://twitter.com/NeoYokel/status/1538105518882963459)
 - [ ] Swift Playgrounds
 
 ### Bad Ideas List
@@ -86,11 +87,14 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - Turns out, the Magic Keyboard Fucker Stand does not seem to mean I would no longer need my iPhone Suspension Hell Tripod Contraption, but rather that I need a MUCH more stout one.
 - Inevitably, one of the biggest components of the iPad Pro's overwhelming power in *my* life (probably *the* biggest, realistically,) is what it reveals of the operating system that is truly broken and what obstacles are literally just a resource issue that need only require brute Booty.
 - THE BLACKS. (In the display.) You know me to be a superficial user but my god!
+- I can almost see how one needn't miss the function keys, but *I* continuously encountered situations (which I'd before configured myself into with set keyboard shortcuts on iPhone) where I did not know how to proceed without keys missing from my Full Beauty Board. I love page up and down! Home and end! I don't want to fucking *read* a webpage, I just want to see the top or the bottom!
 
 ## General Software Notes
 
 - The background persistence really is uncanny... like stumbling upon the fact that I was still logged in to TildeTown IRC in Blink (mosh tho) after like TWO DAYS without opening  Blink even though I had *not* enabled `geo track`.
 - Put simply, this device (versus any iPhone) makes Safari's native Reading List/Bookmarks functionalities *actually worthwile to use*.
+- There are glimpses of desktop-like window management throughout iPadOS (yet another one is coming with Stage Manager in iPadOS 16,) but frankly - as someone who has used this operating system very extensively under the assumption I would never have to deal with windowing - they have all come across as awkward and problematic. The funniest one - I was wondering why multiple windows kept showing up for Mail - just like its macOS counterpart, Mail's behavior when it comes to open new drafts is baffling and problematic.
+- On that windowing note, I frankly like Drafts' tried and true solutions addressing the single-window-only limitations of before (callable sidebars, fixed toolbars) *far* more than how it behaves in Split View. Again, I'm sure I could configure my way out of this, but fuck.
 
 ## General Keyboarding Notes
 
@@ -106,10 +110,19 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 
 ## Videos
 
+- [Tot Works!! (Twitter)](https://twitter.com/NeoYokel/status/1538105518882963459)
 - [Video-A Magic Pain in My Ass](drafts://open?uuid=DAA80BF3-BB3F-4E89-976D-94E9D85C7B5A)
 - [Big Boy; Infinitely Bigger Phone](https://youtu.be/ZEWZ34eeboM)
 - "[What iPadOS 16 means for iPad Users](https://youtu.be/W3iEQoNMftk)" - Christopher Lawly
 - [Brandon Butch's First Things](https://youtu.be/uLFvvP3LNuw)
+
+### Keyboard Access on the Homescreen
+
+- [GitHub Issue raw file](https://user-images.githubusercontent.com/43663476/174433233-bcf5ec8d-a56b-4b59-bdd2-a31d7e4903b8.MOV) - `https://user-images.githubusercontent.com/43663476/174433233-bcf5ec8d-a56b-4b59-bdd2-a31d7e4903b8.MOV`
+
+<video controls>
+  <source src="https://user-images.githubusercontent.com/43663476/174433233-bcf5ec8d-a56b-4b59-bdd2-a31d7e4903b8.MOV">
+</video>
 
 ## Audio
 
@@ -146,6 +159,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 ## Images (External)
 
 - ![Blink Glow](https://i.snap.as/ghjnlzTJ.png)
+- iPad Pro Portrait with Desktop Keyboard 1
 
 ## Screens
 
@@ -159,6 +173,20 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Data Jar Unsynced](https://i.snap.as/rVNr0oqw.png)
 - ![Big Widgets](https://i.snap.as/UcoxUQ0C.png)
 - ![Peak Games](https://i.snap.as/NLFWOziH.png)
+- ![Snapchat](https://i.snap.as/B91t0avN.png)
+- ![Share to Telegram from Files](https://i.snap.as/HI3aAKED.png)
+- ![Todoist](https://i.snap.as/6wAvH6zw.png)
+- ![LookUp](https://i.snap.as/W7HspuZ4.png)
+- ![Mastodon Grid](https://davidblue.wtf/frames/mastodonipadpro.png) 
+- ![FE File Explorer Split View](https://i.snap.as/g5DMIoz0.png)
+- ![Refined GitHub in Safari](https://i.snap.as/urZ32DCF.png)
+- ![Nano](https://i.snap.as/BMpxOfGY.png)
+- ![Telegraph](https://i.snap.as/J0ZBfeys.png)
+- ![Twitch PIP](https://i.snap.as/vxyVylSy.png)
+- ![Cheatsheet](https://i.snap.as/C7ZrEyZE.png)
+- ![Microsoft Teams 1](https://i.snap.as/KnlUfUkk.png)
+- ![Microsoft Teams 2](https://i.snap.as/wqRGMgqh.png)
+- ![Microsoft Teams 3](https://i.snap.as/Htw91jfn.png)
 
 ## App-Specific Notes
 
