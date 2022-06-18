@@ -2,14 +2,22 @@
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 - [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
+- [Amanda Shared Apple Notes folder](https://www.icloud.com/notes/02b_42E6OkqYpzcVn2fV_gX_A#Amanda) (which doesn't really mean much, no.)
 
 ## General
 
 - Class Traitor
+- Toilet Computer??
+- I could have sworn the duration of holding `⌘` to prompt the keyboard shortcuts guide used to be configurable on iPadOS... perhaps it was just a dream...
+- some handy BS I inevitably noodled into being: you could argue that this is as close as computers will ever get to Divine Form, given that the only physical media God ever delivered to man was in tablet format. - [Tweet](https://twitter.com/NeoYokel/status/1538013665806340096)
 
 ## Social
 
+- [r/iPadPro - How can I be so good at iPhone home screens and yet *this* useless on the iPad?](https://reddit.com/r/iPadPro/comments/vbo0za/how_can_i_be_so_good_at_iphone_home_screens_and/)
+
 this the closest I've ever come to a homescreen in this device's layout which I'm at least *comfortable seeing every now and then*. idk why I"m so bad or why I even waste my time - the rational thing would be to just duplicate whatever homescreens I can find of Federico Viticci's lol.
+
+- [Files in Split View Revelations Tweet](https://twitter.com/NeoYokel/status/1536883851083104258)
 
 ---
 
@@ -25,8 +33,10 @@ this the closest I've ever come to a homescreen in this device's layout which I'
 
 [Jorts](https://github.com/extratone/jorts), iPhone 12 Pro Max, iOS 16 Developer Beta 1, 06062022-220822.
 
-## System Info - Amanda
+## Reference
+
 - [iPad Pro Full Technical Specifications](https://www.apple.com/ipad-pro/specs/)
+- [Apple iPad Pro 12.9 (2021) - Full tablet specifications](https://www.gsmarena.com/apple_ipad_pro_12_9_(2021)-10864.php)
 
 
 OVERVIEW
@@ -80,6 +90,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 ## General Software Notes
 
 - The background persistence really is uncanny... like stumbling upon the fact that I was still logged in to TildeTown IRC in Blink (mosh tho) after like TWO DAYS without opening  Blink even though I had *not* enabled `geo track`.
+- Put simply, this device (versus any iPhone) makes Safari's native Reading List/Bookmarks functionalities *actually worthwile to use*.
 
 ## General Keyboarding Notes
 
@@ -95,6 +106,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 
 ## Videos
 
+- [Video-A Magic Pain in My Ass](drafts://open?uuid=DAA80BF3-BB3F-4E89-976D-94E9D85C7B5A)
 - [Big Boy; Infinitely Bigger Phone](https://youtu.be/ZEWZ34eeboM)
 - "[What iPadOS 16 means for iPad Users](https://youtu.be/W3iEQoNMftk)" - Christopher Lawly
 - [Brandon Butch's First Things](https://youtu.be/uLFvvP3LNuw)
@@ -131,6 +143,23 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 
 ---
 
+## Images (External)
+
+- ![Blink Glow](https://i.snap.as/ghjnlzTJ.png)
+
 ## Screens
 
 - ![Distinctly, this is the first moment 06102022-190201 I've looked at the homescreen and not gagged.](https://i.snap.as/AbOIIQHr.png)
+- ![Raindrop on iPad Pro](https://i.snap.as/5c7dKuMe.png)
+- ![TildeTown Login in Blink](https://i.snap.as/wB5N2QWr.png)
+- ![Last Reported Homepage-06182022-041206](https://i.snap.as/wLVOsO1z.png)
+- ![Lightroom for iPad Keyboard Shortcuts Preview](https://i.snap.as/.png)
+- ![Telegram Saved Messages](https://i.snap.as/irkboLz4.png)
+- ![Telegram Channel Details](https://i.snap.as/JcHw1IZY.png)
+- ![Data Jar Unsynced](https://i.snap.as/rVNr0oqw.png)
+- ![Big Widgets](https://i.snap.as/UcoxUQ0C.png)
+- ![Peak Games](https://i.snap.as/NLFWOziH.png)
+
+## App-Specific Notes
+
+- Raindrop works *so* much better on iPad than on iPhone. ![Raindrop on iPad Pro](https://i.snap.as/5c7dKuMe.png)
