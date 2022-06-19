@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `06162022-142446`
+Updated `06192022-135002`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -14,6 +14,7 @@ Updated `06162022-142446`
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
 - [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
+- [**/doubletap**](https://davidblue.wtf/doubletap), Redirects to the Pod.Link page for Accessible Media's *DoubleTap Canada*, which has very quickly become my favorite tech podcast by a long way, if you were wondering.
 - [**/drafts/keys**](https://davidblue.wtf/drafts/keys), Redirects to a list of my Drafts keyboard shortcuts on WTF.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to my shared iCloud Drive folder.
@@ -29,25 +30,30 @@ Updated `06162022-142446`
 - [**/honk**](https://davidblue.wtf/honk), Redirects to the YouTube playlist for the legacy Drywall car show, *Honk*.
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
+- [**/leverage**](https://davidblue.wtf/leverage), Redirects to a very funny internet video I posted on the Twitter website.
 - [**/live**](https://davidblue.wtf/live), A dynamic redirect I use whenever I go live on YouTube/Twitter/Twitch, etc.
+- [**/lund**](https://davidblue.wtf/lund), Redirects to my page documenting a student pilot's (well-handled) emergency landing that resulted in a very hilarious photograph.
 - [**/mastodon**](https://davidblue.wtf/mastodon), Redirects to my profile on mastodon.social.
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
 - [**/periscope**](https://davidblue.wtf/periscope). Redirects to the “Periscope” playlist on *Extratone*’s YouTube channel.
 - [**/pixelfed**](https://davidblue.wtf/pixelfed), Redirects to my profile on pixelfed.social.
+- [**/pocketcasts**](https://davidblue.wtf/pocketcasts), Redirects to my most current Pocket Casts lists export.
 - [**/podcast**](https://davidblue.wtf/podcast), Redirects to *End Users* pods.link page.
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/redirection**](https://davidblue.wtf/redirection), Redirects to this document!
 - [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to my RoutineHub profile.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
+- [**/skype**](https://davidblue.wtf/skype), Redirects to David Blue's personal *Skype* invite link. Yes, Skype, in 2022.
 - [**/snapchat**](https://davidblue.wtf/snapchat), Redirects to my Snapchat profile.
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/trent**](https://davidblue.wtf/trent), Redirect to the timecoded YouTube moment we discovered His Name...
 - [**/tripod**](https://davidblue.wtf/tripod), Redirects to some brief documentation I attempted to explain the hellish contraption I use to suspend my phone in front of my face when keyboarding.
 - [**/twitter**](https://davidblue.wtf/twitter), Redirects to my Twitter profile.
+- [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
 - [**/vocabulary**](https://davidblue.wtf/vocabulary), Redirects internally to the WTF vocabulary index.
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
 
