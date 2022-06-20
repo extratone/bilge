@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `06192022-135002`
+Updated `06192022-215904`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -14,10 +14,11 @@ Updated `06192022-135002`
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
 - [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
-- [**/doubletap**](https://davidblue.wtf/doubletap), Redirects to the Pod.Link page for Accessible Media's *DoubleTap Canada*, which has very quickly become my favorite tech podcast by a long way, if you were wondering.
 - [**/drafts/keys**](https://davidblue.wtf/drafts/keys), Redirects to a list of my Drafts keyboard shortcuts on WTF.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to my shared iCloud Drive folder.
+- [**/dosspride**](https://davidblue.wtf/dosspride), Redirects to the Apple Music page for Doss' Pride 2022 mix.
+- [**/doubletap**](https://davidblue.wtf/doubletap), Redirects to the pod.links page for Accessible Media's *DoubleTap Canada*, which has quickly become my favorite technology podcast currently running.
 - [**/eat**](https://davidblue.wtf/eat), Redirects to the Studio Eat Raindrop Collection.
 - [**/editorial**](https://davidblue.wtf/editorial), Redirects to my main page for Editorial for iOS.
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
@@ -49,10 +50,13 @@ Updated `06192022-135002`
 - [**/skype**](https://davidblue.wtf/skype), Redirects to David Blue's personal *Skype* invite link. Yes, Skype, in 2022.
 - [**/snapchat**](https://davidblue.wtf/snapchat), Redirects to my Snapchat profile.
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
+- [**/swang**](https://davidblue.wtf/swang), Redirects to the WTF vocabulary entry I authored for "swang." 
+- [**/taiokeys**](https://davidblue.wtf/taiokeys), Redirects to a shared Numbers spreadsheet on iCloud documenting keyboard shortcuts within the iOS/iPadOS/macOS, Markdown-based writing application, Taio.
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/trent**](https://davidblue.wtf/trent), Redirect to the timecoded YouTube moment we discovered His Name...
 - [**/tripod**](https://davidblue.wtf/tripod), Redirects to some brief documentation I attempted to explain the hellish contraption I use to suspend my phone in front of my face when keyboarding.
 - [**/twitter**](https://davidblue.wtf/twitter), Redirects to my Twitter profile.
+- [**/userguide**](https://davidblue.wtf/userguide), Redirects to Apple's official "iPhone User Guide" in the Apple Books store.
 - [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
 - [**/vocabulary**](https://davidblue.wtf/vocabulary), Redirects internally to the WTF vocabulary index.
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
