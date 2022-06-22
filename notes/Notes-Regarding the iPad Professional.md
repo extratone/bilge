@@ -4,6 +4,7 @@
 - [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
 - [Amanda Shared Apple Notes folder](https://www.icloud.com/notes/02b_42E6OkqYpzcVn2fV_gX_A#Amanda) (which doesn't really mean much, no.)
 - [Notes-A Week with an iPad Pro](https://chaff.writeas.com/notes-a-week-with-an-ipad-pro)
+- [MacTracker Page](mactracker://F82451D8-8D83-40C4-98FE-E73FD0F1A3E0)
 
 ## General
 
@@ -15,6 +16,7 @@
 - The globe key.
 - How I changed the cursor color/size?
 - [The iPhone x Bluetooth Keyboard Issue is a Class Issue](https://whyp.it/t/the-iphone-x-bluetooth-keyboard-issue-is-a-class-issue-45467¸) - Whyp
+- [Odette MacTracker Page](mactracker://FD04AF70-0032-4062-8694-970EB9FF7634)
 
 ## Social
 
@@ -30,6 +32,7 @@ this the closest I've ever come to a homescreen in this device's layout which I'
 
 - [iOS and iPadOS 16: The MacStories Overview](https://www.macstories.net/stories/ios-and-ipados-16-the-macstories-overview/)
 - [11 Tips for Working on the iPad](https://www.macstories.net/ios/11-tips-for-working-on-the-ipad/)
+- [iPad Pro 2021 Review](https://www.macstories.net/stories/ipad-pro-2021-review/) | *MacStories* [Bear](bear://x-callback-url/open-note?id=ACA9A2BB-7866-46C2-B22D-566015E9F476-4467-000003D32DF54119)
 
 ---
 
@@ -120,6 +123,8 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - [Big Boy; Infinitely Bigger Phone](https://youtu.be/ZEWZ34eeboM)
 - "[What iPadOS 16 means for iPad Users](https://youtu.be/W3iEQoNMftk)" - Christopher Lawly
 - [Brandon Butch's First Things](https://youtu.be/uLFvvP3LNuw)
+- [Shirtless Application Closing - TikTok](https://www.tiktok.com/t/ZTdE3wUPn)
+- [Mission Impossible Application Closing - TikTok](https://www.tiktok.com/t/ZTdETLtea)
 
 ### Keyboard Access on the Homescreen
 
@@ -203,7 +208,19 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Apple Music](https://i.snap.as/7qu1T3ya.png)
 - ![Apple Mail](https://i.snap.as/C3Wt0AWt.png)
 - ![Apple Notes](https://i.snap.as/RilraxJp.png)
+- ![Apple News](https://i.snap.as/HHWpbquR.png)
+- ![Apple Reminders](https://i.snap.as/h7y08A43.png)
+- ![Shortcuts](https://i.snap.as/VOnSoo8F.png)
 - ![Discord](https://i.snap.as/InBxDGjF.png)
+- ![Evernote](https://i.snap.as/p0VlTSSs.png)
+- ![Apollo](https://i.snap.as/w0S4U6Lo.png)
+- ![MusicHarbor](https://i.snap.as/zKMr6iRC.png)
+- ![MusicHarbor Artists List](https://i.snap.as/Xy844LVc.png)
+- ![Cardhop](https://i.snap.as/quTDXE5t.png)
+- ![Fantastical](https://i.snap.as/LMqGPtIJ.png)
+- ![Bear](https://i.snap.as/IFEse7r4.png)
+- ![TextExpander](https://i.snap.as/pRuXQEsG.png)
+- ![Working Copy](https://i.snap.as/2mXt0Q4g.png)
 
 ## App-Specific Notes
 
