@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `06192022-215904`
+Updated `06222022-052149`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -8,6 +8,7 @@ Updated `06192022-215904`
 
 ---
 
+- [**/artists**](https://davidblue.wtf/artists), Redirects to my MusicHarbor artists list.
 - [**/astrology**](https://davidblue.wtf/astrology), Redirects to "The Day of Reformed Precocity."
 - [**/auto**](https://davidblue.wtf/auto), Redirects to the “auto” tag on The Psalms.
 - [**/baseball**](https://davidblue.wtf/baseball), Redirects to MySpace Tom’s baseball Twitter List.
@@ -17,6 +18,7 @@ Updated `06192022-215904`
 - [**/drafts/keys**](https://davidblue.wtf/drafts/keys), Redirects to a list of my Drafts keyboard shortcuts on WTF.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to my shared iCloud Drive folder.
+- [**/doof**](https://davidblue.wtf/doof), Redirects to the WTF vocabulary page for "doof."
 - [**/dosspride**](https://davidblue.wtf/dosspride), Redirects to the Apple Music page for Doss' Pride 2022 mix.
 - [**/doubletap**](https://davidblue.wtf/doubletap), Redirects to the pod.links page for Accessible Media's *DoubleTap Canada*, which has quickly become my favorite technology podcast currently running.
 - [**/eat**](https://davidblue.wtf/eat), Redirects to the Studio Eat Raindrop Collection.
@@ -38,6 +40,7 @@ Updated `06192022-215904`
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
+- [**/pain**](https://davidblue.wtf/pain), Redirects to Frankie Muniz's iconic Tweet.
 - [**/periscope**](https://davidblue.wtf/periscope). Redirects to the “Periscope” playlist on *Extratone*’s YouTube channel.
 - [**/pixelfed**](https://davidblue.wtf/pixelfed), Redirects to my profile on pixelfed.social.
 - [**/pocketcasts**](https://davidblue.wtf/pocketcasts), Redirects to my most current Pocket Casts lists export.
