@@ -2,15 +2,25 @@
 
 > Legacy Safari Extensions (.safariextz files) built with Safari Extension Builder are not supported in Safari 13 on macOS Catalina, macOS Mojave, or macOS High Sierra. The Safari Extensions Gallery for legacy extensions will no longer be available in September, 2019. Users on macOS High Sierra or later can easily find extensions
 
+> Legacy Safari Extensions (.safariextz files) built with Safari Extension Builder are not supported in Safari 13 on macOS Catalina, macOS Mojave, or macOS High Sierra. The Safari Extensions Gallery for legacy extensions will no longer be available in September, 2019. Users on macOS High Sierra or later can easily find extensions
+
 # [iOS 15 Reviewed for My Family — The Psalms](https://bilge.world/ios-15-family-review)
 
 > when something should happen or change. A great example: using [a simple Siri Shortcut](https://www.icloud.com/shortcuts/ac6a4587d5b54abc934631c214d81c0c) to completely disable Wi-Fi and Bluetooth instead of trusting the [unnecessarily complex conditions](https://support.apple.com/en-us/HT208086) of doing so with the buttons in Control Center. I have sought out these “hacks” (as other iOS powerusers have rather absurdly called them) for very selfish reasons.
+
+> when something should happen or change. A great example: using [a simple Siri Shortcut](https://www.icloud.com/shortcuts/ac6a4587d5b54abc934631c214d81c0c) to completely disable Wi-Fi and Bluetooth instead of trusting the [unnecessarily complex conditions](https://support.apple.com/en-us/HT208086) of doing so with the buttons in Control Center. I have sought out these “hacks” (as other iOS powerusers have rather absurdly called them) for very selfish reasons.
+
+> rigging the “buttons” which are gradually being obscured or eliminated entirely in the assumption that Apple’s automation knows better than us users when something should happen or change. A great example: using [a simple Siri Shortcut](https://www.icloud.com/shortcuts/ac6a4587d5b54abc934631c214d81c0c) to completely disable Wi-Fi and Bluetooth instead of trusting the [unnecessarily complex conditions](https://support.apple.com/en-us/HT208086) of doing so with the buttons in Control Center. I have sought out these “hacks” (as other iOS powerusers have rather absurdly called them) for very selfish reasons.
 
 > rigging the “buttons” which are gradually being obscured or eliminated entirely in the assumption that Apple’s automation knows better than us users when something should happen or change. A great example: using [a simple Siri Shortcut](https://www.icloud.com/shortcuts/ac6a4587d5b54abc934631c214d81c0c) to completely disable Wi-Fi and Bluetooth instead of trusting the [unnecessarily complex conditions](https://support.apple.com/en-us/HT208086) of doing so with the buttons in Control Center. I have sought out these “hacks” (as other iOS powerusers have rather absurdly called them) for very selfish reasons.
 
 # [iOS and iPadOS 15: The MacStories Review - MacStories - Part 18](https://www.macstories.net/stories/ios-and-ipados-15-the-macstories-review/18/#weather)
 
 > when you long-press a song in your Up Next queue, you’ll now find a new ‘Move to Top’ button in the context menu that lets you quickly put a song at the top of the queue.
+
+> when you long-press a song in your Up Next queue, you’ll now find a new ‘Move to Top’ button in the context menu that lets you quickly put a song at the top of the queue.
+
+> there’s a new Shared with You section in the Listen Now tab that aggregates Apple Music links shared with you in the [Messages](https://www.macstories.net/stories/ios-and-ipados-15-the-macstories-review/19/#messages) app and lets you jump back to the original message with one tap. This is my favorite implementation of Shared with You since my friends and I tend to share a lot of music links on a weekly basis, so I almost see this as “Reading List, but for music”, which totally works for me.
 
 > there’s a new Shared with You section in the Listen Now tab that aggregates Apple Music links shared with you in the [Messages](https://www.macstories.net/stories/ios-and-ipados-15-the-macstories-review/19/#messages) app and lets you jump back to the original message with one tap. This is my favorite implementation of Shared with You since my friends and I tend to share a lot of music links on a weekly basis, so I almost see this as “Reading List, but for music”, which totally works for me.
 
@@ -106,7 +116,99 @@
 >     
 > *   ⌘+Enter: Save
 
+> ### Main view:
+> 
+> *   ⌘+N: New event
+>     
+> *   ⌘+I: Notifications
+>     
+> *   ⌘+,: Settings
+>     
+> *   ⌘+T: Go to Today
+>     
+> *   ⌘+Shift+F: Change sidebar layout (large iPad devices only)
+>     
+> *   ⌘+Shift+R: Refresh all
+>     
+> *   ⌘+F: Search
+>     
+> *   ⌘+R: Tasks
+>     
+> *   ⌘+1: Day view
+>     
+> *   ⌘+2: Week view
+>     
+> *   ⌘+3: Month view
+>     
+> *   ⌘+4: Year view
+>     
+> *   Shift+Up: Previous week
+>     
+> *   Shift+Down: Next week
+>     
+> *   Shift+Left: Previous day
+>     
+> *   Shift+Right: Next day
+>     
+> *   Control+1: All Calendars
+>     
+> *   Control+2-9: Switch calendar set
+>     
+> 
+> ### All navigation sheets:
+> 
+> *   ⌘+.: Cancel
+>     
+> *   esc: Cancel
+>     
+> 
+> ### Task view:
+> 
+> *   ⌘+N: New task
+> 
+> ### Event view:
+> 
+> *   ⌘+I: Edit
+>     
+> *   ⌘+Alt+Delete: Delete event
+>     
+> *   ⌘+.: Cancel
+>     
+> *   esc: Cancel
+>     
+> 
+> ### New item view:
+> 
+> *   ⌘+N: Edit parser input
+>     
+> *   ⌘+Up/Down: Navigate items in popover
+>     
+> *   Enter: Select item
+>     
+> *   ⌘+I - Show more
+>     
+> 
+> ### New/edit item view:
+> 
+> *   ⌘+. - Cancel
+>     
+> *   esc - Cancel
+>     
+> *   ⌘+E - Edit notes
+>     
+> *   ⌘+I - Show more
+>     
+> *   ⌘+K - Toggle between event/task
+>     
+> *   ⌘+Alt+Delete: Delete
+>     
+> *   ⌘+S: Save
+>     
+> *   ⌘+Enter: Save
+
 # [iOS & iPadOS 15.1 Beta 2 Release Notes | Apple Developer Documentation](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_1-release-notes)
+
+> On iPad mini (6th generation), websites now load with the iPad mobile user agent by default to improve text legibility. Users can customize this setting by website in the page format menu or globally through Settings > Safari > Request Desktop Site > All Websites. (83184000)
 
 > On iPad mini (6th generation), websites now load with the iPad mobile user agent by default to improve text legibility. Users can customize this setting by website in the page format menu or globally through Settings > Safari > Request Desktop Site > All Websites. (83184000)
 
@@ -114,7 +216,11 @@
 
 > **Fix:** Add keyboard shortcuts (⌘-, option-⌘-,) back for Settings/Preferences and Editor Settings/Preferences.
 
+> **Fix:** Add keyboard shortcuts (⌘-, option-⌘-,) back for Settings/Preferences and Editor Settings/Preferences.
+
 # [Chat History — Real Life](https://reallifemag.com/chat-history/)
+
+> I think of my quintessential Slack experience as the time a colleague interrupted a discussion of celebrity gossip to express her sincere, implacable fear of death.
 
 > I think of my quintessential Slack experience as the time a colleague interrupted a discussion of celebrity gossip to express her sincere, implacable fear of death.
 
@@ -122,7 +228,11 @@
 
 > In nearly every Apple advertisement from 1984 to the invention of the iPod in 2001, computers and gadgets were presented as the necessary final ingredient to an individual’s creative genius; but as Apple shifted heavily into selling handheld devices meant for consuming media, they also began leaning on the idea that to own their products was to be a part of a community: iPhone ads barely mention technology at all, opting instead to show poignant, intimate moments with the device capturing or mediating the experience.
 
+> In nearly every Apple advertisement from 1984 to the invention of the iPod in 2001, computers and gadgets were presented as the necessary final ingredient to an individual’s creative genius; but as Apple shifted heavily into selling handheld devices meant for consuming media, they also began leaning on the idea that to own their products was to be a part of a community: iPhone ads barely mention technology at all, opting instead to show poignant, intimate moments with the device capturing or mediating the experience.
+
 # [The Macro of Micro.blog // pimoore.ca](https://pimoore.ca/2021/09/30/the-macro-of.html)
+
+> There has likely never been a better or easier time to start a blog than right now. We certainly are spoiled for choice
 
 > There has likely never been a better or easier time to start a blog than right now. We certainly are spoiled for choice
 
@@ -130,11 +240,19 @@
 
 > Diseases are represented as having a will of their own.
 
+> Diseases are represented as having a will of their own.
+
+> these diseases have been seen as deserved
+
 > these diseases have been seen as deserved
 
 # [Yoink Brings Background Clipboard Monitoring to iOS and iPadOS 15 via Picture in Picture Workaround - MacStories](https://www.macstories.net/ios/yoink-brings-background-clipboard-monitoring-to-ios-and-ipados-15-via-picture-in-picture-workaround/)
 
 > Several years ago back when [Pastebot](https://tapbots.com/pastebot/) was also available on iPhone, Tapbots attempted to let it run persistently in the background by [playing a silent audio track](https://www.macstories.net/iphone/pastebot-clipboard-savvy-music-syncing/) that would trick iOS into not suspending Pastebot when it was closed. The feature was promptly [shut down by Apple](https://www.macstories.net/iphone/pastebot-1-4-adds-clipboard-in-the-background-kinda/).
+
+> Several years ago back when [Pastebot](https://tapbots.com/pastebot/) was also available on iPhone, Tapbots attempted to let it run persistently in the background by [playing a silent audio track](https://www.macstories.net/iphone/pastebot-clipboard-savvy-music-syncing/) that would trick iOS into not suspending Pastebot when it was closed. The feature was promptly [shut down by Apple](https://www.macstories.net/iphone/pastebot-1-4-adds-clipboard-in-the-background-kinda/).
+
+> Speaking of missing features: at the moment, Yoink doesn’t feature any keyboard shortcuts or Shortcuts actions to quickly activate clipboard monitoring.
 
 > Speaking of missing features: at the moment, Yoink doesn’t feature any keyboard shortcuts or Shortcuts actions to quickly activate clipboard monitoring.
 
@@ -142,9 +260,15 @@
 
 > To make an impact in such an ocean requires luck, money or persuasive friends in high places. This, combined with our ability to listen to almost anything at anytime for free, has reshaped the writer’s role from one of assessment to advocacy.
 
+> To make an impact in such an ocean requires luck, money or persuasive friends in high places. This, combined with our ability to listen to almost anything at anytime for free, has reshaped the writer’s role from one of assessment to advocacy.
+
 # [macOS Monterey: The MacStories Review - MacStories](https://www.macstories.net/stories/macos-monterey-the-macstories-review/)
 
 > the iPad has grown into [a powerful, modular computer](https://www.macstories.net/stories/modular-computer/), while the latest Macs now run on the same processor architecture as the iPad Pro and no longer work differently in places just because that’s the way it’s always been.
+
+> the iPad has grown into [a powerful, modular computer](https://www.macstories.net/stories/modular-computer/), while the latest Macs now run on the same processor architecture as the iPad Pro and no longer work differently in places just because that’s the way it’s always been.
+
+> Monterey’s focus is all about system apps, a topic near and dear to me. With the technical building blocks in place and a refined design out of the way, Monterey is one of the most tangible, user-facing payoffs of the past three years of transition. More than ever before, Apple is advancing system apps across all of its platforms at the same time. Finally, everything is everywhere.
 
 > Monterey’s focus is all about system apps, a topic near and dear to me. With the technical building blocks in place and a refined design out of the way, Monterey is one of the most tangible, user-facing payoffs of the past three years of transition. More than ever before, Apple is advancing system apps across all of its platforms at the same time. Finally, everything is everywhere.
 
@@ -154,9 +278,15 @@
 
 > What I need, however, is a tool that lets me see, at a glance, all the things I’m currently working on and stuff that’s on my mind, allowing me to quickly jump to those things and start processing them.
 
+> What I need, however, is a tool that lets me see, at a glance, all the things I’m currently working on and stuff that’s on my mind, allowing me to quickly jump to those things and start processing them.
+
 # [How to use SharePlay on iOS 15 | Engadget](https://www.engadget.com/shareplay-on-ios-15-hands-on-how-to-guide-170020600.html)
 
 > For the most part, everyone you're SharePlaying with will need to have the relevant apps installed (i.e. TikTok, HBO Max, Showtime, Paramount, Apple TV etc). In some cases, they'll also need to have a subscription or at least an account.
+
+> For the most part, everyone you're SharePlaying with will need to have the relevant apps installed (i.e. TikTok, HBO Max, Showtime, Paramount, Apple TV etc). In some cases, they'll also need to have a subscription or at least an account.
+
+> The pill on the top left of your screen will also turn purple to let remind you you're screen-sharing.
 
 > The pill on the top left of your screen will also turn purple to let remind you you're screen-sharing.
 
@@ -164,7 +294,11 @@
 
 > a WebDAV based file transfer method is also planned.
 
+> a WebDAV based file transfer method is also planned.
+
 # [Trump's new social media platform found using Mastodon code: Our statement - Official Mastodon Blog](https://blog.joinmastodon.org/2021/10/trumps-new-social-media-platform-found-using-mastodon-code/)
+
+> Mastodon is free software published under the AGPLv3 license, which requires any over-the-network service using it to make its source code and any modifications to it publicly accessible.
 
 > Mastodon is free software published under the AGPLv3 license, which requires any over-the-network service using it to make its source code and any modifications to it publicly accessible.
 
@@ -172,7 +306,11 @@
 
 > including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
 
+> including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Site or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Site.
+
 # [MacStories Weekly: Issue 296](https://club.macstories.net/posts/macstories-weekly-issue-296)
+
+> Shortcuts can’t do anything with your Apple Music subscription. It can only find and play songs you’ve added to your local library.
 
 > Shortcuts can’t do anything with your Apple Music subscription. It can only find and play songs you’ve added to your local library.
 
@@ -180,9 +318,17 @@
 
 > Scholars have shown that for childhood to become what it is now—among other things, a protected site and a source of sentiment—a lot of things had to happen, and of course they did not happen for everyone.
 
+> Scholars have shown that for childhood to become what it is now—among other things, a protected site and a source of sentiment—a lot of things had to happen, and of course they did not happen for everyone.
+
+> Some pieces investigate the persistence of history that an emphasis on the youthfulness of technologies and technologists obscures. One writer points out that, although the money in Silicon Valley is often presented as new, much of it is in fact inherited.
+
 > Some pieces investigate the persistence of history that an emphasis on the youthfulness of technologies and technologists obscures. One writer points out that, although the money in Silicon Valley is often presented as new, much of it is in fact inherited.
 
 > if you want to get a glimpse into the torture chambers of the War on Terror, you can set the geolocation on your Tinder app to 19.9031 N, 75.0967 W: Guantánamo, Cuba.
+
+> if you want to get a glimpse into the torture chambers of the War on Terror, you can set the geolocation on your Tinder app to 19.9031 N, 75.0967 W: Guantánamo, Cuba.
+
+> Notwithstanding the lucrative business of defining and branding distinct generations, we find that one feature of youth today is that there are far too many kinds of kids to generalize about.
 
 > Notwithstanding the lucrative business of defining and branding distinct generations, we find that one feature of youth today is that there are far too many kinds of kids to generalize about.
 
@@ -190,13 +336,23 @@
 
 > Shortcuts can also be run from the Terminal with the command `shortcuts run 'name-of-shortcut'`. There are commands to list, view, and sign shortcuts too. Signing is the most complex of the Terminal commands allowing users to specify the sharing mode, location of the shortcut file being signed, as well as an output destination.
 
+> Shortcuts can also be run from the Terminal with the command `shortcuts run 'name-of-shortcut'`. There are commands to list, view, and sign shortcuts too. Signing is the most complex of the Terminal commands allowing users to specify the sharing mode, location of the shortcut file being signed, as well as an output destination.
+
 # [Kara Swisher on Mark Zuckerberg, Facebook Papers](https://nymag.com/intelligencer/2021/10/kara-swisher-on-mark-zuckerberg-facebook-papers.html)
+
+> I think Mark has tried to learn. I just think he’s not up to the task, so it doesn’t really matter if he’s tried to learn.
 
 > I think Mark has tried to learn. I just think he’s not up to the task, so it doesn’t really matter if he’s tried to learn.
 
 > He runs a big city that he thinks is running fine, but nobody has water or police or anything else.
 
+> He runs a big city that he thinks is running fine, but nobody has water or police or anything else.
+
 > He’s not an asshole, and he’s never been an asshole. That’s not the problem here. It’s easy when they’re assholes.
+
+> He’s not an asshole, and he’s never been an asshole. That’s not the problem here. It’s easy when they’re assholes.
+
+> He’s willing to take people’s private information and tell you he knows what’s best. But he doesn’t know what’s best, and he never did. It’s so easy to make him evil. I don’t think he’s evil. That’s sort of an easy way out of it. There’s a really famous W. H. Auden quote. “Evil is unspectacular and always human.” Mark is very human. That’s the problem.
 
 > He’s willing to take people’s private information and tell you he knows what’s best. But he doesn’t know what’s best, and he never did. It’s so easy to make him evil. I don’t think he’s evil. That’s sort of an easy way out of it. There’s a really famous W. H. Auden quote. “Evil is unspectacular and always human.” Mark is very human. That’s the problem.
 
@@ -206,7 +362,13 @@
 > 
 > Specifies the pathname to the file that contains patterns to describe paths that are not meant to be tracked, in addition to `.gitignore` (per-directory) and `.git/info/exclude`. Defaults to `$XDG_CONFIG_HOME/git/ignore`. If `$XDG_CONFIG_HOME` is either not set or empty, `$HOME/.config/git/ignore` is used instead. See [gitignore\[5\]](/docs/gitignore).
 
+> core.excludesFile
+> 
+> Specifies the pathname to the file that contains patterns to describe paths that are not meant to be tracked, in addition to `.gitignore` (per-directory) and `.git/info/exclude`. Defaults to `$XDG_CONFIG_HOME/git/ignore`. If `$XDG_CONFIG_HOME` is either not set or empty, `$HOME/.config/git/ignore` is used instead. See [gitignore\[5\]](/docs/gitignore).
+
 # [The Verge turns 10: editor-in-chief Nilay Patel writes about the future - The Verge](https://www.theverge.com/22750900/verge-10-anniversary-nilay-patel-restrospective-future)
+
+> You might spend entire days with headphones in your ears, awash in sound, but until the invention of the phonograph in 1877, _no one in the world had ever listened to music alone_ because listening to music required at least one other person to play an instrument for you_._
 
 > You might spend entire days with headphones in your ears, awash in sound, but until the invention of the phonograph in 1877, _no one in the world had ever listened to music alone_ because listening to music required at least one other person to play an instrument for you_._
 
@@ -214,7 +376,11 @@
 
 > Although fanboys can easily be lumped together as “angry nerds,” look closer and you’ll find that each one is like a snowflake. The reasons they’ve traveled to the fringe are personal, but also familiar. A phone might not seem to be something worth fighting over, but what it stands for most definitely is.
 
+> Although fanboys can easily be lumped together as “angry nerds,” look closer and you’ll find that each one is like a snowflake. The reasons they’ve traveled to the fringe are personal, but also familiar. A phone might not seem to be something worth fighting over, but what it stands for most definitely is.
+
 # [Eugen Rochko, Saint of Federated Social — The Psalms](https://bilge.world/eugen-rochko-interview)
+
+> That won't happen. There's actually a good reason why they don't do that. It's simply because you could make a toot about one thing, have people favorite it and share it, link it from other places, and then suddenly, it says 'Heil Hitler,' or something.
 
 > That won't happen. There's actually a good reason why they don't do that. It's simply because you could make a toot about one thing, have people favorite it and share it, link it from other places, and then suddenly, it says 'Heil Hitler,' or something.
 
@@ -224,9 +390,21 @@
 > 
 > Our goals include providing the best customer support in our industry. We’re committed to treating everyone fairly and equitably. The Twitter rules won’t apply differently to subscribers, and they won’t get faster service on issues like content moderation.
 
+> #### Will Twitter Blue subscribers receive preference when receiving account support?
+> 
+> Our goals include providing the best customer support in our industry. We’re committed to treating everyone fairly and equitably. The Twitter rules won’t apply differently to subscribers, and they won’t get faster service on issues like content moderation.
+
 > #### Will Twitter Blue subscribers receive different support for enforcement issues like account blocks?
 > 
 > We are committed to making Twitter a safe place for everyone to participate in the public conversation. That’s why policy enforcement issues and reports by subscribers will continue to be handled by existing enforcement teams, under the current review process.
+
+> #### Will Twitter Blue subscribers receive different support for enforcement issues like account blocks?
+> 
+> We are committed to making Twitter a safe place for everyone to participate in the public conversation. That’s why policy enforcement issues and reports by subscribers will continue to be handled by existing enforcement teams, under the current review process.
+
+> #### Is Twitter Blue ad-free?
+> 
+> No. Currently, ads continue to fund our ability to innovate as we grow this new part of our business. Twitter Blue does include an Ad-free Articles feature which offers subscribers a fast-loading, ad-free reading experience on the websites of publishers within the Twitter Blue Publisher Network. Read more about our [Ad-free Articles](/en/using-twitter/twitter-blue-ad-free-articles.html) feature.
 
 > #### Is Twitter Blue ad-free?
 > 
@@ -236,7 +414,13 @@
 > 
 > Twitter Blue subscribers receive dedicated support for subscription-specific issues. That could look like help with managing a subscription, how to access your account or settings, and enrollment issues. Other issues could include troubleshooting special features only available to subscribers.
 
+> #### Is dedicated support a premium feature of Twitter Blue?
+> 
+> Twitter Blue subscribers receive dedicated support for subscription-specific issues. That could look like help with managing a subscription, how to access your account or settings, and enrollment issues. Other issues could include troubleshooting special features only available to subscribers.
+
 # [Minimal Web Browsers: Why You Need Less Stuff On Your Browser](https://tedium.co/2020/05/12/minimal-web-browser-argument/)
+
+> Rather than simply letting tabs fill up, you’re encouraged to create “tasks” that let you divide different use cases up. As a writer, the way I’ve been using tasks has been to create a new one for every story I write and research, so that I can separate those ideas out without them getting in the way of everything else. (I can also hide the usual junk that sits in the pinned tabs in its own task.)
 
 > Rather than simply letting tabs fill up, you’re encouraged to create “tasks” that let you divide different use cases up. As a writer, the way I’ve been using tasks has been to create a new one for every story I write and research, so that I can separate those ideas out without them getting in the way of everything else. (I can also hide the usual junk that sits in the pinned tabs in its own task.)
 
@@ -244,9 +428,260 @@
 
 > In January, Twitter acquired the newsletter company Revue and Breaker, an audio social service, to build up new product offerings around [newsletter subscription](https://help.twitter.com/en/using-twitter/newsletter-subscribe) and [audio chat](https://blog.twitter.com/en_us/topics/product/2021/spaces-is-here).
 
+> In January, Twitter acquired the newsletter company Revue and Breaker, an audio social service, to build up new product offerings around [newsletter subscription](https://help.twitter.com/en/using-twitter/newsletter-subscribe) and [audio chat](https://blog.twitter.com/en_us/topics/product/2021/spaces-is-here).
+
 > If one group of users is happy, it’s journalists, who—based on my own network, at least—are subscribing in droves. But as the company considers other premium features, it will do well to look beyond its role as a platform just for news.
 
+> If one group of users is happy, it’s journalists, who—based on my own network, at least—are subscribing in droves. But as the company considers other premium features, it will do well to look beyond its role as a platform just for news.
+
+# [Twitter - Keyboard shortcuts / Twitter](https://mobile.twitter.com/i/keyboard_shortcuts)
+
+> Navigation
+> 
+> 
+> --------------
+> 
+> Shortcut help
+> 
+> ?
+> 
+> Next Tweet
+> 
+> j
+> 
+> Previous Tweet
+> 
+> k
+> 
+> Page down
+> 
+> Space
+> 
+> Load new Tweets
+> 
+> .
+> 
+> Home
+> 
+> g
+> 
+> +
+> 
+> h
+> 
+> Explore
+> 
+> g
+> 
+> +
+> 
+> e
+> 
+> Notifications
+> 
+> g
+> 
+> +
+> 
+> n
+> 
+> Mentions
+> 
+> g
+> 
+> +
+> 
+> r
+> 
+> Profile
+> 
+> g
+> 
+> +
+> 
+> p
+> 
+> Likes
+> 
+> g
+> 
+> +
+> 
+> l
+> 
+> Lists
+> 
+> g
+> 
+> +
+> 
+> i
+> 
+> Direct Messages
+> 
+> g
+> 
+> +
+> 
+> m
+> 
+> Moment Maker
+> 
+> g
+> 
+> +
+> 
+> c
+> 
+> Settings
+> 
+> g
+> 
+> +
+> 
+> s
+> 
+> Bookmarks
+> 
+> g
+> 
+> +
+> 
+> b
+> 
+> Top Articles
+> 
+> g
+> 
+> +
+> 
+> a
+> 
+> Go to user…
+> 
+> g
+> 
+> +
+> 
+> u
+> 
+> Display settings
+> 
+> g
+> 
+> +
+> 
+> d
+> 
+> Actions
+> 
+> 
+> -----------
+> 
+> New Tweet
+> 
+> n
+> 
+> Send Tweet
+> 
+> ⌘
+> 
+> +
+> 
+> Enter
+> 
+> New Direct Message
+> 
+> m
+> 
+> Search
+> 
+> /
+> 
+> Like
+> 
+> l
+> 
+> Reply
+> 
+> r
+> 
+> Retweet
+> 
+> t
+> 
+> Share Tweet
+> 
+> s
+> 
+> Bookmark
+> 
+> b
+> 
+> Mute account
+> 
+> u
+> 
+> Block account
+> 
+> x
+> 
+> Open Tweet details
+> 
+> Enter
+> 
+> Expand photo
+> 
+> o
+> 
+> Open/Close Messages dock
+> 
+> i
+> 
+> Media
+> 
+> 
+> ---------
+> 
+> Pause/Play selected Video
+> 
+> k
+> 
+> Pause/Play selected Video
+> 
+> space
+> 
+> Mute selected Video
+> 
+> m
+> 
+> Go to Audio Dock
+> 
+> a
+> 
+> +
+> 
+> d
+> 
+> Play/Pause Audio Dock
+> 
+> a
+> 
+> +
+> 
+> space
+> 
+> Mute/Unmute Audio Dock
+> 
+> a
+> 
+> +
+> 
+> m
+
 # [Apple should take a break from annual iOS and macOS updates - The Verge](https://www.theverge.com/22771079/apple-macos-monteray-ios-15-mac-iphone-software-operating-system-updates-space-out-features)
+
+> To solve the issues of lackluster annual updates, Apple should do two things. First, it should continue to build out point releases with additional features throughout the year or even unbundle app updates from its annual releases entirely. Did the FaceTime team come up with a great new feature that’ll make pandemic chatting easier? Release it when it’s ready! Second, it should start to space out its major software releases, waiting an extra year or two between iOS or macOS versions to ensure that when it does release a “new” operating system, there are actually big changes to be excited about.
 
 > To solve the issues of lackluster annual updates, Apple should do two things. First, it should continue to build out point releases with additional features throughout the year or even unbundle app updates from its annual releases entirely. Did the FaceTime team come up with a great new feature that’ll make pandemic chatting easier? Release it when it’s ready! Second, it should start to space out its major software releases, waiting an extra year or two between iOS or macOS versions to ensure that when it does release a “new” operating system, there are actually big changes to be excited about.
 
@@ -254,7 +689,11 @@
 
 > In Hancock’s study, the most lies per social interaction occurred via the technology with all of these features: the phone. The fewest occurred on email, where people couldn’t communicate synchronously and the messages were recorded.
 
+> In Hancock’s study, the most lies per social interaction occurred via the technology with all of these features: the phone. The fewest occurred on email, where people couldn’t communicate synchronously and the messages were recorded.
+
 # [Famous People #77: Happy birthday to a great old website - by Kaitlyn Tiffany - famous people](https://famouspeople.substack.com/p/famous-people-77-happy-birthday-to)
+
+> Imagine dozens of boxes stacked like a mid-play Jenga board, and you can go inside each box if you climb a flight of slippery metal stairs, and inside each box is at least one person you know, but haven’t seen in 2, maybe 3 years, and you ask them, _How has it been?_ and they tell you, and you tell them, and it feels familiar but everyone has different hair than they used to.
 
 > Imagine dozens of boxes stacked like a mid-play Jenga board, and you can go inside each box if you climb a flight of slippery metal stairs, and inside each box is at least one person you know, but haven’t seen in 2, maybe 3 years, and you ask them, _How has it been?_ and they tell you, and you tell them, and it feels familiar but everyone has different hair than they used to.
 
@@ -268,7 +707,17 @@
 >     
 > 3.  Build, in partnership with writers, a discovery network that helps them cross-promote, collaborate, and connect with audiences independent of attention economy networks.
 
+> In short, our master plan is: 
+> 
+> 1.  Continue to improve Substack’s simple and powerful publishing tools, including expanding support for audio, video, and community-building features. 
+>     
+> 2.  Grow the Substack economy to help writers connect with the services they need to do their best work and build thriving publications, such as editing, design, insurance, and financing. 
+>     
+> 3.  Build, in partnership with writers, a discovery network that helps them cross-promote, collaborate, and connect with audiences independent of attention economy networks.
+
 # [The Great Linux Tablet Hope | Revue](https://midrange.tedium.co/issues/the-great-linux-tablet-hope-877948)
+
+> I have an iPad Pro, a 2018 model that I bought earlier this year because I felt that it was important to have an understanding of the iOS ecosystem even if I was using Android with my smartphone.
 
 > I have an iPad Pro, a 2018 model that I bought earlier this year because I felt that it was important to have an understanding of the iOS ecosystem even if I was using Android with my smartphone.
 
@@ -276,11 +725,17 @@
 
 > It serves them up accordingly and also takes into account users' stated preference for apps.
 
+> It serves them up accordingly and also takes into account users' stated preference for apps.
+
 # [You.com wants to remake the search engine - The Verge](https://www.theverge.com/2021/11/9/22770614/you-salesforce-startup-search-engine-privacy-information-control)
 
 > On top of this organizational change, You.com’s big differentiating feature is that it lets people influence which sources they see. You can “upvote” and “downvote” specific categories, so when you run searches, you’ll see preferred sources first, neutral searches next, and downvoted sources last.
 
+> On top of this organizational change, You.com’s big differentiating feature is that it lets people influence which sources they see. You can “upvote” and “downvote” specific categories, so when you run searches, you’ll see preferred sources first, neutral searches next, and downvoted sources last.
+
 # [styleguide](https://davidblue.wtf/styleguide/)
+
+> Our vocabulary and syntax are diverse (though we do not sacrifice _undue time_ to unearthing bizarre, senseless synonyms,) fluid, and occasionally difficult, but written as such for the purpose of colorful, substantial delivery in acknowledgement of the vast resources instantly available to the modern reader. In other words: _do not tell what can simply and easily be looked up_. With search engines as they are, this is a quickly verifiable/quantifiable factor with a given definition, summary, or abstract.
 
 > Our vocabulary and syntax are diverse (though we do not sacrifice _undue time_ to unearthing bizarre, senseless synonyms,) fluid, and occasionally difficult, but written as such for the purpose of colorful, substantial delivery in acknowledgement of the vast resources instantly available to the modern reader. In other words: _do not tell what can simply and easily be looked up_. With search engines as they are, this is a quickly verifiable/quantifiable factor with a given definition, summary, or abstract.
 
@@ -290,13 +745,53 @@
 
 > I’m often left wondering what might have happened to the newsletter space had Substack remained a business that only grew as its audience did.
 
+> I’m often left wondering what might have happened to the newsletter space had Substack remained a business that only grew as its audience did.
+
+> To me, combining the nomadic nature of a career journalist with that of a run-your-own-business newsletter is not exactly a perfect match. And a lot of people took risks on this market knowing that, yes, it was a risk. But they still found themselves looking dumbfounded as they tried to make their exit.
+
 > To me, combining the nomadic nature of a career journalist with that of a run-your-own-business newsletter is not exactly a perfect match. And a lot of people took risks on this market knowing that, yes, it was a risk. But they still found themselves looking dumbfounded as they tried to make their exit.
 
 # [iOS & iPadOS 15.2 Beta 3 Release Notes | Apple Developer Documentation](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-15_2-release-notes)
 
 > Tags can now be bulk renamed and deleted
 
+> Tags can now be bulk renamed and deleted
+
 > iCloud+ subscribers can now access and use Hide My Email directly from the Mail app.
+
+> iCloud+ subscribers can now access and use Hide My Email directly from the Mail app.
+
+> iOS & iPadOS 15.2 Beta 3 Release Notes
+> ======================================
+> 
+> Update your apps to use new features, and test your apps against API changes.
+> 
+> On This Page
+> 
+> *   [Overview](/documentation/ios-ipados-release-notes/ios-ipados-15_2-release-notes#Overview) 
+> *   [Updates in iOS & iPadOS 15.2 beta 2](/documentation/ios-ipados-release-notes/ios-ipados-15_2-release-notes#Updates-in-iOS-&-iPadOS-15.2-beta-2) 
+> *   [Updates in iOS & iPadOS 15.2 beta](/documentation/ios-ipados-release-notes/ios-ipados-15_2-release-notes#Updates-in-iOS-&-iPadOS-15.2-beta) 
+> *   [See Also](/documentation/ios-ipados-release-notes/ios-ipados-15_2-release-notes#see-also) 
+> 
+> Overview
+> --------
+> 
+> The iOS & iPadOS 15.2 SDK provides support to develop apps for iPhone, iPad, and iPod touch devices running iOS & iPadOS 15.2 beta 3. The SDK comes bundled with Xcode 13.2 beta 2, available from [Beta Software Downloads](https://developer.apple.com/download/release/). For information on the compatibility requirements for Xcode 13.2, see [Xcode 13.2 Beta 2 Release Notes](/documentation/Xcode-Release-Notes/xcode-13_2-release-notes).
+> 
+> ### Core Media
+> 
+> #### Known Issues
+> 
+> *   Streaming in the Music app could result in higher CPU usage, causing faster battery drain in some scenarios. (84861891, 85326575)
+>     
+> 
+> ### HealthKit
+> 
+> #### Known Issues
+> 
+> *   Users who import a verifiable vaccination record aren’t able to add it to the Wallet app, and the Health app may freeze. (84784379)
+>     
+> *   The [`enableBackgroundDelivery(for:frequency:withCompletion:)`](/documentation/healthkit/hkhealthstore/1614175-enablebackgrounddelivery) method doesn’t wake the app on iOS 15. (84370639)
 
 > iOS & iPadOS 15.2 Beta 3 Release Notes
 > ======================================
@@ -334,7 +829,11 @@
 
 > Self Service Repair will be available early next year in the US and expand to additional countries throughout 2022.
 
+> Self Service Repair will be available early next year in the US and expand to additional countries throughout 2022.
+
 # [About Microsoft | Mission and Vision | Microsoft](https://www.microsoft.com/en-us/about)
+
+> Our mission is to empower every person and every organization on the planet to achieve more.
 
 > Our mission is to empower every person and every organization on the planet to achieve more.
 
@@ -342,7 +841,11 @@
 
 > I promised myself I’d never let a desk set my work schedule or performance anymore.
 
+> I promised myself I’d never let a desk set my work schedule or performance anymore.
+
 # [My Obsidian Setup, Part 5: Appending Text and Webpage Links to Specific Sections of My 'Dashboard' Note](https://club.macstories.net/posts/shortcuts-essentials)
+
+> With a single click, Obsidian launches and displays my custom QuickAdd menu, ready for me to save an idea or reopen the Dashboard note.
 
 > With a single click, Obsidian launches and displays my custom QuickAdd menu, ready for me to save an idea or reopen the Dashboard note.
 
@@ -350,7 +853,11 @@
 
 > David has been looking into how ad-free articles work on Twitter Blue and [shared a useful tip](https://discord.com/channels/836622115435184162/837345707395907635/910558091362308167) on how to read them outside the Twitter app.
 
+> David has been looking into how ad-free articles work on Twitter Blue and [shared a useful tip](https://discord.com/channels/836622115435184162/837345707395907635/910558091362308167) on how to read them outside the Twitter app.
+
 # [2021 Lotus Evora GT Review: Farewell to the Perfectly Imperfect Sports Car](https://www.thedrive.com/new-cars/42725/2021-lotus-evora-gt-review-farewell-to-the-perfectly-imperfect-sports-car)
+
+> I’ve heard from certain readers and commenters alike that the Evora GT is too small. They have difficulty fitting into it. It’s too cramped, they say. Too tight. And I get that. You wouldn’t want to wear a suit that wasn’t tailored to you. You’d want it to feel like a second skin, something that moves with you through this world in a way that blends you both into one. That’s what driving the Lotus feels like.
 
 > I’ve heard from certain readers and commenters alike that the Evora GT is too small. They have difficulty fitting into it. It’s too cramped, they say. Too tight. And I get that. You wouldn’t want to wear a suit that wasn’t tailored to you. You’d want it to feel like a second skin, something that moves with you through this world in a way that blends you both into one. That’s what driving the Lotus feels like.
 
@@ -358,11 +865,43 @@
 
 > Ampled is built with collective labor rather than venture capital. This means that we are free to build a platform and organization that serves member interests, rather than investor interests.
 
+> Ampled is built with collective labor rather than venture capital. This means that we are free to build a platform and organization that serves member interests, rather than investor interests.
+
 # [Release Notes](https://twitter.com/i/release_notes)
 
 > **Accessibility:** Keyboard focus controls will now work correctly with the audience controls selector.
 
+> **Accessibility:** Keyboard focus controls will now work correctly with the audience controls selector.
+
+# [Search roles](https://careers.twitter.com/en/roles.html)
+
+> *   Customer Support and Operations
+>     
+> *   Data Science and Analytics
+>     
+> *   Design and Research
+>     
+> *   Finance
+>     
+> *   IT & IT Enterprise Applications
+>     
+> *   Infrastructure Engineering
+>     
+> *   Legal and Public Policy
+>     
+> *   Machine Learning
+>     
+> *   Marketing and Communications
+>     
+> *   MoPub
+>     
+> *   People
+>     
+> *   Product
+
 # [Getting the reading list items in Safari - Apple Community](https://discussions.apple.com/thread/7054847)
+
+> You can use "**System Events**" to read and parse a PLIST file
 
 > You can use "**System Events**" to read and parse a PLIST file
 
@@ -370,9 +909,15 @@
 
 > The shortcut is built entirely with native actions – no scripting necessary – and it reads Safari’s Bookmarks.plist database **without modifying it** (your data is safe and this shortcut is read-only).
 
+> The shortcut is built entirely with native actions – no scripting necessary – and it reads Safari’s Bookmarks.plist database **without modifying it** (your data is safe and this shortcut is read-only).
+
 # [Automation Academy: Diving Deeper into Reminders Actions](https://club.macstories.net/posts/automation-academy-diving-deeper-into-reminders-actions)
 
 > Optionally, you can choose to create a new reminder as a subtask of an existing reminder.
+
+> Optionally, you can choose to create a new reminder as a subtask of an existing reminder.
+
+> I could use Shortcuts’ ability to parse Safari webpages as articles to extract details such as title and word count;
 
 > I could use Shortcuts’ ability to parse Safari webpages as articles to extract details such as title and word count;
 
@@ -380,13 +925,32 @@
 
 > In September, Vivaldi became the default browser on the Arch-based Linux distribution Manjaro on its Cinnamon edition.
 
+> In September, Vivaldi became the default browser on the Arch-based Linux distribution Manjaro on its Cinnamon edition.
+
 # [iOS 15 Messages Notifications Not Working - Apple Community](https://discussions.apple.com/thread/253164533?answerId=256068010022#256068010022)
+
+> Finally got mine working again. I don’t know if it will work for others or not, but what finally fixed mine was going into Settings -> Notifications -> Siri, then turning Announce Notifications on. Exited out, then went back in and turned it off. Suddenly my notifications are working properly again. 🤷🏻‍♂️
 
 > Finally got mine working again. I don’t know if it will work for others or not, but what finally fixed mine was going into Settings -> Notifications -> Siri, then turning Announce Notifications on. Exited out, then went back in and turned it off. Suddenly my notifications are working properly again. 🤷🏻‍♂️
 
 # [Shortcuts for Mac: 27 of Our Favorite Third-Party Integrations - MacStories](https://www.macstories.net/news/shortcuts-for-mac-27-of-our-favorite-third-party-integrations/)
 
 > What’s unique about BetterTouchTool is that not only does it come with an extensive list of Shortcuts actions for controlling the app’s functionality, but it also can run shortcuts itself. That provides a whole new layer of ways to interact with your shortcuts because all of BetterTouchTool’s keyboard shortcuts, gestures, and other triggers are now available to run your shortcuts too.
+
+> What’s unique about BetterTouchTool is that not only does it come with an extensive list of Shortcuts actions for controlling the app’s functionality, but it also can run shortcuts itself. That provides a whole new layer of ways to interact with your shortcuts because all of BetterTouchTool’s keyboard shortcuts, gestures, and other triggers are now available to run your shortcuts too.
+
+> MusicHarbor is one of my favorite apps for keeping up with new music releases, so it’s wonderful to see it evolving on the Mac to incorporate Shortcuts. The Mac app includes several Shortcuts actions to access the app’s data and manage the artists you follow:
+> 
+> *   Mark As Watched
+> *   Mark As Seen
+> *   Get Artists
+> *   Get Upcoming Music Data
+> *   Unfollow Artist
+> *   Get Music Video Data
+> *   Follow Artist
+> *   Get Music Data
+> 
+> One simple shortcut I plan to implement in the short term is a Services menu shortcut that will allow me to highlight an artist’s name, look them up, and add them to the list I follow.
 
 > MusicHarbor is one of my favorite apps for keeping up with new music releases, so it’s wonderful to see it evolving on the Mac to incorporate Shortcuts. The Mac app includes several Shortcuts actions to access the app’s data and manage the artists you follow:
 > 
@@ -405,11 +969,19 @@
 
 > “I’ve decided to leave Twitter because I believe the company is ready to move on from its founders. My trust in Parag as Twitter’s CEO is deep. His work over the past 10 years has been transformational. I’m deeply grateful for his skill, heart, and soul. It’s his time to lead.”
 
+> “I’ve decided to leave Twitter because I believe the company is ready to move on from its founders. My trust in Parag as Twitter’s CEO is deep. His work over the past 10 years has been transformational. I’m deeply grateful for his skill, heart, and soul. It’s his time to lead.”
+
+> While Dorsey is well known for his interests in blockchain technology, cryptocurrency, and decentralization, Agrawal is also interested in “web3,” and he [has been a leading figure in](https://www.theverge.com/2021/11/10/22774501/twitter-crypto-dedicated-team-dorsey-square-decentralization) the Twitter-funded Bluesky effort to create an “open and decentralized standard for social media.”
+
 > While Dorsey is well known for his interests in blockchain technology, cryptocurrency, and decentralization, Agrawal is also interested in “web3,” and he [has been a leading figure in](https://www.theverge.com/2021/11/10/22774501/twitter-crypto-dedicated-team-dorsey-square-decentralization) the Twitter-funded Bluesky effort to create an “open and decentralized standard for social media.”
 
 # [Jack steps back - by Casey Newton - Platformer](https://www.platformer.news/p/jack-steps-back?token=eyJ1c2VyX2lkIjo4MDQ5MjYsInBvc3RfaWQiOjQ0NzAwNjE3LCJfIjoiTTA0MmUiLCJpYXQiOjE2MzgyMzU4NzYsImV4cCI6MTYzODIzOTQ3NiwiaXNzIjoicHViLTc5NzYiLCJzdWIiOiJwb3N0LXJlYWN0aW9uIn0.iCQ9MdtKfFD908DgURtPyXmUCWQw7jSmMrOLujl7apE)
 
 > One person told me that Agrawal was among the few people internally who could regularly get Dorsey to change his mind.
+
+> One person told me that Agrawal was among the few people internally who could regularly get Dorsey to change his mind.
+
+> Its head of communications, Kelly Sims, left Twitter last week after less than four months at the company, in what is a highly difficult role to fill. And Sara Beykpour, who joined the company in 2009 and has lately been leading its Twitter Blue subscription product, announced recently that she is leaving the company as well.
 
 > Its head of communications, Kelly Sims, left Twitter last week after less than four months at the company, in what is a highly difficult role to fill. And Sara Beykpour, who joined the company in 2009 and has lately been leading its Twitter Blue subscription product, announced recently that she is leaving the company as well.
 
@@ -417,7 +989,11 @@
 
 > Data from mobile app-tracking firm Sensor Tower showed Super Follows only generated [about $6,000](https://techcrunch.com/2021/09/16/twitter-super-follows-has-generated-only-around-6k-in-its-first-two-weeks/) in the first two weeks of being live on iOS in the U.S.
 
+> Data from mobile app-tracking firm Sensor Tower showed Super Follows only generated [about $6,000](https://techcrunch.com/2021/09/16/twitter-super-follows-has-generated-only-around-6k-in-its-first-two-weeks/) in the first two weeks of being live on iOS in the U.S.
+
 # [This Is What’s Wrong With The Linux Community | Kev Quirk](https://kevq.uk/this-is-whats-wrong-with-linux-community?utm_source=kevq&utm_medium=email)
+
+> This whole complexity ethos has penetrated pretty much every Linux community I can think of. There’s this insidious elitism within Linux that basically says _if your solution isn’t technically complex, you’re an idiot._
 
 > This whole complexity ethos has penetrated pretty much every Linux community I can think of. There’s this insidious elitism within Linux that basically says _if your solution isn’t technically complex, you’re an idiot._
 
@@ -425,7 +1001,11 @@
 
 > NEW: media of private individuals without the permission of the person(s) depicted.
 
+> NEW: media of private individuals without the permission of the person(s) depicted.
+
 # [Weekly Musings 136 — Weekly Musings](https://weeklymusings.net/weekly-musings-136)
+
+> Focus on what your tiny, tiny pond of early adopters wants and needs, rather than fighting a feature war for mass market opportunities. Delight your tiny pond of early adopters, and you can grow from there.
 
 > Focus on what your tiny, tiny pond of early adopters wants and needs, rather than fighting a feature war for mass market opportunities. Delight your tiny pond of early adopters, and you can grow from there.
 
@@ -433,13 +1013,21 @@
 
 > As long as you stay logged in to Twitter, and use the same browser each time, you should get ad-free reading when you subsequently visit that same Twitter Blue site.
 
+> As long as you stay logged in to Twitter, and use the same browser each time, you should get ad-free reading when you subsequently visit that same Twitter Blue site.
+
 # [The Political Economy of Reaction - by John Ganz](https://johnganz.substack.com/p/the-political-economy-of-reaction-8d2)
+
+> being involved in some public outrage is a very quick and effective form of publicity.
 
 > being involved in some public outrage is a very quick and effective form of publicity.
 
 > a bohemian cultural elite’s “temptation to flaunt extreme attitudes in the hypocritical twilight of double moral standards, to wear publicly the mask of cruelty if everybody was patently inconsiderate and pretended to be gentle, to parade wickedness in a world, not of wickedness, but of meanness”
 
+> a bohemian cultural elite’s “temptation to flaunt extreme attitudes in the hypocritical twilight of double moral standards, to wear publicly the mask of cruelty if everybody was patently inconsiderate and pretended to be gentle, to parade wickedness in a world, not of wickedness, but of meanness”
+
 # [Shape the future of Twitter Spaces](https://blog.twitter.com/developer/en_us/topics/tools/2021/shape-the-future-of-twitter-spaces)
+
+> As part of today’s launch, all developers using the new Twitter API v2 will be able to look up live or scheduled Spaces using criteria like Spaces ID, user ID, or keyword.
 
 > As part of today’s launch, all developers using the new Twitter API v2 will be able to look up live or scheduled Spaces using criteria like Spaces ID, user ID, or keyword.
 
@@ -759,6 +1347,15 @@
 
 > Enabling **Translation** in _Settings > Language_ adds a dedicated **Translate button** to the context menu when selecting a message.
 
+# [Linked List Archive - Initial Charge - Page 3](https://initialcharge.net/category/links/page/3/)
+
+> [The State of Mastodon iOS Apps ➝](https://bilge.world/mastodon-ios-apps "The State of Mastodon iOS Apps")
+> ----------------------------------------------------------------------------------------------------------
+> 
+> A great follow-up read to [my piece from yesterday on Mastodon](https://initialcharge.net/2021/12/mastodon-overview/). David Blue does a deep dive on the state of Mastodon apps on iOS. This was published over the summer, before the official app launched to the public, but it’s still covered in its beta form.
+> 
+> David points to [Toot!](https://apps.apple.com/us/app/toot/id1229021451) as his favorite of the bunch. And while there is a lot to like, I tend to enjoy [Metatext](https://apps.apple.com/us/app/metatext/id1523996615) and [the official client](https://apps.apple.com/us/app/mastodon-for-iphone/id1571998974) just a smidge more. But if you’re looking for an app to use after jumping into the fediverse, this piece is a great place to start the exploration.
+
 # [Here's what's new in iOS 15.4 and iPadOS 15.4 - 9to5Mac](https://9to5mac.com/2022/01/27/ios-15-4-new-features/)
 
 > iOS 15.4 lets users add [notes to their iCloud Keychain](https://9to5mac.com) passwords for the first time, replicating a popular feature of third-party password managers
@@ -778,3 +1375,455 @@
 # [MacStories Weekly: Issue 305](https://club.macstories.net/posts/macstories-weekly-issue-305)
 
 > there’s a new button called ‘Delete and Edit’ that deletes the original tweet and puts it back in the Compose window.
+
+# [Templates - Drafts User Guide](https://docs.getdrafts.com/docs/actions/templates)
+
+> `<<snippet-abbreviation>>` _\[iOS only\]_ A valid [TextExpander](https://textexpander.com) abbreviation wrapped in double brackets will be expanded at
+
+# [MacStories Weekly: Issue 306](https://club.macstories.net/posts/macstories-weekly-issue-306)
+
+> **Define Word (‌⌘⌃D)**. You may know that ⌘⌥D hides your Mac’s dock, but did you know that its close cousin ⌘⌃D defines whatever the word under your cursor using the system Dictionary app?
+
+> ⌘+9 opens the last tab on the right even if there are more than nine tabs open, and ⌘+0 does nothing.
+
+# [Fantastical 3.6 Adds In-App Scheduling and Quarter View - MacStories](https://www.macstories.net/reviews/fantastical-3-6-adds-in-app-scheduling-and-quarter-view/)
+
+> If someone wants to set up a call or meeting, you can send them your Openings link, and then they can pick a time from the slots you’ve made available,
+
+# [More Mac Keyboard Shortcuts](https://club.macstories.net/posts/more-mac-keyboard-shortcuts)
+
+> **Forward-Delete**. Fn+delete does the opposite of the delete key by itself. Instead of deleting one character at a time from right to left, Fn+delete eliminates characters one at a time from left to right.
+
+# [Bookmarks - Drafts User Guide](https://docs.getdrafts.com/docs/settings/bookmarks#bookmarks-and-the-file-action-step)
+
+> On the Mac, the full file system is available and you can bookmark more or less any folder you, as a user, have permissions to modify. On iOS, that story is a bit more complicated. Bookmarks work through the Files app and and file provider extensions on iOS. Bookmarks work great with iCloud Drive folders, some local storage in other app containers, and _some_ file provider extensions.
+
+# [URL schemes in Working Copy](https://workingcopyapp.com/url-schemes.html#drafts-templates)
+
+> If you are using [Drafts](https://itunes.apple.com/app/id905337691?mt=8&uo=4&at=1000lHq) by [Agile Tortoise](http://agiletortoise.com/drafts/), there are some tricks that make it much easier to make [URL templates](https://agiletortoise.zendesk.com/hc/en-us/articles/202843484-Templates-and-Tags). First line in a draft can be referenced as _\[\[title\]\]_ and the remainder as _\[\[body\]\]_.
+
+# [iPad Diaries: Working with Drag and Drop – Bear and Gladys - MacStories](https://www.macstories.net/ios/ipad-diaries-working-with-drag-and-drop-bear-and-gladys/)
+
+> For the comeback of this column, I chose to focus on [Bear](https://itunes.apple.com/us/app/bear/id1016366447?mt=8&uo=4&at=10l6nh&ct=ipad_diaries) and [Gladys](https://itunes.apple.com/us/app/gladys/id1257526927?mt=8&uo=4&at=10l6nh&ct=ipad_diaries) – a note-taking app and a shelf app, respectively
+
+> I described why I was using Bear again _alongside_ Apple Notes
+
+> I was missing Bear for tasks such as assembling lists of links to cover on my [podcasts](https://appstories.net/), or creating outlines for future stories.
+
+# [Interview: Greg Pierce](https://club.macstories.net/posts/interview-greg-pierce-1)
+
+> none of those new features are required
+
+> There will always be advantages to being fully native on the platform.
+
+# [Drafts 5: The MacStories Review - MacStories](https://www.macstories.net/reviews/drafts-5-the-macstories-review/)
+
+> For all that Drafts can be, it starts off as just a simple editor: a place to create new drafts with the keyboard.
+
+# [App Debuts](https://club.macstories.net/posts/app-debuts-265)
+
+> Theming offers the ability to change the look of Drafts’ entire UI
+
+# [Home Screen: Federico Viticci](https://club.macstories.net/posts/home-screen-federico-viticci-2)
+
+> In a way, I see Tot as what [Drafts](https://apps.apple.com/us/app/drafts/id1236254471) used to be before it started adding actions and workspaces, but with the ability to move across multiple scratchpads with a single swipe.
+
+# [Automating Markdown with Taio, Part 1](https://club.macstories.net/posts/automating-markdown-with-taio-part-1)
+
+> imagine Editorial, but more heavily inspired by Shortcuts’ approach to automation, with fewer features than Ole Zorn’s 1.0 debut in 2013.
+
+# [Templates - Drafts User Guide](https://docs.getdrafts.com/docs/actions/templates#dates-and-locations)
+
+> If you want to use something which would otherwise be evaluated as a template tag or function but not have it evaluated in actions, it needs to be escaped by placeing a single backslash () character before it. So, for example `\[[title]]` would be ignored and not replaced with the title of the draft. The escaping backslash would be removed, however.
+
+# [The Best Way to Learn Online? Be a Lurker | WIRED](https://www.wired.com/story/best-way-learn-online-be-lurker/)
+
+> I feel like the internet has made me immune to coherent narrative.
+
+# [Software makers have gotten worse at documentation and here's why that's a problem | TechRepublic](https://www.techrepublic.com/article/software-makers-have-gotten-worse-at-documentation-and-heres-why-thats-a-problem/)
+
+> the software changes exponentially faster than the documentation.
+
+> they have to look elsewhere to get it up and running.
+
+> the official documentation doesn’t work.
+
+# [The adorable love story behind Wikipedia’s 'high five' photos](https://www.inputmag.com/culture/wikipedia-high-five-too-slow-photos-mystery-couple-solved)
+
+> They tell me that he and Tamara are not big high-fivers, and they have no personal connection to the “down low/too slow” maneuver. The participants just realized that move didn’t have any photos on Wikipedia and saw it as an opportunity.
+
+# [iPhone 12 and 12 Pro review: Virtually flawless](https://www.inputmag.com/reviews/iphone-12-and-12-pro-review-virtually-flawless)
+
+> the iPhone 12 and 12 Pro’s gorgeous homage to the iPhone 4
+
+# [Drafts 2.0: New Fonts, New Look, A Brand New Kind of Sync, And Now On iPad - MacStories](https://www.macstories.net/reviews/drafts-2-0-new-fonts-new-look-a-brand-new-kind-of-sync-and-now-on-ipad/)
+
+> I like to think of [Drafts](http://agiletortoise.com/drafts) as the [Field Notes](http://fieldnotesbrand.com) of iOS.
+
+# [Searching for Susy Thunder](https://www.theverge.com/c/22889425/susy-thunder-headley-hackers-phone-phreakers-claire-evans)
+
+> history has ignored women for too long and that when we fixate on the people who build systems and forget those who maintain, moderate, and use — or, in this case, _exploit_ — those systems, we’re missing the messy realities of how technology actually evolves.
+
+# [Fluorescent Multilayer Disc History: Innovation You Could See Through](https://tedium.co/2022/03/09/fluorescent-optical-disc-vaporware-history/)
+
+> Embrace skeptical journalists that know how to do their jobs.
+
+# [Congratulations, You’ve Been Platformed 📫 | Revue](https://midrange.tedium.co/issues/congratulations-you-ve-been-platformed-1078775?utm_campaign=Issue&utm_content=view_in_browser&utm_medium=email&utm_source=MidRange)
+
+> Sure, it’s about improving the reading experience, but let’s be straight here: It’s _really_ about closing off anyone else that didn’t buy into Substack’s specific vision of email newsletters.
+
+# [How Twitter plans to add its next 100 million users - The Verge](https://www.theverge.com/2022/3/10/22970043/twitter-product-leadership-interview)
+
+> the company has recently been investing in machine learning to surface tweets it thinks users will want to see.
+
+# [MacStories Weekly: Issue 309](https://club.macstories.net/posts/macstories-weekly-issue-309)
+
+> the Obsidian mobile app now supports Live Preview
+
+# [The Ladies Room - by Nancy Powaga - The Audacity.](https://audacity.substack.com/p/the-ladies-room?s=r)
+
+> What if the mainstream understanding of gender moved on from pink and blue to include numerous genders, each innate in that they depend on a person’s interpretation of one’s own soul, and not the appearance of one’s genitals?
+
+> Adherence to a rigid gender binary is ahistorical, unimaginative, and fragile
+
+> In America, objectification is the surest sign of acceptance.
+
+> I hope trans people will have the luxury of being basic.
+
+# [Apple iPhone 12 Pro Max Review | PCMag](https://www.pcmag.com/reviews/apple-iphone-12-pro-max)
+
+> a giant serving platter of a handset
+
+# [A Groundbreaking Treatment - COMO Magazine](https://comomag.com/2022/03/02/a-groundbreaking-treatment/)
+
+> In order to receive TMS, you must be 18 years or older and be diagnosed with major depressive disorder.
+
+# [Wi-Fi 6, explained: how fast it really is - The Verge](https://www.theverge.com/2019/2/21/18232026/wi-fi-6-speed-explained-router-wifi-how-does-work)
+
+> The short but incomplete answer: 9.6 Gbps. That’s up from 3.5 Gbps on Wi-Fi 5.
+
+# [iPhone 13 Pro Max vs iPhone 12 Pro Max vs iPhone SE (3rd generation) - Apple](https://www.apple.com/iphone/compare/?modelList=iphone13promax,iphone12promax,iphoneSE3rdgen#footnote-2)
+
+> Rated IP68 (maximum depth of 6 meters up to 30 minutes) under IEC standard 60529
+
+> 2778-by-1284-pixel resolution at 458 ppi
+
+# [iPad Apps with Extensive Keyboard Support](https://club.macstories.net/posts/ipad-apps-with-extensive-keyboard-support)
+
+> Things is, to the best of my knowledge, the app that birthed the recent trend of offering full navigation via a connected keyboard.
+
+> In the world of note-taking, it’s hard to find a third-party app with keyboard integration as strong as Agenda’s. I had to qualify “third-party app” because Apple’s own Notes app has surprisingly extensive keyboard support itself. But while Notes may get all the basics right, Agenda is a more complex app and thus it’s even more impressive how much of the app can be controlled via keyboard. Though the app can still revert to touch-only in popover menus, its primary shortcoming, outside of that you’ll find basic navigation via keyboard but also a rich set of shortcuts for doing even obscure things like adjusting line spacing or text size, moving notes before or after one another, hiding or revealing different side panels, and much more.
+
+# [Quirks, Caveats, and Gotchas In SQLite](https://www.sqlite.org/quirks.html)
+
+> The original implementation of SQLite sought to follow [Postel's Law](https://en.wikipedia.org/wiki/Robustness_principle) which states in part "Be liberal in what you accept". This used to be considered good design - that a system would accept dodgy inputs and try to do the best it could without complaining too much. But lately, people have come to realize that it is sometimes better to be strict in what you accept, so as to more easily find errors in the input.
+
+# [iOS and iPadOS 13: The MacStories Review - MacStories - Part 14](https://www.macstories.net/stories/ios-and-ipados-13-the-macstories-review/14/)
+
+> In iOS 13, Apple has delivered on both aspects of the Shortcuts experience: apps can eschew URL schemes (which Apple called “inherently insecure” at WWDC in discouraging new custom uses of them)
+
+# [What Is a Linux User? - Kev Quirk](https://kevq.uk/what-is-a-linux-user/)
+
+> the vast majority of Linux users really don’t care about any of this.
+> 
+> The majority have a job to do.
+
+# [Apple Updates iWork Apps for Mac and iOS With New Features - MacRumors](https://www.macrumors.com/2022/04/07/iwork-app-update-version-12/)
+
+> Shortcuts can be used to create and open documents.
+
+> Shortcuts can be used to create or open spreadsheets and add rows to a table
+
+# [Big Mail 2: Rethought. Reloaded. | The Not So Big Company](https://notsobig.co/blog/2022-04-07-big-mail-2/)
+
+> my strong opinions were loosely held.
+
+# [Elon Musk buys Twitter - by Casey Newton - Platformer](https://www.platformer.news/p/elon-musk-buys-twitter?s=r)
+
+> In the end, it was just business.
+
+# [Telegram Support Force](https://tsf.telegram.org/)
+
+> The Telegram Support Force needs patient, inquisitive people, who are no strangers to elegance, humor and style.
+
+# [Apple A14 - Wikipedia](https://en.m.wikipedia.org/wiki/Apple_A14)
+
+> A14 is manufactured by [TSMC](/wiki/TSMC "TSMC") on their first-generation [5 nm](/wiki/5_nanometer "5 nanometer") fabrication process, N5. This makes the A14 the first commercially available product to be manufactured on a [5 nm](/wiki/5_nm_process "5 nm process") [process node](/wiki/Semiconductor_device_fabrication "Semiconductor device fabrication").
+
+# [Telegram Bot API](https://core.telegram.org/bots/api#sendmessage)
+
+> disable\_notification Boolean Optional Sends the message [silently](https://telegram.org/blog/channels-2-0#silent-messages). Users will receive a notification with no sound.
+
+# [Twitter's meltdown May - by Casey Newton - Platformer](https://www.platformer.news/p/twitters-meltdown-may?s=r)
+
+> Kayvon Beykpour, the company’s head of consumer products, and Bruce Falck, its head of revenue products, were leaving the company.
+
+# [Wipr FAQ](https://giorgiocalderolla.com/wipr-faq.html#what-is-wipr-extra)
+
+> Please complain to Apple, maybe they’ll fix it someday!
+
+> ### What Is Wipr Extra?
+> 
+> Starting with version 1.26, Wipr will include a fourth Safari Extension named `Wipr Extra`. It provides blocking on the few sites where the Content Blocker API is not enough, such as YouTube.
+
+> The icon that will appear in Safari’s toolbar doesn’t do anything, so feel free to remove it if it bothers you.
+
+> in all of its incarnations. Wipr Extra uses the Safari Web Extensions API.
+
+> Wipr is ruthless.
+
+# [node.js - npm install error - invalid package.json - Stack Overflow](https://stackoverflow.com/questions/18743670/npm-install-error-invalid-package-json)
+
+> if you install your dependencies with `--save` npm flag you wont have to edit `package.json` manuall
+
+# [Storage problem! iPad Air 2 - Apple Community](https://discussions.apple.com/thread/252346413)
+
+> [![MichelPM](/assets/avatar/50e0356d07f3d429/8f2217542641b2ec1b315791396b3bebd461ab1defa72cf76d29d32ca7b36214)](/profile/MichelPM)
+> 
+> [MichelPM](/profile/MichelPM)
+> 
+> User level: Level 9
+> 
+> (74,657 points)
+> 
+> [Jan 29, 2021 6:12 PM in response to VoicuT In response to VoicuT](/thread/252346413?answerId=254496883022#254496883022)
+> 
+> Here's the thing.
+> 
+> You may not want to learn this, but this is the reality and how it is, nevertheless.
+> 
+> So, here it goes, for what it is worth to you.
+> 
+> Almost 6 years ago, Apple finally and quietly, with NO fanfare, did away with all 16 GBs iOS devices.
+> 
+> With iOS/iPadOS system software getting larger and larger, 16 GBs iOS devices were being choked with having very little internal, free data storage space to do very little with.
+> 
+>   
+> 
+> Today, in 2020/2021, Apple 32 GBs devices are now becoming the “new” 16 GBs iOS devices.
+> 
+>   
+> 
+> A 16 GBs storage iPad starts out, after initial drive formatting, at approx. 14.5 GBs of free, internal storage.
+> 
+> After the installation of iPadOS, at approx. 6 GBs, leaves 8.5 GBs of of free, internal data storage space.
+> 
+> iOS/iPadOS needs a minimum of 2-4 GBs of constant remaining storage, AT ALL TIMES to insure/ensure nominal, acceptable operation of all iOS/iPadOS functionalities.
+> 
+> This leaves a 16 GBs iPad with ONLY a practical, usable storage space of between 4.5 and 6.5 GBs **AND THAT IS IT!**
+> 
+>   
+> 
+> This is virtually NO internal data storage to do much of anything with that 16 GBs iPad!
+> 
+> Back in 2014, the iOS system software was NOT as large a file size, as it is today!
+> 
+> So, Apple, in 2014, were still offering iOS devices in 16, 32, 64 and 128 GBs internal storage sizes.
+> 
+>   
+> 
+> This is reason why Apple quietly, silently did away with all 16 GBs iOS device back sometime in 2016.
+> 
+>   
+> 
+> A 32 GBs storage iPad starts out with approx 30 GBs.,after initial internal flash drive formatting.
+> 
+> Minus approx. 6 GBs for iOS/iPadOS leaves 24 GBs.
+> 
+> Minus 2-4 GBs, for iOS/iPadOS system operational reserve, leaves approx. between 20-22 GBs of actual, usable data storage space.
+> 
+>   
+> 
+> This is 3-4 times the usable internal storage space of a 16 GBs iOS device, but CAN get also, get quickly swallowed up with data in a short period of time, if the data is not properly managed.
+> 
+>   
+> 
+> A 64 GBs storage iPad starts out with approx. 60 GBs.,after initial internal flash drive formatting.
+> 
+> Minus approx. 6 GBs for iOS/iPadOS leaves 54 GBs.
+> 
+> Minus 2-4 GBs, for iOS/iPadOS system operational reserve, leaves approx. between 50-52 GBs of actual, usable data storage space, which is a more more reasonable, usable and manageable amount of internal data storage space,
+> 
+> etc..
+> 
+>   
+> 
+> No matter what you do to try and gain some free storage on that over 6-year old, 16 GBs iPad, those efforts will be futile.
+> 
+> That iPad storage model will still have very little free data storage space left to do much of anything today in 2021.
+> 
+>   
+> 
+> Sorry, but this is that reality for your iPad model.
+> 
+> Today in 2021 and with iPadOS being 6 GBs, and somewhat over in file size, a 16 GBs iPad is virtually useless, now.
+> 
+>   
+> 
+> Sorry.
+> 
+>   
+> 
+>   
+> 
+> So Yes,
+> 
+> You really need to seriously consider a new iPad model OR a much, MUCH “newer” and less expensive, used iPad models, from better known, trusted Apple product/device retailers/resellers, with, at least, 64 GBs of internal data storage, as an absolute minimum now.
+> 
+>   
+> 
+>   
+> 
+> Sorry & Best of Luck to You!
+
+# [The Making of Colophon Cards – Colophon Cards](https://www.colophon.cards/)
+
+> My goal with Colophon Cards is to create a web-based note-taking app for bookmarking and reading websites, ebooks, and documents.
+
+# [6. Import, Export & Publish — SnippetsLab User Manual](https://www.renfei.org/snippets-lab/manual/mac/import-and-export.html)
+
+> Due to [GitHub restrictions](https://docs.github.com/en/rest/overview/resources-in-the-rest-api#rate-limiting), anonymous users can only send up to 60 requests per hour—this makes it impossible to import more than 60 gists within the time limit. Signing in with your GitHub account will extend this limit to 5,000 requests per hour.
+
+# [Bike: An Elegant Outliner For Mac-Focused Workflows - MacStories](https://www.macstories.net/reviews/bike-an-elegant-outliner-for-mac-focused-workflows/)
+
+> Bike reminds me of [Drafts](https://getdrafts.com) 1.0. As originally conceived, Drafts was a fast way to input text on the iPhone that was destined for another app. The focus was on speed and simplicity.
+
+# [iTextEditors - iPhone and iPad text/code editors and writing tools compared](https://brettterpstra.com/ios-text-editors/)
+
+> If you’re editing on an iOS Dropbox or iCloud-capable application, you can even preview iOS work on your Mac as the document syncs back to the cloud. It can also export PDFs, Rich Text and HTML with a variety of themes and the ability to customize with CSS.
+
+# [The Internet Origin Story You Know Is Wrong | WIRED](https://www.wired.com/story/internet-origin-story-bbs/)
+
+> Forgetting has high stakes.
+
+> People aren’t the problem. The problem is the platforms.
+
+# [quoid/userscripts: An open-source userscript manager for Safari](https://github.com/quoid/userscripts)
+
+> **What are the keyboard shortcuts?**
+> 
+> > Whilst using the included editor, clicking `⌘ + s` will save the file. While working the editor, clicking `⌘ + f` will bring up the search bar and `esc` will hide it.
+
+# [Positive Work Environment at W3C: Code of Ethics and Professional Conduct](https://www.w3.org/Consortium/cepc/#mistake)
+
+> Someone who has changed their name for any other reason
+
+# [Daring Fireball: Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax#p)
+
+> When you _do_ want to insert a `<br />` break tag using Markdown, you end a line with two or more spaces, then type return.
+
+# [Apple shipped me a 79-pound iPhone repair kit to fix a 1.1-ounce battery - The Verge](https://www.theverge.com/2022/5/21/23079058/apple-self-service-iphone-repair-kit-hands-on)
+
+> $69 for a new battery — the same price the Apple Store charges for a battery replacement, except here I get to do all the work and assume all the risk.
+
+# [The principles | ICO](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/principles/)
+
+> kept in a form which permits identification of data subjects for no longer than is necessary for the purposes for which the personal data are processed; personal data may be stored for longer periods insofar as the personal data will be processed solely for archiving purposes in the public interest, scientific or historical research purposes or statistical purposes subject to implementation of the appropriate technical and organisational measures required by the GDPR in order to safeguard the rights and freedoms of individuals (‘storage limitation’)
+
+# [URL schemes in Working Copy](https://workingcopyapp.com/url-schemes.html#universal-url-arg)
+
+> You can control what to show such that _mode=content_ shows file content tab or directory contents for directories and repository; _mode=changes_ shows the Changes-tab and is only valid for files, _mode=status_ shows the Status-tab for files or Status screen for directories and repositories while _mode=preview_ shows the Content-tab in preview mode for files supporting this. You can omit the _mode_ parameter to leave mode unchanged.
+> 
+> Jump to specific lines in the text file opened with the _line=123_ parameter and show messages with either _error=red%20%text_ or _message=blue%20text_ to inform the user of something related to the file. If you include _line=_ but no _path=_ the app uses the path of current file. This can be used with [shortcuts](https://www.icloud.com/shortcuts/43044ef544dd4e0db2886f6408fee047) activated through the share sheet that validate the current file.
+> 
+> Make sure all parameters are URL-coded and that space is percent- rather than plus-encoded.
+
+> Inside Working Copy you can create Universal Links that describe repositories or files, branches or commits inside repositories with the Share Sheet.
+> 
+> [
+> 
+> https://workingcopyapp.com/git/#repo=https://github.com/twbs/bootstrap&path=README.md
+> 
+> ](https://workingcopyapp.com/git/#repo=https://github.com/twbs/bootstrap&path=README.md)
+> 
+> Their primary purpose is to make it easy to jump to specific content in Working Copy, but they also serve a purpose as x-callback-url parameters. You can include a Universal Link in the _url_ parameter and all the inner parameters will be extracted and used making the following two commands equivalent:
+> 
+> working-copy://x-callback-url/read?url=https%3A%2F%2Fworkingcopyapp.com%2Fgit%2F%23repo%3Dhttps%3A%2F%2Fgithub.com%2Ftwbs%2Fbootstrap%26path%3DREADME.md
+> working-copy://x-callback-url/read?repo=https://github.com/twbs/bootstrap&path=README.md
+>         
+> 
+> This is useful when you start a Workflow from within Working Copy, as you can specify the file, directory or repository to act on and send this along as a single parameter.
+> 
+> Use [x-callback-url/read](#reading) with _type=url_ to get back the universal url of a file picked by the user.
+
+# [About](https://www.jaguarmoon.org/about)
+
+> Our existence is entirely virtual and our primary purpose is to teach Witchcraft in a non-threatening manner.
+
+# [The Almighty Gun | Rafia Zakaria](https://thebaffler.com/alienated/the-almighty-gun-zakaria)
+
+> The unfettered freedom to carry assault weapons, American society has deemed, is so necessary and so important that sacrificing ten, twenty, or thirty children a year is a good bargain.
+
+# [](https://berrima.eomail3.com/web-version?ep=1&lc=6014157d-c513-11ec-9258-0241b9615763&p=19374c03-e65f-11ec-9258-0241b9615763&pt=campaign&t=1654605817&s=ff1fb13f7ef596480135fdd1712599915153c9c6811c56d774baaf49ce7703a2)
+
+> while I have strong opinions on walled gardens such as Substack, I ultimately don’t want to push people away from something that’s working for them—rather, I just want to highlight, hey, you have options.
+
+# [React JS conference to return in November — LGBTQ not invited](https://thenextweb.com/news/react-js-conference-return-in-november-lgbtq-not-invited)
+
+> A Scottish man was [arrested in Dubai in 2017](https://www.independent.co.uk/news/world/middle-east/dubai-british-scottish-man-hip-tourist-jail-accidentally-bar-jamie-harron-stirling-latest-a7987701.html) after he accidentally placed his hand on another man’s hip in an attempt to avoid spilling his drink in a crowded bar.
+
+# [Keyboards - Inputs - Human Interface Guidelines - Design - Apple Developer](https://developer.apple.com/design/human-interface-guidelines/inputs/keyboards/)
+
+> No additional considerations for iOS, macOS, or tvOS.
+
+# [Spotify comes for audiobooks - The Verge](https://www.theverge.com/2022/6/9/23161536/spotify-audiobooks-amazon-audible-podcasts)
+
+> “And just as we’ve done in podcasting, expect us to play to win.”
+
+# [iPad Pro 2021 Review: Future on Standby - MacStories](https://www.macstories.net/stories/ipad-pro-2021-review/)
+
+> It should be noted that, with the M1 chip, Apple has for the first time started advertising how much RAM is included in the iPad Pro, with differences based on the amount of built-in storage. The 128 GB, 256 GB, and 512 GB iPad Pros get 8 GB of RAM, or 2 GB more than the 2020 iPad Pro; the higher-end 1 TB and 2 TB models get an astounding (for the platform) 16 GB of RAM.
+
+> **Using the old Magic Keyboard is totally fine.** There was a lot of confusion following the iPad Pro’s announcement last month as to whether the 2020 Magic Keyboard was going to be supported on the new iPad Pro model. It initially seemed like the expensive accessory was not going to be compatible with the new iPad Pro, then Apple [explained](https://9to5mac.com/2021/04/29/12-9-inch-ipad-pro-magic-keyboard-fit/) how the keyboard was going to work, but “may not fit precisely when closed”.
+
+> It feels like there’s a missing second half to this product’s story.
+
+# [How to Select a Word, Sentence, or Paragraph on iPhone & iPad with Gestures](https://osxdaily.com/2020/04/02/how-to-select-a-word-sentence-or-paragraph-on-iphone-ipad-with-gestures/)
+
+> if you want **to select the entire paragraph, tap any word within the paragraph four times in quick succession**. Once it’s highlighted, you’ll have access to cut, copy and paste tools located right above the selected portion.
+
+# [Heartbreak at Le Mans | Toyota Motor Corporation Official Global Website](https://global.toyota/en/detail/12476843)
+
+> We will be back
+
+> I cannot find the words. We at Toyota GAZOO Racing are "sore losers." We do not compete without knowing the feeling of loss. Having tasted the true bitterness of losing, we will return to the World Endurance Championship arena next year, and we will return to compete in the battle that is the 24 Hours of Le Mans. For our quest to build ever-better cars… For this, we will certainly come back to the roads of Le Mans. I would like to express my gratitude to all of the cars and drivers who fought alongside us on the track at Le Mans; particularly Porsche and Audi. We will be back next year, reborn, and ready to take you on with all of our might. Look out for the "sore losers," Toyota, on the track next year. The fight is not over!
+
+# [WWDC 2022, A Tangible Demonstration of Care - David Smith, Independent iOS Developer](https://www.david-smith.org/blog/2022/06/10/WWDC-2022/)
+
+> This building was created with the explicit purpose of providing an optimal space for Apple to help developers. It includes a variety of workshop, education and conference spaces. All of which have been carefully constructed to provide for highly effective, in-person interaction.
+
+# [Electronic Music Is in a Social Rut. TikTok Might Just Save It. · Feature ⟋ RA](https://ra.co/features/4013)
+
+> As a genre, electronic music has traditionally been very faceless as far as artists are concerned.
+
+# [iPad Keyboard Shortcuts | AppleVis](https://www.applevis.com/forum/ios-ipados/ipad-keyboard-shortcuts)
+
+> is there a more complete list of keyboard shortcuts for the iPad?
+
+> The list in the iPad user guide seems to be incomplete.
+
+# [Meet Me at the Roadside Shrine to Harry Styles's Vomit](https://www.gawker.com/culture/meet-me-at-the-shrine-to-harry-styless-vomit)
+
+> Tiffany avoids the default condescension to which fangirls are often subjected and takes their exploits seriously, teasing out the relationship of fandom to both individual identity and online community.
+
+# [Things 3.6 Reimagines External Keyboard Control on iPad - MacStories](https://www.macstories.net/reviews/things-3-6-reimagines-external-keyboard-control-on-ipad/)
+
+> Despite Apple’s [message](https://youtu.be/sQB2NjhJHvY) that the iPad Pro can be a viable PC replacement because, among other features, it natively supports a [dedicated external keyboard](https://www.apple.com/smart-keyboard/), its software still isn’t fully optimized for keyboard control. This isn’t surprising at all: iOS was designed with multitouch in mind; as long as the iPad shares a common foundation with the iPhone, it’ll always be first and foremost a touch computer. The iPad Pro line, however, is [nearing its third anniversary](https://www.macstories.net/stories/ipad-pro-review/), and its external keyboard integration still feels like an afterthought that’s hard to reconcile with the company’s marketing.
+
+# [Craft](https://club.macstories.net/posts/macstories-recommends)
+
+> If you work with text, and especially if you need to share written information, links, and images with others, Craft should be on your short list of apps to check out.
+
+# [700 Million Users and Telegram Premium](https://telegram.org/blog/700-million-and-premium)
+
+> **All** Telegram users can **download** these extra-large documents, regardless of whether they are subscribed to Telegram Premium.
+
+> By subscribing to Telegram Premium, users unlock **doubled limits**, **4 GB file uploads**, **faster downloads**, **exclusive stickers** and **reactions**, **improved chat management** – and a whole lot more.
+
+> Any user can upload large files and media, each up to 2 GB in size and enjoy unlimited storage in the Telegram Cloud for free. With Telegram Premium, subscribers will now be able to send **4 GB files** – enough space for 4 hours of 1080p video, or 18 days of high-quality audio.
+
+> **All** Telegram users can **download** these extra-large documents, regardless of whether they are subscribed to Telegram Premium.
+
+> With Premium, you can follow up to **1000 channels**, create up to **20 chat folders** with up to **200 chats** each, add a **fourth account** to any Telegram app, pin **10 chats** in the main list and save up to **10 favorite stickers**.
+
+> You can also write a **longer bio** and include a link in it. Similarly, Premium allows adding more characters to media captions. Finding the proper way to respond to any message will be easier with up to **400 favorite GIFs**. Lastly, Premium users can reserve up to **20 public t.me links**, making any group or channel you create stand out with a short and concise link.
