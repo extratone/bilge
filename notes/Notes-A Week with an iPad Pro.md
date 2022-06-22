@@ -11,6 +11,9 @@
 - Toilet Computer??
 - I could have sworn the duration of holding `⌘` to prompt the keyboard shortcuts guide used to be configurable on iPadOS... perhaps it was just a dream...
 - some handy BS I inevitably noodled into being: you could argue that this is as close as computers will ever get to Divine Form, given that the only physical media God ever delivered to man was in tablet format. - [Tweet](https://twitter.com/NeoYokel/status/1538013665806340096)
+- The incentivized use of Quick Notes should be... further incentivized by changes coming in iOS/iPadOS 16.
+- The globe key.
+- How I changed the cursor color/size?
 
 ## Social
 
@@ -26,6 +29,7 @@ this the closest I've ever come to a homescreen in this device's layout which I'
 
 - [iOS and iPadOS 16: The MacStories Overview](https://www.macstories.net/stories/ios-and-ipados-16-the-macstories-overview/)
 - [11 Tips for Working on the iPad](https://www.macstories.net/ios/11-tips-for-working-on-the-ipad/)
+
 ---
 
 ![Where I Started](https://i.snap.as/udlv0Ln9.png)
@@ -187,6 +191,14 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Microsoft Teams 1](https://i.snap.as/KnlUfUkk.png)
 - ![Microsoft Teams 2](https://i.snap.as/wqRGMgqh.png)
 - ![Microsoft Teams 3](https://i.snap.as/Htw91jfn.png)
+- ![Chrome Remote Desktop](https://i.snap.as/UhkxTcbS.png)
+- ![Super Agent for Safari-Consent Trail](https://i.snap.as/WgW6GMB8.png)
+- ![Pocket Casts](https://i.snap.as/fPHd5Iqp.png)
+- ![Slack](https://i.snap.as/6duLH0HO.png)
+- ![Stopwatch](https://i.snap.as/ap7FG1Xs.png)
+- ![LookUp](https://i.snap.as/YTtGU57p.png) 
+- ![UniChar](https://i.snap.as/bifofq3N.png)
+- ![GitHub](https://i.snap.as/LHiuGslp.png)
 
 ## App-Specific Notes
 
