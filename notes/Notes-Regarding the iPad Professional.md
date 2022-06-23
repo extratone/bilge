@@ -5,6 +5,20 @@
 - [Amanda Shared Apple Notes folder](https://www.icloud.com/notes/02b_42E6OkqYpzcVn2fV_gX_A#Amanda) (which doesn't really mean much, no.)
 - [Notes-A Week with an iPad Pro](https://chaff.writeas.com/notes-a-week-with-an-ipad-pro)
 - [MacTracker Page](mactracker://F82451D8-8D83-40C4-98FE-E73FD0F1A3E0)
+- [Amanda (iPad Pro) Geekbench](drafts://open?uuid=766CD93A-4DCA-4212-80E4-DCAD04C6D523)
+- [Regarding the iPad Professional](https://chaff.writeas.com/regarding-the-ipad-professional)
+
+---
+
+## Social
+
+- [Twitter Collection](https://twitter.com/NeoYokel/timelines/1534046796611211264)
+
+### Embed
+
+```
+<a class="twitter-timeline" href="https://twitter.com/NeoYokel/timelines/1534046796611211264?ref_src=twsrc%5Etfw">One Week of iPad Pro - Curated tweets by NeoYokel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```d
 
 ## General
 
@@ -17,6 +31,9 @@
 - How I changed the cursor color/size?
 - [The iPhone x Bluetooth Keyboard Issue is a Class Issue](https://whyp.it/t/the-iphone-x-bluetooth-keyboard-issue-is-a-class-issue-45467¸) - Whyp
 - [Odette MacTracker Page](mactracker://FD04AF70-0032-4062-8694-970EB9FF7634)
+- The Calculator app is just inexplicably missing from iPadOS? lol
+- ⇧ [Why the iPad has never shipped with a calculator app](https://www.cultofmac.com/421893/why-the-ipad-has-never-shipped-with-a-calculator-app/)
+- [iPad Pro esc key on the keyboard missing? - Apple Community](https://discussions.apple.com/thread/250052054)
 
 ## Social
 
@@ -46,6 +63,7 @@ this the closest I've ever come to a homescreen in this device's layout which I'
 
 - [iPad Pro Full Technical Specifications](https://www.apple.com/ipad-pro/specs/)
 - [Apple iPad Pro 12.9 (2021) - Full tablet specifications](https://www.gsmarena.com/apple_ipad_pro_12_9_(2021)-10864.php)
+- [Supporting desktop-class features in your iPad app | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/app_and_environment/supporting_desktop-class_features_in_your_ipad_app?language=objc)
 
 
 OVERVIEW
@@ -125,6 +143,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - [Brandon Butch's First Things](https://youtu.be/uLFvvP3LNuw)
 - [Shirtless Application Closing - TikTok](https://www.tiktok.com/t/ZTdE3wUPn)
 - [Mission Impossible Application Closing - TikTok](https://www.tiktok.com/t/ZTdETLtea)
+- [Exploring Windows XP Tablet PC's Experience Pack!](https://youtu.be/mV0yeC7haxM)
 
 ### Keyboard Access on the Homescreen
 
@@ -221,6 +240,15 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Bear](https://i.snap.as/IFEse7r4.png)
 - ![TextExpander](https://i.snap.as/pRuXQEsG.png)
 - ![Working Copy](https://i.snap.as/2mXt0Q4g.png)
+- ![Gladys-Split View](https://i.snap.as/5W4Zw3Go.png)
+- ![Gmail](https://i.snap.as/PsQxs38n.png)
+- ![Day One](https://i.snap.as/0pdzxP1X.png)
+- ![Night Sky 1](https://i.snap.as/W6w6aeAt.png)
+- ![Night Sky 2](https://i.snap.as/ug9AOq50.png)
+- ![NotePlan](https://i.snap.as/P18e9SS4.png)
+- ![Craft Dark](https://i.snap.as/GVSO3biH.png)
+- ![Craft Light](https://i.snap.as/3chSY37l.png)
+- ![Fig](https://i.snap.as/jNaDL4hO.png)
 
 ## App-Specific Notes
 
