@@ -1,5 +1,5 @@
 # MusicHarbor Artist List
-Updated '061612022-043532'
+Updated '061742022-083932'
 
 ((( O )))
 (G)I-DLE
@@ -219,6 +219,7 @@ Bill Evans
 Billie Eilish
 Billon
 Billy Joel
+Bing
 Bissett
 BKBROWN
 bl00dwave
@@ -418,6 +419,7 @@ Dan Terminus
 Dance With the Dead
 Danger
 Daniel Barenboim
+Danish String Quartet
 Danny Byrd
 Danny L Harle
 Dark Mother
