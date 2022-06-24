@@ -5,6 +5,8 @@ Updated `06222022-052149`
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
 - [WTF](https://davidblue.wtf/drafts/218F8FAA-C0B9-4B4F-B896-3089E005E86E.html)
 - [Telegraph](https://telegra.ph/WTF-Redirection-04-19)
+- [Simplenote Publish](http://simp.ly/publish/7G1cRt)
+- [Simplenote Local](simplenote://note/8a3aa299b90242f6984b8e11515fb1e7)
 
 ---
 
@@ -13,8 +15,8 @@ Updated `06222022-052149`
 - [**/auto**](https://davidblue.wtf/auto), Redirects to the “auto” tag on The Psalms.
 - [**/baseball**](https://davidblue.wtf/baseball), Redirects to MySpace Tom’s baseball Twitter List.
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
+- [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
-- [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
 - [**/drafts/keys**](https://davidblue.wtf/drafts/keys), Redirects to a list of my Drafts keyboard shortcuts on WTF.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to my shared iCloud Drive folder.
@@ -24,6 +26,7 @@ Updated `06222022-052149`
 - [**/eat**](https://davidblue.wtf/eat), Redirects to the Studio Eat Raindrop Collection.
 - [**/editorial**](https://davidblue.wtf/editorial), Redirects to my main page for Editorial for iOS.
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
+- [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
 - [**/gerogerigegege**](https://davidblue.wtf/gerogerigegege), Redirects to my main music Raindrop collection.
 - [**/github**](https://davidblue.wtf/github), Redirects to my GitHub profile.
@@ -31,9 +34,11 @@ Updated `06222022-052149`
 - [**/gt7spotify**](https://davidblue.wtf/gt7spotify), Redirects to the official Gran Turismo 7 playlist on Spotify.
 - [**/hire**](https://davidblue.wtf/hire), Redirects to my “General Consultation” Fantastical Openings page.
 - [**/honk**](https://davidblue.wtf/honk), Redirects to the YouTube playlist for the legacy Drywall car show, *Honk*.
+- [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
+- [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
-- [**/leverage**](https://davidblue.wtf/leverage), Redirects to a very funny internet video I posted on the Twitter website.
+- [**/leverage**](https://davidblue.wtf/leverage), Redirects to a very funny internet video I posted ~~on the Twitter website~~ (actually changed it to the same video posted on TikTok for now.)
 - [**/live**](https://davidblue.wtf/live), A dynamic redirect I use whenever I go live on YouTube/Twitter/Twitch, etc.
 - [**/lund**](https://davidblue.wtf/lund), Redirects to my page documenting a student pilot's (well-handled) emergency landing that resulted in a very hilarious photograph.
 - [**/mastodon**](https://davidblue.wtf/mastodon), Redirects to my profile on mastodon.social.
@@ -50,6 +55,7 @@ Updated `06222022-052149`
 - [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to my RoutineHub profile.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
+- [**/shortcutsguide**](https://davidblue.wtf/shortcutsguide), Redirects to the official Shortcuts User Guide published by Apple.
 - [**/skype**](https://davidblue.wtf/skype), Redirects to David Blue's personal *Skype* invite link. Yes, Skype, in 2022.
 - [**/snapchat**](https://davidblue.wtf/snapchat), Redirects to my Snapchat profile.
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
