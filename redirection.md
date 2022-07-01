@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07012022-112718`
+Updated `07012022-163303`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -31,6 +31,7 @@ Updated `07012022-112718`
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
 - [**/gerogerigegege**](https://davidblue.wtf/gerogerigegege), Redirects to my main music Raindrop collection.
 - [**/github**](https://davidblue.wtf/github), Redirects to my GitHub profile.
+- [**/googlegod**](https://davidblue.wtf/googlegod), Redirects to my post on Hacker News for "Google Is Not God of The Web."
 - [**/gt7**](https://davidblue.wtf/gt7), Redirects to a mirrored Apple Music I created of the official Gran Turismo 7 playlist on Spotify.
 - [**/gt7spotify**](https://davidblue.wtf/gt7spotify), Redirects to the official Gran Turismo 7 playlist on Spotify.
 - [**/hire**](https://davidblue.wtf/hire), Redirects to my “General Consultation” Fantastical Openings page.
