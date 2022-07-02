@@ -1,4 +1,5 @@
 # Notes-Regarding the iPad Professional
+
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 - [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
@@ -7,18 +8,20 @@
 - [MacTracker Page](mactracker://F82451D8-8D83-40C4-98FE-E73FD0F1A3E0)
 - [Amanda (iPad Pro) Geekbench](drafts://open?uuid=766CD93A-4DCA-4212-80E4-DCAD04C6D523)
 - [Regarding the iPad Professional](https://chaff.writeas.com/regarding-the-ipad-professional)
+- [iOS Settings URLs](drafts://open?uuid=18CC7D32-2D50-40A2-82FF-DCBBE1BC87AA)
 
 ---
 
 ## Social
 
 - [Twitter Collection](https://twitter.com/NeoYokel/timelines/1534046796611211264)
+- [Heat UP](https://twitter.com/NeoYokel/status/1543011466332327937)
 
 ### Embed
 
 ```
 <a class="twitter-timeline" href="https://twitter.com/NeoYokel/timelines/1534046796611211264?ref_src=twsrc%5Etfw">One Week of iPad Pro - Curated tweets by NeoYokel</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-```d
+```
 
 ## General
 
@@ -249,6 +252,8 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Craft Dark](https://i.snap.as/GVSO3biH.png)
 - ![Craft Light](https://i.snap.as/3chSY37l.png)
 - ![Fig](https://i.snap.as/jNaDL4hO.png)
+- ![Vectornator](https://i.snap.as/wDxg28hD.png)
+- ![Accessibility ⇨ Pointer Control](https://i.snap.as/BGHBtuIs.png)
 
 ## App-Specific Notes
 
