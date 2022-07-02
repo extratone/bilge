@@ -48,3 +48,9 @@ configuration/SF.zip
 social
 .vault-stats
 data/collections.json
+!/social/twitterfollowers.json
+
+!/social/twitterfollowers.json
+
+!/social/twitterfollowing.json
+
