@@ -1,0 +1,29 @@
+# Whyp Blossoms
+
+- [GitHub Issue](https://github.com/extratone/bilge/issues/75)
+- [Notes-Whyp Blossoms](drafts://open?uuid=E239CB27-D9C6-4026-BF19-60820235EEAE)
+- [WTF](https://davidblue.wtf/drafts/EEC136D5-08DC-465C-89A6-26EB96E4E640.html)
+
+---
+
+![Whyp Banner](https://i.snap.as/jHawyy3c.png)
+
+The digitization of music distribution has become one of the most important stories of our age. If you know me, you know it’s one I am particularly invested in and effected by. A huge fraction of the most important people in my life are electronic musicians who’s lives are inevitably, interminably, and desperately effected by the music industry’s continued osmosis with “Big Tech” in ways that are unacceptably undercovered in popular media. As a result, the digital giants’ power over the fundamental existence of these artists - who are more essential to our cultural health than I have been able to articulate - remains dangerously consequential to a degree  unseen, trivialized, or both by the tech bro gods holding the strings, regardless of their intent. This story is difficult to write about in an engaging way because of how innocuous-seeming and nuanced its crucial bullet points can seem, like - for instance - a relatively little-known audio streaming utility [deciding with no small amount of reluctance](https://clypblog.tumblr.com/post/636222649313394688/major-changes-coming-to-clyp) to eliminate its free account tier.
+
+https://imgur.com/a/UlYSvbv
+
+I have a list somewhere from my *Extratone* days of online services and projects I felt I had long taken for granted. Number one - as old readers [know all too well](https://bilge.world/bandcamp-streaming-music) - is Bandcamp. Number two is [Clyp](https://clyp.it/) - what *TechCrunch* described as “An Imgur For Sound” in the [single tech media story](https://techcrunch.com/2015/02/06/clyp-wants-to-be-an-imgur-for-sound/), ever, to mention it. Back in November, I received the first email from Clyp since verifying my account signup in Fall 2016: an official announcement - which has only 5 whole notes [on their official Tumblr blog](https://clypblog.tumblr.com/post/636222649313394688/major-changes-coming-to-clyp) - explaining that free uploads were dying on December 5th of this year.
+
+> Turns out hosting millions of audio files is pretty expensive. So we ended up adding premium features like lossless WAV streaming, custom playback widgets, unlimited uploads, and much more. While this helped some, it wasn’t quite enough… This was a very tough decision, but we realized it is absolutely necessary for the long-term survival of Clyp.  
+
+Let me be clear: I didn’t set out to write this to punish or even criticize Clyp for this decision. I suspect their relatively nonchalant language about the situation doesn’t reflect the whole emotional reality of their predicament. I can’t even imagine the financial implications of maintaining a streaming service as a very small company, though - quite topically, at the moment - [something like 30+](https://web-strategist.com/blog/2021/01/30/the-future-of-social-audio-startups-roadmap-business-models-and-a-forecast/) small team-sourced “social audio” projects have formed [a sort of frenzy](https://www.theinformation.com/articles/clubhouse-and-the-future-of-cult-driven-social-platforms?utm_source=ti_app) surrounding the Clubhouse thing which has continued to occupy much of both [tech](http://stratechery.com/2021/clubhouses-inevitability/) and [meta](https://www.niemanlab.org/2021/02/buzzy-social-audio-apps-like-clubhouse-tap-into-the-age-old-appeal-of-the-human-voice/) media’s attention through the Winter. We are fucking pigging out on bandwidth right now (lmao, 5G,) as we simultaneously only just begin to consider [the greater consequences of our gluttony](https://www.newyorker.com/culture/cultural-comment/the-hidden-costs-of-streaming-music).
+
+These stories are not my burden, but celebrating the little, unmentioned tools made of love by one and two-human teams and endlessly made obscure by the business-obsessed nature of the tech publications who once claimed to hunger for capital-i Innovation is basically my life purpose, right now. It is tempting to spend time mourning all the wonderful shit I’ve seen shared (and shared, myself) with Clyp, but that story is for another time. (I would [very much like to hear](https://twitter.com/NeoYokel/status/1367583167473983493) any thoughts you’d like to share about this. Don’t hesitate to [get in touch](mailto:davidblue@extratone.com).) I won’t speculate on their future, right now, but well… Good luck, boys.
+
+https://twitter.com/NeoYokel/status/1367583167473983493
+
+## Over It
+
+In case you're new to the story and wondering why one wouldn't just go to Bandcamp or Soundcloud to host an audio file in a shareable way, let's differentiate between *sharing audio* and *music distribution*. If you're not lucky enough to have any electronic music-producing friends, let me do my best to construct an image for you: its 2 in the morning and you've been fiddling with the same track in your Digital Audio Workstation since before lunchtime, but it's just *not right* - or at least, you're pretty sure something's off, but you're also growing keenly aware of the fact that your ear is beyond absolutely fucked from listening to the same set of sounds over and over again for 14 hours and you simply cannot proceed in the production process of this particular file without a break - a deep palette cleanse, and some sleep. *However*, you've also been excited about finally being able to show some friends this combination of noises you've manifested somewhat unintentionally and kept telling them all evening that you were almost finished until they gave up and went to bed. You've resolved, though, that *something* from you *will* be waiting in the group DM for them to wake up to.
+
+ttps://twitter.com/girlmeat5557/status/1368134014893166594
