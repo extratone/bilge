@@ -12,6 +12,11 @@
 - Collaboration?
 - Not easy to sync with a repository, unfortunately.
 
+## Alternatives
+
+- [Wojciech Kulik - Software Engineer](https://wojciechkulik.pl/)
+- [Snippety - Productivity App for macOS](https://snippety.app/)
+
 ## Links
 
 - [Simplenote Drafts Action](https://actions.getdrafts.com/a/1Ih)
