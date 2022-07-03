@@ -38,6 +38,7 @@ Updated `07022022-025109`
 - [**/honk**](https://davidblue.wtf/honk), Redirects to the YouTube playlist for the legacy Drywall car show, *Honk*.
 - [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
+- [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/leverage**](https://davidblue.wtf/leverage), Redirects to a very funny internet video I posted ~~on the Twitter website~~ (actually changed it to the same video posted on TikTok for now.)
@@ -73,6 +74,7 @@ Updated `07022022-025109`
 - [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
 - [**/vocabulary**](https://davidblue.wtf/vocabulary), Redirects internally to the WTF vocabulary index.
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
+- [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
 
 ---
 [WTF Redirection Update](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
