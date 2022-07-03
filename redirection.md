@@ -58,6 +58,7 @@ Updated `07022022-025109`
 - [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to my RoutineHub profile.
 - [**/services**](https://davidblue.wtf/services), Redirects to my "Services I Offer" page.
+- [**/sessionize**](https://davidblue.wtf/sessionize), Redirects to my speaker profile on Sessionize.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
 - [**/shortcutsguide**](https://davidblue.wtf/shortcutsguide), Redirects to the official Shortcuts User Guide published by Apple.
 - [**/skype**](https://davidblue.wtf/skype), Redirects to David Blue's personal *Skype* invite link. Yes, Skype, in 2022.
