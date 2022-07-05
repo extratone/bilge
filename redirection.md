@@ -26,6 +26,7 @@ Updated `07022022-025109`
 - [**/doubletap**](https://davidblue.wtf/doubletap), Redirects to the pod.links page for Accessible Media's *DoubleTap Canada*, which has quickly become my favorite technology podcast currently running.
 - [**/eat**](https://davidblue.wtf/eat), Redirects to the Studio Eat Raindrop Collection.
 - [**/editorial**](https://davidblue.wtf/editorial), Redirects to my main page for Editorial for iOS.
+- [**/escort**](https://davidblue.wtf/escort), Redirects to Pro-Choice Missouri's Clinic Escort signup form.
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
 - [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
@@ -53,6 +54,7 @@ Updated `07022022-025109`
 - [**/pixelfed**](https://davidblue.wtf/pixelfed), Redirects to my profile on pixelfed.social.
 - [**/pocketcasts**](https://davidblue.wtf/pocketcasts), Redirects to my most current Pocket Casts lists export.
 - [**/podcast**](https://davidblue.wtf/podcast), Redirects to *End Users* pods.link page.
+- [**/pungle**](https://davidblue.wtf/pungle), Redirects to the WTF vocab page for *pungle*.
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/redirection**](https://davidblue.wtf/redirection), Redirects to this document!
 - [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
