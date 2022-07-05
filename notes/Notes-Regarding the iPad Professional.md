@@ -38,6 +38,14 @@
 - ⇧ [Why the iPad has never shipped with a calculator app](https://www.cultofmac.com/421893/why-the-ipad-has-never-shipped-with-a-calculator-app/)
 - [iPad Pro esc key on the keyboard missing? - Apple Community](https://discussions.apple.com/thread/250052054)
 
+### The Little Fucking *Show Keyboard* Idiot
+
+![Show Keyboard Idiot-iMessage](https://i.snap.as/OL4CcbP3.png)
+
+- Covers a whole portion of the last bit of the compose window in iMessage.
+- COMPOSING IN TWEETBOT
+- [iMessage Tweet](https://twitter.com/NeoYokel/status/1544451365384200192)
+
 ## Social
 
 - [r/iPadPro - How can I be so good at iPhone home screens and yet *this* useless on the iPad?](https://reddit.com/r/iPadPro/comments/vbo0za/how_can_i_be_so_good_at_iphone_home_screens_and/)
@@ -45,6 +53,7 @@
 this the closest I've ever come to a homescreen in this device's layout which I'm at least *comfortable seeing every now and then*. idk why I"m so bad or why I even waste my time - the rational thing would be to just duplicate whatever homescreens I can find of Federico Viticci's lol.
 
 - [Files in Split View Revelations Tweet](https://twitter.com/NeoYokel/status/1536883851083104258)
+- [idiotic iMessage photo filters Tweet](https://twitter.com/NeoYokel/status/1544417244528140291)
 
 ---
 
@@ -254,6 +263,12 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Fig](https://i.snap.as/jNaDL4hO.png)
 - ![Vectornator](https://i.snap.as/wDxg28hD.png)
 - ![Accessibility ⇨ Pointer Control](https://i.snap.as/BGHBtuIs.png)
+- ![Homeland Vertical 1](https://i.snap.as/dM9mC650.png)
+- ![Homeland Vertical 2](https://i.snap.as/8QoeCFE6.png)
+- ![Homeland Vertical 3](https://i.snap.as/BlQJ2dot.png)
+- ![Homeland Vertical 4](https://i.snap.as/YQTMyTqi.png)
+
+---
 
 ## App-Specific Notes
 
