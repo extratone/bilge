@@ -273,3 +273,13 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 ## App-Specific Notes
 
 - Raindrop works *so* much better on iPad than on iPhone. ![Raindrop on iPad Pro](https://i.snap.as/5c7dKuMe.png)
+
+## Testing
+
+### Battery
+
+- ![Revival `07052022-180020`](https://i.snap.as/ucWBs6dh.png)
+- 10% - 1737
+- ![Check In - 1734](https://i.snap.as/YqSNQWu7.png)
+- ![Start - 1422](https://i.snap.as/6f1qvDM0.png)
+- I was mostly texting during this time...
