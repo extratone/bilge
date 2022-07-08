@@ -16,6 +16,7 @@
 
 - [Twitter Collection](https://twitter.com/NeoYokel/timelines/1534046796611211264)
 - [Heat UP](https://twitter.com/NeoYokel/status/1543011466332327937)
+- [Tethered Privilege Tweet](https://twitter.com/NeoYokel/status/1544807873166950400)
 
 ### Embed
 
@@ -45,6 +46,18 @@
 - Covers a whole portion of the last bit of the compose window in iMessage.
 - COMPOSING IN TWEETBOT
 - [iMessage Tweet](https://twitter.com/NeoYokel/status/1544451365384200192)
+
+### Regarding Multitasking
+
+- imo, Split View/Slideover/Whatever is really most useful only to address situations in which the OS would otherwise be killing background processes. stuff you would not have to worry about on a PC. like uploading files of any size anywhere, for instance.
+- [r/shortcuts - PopMenu - folders for iOS 15+ (launch apps, shortcuts, links, files, photos, contacts, notes)](https://reddit.com/r/shortcuts/comments/vuj5wg/popmenu_folders_for_ios_15_launch_apps_shortcuts/)
+
+
+## Hardware
+
+- You will definitely experience *weekly* (at least) connectivity issues with the keyboard/keypad, but probably less than a reasonable person would assume from such a fundamentally grafted-on prosthetic.
+
+---
 
 ## Social
 
@@ -267,6 +280,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Homeland Vertical 2](https://i.snap.as/8QoeCFE6.png)
 - ![Homeland Vertical 3](https://i.snap.as/BlQJ2dot.png)
 - ![Homeland Vertical 4](https://i.snap.as/YQTMyTqi.png)
+- ![Calling using iPhone](https://i.snap.as/8qt7bc4D.png)
 
 ---
 
