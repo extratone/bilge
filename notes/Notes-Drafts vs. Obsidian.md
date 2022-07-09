@@ -74,6 +74,7 @@
 ![MultipleItems](https://i.snap.as/6ahpaKTA.png)
 
 - [Greg Pierce on Kids and the Current World](drafts://open?uuid=26EEBBC6-1730-4C22-A3C4-99952335E1AA)
+- [r/ObsidianMD - I want to understand YOUR way of taking quick notes into Obsidian](https://reddit.com/r/ObsidianMD/comments/vt0w9s/i_want_to_understand_your_way_of_taking_quick/)
 
 
 ## Images
@@ -171,6 +172,7 @@
 - [My Obsidian Setup, Part 8: Simplifying Thought Capture with 'On My Mind'](https://club.macstories.net/posts/my-obsidian-setup-part-8-simplifying-thought-capture-with-on-my-mind)
 - [Why Remotion is a native macOS app (not Electron)](https://www.remotion.com/blog/why-remotion-is-a-native-macos-app-not-electron) - [Bear](bear://x-callback-url/open-note?id=AC563E25-58AD-4FD6-B617-73738F81C9BA-533-000000A11B965056)
 - [New draft from browser using hot key? - Drafts Forums](https://forums.getdrafts.com/t/new-draft-from-browser-using-hot-key/12715)
+- [Rebuilding Drafts](https://canion.blog/2022/05/16/rebuilding-drafts.html) - [Bear](bear://x-callback-url/open-note?id=1CC2F9E1-BC80-4855-A1CC-BE93A6C9FAE5-4467-000003D146AD9842)
 
 ## Obsidian Documentation
 
