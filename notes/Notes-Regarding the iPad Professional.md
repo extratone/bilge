@@ -9,6 +9,7 @@
 - [Amanda (iPad Pro) Geekbench](drafts://open?uuid=766CD93A-4DCA-4212-80E4-DCAD04C6D523)
 - [Regarding the iPad Professional](https://chaff.writeas.com/regarding-the-ipad-professional)
 - [iOS Settings URLs](drafts://open?uuid=18CC7D32-2D50-40A2-82FF-DCBBE1BC87AA)
+- [**Shared iCloud Photos Album**](https://www.icloud.com/sharedalbum/#B0eGgZLKuQ6jVn) - [Shortlink](https://bit.ly/bigboypad) - `https://bit.ly/bigboypad`
 
 ---
 
@@ -17,6 +18,7 @@
 - [Twitter Collection](https://twitter.com/NeoYokel/timelines/1534046796611211264)
 - [Heat UP](https://twitter.com/NeoYokel/status/1543011466332327937)
 - [Tethered Privilege Tweet](https://twitter.com/NeoYokel/status/1544807873166950400)
+- [Primary DAW Tweet](https://twitter.com/NeoYokel/status/1545555812285906947)
 
 ### Embed
 
@@ -51,6 +53,7 @@
 
 - imo, Split View/Slideover/Whatever is really most useful only to address situations in which the OS would otherwise be killing background processes. stuff you would not have to worry about on a PC. like uploading files of any size anywhere, for instance.
 - [r/shortcuts - PopMenu - folders for iOS 15+ (launch apps, shortcuts, links, files, photos, contacts, notes)](https://reddit.com/r/shortcuts/comments/vuj5wg/popmenu_folders_for_ios_15_launch_apps_shortcuts/)
+- [Shortcuts in Split View Tweet](https://twitter.com/NeoYokel/status/1545557672170242048)
 
 
 ## Hardware
@@ -169,6 +172,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - [Shirtless Application Closing - TikTok](https://www.tiktok.com/t/ZTdE3wUPn)
 - [Mission Impossible Application Closing - TikTok](https://www.tiktok.com/t/ZTdETLtea)
 - [Exploring Windows XP Tablet PC's Experience Pack!](https://youtu.be/mV0yeC7haxM)
+- [Trying to Take A Goddamned Photograph](https://user-images.githubusercontent.com/43663476/178081658-46702ef2-a622-4cfc-ad9d-70571d8858f1.MOV)
 
 ### Keyboard Access on the Homescreen
 
