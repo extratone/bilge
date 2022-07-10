@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07092022-205615`
+Updated `07102022-122223`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -25,6 +25,7 @@ Updated `07092022-205615`
 - [**/doof**](https://davidblue.wtf/doof), Redirects to the WTF vocabulary page for "doof."
 - [**/dosspride**](https://davidblue.wtf/dosspride), Redirects to the Apple Music page for Doss' Pride 2022 mix.
 - [**/doubletap**](https://davidblue.wtf/doubletap), Redirects to the pod.links page for Accessible Media's *DoubleTap Canada*, which has quickly become my favorite technology podcast currently running.
+- [**/draws**](https://davidblue.wtf/draws), Redirects to the main WTF page for the *David Blue Draws* Collection.
 - [**/eat**](https://davidblue.wtf/eat), Redirects to the Studio Eat Raindrop Collection.
 - [**/editorial**](https://davidblue.wtf/editorial), Redirects to my main page for Editorial for iOS.
 - [**/escort**](https://davidblue.wtf/escort), Redirects to Pro-Choice Missouri's Clinic Escort signup form.
