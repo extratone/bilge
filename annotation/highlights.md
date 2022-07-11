@@ -843,6 +843,8 @@
 
 > I promised myself I’d never let a desk set my work schedule or performance anymore.
 
+> thumb-typing, which I’m currently doing to write this very sentence
+
 # [My Obsidian Setup, Part 5: Appending Text and Webpage Links to Specific Sections of My 'Dashboard' Note](https://club.macstories.net/posts/shortcuts-essentials)
 
 > With a single click, Obsidian launches and displays my custom QuickAdd menu, ready for me to save an idea or reopen the Dashboard note.
@@ -1827,3 +1829,121 @@
 > With Premium, you can follow up to **1000 channels**, create up to **20 chat folders** with up to **200 chats** each, add a **fourth account** to any Telegram app, pin **10 chats** in the main list and save up to **10 favorite stickers**.
 
 > You can also write a **longer bio** and include a link in it. Similarly, Premium allows adding more characters to media captions. Finding the proper way to respond to any message will be easier with up to **400 favorite GIFs**. Lastly, Premium users can reserve up to **20 public t.me links**, making any group or channel you create stand out with a short and concise link.
+
+# [Brock Colyar on Pronouns, Identifying as Nonbinary](https://www.thecut.com/article/brock-colyar-pronouns-nonbinary-essay.html)
+
+> There is a certain satisfaction in making this confusion you seem to be having — _What box to put Brock in?_ — your problem, not mine. I’ve thought enough about it.
+
+> If you’re dizzy because you keep thinking, _But it’s just not grammatically correct!,_ please know that English speakers have been using _they_ as a singular pronoun on the written record since probably the ninth or tenth century.
+
+> “The sneaky magical thing about that word, _nonbinary,_ is that it doesn’t say what you are. It only says what you’re not.”
+
+# [Digits in the Digital — CJ Eller](https://blog.cjeller.site/digits-in-the-digital)
+
+> I wonder how software, like a piece of music, can help develop such mindfulness — digital tools reminding you of your digits.
+
+# [Advanced TextExpander Features on iPad and iPhone](https://textexpander.com/learn/using/introduction-to-textexpander-for-iphone-ipad/advanced-textexpander-features-on-ipad-and-iphone)
+
+> ### Bluetooth Keyboards
+> 
+> Several keyboard shortcuts are supported when used with an external hardware keyboard, like a Bluetooth keyboard, including the following.
+> 
+> This applies when using TextExpander in the TextExpander app, or any app with built-in TextExpander support. This will not work when using the TextExpander custom keyboard. Third-party keyboards do not have access to use Bluetooth hardware keyboards.
+> 
+> *   **⌘Return** : When expanding a fill-in snippet, this will complete the expansion the same as tapping **Done**.
+> *   **⌘N** : create a new snippet, Snippet Group, or note.
+> *   **⌘T** : switch between the Notes and Snippet Groups screens.
+> *   **⌘+, ⌘-** : Will increase or decrease the size of selected text.
+> *   **Arrow up, Arrow Down** : Navigate through a list of snippets or notes.
+> *   **Escape** : When expanding a fill-in snippet, this will cancel the expansion.
+
+# [Chris Harris Drives The New Porsche GT4 ePerformance - YouTube](https://www.youtube.com/watch?v=GiYT3ftvsYI&t=86s)
+
+> Thank God I have my car.
+
+# [AFI Explorer](https://afiexplorer.com/)
+
+> With over 3.5K downloads, the AFI Explorer app is tested and supported by a team of Active Duty personnel.
+
+# [Streaming Enters the DJ Booth and With It, Big Data · Feature ⟋ RA](https://ra.co/features/4020)
+
+> Will this new landscape be an open-source, peer-to-peer, community-first utopia that empowers artists, producers, DJs and labels with unprecedented knowledge and access, or a dystopian vision of a world where subscription tiers replace record collections and data is gatekept by platforms?
+
+# [Surveillance Humanism — The New Atlantis](https://www.thenewatlantis.com/publications/surveillance-humanism)
+
+> Babbage Principle
+
+# [Code-switching and what really happened to me at Netflix — Musings](https://musings.tychi.me/code-switching-and-what-really-happened-to-me-at-netflix)
+
+> English is spoken by 20% of the world. English is required by 100% of software.
+
+> the most universally accessible software will require the least amount of english.
+
+# [Cosplayers On Coke, Computers, Communication, Competition, And Lack Thereof](https://weedhitter.substack.com/p/ill-take-drugs-and-rock-but-no-sex-pls?utm_source=%2Fprofile%2F13945736-morgan-imago&utm_medium=reader2)
+
+> So why then is it that this specific brand of hedonism, so native to the internet, is getting harder and harder to find on mainstream social platforms?
+
+> So why then is it that this specific brand of hedonism, so native to the internet, is getting harder and harder to find on mainstream social platforms?
+
+# [The Day of Reformed Precocity](https://davidblue.wtf/drafts/E8306841-6ADD-440B-A034-27C545D4DE71.html)
+
+> It is not uncommon that January 27 people undergo maturity crises at the ages of twenty-eight, thirty-six or forty-two, when they are faced by stark choices as to whether they wish to fully accept adult responsibilities or not.
+
+> Working with children and young people, starting new projects and studying the process of learning and creativity can all help to sustain their youthful needs in a healthy fashion.
+
+# [Drafts Templates - Drafts User Guide](https://docs.getdrafts.com/docs/actions/templates/drafts-templates#custom-tags)
+
+> Custom Tags
+> -----------
+> 
+> In addition to the predefined tags always available, scripts in an action can create custom tags which become available to action steps run after the script in the same action. This is useful if a scripted action step processes text to create a value that then needs to be inserted in a later step that shares that text. The below example shows a simple script with creates a tag.
+> 
+>     let s = "My String Value";
+>     draft.setTemplateTag("mytag", s);
+>     // after running this script, templates later
+>     // in the action will have available a [[mytag]] tag.
+>     
+> 
+> Custom template tag values can also be created using the [Define Template Tag action step](/docs/actions/steps/utility.html#define-template-tag)
+
+# [Do We Really Want Cis Men to Speak Up About Abortion?](https://www.gawker.com/culture/roe-v-wade-supreme-court-ruling-abortion-rights-cis-men-allyship-activism-metrics-social-media)
+
+> no argument has dogged my timeline more in the last several weeks than the contention that men aren’t speaking up enough about abortion on social media — and that not doing so is not just a moral failing, but a fundamental abdication of their “place” within the pro-choice movement.
+
+> Because the internet played a significant role in increasing our cultural awareness of social justice issues, it has become, for many people, the default space where they expect activism to be performed
+
+# [MacStories Weekly: Issue 328](https://club.macstories.net/posts/macstories-weekly-issue-328)
+
+> Drafts is a fantastic app, but its automation tools and other power-user features are wasted the way I use it.
+
+# [Should I delete my period app? Your post-Roe privacy questions, answered. - Vox](https://www.vox.com/recode/2022/7/6/23196809/period-apps-roe-dobbs-data-privacy-abortion)
+
+> The short answer is: Yes.
+
+> The longer answer is that when it comes to online privacy and health privacy, deleting a period tracker app is like taking a teaspoon of water out of the ocean.
+
+# [Elon Musk and Shivon Zilis had twins, and the Twitter acquisition is in jeopardy - The Verge](https://www.theverge.com/2022/7/8/23200141/elon-musk-shivon-zilis-twins-twitter)
+
+> Musk’s daughter Vivian [changed her last name to Wilson](https://www.nbcnews.com/news/us-news/elon-musks-daughter-granted-name-gender-change-rcna34984) earlier this year, saying “I no longer live with or wish to be related to my biological father in any way, shape or form.”
+
+# [Should You Really Delete Your Period Tracking App? | Electronic Frontier Foundation](https://www.eff.org/deeplinks/2022/06/should-you-really-delete-your-period-tracking-app)
+
+> The most common [types of evidence](https://medium.com/@maggied/okay-fine-lets-talk-about-period-tracking-the-detailed-explainer-2f45112eebb4) [used in the resulting investigations](https://web.archive.org/web/20150131093509/http://www.wsbt.com/news/local/text-messages-search-history-allowed-into-evidence-in-feticide-trial/30961088) are text messages, emails, browser search histories, and other information that could straightforwardly point to someone’s intention to seek an abortion.
+
+# [Here are 51 new actions for Shortcuts in the iOS 16 betas (so far) – Matthew Cassinelli](https://www.matthewcassinelli.com/ios16-actions-shortcuts/?utm_campaign=What%27s%20New%20in%20Shortcuts&utm_medium=email&utm_source=Revue%20newsletter)
+
+> Get Name has Get Web Page Title parameter
+
+> “Find Notes” can now retrieve more than 26 notes at a time
+
+# [Magic Keyboard for iPad Pro 12.9‑inch (5th generation) - US English - White - Apple](https://www.apple.com/shop/product/MJQL3LL/A/magic-keyboard-for-ipad-pro-129%E2%80%91inch-5th-generation-us-english-white?fnode=3fa0482fd273cafe5cb83303b03431cbe5438449f2ddea1a477c90d07013f6e0758d826d23f51feef8e0409fb4db29747dd8c0eb377b4a94ef44cf760bdf92f6ee3b19b9223e7c5d268c7ed3d7954a8e3075b9c8d656906b368f74cf9e40a9412a6b4b1e4e09a8305ffbec312c1856d6)
+
+> The Magic Keyboard has a floating cantilever design, allowing you to attach iPad Pro magnetically and to smoothly adjust it to the perfect viewing angle for you.
+
+# [The Seven-Year Cycle – Guernica](https://www.guernicamag.com/the-seven-year-cycle/?utm_source=substack&utm_medium=email)
+
+> we always think we are further ahead than we actually are.
+
+# [Taking a Look at Feather Wiki — Open Source Musings](https://opensourcemusings.com/taking-a-look-at-feather-wiki)
+
+> TiddlyWiki is essentially a giant HTML file, with a lot of JavaScript and CSS mixed in to enable that file to function as a wiki.
