@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07102022-122223`
+Updated `07112022-150026`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -41,6 +41,7 @@ Updated `07102022-122223`
 - [**/hire**](https://davidblue.wtf/hire), Redirects to my “General Consultation” Fantastical Openings page.
 - [**/honk**](https://davidblue.wtf/honk), Redirects to the YouTube playlist for the legacy Drywall car show, *Honk*.
 - [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
+- [**/hypnagogic**](https://davidblue.wtf/hypnagogic), Redirects to the WTF vocabulary page for *hypnagogic*.
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
 - [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
