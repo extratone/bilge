@@ -1947,3 +1947,25 @@
 # [Taking a Look at Feather Wiki — Open Source Musings](https://opensourcemusings.com/taking-a-look-at-feather-wiki)
 
 > TiddlyWiki is essentially a giant HTML file, with a lot of JavaScript and CSS mixed in to enable that file to function as a wiki.
+
+# [A Month with iOS and iPadOS 16: A New iPad Era - MacStories](https://www.macstories.net/stories/ios-and-ipados-16-impressions/)
+
+> In building Stage Manager, Apple sought to combine the objective benefits of multiple app windows shown onscreen (you can do more things at once) with interaction boundaries designed to eschew the typical complexity of window overlap and resizing.
+
+> This feature can also be activated with Globe+F
+
+> you can keep pressing Globe+F to toggle back and forth between full-screen and the window’s previous size and placement.
+
+> **Minimize**: with this button, you can remove a window from the current workspace (without closing the app) by minimizing it back into the recent apps strip. I’m not sure if “minimizing” is the best word for this, but its associated ⌘M keyboard shortcut matches macOS, so I assume it makes sense for consistency’s sake.
+
+> **Close**: this is the big red button that outright closes a window (if an app has multiple windows open) or closes the window _and_ quits the app (if it has only one window open). This feature can also be activated with ⌘W (again, matching macOS) and it’s what you need to use if you want to remove a window from your current workspace without having it end up as a standalone window in the recent apps strip.
+
+> Just the other day, I was writing this article in [Obsidian](https://obsidian.md), checking some reference material in Notes, reading some questions about iPadOS from members in [our Discord](https://club.macstories.net/faq/discord), and viewing some of my liked tweets in the Twitter app about Stage Manager.
+
+> I can seamlessly switch between them by clicking them or cycling through them with a keyboard shortcut; I can even drag and drop files and other content between them.
+
+> Obsidian is a perfect example here: the app is far from feeling native on Apple’s platforms, but because its developers did the work to support Split View, Slide Over, and Auto Layout before, it works out of the box with Stage Manager when you resize its window. Make it very small, and Stage Manager will turn it into the iPhone version of the app, running on iPad alongside three more apps in a Stage Manager workspace.
+
+> Apple is bringing customizable toolbars to iPad apps
+
+> There is a new, system-wide find and replace menu for apps that deal with text searches.
