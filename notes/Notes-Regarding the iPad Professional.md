@@ -1,5 +1,6 @@
 # Notes-Regarding the iPad Professional
-Updated `07142022-173502`
+Updated `07142022-183233`
+
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 - [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
@@ -299,6 +300,11 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Homeland Vertical 4](https://i.snap.as/YQTMyTqi.png)
 - ![Calling using iPhone](https://i.snap.as/8qt7bc4D.png)
 - ![Tusker](https://i.snap.as/0IkXxl71.png)
+- ![Adobe Express](https://i.snap.as/tdAaqF9P.png)
+- ![Exif Metadata Editor](https://i.snap.as/Pkzw8Iye.png)
+- ![Spark-Scheduled Email](https://i.snap.as/2mwmd6J1.png)
+- ![Spark Reply](https://i.snap.as/51nikKpI.png)
+- ![WeeChat in Blink - Cobalt2 Theme](https://i.snap.as/914ETJ3P.png)
 
 ---
 
