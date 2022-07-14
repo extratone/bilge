@@ -1,5 +1,5 @@
 # Notes-Regarding the iPad Professional
-
+Updated `07142022-173502`
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 - [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
@@ -10,6 +10,7 @@
 - [Regarding the iPad Professional](https://chaff.writeas.com/regarding-the-ipad-professional)
 - [iOS Settings URLs](drafts://open?uuid=18CC7D32-2D50-40A2-82FF-DCBBE1BC87AA)
 - [**Shared iCloud Photos Album**](https://www.icloud.com/sharedalbum/#B0eGgZLKuQ6jVn) - [Shortlink](https://bit.ly/bigboypad) - `https://bit.ly/bigboypad`
+- [AmandaFrame Siri Shortcut](https://www.icloud.com/shortcuts/0147edbe4be044bb8ed34b4dd0a96216)
 
 ---
 
@@ -40,14 +41,19 @@
 - The Calculator app is just inexplicably missing from iPadOS? lol
 - ⇧ [Why the iPad has never shipped with a calculator app](https://www.cultofmac.com/421893/why-the-ipad-has-never-shipped-with-a-calculator-app/)
 - [iPad Pro esc key on the keyboard missing? - Apple Community](https://discussions.apple.com/thread/250052054)
+- Of *course* you could just SSH into a LAN-adjacent Mac via the gorgeous Blink Shell and work all day there. That's 100% rational behavior, right?
 
 ### The Little Fucking *Show Keyboard* Idiot
+
+(Apparently its official title/element is "Shortcuts bar")
 
 ![Show Keyboard Idiot-iMessage](https://i.snap.as/OL4CcbP3.png)
 
 - Covers a whole portion of the last bit of the compose window in iMessage.
 - COMPOSING IN TWEETBOT
 - [iMessage Tweet](https://twitter.com/NeoYokel/status/1544451365384200192)
+
+![APPARENTLY DISABLED IN GENERAL ⇨ KEYBOARDS ⇨ "Shorcuts" Toggle](https://i.snap.as/LsbfvtJI.png)
 
 ### Regarding Multitasking
 
@@ -78,6 +84,7 @@ this the closest I've ever come to a homescreen in this device's layout which I'
 - [iOS and iPadOS 16: The MacStories Overview](https://www.macstories.net/stories/ios-and-ipados-16-the-macstories-overview/)
 - [11 Tips for Working on the iPad](https://www.macstories.net/ios/11-tips-for-working-on-the-ipad/)
 - [iPad Pro 2021 Review](https://www.macstories.net/stories/ipad-pro-2021-review/) | *MacStories* [Bear](bear://x-callback-url/open-note?id=ACA9A2BB-7866-46C2-B22D-566015E9F476-4467-000003D32DF54119)
+- [A Month with iOS and iPadOS 16: A New iPad Era](https://www.macstories.net/stories/ios-and-ipados-16-impressions/)
 
 ---
 
@@ -182,6 +189,12 @@ Face ID	Enabled by TrueDepth camera for facial recognition
   <source src="https://user-images.githubusercontent.com/43663476/174433233-bcf5ec8d-a56b-4b59-bdd2-a31d7e4903b8.MOV">
 </video>
 
+### ITUNES FOR WINDOWS 2022
+
+- [Tweet](https://twitter.com/NeoYokel/status/1547653105101070338)
+- [Mastodon](https://mastodon.social/@DavidBlue/108647176155735300)
+- [Telegram](https://t.me/extratone/12235)
+
 ## Audio
 
 - [Federico's 2021 iPad Pro Review: Step into the Capture Zone](https://appstories.net/episodes/219)
@@ -285,6 +298,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Homeland Vertical 3](https://i.snap.as/BlQJ2dot.png)
 - ![Homeland Vertical 4](https://i.snap.as/YQTMyTqi.png)
 - ![Calling using iPhone](https://i.snap.as/8qt7bc4D.png)
+- ![Tusker](https://i.snap.as/0IkXxl71.png)
 
 ---
 
