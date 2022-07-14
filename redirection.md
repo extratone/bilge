@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07142022-113454`
+Updated `07142022-170602`
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -50,6 +50,7 @@ Updated `07142022-113454`
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
 - [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
+- [**/juke**](https://davidblue.wtf/juke), Redirects to the fifth episode of my old car show, *Honk*, regarding the Nissan Juke NISMO.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
 - [**/legacyredirects**](https://davidblue.wtf/legacyredirects), Redirects to an archive of the original *Extranet Redirection* document - the inspiration for this thing!
@@ -94,7 +95,9 @@ Updated `07142022-113454`
 - [**/userguide**](https://davidblue.wtf/userguide), Redirects to Apple's official "iPhone User Guide" in the Apple Books store.
 - [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
 - [**/vocabulary**](https://davidblue.wtf/vocabulary), Redirects internally to the WTF vocabulary index.
+- [**/vr**](https://davidblue.wtf/vr), Redirects to "Virtual Reality Virginity, Lost" on *The Psalms*.
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
+- [**/wikipedia**](https://davidblue.wtf/wikipedia), Redirects to my personal user page on Wikipedia.
 - [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
 
 ---
