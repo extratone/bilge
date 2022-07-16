@@ -1,5 +1,6 @@
 # WTF Redirection
-Updated `07142022-184143`
+Updated `07162022-135752`
+
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -21,8 +22,10 @@ Updated `07142022-184143`
 - [**/blessed**](https://davidblue.wtf/blessed), Redirects to my Blessed Web Utilities Raindrop collection.
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
+- [**/draftsconfig**](https://davidblue.wtf/draftsconfig), Redirects to the main WTF page for my Drafts Configuration shit.
 - [**/draftsdrop**](https://davidblue.wtf/draftsdrop), Redirects to my Drafts-specific Raindrop collection.
 - [**/drafts/keys**](https://davidblue.wtf/drafts/keys), Redirects to a list of my Drafts keyboard shortcuts on WTF.
+- [**/dropthings**](https://davidblue.wtf/dropthings), Redirects to my Things-specific Raindrop collection.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to my shared iCloud Drive folder.
 - [**/documentation**](https://davidblue.wtf/documentation), Redirects to my Documentation Raindrop collection.
@@ -37,6 +40,7 @@ Updated `07142022-184143`
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
 - [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
+- [**/furryblimp**](https://davidblue.wtf/furryblimp), Redirects to the WTF documentation page for the *He Makes Witch House in His Furry Blimp* *Drycast* Excerpt.
 - [**/gerogerigegege**](https://davidblue.wtf/gerogerigegege), Redirects to my main music Raindrop collection.
 - [**/github**](https://davidblue.wtf/github), Redirects to my GitHub profile.
 - [**/globe**](https://davidblue.wtf/globe), Redirects to my collected documentation page on WTF for iPad's Globe Keyboard Shortcuts.
@@ -58,6 +62,7 @@ Updated `07142022-184143`
 - [**/leverage**](https://davidblue.wtf/leverage), Redirects to a very funny internet video I posted ~~on the Twitter website~~ (actually changed it to the same video posted on TikTok for now.)
 - [**/live**](https://davidblue.wtf/live), A dynamic redirect I use whenever I go live on YouTube/Twitter/Twitch, etc.
 - [**/lund**](https://davidblue.wtf/lund), Redirects to my page documenting a student pilot's (well-handled) emergency landing that resulted in a very hilarious photograph.
+- [**/mac6k**](https://davidblue.wtf/mac6k), Redirects to my mirror of *512 Pixels*' "Every Default macOS Wallpaper – in Glorious 6K Resolution."
 - [**/magazines**](https://davidblue.wtf/magazines), Redirects to my Magazines Raindrop collection.
 - [**/mastodon**](https://davidblue.wtf/mastodon), Redirects to my profile on mastodon.social.
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
