@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07162022-135752`
+Updated `07162022-225314`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
@@ -84,6 +84,7 @@ Updated `07162022-135752`
 - [**/services**](https://davidblue.wtf/services), Redirects to my "Services I Offer" page.
 - [**/sessionize**](https://davidblue.wtf/sessionize), Redirects to my speaker profile on Sessionize.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
+- [**/scud**](https://davidblue.wtf/scud), Redirects to the WTF vocabulary page for "scud."
 - [**/shortcutsdrop**](https://davidblue.wtf/shortcutsdrop), Redirects to my Siri Shortcuts Raindrop collection.
 - [**/shortcutsguide**](https://davidblue.wtf/shortcutsguide), Redirects to the official Shortcuts User Guide published by Apple.
 - [**/skype**](https://davidblue.wtf/skype), Redirects to David Blue's personal *Skype* invite link. Yes, Skype, in 2022.
