@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07172022-045829`
+Updated `07172022-144132`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
@@ -12,6 +12,7 @@ Updated `07172022-045829`
 ---
 
 - [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my iPad Professional Shared iCloud Photos Album.
+- [**/applenotes**](https://davidblue.wtf/applenotes), Redirects to an index file of all my Apple Notes.
 - [**/artists**](https://davidblue.wtf/artists), Redirects to my MusicHarbor artists list.
 - [**/astrology**](https://davidblue.wtf/astrology), Redirects to "The Day of Reformed Precocity."
 - [**/auto**](https://davidblue.wtf/auto), Redirects to the “auto” tag on The Psalms.
