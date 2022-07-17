@@ -1,5 +1,5 @@
 # Notes-Regarding the iPad Professional
-Updated `07142022-183233`
+Updated `07152022-065934`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
@@ -305,6 +305,9 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Spark-Scheduled Email](https://i.snap.as/2mwmd6J1.png)
 - ![Spark Reply](https://i.snap.as/51nikKpI.png)
 - ![WeeChat in Blink - Cobalt2 Theme](https://i.snap.as/914ETJ3P.png)
+- ![The new macOS Ventura Wallpaper (Light)](https://i.snap.as/puWp3Z8s.png)
+- ![The new macOS Ventura Wallpaper (Dark)](https://i.snap.as/CU23BAyn.png)
+- ![Airmail Dark](https://i.snap.as/en3AH6R2.png)
 
 ---
 
