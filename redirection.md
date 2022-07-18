@@ -2,6 +2,7 @@
 Updated `07182022-084832`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
+- [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
 - [WTF](https://davidblue.wtf/drafts/218F8FAA-C0B9-4B4F-B896-3089E005E86E.html)
