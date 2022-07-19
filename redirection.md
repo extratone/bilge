@@ -1,8 +1,9 @@
 # WTF Redirection
-Updated `07182022-084832`
+Updated `07192022-073913`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
+- [WTF Repo File](https://github.com/extratone/wtf/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
 - [WTF](https://davidblue.wtf/drafts/218F8FAA-C0B9-4B4F-B896-3089E005E86E.html)
@@ -12,7 +13,10 @@ Updated `07182022-084832`
 - [Things](things:///show?id=7XT2wYEW2DqerFBER35zvC)
 
 ---
+<script src="https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5.js"></script>
+---
 
+- [**/~**](https://davidblue.wtf/~), Redirects to the plain HTML version of my Tilde.Town directory.
 - [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my iPad Professional Shared iCloud Photos Album.
 - [**/applenotes**](https://davidblue.wtf/applenotes), Redirects to an index file of all my Apple Notes.
 - [**/artists**](https://davidblue.wtf/artists), Redirects to my MusicHarbor artists list.
@@ -30,7 +34,7 @@ Updated `07182022-084832`
 - [**/drafts/keys**](https://davidblue.wtf/drafts/keys), Redirects to a list of my Drafts keyboard shortcuts on WTF.
 - [**/dropthings**](https://davidblue.wtf/dropthings), Redirects to my Things-specific Raindrop collection.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
-- [**/distributed**](https://davidblue.wtf/distributed), Redirects to my shared iCloud Drive folder.
+- [**/distributed**](https://davidblue.wtf/distributed), Redirects to a WTF index for my Distributed iCloud Drive folder.
 - [**/documentation**](https://davidblue.wtf/documentation), Redirects to my Documentation Raindrop collection.
 - [**/doof**](https://davidblue.wtf/doof), Redirects to the WTF vocabulary page for "doof."
 - [**/dosspride**](https://davidblue.wtf/dosspride), Redirects to the Apple Music page for Doss' Pride 2022 mix.
@@ -56,6 +60,7 @@ Updated `07182022-084832`
 - [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
 - [**/hypnagogic**](https://davidblue.wtf/hypnagogic), Redirects to the WTF vocabulary page for *hypnagogic*.
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
+- [**/itch**](https://davidblue.wtf/itch), Redirects to the page I have on itch.io for no justifiable reason.
 - [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
 - [**/juke**](https://davidblue.wtf/juke), Redirects to the fifth episode of my old car show, *Honk*, regarding the Nissan Juke NISMO.
