@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07192022-073913`
+Updated `07202022-130948`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
@@ -17,7 +17,7 @@ Updated `07192022-073913`
 ---
 
 - [**/~**](https://davidblue.wtf/~), Redirects to the plain HTML version of my Tilde.Town directory.
-- [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my iPad Professional Shared iCloud Photos Album.
+- [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/applenotes**](https://davidblue.wtf/applenotes), Redirects to an index file of all my Apple Notes.
 - [**/artists**](https://davidblue.wtf/artists), Redirects to my MusicHarbor artists list.
 - [**/astrology**](https://davidblue.wtf/astrology), Redirects to "The Day of Reformed Precocity."
@@ -25,6 +25,7 @@ Updated `07192022-073913`
 - [**/autocompletes**](https://davidblue.wtf/autocompletes), Redirects to the reference page for my Drafts Autocompletes.
 - [**/baseball**](https://davidblue.wtf/baseball), Redirects to MySpace Tom’s baseball Twitter List.
 - [**/beams**](https://davidblue.wtf/beams), Temporarily redirects to Issue #248 on *The Psalms*' GitHub Repository until I finally write my post about Beams.
+- [**/bigboy**](https://davidblue.wtf/bigboy), Redirects to my *Big Boy, Big Phone* shared iCloud Photos album.
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
 - [**/blessed**](https://davidblue.wtf/blessed), Redirects to my Blessed Web Utilities Raindrop collection.
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
@@ -84,6 +85,8 @@ Updated `07192022-073913`
 - [**/pixelfed**](https://davidblue.wtf/pixelfed), Redirects to my profile on pixelfed.social.
 - [**/pocketcasts**](https://davidblue.wtf/pocketcasts), Redirects to my most current Pocket Casts lists export.
 - [**/podcast**](https://davidblue.wtf/podcast), Redirects to *End Users* pods.link page.
+- [**/prairiehome**](https://davidblue.wtf/prairiehome), Redirects to a Google Photos album filled with a handful of very mediocre photographs I captured at a particularly return-to-origin Nearby Evening I had years ago.
+- [**/pro**](https://davidblue.wtf/pro), *Also* redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/pungle**](https://davidblue.wtf/pungle), Redirects to the WTF vocabulary page for *pungle*.
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/reading**](https://davidblue.wtf/reading), Redirects to my Reading List Raindrop collection.
