@@ -1,5 +1,5 @@
 # Notes-Regarding the iPad Professional
-Updated `07152022-065934`
+Updated `07222022-024731`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
@@ -7,11 +7,13 @@ Updated `07152022-065934`
 - [Amanda Shared Apple Notes folder](https://www.icloud.com/notes/02b_42E6OkqYpzcVn2fV_gX_A#Amanda) (which doesn't really mean much, no.)
 - [Notes-A Week with an iPad Pro](https://chaff.writeas.com/notes-a-week-with-an-ipad-pro)
 - [MacTracker Page](mactracker://F82451D8-8D83-40C4-98FE-E73FD0F1A3E0)
+- [Screen Sizes](https://www.screensizes.app/?model=ipad-pro-12-9in-5)
 - [Amanda (iPad Pro) Geekbench](drafts://open?uuid=766CD93A-4DCA-4212-80E4-DCAD04C6D523)
 - [Regarding the iPad Professional](https://chaff.writeas.com/regarding-the-ipad-professional)
 - [iOS Settings URLs](drafts://open?uuid=18CC7D32-2D50-40A2-82FF-DCBBE1BC87AA)
 - [**Shared iCloud Photos Album**](https://www.icloud.com/sharedalbum/#B0eGgZLKuQ6jVn) - [Shortlink](https://bit.ly/bigboypad) - `https://bit.ly/bigboypad`
 - [AmandaFrame Siri Shortcut](https://www.icloud.com/shortcuts/0147edbe4be044bb8ed34b4dd0a96216)
+- [AmandaFrames07172022-033924](https://www.icloud.com/iclouddrive/07fvXD08j9cz4QOLfcEX2bNGg#AmandaFrames07172022-033924)
 
 ---
 
@@ -21,6 +23,10 @@ Updated `07152022-065934`
 - [Heat UP](https://twitter.com/NeoYokel/status/1543011466332327937)
 - [Tethered Privilege Tweet](https://twitter.com/NeoYokel/status/1544807873166950400)
 - [Primary DAW Tweet](https://twitter.com/NeoYokel/status/1545555812285906947)
+
+has anyone on the #iOS16 #iPadOS beta found a solution to the confirmation dialog interrupting EVERY SINGLE interaction with the system clipboard?
+
+please. it is fucking killing me.
 
 ### Embed
 
@@ -66,6 +72,8 @@ Updated `07152022-065934`
 ## Hardware
 
 - You will definitely experience *weekly* (at least) connectivity issues with the keyboard/keypad, but probably less than a reasonable person would assume from such a fundamentally grafted-on prosthetic.
+- The absolute necessity of the `⌘W` Close Window command.
+- [Apple's Fucking iPad Keyboards Page](https://www.apple.com/ipad-keyboards/)
 
 ---
 
@@ -196,6 +204,12 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - [Mastodon](https://mastodon.social/@DavidBlue/108647176155735300)
 - [Telegram](https://t.me/extratone/12235)
 
+### FUCKING UNCOPYABLE TEXT
+
+- [Tweet](https://twitter.com/NeoYokel/status/1549433825658372096)
+
+---
+
 ## Audio
 
 - [Federico's 2021 iPad Pro Review: Step into the Capture Zone](https://appstories.net/episodes/219)
@@ -308,6 +322,8 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![The new macOS Ventura Wallpaper (Light)](https://i.snap.as/puWp3Z8s.png)
 - ![The new macOS Ventura Wallpaper (Dark)](https://i.snap.as/CU23BAyn.png)
 - ![Airmail Dark](https://i.snap.as/en3AH6R2.png)
+- ![Working Copy cloning FFMPEG Locally](https://i.snap.as/rQm5lZQS.png)
+- ![Apple Podcasts Stations](https://i.snap.as/Pvcwm0P9.png)
 
 ---
 
@@ -316,6 +332,15 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - Raindrop works *so* much better on iPad than on iPhone. ![Raindrop on iPad Pro](https://i.snap.as/5c7dKuMe.png)
 
 ## Testing
+
+### Pages
+
+![Shared Pages document as seen in Google Chrome for iPadOS](https://i.snap.as/aBd64ciV.png)
+
+- [Example shared document](https://www.icloud.com/pages/061usudpzpUibj83wwNbcR4ng)
+- [Native Audio Embedding Video-Telegram](https://t.me/extratone/12358)
+
+![Embedding audio natively in Pages on iPadOS](https://i.snap.as/u04Je0tz.png)
 
 ### Battery
 
