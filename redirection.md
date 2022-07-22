@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07212022-130801`
+Updated `07222022-105212`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
@@ -79,7 +79,8 @@ Updated `07212022-130801`
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
 - [**/meme**](https://davidblue.wtf/meme), Redirects to the WTF vocabulary page for *meme*.
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
-- [**/neopress**](https://davidblue.wtf/neopress), Redirects to my (updated) index of [the NeoCities Press page](https://neocities.org/press). 
+- [**/neopress**](https://davidblue.wtf/neopress), Redirects to my (updated) index of [the NeoCities Press page](https://neocities.org/press).
+- [**/netflix**](https://davidblue.wtf/netflix), Redirects to a record of David Blue's Netflix Activity in full (and a bit of a guide on how to retrieve yours.)
 - [**/obsidian**](https://davidblue.wtf/obsidian), Redirects to my Obsidian-specific Raindrop collection.
 - [**/pain**](https://davidblue.wtf/pain), Redirects to Frankie Muniz's iconic Tweet.
 - [**/panicurine**](https://davidblue.wtf/panicurine), Redirects to the *Colornames* web page for *Panic Urine* (#f7ff85.)
@@ -98,6 +99,7 @@ Updated `07212022-130801`
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to my RoutineHub profile.
 - [**/services**](https://davidblue.wtf/services), Redirects to my "Services I Offer" page.
 - [**/sessionize**](https://davidblue.wtf/sessionize), Redirects to my speaker profile on Sessionize.
+- [**/screw**](https://davidblue.wtf/screw), Redirects to the WTF documentation for my DJ Screw Discography Raindrop Collection - an Index of the DJ Screw Discography Collection on Archive.org.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
 - [**/scud**](https://davidblue.wtf/scud), Redirects to the WTF vocabulary page for "scud."
 - [**/shortcutsdrop**](https://davidblue.wtf/shortcutsdrop), Redirects to my Siri Shortcuts Raindrop collection.
