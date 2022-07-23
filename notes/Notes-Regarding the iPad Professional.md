@@ -14,7 +14,8 @@ Updated `07222022-024731`
 - [**Shared iCloud Photos Album**](https://www.icloud.com/sharedalbum/#B0eGgZLKuQ6jVn) - [Shortlink](https://bit.ly/bigboypad) - `https://bit.ly/bigboypad`
 - [AmandaFrame Siri Shortcut](https://www.icloud.com/shortcuts/0147edbe4be044bb8ed34b4dd0a96216)
 - [AmandaFrames07172022-033924](https://www.icloud.com/iclouddrive/07fvXD08j9cz4QOLfcEX2bNGg#AmandaFrames07172022-033924)
-
+- [Notes-Things](things:///show?id=LYqPEsMgcjQDoeuVb7RhXR)
+- [Things](things:///show?id=27C4KCjG9eJWJuA3SsHZtr)
 ---
 
 ## Social
@@ -23,10 +24,12 @@ Updated `07222022-024731`
 - [Heat UP](https://twitter.com/NeoYokel/status/1543011466332327937)
 - [Tethered Privilege Tweet](https://twitter.com/NeoYokel/status/1544807873166950400)
 - [Primary DAW Tweet](https://twitter.com/NeoYokel/status/1545555812285906947)
+- [Sharesheet Disappearance](https://twitter.com/NeoYokel/status/1550585897246232585)
+- [First Springboard Crash](https://twitter.com/NeoYokel/status/1550841095453659136)
 
 has anyone on the #iOS16 #iPadOS beta found a solution to the confirmation dialog interrupting EVERY SINGLE interaction with the system clipboard?
-
 please. it is fucking killing me.
+-[Tweet](https://twitter.com/neoyokel/status/1550302828056510475?s=21&t=9t7A138syWiZtvJeqJojdw)
 
 ### Embed
 
@@ -49,6 +52,7 @@ please. it is fucking killing me.
 - ⇧ [Why the iPad has never shipped with a calculator app](https://www.cultofmac.com/421893/why-the-ipad-has-never-shipped-with-a-calculator-app/)
 - [iPad Pro esc key on the keyboard missing? - Apple Community](https://discussions.apple.com/thread/250052054)
 - Of *course* you could just SSH into a LAN-adjacent Mac via the gorgeous Blink Shell and work all day there. That's 100% rational behavior, right?
+- Not being able to use Google Earth in the browser... no matter what lol.
 
 ### The Little Fucking *Show Keyboard* Idiot
 
@@ -324,6 +328,8 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Airmail Dark](https://i.snap.as/en3AH6R2.png)
 - ![Working Copy cloning FFMPEG Locally](https://i.snap.as/rQm5lZQS.png)
 - ![Apple Podcasts Stations](https://i.snap.as/Pvcwm0P9.png)
+- ![Springboard Crash 1](https://i.snap.as/Sy4IA7xe.png)
+- ![Springboard Crash 2](https://i.snap.as/p4XrwFBk.png)
 
 ---
 
