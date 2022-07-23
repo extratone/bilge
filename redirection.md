@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07222022-105212`
+Updated `07232022-084148`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
@@ -78,6 +78,7 @@ Updated `07222022-105212`
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
 - [**/meme**](https://davidblue.wtf/meme), Redirects to the WTF vocabulary page for *meme*.
+- [**/musicapps**](https://davidblue.wtf/musicapps), Redirects to "iPhone and Music - For Artists, Curators, and Enthusiasts" on *The Psalms*.
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
 - [**/neopress**](https://davidblue.wtf/neopress), Redirects to my (updated) index of [the NeoCities Press page](https://neocities.org/press).
 - [**/netflix**](https://davidblue.wtf/netflix), Redirects to a record of David Blue's Netflix Activity in full (and a bit of a guide on how to retrieve yours.)
