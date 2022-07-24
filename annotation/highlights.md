@@ -1812,6 +1812,8 @@
 
 > Despite Apple’s [message](https://youtu.be/sQB2NjhJHvY) that the iPad Pro can be a viable PC replacement because, among other features, it natively supports a [dedicated external keyboard](https://www.apple.com/smart-keyboard/), its software still isn’t fully optimized for keyboard control. This isn’t surprising at all: iOS was designed with multitouch in mind; as long as the iPad shares a common foundation with the iPhone, it’ll always be first and foremost a touch computer. The iPad Pro line, however, is [nearing its third anniversary](https://www.macstories.net/stories/ipad-pro-review/), and its external keyboard integration still feels like an afterthought that’s hard to reconcile with the company’s marketing.
 
+> I think Things 3.6 is also a statement of sorts – a message to developers of iPad apps, including those at Apple, to extend their keyboard integrations. Things 3.6 may be _just an app_, but the idea of complete keyboard control should be applicable to every area of an operating system as well. Can you imagine if iOS worked this way too?
+
 # [Craft](https://club.macstories.net/posts/macstories-recommends)
 
 > If you work with text, and especially if you need to share written information, links, and images with others, Craft should be on your short list of apps to check out.
@@ -1969,3 +1971,53 @@
 > Apple is bringing customizable toolbars to iPad apps
 
 > There is a new, system-wide find and replace menu for apps that deal with text searches.
+
+# [The Problem With Medium: Why the Platform Feels Like a Cautionary Tale](https://midrange.tedium.co/issues/medium-ev-williams-departure/)
+
+> The problem with being a haven for writers, however, is that is not simply a neat, beautiful ideal. When something goes wrong or an idea falls through, real people are affected.
+
+# [Question regarding TADpooLe - Actions - Help & Questions - Drafts Community](https://forums.getdrafts.com/t/question-regarding-tadpoole/12991/2)
+
+> The “trusted member” flag in the Directory is intended to help for those concerned, and in all cases those have been assigned manually, by me, specifically to users who have an established history in the community and I have a high level of confidence they can be trusted not to be doing anything questionable – at least not intentionally – with your data.
+
+# [iOS 16 Preview - New Features - Apple](https://www.apple.com/ios/ios-16-preview/features/)
+
+> #### Share a photo library with your family
+> 
+> Share a separate iCloud photo library with up to five other people.
+
+# [iPadOS 16 preview: jack of all trades, master of some - The Verge](https://www.theverge.com/23203481/apple-ipados-16-preview-stage-manager-collaboration-weather)
+
+> crufty
+
+> it puts four “piles” of apps onto the left side of your screen, like a dock of your various screen configurations. (“Pile” is Apple software chief Craig Federighi’s term, not mine, and it’s not particularly flattering, but it’s pretty accurate.)
+
+> Stage Manager makes more apps accessible at once, but it doesn’t make much sense.
+
+> It’s just too many ways to mess with your apps.
+
+> When my colleague Dan Seifert and I were in a Pages doc together, it seemed to update every sentence or so, so we were constantly writing over top of each other. Tools like Google Docs and Figma do this kind of co-authoring much more seamlessly.
+
+# [What’s New in the all-new Things. Your to-do list for Mac & iOS](https://culturedcode.com/things/whats-new/)
+
+> #### New Core
+> 
+> Completely rewritten core layers of the apps are now shared between Mac and iOS for increased reliability.
+
+# [PayPal Policy Updates](https://www.paypal.com/us/webapps/mpp/ua/upcoming-policies-full?utm_source=epsilon&utm_campaign=A_OW_EM_AH_HR_NI_NI_202206_253394_No_Group_US_GS_Offcycle_update_CON_LR_US_en_US&utm_medium=email)
+
+> **Effective July 28, 2022:**
+> 
+> *   U.S. business accounts will not be able to receive personal transactions from U.S. PayPal accounts.
+> *   U.S. PayPal accounts will not be able to send personal transactions to U.S. business accounts.
+> *   The rate for the “Send/Receive Money for Goods and Services” payment type will be 2.99% (with no fixed fee). This pricing change will result in fee increases for some transactions. You can [preview the Merchant Fees page](https://www.paypalobjects.com/marketing/ua/pdf/US/en/merchant-fee-072822.pdf) that will be effective on July 28, 2022, following such changes.
+
+# [Make a custom 404 page on Neocities – learn.sadgrl.online](https://learn.sadgrl.online/how-to-make-a-custom-404-page-on-neocities/)
+
+> As long as: 1) the file is named **not\_found.html** and 2) the file is located in your root (home) directory, Neocities will automatically redirect any broken links on your site to that webpage.
+
+# [A Calm Summer, 2022 — Write.as Blog](https://write.as/blog/a-calm-summer-2022)
+
+> Gradually, your Write.as account and any subscriptions will become more of a _Musing Studio_ account, to clarify that setting up shop here gives you easy access to all the integrated tools of our suite.
+
+> This might include operating more as an “open business,” where you can digitally see more of the things you would easily intuit if we were a physical store — how many customers we get, how busy we are, how active the place is, etc.
