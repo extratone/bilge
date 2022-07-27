@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07232022-084148`
+Updated `07262022-204246`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
@@ -7,6 +7,7 @@ Updated `07232022-084148`
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
 - [WTF](https://davidblue.wtf/drafts/218F8FAA-C0B9-4B4F-B896-3089E005E86E.html)
+- [Tilde](https://tilde.town/~extratone/redirection) 
 - [Telegraph](https://telegra.ph/WTF-Redirection-04-19)
 - [Simplenote Publish](http://simp.ly/publish/7G1cRt)
 - [Simplenote Local](simplenote://note/8a3aa299b90242f6984b8e11515fb1e7)
@@ -19,6 +20,7 @@ Updated `07232022-084148`
 - [**/~**](https://davidblue.wtf/~), Redirects to the plain HTML version of my Tilde.Town directory.
 - [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/applenotes**](https://davidblue.wtf/applenotes), Redirects to an index file of all my Apple Notes.
+- [**/apps**](https://davidblue.wtf/apps), Redirects to the WTF Documentation page for my AppWish curation.
 - [**/artists**](https://davidblue.wtf/artists), Redirects to my MusicHarbor artists list.
 - [**/astrology**](https://davidblue.wtf/astrology), Redirects to "The Day of Reformed Precocity."
 - [**/auto**](https://davidblue.wtf/auto), Redirects to the “auto” tag on The Psalms.
