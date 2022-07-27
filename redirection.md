@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07262022-204246`
+Updated `07272022-052646`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
@@ -97,6 +97,7 @@ Updated `07262022-204246`
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/reading**](https://davidblue.wtf/reading), Redirects to my Reading List Raindrop collection.
 - [**/redirection**](https://davidblue.wtf/redirection), Redirects to this document!
+- [**/rhbest**](https://davidblue.wtf/rhbest), Redirects to the WTF Documentation Page for my "Best of RoutineHub" (Work in Progress) list.
 - [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to my RoutineHub profile.
 - [**/rowdyhitler**](https://davidblue.wtf/rowdyhitler), Redirects to the TikTok re-upload of my classic Joke Video, *Flight of The Joke Numbers*.
