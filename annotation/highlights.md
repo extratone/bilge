@@ -2021,3 +2021,32 @@
 > Gradually, your Write.as account and any subscriptions will become more of a _Musing Studio_ account, to clarify that setting up shop here gives you easy access to all the integrated tools of our suite.
 
 > This might include operating more as an “open business,” where you can digitally see more of the things you would easily intuit if we were a physical store — how many customers we get, how busy we are, how active the place is, etc.
+
+# [About advanced TweetDeck features](https://help.twitter.com/en/using-twitter/advanced-tweetdeck-features)
+
+> **To edit a List on TweetDeck:**
+> 
+> 1.  Click on **Lists**  from the **plus** icon  in the navigation bar.
+> 2.  Select the List you would like to edit.
+> 3.  Click **Edit**.
+> 4.  Add or remove List members or click **Edit Details** to change the List name, description, or account. You can also click **Delete List**.
+> 5.  When you're finished making changes, click **Done**.
+
+# [IMOVIEMOBILE File Extension - What is an .imoviemobile file and how do I open it?](https://fileinfo.com/extension/imoviemobile)
+
+> If you do not have an iOS device or a machine running OS X to open your IMOVIEMOBILE file, you can still access its contents. First, copy the IMOVIEMOBILE file, rename the file extension to "zip", decompress the file, and the project content will be in a folder called "Assets." You can then open the original content in a video editing program.
+> 
+> [](/software/windows_file_viewer?ref=9780)
+
+# [Airmail - Email Client for iPhone, iPad and Mac](https://airmailapp.com/#ipad)
+
+> **External keyboard support**  
+> Airmail for iPad supports a variety of useful keyboard shortcuts to make managing your email from the keyboard easier than ever
+
+# [Introduction - OpenAI API](https://beta.openai.com/docs/introduction/overview)
+
+> The OpenAI API can be applied to virtually any task that involves understanding or generating natural language or code.
+
+# [Adam Mosseri confirms it: Instagram is over - The Verge](https://www.theverge.com/2022/7/26/23279815/instagram-feed-kardashians-criticism-fuck-it-im-out)
+
+> Instagram no longer cares about photos.
