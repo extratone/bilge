@@ -29,10 +29,20 @@ Updated `07242022-081735`
 ## Audio
 
 - [DatPiff :: The Authority in Free Mixtapes](https://www.datpiff.com/mixtapes-search.php?criteria=keyword:dj+screw)
+- [This space has ended: jason scott friday night post food poisioning chat and q&a](https://twitter.com/i/spaces/1RDGlggkmvDKL)
 
-https://archive.org/details/dj-screw-discography
+- [**DJ Screw Discography**](https://archive.org/details/dj-screw-discography)
 
 <iframe src="https://archive.org/details/dj-screw-discography&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+- [DJ Screw on Spotify](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul?si=c6zr_JQUSKCCLDSbV0nAcA)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6TC6ZeVdvCuBSn32h5Msul?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+- [DJ Screw on Apple Music](https://music.apple.com/us/artist/dj-screw/80923709)
+
+<a href="https://music.apple.com/us/artist/dj-screw/80923709?itsct=music_box_badge&amp;itscg=30200&amp;app=music&amp;ls=1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-music/badge/en-us?size=250x83&h=cdbcefe9e23b0310ab61b31e72e2dcdb" alt="Listen on Apple Music" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
 
 ---
 
@@ -40,3 +50,4 @@ https://archive.org/details/dj-screw-discography
 
 - ![DJ Screw on Apple Music](https://i.snap.as/n7EL1If6.png)
 - ![DJ Screw on the iTunes Store](https://i.snap.as/y0NbK3my.png)
+- ![DJ Screw on the iTunes Store and Apple Music](https://i.snap.as/WB5CXuSz.png)
