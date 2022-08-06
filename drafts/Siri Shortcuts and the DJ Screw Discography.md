@@ -20,6 +20,7 @@ Though I don't believe I've ever discussed it, here, the continuance of the fand
 
 <a href="https://music.apple.com/us/artist/dj-screw/80923709?itsct=music_box_badge&amp;itscg=30200&amp;app=music&amp;ls=1" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/listen-on-apple-music/badge/en-us?size=250x83&h=cdbcefe9e23b0310ab61b31e72e2dcdb" alt="Listen on Apple Music" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
+In the interim, a lot has changed about music consumption. You know this.
 
 
 <iframe src="https://archive.org/details/dj-screw-discography&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>

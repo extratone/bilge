@@ -15,6 +15,8 @@ Updated `07242022-081735`
 
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/9v_oc7GmvvM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- [Chaff](https://chaff.writeas.com/siri-shortcuts-and-the-dj-screw-discography)
+
 ## Video
 
 - [Demo WTF Raw File](https://davidblue.wtf/video/djscrewshortcuts.mp4)
