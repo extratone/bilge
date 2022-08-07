@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08062022-175136`
+Updated `08072022-080719`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
@@ -129,6 +129,7 @@ Updated `08062022-175136`
 - [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
 - [**/vocabulary**](https://davidblue.wtf/vocabulary), Redirects internally to the WTF vocabulary index.
 - [**/vr**](https://davidblue.wtf/vr), Redirects to "Virtual Reality Virginity, Lost" on *The Psalms*.
+- [**/waterminder**](https://davidblue.wtf/waterminder), Redirects to my fucking shared WaterMinder data.
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
 - [**/wikipedia**](https://davidblue.wtf/wikipedia), Redirects to my personal user page on Wikipedia.
 - [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
