@@ -2,6 +2,7 @@
 Updated `07242022-081735`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/349)
+- [The Psalms](https://bilge.world/dj-screw-shortcuts) `https://bilge.world/dj-screw-shortcuts`
 - [Siri Shortcuts and the DJ Screw Discography](drafts://open?uuid=610294A9-B6B2-4A07-9670-2B1D6F56AC7C)
 - [Notes-Siri Shortcuts and the DJ Screw Discography](drafts://open?uuid=5F877C6E-5B05-4FB6-AC15-C8A79C022DB1)
 - [WTF](https://davidblue.wtf/drafts/5F877C6E-5B05-4FB6-AC15-C8A79C022DB1.html)
@@ -16,6 +17,21 @@ Updated `07242022-081735`
 <iframe width="auto" height="auto" src="https://www.youtube.com/embed/9v_oc7GmvvM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - [Chaff](https://chaff.writeas.com/siri-shortcuts-and-the-dj-screw-discography)
+
+## Social
+
+literally fuck everything else I've ever done on this godforsaken operating system...
+
+I MADE SIRI SHORTCUTS THAT DELIVER DJ SCREW TO YOU AUTOMATICALLY. https://bilge.world/dj-screw-shortcuts 
+
+`https://bilge.world/dj-screw-shortcuts`
+
+I am not exaggerating or being glib when I suggest that this might be the most important thing I've ever done for the internet. https://bilge.world/dj-screw-shortcuts
+
+- [Twitter](https://twitter.com/NeoYokel/status/1556089376622477317)
+- [Telegram](https://t.me/extratone/12470)
+- [Instagram](https://www.instagram.com/reel/Cg8LazpL8XB)
+- [Snapchat](https://t.snapchat.com/xxdGmGT3)
 
 ## Video
 
@@ -37,7 +53,7 @@ Updated `07242022-081735`
 
 <iframe src="https://archive.org/details/dj-screw-discography&playlist=1&list_height=150" width="500" height="300" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
-- [DJ Screw on Spotify](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul?si=c6zr_JQUSKCCLDSbV0nAcA)
+- [DJ Screw on Spotify](https://open.spotify.com/artist/6TC6ZeVdvCuBSn32h5Msul)
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/6TC6ZeVdvCuBSn32h5Msul?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
