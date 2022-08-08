@@ -1,5 +1,5 @@
 # MusicHarbor Artist List
-Updated '072022022-231139'
+Updated '082202022-105224'
 
 ((( O )))
 (G)I-DLE
