@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08072022-080719`
+Updated `08082022-161624`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
@@ -29,6 +29,7 @@ Updated `08072022-080719`
 - [**/autocompletes**](https://davidblue.wtf/autocompletes), Redirects to the reference page for my Drafts Autocompletes.
 - [**/baseball**](https://davidblue.wtf/baseball), Redirects to MySpace Tom’s baseball Twitter List.
 - [**/beams**](https://davidblue.wtf/beams), Temporarily redirects to Issue #248 on *The Psalms*' GitHub Repository until I finally write my post about Beams.
+- [**/bezels**](https://davidblue.wtf/bezels), Redirects to the WTF documentation page for my shared Apple Design Resources project.
 - [**/bigboy**](https://davidblue.wtf/bigboy), Redirects to my *Big Boy, Big Phone* shared iCloud Photos album.
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
 - [**/blessed**](https://davidblue.wtf/blessed), Redirects to my Blessed Web Utilities Raindrop collection.
