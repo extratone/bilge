@@ -2,7 +2,7 @@
 Updated `07222022-024731`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
-- [A Week with an iPad Pro](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
+- [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 - [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
 - [Amanda Shared Apple Notes folder](https://www.icloud.com/notes/02b_42E6OkqYpzcVn2fV_gX_A#Amanda) (which doesn't really mean much, no.)
 - [Notes-A Week with an iPad Pro](https://chaff.writeas.com/notes-a-week-with-an-ipad-pro)
@@ -26,10 +26,13 @@ Updated `07222022-024731`
 - [Primary DAW Tweet](https://twitter.com/NeoYokel/status/1545555812285906947)
 - [Sharesheet Disappearance](https://twitter.com/NeoYokel/status/1550585897246232585)
 - [First Springboard Crash](https://twitter.com/NeoYokel/status/1550841095453659136)
+- [The First Shared Apple Note of My Life](https://twitter.com/neoyokel/status/1551428617049182209)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">likely the very first shared Apple Note of my entire life?? going extremely well so far. <a href="https://t.co/zOrauAwdlA">pic.twitter.com/zOrauAwdlA</a></p>&mdash; ⓓⓐⓥⓘⓓ ⓑⓛⓤⓔ (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1551428617049182209?ref_src=twsrc%5Etfw">July 25, 2022</a></blockquote> <script async src="shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/C53199BF-F56F-4DB0-A697-4ADA99EAD35B/File%20Provider%20Storage/JS/widgets.js" charset="utf-8"></script>
 
 has anyone on the #iOS16 #iPadOS beta found a solution to the confirmation dialog interrupting EVERY SINGLE interaction with the system clipboard?
 please. it is fucking killing me.
--[Tweet](https://twitter.com/neoyokel/status/1550302828056510475?s=21&t=9t7A138syWiZtvJeqJojdw)
+-[Tweet](https://twitter.com/neoyokel/status/1550302828056510475)
 
 ### Embed
 
@@ -98,6 +101,7 @@ this the closest I've ever come to a homescreen in this device's layout which I'
 - [11 Tips for Working on the iPad](https://www.macstories.net/ios/11-tips-for-working-on-the-ipad/)
 - [iPad Pro 2021 Review](https://www.macstories.net/stories/ipad-pro-2021-review/) | *MacStories* [Bear](bear://x-callback-url/open-note?id=ACA9A2BB-7866-46C2-B22D-566015E9F476-4467-000003D32DF54119)
 - [A Month with iOS and iPadOS 16: A New iPad Era](https://www.macstories.net/stories/ios-and-ipados-16-impressions/)
+- [Best note-taking apps for iPad and Apple Pencil 2022](https://www.imore.com/best-notetaking-handwriting-apps-apple-pencil-ipad)
 
 ---
 
@@ -217,6 +221,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 ## Audio
 
 - [Federico's 2021 iPad Pro Review: Step into the Capture Zone](https://appstories.net/episodes/219)
+- "[A feelings check](https://www.relay.fm/mpu/652)."
 
 
 ---
