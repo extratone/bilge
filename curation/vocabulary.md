@@ -1,5 +1,5 @@
 # WTF Vocabulary Index
-Updated `08082022-104221`
+Updated `08082022-104327`
 
 ---
 - [abstruse](https://davidblue.wtf/drafts/B300F68B-0A54-4C40-AAB5-1E4F9CF5B26C.html)
