@@ -1,5 +1,5 @@
 # WTF Vocabulary Index
-Updated `08082022-104531`
+Updated `08082022-162453`
 
 ---
 - [abstruse](https://davidblue.wtf/drafts/B300F68B-0A54-4C40-AAB5-1E4F9CF5B26C.html)
@@ -47,6 +47,7 @@ Updated `08082022-104531`
 - [bombastic](https://davidblue.wtf/drafts/D1C34CD2-332C-4E19-869D-10D7191802E0.html)
 - [bombinate](https://davidblue.wtf/drafts/BD6AD691-345E-47D8-9FDC-AAF1CCCD1C93.html)
 - [boolean](https://davidblue.wtf/drafts/02D619D4-05C5-40FF-8FAF-1267C3F7310D.html)
+- [bouffant](https://davidblue.wtf/drafts/3C24091B-D0F3-4B9A-82BB-6F30FAF264D6.html)
 - [bout](https://davidblue.wtf/drafts/52A11EC1-19C5-454B-9C61-5BBB8E2076E7.html)
 - [bowdlerizer](https://davidblue.wtf/drafts/719E1519-62AC-45B8-AA3A-905910CCE1B3.html)
 - [bozo](https://davidblue.wtf/drafts/6C7D4FE5-1C4A-4E18-B561-5E96F60741B8.html)
