@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08082022-161624`
+Updated `08092022-233439`
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
 - [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
@@ -73,6 +73,7 @@ Updated `08082022-161624`
 - [**/juke**](https://davidblue.wtf/juke), Redirects to the fifth episode of my old car show, *Honk*, regarding the Nissan Juke NISMO.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
+- [**/latte**](https://davidblue.wtf/latte), Redirects to the WTF documentation page for my GitHub Repository Template.
 - [**/legacyredirects**](https://davidblue.wtf/legacyredirects), Redirects to an archive of the original *Extranet Redirection* document - the inspiration for this thing!
 - [**/leverage**](https://davidblue.wtf/leverage), Redirects to a very funny internet video I posted ~~on the Twitter website~~ (actually changed it to the same video posted on TikTok for now.)
 - [**/live**](https://davidblue.wtf/live), A dynamic redirect I use whenever I go live on YouTube/Twitter/Twitch, etc.
