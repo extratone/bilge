@@ -1,0 +1,136 @@
+{
+  "results": {
+    "1553706073": {
+      "ebookInfo": {
+        "seller": "David Krusemark",
+        "languageDisplayString": "English (United States)",
+        "subtitle": "Streaming’s Secret Savior",
+        "pageCount": 52,
+        "requiredIbooksVersion": "1.5",
+        "isiBook": false,
+        "attributes": [],
+        "isForeignLanguage": false,
+        "publisher": "Extratone Media"
+      },
+      "userRating": {
+        "value": 0,
+        "ratingCount": 0
+      },
+      "url": "https://books.apple.com/us/book/bandcamp-bound/id1553706073",
+      "offers": [
+        {
+          "assets": [
+            {
+              "flavor": "plusPublication",
+              "size": 1777718
+            }
+          ],
+          "actionText": {
+            "downloading": "Downloading",
+            "medium": "Get",
+            "short": "Get",
+            "long": "Get Book",
+            "downloaded": "Downloaded"
+          },
+          "priceFormatted": "$0.00",
+          "price": 0,
+          "buyParams": "productType=PUB&price=0&salableAdamId=1553706073&pricingParameters=PLUS&pg=default&marketType=ENT",
+          "type": "get",
+          "variant": "PLUS"
+        }
+      ],
+      "releaseDate": "2021-02-14",
+      "artistId": "896734",
+      "genreNames": [
+        "Music",
+        "Books",
+        "Arts & Entertainment",
+        "Art & Architecture",
+        "Professional & Technical",
+        "Engineering"
+      ],
+      "kind": "epubBook",
+      "bookSampleDownloadUrl": "https://buy.itunes.apple.com/WebObjects/MZFinance.woa/wa/getSampleDownload?cc=us&id=1553706073&pg=default&pricingParameters=PLUS",
+      "shortUrl": "https://books.apple.com/us/book/bandcamp-bound/id1553706073",
+      "artistName": "David Blue",
+      "name": "Bandcamp Bound",
+      "editorialArtwork": {},
+      "id": "1553706073",
+      "artwork": {
+        "height": 5120,
+        "textColor3": "95dcd6",
+        "hasAlpha": false,
+        "textColor2": "ececb0",
+        "supportsLayeredImage": false,
+        "width": 3588,
+        "textColor1": "abfbdb",
+        "textColor4": "c9d0b4",
+        "bgColor": "3c5fc1",
+        "hasP3": false,
+        "url": "https://is2-ssl.mzstatic.com/image/thumb/Publication124/v4/b8/87/29/b88729ef-4948-17a5-e208-23b960db2b64/889b1df1-16fd-49fb-9501-6b4e0bbe3429_cover_image.jpg/{w}x{h}bb.{f}"
+      },
+      "nameRaw": "Bandcamp Bound",
+      "artistUrl": "https://books.apple.com/us/artist/david-blue/896734",
+      "genres": [
+        {
+          "mediaType": "11",
+          "name": "Music",
+          "url": "https://itunes.apple.com/us/genre/id10087",
+          "genreId": "10087"
+        },
+        {
+          "mediaType": "11",
+          "name": "Books",
+          "url": "https://itunes.apple.com/us/genre/id38",
+          "genreId": "38"
+        },
+        {
+          "mediaType": "11",
+          "name": "Arts & Entertainment",
+          "url": "https://itunes.apple.com/us/genre/id9007",
+          "genreId": "9007"
+        },
+        {
+          "mediaType": "11",
+          "name": "Art & Architecture",
+          "url": "https://itunes.apple.com/us/genre/id10002",
+          "genreId": "10002"
+        },
+        {
+          "mediaType": "11",
+          "name": "Professional & Technical",
+          "url": "https://itunes.apple.com/us/genre/id9029",
+          "genreId": "9029"
+        },
+        {
+          "mediaType": "11",
+          "name": "Engineering",
+          "url": "https://itunes.apple.com/us/genre/id10137",
+          "genreId": "10137"
+        }
+      ],
+      "nameSortValue": "Bandcamp Bound",
+      "contentRatingsBySystem": {
+        "ebooksApple": {
+          "name": "Explicit",
+          "value": 1,
+          "rank": 1
+        }
+      },
+      "description": {
+        "standard": "An exploration of Bandcamp’s particular composition as a technology company with huge benefits per each of its users."
+      }
+    }
+  },
+  "isAuthenticated": false,
+  "meta": {
+    "storefront": {
+      "id": "143441",
+      "cc": "US"
+    },
+    "language": {
+      "tag": "en-us"
+    }
+  },
+  "version": 2
+}
