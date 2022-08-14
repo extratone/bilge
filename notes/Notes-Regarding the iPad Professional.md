@@ -1,9 +1,11 @@
 # Notes-Regarding the iPad Professional
-Updated `07222022-024731`
+Updated `08142022-091002`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
-- [WTF](https://davidblue.wtf/drafts/3862CF0D-843C-4BDE-996A-054F901FBE16.html) 
+- [**Amanda Battery Log**](drafts://open?uuid=8720321A-0F51-461D-879A-5E76F084AB68)
+- [WTF](https://davidblue.wtf/drafts/40EE2100-5A13-4D4C-8DE6-6838131CDBEF.html)
+- [WTF Shortlink](https://davidblue.wtf/amandanotes) - `https://davidblue.wtf/amandanotes`
 - [Amanda Shared Apple Notes folder](https://www.icloud.com/notes/02b_42E6OkqYpzcVn2fV_gX_A#Amanda) (which doesn't really mean much, no.)
 - [Notes-A Week with an iPad Pro](https://chaff.writeas.com/notes-a-week-with-an-ipad-pro)
 - [MacTracker Page](mactracker://F82451D8-8D83-40C4-98FE-E73FD0F1A3E0)
@@ -16,6 +18,7 @@ Updated `07222022-024731`
 - [AmandaFrames07172022-033924](https://www.icloud.com/iclouddrive/07fvXD08j9cz4QOLfcEX2bNGg#AmandaFrames07172022-033924)
 - [Notes-Things](things:///show?id=LYqPEsMgcjQDoeuVb7RhXR)
 - [Things](things:///show?id=27C4KCjG9eJWJuA3SsHZtr)
+
 ---
 
 ## Social
@@ -77,6 +80,8 @@ please. it is fucking killing me.
 
 
 ## Hardware
+
+<script src="https://gist.github.com/extratone/89b26d4636eb2972f27991d714ada692.js"></script>
 
 - You will definitely experience *weekly* (at least) connectivity issues with the keyboard/keypad, but probably less than a reasonable person would assume from such a fundamentally grafted-on prosthetic.
 - The absolute necessity of the `⌘W` Close Window command.
