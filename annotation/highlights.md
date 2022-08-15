@@ -218,6 +218,8 @@
 
 > **Fix:** Add keyboard shortcuts (⌘-, option-⌘-,) back for Settings/Preferences and Editor Settings/Preferences.
 
+> **Fix:** Leaving a template value blank in the action editor could cause it to revert to default template value.
+
 # [Chat History — Real Life](https://reallifemag.com/chat-history/)
 
 > I think of my quintessential Slack experience as the time a colleague interrupted a discussion of celebrity gossip to express her sincere, implacable fear of death.
@@ -2012,6 +2014,10 @@
 > *   U.S. PayPal accounts will not be able to send personal transactions to U.S. business accounts.
 > *   The rate for the “Send/Receive Money for Goods and Services” payment type will be 2.99% (with no fixed fee). This pricing change will result in fee increases for some transactions. You can [preview the Merchant Fees page](https://www.paypalobjects.com/marketing/ua/pdf/US/en/merchant-fee-072822.pdf) that will be effective on July 28, 2022, following such changes.
 
+# [Synced Lines - NotePlan Knowledge Base](https://help.noteplan.co/article/138-synced-blocks)
+
+> A Synced Line is a single line of text, such as a task, quote, bullet point, etc. that is mirrored across notes.
+
 # [Make a custom 404 page on Neocities – learn.sadgrl.online](https://learn.sadgrl.online/how-to-make-a-custom-404-page-on-neocities/)
 
 > As long as: 1) the file is named **not\_found.html** and 2) the file is located in your root (home) directory, Neocities will automatically redirect any broken links on your site to that webpage.
@@ -2050,3 +2056,63 @@
 # [Adam Mosseri confirms it: Instagram is over - The Verge](https://www.theverge.com/2022/7/26/23279815/instagram-feed-kardashians-criticism-fuck-it-im-out)
 
 > Instagram no longer cares about photos.
+
+# [Tot](https://club.macstories.net/posts/tot)
+
+> there’s something to be said for the constraints imposed by a note-taking app where you’ll never have more than seven documents.
+
+# [MacStories Weekly: Issue 331](https://club.macstories.net/posts/macstories-weekly-issue-331)
+
+> who wouldn’t want to view Twitter memes in AR?
+
+# [Evernote release notes – Evernote Help & Learning](https://help.evernote.com/hc/en-us/articles/360058361833-Evernote-release-notes)
+
+> Work faster on iPad with new keyboard shortcuts.
+
+# [Shortcuts gains powerful Find Tabs action for Safari, more in second public beta | iMore](https://www.imore.com/apps/shortcuts-gains-powerful-find-tabs-action-for-safari-more-in-second-public-beta)
+
+> These actions include Find Tabs, Find Tab Groups, Find Bookmarks, Open Bookmarks, Find Reading Lists, Open Reading List Items, Search Mail, Open Mailbox, Open Smart List, Create Reminders List, and Search Reminders.
+
+# [Removing duplicates — 1Password Support Community](https://1password.community/discussion/86492/removing-duplicates)
+
+> It is not available on Windows, but we'd like to add it there in the future.
+
+# [Pandoc - Demos](https://pandoc.org/demos.html)
+
+> pandoc -s -t man [pandoc.1.md](demo/pandoc.1.md) -o [example10.1](demo/example10.1)
+
+# [ReticentJohn/Amaroq: A floofy Mastodon companion for iOS](https://github.com/ReticentJohn/Amaroq)
+
+> On learning of an official client going out and my general lack of ongoing feature development and support, I am opting to make it official that this repo will no longer be supported. I wish all the best to the Mastodon team and I am glad I could be part of its history.
+
+# [Ambient anxiety and the pursuit of happiness](https://jessiwrites.substack.com/p/ambient-anxiety-and-the-pursuit-of?utm_source=substack&utm_medium=email)
+
+> like any exercise plan or diet regimen, a commitment to happiness takes effort.
+
+> Do a quick inventory of your technology use—how much time do you spend scrolling any platform, unconsciously asking yourself: why wasn’t I invited? Why aren’t I on that vacation?
+
+# [How to Go Live on TikTok (With or Without 1,000 Followers)](https://blog.hootsuite.com/how-to-go-live-on-tiktok/)
+
+> You need 1,000 followers to go live on TikTok.
+
+# [PartsHotlines Used Cart Parts 2008 FORD FOCUS](https://www.partshotlines.com/component/phl/search/)
+
+> 200455
+
+# [Web API Reference | Spotify for Developers](https://developer.spotify.com/documentation/web-api/reference/#/operations/get-playlists-tracks)
+
+> limit
+> 
+> integer
+> 
+> The maximum number of items to return. Default: 20. Minimum: 1. Maximum: 50.
+> 
+> \>= 0<= 50
+> 
+> Default value:20
+> 
+> Example value:10
+
+# [Snap Inc.](https://snap.com/en-US)
+
+> Snap Inc. is a camera company. We believe that reinventing the camera represents our greatest opportunity to improve the way people live and communicate. We contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.
