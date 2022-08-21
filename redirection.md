@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08212022-074142`
+Updated `08212022-101055`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -81,6 +81,7 @@ Updated `08212022-074142`
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
 - [**/latte**](https://davidblue.wtf/latte), Redirects to the WTF documentation page for my GitHub Repository Template.
+- [**/ledger**](https://davidblue.wtf/ledger), Redirects to the WTF documentation page for my Siri Shortcuts Ledger.
 - [**/legacyredirects**](https://davidblue.wtf/legacyredirects), Redirects to an archive of the original *Extranet Redirection* document - the inspiration for this thing!
 - [**/leverage**](https://davidblue.wtf/leverage), Redirects to a very funny internet video I posted ~~on the Twitter website~~ (actually changed it to the same video posted on TikTok for now.)
 - [**/live**](https://davidblue.wtf/live), A dynamic redirect I use whenever I go live on YouTube/Twitter/Twitch, etc.
