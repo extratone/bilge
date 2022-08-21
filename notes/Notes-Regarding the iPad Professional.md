@@ -1,5 +1,5 @@
 # Notes-Regarding the iPad Professional
-Updated `08142022-091002`
+Updated `08192022-003453`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
@@ -260,6 +260,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 
 - ![Blink Glow](https://i.snap.as/ghjnlzTJ.png)
 - ![iPad Pro Portrait with Desktop Keyboard 1](https://i.snap.as/lfz77IGN.jpeg)
+- ![Still Not a Real Magazine](https://i.snap.as/KCP60p9N.png)
 
 ## Screens
 
@@ -340,6 +341,10 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Apple Podcasts Stations](https://i.snap.as/Pvcwm0P9.png)
 - ![Springboard Crash 1](https://i.snap.as/Sy4IA7xe.png)
 - ![Springboard Crash 2](https://i.snap.as/p4XrwFBk.png)
+- ![a-Shell Appearance Configuration](https://i.snap.as/25tUhopV.png)
+
+### Public Education Nightmare
+
 
 ---
 
