@@ -5,11 +5,49 @@
 		<title>Subscriptions-iCloud.opml</title>
 	</head>
 <body>
+	<outline text="???" title="???" description="" type="rss" version="RSS" htmlUrl="https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=1" xmlUrl="https://itunes.apple.com/us/rss/customerreviews/id=284882215/sortBy=mostRecent/page=1/xml"/>
+	<outline text="@NeoYokel Mentions" title="@NeoYokel Mentions" description="" type="rss" version="RSS" htmlUrl="https://www.twitter.com/" xmlUrl="https://NeoYokel@twitter.com/notifications/mentions"/>
+	<outline text="#Accessibility - Apple Developer Forums" title="#Accessibility - Apple Developer Forums" description="" type="rss" version="RSS" htmlUrl="https://developer.apple.com/forums/tags/accessibility" xmlUrl="https://developer.apple.com/forums/tags/rssFeed/accessibility"/>
+	<outline text="#Beta - Apple Developer Forums" title="#Beta - Apple Developer Forums" description="" type="rss" version="RSS" htmlUrl="https://developer.apple.com/forums/tags/beta" xmlUrl="https://developer.apple.com/forums/tags/rssFeed/beta"/>
+	<outline text="#External Accessory - Apple Developer Forums" title="#External Accessory - Apple Developer Forums" description="" type="rss" version="RSS" htmlUrl="https://developer.apple.com/forums/tags/externalaccessory" xmlUrl="https://developer.apple.com/forums/tags/rssFeed/externalaccessory"/>
+	<outline text="Accessible Media Press Room" title="Accessible Media Press Room" description="" type="rss" version="RSS" htmlUrl="https://www.ami.ca/" xmlUrl="https://www.ami.ca/news.xml"/>
+	<outline text="Action Directory" title="Action Directory" description="" type="rss" version="RSS" htmlUrl="https://actions.getdrafts.com/drafts_actions.html" xmlUrl="https://actions.getdrafts.com/drafts_actions.rss"/>
+	<outline text="Apple Beta Master Feed!" title="Apple Beta Master Feed!" description="" type="rss" version="RSS" htmlUrl="https://developer.apple.com/news/" xmlUrl="http://developer.apple.com/news/releases/rss/releases.rss"/>
+	<outline text="arachnoid.com" title="arachnoid.com" description="" type="rss" version="RSS" htmlUrl="http://arachnoid.com/" xmlUrl="https://arachnoid.com/feed.xml"/>
+	<outline text="Computer Software - Computer Hope Forums" title="Computer Software - Computer Hope Forums" description="" type="rss" version="RSS" htmlUrl="https://www.computerhope.com/forum/index.php" xmlUrl="https://www.computerhope.com/forum/?type=rss;action=.xml;sa=news;board=9;limit=10"/>
+	<outline text="DavidBlue on GitLab" title="DavidBlue on GitLab" description="" type="rss" version="RSS" htmlUrl="https://gitlab.com/dashboard/projects" xmlUrl="https://gitlab.com/dashboard/projects.atom?feed_token=GV9GxLYDYUEhpMJsbNve"/>
 	<outline text="Discourse Meta Support" title="Discourse Meta Support" description="" type="rss" version="RSS" htmlUrl="https://meta.discourse.org/c/support/6" xmlUrl="https://meta.discourse.org/c/support/6.rss"/>
+	<outline text="DJ Screw Discography" title="DJ Screw Discography" description="" type="rss" version="RSS" htmlUrl="https://archive.org/details/dj-screw-discography" xmlUrl="https://archive.org/services/collection-rss.php?collection=dj-screw-discography"/>
+	<outline text="Drafts Forums - Stephen Millard" title="Drafts Forums - Stephen Millard" description="" type="rss" version="RSS" htmlUrl="https://forums.getdrafts.com/u/sylumer/activity" xmlUrl="https://forums.getdrafts.com/u/sylumer/activity.rss"/>
+	<outline text="Drafts Themes" title="Drafts Themes" description="" type="rss" version="RSS" htmlUrl="https://actions.getdrafts.com/theme_definitions.html" xmlUrl="https://actions.getdrafts.com/theme_definitions.rss"/>
+	<outline text="Drafts Themes (Raindrop)" title="Drafts Themes (Raindrop)" description="" type="rss" version="RSS" htmlUrl="https://raindrop.io/" xmlUrl="https://bg.raindrop.io/rss/public/26537303"/>
 	<outline text="End User" title="End User" description="" type="rss" version="RSS" htmlUrl="https://bilge.world/" xmlUrl="https://anchor.fm/s/702013c/podcast/rss"/>
+	<outline text="FEED" title="FEED" description="" type="rss" version="RSS" htmlUrl="https://www.pornhub.com/" xmlUrl="https://www.pornhub.com/rss"/>
+	<outline text="iCloud Drive Shortcuts Raindrop Collection" title="iCloud Drive Shortcuts Raindrop Collection" description="" type="rss" version="RSS" htmlUrl="https://raindrop.io/" xmlUrl="https://bg.raindrop.io/rss/public/26609105"/>
+	<outline text="JoinMastodon.org" title="JoinMastodon.org" description="" type="rss" version="RSS" htmlUrl="http://blog.joinmastodon.org/" xmlUrl="https://blog.joinmastodon.org/index.xml"/>
+	<outline text="Juan Manuel Merlos" title="Juan Manuel Merlos" description="" type="rss" version="RSS" htmlUrl="http://merlos.org/" xmlUrl="http://www.merlos.org/feed.xml"/>
 	<outline text="Matt Baer" title="Matt Baer" description="" type="rss" version="RSS" htmlUrl="https://micro.baer.works/" xmlUrl="https://micro.baer.works/feed/"/>
+	<outline text="Michael Simon - MacWorld" title="Michael Simon - MacWorld" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://www.macworld.com/author/michael.simon/feed"/>
+	<outline text="Musing Studio Notes" title="Musing Studio Notes" description="" type="rss" version="RSS" htmlUrl="https://notes.musing.studio/" xmlUrl="https://notes.musing.studio/feed/"/>
+	<outline text="My Bear Wallpapers Raindrop Collection" title="My Bear Wallpapers Raindrop Collection" description="" type="rss" version="RSS" htmlUrl="https://raindrop.io/" xmlUrl="https://raindrop.io/collection/22375115/feed"/>
+	<outline text="NeoCities Global Activity" title="NeoCities Global Activity" description="" type="rss" version="RSS" htmlUrl="https://t.me/s/libreware" xmlUrl="https://slothies.neocities.org/feed/libreware.feed.html"/>
+	<outline text="Nieman Lab" title="Nieman Lab" description="" type="rss" version="RSS" htmlUrl="https://www.niemanlab.org/" xmlUrl="https://www.niemanlab.org/feed/"/>
+	<outline text="Personal Tech - The Register" title="Personal Tech - The Register" description="" type="rss" version="RSS" htmlUrl="https://www.theregister.com/on_prem/personal_tech/" xmlUrl="https://www.theregister.com/on_prem/personal_tech/headlines.atom"/>
+	<outline text="Peter Kafka" title="Peter Kafka" description="" type="rss" version="RSS" htmlUrl="https://www.vox.com/" xmlUrl="https://www.vox.com/authors/peter-kafka/rss"/>
 	<outline text="r/Shortcuts" title="r/Shortcuts" description="" type="rss" version="RSS" htmlUrl="https://www.reddit.com/r/shortcuts" xmlUrl="https://www.reddit.com/r/shortcuts.rss"/>
+	<outline text="Raymond Chen - The Old New Thing" title="Raymond Chen - The Old New Thing" description="" type="rss" version="RSS" htmlUrl="https://devblogs.microsoft.com/oldnewthing/author/oldnewthing" xmlUrl="https://devblogs.microsoft.com/oldnewthing/author/oldnewthing/feed"/>
 	<outline text="Rosemary Orchard" title="Rosemary Orchard" description="" type="rss" version="RSS" htmlUrl="https://rosemaryorchard.com/" xmlUrl="https://rosemaryorchard.com/feed.xml"/>
+	<outline text="RoutineHub Latest" title="RoutineHub Latest" description="" type="rss" version="RSS" htmlUrl="https://routinehub.co/rss/" xmlUrl="https://routinehub.co/shortcuts/latest/feed/"/>
 	<outline text="Ryan Dotson" title="Ryan Dotson" description="" type="rss" version="RSS" htmlUrl="https://nostodnayr.net/" xmlUrl="https://nostodnayr.net/feeds/json"/>
+	<outline text="SaaS" title="SaaS" description="" type="rss" version="RSS" htmlUrl="https://www.theregister.com/off_prem/saas/" xmlUrl="https://www.theregister.com/off_prem/saas/headlines.atom"/>
+	<outline text="Shareable" title="Shareable" description="" type="rss" version="RSS" htmlUrl="https://shareable.vercel.app/" xmlUrl="https://shareable.vercel.app/feed"/>
+	<outline text="The Autopian" title="The Autopian" description="" type="rss" version="RSS" htmlUrl="https://www.theautopian.com/" xmlUrl="https://www.theautopian.com/feed/"/>
+	<outline text="The Mac Observer" title="The Mac Observer" description="" type="rss" version="RSS" htmlUrl="https://www.macobserver.com/" xmlUrl="https://www.macobserver.com/feed/everything/"/>
+	<outline text="The Untitled Site - Christopher Lawly" title="The Untitled Site - Christopher Lawly" description="" type="rss" version="RSS" htmlUrl="https://theuntitled.site/" xmlUrl="https://theuntitled.site/feed.rss"/>
+	<outline text="Timac" title="Timac" description="" type="rss" version="RSS" htmlUrl="https://blog.timac.org/" xmlUrl="https://blog.timac.org/index.xml"/>
+	<outline text="Tweebot App Store Reviews" title="Tweebot App Store Reviews" description="" type="rss" version="RSS" htmlUrl="https://music.apple.com/WebObjects/MZStore.woa/wa/viewGrouping?cc=us&amp;id=1" xmlUrl="https://itunes.apple.com/us/rss/customerreviews/id=1527500834/sortBy=mostRecent/page=1/xml"/>
+	<outline text="w3c Automotive Working Group" title="w3c Automotive Working Group" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://lists.w3.org/Archives/Public/public-automotive/feed.atom"/>
+	<outline text="What's New in Shortcuts" title="What's New in Shortcuts" description="" type="rss" version="RSS" htmlUrl="https://matthewcassinelli.com/" xmlUrl="https://matthewcassinelli.com/feed"/>
+	<outline text="Write.as Cues" title="Write.as Cues" description="" type="rss" version="RSS" htmlUrl="https://submit.as/cues/" xmlUrl="https://submit.as/cues/feed.xml"/>
 	</body>
 </opml>

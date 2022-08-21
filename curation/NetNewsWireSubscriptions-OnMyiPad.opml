@@ -10,7 +10,6 @@
 	<outline text="Daring Fireball" title="Daring Fireball" description="" type="rss" version="RSS" htmlUrl="https://daringfireball.net/" xmlUrl="https://daringfireball.net/feeds/json"/>
 	<outline text="Erica Sadun" title="Erica Sadun" description="" type="rss" version="RSS" htmlUrl="https://ericasadun.com/" xmlUrl="https://ericasadun.com/feed/"/>
 	<outline text="furbo.org" title="furbo.org" description="" type="rss" version="RSS" htmlUrl="https://furbo.org/" xmlUrl="https://furbo.org/feed/json"/>
-	<outline text="Indie Apps Catalog -Newly Added" title="Indie Apps Catalog -Newly Added" description="" type="rss" version="RSS" htmlUrl="https://indiecatalog.app/" xmlUrl="https://indiecatalog.app/feed/newly-added"/>
 	<outline text="inessential" title="inessential" description="" type="rss" version="RSS" htmlUrl="https://inessential.com/" xmlUrl="https://inessential.com/feed.json"/>
 	<outline text="Julia Evans" title="Julia Evans" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://jvns.ca/atom.xml"/>
 	<outline text="kottke.org" title="kottke.org" description="" type="rss" version="RSS" htmlUrl="http://kottke.org/" xmlUrl="http://feeds.kottke.org/json"/>
@@ -18,28 +17,10 @@
 	<outline text="Michael Tsai" title="Michael Tsai" description="" type="rss" version="RSS" htmlUrl="https://mjtsai.com/blog" xmlUrl="https://mjtsai.com/blog/feed/"/>
 	<outline text="NetNewsWire" title="NetNewsWire" description="" type="rss" version="RSS" htmlUrl="https://nnw.ranchero.com/" xmlUrl="https://nnw.ranchero.com/feed.json"/>
 	<outline text="One Foot Tsunami" title="One Foot Tsunami" description="" type="rss" version="RSS" htmlUrl="https://onefoottsunami.com/" xmlUrl="https://onefoottsunami.com/feed/json/"/>
+	<outline text="OpenStreetMap User Diary Entries" title="OpenStreetMap User Diary Entries" description="" type="rss" version="RSS" htmlUrl="https://www.openstreetmap.org/diary" xmlUrl="https://www.openstreetmap.org/diary/rss"/>
+	<outline text="Rose Orchard" title="Rose Orchard" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://rosemaryorchard.com/blog/feed/"/>
 	<outline text="Six Colors" title="Six Colors" description="" type="rss" version="RSS" htmlUrl="https://sixcolors.com/?feed=json" xmlUrl="https://sixcolors.com/feed.json"/>
 	<outline text="The Loop" title="The Loop" description="" type="rss" version="RSS" htmlUrl="https://www.loopinsight.com/" xmlUrl="https://www.loopinsight.com/feed/"/>
 	<outline text="The Shape of Everything" title="The Shape of Everything" description="" type="rss" version="RSS" htmlUrl="https://shapeof.com/" xmlUrl="https://shapeof.com/feed.json"/>
-	<outline text="The Tone" title="The Tone" description="" type="rss" version="RSS" htmlUrl="https://us14.campaign-archive.com/feed?u=7715f70b539dafc216104455f&amp;id=f3eb733712" xmlUrl="https://us14.campaign-archive.com/feed?u=7715f70b539dafc216104455f&amp;id=f3eb733712"/>
-	<outline text="feeds" title="feeds">
-		<outline text="AppStories" title="AppStories" description="" type="rss" version="RSS" htmlUrl="https://appstories.net/" xmlUrl="https://appstories.net/episodes/feed/"/>
-		<outline text="Automators" title="Automators" description="" type="rss" version="RSS" htmlUrl="https://www.relay.fm/automators" xmlUrl="https://www.relay.fm/automators/feed"/>
-		<outline text="Big Technology Podcast" title="Big Technology Podcast" description="" type="rss" version="RSS" htmlUrl="https://www.linkedin.com/newsletters/big-technology-6901970121829801984/" xmlUrl="https://feeds.redcircle.com/ee25c9f0-5d25-41ac-8c9c-89bb28f32974"/>
-		<outline text="Citations Needed" title="Citations Needed" description="" type="rss" version="RSS" htmlUrl="https://www.facebook.com/citationsneeded/" xmlUrl="https://citationsneeded.libsyn.com/rss"/>
-		<outline text="Connected" title="Connected" description="" type="rss" version="RSS" htmlUrl="https://www.relay.fm/connected" xmlUrl="https://www.relay.fm/connected/feed"/>
-		<outline text="Ctrl-Walt-Delete" title="Ctrl-Walt-Delete" description="" type="rss" version="RSS" htmlUrl="https://www.theverge.com/ctrl-walt-delete" xmlUrl="https://feeds.megaphone.fm/ctrl-walt-delete"/>
-		<outline text="Double Tap" title="Double Tap" description="" type="rss" version="RSS" htmlUrl="http://www.ami.ca/" xmlUrl="https://feeds.simplecast.com/MhX_XZQZ"/>
-		<outline text="iOS Today (Audio)" title="iOS Today (Audio)" description="" type="rss" version="RSS" htmlUrl="https://twit.tv/shows/ios-today" xmlUrl="https://feeds.twit.tv/ipad.xml"/>
-		<outline text="Land of the Giants" title="Land of the Giants" description="" type="rss" version="RSS" htmlUrl="https://www.vox.com/recode-podcasts" xmlUrl="https://feeds.megaphone.fm/landofthegiants"/>
-		<outline text="MacStories Unwind" title="MacStories Unwind" description="" type="rss" version="RSS" htmlUrl="https://www.macstories.net/unwind" xmlUrl="https://feeds.simplecast.com/TL_Rhe_x"/>
-		<outline text="MrMobile [Michael Fisher]" title="MrMobile [Michael Fisher]" description="" type="rss" version="RSS" htmlUrl="" xmlUrl="https://listenbox.app/v/O3HnkpKVWC4F"/>
-		<outline text="Same Brain" title="Same Brain" description="" type="rss" version="RSS" htmlUrl="https://anchor.fm/samebrain" xmlUrl="https://anchor.fm/s/6cbbb7c/podcast/rss"/>
-		<outline text="Source Code" title="Source Code" description="" type="rss" version="RSS" htmlUrl="https://protocol.com/sourcecode" xmlUrl="https://feeds.simplecast.com/y9S_N2_k"/>
-		<outline text="Supercomputer" title="Supercomputer" description="" type="rss" version="RSS" htmlUrl="http://supercomputer.fm/" xmlUrl="https://feeds.transistor.fm/supercomputer"/>
-		<outline text="Swift by Sundell" title="Swift by Sundell" description="" type="rss" version="RSS" htmlUrl="https://www.swiftbysundell.com/podcast" xmlUrl="https://swiftbysundell.com/podcast/feed.rss"/>
-		<outline text="Techdirt" title="Techdirt" description="" type="rss" version="RSS" htmlUrl="http://www.techdirt.com/" xmlUrl="https://feeds.soundcloud.com/users/soundcloud:users:122508048/sounds.rss"/>
-		<outline text="The Talk Show With John Gruber" title="The Talk Show With John Gruber" description="" type="rss" version="RSS" htmlUrl="https://daringfireball.net/thetalkshow" xmlUrl="https://daringfireball.net/thetalkshow/rss"/>
-	</outline>
 	</body>
 </opml>
