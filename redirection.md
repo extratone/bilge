@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08212022-101055`
+Updated `08232022-175958`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -41,6 +41,7 @@ Updated `08212022-101055`
 - [**/blessed**](https://davidblue.wtf/blessed), Redirects to my Blessed Web Utilities Raindrop collection.
 - [**/blue**](https://davidblue.wtf/blue), Redirects to the *Colornames* web page for *David Blue* (#00006b.)
 - [**/books**](https://davidblue.wtf/books), Redirects to the "artist page" for "David Blue" on the Apple Books store.
+- [**/capture**](https://davidblue.wtf/capture), Redirects to the WTF documentation page for my Comprehensive Capture Shortcut.
 - [**/casenet**](https://davidblue.wtf/casenet), Look me up on Case.net!
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
 - [**/cpsam**](https://davidblue.wtf/cpsam), Redirects to the Apple Maps share link for the Columbia Public Schools main building.
@@ -80,6 +81,7 @@ Updated `08212022-101055`
 - [**/itch**](https://davidblue.wtf/itch), Redirects to the page I have on itch.io for no justifiable reason.
 - [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
+- [**/jortsnum**](https://davidblue.wtf/jortsnum), Redirects to the shared Numbers spreadsheet containing my ongoing cellular data usage log.
 - [**/juke**](https://davidblue.wtf/juke), Redirects to the fifth episode of my old car show, *Honk*, regarding the Nissan Juke NISMO.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
@@ -131,6 +133,7 @@ Updated `08212022-101055`
 - [**/snapchat**](https://davidblue.wtf/snapchat), Redirects to my Snapchat profile.
 - [**/socialdrop**](https://davidblue.wtf/socialdrop), Redirects to my Social Directory Raindrop collection.
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
+- [**/stripe**](https://davidblue.wtf/stripe), Redirects to a Stripe pay link to tip me directly.
 - [**/swang**](https://davidblue.wtf/swang), Redirects to the WTF vocabulary entry I authored for "swang." 
 - [**/taiokeys**](https://davidblue.wtf/taiokeys), Redirects to a shared Numbers spreadsheet on iCloud documenting keyboard shortcuts within the iOS/iPadOS/macOS, Markdown-based writing application, Taio.
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
@@ -140,6 +143,7 @@ Updated `08212022-101055`
 - [**/truck**](https://davidblue.wtf/truck), Redirects to my *Gran Turismo 6* gameplay demo video.
 - [**/tweetdecklists**](https://davidblue.wtf/tweetdecklists), Redirects to the WTF documentation for my "Backup/Export Twitter Lists with TweetDeck" guide.
 - [**/twitter**](https://davidblue.wtf/twitter), Redirects to my Twitter profile.
+- [**/usage**](https://davidblue.wtf/usage), Redirects to the WTF documentation page for my ongoing cellular data usage log.
 - [**/userguide**](https://davidblue.wtf/userguide), Redirects to Apple's official "iPhone User Guide" in the Apple Books store.
 - [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
 - [**/vocabulary**](https://davidblue.wtf/vocabulary), Redirects internally to the WTF vocabulary index.
