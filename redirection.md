@@ -20,8 +20,10 @@ Updated `08212022-101055`
 ---
 
 - [**/~**](https://davidblue.wtf/~), Redirects to the plain HTML version of my Tilde.Town directory.
+- [**/amandabat**](https://davidblue.wtf/amandabat), Redirects to the WTF documentation page for my efforts to log my iPad Pro's battery consumption.
 - [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/amandanotes**](https://davidblue.wtf/amandanotes), Redirects to my in-progress master notes file regarding the *iPad Professional.*
+- [**/amandanum**](https://davidblue.wtf/amandanum), Redirects to the live-updated shared Numbers spreadsheet logging my iPad Pro's battery consumption.
 - [**/amazon**](https://davidblue.wtf/amazon), Redirects to my *ACQUIRE* Wish(?) List on Amazon.
 - [**/apogee**](https://davidblue.wtf/apogee), Redirects to the WTF vocabulary page for *apogee*.
 - [**/applenotes**](https://davidblue.wtf/applenotes), Redirects to an index file of all my Apple Notes.
@@ -41,6 +43,7 @@ Updated `08212022-101055`
 - [**/books**](https://davidblue.wtf/books), Redirects to the "artist page" for "David Blue" on the Apple Books store.
 - [**/casenet**](https://davidblue.wtf/casenet), Look me up on Case.net!
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
+- [**/cpsam**](https://davidblue.wtf/cpsam), Redirects to the Apple Maps share link for the Columbia Public Schools main building.
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to a WTF index for my Distributed iCloud Drive folder.
