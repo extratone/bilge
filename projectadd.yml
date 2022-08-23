@@ -1,0 +1,18 @@
+name: Adds all issues that don't include the 'time-sensitive' label to The Psalms' project board.
+
+on:
+  issues:
+    types:
+      - opened
+
+jobs:
+  add-to-project:
+    name: Add issue to project
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/add-to-project@RELEASE_VERSION
+        with:
+          project-url: https://github.com/users/extratone/projects/10
+          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          labeled: time-sensitive
+          label-operator: NOT
