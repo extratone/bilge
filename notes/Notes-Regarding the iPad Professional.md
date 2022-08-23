@@ -1,5 +1,5 @@
 # Notes-Regarding the iPad Professional
-Updated `08232022-013209`
+Updated `08232022-032138`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
@@ -366,7 +366,9 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 ![Embedding audio natively in Pages on iPadOS](https://i.snap.as/u04Je0tz.png)
 
 ### Battery
+`<script src="https://gist.github.com/extratone/89b26d4636eb2972f27991d714ada692.js"></script>`
 
+- [Amanda Battery Log](drafts://open?uuid=8720321A-0F51-461D-879A-5E76F084AB68)
 - ![Revival `07052022-180020`](https://i.snap.as/ucWBs6dh.png)
 - 10% - 1737
 - ![Check In - 1734](https://i.snap.as/YqSNQWu7.png)
