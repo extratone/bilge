@@ -1,5 +1,5 @@
 # Notes-Regarding the iPad Professional
-Updated `08192022-003453`
+Updated `08232022-013209`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
@@ -107,6 +107,7 @@ this the closest I've ever come to a homescreen in this device's layout which I'
 - [iPad Pro 2021 Review](https://www.macstories.net/stories/ipad-pro-2021-review/) | *MacStories* [Bear](bear://x-callback-url/open-note?id=ACA9A2BB-7866-46C2-B22D-566015E9F476-4467-000003D32DF54119)
 - [A Month with iOS and iPadOS 16: A New iPad Era](https://www.macstories.net/stories/ios-and-ipados-16-impressions/)
 - [Best note-taking apps for iPad and Apple Pencil 2022](https://www.imore.com/best-notetaking-handwriting-apps-apple-pencil-ipad)
+- [Do demo iPads have a canonical owner?](https://utf9k.net/blog/ipad-canonical-owner/)
 
 ---
 
@@ -342,6 +343,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Springboard Crash 1](https://i.snap.as/Sy4IA7xe.png)
 - ![Springboard Crash 2](https://i.snap.as/p4XrwFBk.png)
 - ![a-Shell Appearance Configuration](https://i.snap.as/25tUhopV.png)
+- ![VS Code (Browser Edition) in Blink Shell](https://i.snap.as/gTM2hL3v.png)
 
 ### Public Education Nightmare
 
