@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08232022-175958`
+Updated `08242022-000606`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -49,6 +49,7 @@ Updated `08232022-175958`
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to a WTF index for my Distributed iCloud Drive folder.
 - [**/documentation**](https://davidblue.wtf/documentation), Redirects to my Documentation Raindrop collection.
+- [**/dolt**](https://davidblue.wtf/dolt), Redirects to the WTF vocabulary page for "dolt."
 - [**/doof**](https://davidblue.wtf/doof), Redirects to the WTF vocabulary page for "doof."
 - [**/dosspride**](https://davidblue.wtf/dosspride), Redirects to the Apple Music page for Doss' Pride 2022 mix.
 - [**/doubletap**](https://davidblue.wtf/doubletap), Redirects to the pod.links page for Accessible Media's *DoubleTap Canada*, which has quickly become my favorite technology podcast currently running.
