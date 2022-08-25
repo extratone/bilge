@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08242022-000606`
+Updated `08242022-214102`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -78,6 +78,7 @@ Updated `08242022-000606`
 - [**/honk**](https://davidblue.wtf/honk), Redirects to the YouTube playlist for the legacy Drywall car show, *Honk*.
 - [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
 - [**/hypnagogic**](https://davidblue.wtf/hypnagogic), Redirects to the WTF vocabulary page for *hypnagogic*.
+- [**/information**](https://davidblue.wtf/information), Redirects to my subscriber friend invite code URL for *The Information*. (30 days free.)
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
 - [**/itch**](https://davidblue.wtf/itch), Redirects to the page I have on itch.io for no justifiable reason.
 - [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
