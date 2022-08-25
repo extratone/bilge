@@ -4,7 +4,7 @@ Updated `08242022-214102`
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
-- [**GitHub Issue**](https://github.com/extratone/wtf/issues/6) 
+- [**GitHub Issue**](https://github.com/extratone/bilge/issues/322) 
 - [WTF Repo File](https://github.com/extratone/wtf/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -17,6 +17,26 @@ Updated `08242022-214102`
 
 ---
 <script src="https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5.js"></script>
+---
+
+## Automation
+
+ I have managed to semi-automate the process of updating this very list by way of a single, constantly
+
+![GizmoPack Universal Variable](https://user-images.githubusercontent.com/43663476/186688762-1b08ac02-7aca-46bb-9648-d42bddc835db.png)
+
+### Source Files
+
+- [jelly](https://davidblue.wtf/redirection/WTFRedirectionUpdate.jelly)
+- [plist](https://davidblue.wtf/redirection/WTFRedirectionUpdate.plist)
+- [json](https://davidblue.wtf/redirection/WTFRedirectionUpdate.json)
+- [shortcut](https://davidblue.wtf/redirection/WTFRedirectionUpdate.shortcut)
+- [html](https://davidblue.wtf/redirection/automation)
+
+### GizmoPack Universal Variables
+
+
+
 ---
 
 - [**/~**](https://davidblue.wtf/~), Redirects to the plain HTML version of my Tilde.Town directory.
@@ -99,6 +119,7 @@ Updated `08242022-214102`
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
 - [**/meme**](https://davidblue.wtf/meme), Redirects to the WTF vocabulary page for *meme*.
+- [**/middlenames**](https://davidblue.wtf/middlenames), Redirects to the WTF aggregation/documentation page for my ancient Middle Name Candidates list.
 - [**/musicapps**](https://davidblue.wtf/musicapps), Redirects to "iPhone and Music - For Artists, Curators, and Enthusiasts" on *The Psalms*.
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
 - [**/neopress**](https://davidblue.wtf/neopress), Redirects to my (updated) index of [the NeoCities Press page](https://neocities.org/press).
