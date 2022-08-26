@@ -2116,3 +2116,117 @@
 # [Snap Inc.](https://snap.com/en-US)
 
 > Snap Inc. is a camera company. We believe that reinventing the camera represents our greatest opportunity to improve the way people live and communicate. We contribute to human progress by empowering people to express themselves, live in the moment, learn about the world, and have fun together.
+
+# [Essayist | The Academic Writing App](https://www.essayist.app/about)
+
+> Essayist was founded on the belief that writing academic papers using traditional word processors is inconvenient and inefficient. Our mission is to create a writing app specifically designed for academic writing. Because of its focus, Essayist is simpler and excels at tasks specific to academic writing.
+
+# [Features - App Store - Apple Developer](https://developer.apple.com/app-store/features/)
+
+> Two incidents per membership year are included.
+
+# [Welcome to the New Era of Discord Apps](https://discord.com/blog/welcome-to-the-new-era-of-discord-apps)
+
+> September 1, 2022 is the final switchover date. This means that, if the developer of one of the apps you’re using has _not_ made the switch yet, parts of the app might not work after that time.
+
+# [How We’re Improving the Discord Experience for Everyone](https://discord.com/blog/improving-app-accessibility-a11y-updates)
+
+> **Visual Saturation Settings**: Lowers how intense colors throughout Discord are. You can optionally include user-defined content, such as role colors.
+
+# [Real World Power/Sex/Money Utility Lost to Virtual Entertainment in Social Design Because of Measurability, if you want to be sad about it be sad as a sign of human disempowerment in the real world… — The Information Forum](https://www.theinformation.com/forum/posts/145?utm_campaign=Forum+Digest&utm_content=114&utm_medium=email&utm_source=cio&utm_term=26&rc=78wqry)
+
+> Early iterations of social products weren’t primarily focused on entertainment, they were focused on real world utility
+
+# [Digital Deconversion | Scout Brobst](https://thebaffler.com/latest/digital-deconversion-brobst?utm_source=Baffler+Readers&utm_campaign=3b341ddb5b-08172022_weekly&utm_medium=email&utm_term=0_3541d01f8a-3b341ddb5b-46517659)
+
+> Jehovah’s Witnesses are a distinctive subgroup of the Christian tradition for all sorts of reasons. There is the newness, the wholesale rejection of political engagement, and the enforcement of obedience to internal leadership, all of which are sustained by horror.
+
+# [Digital Deconversion | Scout Brobst](https://thebaffler.com/latest/digital-deconversion-brobst)
+
+> To leave a prophetic religion, then, demands a radical decentering of yourself in the world.
+
+# [iOS 16 Drops Support for iPhone 6s, iPhone 7, Original iPhone SE and More - MacRumors](https://www.macrumors.com/2022/06/06/ios-16-supported-iphones/)
+
+> the [iPhone SE](https://www.macrumors.com/roundup/iphone-se/), the [iPhone](https://www.macrumors.com/guide/iphone/) 6s, the ‌iPhone‌ 6s Plus, the iPod touch, and the ‌iPhone‌ 7 and ‌iPhone‌ 7 Plus.
+
+# [When Will iOS 16 and iPadOS 16 Be Released? - MacRumors](https://www.macrumors.com/guide/when-will-ios-16-and-ipados-16-be-released/)
+
+> For example, last year, when Apple announced the [iPhone 13](https://www.macrumors.com/roundup/iphone-13/) series on September 14, the company revealed that [iOS 15](https://www.macrumors.com/roundup/ios-15/) and [iPadOS 15](https://www.macrumors.com/roundup/ipados-15/) would be released six days later on September 20.
+
+# [Migrate from Evernote | FAQ & Support | Bear App](https://bear.app/faq/Import%20&%20export/Migrate%20from%20Evernote/)
+
+> Migrate from Evernote
+> =====================
+> 
+> To import your notes from Evernote you just need to perform a couple of steps:
+> 
+> *   Export your Evernote notes into a .enex archive following this [export guide](https://help.evernote.com/hc/en-us/articles/209005557-How-to-back-u)
+> *   Import the .enex inside Bear
+> *   On **macOS** you can import your notes by selecting `File` → `Import From` → `Evernote` from the menu bar.
+> *   On **iOS** you can access to the importers by going to `Import & Export` in the Preferences, locate the `Import From` section, select `Evernote` as format and tap on `Import Notes`.
+> 
+> The .enex format does not include informations about your notebooks. If you want to keep the notebook name as a reference in Bear we suggest to add a tag to your notes in Evernote before exporting them. The enex does retain the notes you trashed in Evernote, please consider empty Evernote's trash before exporting.
+> 
+> If you want to [migrate your Evernote's notebooks](http://christineyen.com/2017/04/migrating-evernote-notebooks-to-bear/) to Bear you can use tags. Create a new note in Bear with a tag for every notebook (e.g. `#notebook1`, `#notebook2`, `#notebook3`, etc…). Export each notebook in an enex file and import them one by one. After every import, drag and drop the new notes to the corresponding tag. Use the search to find the newly imported notes (e.g. to find the notes which do not belong to `#notebook1` and `#notebook2` search for `-#notebook1 -#notebook2`).
+
+# [catppuccin/catppuccin: 😸 Soothing pastel theme for the high-spirited!](https://github.com/catppuccin/catppuccin)
+
+> **Colorful is better than colorless**: the colorfulness of something contributes to the distinction amongst the parts of that _something_, making it marginally easier to understand how things are structured.
+
+# [Fonts | Roads.org.uk](https://www.roads.org.uk/fonts)
+
+> Variable Message Signs (also known as electronic or matrix signs) compose their messages with light-up panels. This lettering is used to calculate precisely which lights should be illuminated to make each letter.
+
+# [MacStories Weekly: Issue 332](https://club.macstories.net/posts/macstories-weekly-issue-332)
+
+> what’s the point of Shortcuts on the Mac if it’s just a launcher for AppleScript?
+
+# [iPadOS 16: Everything We Know | MacRumors](https://www.macrumors.com/roundup/ipados-16/)
+
+> With the current version of iPadOS, some apps can use up to 12GB of memory on the top-spec iPad Pro. With iPadOS 16, iPad apps have access to up to 16GB of memory thanks to virtual memory swap, allowing the device to tap into its storage to expand the available memory for all apps.
+
+# [explore/styleguide.md at main · github/explore](https://github.com/github/explore/blob/main/docs/styleguide.md)
+
+> **Repository:** Never abbreviate "repository." "Repository" is always lowercase unless it's starting a sentence.
+
+> **Open source:**
+> 
+> *   Adjective: “Open source” is always lowercase, except when at the start of the sentence. You can use it as an adjective without a hyphen, as in “open source project” or “open source software.”
+> *   Noun: You can also use the term on its own to refer to open source in general, as in “give back to open source."
+> *   Verb: It’s acceptable to use open source as a verb when referring to a project that has been “open sourced” or that you intend to “open source.”
+
+# [Working with non-code files - GitHub Docs](https://docs.github.com/en/repositories/working-with-files/using-files/working-with-non-code-files)
+
+> You can link to a particular row by clicking the row number, or select multiple rows by holding down the shift key. Just copy the URL and send it to a friend.
+
+# [Shared iPad overview - Apple Support](https://support.apple.com/guide/deployment/shared-ipad-overview-dep9a34c2ba2/web)
+
+> Shared iPad requires a [mobile device management (MDM)](https://support.apple.com/guide/deployment/aside/dep4098b9e67/1/web/1.0) solution and Managed Apple IDs that are issued and owned by the organization. Users with a Managed Apple ID can then sign in to Shared iPad, which is owned by the organization. Devices must have at least 32 GB of storage and be supervised. Shared iPad is supported on:
+> 
+> *   All iPad Pro models
+>     
+> *   iPad 5th generation or later
+>     
+> *   iPad Air 2 or later
+>     
+> *   iPad mini 4th generation or later
+
+# [Prepare Shared iPad - Apple Support](https://support.apple.com/guide/deployment/prepare-shared-ipad-dep6fa9dd532/web)
+
+> Apple School Manager
+> --------------------
+> 
+> Apple School Manager is a simple, web-based portal for IT administrators that provides a fast, streamlined way for you to deploy Apple devices that your organization has purchased directly from Apple or from a participating Apple Authorized Reseller or carrier. You can automatically enroll devices in your mobile device management (MDM) solution without having to physically touch or prepare the devices before users get them.
+
+# [Swift.org - Announcing the Documentation Workgroup](https://www.swift.org/blog/documentation-workgroup/)
+
+> The Documentation Workgroup aims to deliver a great documentation experience for the Swift language and ecosystem with the following goals:
+> 
+> *   Guide development for documentation tooling such as Swift-DocC to benefit the entire ecosystem
+> *   Define processes that govern contributions to documentation tooling
+> 
+> The workgroup will work to drive a cohesive documentation experience across Swift. Over time, the workgroup will help define guidelines for writing great documentation and participate in the documentation experience for the Swift language itself.
+
+# [Visions](https://www.robinsloan.com/newsletters/visions/#spotify?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
+
+> I’ve come to believe the fun­da­men­tal prop­erty of dig­i­tal media is slipperiness.
