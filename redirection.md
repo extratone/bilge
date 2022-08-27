@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08242022-214102`
+Updated `08262022-192938`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -21,21 +21,24 @@ Updated `08242022-214102`
 
 ## Automation
 
- I have managed to semi-automate the process of updating this very list by way of a single, constantly
-
-![GizmoPack Universal Variable](https://user-images.githubusercontent.com/43663476/186688762-1b08ac02-7aca-46bb-9648-d42bddc835db.png)
+ I have managed to semi-automate the process of updating this very list by way of [a relatively rudimentary Siri Shortcut](https://www.icloud.com/shortcuts/5ad24059cbd542d6824f9be09db90a52) in a single run.
 
 ### Source Files
 
+- [**iCloud Share Link**](https://www.icloud.com/shortcuts/5ad24059cbd542d6824f9be09db90a52)
 - [jelly](https://davidblue.wtf/redirection/WTFRedirectionUpdate.jelly)
 - [plist](https://davidblue.wtf/redirection/WTFRedirectionUpdate.plist)
 - [json](https://davidblue.wtf/redirection/WTFRedirectionUpdate.json)
 - [shortcut](https://davidblue.wtf/redirection/WTFRedirectionUpdate.shortcut)
 - [html](https://davidblue.wtf/redirection/automation)
 
+![GizmoPack Universal Variable](https://user-images.githubusercontent.com/43663476/186688762-1b08ac02-7aca-46bb-9648-d42bddc835db.png)
+
 ### GizmoPack Universal Variables
 
+If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https://apps.apple.com/us/app/gizmopack/id1505218567) (a quaint but very fascinating extension app for Siri Shortcuts,) you'll find that the entire value of this document is regularly updated within the *Protected* Universal Variable entitled `redirection`.
 
+[![GizmoPack Icon](https://user-images.githubusercontent.com/43663476/186686145-18f80148-c5c2-41ea-aefd-bef45f53e163.png)](https://apps.apple.com/us/app/gizmopack/id1505218567)
 
 ---
 
@@ -174,5 +177,6 @@ Updated `08242022-214102`
 - [**/waterminder**](https://davidblue.wtf/waterminder), Redirects to my fucking shared WaterMinder data.
 - [**/wayback**](https://davidblue.wtf/wayback), Redirects to the WTF Documentation page for the wayback_machine_downloader.
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
+- [**/wiki**](https://davidblue.wtf/wiki), Redirects to my (Failed) Personal Wiki experiment on Fucking Notion.
 - [**/wikipedia**](https://davidblue.wtf/wikipedia), Redirects to my personal user page on Wikipedia.
 - [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
