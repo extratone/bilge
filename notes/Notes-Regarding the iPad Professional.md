@@ -344,6 +344,7 @@ Face ID	Enabled by TrueDepth camera for facial recognition
 - ![Springboard Crash 2](https://i.snap.as/p4XrwFBk.png)
 - ![a-Shell Appearance Configuration](https://i.snap.as/25tUhopV.png)
 - ![VS Code (Browser Edition) in Blink Shell](https://i.snap.as/gTM2hL3v.png)
+- !["The Age of Instagram Face" from The New Yorker as shown in Apple News](https://i.snap.as/7Hul3Wia.png)
 
 ### Public Education Nightmare
 

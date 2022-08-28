@@ -1,8 +1,9 @@
 # Notes-iOS & iPadOS 16
-Updated `08232022-155521`
+Updated `08282022-014303`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/343) 
 - [iOS iPadOS 16](drafts://open?uuid=886C9F8B-3919-489A-AA62-D0558C7C7FC9)
+- [MacRumors  iPadOS 16 Overview](drafts://open?uuid=5E367BDA-BC8A-4037-A111-4949B9DEEC6D)
 - [Notes-Regarding the iPad Professional](drafts://open?uuid=3862CF0D-843C-4BDE-996A-054F901FBE16)
 - [WTF](https://davidblue.wtf/drafts/5F41FE18-2741-40E2-B078-D48E517E766C.html)
 - [Things Project](things:///show?id=68vpRYedsRZESxAHiMEpVk)
@@ -27,6 +28,7 @@ Updated `08232022-155521`
 ## Reference
 
 - [Here’s what iOS 16’s new battery percent indicator should have looked like](https://www.theverge.com/tldr/2022/8/9/23298785/apple-ios-16-better-battery-percent-indicator-mockup)
+- [Apple delivers iPadOS 16.1 beta ahead of iOS 16 fall release – TechCrunch](https://techcrunch.com/2022/08/23/apple-delivers-ipados-16-1-beta-ahead-of-ios-16-fall-release/)
 
 ## Actually Intriguing Features
 
@@ -35,6 +37,7 @@ Updated `08232022-155521`
 - Pinned Tabs!
 - [Shortcuts gains powerful Find Tabs action for Safari, more in second public beta](https://www.imore.com/apps/shortcuts-gains-powerful-find-tabs-action-for-safari-more-in-second-public-beta)
 - Open Link in the context menu.
+- ![*Copy Subject* Context Menu Option](https://i.snap.as/16ZsmFPt.png)
 
 ## Reminders
 
@@ -48,6 +51,7 @@ Updated `08232022-155521`
 
 - [Tweet](https://twitter.com/NeoYokel/status/1548485202241941504)
 - [Hypothesis Annotation](https://hyp.is/U150fAPZEe2UyMP_uhrJbw/www.apple.com/ios/ios-16-preview/features/)
+- [**My Shared Reading Safari Tab Group**](https://www.icloud.com/safari-tab-groups/069LGV_eP2C3OxlVF6GxtOd7Q#Reading)
 
 ![Shared Tab Group Linking in Safari](https://i.snap.as/bd0382DK.png)
 
@@ -72,6 +76,8 @@ omg... the one thing I was personally excited about in #iOS16... does appear to 
 - [What can we help you with?](https://twitter.com/NathanForYouOoC/status/1556076219380027392)
 - ![de-duplication in iCloud Photos!](https://i.snap.as/GskepzuA.png)
 - ![Viewing Shortcuts Library Sorted by Action Count](https://i.snap.as/X05UE1m4.png)
+- ![*Radiolab+* on the new Apple Podcasts](https://i.snap.as/eCifXECS.png)
+- ![*Copy Subject* Context Menu Option](https://i.snap.as/16ZsmFPt.png)
 
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/N0sZ8FMPQd">pic.twitter.com/N0sZ8FMPQd</a></p>&mdash; no context nathan (@NathanForYouOoC) <a href="https://twitter.com/NathanForYouOoC/status/1556076219380027392?ref_src=twsrc%5Etfw">August 7, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
