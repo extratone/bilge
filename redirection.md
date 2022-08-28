@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08262022-192938`
+Updated `08272022-214809`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -90,6 +90,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
 - [**/furryblimp**](https://davidblue.wtf/furryblimp), Redirects to the WTF documentation page for the *He Makes Witch House in His Furry Blimp* *Drycast* Excerpt.
+- [**/gallery**](https://davidblue.wtf/gallery), Redirects to the public page of my *Distributed* Shared iCloud Photos Album.
 - [**/gerogerigegege**](https://davidblue.wtf/gerogerigegege), Redirects to my main music Raindrop collection.
 - [**/github**](https://davidblue.wtf/github), Redirects to my GitHub profile.
 - [**/globe**](https://davidblue.wtf/globe), Redirects to my collected documentation page on WTF for iPad's Globe Keyboard Shortcuts.
@@ -153,6 +154,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/services**](https://davidblue.wtf/services), Redirects to my "Services I Offer" page.
 - [**/sessionize**](https://davidblue.wtf/sessionize), Redirects to my speaker profile on Sessionize.
 - [**/shortcutsdrop**](https://davidblue.wtf/shortcutsdrop), Redirects to my Siri Shortcuts Raindrop collection.
+- [**/shortcutsfb**](https://davidblue.wtf/shortcutsfb), Redirects to the (Siri) Shortcuts Facebook Group.
 - [**/shortcutsguide**](https://davidblue.wtf/shortcutsguide), Redirects to the official Shortcuts User Guide published by Apple.
 - [**/signal**](https://davidblue.wtf/signal), Redirects to Extratone's Signal group invite code.
 - [**/skype**](https://davidblue.wtf/skype), Redirects to David Blue's personal *Skype* invite link. Yes, Skype, in 2022.
