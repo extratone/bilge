@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08282022-051112`
+Updated `09012022-120347`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -184,3 +184,4 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/wiki**](https://davidblue.wtf/wiki), Redirects to my (Failed) Personal Wiki experiment on Fucking Notion.
 - [**/wikipedia**](https://davidblue.wtf/wikipedia), Redirects to my personal user page on Wikipedia.
 - [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
+- [**/woofs**](https://davidblue.wtf/woofs), Redirects to the live video stream of my local Yuppie Pet Daycare.
