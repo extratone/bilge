@@ -20,7 +20,7 @@ For better or worse, my voice as represented in _The Psalms_ has continued to be
 
 ### What does *The Psalms* cover?
 
-Primarily, this blog exists to amplify [undercovered](https://github.com/extratone/bilge/wiki/Terminology---Undercovered) developers, musicians, writers, curators, and media professionals, most often through the process of **analyzing their work**. 
+Primarily, this blog exists to amplify [undercovered](https://github.com/extratone/bilge/wiki/Terminology:-Undercovered) developers, musicians, writers, curators, and media professionals, most often through the process of **analyzing their work**. 
 
 Some recent examples include [my interview with Brad Varol](https://anchor.fm/davidblue/episodes/Brad-Varol--Father-of-Whyp-es12ge), who’s creating a handy web tool for sharing audio (replacing Clyp) and [my guide to music apps on iPhone](https://bilge.world/iphone-ios-music-apps).
 

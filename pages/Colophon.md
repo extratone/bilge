@@ -8,11 +8,14 @@
 
 A somewhat-outdated version of this site's theme is [listed among others](https://write.as/themes/bilge) in Writeas' official themes list. The full, up-to-date CSS and JS can be found below and on in [this GitHub repository](https://github.com/extratone/bilge), which I created in November, 2020 as an experiment in using Git to track editorial changes. (*That means you can see [current in-progress drafts](https://github.com/extratone/bilge/tree/main/Drafts)!*)
 
-* Download the entirety of this blog in EPUB format **[here](http://bilge.world/.epub)**.
-* Subscribe to this blog's RSS feed **[here](https://bilge.world/feed/)**.
-* This blog is federated at **@b@bilge.world**.
-* This blog is integrated with [Hypothes.is](https://hypothes.is/users/DavidBlue). (See [CJ Eller's guide](https://discuss.write.as/t/adding-comments-to-your-blog/1146).)
-* See [the Tiny version of this blog](https://tiny.write.as/bilge) if you absolutely despise my CSS.
+- Download the entirety of this blog in EPUB format **[here](http://bilge.world/.epub)**.
+- Subscribe to this blog's RSS feed **[here](https://bilge.world/feed/)**.
+- This blog is federated at **@b@bilge.world**.
+- This blog is integrated with [Hypothes.is](https://hypothes.is/users/DavidBlue). (See [CJ Eller's guide](https://discuss.write.as/t/adding-comments-to-your-blog/1146).)
+- See [the Tiny version of this blog](https://tiny.write.as/bilge) if you absolutely despise my CSS.
+- As of 2021, this blog is integrated with [Remark.as](https://remark.as) - Write.as’ Discussion platform. You can view my profile [here](https://remark.as/extratone). Otherwise, look for this link:
+
+<!--comment-->
 
 <!--emailsub-->
 
@@ -33,14 +36,12 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 - [Shife](https://colornames.org/color/da2573)
 - [Royal Chafe](https://colornames.org/color/1c0021)
 
-_Download The Psalms 3.0 color pack for a limited time [here](https://github.com/extratone/bilge/blob/main/assets/The%20Psalms%20Color%20Pack.zip)._
-
 ## Code
 
 [_The Psalms’_ GitHub Repository](https://github.com/extratone/bilge) also hosts the technical documentation for its Write.as theme. Download the latest “release,” [**here**](https://github.com/extratone/bilge/releases) and/or view the raw CSS [here](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css).
 
-![The Psalms Drafts Theme](https://user-images.githubusercontent.com/43663476/115521804-23b44700-a251-11eb-84da-77b446e59c37.png)
+![The Psalms Refreshed](https://user-images.githubusercontent.com/43663476/156899034-ee1121fb-b883-4bd1-ab83-e5aa6e43e08d.png)
 
 ### Drafts Theme
 
-If you happen to be a user of agiletortoise’s infamous [Drafts app](https://getdrafts.com) on iOS and/or MacOS, I have just released [**a quite-uncanny theme**](https://actions.getdrafts.com/t/1km) on the new Themes Directory emulating _The Psalms_’ reading experience which I am quite pleased with.
+If you happen to be a user of agiletortoise’s infamous [Drafts app](https://getdrafts.com) on iOS and/or MacOS, I have published [**a quite-uncanny theme**](https://actions.getdrafts.com/t/1km) on the Drafts Theme Directory mimicking the reading experience of this blog.
