@@ -1,6 +1,7 @@
 # Fucking Off Forever
-Updated `08312022-213254`
+Updated `09012022-013140`
 
+- [The Psalms](https://bilge.world/fucking-off-forever)
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/363)
 - [Local](drafts://open?uuid=1B3F92E5-7F8A-49F4-9C29-1714F3999FE8)
 - [Notes-Fucking Off Forever](drafts://open?uuid=4DF234AA-51C4-4B22-B251-803E984345FC)
@@ -9,9 +10,11 @@ Updated `08312022-213254`
 
 ---
 
+# Fucking Off Forever*
+
 ![08312022-210803 Homescreen](https://i.snap.as/9gA3TMn4.png)
 
-## *Or at least until I can regain control of myself regarding current happenings.
+## *Or at least until I can regain a reasonable editorial perspective of current happenings.
 
 <!--more-->
 
@@ -44,4 +47,12 @@ The time I haven't spent in this medium has been redirected toward a few key sou
 
 <iframe style="border: 0; width: 100%; height: 500px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/blessed-web-utilities-13380122/embed/sort=-created&hide=excerpt%2C+info%2C+add"></iframe>
 
+With its new ownership, I've continued to pour more and more energy into Siri Shortcuts published [on RoutineHub](https://routinehub.co/user/blue). I'm proud to have been asked to participate directly in the platform's upcoming aggregatory efforts. I've also established a reliable habit of sharing Shortcuts documentation/source files on [the extratone Telegram channel](https://t.me/s/extratone), among many other aspects of my ongoing Online Life. 
+
+I've also restarted an [*Extratone*-era habit](https://davidblue.wtf/drafts/1C547BA9-D29F-4F2E-8B24-3F5872D329B6.html) of using redirects to simultaneously simplify and index topical URLs to both my own projects and external resources. My [new, NeoCities-bound Redirection Index](https://davidblue.wtf/redirection) should be a robust way to keep up with David Blue, Online, therefore.
+
+As always, I hope you'll freely [contact me](https://gist.github.com/extratone/7118e115b200f19d577dfe6a330d898f/raw/790cd2ec3cdd160a462abb1caf443315ca8b91f3/davidblue.vcf) with comments/suggestions/feedback/rants/etc. As for this particular feed, I doubt there will be much noticeable change from its status quo in the past ~two years.
+
 <!--comment-->
+
+#meta

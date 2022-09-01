@@ -1,10 +1,12 @@
 # Notes-Fucking Off Forever
-Updated `08312022-194514`
+Updated `09012022-013149`
 
+- [The Psalms](https://bilge.world/fucking-off-forever)
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/363)
 - [Fucking Off Forever](drafts://open?uuid=1B3F92E5-7F8A-49F4-9C29-1714F3999FE8)
 - [Notes](drafts://open?uuid=4DF234AA-51C4-4B22-B251-803E984345FC)
 - [WTF](https://davidblue.wtf/drafts/4DF234AA-51C4-4B22-B251-803E984345FC.html)
+- [Telegraph](https://telegra.ph/Fucking-Off-Forever-09-01)
 - [Things](things:///show?id=UhAbJ8GXNTzSRFJ14xisc)
 
 ---
@@ -29,6 +31,7 @@ I'm going to try to finish this update-y blorg post tonight, but here's a little
 - [Title I, Part A Program](https://www2.ed.gov/programs/titleiparta/index.html)
 - [iPad 9.7" 5th Gen (Wi-Fi Only) 32, 128 GB Specs (A1822, MP2G2LL/A*, 3017*, iPad6,11)](https://everymac.com/systems/apple/ipad/specs/apple-ipad-9-7-inch-early-2017-wi-fi-only-specs.html)
 - [ERIC - EJ1235346 - Use of iPads in the Education of Children with Autism-Spectrum Disorder, Higher Education Studies, 2019](https://eric.ed.gov/?id=EJ1235346)
+- [Contact Card](https://gist.github.com/extratone/7118e115b200f19d577dfe6a330d898f/raw/790cd2ec3cdd160a462abb1caf443315ca8b91f3/davidblue.vcf) (Gist Raw)
 
 ## Reading
 
