@@ -1,0 +1,804 @@
+@article{jordan2019social,
+  title={From social networks to publishing platforms: A review of the history and scholarship of academic social network sites},
+  author={Jordan, Katy},
+  journal={Frontiers in Digital Humanities},
+  volume={6},
+  pages={5},
+  year={2019},
+  publisher={Frontiers Media SA}
+}
+
+@article{dias2020emphasizing,
+  title={Emphasizing publishers does not effectively reduce susceptibility to misinformation on social media},
+  author={Dias, Nicholas and Pennycook, Gordon and Rand, David G},
+  journal={Harvard Kennedy School Misinformation Review},
+  volume={1},
+  number={1},
+  year={2020}
+}
+
+@article{bell2017platform,
+  title={The platform press: How Silicon Valley reengineered journalism},
+  author={Bell, Emily J and Owen, Taylor and Brown, Peter D and Hauka, Codi and Rashidian, Nushin},
+  year={2017}
+}
+
+@article{ju2014will,
+  title={Will social media save newspapers? Examining the effectiveness of Facebook and Twitter as news platforms},
+  author={Ju, Alice and Jeong, Sun Ho and Chyi, Hsiang Iris},
+  journal={Journalism practice},
+  volume={8},
+  number={1},
+  pages={1--17},
+  year={2014},
+  publisher={Routledge}
+}
+
+@article{kleis2018dealing,
+  title={Dealing with digital intermediaries: A case study of the relations between publishers and platforms},
+  author={Kleis Nielsen, Rasmus and Ganter, Sarah Anne},
+  journal={New media \& society},
+  volume={20},
+  number={4},
+  pages={1600--1617},
+  year={2018},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{rashidian2020platforms,
+  title={Platforms and publishers: The end of an era},
+  author={Rashidian, Nushin and Tsiveriotis, Georgios and Brown, Peter D and Bell, Emily J and Hartstone, Abigail},
+  year={2020}
+}
+
+@article{sun2019impact,
+  title={The impact of enterprise social media platforms on knowledge sharing: An affordance lens perspective},
+  author={Sun, Yuan and Zhou, Xinjie and Jeyaraj, Anand and Shang, Rong-An and Hu, Feng},
+  journal={Journal of Enterprise Information Management},
+  year={2019},
+  publisher={Emerald Publishing Limited}
+}
+
+@article{magaudda2019practice,
+  title={Practice Theory and Media Infrastructures:" Infrastructural Disclosures" in Smartphone Use},
+  author={Magaudda, Paolo and Piccioni, Tiziana},
+  journal={Sociologica},
+  volume={13},
+  number={3},
+  pages={45--58},
+  year={2019}
+}
+
+@article{poell2019platformisation,
+  title={Platformisation},
+  author={Poell, Thomas and Nieborg, David and Van Dijck, Jos{\'e}},
+  journal={Internet Policy Review},
+  volume={8},
+  number={4},
+  pages={1--13},
+  year={2019},
+  publisher={Berlin: Alexander von Humboldt Institute for Internet and Society}
+}
+
+@article{partin2020bit,
+  title={Bit by (Twitch) bit:“platform capture” and the evolution of digital platforms},
+  author={Partin, William Clyde},
+  journal={Social media+ society},
+  volume={6},
+  number={3},
+  pages={2056305120933981},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{gawer2021digital,
+  title={Digital platforms’ boundaries: The interplay of firm scope, platform sides, and digital interfaces},
+  author={Gawer, Annabelle},
+  journal={Long Range Planning},
+  volume={54},
+  number={5},
+  pages={102045},
+  year={2021},
+  publisher={Pergamon}
+}
+
+@article{niemeyer2020commodification,
+  title={The commodification of time and memory: Online communities and the dynamics of commercially produced nostalgia},
+  author={Niemeyer, Katharina and Keightley, Emily},
+  journal={New Media \& Society},
+  volume={22},
+  number={9},
+  pages={1639--1662},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{ben2020counter,
+  title={Counter-archiving Facebook},
+  author={Ben-David, Anat},
+  journal={European Journal of Communication},
+  volume={35},
+  number={3},
+  pages={249--264},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{lu2021determinants,
+  title={Determinants of cross-cutting discussion on Facebook: Political interest, news consumption, and strong-tie heterogeneity},
+  author={Lu, Yanqin and Lee, Jae Kook},
+  journal={New Media \& Society},
+  volume={23},
+  number={1},
+  pages={175--192},
+  year={2021},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{nitschke2016political,
+  title={Political organizations’ use of websites and Facebook},
+  author={Nitschke, Paula and Donges, Patrick and Schade, Henriette},
+  journal={New Media \& Society},
+  volume={18},
+  number={5},
+  pages={744--764},
+  year={2016},
+  publisher={Sage Publications Sage UK: London, England}
+}
+
+@article{wilken2014places,
+  title={Places nearby: Facebook as a location-based social media platform},
+  author={Wilken, Rowan},
+  journal={New Media \& Society},
+  volume={16},
+  number={7},
+  pages={1087--1103},
+  year={2014},
+  publisher={Sage Publications Sage UK: London, England}
+}
+
+@article{chen2021news,
+  title={News on Facebook: How Facebook and newspapers build mutual brand loyalty through audience engagement},
+  author={Chen, Victoria Y and Pain, Paromita},
+  journal={Journalism \& Mass Communication Quarterly},
+  volume={98},
+  number={2},
+  pages={366--386},
+  year={2021},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@article{mcinroy2022wands,
+  title={Wands up! Internet-mediated social advocacy organizations and youth-oriented connective action},
+  author={McInroy, Lauren B and Beer, Oliver WJ},
+  journal={New Media \& Society},
+  volume={24},
+  number={3},
+  pages={724--740},
+  year={2022},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{goyanes2022beyond,
+  title={Beyond positive or negative: Understanding the phenomenology, typologies and impact of incidental news exposure on citizens’ daily lives},
+  author={Goyanes, Manuel and Demeter, Marton},
+  journal={new media \& society},
+  volume={24},
+  number={3},
+  pages={760--777},
+  year={2022},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{stenstrom2022involuntary,
+  title={Involuntary childlessness online: Digital lifelines through blogs and Instagram},
+  author={Stenstr{\"o}m, Kristina},
+  journal={new media \& society},
+  volume={24},
+  number={3},
+  pages={797--814},
+  year={2022},
+  publisher={Sage Publications Sage UK: London, England}
+}
+
+@article{calvo2022free,
+  title={Free software meets Facebook: Placing digital platforms’ usage by free culture communities},
+  author={Calvo, Dafne},
+  journal={new media \& society},
+  volume={24},
+  number={5},
+  pages={1076--1096},
+  year={2022},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@inproceedings{dhekane2011talash,
+  title={Talash: Friend finding in federated social networks},
+  author={Dhekane, Ruturaj and Vibber, Brion},
+  booktitle={LDOW},
+  year={2011}
+}
+
+@inproceedings{bielenberg2012growth,
+  title={The growth of diaspora-a decentralized online social network in the wild},
+  author={Bielenberg, Ames and Helm, Lara and Gentilucci, Anthony and Stefanescu, Dan and Zhang, Honggang},
+  booktitle={2012 proceedings IEEE INFOCOM workshops},
+  pages={13--18},
+  year={2012},
+  organization={IEEE}
+}
+
+@article{he2019central,
+  title={Central server free federated learning over single-sided trust social networks},
+  author={He, Chaoyang and Tan, Conghui and Tang, Hanlin and Qiu, Shuang and Liu, Ji},
+  journal={arXiv preprint arXiv:1910.04956},
+  year={2019}
+}
+
+@article{boshrooyeh2019integrita,
+  title={Integrita: Protecting View-Consistency in Online Social Network with Federated Servers},
+  author={Boshrooyeh, Sanaz Taheri and K{\"u}p{\c{c}}{\"u}, Alptekin and {\"O}zkasap, {\"O}znur},
+  journal={Cryptology ePrint Archive},
+  year={2019}
+}
+
+@article{zhou2019privacy,
+  title={A privacy-preserving distributed contextual federated online learning framework with big data support in social recommender systems},
+  author={Zhou, Pan and Wang, Kehao and Guo, Linke and Gong, Shimin and Zheng, Bolong},
+  journal={IEEE Transactions on Knowledge and Data Engineering},
+  volume={33},
+  number={3},
+  pages={824--838},
+  year={2019},
+  publisher={IEEE}
+}
+
+@article{chen2019federated,
+  title={Federated learning of out-of-vocabulary words},
+  author={Chen, Mingqing and Mathews, Rajiv and Ouyang, Tom and Beaufays, Fran{\c{c}}oise},
+  journal={arXiv preprint arXiv:1903.10635},
+  year={2019}
+}
+
+@article{rodgers2019local,
+  title={Local Chapter Outposts: A Dilemma for Federated Social Movement Organizations},
+  author={Rodgers, Diane M},
+  journal={Sociological Inquiry},
+  volume={89},
+  number={3},
+  pages={373--400},
+  year={2019},
+  publisher={Wiley Online Library}
+}
+
+@article{lovisettofoundation,
+  title={" A foundation for extensible and decentralized social networks},
+  author={Lovisetto, Gary and Riviere, Etienne}
+}
+
+@article{chen2021decentralized,
+  title={Decentralized governance of digital platforms},
+  author={Chen, Yan and Pereira, Igor and Patel, Pankaj C},
+  journal={Journal of Management},
+  volume={47},
+  number={5},
+  pages={1305--1337},
+  year={2021},
+  publisher={SAGE Publications Sage CA: Los Angeles, CA}
+}
+
+@article{kwet2020fixing,
+  title={Fixing social media: toward a democratic digital commons},
+  author={Kwet, Michael},
+  journal={Markets, Globalization \& Development Review},
+  volume={5},
+  number={1},
+  year={2020}
+}
+
+@article{camacho2020four,
+  title={The four dimensions of social network analysis: An overview of research methods, applications, and software tools},
+  author={Camacho, David and Panizo-LLedot, {\'A}ngel and Bello-Orgaz, Gema and Gonzalez-Pardo, Antonio and Cambria, Erik},
+  journal={Information Fusion},
+  volume={63},
+  pages={88--120},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{zulli2020rethinking,
+  title={Rethinking the “social” in “social media”: Insights into topology, abstraction, and scale on the Mastodon social network},
+  author={Zulli, Diana and Liu, Miao and Gehl, Robert},
+  journal={New Media \& Society},
+  volume={22},
+  number={7},
+  pages={1188--1205},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@inproceedings{zignani2019mastodon,
+  title={Mastodon content warnings: Inappropriate contents in a microblogging platform},
+  author={Zignani, Matteo and Quadri, Christian and Galdeman, Alessia and Gaito, Sabrina and Rossi, Gian Paolo},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={13},
+  pages={639--645},
+  year={2019}
+}
+
+@inproceedings{raman2019challenges,
+  title={Challenges in the decentralised web: The mastodon case},
+  author={Raman, Aravindh and Joglekar, Sagar and Cristofaro, Emiliano De and Sastry, Nishanth and Tyson, Gareth},
+  booktitle={Proceedings of the Internet Measurement Conference},
+  pages={217--229},
+  year={2019}
+}
+
+@inproceedings{zignani2019footprints,
+  title={The footprints of a “mastodon”: How a decentralized architecture influences online social relationships},
+  author={Zignani, Matteo and Quadri, Christian and Gaito, Sabrina and Cherifi, Hocine and Rossi, Gian Paolo},
+  booktitle={IEEE INFOCOM 2019-IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)},
+  pages={472--477},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{naskali2020examination,
+  title={Examination of Hard-Coded Censorship in Open Source Mastodon Clients},
+  author={Naskali, Juhani},
+  journal={ETHICOMP 2020},
+  pages={333},
+  year={2020}
+}
+
+@inproceedings{guidi2020rewarding,
+  title={A rewarding model for the next generation social media},
+  author={Guidi, Barbara and Clemente, Vanessa and Garc{\'\i}a, Tom{\'a}s and Ricci, Laura},
+  booktitle={Proceedings of the 6th EAI International Conference on Smart Objects and Technologies for Social Good},
+  pages={169--174},
+  year={2020}
+}
+
+@article{cortegiani2019predatory,
+  title={Predatory open-access publishing in anesthesiology},
+  author={Cortegiani, Andrea and Longhini, Federico and Sanfilippo, Filippo and Raineri, Santi Maurizio and Gregoretti, Cesare and Giarratano, Antonino},
+  journal={Anesthesia \& Analgesia},
+  volume={128},
+  number={1},
+  pages={182--187},
+  year={2019},
+  publisher={LWW}
+}
+
+@article{tennant2019ten,
+  title={Ten hot topics around scholarly publishing},
+  author={Tennant, Jonathan P and Crane, Harry and Crick, Tom and Davila, Jacinto and Enkhbayar, Asura and Havemann, Johanna and Kramer, Bianca and Martin, Ryan and Masuzzo, Paola and Nobes, Andy and others},
+  journal={Publications},
+  volume={7},
+  number={2},
+  pages={34},
+  year={2019},
+  publisher={MDPI}
+}
+
+@article{bravo2019effect,
+  title={The effect of publishing peer review reports on referee behavior in five scholarly journals},
+  author={Bravo, Giangiacomo and Grimaldo, Francisco and L{\'o}pez-I{\~n}esta, Emilia and Mehmani, Bahar and Squazzoni, Flaminio},
+  journal={Nature communications},
+  volume={10},
+  number={1},
+  pages={1--8},
+  year={2019},
+  publisher={Nature Publishing Group}
+}
+
+@misc{squazzoni2020unlock,
+  title={Unlock ways to share data on peer review},
+  author={Squazzoni, Flaminio and Ahrweiler, Petra and Barros, Tiago and Bianchi, Federico and Birukou, Aliaksandr and Blom, Harry JJ and Bravo, Giangiacomo and Cowley, Stephen and Dignum, Virginia and Dondio, Pierpaolo and others},
+  year={2020},
+  publisher={Nature Publishing Group}
+}
+
+@article{ross2019guidelines,
+  title={Guidelines for open peer review implementation},
+  author={Ross-Hellauer, Tony and G{\"o}r{\"o}gh, Edit},
+  journal={Research Integrity and Peer Review},
+  volume={4},
+  number={1},
+  pages={1--12},
+  year={2019},
+  publisher={BioMed Central}
+}
+
+@article{tennant2019ten,
+  title={Ten myths around open scholarly publishing},
+  author={Tennant, Jonathan P and Crane, Harry and Crick, Tom and Davila, Jacinto and Enkhbayar, Asura and Havemann, Johanna and Kramer, Bianca and Martin, Ryan and Masuzzo, Paola and Nobes, Andy and others},
+  year={2019}
+}
+
+@article{tennant2020limitations,
+  title={The limitations to our understanding of peer review},
+  author={Tennant, Jonathan P and Ross-Hellauer, Tony},
+  journal={Research integrity and peer review},
+  volume={5},
+  number={1},
+  pages={1--14},
+  year={2020},
+  publisher={BioMed Central}
+}
+
+@article{gerwing2020quantifying,
+  title={Quantifying professionalism in peer review},
+  author={Gerwing, Travis G and Allen Gerwing, Alyssa M and Avery-Gomm, Stephanie and Choi, Chi-Yeung and Clements, Jeff C and Rash, Joshua A},
+  journal={Research Integrity and Peer Review},
+  volume={5},
+  number={1},
+  pages={1--8},
+  year={2020},
+  publisher={BioMed Central}
+}
+
+@article{besanccon2020open,
+  title={Open up: a survey on open and non-anonymized peer reviewing},
+  author={Besan{\c{c}}on, Lonni and R{\"o}nnberg, Niklas and L{\"o}wgren, Jonas and Tennant, Jonathan P and Cooper, Matthew},
+  journal={Research Integrity and Peer Review},
+  volume={5},
+  number={1},
+  pages={1--11},
+  year={2020},
+  publisher={BioMed Central}
+}
+
+@article{petersen2019megajournal,
+  title={Megajournal mismanagement: Manuscript decision bias and anomalous editor activity at PLOS ONE},
+  author={Petersen, Alexander M},
+  journal={Journal of Informetrics},
+  volume={13},
+  number={4},
+  pages={100974},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{jensen2019systematic,
+  title={A systematic literature review of the use of Semantic Web technologies in formal education},
+  author={Jensen, Jesper},
+  journal={British Journal of Educational Technology},
+  volume={50},
+  number={2},
+  pages={505--517},
+  year={2019}
+}
+
+@article{kou2020evaluation,
+  title={Evaluation of feature selection methods for text classification with small datasets using multiple criteria decision-making methods},
+  author={Kou, Gang and Yang, Pei and Peng, Yi and Xiao, Feng and Chen, Yang and Alsaadi, Fawaz E},
+  journal={Applied Soft Computing},
+  volume={86},
+  pages={105836},
+  year={2020},
+  publisher={Elsevier}
+}
+
+@article{rogers2020deplatforming,
+  title={Deplatforming: Following extreme Internet celebrities to Telegram and alternative social media},
+  author={Rogers, Richard},
+  journal={European Journal of Communication},
+  volume={35},
+  number={3},
+  pages={213--229},
+  year={2020},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{welbers2018social,
+  title={Social media gatekeeping: An analysis of the gatekeeping influence of newspapers’ public Facebook pages},
+  author={Welbers, Kasper and Opgenhaffen, Micha{\"e}l},
+  journal={New Media \& Society},
+  volume={20},
+  number={12},
+  pages={4728--4747},
+  year={2018},
+  publisher={SAGE Publications Sage UK: London, England}
+}
+
+@article{bucher2017affordances,
+  title={The affordances of social media platforms},
+  author={Bucher, Taina and Helmond, Anne},
+  year={2017},
+  publisher={Sage Publications}
+}
+
+@article{primack2017use,
+  title={Use of multiple social media platforms and symptoms of depression and anxiety: A nationally-representative study among US young adults},
+  author={Primack, Brian A and Shensa, Ariel and Escobar-Viera, C{\'e}sar G and Barrett, Erica L and Sidani, Jaime E and Colditz, Jason B and James, A Everette},
+  journal={Computers in human behavior},
+  volume={69},
+  pages={1--9},
+  year={2017},
+  publisher={Elsevier}
+}
+
+@inproceedings{zignani2018follow,
+  title={Follow the “mastodon”: Structure and evolution of a decentralized online social network},
+  author={Zignani, Matteo and Gaito, Sabrina and Rossi, Gian Paolo},
+  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},
+  volume={12},
+  number={1},
+  pages={541--550},
+  year={2018}
+}
+
+@inproceedings{auvolat2019making,
+  title={Making federated networks more distributed},
+  author={Auvolat, Alex},
+  booktitle={2019 38th Symposium on Reliable Distributed Systems (SRDS)},
+  pages={383--3831},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{geradin2019google,
+  title={Google’s (Forgotten) Monopoly--Ad Technology Services on the Open Web},
+  author={Geradin, Damien and Katsifis, Dimitrios},
+  year={2019},
+  publisher={TILEC Discussion Paper, Forthcoming}
+}
+
+@article{edosomwan2011history,
+  title={The history of social media and its impact on business},
+  author={Edosomwan, Simeon and Prakasan, Sitalaskshmi Kalangot and Kouame, Doriane and Watson, Jonelle and Seymour, Tom},
+  journal={Journal of Applied Management and entrepreneurship},
+  volume={16},
+  number={3},
+  pages={79},
+  year={2011},
+  publisher={Taylor \& Francis Ltd.}
+}
+
+@article{good2013scrapbook,
+  title={From scrapbook to Facebook: A history of personal media assemblage and archives},
+  author={Good, Katie Day},
+  journal={New media \& society},
+  volume={15},
+  number={4},
+  pages={557--573},
+  year={2013},
+  publisher={Sage Publications Sage UK: London, England}
+}
+
+@article{obar2015social,
+  title={Social media definition and the governance challenge-an introduction to the special issue},
+  author={Obar, Jonathan A and Wildman, Steven S},
+  journal={Obar, JA and Wildman, S.(2015). Social media definition and the governance challenge: An introduction to the special issue. Telecommunications policy},
+  volume={39},
+  number={9},
+  pages={745--750},
+  year={2015}
+}
+
+@article{helmond2019facebook,
+  title={Facebook’s evolution: Development of a platform-as-infrastructure},
+  author={Helmond, Anne and Nieborg, David B and van der Vlist, Fernando N},
+  journal={Internet Histories},
+  volume={3},
+  number={2},
+  pages={123--146},
+  year={2019},
+  publisher={Routledge}
+}
+
+@article{barlow2000debate,
+  title={The debate over Internet Governance: A snapshot in the year 2000},
+  author={Barlow, JP},
+  journal={Harvard, MA. URL: http://cyber. law. harvard. edu/is99/governance/barlow. html [Last Accessed 2010-03-10]},
+  year={2000}
+}
+
+@article{watson2016toward,
+  title={Toward a constructive technology criticism},
+  author={Watson, Sara M},
+  year={2016}
+}
+
+@article{jerrentrup2020chronology,
+  title={Chronology in Social Media: Linear Media and Non-linear Postings},
+  author={Jerrentrup, Maja Tabea},
+  journal={Global Media Journal},
+  volume={18},
+  number={34},
+  pages={1--8},
+  year={2020},
+  publisher={Research and Reviews}
+}
+
+@inproceedings{wainakh2019tweet,
+  title={Tweet beyond the cage: a hybrid solution for the privacy dilemma in online social networks},
+  author={Wainakh, Aidmar and Grube, Tim and Daubert, Jorg and Porth, Carsten and Muhlhauser, Max},
+  booktitle={2019 IEEE Global Communications Conference (GLOBECOM)},
+  pages={1--6},
+  year={2019},
+  organization={IEEE}
+}
+
+@article{bull2015multimedia,
+  title={Multimedia journalism: A practical guide},
+  author={Bull, Andy},
+  year={2015},
+  publisher={Routledge}
+}
+
+@article{cayzer2004semantic,
+  title={Semantic blogging and decentralized knowledge management},
+  author={Cayzer, Steve},
+  journal={Communications of the ACM},
+  volume={47},
+  number={12},
+  pages={47--52},
+  year={2004},
+  publisher={ACM New York, NY, USA}
+}
+
+@article{deuze2018beyond,
+  title={Beyond journalism: Theorizing the transformation of journalism},
+  author={Deuze, Mark and Witschge, Tamara},
+  journal={Journalism},
+  volume={19},
+  number={2},
+  pages={165--181},
+  year={2018},
+  publisher={Sage Publications Sage UK: London, England}
+}
+
+@misc{domingue2011handbook,
+  title={Handbook of semantic web technologies},
+  author={Domingue, John and Fensel, Dieter and Hendler, James A},
+  year={2011},
+  publisher={Springer Berlin}
+}
+
+@article{heravi2015introducing,
+  title={Introducing social semantic journalism},
+  author={Heravi, Bahareh Rahmanzadeh and McGinnis, Jarred},
+  journal={The Journal of Media Innovations},
+  volume={2},
+  number={1},
+  pages={131--140},
+  year={2015}
+}
+
+@article{donovan2019source,
+  title={Source Hacking},
+  author={Donovan, Joan and Friedberg, Brian},
+  journal={Data \& Society},
+  year={2019}
+}
+
+@article{almeida2016text,
+  title={Text normalization and semantic indexing to enhance instant messaging and SMS spam filtering},
+  author={Almeida, Tiago A and Silva, Tiago P and Santos, Igor and Hidalgo, Jos{\'e} M G{\'o}mez},
+  journal={Knowledge-Based Systems},
+  volume={108},
+  pages={25--32},
+  year={2016},
+  publisher={Elsevier}
+}
+
+@book{breslin2009social,
+  title={The social semantic web},
+  author={Breslin, John G and Passant, Alexandre and Decker, Stefan},
+  year={2009},
+  publisher={Springer Science \& Business Media}
+}
+
+@book{cool2008communities,
+  title={Communities of innovation: Cyborganic and the birth of networked social media},
+  author={Cool, Jennifer Catharine},
+  year={2008},
+  publisher={Citeseer}
+}
+
+@article{barabas2017defending,
+  title={Defending Internet freedom through decentralization: back to the future},
+  author={Barabas, Chelsea and Narula, Neha and Zuckerman, Ethan},
+  journal={The Center for Civic Media \& The Digital Currency Initiative MIT Media Lab},
+  year={2017}
+}
+
+@article{couldry2019data,
+  title={Data colonialism: Rethinking big data’s relation to the contemporary subject},
+  author={Couldry, Nick and Mejias, Ulises A},
+  journal={Television \& New Media},
+  volume={20},
+  number={4},
+  pages={336--349},
+  year={2019},
+  publisher={Sage Publications Sage CA: Los Angeles, CA}
+}
+
+@article{zuckerman2020digital,
+  title={What is Digital Public Infrastructure?},
+  author={Zuckerman, Ethan},
+  journal={center for journalism and liberty”, available at: https://static1. squarespace. com/static/5efcb64b1cf16e4c487b2f61},
+  volume={5},
+  pages={1605639019414},
+  year={2020}
+}
+
+@article{zuckerman2020case,
+  title={The case for digital public infrastructure},
+  author={Zuckerman, Ethan},
+  year={2020}
+}
+
+@inproceedings{anger2011measuring,
+  title={Measuring influence on Twitter},
+  author={Anger, Isabel and Kittl, Christian},
+  booktitle={Proceedings of the 11th international conference on knowledge management and knowledge technologies},
+  pages={1--4},
+  year={2011}
+}
+
+@article{westerman2012social,
+  title={A social network as information: The effect of system generated reports of connectedness on credibility on Twitter},
+  author={Westerman, David and Spence, Patric R and Van Der Heide, Brandon},
+  journal={Computers in Human Behavior},
+  volume={28},
+  number={1},
+  pages={199--206},
+  year={2012},
+  publisher={Elsevier}
+}
+
+@article{lewis2009friending,
+  title={‘Friending’: London-based undergraduates’ experience of Facebook},
+  author={Lewis, Jane and West, Anne},
+  journal={New Media \& Society},
+  volume={11},
+  number={7},
+  pages={1209--1229},
+  year={2009},
+  publisher={Sage Publications Sage UK: London, England}
+}
+
+@article{bartholomew1991attachment,
+  title={Attachment styles among young adults: a test of a four-category model.},
+  author={Bartholomew, Kim and Horowitz, Leonard M},
+  journal={Journal of personality and social psychology},
+  volume={61},
+  number={2},
+  pages={226},
+  year={1991},
+  publisher={American Psychological Association}
+}
+
+@inproceedings{alyahya2012ipads,
+  title={iPads in education: A qualitative study of students’ attitudes and experiences},
+  author={Alyahya, Suzan and Gall, James E},
+  booktitle={EdMedia+ Innovate Learning},
+  pages={1266--1271},
+  year={2012},
+  organization={Association for the Advancement of Computing in Education (AACE)}
+}
+
+@article{walsh2018teacher,
+  title={Teacher attitudes regarding barriers to meaningfully implementing iPads in a primary school setting},
+  author={Walsh, Valerie and Farren, Margaret},
+  journal={Computers in the Schools},
+  volume={35},
+  number={2},
+  pages={152--170},
+  year={2018},
+  publisher={Taylor \& Francis}
+}
+
+@article{yavich2019use,
+  title={Use of iPads in the education of children with Autism-Spectrum Disorder.},
+  author={Yavich, Roman and Davidovich, Nitza},
+  journal={Higher Education Studies},
+  volume={9},
+  number={4},
+  pages={214--225},
+  year={2019},
+  publisher={ERIC}
+}
