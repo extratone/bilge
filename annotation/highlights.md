@@ -2230,3 +2230,55 @@
 # [Visions](https://www.robinsloan.com/newsletters/visions/#spotify?utm_source=hackernewsletter&utm_medium=email&utm_term=fav)
 
 > I’ve come to believe the fun­da­men­tal prop­erty of dig­i­tal media is slipperiness.
+
+# [How to Download Entire Website from the Wayback Machine - Tony Teaches Tech](https://tonyteaches.tech/download-wayback-machine-website/)
+
+> Be sure to replace the URL in the _wget_ command below with your own.
+> 
+> wget --recursive --no-clobber --page-requisites --convert-links --domains web.archive.org --no-parent https://web.archive.org/web/20180314211747/https://tonyflorida.com
+> 
+> wget --recursive --no-clobber --page-requisites --convert-links --domains web.archive.org --no-parent https://web.archive.org/web/20180314211747/https://tonyflorida.com
+> 
+> wget --recursive --no-clobber --page-requisites --convert-links --domains web.archive.org --no-parent https://web.archive.org/web/20180314211747/https://tonyflorida.com
+> 
+> When everything looks good, hit enter. The _wget_ program will begin to recursively retrieve the contents of your website from the Wayback Machine from that point in time.
+> 
+> The options that we passed to the _wget_ program do the following:
+> 
+> *   **–recursive**: follow download HTML links from one page to the next
+> *   **–no-clobber**: don’t download the same file more than once
+> *   **–page-requisites**: download all the files that are necessary to properly display a page
+> *   **–convert-links**: convert the links to make them suitable for offline viewing
+> *   **–domains**: only download from these domains
+> *   **–no-parent**: limit download to files and directories below specified
+
+# [Shazam turns 20 - Apple](https://www.apple.com/newsroom/2022/08/shazam-turns-20/)
+
+> **First-ever Shazamed song:** “Jeepster” by T. Rex (April 19, 2002)1
+
+# [Install](https://docs.xteko.com/#/en/package/install)
+
+> There are tons of ways to install scripts:
+> 
+> *   Share files to JSBox app
+> *   Open file in Safari, launch action extension
+> *   Use web server at the same Wi-Fi
+> *   Use QRCode
+> 
+> If your desktop device is macOS, you can use AirDrop as the most cool way.
+> 
+> PS: All solutions above support `js/zip/box` formats.
+
+# [Keyboard shortcuts for Outlook](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-outlook-3cdeb221-7ae5-4c1d-8c1d-9e63216c1efd?ns=ol_ios_android&version=16&ui=en-us&rs=en-us&ad=us#PickTab=iOS)
+
+> If you're familiar with keyboard shortcuts on your macOS computer, the same key combinations work with Outlook for iOS using an external keyboard, too.
+
+# [He Thought He Could Outfox the Gig Economy. He Was Wrong | WIRED](https://www.wired.com/story/gig-economy-uber-lyft-doordash-jeffrey-fang/)
+
+> Fang closed the app. The familiar map disappeared. He headed upstairs to join his family, pretending for the kids that everything was OK, pretending he didn’t still want to work.
+
+# [(2) Is there any way to find transcripts of the podcasts? : Radiolab](https://www.reddit.com/r/Radiolab/comments/67ibfh/is_there_any_way_to_find_transcripts_of_the/)
+
+> A lot of WNYC podcasts do transcripts-- I know _On the Media_ does. Outside of WNYC, I think _This American Life_ does as well, and I know enthusiastic fans transcribed _Serial_.
+> 
+> But as far as I know, there are none for _Radiolab_. I think I once read a statement from Jad and/or Robert that they view the show as an audio experience, and so believe it can't be captured in a transcript. This is a little unfortunate as someone who has taught _Radiolab_\-- listening to it can be tough for students with hearing disabilities, or ones for whom English is not a first language.
