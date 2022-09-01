@@ -11,13 +11,20 @@ Updated `08312022-194514`
 
 ## Social
 
+- [Consultancy Announcement Tweet](https://twitter.com/NeoYokel/status/1542999255497023489)
+
 ## General
 
+- It is quite possible (and wouldn't be unwelcome, necessarily,) that I've simply exhausted whatever value I have to offer in reflection within Ye Olde, Clever Medium.
+
 ## Reference
+
+- [Blessed Web Utilities Raindrop Collection](https://raindrop.io/davidblue/blessed-web-utilities-13380122)
 
 ## Reading
 
 ## Images
 
 - ![Sad iPad Rack](https://i.snap.as/1o0iA322.png)
-- ![iPad Media Center](https://i.snap.as/2Z4lj2is.jpeg)
+- ![iPad Media Center](https://i.snap.as/Kxyy5PxB.jpeg)
+- ![08312022-210803 Homescreen](https://i.snap.as/9gA3TMn4.png)
