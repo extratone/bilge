@@ -1,5 +1,5 @@
 # Notes-Regarding the iPad Professional
-Updated `08232022-032138`
+Updated `08312022-232954`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
@@ -108,6 +108,7 @@ this the closest I've ever come to a homescreen in this device's layout which I'
 - [A Month with iOS and iPadOS 16: A New iPad Era](https://www.macstories.net/stories/ios-and-ipados-16-impressions/)
 - [Best note-taking apps for iPad and Apple Pencil 2022](https://www.imore.com/best-notetaking-handwriting-apps-apple-pencil-ipad)
 - [Do demo iPads have a canonical owner?](https://utf9k.net/blog/ipad-canonical-owner/)
+- [The Talk Show ✪: Ep. 356, With Rosemary Orchard](https://daringfireball.net/thetalkshow/2022/08/31/ep-356)
 
 ---
 
