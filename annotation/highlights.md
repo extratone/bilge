@@ -2282,3 +2282,21 @@
 > A lot of WNYC podcasts do transcripts-- I know _On the Media_ does. Outside of WNYC, I think _This American Life_ does as well, and I know enthusiastic fans transcribed _Serial_.
 > 
 > But as far as I know, there are none for _Radiolab_. I think I once read a statement from Jad and/or Robert that they view the show as an audio experience, and so believe it can't be captured in a transcript. This is a little unfortunate as someone who has taught _Radiolab_\-- listening to it can be tough for students with hearing disabilities, or ones for whom English is not a first language.
+
+# [Medium’s new CEO on the company’s journalism mistakes, bundle economics, and life after Ev Williams | Nieman Journalism Lab](https://www.niemanlab.org/2022/08/mediums-new-ceo-on-the-companys-journalism-mistakes-bundle-economics-and-life-after-ev-williams/)
+
+> He was funny, too: when I asked what we should expect from Medium over the next few quarters, he deadpanned: “I’m hoping to pivot every three months.”
+
+> Medium fills a niche for people who have something to say only once in a while.
+
+# [AG Eric Schmitt goes after University of Missouri fact checkers | The Kansas City Star](https://www.kansascity.com/news/politics-government/article265254766.html?ac_cid=DM692886&ac_bid=805553570)
+
+> The Missourian has not posted a fact check since 2020. The class has not been taught since 2020 because not enough students enrolled in the course.
+
+# ['Date Me' Google Docs and the Hyper-Optimized Quest for Love | WIRED](https://www.wired.com/story/date-me-google-docs-and-the-hyper-optimized-quest-for-love/)
+
+> Both Facebook and YouTube started out as versions of “Hot or Not.”
+
+# [Twitter had a new plan to fight extremism — then Elon arrived - The Verge](https://www.theverge.com/23334224/twitter-extremism-features-health-research-team-elon-musk-acquisition)
+
+> in the months since Musk signed the deal, the health research team has all but evaporated, going from 15 staffers to just two.
