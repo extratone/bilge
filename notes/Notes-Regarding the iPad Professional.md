@@ -1,5 +1,5 @@
 # Notes-Regarding the iPad Professional
-Updated `08312022-232954`
+Updated `09072022-162506`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
@@ -77,6 +77,7 @@ please. it is fucking killing me.
 - imo, Split View/Slideover/Whatever is really most useful only to address situations in which the OS would otherwise be killing background processes. stuff you would not have to worry about on a PC. like uploading files of any size anywhere, for instance.
 - [r/shortcuts - PopMenu - folders for iOS 15+ (launch apps, shortcuts, links, files, photos, contacts, notes)](https://reddit.com/r/shortcuts/comments/vuj5wg/popmenu_folders_for_ios_15_launch_apps_shortcuts/)
 - [Shortcuts in Split View Tweet](https://twitter.com/NeoYokel/status/1545557672170242048)
+- If you're gonna Slide Over... and that's the closest you're gonna get to actually allowing background processes... couldn't you just Slide Back??? Please?
 
 
 ## Hardware
