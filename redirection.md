@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09012022-120347`
+Updated `09082022-000352`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -120,6 +120,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/lund**](https://davidblue.wtf/lund), Redirects to my page documenting a student pilot's (well-handled) emergency landing that resulted in a very hilarious photograph.
 - [**/mac6k**](https://davidblue.wtf/mac6k), Redirects to my mirror of *512 Pixels*' "Every Default macOS Wallpaper – in Glorious 6K Resolution."
 - [**/magazines**](https://davidblue.wtf/magazines), Redirects to my Magazines Raindrop collection.
+- [**/manhildur**](https://davidblue.wtf/manhildur), Redirects to the Hildur Manpages Index on the Software History Society NeoCities page.
 - [**/mastodon**](https://davidblue.wtf/mastodon), Redirects to my profile on mastodon.social.
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
