@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09082022-005530`
+Updated `09092022-080740`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -141,6 +141,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/pocketcasts**](https://davidblue.wtf/pocketcasts), Redirects to my most current Pocket Casts lists export.
 - [**/podcast**](https://davidblue.wtf/podcast), Redirects to *End Users* pods.link page.
 - [**/prairiehome**](https://davidblue.wtf/prairiehome), Redirects to a Google Photos album filled with a handful of very mediocre photographs I captured at a particularly return-to-origin Nearby Evening I had years ago.
+- [**/preview**](https://davidblue.wtf/preview), Redirects to the WTF documentation page for my primary HTML preview template for Drafts.
 - [**/pro**](https://davidblue.wtf/pro), *Also* redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/pungle**](https://davidblue.wtf/pungle), Redirects to the WTF vocabulary page for *pungle*.
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
