@@ -4,11 +4,9 @@
 
 {:toc}
 
-{% note %}
+---
 
-**Note:*- **THE TECHNICAL DOCS HAVE MOVED*- For the sake of my own sanity, all technical documentation regarding Write.as/WriteFreely has been moved to [**a dedicated repository**](https://github.com/extratone/writeas). 
-
-{% endnote %}
+> **Note:** **THE TECHNICAL DOCS HAVE MOVED**. For the sake of my own sanity, all technical documentation regarding Write.as/WriteFreely has been moved to [**a dedicated repository**](https://github.com/extratone/writeas). 
 
 ## This repository encompasses the whole of both the editorial and developmental processes involved in creating [bilge.world](https://bilge.world).
 
