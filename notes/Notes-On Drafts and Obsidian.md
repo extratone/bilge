@@ -1,5 +1,10 @@
-# Notes-Drafts vs. Obsidian
+# Notes-On Drafts and Obsidian
+Updated `09142022-131818`
+
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/301)
+- [On Drafts and Obsidian](drafts://open?uuid=56EED87E-678E-4248-8E94-31650615C69A)
+- [WTF](https://davidblue.wtf/drafts/C300D6BD-07A2-44E2-9231-54ADA771F952.html)
+- [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/C300D6BD-07A2-44E2-9231-54ADA771F952.md)
 - [Drafts vs. Obsidian Stuff · Issue #22 · extratone/drafts](https://github.com/extratone/drafts/issues/22)
 - [["Compiling and Exporting Tagged Notes in Drafts 5"]]
 - [Compiling and Exporting Tagged Notes in Drafts 5](https://club.macstories.net/posts/compiling-and-exporting-tagged-notes-in-drafts-5) | *MacStories*
@@ -8,6 +13,7 @@
 - [Drafts Universal Clacker Award](https://uikeycommand.com/awards/drafts)
 - [Drafts Universal Clacker Award](drafts://open?uuid=B8C70F5B-B7BE-4F55-BB08-AD563B05C3AC)
 - [OBSIDIAN SMACKDOWN Video](drafts://open?uuid=BB1A3BC3-AD77-4AF2-8088-1818E05A63B5) 
+- [OMG Davod](drafts://open?uuid=4618537B-882C-47C6-ACF9-86128B4577B2)
 
 ## Obsidian Positives!
 

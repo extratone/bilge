@@ -1,4 +1,12 @@
 # On Drafts and Obsidian
+Updated `09142022-131834`
+
+- [Notes-On Drafts and Obsidian](drafts://open?uuid=C300D6BD-07A2-44E2-9231-54ADA771F952)
+- [WTF](https://davidblue.wtf/drafts/56EED87E-678E-4248-8E94-31650615C69A.html)
+- [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/56EED87E-678E-4248-8E94-31650615C69A.md)
+- [Tilde](https://tilde.town/~extratone/draftsidian)
+
+---
 
 ![Draftsidian](https://user-images.githubusercontent.com/43663476/153770870-53acbea2-c058-42e5-95ac-c5db8fab433f.png)
 
