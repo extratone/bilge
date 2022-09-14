@@ -1,9 +1,12 @@
 # On Drafts' Mail Integration
-Updated `09142022-142742`
+Updated `09142022-151117`
 
 - [GitHub Issue](https://github.com/extratone/drafts/issues/88)
 - [**The Psalms**](https://bilge.world/drafts-mail-integration) 
 - [WTF](https://davidblue.wtf/drafts/359A8D7E-40AA-4B44-A861-1C5EC1C3B957.html)
+- [Telegraph](https://telegra.ph/On-Drafts-Mail-Integration-09-14)
+- [Tumblr](https://asphaltapostle.tumblr.com/post/695399958920249344/on-drafts-mail-integration)
+- [Medium](https://medium.com/handset/on-drafts-mail-integration-c37b5e2a5df5)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/359A8D7E-40AA-4B44-A861-1C5EC1C3B957.md)
 - [Directory Example](https://directory.getdrafts.com/a/1wR)
 - [Documentation](https://docs.getdrafts.com/docs/actions/steps/system#mail)
@@ -29,8 +32,16 @@ Updated `09142022-142742`
 
 ## Social
 
+I wrote a little bit about Drafts' native Mail integration. I've got a draft on the forums (the Tips & Tricks category) ready to go if you think that would be appropriate. https://bilge.world/drafts-mail-integration
+
+- [Slack](https://agiletortoise.slack.com/archives/C02PAQH0N/p1663186350962009)
 - [Imgur Video](https://imgur.com/gallery/INqF20r)
 - [ ] [Capture Obsidian Members Group thread about Drafts comparison](things:///show?id=FUKBdpUBfdKMuXDcWecp1g)
+- [Twitter](https://twitter.com/NeoYokel/status/1570143829885591552)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">in the midst of a whole bunch of hype regarding notetaking apps and automation, I thought I&#39;d take a sec to celebrate <a href="https://twitter.com/draftsapp?ref_src=twsrc%5Etfw">@draftsapp</a>&#39;s native Mail integration. <a href="https://t.co/Y6IiRviDp4">https://t.co/Y6IiRviDp4</a></p>&mdash; 𝗗 𝗔 𝗩 𝗢 𝗗 (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1570143829885591552?ref_src=twsrc%5Etfw">September 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+in the midst of a whole bunch of hype regarding notetaking apps and automation, I thought I'd take a sec to celebrate @draftsapp's native Mail integration. https://bilge.world/drafts-mail-integration
 
 ---
 
