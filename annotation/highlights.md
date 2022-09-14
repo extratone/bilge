@@ -2300,3 +2300,39 @@
 # [Twitter had a new plan to fight extremism — then Elon arrived - The Verge](https://www.theverge.com/23334224/twitter-extremism-features-health-research-team-elon-musk-acquisition)
 
 > in the months since Musk signed the deal, the health research team has all but evaporated, going from 15 staffers to just two.
+
+# [What's New in Shortcuts - Issue #41 | Revue](https://www.getrevue.co/profile/matthewcassinelli/issues/what-s-new-in-shortcuts-issue-41-1331897)
+
+> Drafts developer Greg Pierce shared this great idea for Shortcuts automations — auto-replying to bot accounts with their pre-programmed messages.
+> 
+> This is _somewhat_ possible now, because you can set up Messages automations that look for specific phrases — however, Apple has severely limited its capability by disallowing the Run Without Asking feature, so it will _notify_ you but you have to manually run the shortcut at that point:
+
+# [Dirt: The Gen X Guide to Web3 - Dirt](https://dirt.substack.com/p/dirt-the-gen-x-guide-to-web3)
+
+> If it’s difficult to discern ideology— that glue that holds culture together— then describing an emergent subculture, especially when living in it, may be even more difficult.
+
+> folks are, at bottom and without realizing it, using idealism about the common good as a pretext for searching for more personally fulfilling experiences.
+
+# [RoutineHub • Shortcut Source Tool](https://routinehub.co/shortcut/5256/)
+
+> Since it's not a generic use case, I made a modified version for you: https://www.icloud.com/shortcuts/c7703bdf7ea04e85a4341137321b6f90 Run it from another shortcut, passing a shortcut's name. You can edit the Save File action at the end to specify a folder to save these files.
+
+# [Beta Program - Drafts User Guide](https://docs.getdrafts.com/beta/)
+
+> Refactored new Shortcuts App Intents. Unfortunately, if you have created Shortcuts on iOS 16/macOS 13 with these actions, you may need to recreate them. The new actions should be stable moving forward.
+
+# [MacStories Weekly: Issue 335](https://club.macstories.net/posts/macstories-weekly-issue-335)
+
+> If you track the music you listen to using Last.fm, AirScrobble is a great app for those times when you’re playing your music on a device that doesn’t support Last.fm. The iPhone app is simple to use. Just tap the app’s big red button, and it starts listening to your surroundings to pick out what’s playing. You can manually scrobble each song with the press of a second button or go to settings to auto-scrobble songs. There are also options to mark a track as Loved, view it on Apple Music, and add it to a dedicated AirScrobble playlist. For $7.49/year, you can get AirScrobble+, which adds your scrobble history using the app and lets you access your scrobble history on Last.fm to scrobble songs that way.
+
+# [The Steve Jobs Archive](https://stevejobsarchive.com/)
+
+> Sent from my iPad
+
+# [Release Release v0.62.0 · microsoft/PowerToys](https://github.com/microsoft/PowerToys/releases/tag/v0.62.0)
+
+> *   New utility: Text Extractor works like Snipping Tool, but copies the text out of the selected region using OCR and puts it on the clipboard. Thanks [@TheJoeFin](https://github.com/TheJoeFin)!
+
+# [Welcome to the new Verge - The Verge](https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo)
+
+> this new site represents the biggest reinvention of _The Verge_ since we started the whole thing.
