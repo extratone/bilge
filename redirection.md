@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09102022-140406`
+Updated `09152022-084320`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -86,6 +86,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/eat**](https://davidblue.wtf/eat), Redirects to the Studio Eat Raindrop Collection.
 - [**/editorial**](https://davidblue.wtf/editorial), Redirects to my main page for Editorial for iOS.
 - [**/editorialdrop**](https://davidblue.wtf/editorialdrop), Redirects to my Editorial-specific Raindrop collection.
+- [**/electriccar**](https://davidblue.wtf/electriccar), Redirects to an excerpt from *The Gasoline Automobile* regarding EVs.
 - [**/escort**](https://davidblue.wtf/escort), Redirects to Pro-Choice Missouri's Clinic Escort signup form.
 - [**/extratext**](https://davidblue.wtf/extratext), Redirects to the WTF documentation page for my Extratext TextExpander Snippet Group.
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
@@ -172,6 +173,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/tabs**](https://davidblue.wtf/tabs),  Redirects to an invite to join my *Reading* Shared Safari Tab Group.
 - [**/taiokeys**](https://davidblue.wtf/taiokeys), Redirects to a shared Numbers spreadsheet on iCloud documenting keyboard shortcuts within the iOS/iPadOS/macOS, Markdown-based writing application, Taio.
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
+- [**/telegraph**](https://davidblue.wtf/telegraph), Redirects to the WTF index page for my posts on Telegra.ph.
 - [**/tildedrop**](https://davidblue.wtf/tildedrop), Redirects to my tilde Raindrop collection.
 - [**/trent**](https://davidblue.wtf/trent), Redirect to the timecoded YouTube moment we discovered His Name...
 - [**/tripod**](https://davidblue.wtf/tripod), Redirects to some brief documentation I attempted to explain the hellish contraption I use to suspend my phone in front of my face when keyboarding.
