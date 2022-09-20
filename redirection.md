@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09162022-232036`
+Updated `09202022-131519`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -98,6 +98,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/github**](https://davidblue.wtf/github), Redirects to my GitHub profile.
 - [**/globe**](https://davidblue.wtf/globe), Redirects to my collected documentation page on WTF for iPad's Globe Keyboard Shortcuts.
 - [**/googlegod**](https://davidblue.wtf/googlegod), Redirects to my post on Hacker News for "Google Is Not God of The Web."
+- [**/greyhound**](https://davidblue.wtf/greyhound), Redirects to the WTF documentation page for my Greyhound Drafts Theme.
 - [**/gt7**](https://davidblue.wtf/gt7), Redirects to a mirrored Apple Music playlist I created of the official Gran Turismo 7 playlist on Spotify.
 - [**/gt7spotify**](https://davidblue.wtf/gt7spotify), Redirects to the official Gran Turismo 7 playlist on Spotify.
 - [**/highlights**](https://davidblue.wtf/highlights), Redirects to the markdown file containing the sum of my annotation via Finn Voorhees' [Highlights for iOS](https://testflight.apple.com/join/OONmU0Z2) (Beta.)
