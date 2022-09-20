@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09202022-131519`
+Updated `09202022-132050`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -71,6 +71,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
 - [**/cpsam**](https://davidblue.wtf/cpsam), Redirects to the Apple Maps share link for the Columbia Public Schools main building.
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
+- [**/dd**](https://davidblue.wtf/dd), Redirects to the WTF documentation page for my Drafts configurables.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to a WTF index for my Distributed iCloud Drive folder.
 - [**/documentation**](https://davidblue.wtf/documentation), Redirects to my Documentation Raindrop collection.
@@ -79,7 +80,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/dosspride**](https://davidblue.wtf/dosspride), Redirects to the Apple Music page for Doss' Pride 2022 mix.
 - [**/doubletap**](https://davidblue.wtf/doubletap), Redirects to the pod.links page for Accessible Media's *DoubleTap Canada*, which has quickly become my favorite technology podcast currently running.
 - [**/drafts/keys**](https://davidblue.wtf/drafts/keys), Redirects to a list of my Drafts keyboard shortcuts on WTF.
-- [**/draftsconfig**](https://davidblue.wtf/draftsconfig), Redirects to the main WTF page for my Drafts Configuration shit.
+- [**/draftsconfig**](https://davidblue.wtf/draftsconfig), Redirects to the WTF documentation page for my Drafts configurables.
 - [**/draftsdrop**](https://davidblue.wtf/draftsdrop), Redirects to my Drafts-specific Raindrop collection.
 - [**/draws**](https://davidblue.wtf/draws), Redirects to the main WTF page for the *David Blue Draws* Collection.
 - [**/dropthings**](https://davidblue.wtf/dropthings), Redirects to my Things-specific Raindrop collection.
