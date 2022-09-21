@@ -1,9 +1,9 @@
 # About
 
-![Unicode Banner (Centered) - The Psalms](https://i.snap.as/zk0pP5fk.png)
+[![Unicode Banner-Centered](https://i.snap.as/zk0pP5fk.png)](https://github.com/extratone/bilge)
 
 <audio controls>
-  <source src="https://github.com/extratone/bilge/raw/main/audio/Ride%20The%20Storm.mp3">
+  <source src="https://davidblue.wtf/audio/whitesnares.mp3">
 </audio>
 
 ## ‽‽‽
@@ -16,9 +16,9 @@ It is [unlicensed](https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0
 
 For better or worse, my voice as represented in *The Psalms* has continued to be saturated with self-referential and occasionally self-disparaging/deprecating qualification. If I am indeed an authority on myself, I would suggest that these are essential tools rather than crutches, and note that I have made some progress in excusing myself for them out of the (perhaps cliché) realization that “life” - and especially *truth* - can be infinitely complicated, and therefore worthwhile thought on just about anything is inevitably going to be (sometimes aggravatingly) tedious in its complexity.
 
-**I am not a paid journalist**- and **I don’t break stories**. That’s not to say that I wouldn’t if an opportunity happened upon me, but it is not where I’m at my best.
+**I am not a paid journalist** and **I don’t break stories**. That’s not to say that I wouldn’t if an opportunity happened upon me, but it is not where I’m at my best.
 
-### What does *The Psalms*- cover?
+### What does *The Psalms* cover?
 
 Primarily, this blog exists to amplify [undercovered](https://github.com/extratone/bilge/wiki/Terminology:-Undercovered) developers, musicians, writers, curators, and media professionals, most often through the process of **analyzing their work**. 
 
@@ -26,7 +26,7 @@ Some recent examples include [my interview with Brad Varol](https://anchor.fm/da
 
 Two more *significant* examples: [my interview with Mastodon creator Eugen Rochko](https://bilge.world/eugen-rochko-interview) and [my huge case for Bandcamp](https://bilge.world/bandcamp-streaming-music) as the streaming service we’ve all been asking for.
 
-<iframe src="https://pixelfed.social/DavidBlue/embed" class="pixelfed**embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe>
+[![PixelFed Icon](https://i.snap.as/5d3rnfVP.png)](https://pixelfed.social/DavidBlue)
 
 ### How do you see the world?
 
@@ -69,8 +69,4 @@ Emailing [**davidblue@extratone.com**](mailto:davidblue@extratone.com) and/or en
 
 ---
 
-<form action="https://www.paypal.com/donate" method="post" target="_top">
-<input type="hidden" name="hosted_button_id" value="U8MHYCA87M4G4" />
-<input type="image" src="https://pics.paypal.com/00/s/MTJhNTg3MTItNTAxMi00YzAyLWFiNTktMGM4YTkwZmQzNDNm/file.PNG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+[![Services Icon](https://i.snap.as/YTTXgLRC.png)](https://davidblue.wtf/services)
