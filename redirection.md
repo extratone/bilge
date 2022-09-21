@@ -68,6 +68,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/brewindex**](https://davidblue.wtf/brewindex), Redirects to the WTF documentation page for the Top Brew Packages Index.
 - [**/capture**](https://davidblue.wtf/capture), Redirects to the WTF documentation page for my Comprehensive Capture Shortcut.
 - [**/casenet**](https://davidblue.wtf/casenet), Look me up on Case.net!
+- [**/community**](https://davidblue.wtf/community), Redirects to the WTF documentation page for my Drafts Twitter Community experiment.
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
 - [**/cpsam**](https://davidblue.wtf/cpsam), Redirects to the Apple Maps share link for the Columbia Public Schools main building.
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
