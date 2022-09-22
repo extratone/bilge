@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09202022-132050`
+Updated `09222022-100620`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -63,6 +63,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/bigboy**](https://davidblue.wtf/bigboy), Redirects to my *Big Boy, Big Phone* shared iCloud Photos album.
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
 - [**/blessed**](https://davidblue.wtf/blessed), Redirects to my Blessed Web Utilities Raindrop collection.
+- [**/blinkgreyhound**](https://davidblue.wtf/blinkgreyhound), WTF documentation page for my Greyhound Blink Shell theme.
 - [**/blue**](https://davidblue.wtf/blue), Redirects to the *Colornames* web page for *David Blue* (#00006b.)
 - [**/books**](https://davidblue.wtf/books), Redirects to the "artist page" for "David Blue" on the Apple Books store.
 - [**/brewindex**](https://davidblue.wtf/brewindex), Redirects to the WTF documentation page for the Top Brew Packages Index.
@@ -179,6 +180,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/telegraph**](https://davidblue.wtf/telegraph), Redirects to the WTF index page for my posts on Telegra.ph.
 - [**/tildedrop**](https://davidblue.wtf/tildedrop), Redirects to my tilde Raindrop collection.
+- [**/timmy**](https://davidblue.wtf/timmy), Redirects to the WTF documentation page for Timmy's Pool Party.
 - [**/trent**](https://davidblue.wtf/trent), Redirect to the timecoded YouTube moment we discovered His Name...
 - [**/tripod**](https://davidblue.wtf/tripod), Redirects to some brief documentation I attempted to explain the hellish contraption I use to suspend my phone in front of my face when keyboarding.
 - [**/truck**](https://davidblue.wtf/truck), Redirects to my *Gran Turismo 6* gameplay demo video.
