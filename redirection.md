@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09222022-100620`
+Updated `09242022-220251`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -65,6 +65,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/blessed**](https://davidblue.wtf/blessed), Redirects to my Blessed Web Utilities Raindrop collection.
 - [**/blinkgreyhound**](https://davidblue.wtf/blinkgreyhound), WTF documentation page for my Greyhound Blink Shell theme.
 - [**/blue**](https://davidblue.wtf/blue), Redirects to the *Colornames* web page for *David Blue* (#00006b.)
+- [**/bookmarks**](https://davidblue.wtf/bookmarks), Redirects to the WTF documentation page for my various Mastodon bookmarking efforts.
 - [**/books**](https://davidblue.wtf/books), Redirects to the "artist page" for "David Blue" on the Apple Books store.
 - [**/brewindex**](https://davidblue.wtf/brewindex), Redirects to the WTF documentation page for the Top Brew Packages Index.
 - [**/capture**](https://davidblue.wtf/capture), Redirects to the WTF documentation page for my Comprehensive Capture Shortcut.
