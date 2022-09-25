@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09242022-220251`
+Updated `09252022-024254`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -165,6 +165,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/scud**](https://davidblue.wtf/scud), Redirects to the WTF vocabulary page for "scud."
 - [**/services**](https://davidblue.wtf/services), Redirects to my "Services I Offer" page.
 - [**/sessionize**](https://davidblue.wtf/sessionize), Redirects to my speaker profile on Sessionize.
+- [**/shellfishkeys**](https://davidblue.wtf/shellfishkeys), Redirects to the WTF documentation page for Secure ShellFish's Keyboard Shortcuts.
 - [**/shortcutsdrop**](https://davidblue.wtf/shortcutsdrop), Redirects to my Siri Shortcuts Raindrop collection.
 - [**/shortcutsfb**](https://davidblue.wtf/shortcutsfb), Redirects to the (Siri) Shortcuts Facebook Group.
 - [**/shortcutsguide**](https://davidblue.wtf/shortcutsguide), Redirects to the official Shortcuts User Guide published by Apple.
