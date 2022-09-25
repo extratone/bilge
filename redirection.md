@@ -96,6 +96,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
 - [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
+- [**/following**](https://davidblue.wtf/following), Redirects to the WTF documentation page for my followed Mastodon accounts index.
 - [**/furryblimp**](https://davidblue.wtf/furryblimp), Redirects to the WTF documentation page for the *He Makes Witch House in His Furry Blimp* *Drycast* Excerpt.
 - [**/gallery**](https://davidblue.wtf/gallery), Redirects to the public page of my *Distributed* Shared iCloud Photos Album.
 - [**/gerogerigegege**](https://davidblue.wtf/gerogerigegege), Redirects to my main music Raindrop collection.
