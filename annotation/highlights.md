@@ -2336,3 +2336,73 @@
 # [Welcome to the new Verge - The Verge](https://www.theverge.com/2022/9/13/23349876/the-verge-website-redesign-new-newsfeed-blogs-logo)
 
 > this new site represents the biggest reinvention of _The Verge_ since we started the whole thing.
+
+# [Shortcuts - Drafts User Guide](https://docs.getdrafts.com/docs/automation/shortcuts#set-theme)
+
+> ### Set Theme
+> 
+> Update themes and theme mode active in Drafts.
+> 
+> *   **Parameters**
+>     *   **Theme Mode** _system|light|dark_
+>     *   **Light** _theme_
+>     *   **Dark** _dark_
+
+# [Public Beta - Drafts User Guide](https://docs.getdrafts.com/public-beta/)
+
+> *   *   **New:** Implemented `toJSON()` function on `Draft` script objects to produce standardize rendering of a draft, which is also compatible with `JSON.stringify`. Useful for posting to webhooks, etc.
+
+# [Flags & Tagging - Drafts User Guide](https://docs.getdrafts.com/docs/drafts/tagging#scoped-tags)
+
+> Scoped Tags
+> -----------
+> 
+> [COMING SOON!](/public-beta/ "Coming Soon in Drafts v33")
+> 
+> Scoped tags use special markup to limit assignment to only one tag in the scope, and can be a useful tool in creating workflows in Drafts.
+> 
+> Scoped tags are in the format `prefix::tag`. Drafts will automatically limit any single draft to having only one tag with the scoped prefix assigned at a time. For example, if a draft is tagged `status::new`, and you assign it the tag `status::in-progress`, the `status::new` tag will be removed from the draft. This applies whether the tag was assigned via the user interface, automatically by an action, or even in scripts.
+> 
+> To create a scoped tag, simply assign a tag with the `::` (two colon) separator. A couple example use cases:
+> 
+> *   Track progress of item through a workflow, with state tags like `status::new`, `status::in-progress`, `status::complete`.
+> *   Assign priorities to items with tags like `p::high`, `p::normal`, `p::low`.
+> 
+> Note that when filtering with workspaces, you can filter by scope prefix, so, for example, a workspace with the tag filter `status::` would find any drafts with any of the scope’s subtags assigned, like `status::new` or `status::complete`.
+
+# [When Journalists Lose Their Work History, We All Lose](https://midrange.tedium.co/issues/kara-swisher-allthingsd-link-rot/)
+
+> Some of this was potentially the result of a perfectly reasonable decision that Mossberg and Swisher made 15 years ago—to use the WordPress content management system to help accelerate their publishing time, rather than WSJ’s internal CMS.
+
+# [Education - K–12 - How to Buy - Apple](https://www.apple.com/education/k12/how-to-buy/)
+
+> Contact Apple Education at [1-800-800-2775](tel:18008002775)
+
+# [Apple - Education - Products - Missouri](https://www.apple.com/education/purchase/contracts/states/mo.html)
+
+> Currently, Apple does not have an existing agreement with the State of Missouri.
+
+# [Traveling this summer? Here are the 6 apps you need to have](https://www.today.com/travel/traveling-summer-here-are-6-apps-you-need-have-1D79903428)
+
+> This app will help you plan your road trip by giving you need-to-know information about your journey, including road conditions, weather along the way and delays. You can view things like your route's elevation and curviness on interactive charts, and even export your route to the Navigon iOS for voice-guided turn-by-turn navigation. InRoute also helps you find the fastest route to your destination, as well as gas, hotels, places to eat and fun things to stop and see along the way.
+
+# [iOS Siri and Dictation Command List | AppleVis](https://www.applevis.com/guides/ios-siri-dictation-command-list)
+
+> ### Social Media (Facebook and Twitter)
+> 
+> *   "Post on Facebook On my way to the Magic Kingdom"
+> *   "Write on my wall Having a great time in Florida"
+> *   "Tweet I love AppleVis hashtag AppleVis"
+> *   "Tweet visit AppleVis.com"
+> *   "Post to Twitter AppleVis is awesome!"
+> *   "Tweet my location Having fun in Orlando!"
+> *   "Search Twitter for best VoiceOver tips"
+> *   "What’s trending on Twitter"
+> *   "Show me my tweets"
+> *   "What are people saying about Apple"
+
+# [Journal Entry - 003 | On Digital Gardens — Dino’s Journal 📖](https://journal.dinobansigan.com/journal-entry-003)
+
+> One way to distinguish between a Literature Note and a Permanent Note is by asking this question: _“Is this someone else's idea or mine?”_ If the answer is, _“It is my idea.”_, then it is a Permanent Note.
+
+> if you want to publish your digital garden online, but don't want to pay for the “Publish” feature from Obsidian, check out [Quartz](https://github.com/jackyzha0/quartz). This is an open source repo that can turn an Obsidian vault into a digital garden website.
