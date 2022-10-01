@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10012022-083301`
+Updated `10012022-100234`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -134,6 +134,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
 - [**/meme**](https://davidblue.wtf/meme), Redirects to the WTF vocabulary page for *meme*.
+- [**/microblog**](https://davidblue.wtf/microblog), Redirects to the WTF documentation page for my micro.blog trial experiment.
 - [**/middlenames**](https://davidblue.wtf/middlenames), Redirects to the WTF aggregation/documentation page for my ancient Middle Name Candidates list.
 - [**/musicapps**](https://davidblue.wtf/musicapps), Redirects to "iPhone and Music - For Artists, Curators, and Enthusiasts" on *The Psalms*.
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
