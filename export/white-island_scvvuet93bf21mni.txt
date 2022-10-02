@@ -1,0 +1,17 @@
+# The White Island
+
+![The White Island](https://i.snap.as/XKiEDGD.jpg)
+
+<!--more-->
+
+*Everything you’ve ever heard or read about Portland, Oregon is true. It is an authoritative and pseudofascist money machine that hides behind an insultingly thin veneer of celebrated individualism. These are the sentiments I see reflected in the people and organizations around me. I originally [posted this on r/Portland](https://www.reddit.com/r/Portland/comments/8jzr8m/the_white_island/) and it made white people mad.*
+
+In my despair about the complex nature of the World as it is changing, I shall create for myself and those like me an Island where the things about us which I think should be celebrated can be so freely — where Me (among us) means something again. Where our money will mean something again because meaning is — above all — what people like me should seek. I write this prospectus for my Island — let’s call it White Island — on a thirty-year-old typewriter because the physicality of these words is almost the entirety of what imbues them with meaning, and I believe the particulars of analog existence are lost on the World in a tragically big way as it is changing. On White Island, at least, the physical shall be most Holy, and its intrinsic worth shall be worshiped freely so that the treasures of our past are not lost.
+
+As it is changing, the World is growing noisy with voices that are unlike mine, and the grasp on the conversation which I was promised in my upbringing is slipping alarmingly away with each new day. I believe these new sounds detract from my celebration of the things in life that give mine meaning: bicycles, beanies, body art, brewing, electric guitars, and the hair that grows on my face. Every day, I am more and more afraid that my voice will be lost in them, and if it is lost, I am afraid there will be nothing left of Me or my meaning. This thought worries me like none other, and — as long as people like me have sufficient economic and social resources to do so — we should make for ourselves an Island away from the new World and her noises so that we may continue to live comfortably in a soundscape of only our own creation, as is our birthright and grand tradition.
+
+Our parents and their parents before them were born into a more careful and physical World where respect for their crafts, their voices, and their beards was a universal right. If we are to follow in their generous footsteps and give wholeheartedly our own equivalent of these to the World, we should be unequivocal in our expectation of its continued reciprocation and appreciation for them. As long as we are able, we should not have to imagine an alternative way of life in which our effort is less recognized or generally important. This we should refrain from doing not only for the sake of our own comfort, but for the good of the whole World, even if it is no longer interested in recognizing the value of our contributions to it.
+
+As our trusted methodologies are washed away in their new noise, our Island shall be a bastion for them. We will remember that a cup of coffee should take at least twenty minutes to prepare. We will not forget the culturalizing nuances in the taste of the most diminutive brews. We will sacrifice whatever is necessary in order to purify our foods from the poisonous nutritional sins of the processed masses. We shall enforce our own wise, time-honored priorities as we can only within a space that is truly ours, where only people like ourselves will feel and be sincerely welcome.
+
+#culture
