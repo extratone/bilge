@@ -4,6 +4,7 @@ Updated `09072022-162506`
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/334)
 - [Regarding the iPad Professional](drafts://open?uuid=44BC145C-E05C-4E75-9771-A6711BE80FC8)
 - [**Amanda Battery Log**](drafts://open?uuid=8720321A-0F51-461D-879A-5E76F084AB68)
+- [Essayist Draft](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/08602123-223A-410C-A18F-EBBF1E607712/File%20Provider%20Storage/Repositories/bilge/drafts/iPadProfessional.essay)
 - [WTF](https://davidblue.wtf/drafts/40EE2100-5A13-4D4C-8DE6-6838131CDBEF.html)
 - [WTF Shortlink](https://davidblue.wtf/amandanotes) - `https://davidblue.wtf/amandanotes`
 - [Amanda Shared Apple Notes folder](https://www.icloud.com/notes/02b_42E6OkqYpzcVn2fV_gX_A#Amanda) (which doesn't really mean much, no.)
@@ -24,6 +25,7 @@ Updated `09072022-162506`
 ## Social
 
 - [Twitter Collection](https://twitter.com/NeoYokel/timelines/1534046796611211264)
+- [Typefully Thread](https://typefully.com/NeoYokel/big-boy-pad-eUuWuYi)
 - [Heat UP](https://twitter.com/NeoYokel/status/1543011466332327937)
 - [Tethered Privilege Tweet](https://twitter.com/NeoYokel/status/1544807873166950400)
 - [Primary DAW Tweet](https://twitter.com/NeoYokel/status/1545555812285906947)
@@ -87,6 +89,7 @@ please. it is fucking killing me.
 - You will definitely experience *weekly* (at least) connectivity issues with the keyboard/keypad, but probably less than a reasonable person would assume from such a fundamentally grafted-on prosthetic.
 - The absolute necessity of the `⌘W` Close Window command.
 - [Apple's Fucking iPad Keyboards Page](https://www.apple.com/ipad-keyboards/)
+- you'll never be able to comprehend what the hell I'm talking about... you'll never be even remotely near *my level* ... until you've experienced using a $2500, 11000 mAH-equipped tablet computer as a flashlight in an actual position of navigational necessity.
 
 ---
 
@@ -124,6 +127,8 @@ this the closest I've ever come to a homescreen in this device's layout which I'
 - [iPad Pro Full Technical Specifications](https://www.apple.com/ipad-pro/specs/)
 - [Apple iPad Pro 12.9 (2021) - Full tablet specifications](https://www.gsmarena.com/apple_ipad_pro_12_9_(2021)-10864.php)
 - [Supporting desktop-class features in your iPad app | Apple Developer Documentation](https://developer.apple.com/documentation/uikit/app_and_environment/supporting_desktop-class_features_in_your_ipad_app?language=objc)
+- [Apple's iPad - Is it a computer?](https://www.computerworld.com/article/2467858/apple-s-ipad--is-it-a-computer-.html)
+- [The iPad is not a computer](http://web.archive.org/web/20160523134207/http://www.richardlord.net/blog/the-ipad-is-not-a-computer)
 
 
 OVERVIEW

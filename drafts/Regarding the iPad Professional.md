@@ -3,6 +3,7 @@ Updated `09072022-162335`
 
 - [Notes-Regarding the iPad Professional](drafts://open?uuid=40EE2100-5A13-4D4C-8DE6-6838131CDBEF)
 - [WTF](https://davidblue.wtf/drafts/44BC145C-E05C-4E75-9771-A6711BE80FC8.html)
+- [Essayist Draft](shareddocuments:///private/var/mobile/Containers/Shared/AppGroup/08602123-223A-410C-A18F-EBBF1E607712/File%20Provider%20Storage/Repositories/bilge/drafts/iPadProfessional.essay)
 
 ---
 
