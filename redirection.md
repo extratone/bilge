@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10032022-003313`
+Updated `10032022-013035`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -11,6 +11,8 @@ Updated `10032022-003313`
 - [WTF](https://davidblue.wtf/drafts/218F8FAA-C0B9-4B4F-B896-3089E005E86E.html)
 - [Tilde](https://tilde.town/~extratone/redirection) 
 - [Telegraph](https://telegra.ph/WTF-Redirection-04-19)
+- [Micro.Blog](https://dieselgoth.micro.blog/redirection)
+- [Medium](https://extratone.medium.com/3685289b398d)
 - [Simplenote Publish](http://simp.ly/publish/7G1cRt)
 - [Simplenote Local](simplenote://note/8a3aa299b90242f6984b8e11515fb1e7)
 - [Things](things:///show?id=7XT2wYEW2DqerFBER35zvC)
