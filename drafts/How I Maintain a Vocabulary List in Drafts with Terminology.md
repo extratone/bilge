@@ -1,4 +1,6 @@
 # How I Maintain a Vocabulary List in Drafts with Terminology
+Updated `10042022-161805`
+
 - [**The Psalms**](https://bilge.world/drafts-terminology-vocabulary)
 - [GitHub Issue](https://github.com/extratone/bilge/issues/324)
 - [WTF](https://davidblue.wtf/drafts/F20BB579-E235-4F04-8BCE-22AAF15A97C2.html)
@@ -7,8 +9,16 @@
 - [LookUp Tweet](https://twitter.com/NeoYokel/status/1477323450549219328)
 - [Drafts ⇨ Terminology ⇨ Drafts Custom Terms Workflow](https://imgur.com/gallery/Q04Kxrg)
 - [Video Demo](https://user-images.githubusercontent.com/43663476/165031796-5df78c01-faee-4fd4-84d0-f0bf95fd383f.MOV)
+- [Telegraph](https://telegra.ph/How-I-Maintain-a-Vocabulary-List-in-Drafts-with-Terminology-05-03)
+- [Medium](https://extratone.medium.com/drafts-terminology-vocabulary-25d243340036)
+
+---
+
+# How I Maintain a Vocabulary List in Drafts with Terminology
 
 ![Terminology URL Scheme and Vocabulary Workspace](https://i.snap.as/EQ4GSUGH.png)
+
+<!--more-->
 
 As I wrote in [my app store review of Terminology](https://tilde.town/~extratone/appreviews/terminology) (which is not shown publicly, I’ve since learned,) I prefer it over popular dictionary apps like [LookUp](https://apps.apple.com/us/app/lookup-english-dictionary/id872564448) (which I also have and use regularly) because it allows me to *add new terms* that don’t show up in search results. Somehow, the idea that one might store words that don’t necessarily appear in any dictionary seems a foreign one to the creators of LookUp, which I’ve since found out to be the cause of [its Siri Shortcuts actions failing on me](https://twitter.com/NeoYokel/status/1477323450549219328).
 
@@ -41,6 +51,8 @@ In order to maintain [an updated index](https://davidblue.wtf/vocabulary) of the
 
 ![Terminology Favorites List](https://i.snap.as/D8GtXEd3.png)
 
-Even if you’ve no intention of publishing your personal vocabulary - or integrating it with Drafts, even - Terminology is still the dictionary app I’d recommend over any others.
+Even if you’ve no intention of publishing your personal vocabulary - or integrating it with Drafts - Terminology is still the dictionary app I’d recommend over any others.
+
+<!--comment-->
 
 #configuration #software #automation
