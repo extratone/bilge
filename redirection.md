@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10032022-013035`
+Updated `10062022-100506`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -118,6 +118,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/hypnagogic**](https://davidblue.wtf/hypnagogic), Redirects to the WTF vocabulary page for *hypnagogic*.
 - [**/information**](https://davidblue.wtf/information), Redirects to my subscriber friend invite code URL for *The Information*. (30 days free.)
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
+- [**/issuedraft**](https://davidblue.wtf/issuedraft), Redirects to the WTF documentation page for my GitHub Issue ⇨ Draft Siri Shortcut.
 - [**/itch**](https://davidblue.wtf/itch), Redirects to the page I have on itch.io for no justifiable reason.
 - [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
@@ -203,6 +204,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/vr**](https://davidblue.wtf/vr), Redirects to "Virtual Reality Virginity, Lost" on *The Psalms*.
 - [**/waterminder**](https://davidblue.wtf/waterminder), Redirects to my fucking shared WaterMinder data.
 - [**/wayback**](https://davidblue.wtf/wayback), Redirects to the WTF Documentation page for the wayback_machine_downloader.
+- [**/wcindex**](https://davidblue.wtf/wcindex), Redirects to the WTF documentation page for my index of local repositories in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807).
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
 - [**/wiki**](https://davidblue.wtf/wiki), Redirects to my (Failed) Personal Wiki experiment on Fucking Notion.
 - [**/wikipedia**](https://davidblue.wtf/wikipedia), Redirects to my personal user page on Wikipedia.
