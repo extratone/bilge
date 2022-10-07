@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10062022-100506`
+Updated `10072022-103612`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -162,6 +162,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/reading**](https://davidblue.wtf/reading), Redirects to my Reading List Raindrop collection.
 - [**/redirection**](https://davidblue.wtf/redirection), Redirects to this document!
 - [**/rhbest**](https://davidblue.wtf/rhbest), Redirects to the WTF Documentation Page for my "Best of RoutineHub" (Work in Progress) list.
+- [**/rhshare**](https://davidblue.wtf/rhshare), Redirects to an immortal Discord invite link to the RoutineHub server's #share-a-shortcut channel.
 - [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to the WTF documentation page for my RoutineHub Library.
 - [**/rowdyhitler**](https://davidblue.wtf/rowdyhitler), Redirects to the TikTok re-upload of my classic Joke Video, *Flight of The Joke Numbers*.
