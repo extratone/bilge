@@ -1,10 +1,11 @@
 # WTF Redirection
-Updated `10072022-103612`
+Updated `10092022-152540`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
 - [Repo](https://github.com/extratone/bilge/blob/main/redirection.md)
-- [**GitHub Issue**](https://github.com/extratone/bilge/issues/322) 
+- [**GitHub Issue**](https://github.com/extratone/bilge/issues/322)
+- [**Shared Numbers Spreadsheet**](https://www.icloud.com/numbers/0f6uEMTwLwddUpsXQ7i3qheqw#WTF_Redirection) 
 - [WTF Repo File](https://github.com/extratone/wtf/blob/main/redirection.md)
 - [Gist](https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5)
 - [Extranet Redirection](drafts://open?uuid=1C547BA9-D29F-4F2E-8B24-3F5872D329B6)
@@ -23,16 +24,16 @@ Updated `10072022-103612`
 
 ## Automation
 
- I have managed to semi-automate the process of updating this very list by way of [a relatively rudimentary Siri Shortcut](https://www.icloud.com/shortcuts/5ad24059cbd542d6824f9be09db90a52) in a single run.
+ I have managed to semi-automate the process of updating this very list by way of [a relatively rudimentary Siri Shortcut]([Shortcuts]([Shortcuts](https://www.icloud.com/shortcuts/5ad24059cbd542d6824f9be09db90a52))) in a single run.
 
 ### Source Files
 
 - [**iCloud Share Link**](https://www.icloud.com/shortcuts/5ad24059cbd542d6824f9be09db90a52)
-- [jelly](https://davidblue.wtf/redirection/WTFRedirectionUpdate.jelly)
-- [plist](https://davidblue.wtf/redirection/WTFRedirectionUpdate.plist)
-- [json](https://davidblue.wtf/redirection/WTFRedirectionUpdate.json)
-- [shortcut](https://davidblue.wtf/redirection/WTFRedirectionUpdate.shortcut)
-- [html](https://davidblue.wtf/redirection/automation)
+- [jelly]([undefined](https://davidblue.wtf/redirection/WTFRedirectionUpdate.jelly))
+- [plist]([undefined](https://davidblue.wtf/redirection/WTFRedirectionUpdate.plist))
+- [json]([undefined](https://davidblue.wtf/redirection/WTFRedirectionUpdate.json))
+- [shortcut]([undefined](https://davidblue.wtf/redirection/WTFRedirectionUpdate.shortcut))
+- [html]([undefined](https://davidblue.wtf/redirection/automation))
 
 ![GizmoPack Universal Variable](https://user-images.githubusercontent.com/43663476/186688762-1b08ac02-7aca-46bb-9648-d42bddc835db.png)
 
@@ -161,6 +162,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/reading**](https://davidblue.wtf/reading), Redirects to my Reading List Raindrop collection.
 - [**/redirection**](https://davidblue.wtf/redirection), Redirects to this document!
+- [**/reminderstemplates**](https://davidblue.wtf/reminderstemplates), Redirects to the WTF documentation/index page for my Apple Reminders Templates.
 - [**/rhbest**](https://davidblue.wtf/rhbest), Redirects to the WTF Documentation Page for my "Best of RoutineHub" (Work in Progress) list.
 - [**/rhshare**](https://davidblue.wtf/rhshare), Redirects to an immortal Discord invite link to the RoutineHub server's #share-a-shortcut channel.
 - [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
