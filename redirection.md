@@ -166,6 +166,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to the WTF documentation page for my RoutineHub Library.
 - [**/rowdyhitler**](https://davidblue.wtf/rowdyhitler), Redirects to the TikTok re-upload of my classic Joke Video, *Flight of The Joke Numbers*.
+- [**/rreading**](https://davidblue.wtf/rreading), Redirects to the invite URL for my Shared Apple Reminders Reading List.
 - [**/rtfarah**](https://davidblue.wtf/rtfarah), Redirects to a WTF index page of all work by Matt Farah for Road & Track.
 - [**/scarysummaries**](https://davidblue.wtf/scarysummaries), Redirects to the WTF documentation page for my Scary Summaries OpenAI Experimentation with the Toolbox Pro Beta.
 - [**/screw**](https://davidblue.wtf/screw), Redirects to the WTF documentation for my DJ Screw Discography Raindrop Collection - an Index of the DJ Screw Discography Collection on Archive.org.
