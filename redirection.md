@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10092022-155741`
+Updated `10092022-161048`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -16,6 +16,7 @@ Updated `10092022-155741`
 - [Medium](https://extratone.medium.com/3685289b398d)
 - [Simplenote Publish](http://simp.ly/publish/7G1cRt)
 - [Simplenote Local](simplenote://note/8a3aa299b90242f6984b8e11515fb1e7)
+- [Ulysses](ulysses://x-callback-url/open?id=GLpllyiGdzyanGc5tV1F8g)
 - [Things](things:///show?id=7XT2wYEW2DqerFBER35zvC)
 
 ---
@@ -116,6 +117,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/hire**](https://davidblue.wtf/hire), Redirects to my “General Consultation” Fantastical Openings page.
 - [**/honk**](https://davidblue.wtf/honk), Redirects to the YouTube playlist for the legacy Drywall car show, *Honk*.
 - [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
+- [**/htmlcomment**](https://davidblue.wtf/htmlcomment), Redirects to the WTF Documentation page for my HTML Comment Drafts Action.
 - [**/hypnagogic**](https://davidblue.wtf/hypnagogic), Redirects to the WTF vocabulary page for *hypnagogic*.
 - [**/information**](https://davidblue.wtf/information), Redirects to my subscriber friend invite code URL for *The Information*. (30 days free.)
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
