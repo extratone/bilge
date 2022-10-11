@@ -1910,6 +1910,8 @@
 > 
 > Custom template tag values can also be created using the [Define Template Tag action step](/docs/actions/steps/utility.html#define-template-tag)
 
+> If you want to use something which would otherwise be evaluated as a template tag or function but not have it evaluated in actions, it needs to be escaped by placeing a single backslash () character before it. So, for example `\[[title]]` would be ignored and not replaced with the title of the draft. The escaping backslash would be removed, however.
+
 # [Do We Really Want Cis Men to Speak Up About Abortion?](https://www.gawker.com/culture/roe-v-wade-supreme-court-ruling-abortion-rights-cis-men-allyship-activism-metrics-social-media)
 
 > no argument has dogged my timeline more in the last several weeks than the contention that men aren’t speaking up enough about abortion on social media — and that not doing so is not just a moral failing, but a fundamental abdication of their “place” within the pro-choice movement.
@@ -2317,6 +2319,10 @@
 
 > Since it's not a generic use case, I made a modified version for you: https://www.icloud.com/shortcuts/c7703bdf7ea04e85a4341137321b6f90 Run it from another shortcut, passing a shortcut's name. You can edit the Save File action at the end to specify a folder to save these files.
 
+# [Mail Assistant - Drafts User Guide](https://docs.getdrafts.com/misc/mail-assistant)
+
+> Mail Assistant 0.2 or greater also provide a “Send Mail” shortcuts action for use with the Shortcuts app on macOS 12 (Monterey) or greater. Shortcuts has built-in mail actions which work with Mail app, but do not have support directly for HTML mail, so potentially useful in some workflows.
+
 # [Beta Program - Drafts User Guide](https://docs.getdrafts.com/beta/)
 
 > Refactored new Shortcuts App Intents. Unfortunately, if you have created Shortcuts on iOS 16/macOS 13 with these actions, you may need to recreate them. The new actions should be stable moving forward.
@@ -2351,6 +2357,8 @@
 # [Public Beta - Drafts User Guide](https://docs.getdrafts.com/public-beta/)
 
 > *   *   **New:** Implemented `toJSON()` function on `Draft` script objects to produce standardize rendering of a draft, which is also compatible with `JSON.stringify`. Useful for posting to webhooks, etc.
+
+> `Draft` script object has new convenience `urls()` function that returns an array or URL strings found in the draft content.
 
 # [Flags & Tagging - Drafts User Guide](https://docs.getdrafts.com/docs/drafts/tagging#scoped-tags)
 
@@ -2406,3 +2414,44 @@
 > One way to distinguish between a Literature Note and a Permanent Note is by asking this question: _“Is this someone else's idea or mine?”_ If the answer is, _“It is my idea.”_, then it is a Permanent Note.
 
 > if you want to publish your digital garden online, but don't want to pay for the “Publish” feature from Obsidian, check out [Quartz](https://github.com/jackyzha0/quartz). This is an open source repo that can turn an Obsidian vault into a digital garden website.
+
+# [099. The Magical iPad](https://hardcoresoftware.learningbyshipping.com/p/099-magical-ipad)
+
+> On January 27, 2010, at a special press event billed as "Come see our latest creation," Steve Jobs unveiled the iPad.
+
+# [Apple no longer activates its proprietary SIM cards for iPads with cellular data](https://www.engadget.com/apple-sim-no-longer-available-cellular-ipads-163652469.html)
+
+> _We introduced Stage Manager as a whole new way to multitask with overlapping, resizable windows on both the iPad display and a separate external display, with the ability to run up to eight live apps on screen at once. Delivering this multi-display support is only possible with the full power of M1-based iPads. Customers with iPad Pro 3rd and 4th generation have expressed strong interest in being able to experience Stage Manager on their iPads. In response, our teams have worked hard to find a way to deliver a single-screen version for these systems, with support for up to four live apps on the iPad screen at once._
+> 
+> _External display support for Stage Manager on M1 iPads will be available in a software update later this year._
+
+# [Apple Internals](https://mroi.github.io/apple-internals/#mm)
+
+> MMCS
+> 
+> MobileMe Chunk Storage, used by iCloud, splits blobs into chunks and stores them at Apple/AWS/GCP with convergent encryption (content hash as key); MMCS.framework
+
+# [Sentience and Sensibility | Meghan O’Gieblyn](https://thebaffler.com/salvos/sentience-and-sensibility-ogieblyn)
+
+> those issues had nothing to do with sentience but stemmed on the contrary from the fact that they were entirely unconscious, that they mindlessly parroted the racist, misogynistic, and homophobic language they’d absorbed from the internet data they’d been fed.
+
+# [Readdle Stands with Ukraine](https://readdle.com/stand-with-ukraine)
+
+> We stand with the people and government of Ukraine against the Russian invaders.   
+> 
+> *   We have removed our apps from sale in the Russian App Store and Google Play.
+> *   We will not do business with Russian-owned companies or companies that support the Russian invasion of Ukraine.
+
+# [The iPad is not a computer | Richard Lord](http://web.archive.org/web/20160523134207/http://www.richardlord.net/blog/the-ipad-is-not-a-computer)
+
+> the iPad is a revolutionary device, because it’s not a computer. The iPad isn’t for writing, it’s for reading. It’s not for making films, its for watching films. It’s not for developing software, it’s for using software. The iPad is a consumer device. What makes the iPad revolutionary is its single-minded focus on media consumption.
+
+# [Longtime NPR editor Ken Barcus has died at age 67 : NPR](https://www.npr.org/2022/10/11/1124847649/remembering-npr-ken-barcus-editor-dies?utm_term=nprnews&utm_campaign=npr&utm_source=twitter.com&utm_medium=social)
+
+> "He never stopped pushing for stories that illuminated life away from the coasts. Even after decades in his job, he wanted to make sure no one ever thought of the region as 'flyover country.'"
+
+> "\[I wanted\] to make sure that people would choke on the words 'Rust Belt' or 'flyover' when they think about my region."
+
+# [What's New in Shortcuts - Issue #46 | Revue](https://www.getrevue.co/profile/matthewcassinelli/issues/what-s-new-in-shortcuts-issue-46-1391688)
+
+> David Blue shared this shortcut for formatting links from LookUp for iOS into Markdown — this app is great for, well, looking up words and storing them in custom research groups:
