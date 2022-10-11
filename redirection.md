@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10092022-161048`
+Updated `10112022-143427`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -201,8 +201,10 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/trent**](https://davidblue.wtf/trent), Redirect to the timecoded YouTube moment we discovered His Name...
 - [**/tripod**](https://davidblue.wtf/tripod), Redirects to some brief documentation I attempted to explain the hellish contraption I use to suspend my phone in front of my face when keyboarding.
 - [**/truck**](https://davidblue.wtf/truck), Redirects to my *Gran Turismo 6* gameplay demo video.
+- [**/tuskerx**](https://davidblue.wtf/tuskerx), Redirects to the WTF documentation page for my email thread with Tusker Developer shadowfacts on the future of X-Callback-URL.
 - [**/tweetdecklists**](https://davidblue.wtf/tweetdecklists), Redirects to the WTF documentation for my "Backup/Export Twitter Lists with TweetDeck" guide.
 - [**/twitter**](https://davidblue.wtf/twitter), Redirects to my Twitter profile.
+- [**/ulyssesx**](https://davidblue.wtf/ulyssesx), Redirects to Ulysses' X-Callback Support page, revived!
 - [**/usage**](https://davidblue.wtf/usage), Redirects to the WTF documentation page for my ongoing cellular data usage log.
 - [**/userguide**](https://davidblue.wtf/userguide), Redirects to Apple's official "iPhone User Guide" in the Apple Books store.
 - [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
