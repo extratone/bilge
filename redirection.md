@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10112022-143427`
+Updated `10122022-061836`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -152,6 +152,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/openaireply**](https://davidblue.wtf/openaireply), Redirects to a Shared Numbers spreadsheet full of live-updated OpenAI Foolery Responses.
 - [**/pain**](https://davidblue.wtf/pain), Redirects to Frankie Muniz's iconic Tweet.
 - [**/panicurine**](https://davidblue.wtf/panicurine), Redirects to the *Colornames* web page for *Panic Urine* (#f7ff85.)
+- [**/pendictionary**](https://davidblue.wtf/pendictionary), Redirects to the WTF documentation page for Goulet Pens' *Glossary of Fountain Pen Terminology*.
 - [**/periscope**](https://davidblue.wtf/periscope). Redirects to the “Periscope” playlist on *Extratone*’s YouTube channel.
 - [**/pinterest**](https://davidblue.wtf/pinterest), Redirects to my profile (@dieselgoth) on Pinterest.
 - [**/pixelfed**](https://davidblue.wtf/pixelfed), Redirects to my profile on pixelfed.social.
