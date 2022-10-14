@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10132022-122402`
+Updated `10132022-215909`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -150,6 +150,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
 - [**/neopress**](https://davidblue.wtf/neopress), Redirects to my (updated) index of [the NeoCities Press page](https://neocities.org/press).
 - [**/netflix**](https://davidblue.wtf/netflix), Redirects to a record of David Blue's Netflix Activity in full (and a bit of a guide on how to retrieve yours.)
+- [**/npm**](https://davidblue.wtf/npm), Redirects to my list of npm packages.
 - [**/obsidian**](https://davidblue.wtf/obsidian), Redirects to my Obsidian-specific Raindrop collection.
 - [**/openaireply**](https://davidblue.wtf/openaireply), Redirects to a Shared Numbers spreadsheet full of live-updated OpenAI Foolery Responses.
 - [**/pain**](https://davidblue.wtf/pain), Redirects to Frankie Muniz's iconic Tweet.
