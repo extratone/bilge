@@ -1,5 +1,5 @@
 # MusicHarbor Artist List
-Updated '082202022-105224'
+Updated '102942022-194425'
 
 ((( O )))
 (G)I-DLE
@@ -67,6 +67,7 @@ Al Kapone
 Al-D
 Alain Planès
 Alan Fitzpatrick
+Alan Jackson
 Albert Hammond Jr.
 ALEPH
 ALEX
@@ -76,11 +77,13 @@ Alexander Harre
 Alexandra Stréliski
 Alexei Lubimov
 Alfredo Olivas
+Alice Deejay
 Alicia Keys
 Alicia Myers
 Alison Wonderland
 Alizzz
 Alkaline Trio
+All Time Low
 Alloapm
 Alper Atrek
 AlterEgo
@@ -100,6 +103,7 @@ Anastasia Kristensen
 Anderson .Paak
 Andre Obin
 Andy Hunter
+Angel Olsen
 Ango
 Anile
 ANNA
@@ -228,6 +232,7 @@ Black Kray
 Black Merlin
 Black Rave Culture
 Black Rebel Motorcycle Club
+Black Sherif
 Blackalicious
 Bladee
 Blake Baxter
@@ -249,6 +254,7 @@ Blue Sky Black Death
 Blur
 Blvck Ceiling
 Bobby Brown
+Bobby Darin
 Bobby Tank
 Bobby Womack
 Boddika
@@ -296,10 +302,12 @@ C-Note
 Cabaret Voltaire
 Cage the Elephant
 Caiiro
+Cailin
 Cajmere
 Calvin Harris
 Camino 84
 Candice Ivory
+Capa
 Capa
 Cape Coral
 Capo Blanco
@@ -307,8 +315,10 @@ CapoBlanco
 Cardi B
 Caribou
 Carl Craig
+Carlton Doom
 Carmen
 Carpenter Brut
+Carrie Underwood
 Casting
 Casting Crowns
 Catherine Wheel
@@ -340,6 +350,7 @@ Chip E.
 Choongum
 Chris Brown
 Chris de Burgh
+Christine
 Chrome Sparks
 Chromeo
 Chronic Future
@@ -446,6 +457,7 @@ Delroy Edwards
 Delta Heavy
 Deltron 3030
 Demian Licht
+Denham Audio
 Deniece Williams
 DeNiro
 Depeche Mode
@@ -496,6 +508,7 @@ DJ P
 DJ Pantha
 DJ Paypal
 DJ Pierre
+DJ Premier
 DJ Rashad
 DJ Rush
 DJ Sabrina The Teenage DJ
@@ -594,12 +607,14 @@ Eric North
 Eric Prydz
 Erik Satie
 Erika de Casier
+Escaflowne
 Espen Lauritzen
 ESPRIT 空想
 Esther Phillips
 Eternal Bliss
 Etherwood
 Ethiopian Chyld
+Everclear
 Every Time I Die
 Everything But the Girl
 Evil Nine
@@ -615,6 +630,7 @@ Fantasy Camp
 Fanzo
 Farley "Jackmaster" Funk
 Fast Eddie
+Fastway
 Fat Pat
 Fat Pat
 Fat Tony
@@ -623,6 +639,7 @@ Fatherhood
 Fatima Al Qadiri
 FC Kahuna
 Fear Factory
+Feater
 Feed Me
 Feeder
 FEELS
@@ -672,6 +689,7 @@ Franz Ferdinand
 Fraunhofer Diffraction
 Frayser Boy
 Frcln
+Fred again..
 Fred V & Grafix
 Freddie Gibbs
 Friendly Fires
@@ -748,6 +766,7 @@ Grandaddy
 Grant
 Graze
 Graze
+Green Day
 Green Velvet
 Gremly
 Greta Van Fleet
@@ -855,6 +874,7 @@ iLL BLU
 IMANU
 Imploded View
 In Love With a Ghost
+Indigo De Souza
 Indo G
 Infadels
 Inner City
@@ -865,6 +885,7 @@ Internal Affairs
 Isaac Galvez
 Ivy Hollivana
 J Dilla
+J. Worra
 J.M. Silk
 J.S. Bach Orchestra
 Jack Master Funk
@@ -899,6 +920,7 @@ Jeff Mills
 Jensen Sportag
 Jeremy Olander
 JERMS
+Jerry Cantrell
 Jesse Bru
 Jesse Ruins
 Jesse Saunders
@@ -908,6 +930,7 @@ Jessy Lanza
 Jet
 Jimmy Eat World
 Jiro Vega
+jjjacob
 Jlin
 Jodeci
 Jody Barr
@@ -950,6 +973,7 @@ k2k
 Kaiser Chiefs
 Kalax
 kalupke
+Kamyar Ring
 Kanine
 Karenn
 Karima F
@@ -1080,6 +1104,7 @@ Lin-Manuel Miranda
 Lindsheaven Virtual Plaza
 Lindstrøm
 Little Dragon
+Lizzo
 LL Cool J
 Lloyd Vaan
 Lockah
@@ -1097,6 +1122,7 @@ Lone
 LoneMoon
 Long Island Sound
 Loraine James
+Lorca
 Lorca
 Lorenzo
 Lorn
@@ -1151,6 +1177,7 @@ Majid Jordan
 Major Lazer
 Makeup and Vanity Set
 Makoto
+Mall Grab
 Mam
 Mambo Brothers
 MAN POWER
@@ -1166,6 +1193,7 @@ Marie Davidson
 MARINA
 Marino Canal
 Mark Flash
+Mark Morrison
 Marshall Jefferson
 Marshmello
 Martin Roth
@@ -1181,9 +1209,11 @@ Masšh
 Mat Zo
 Mathbonus
 Matroda
+Matthew Bourne
 Matthew Dear
 Matthew Halsall
 Matthew Pepitone
+Matthew West
 Maurizio
 Mavuthela
 Max Cooper
@@ -1216,6 +1246,7 @@ MIAMIGO
 Mic-Lo The Dreamer
 Michael Cassette
 Michel Chion
+Michele Mausi
 Michelle Branch
 Michelle Williams
 Midnight Danger
@@ -1244,6 +1275,7 @@ MK
 MMT-8
 Moby
 Model 500
+Modern Baseball
 Modestep
 Modulaw
 ModVo
@@ -1293,7 +1325,9 @@ NASENBLUTEN
 Natasha Bedingfield
 Nate Dogg
 Navigateur
+Ne-Yo
 Neggy Gemmy
+Nelly
 Neon Indian
 Neon Trees
 Nero
@@ -1483,6 +1517,7 @@ Project Fallen
 Project Pat
 Prurient
 Pryda
+Psiheya
 PSK-13
 Psyance
 PSYCHE/BFC
@@ -1493,6 +1528,7 @@ Pymp Tyte
 Pyravid
 Pza
 Pépe
+Qrauer
 Qrion
 QRTR
 Queen
@@ -1631,6 +1667,7 @@ Seiho
 Selena Gomez
 SelloRekt LA Dreams
 Sepalcure
+Serge Gainsbourg
 Sergei Levitin
 Sewerslvt
 Shade of Rhythm
@@ -1751,6 +1788,7 @@ Sun Ra & His Solar Arkestra
 Sun-El Musician
 Sung
 Sunglasses Kid
+Sunshine Jones
 Super Flu
 Super Magic Hats
 Superchick
@@ -1762,6 +1800,7 @@ Surfing
 Surgeon
 Suzanne Vega
 Svengali
+Swami Sound
 Sweater Beats
 Sweatson Klank
 Sweet Trip
@@ -1805,6 +1844,7 @@ Telequanta
 Temples
 Ten City
 Tendencies
+Tenille Townes
 Teno Afrika
 Tensnake
 Tenzella
@@ -1842,6 +1882,8 @@ The Fixxers
 The Fratellis
 The Future Sound of London
 The Get Up Kids
+The Gift Music World Wide
+The Grid
 The Hacker
 The Heavy
 The Hives
@@ -1915,6 +1957,7 @@ Tokyo Jetz
 TOKYO ROSE
 Tokyo Rose
 Tom Cloud
+Tom Jarmey
 Tom Vek
 Tommy
 Tommy '86
@@ -1974,6 +2017,7 @@ Unison
 Unk
 Unknown Mortal Orchestra
 Urbandawn
+Usher
 Utopia
 vaiku
 Valotihkuu
@@ -2028,6 +2072,7 @@ We.B
 Wehbba
 Wesley Fuller
 Westside Connection
+Wet Leg
 Whiney
 Whirl
 Whispa
@@ -2112,5 +2157,6 @@ Zxz
 ブギーアイドル
 ロフト tapes
 死夢VANITY
+河辺千恵子
 音 LIGHT システム
 회사AUTO
