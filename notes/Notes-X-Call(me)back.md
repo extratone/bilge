@@ -1,8 +1,9 @@
 # Notes-X-Call(me)back
-Updated `10122022-144640`
+	Updated `10212022-211636`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/369)
 - [X-Call(me)back](drafts://open?uuid=7D32DB34-969B-435F-8502-FC286350570F)
+- [Ulysses Draft](ulysses://x-callback-url/open?id=xi_hRyFK2hiUGDDYSvfpkA)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/F94754AD-52B9-4C5B-BBC4-06B1FCC51110.md)
 - [Notes](drafts://open?uuid=F94754AD-52B9-4C5B-BBC4-06B1FCC51110)
 - [WTF](https://davidblue.wtf/drafts/F94754AD-52B9-4C5B-BBC4-06B1FCC51110.html)
@@ -10,9 +11,10 @@ Updated `10122022-144640`
 
 ---
 
-[[X-Call(me)back]]
-
 ## Social
+
+- [Re: X-Callback-URL Support in Tusker](message://%3C73D7B349-C1BE-4A7B-88F0-3814C2AB3CA8@shadowfacts.net%3E)
+- [Re: [General] Request by David Blue](message://%3Cb00b5181b830445de51090c35ab55c2a@frontapp.com%3E)
 
 ## General
 
@@ -21,8 +23,17 @@ Updated `10122022-144640`
 ## Reference
 
 - [Interview w  Greg Pierce, creator of x-callback-url  -  Supercomputer](drafts://open?uuid=8276D6F6-9F3F-49AF-A5FB-4E98907C2CF4)
+- ~[29:30](https://pca.st/episode/1f1e7e29-4947-4744-8d6c-f4969665aa8a?t=1752.0)
+> The actions that Workflow has for Drafts 4 are all just wrappers for URL scheme commands.
+- [Open X-Callback URL – Matthew Cassinelli](https://matthewcassinelli.com/actions/open-x-callback-url/)
+- [x-callback-url Specification](drafts://open?uuid=6991B139-1D32-4ADD-85D3-B578D1A4542E)
+- [softwarehistorysociety x Repository](drafts://open?uuid=9117CA00-72B5-46AE-AA82-38C6CBA73F35)
+- [Shared Ulysses Callback URL Support ZIP (iCloud Drive)](https://www.icloud.com/iclouddrive/0ed4T2Hs_z0GfexdbWG6fW5hg#UlyssesX-Callback-URL)
+- [Speed Up Your Ulysses Workflows: Shortcuts | Ulysses Help](https://help.ulysses.app/kb/guide/en/speed-up-your-ulysses-workflows-shortcuts-led3pp0jPo)
 
 ## Reading
+
+- [Shortcuts in the Wild](https://blog.ulysses.app/shortcuts-in-the-wild/) | Ulysses Blog
 
 ## Video 
 
