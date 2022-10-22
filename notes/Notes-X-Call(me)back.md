@@ -1,5 +1,5 @@
 # Notes-X-Call(me)back
-Updated `10122022-135304`
+Updated `10122022-144640`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/369)
 - [X-Call(me)back](drafts://open?uuid=7D32DB34-969B-435F-8502-FC286350570F)
@@ -10,13 +10,25 @@ Updated `10122022-135304`
 
 ---
 
+[[X-Call(me)back]]
+
 ## Social
 
 ## General
 
+- [Is there a way to run a shortcut which opens an app and then auto fills text within that app?](https://reddit.com/r/shortcuts/comments/y2k98i/is_there_a_way_to_run_a_shortcut_which_opens_an/) - r/Shortcuts
+
 ## Reference
 
+- [Interview w  Greg Pierce, creator of x-callback-url  -  Supercomputer](drafts://open?uuid=8276D6F6-9F3F-49AF-A5FB-4E98907C2CF4)
+
 ## Reading
+
+## Video 
+
+<video controls>
+  <source src="https://softwarehistory.neocities.org/video/iAWriterx.mp4">
+</video>
 
 ### Search Results
 
