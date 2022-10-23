@@ -1,5 +1,5 @@
 # X-Call(me)back
-Updated `10122022-135444`
+Updated `10222022-212348`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/369)
 - [Local](drafts://open?uuid=7D32DB34-969B-435F-8502-FC286350570F)
@@ -19,14 +19,14 @@ A few weeks ago, I used the [support contact form](https://ulysses.app/contact "
 > Howdy folks!
 > I've been looking into using Ulysses' URL Scheme and have not been able to find a *current* document on help.ulysses.app. I found the old page [on the Web Archive](http://web.archive.org/web/20160314104529/http://ulyssesapp.com:80/kb/x-callback-url "Ulysses X-Callback-URL Documentation (Archived)") - which is certainly enough for me as long as its information is still current - but I suppose I was wondering why it seems to have been unpublished?
 
-The very prompt [response](https://app.sparkmailapp.com/web-share/EWr1BnP9WN29W3hhFQ5-Ceadu6YWfA_Rf3Or3oLr):
+The very prompt [response](https://app.sparkmailapp.com/web-share/EWr1BnP9WN29W3hhFQ5-Ceadu6YWfA_Rf3Or3oLr "Re: X-Callback-URL Support in Ulysses"):
 
 > Hi David,
 > Thanks for your message. 
-> We have deprecated support for X-Callback URLs, since most actions should be available via Shortcuts. However, X-Callback still works in Ulysses. You can find the documentation for X-Callback in Ulysses in the attached zip file.
+> We have deprecated support for X-Callback URLs, since most actions should be available via Shortcuts. However, X-Callback still works in Ulysses. You can find the documentation for X-Callback in Ulysses in [the attached zip file](https://www.icloud.com/iclouddrive/0ed4T2Hs_z0GfexdbWG6fW5hg#UlyssesX-Callback-URL "Ulysses X-Callback-URL Support Zip File (iCloud Drive)").
 > May I ask why you are using X-Callback instead of Shortcuts? Are you missing any features?
 > Thanks,  
 > Götz Fabian  
 > Developer
 
-<!--comment-->
+Regretfully, I have yet to respond, but perhaps this finished post will provide a comprehensive answer, Gourd willing. Perhaps it 'twas a bit uncouth, but instead, I immediately published the entirety of what was sent as [a GitHub Repository](https://github.com/softwarehistorysociety/UlyssesX-Callback-URL "Ulysses X-Callback-URL Documentation GitHub Repository").
