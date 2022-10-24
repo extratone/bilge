@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10222022-041954`
+Updated `10242022-135801`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -143,6 +143,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/mastodon**](https://davidblue.wtf/mastodon), Redirects to my profile on mastodon.social.
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
+- [**/matrix**](https://davidblue.wtf/matrix), Redirects to a matrix.to preview link of my main Matrix profile on matrix.org.
 - [**/meme**](https://davidblue.wtf/meme), Redirects to the WTF vocabulary page for *meme*.
 - [**/microblog**](https://davidblue.wtf/microblog), Redirects to the WTF documentation page for my micro.blog trial experiment.
 - [**/middlenames**](https://davidblue.wtf/middlenames), Redirects to the WTF aggregation/documentation page for my ancient Middle Name Candidates list.
@@ -152,6 +153,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/netflix**](https://davidblue.wtf/netflix), Redirects to a record of David Blue's Netflix Activity in full (and a bit of a guide on how to retrieve yours.)
 - [**/npm**](https://davidblue.wtf/npm), Redirects to my list of npm packages.
 - [**/obsidian**](https://davidblue.wtf/obsidian), Redirects to my Obsidian-specific Raindrop collection.
+- [**/onamp**](https://davidblue.wtf/onamp), Redirects to my (@extratone) profile on Amazon's new social audio app/network.
 - [**/openaireply**](https://davidblue.wtf/openaireply), Redirects to a Shared Numbers spreadsheet full of live-updated OpenAI Foolery Responses.
 - [**/pain**](https://davidblue.wtf/pain), Redirects to Frankie Muniz's iconic Tweet.
 - [**/panicurine**](https://davidblue.wtf/panicurine), Redirects to the *Colornames* web page for *Panic Urine* (#f7ff85.)
