@@ -2455,3 +2455,30 @@
 # [What's New in Shortcuts - Issue #46 | Revue](https://www.getrevue.co/profile/matthewcassinelli/issues/what-s-new-in-shortcuts-issue-46-1391688)
 
 > David Blue shared this shortcut for formatting links from LookUp for iOS into Markdown — this app is great for, well, looking up words and storing them in custom research groups:
+
+# [There's more to linking than crediting sources — Paolo Amoroso's Journal](https://journal.paoloamoroso.com/theres-more-to-linking-than-crediting-sources)
+
+> References allow to explore the rest of the shared content and discover new ideas or overlooked portions of works.
+
+# [Meta’s VR platform Horizon is too buggy and employees aren’t using it enough, says exec - The Verge](https://www.theverge.com/2022/10/6/23391895/meta-facebook-horizon-worlds-vr-social-network-too-buggy-leaked-memo?utm_source=Tedium&utm_campaign=Tedium_10_13_2022&utm_medium=email)
+
+> for an experience to become delightful and retentive, it must first be usable and well crafted
+
+# [Block, filter, and report messages on iPhone - Apple Support](https://support.apple.com/guide/iphone/block-filter-and-report-messages-iph203ab0be4/ios)
+
+> Report spam or junk messages
+> ----------------------------
+> 
+> When you use iMessage, you can report spam messages to Apple. Depending on your carrier and country or region, you can also report spam you receive with SMS and MMS.
+> 
+> In the list of messages, press and hold the spam message, then tap Report Junk. Or, if you’ve opened the message and the person isn’t saved in your contacts, scroll to the bottom of the message, tap Report Junk, then tap Delete and Report Junk.
+> 
+> The sender’s information and the message are sent to Apple, and the message is permanently deleted from your device.
+> 
+> _Note:_ Reporting junk or spam doesn’t prevent the sender from sending messages, but you can block the number to stop receiving them.
+> 
+> If you don’t see the option to report spam or junk messages you receive with SMS or MMS, contact your carrier. See the Apple Support article [Wireless carrier support and features for iPhone](https://support.apple.com/HT204039).
+
+# [The new iPad makes no sense - The Verge](https://www.theverge.com/23412645/apple-ipad-10th-gen-magic-keyboard-price-ipados)
+
+> As much as Apple may want it to be, the iPad is not a computer. It’s just not. This is not a complicated philosophical discussion — an iPad is not a computer because it runs a tablet operating system, not a computer operating system. Take your finger off that DM button because I will not debate you on this. It’s not a computer.
