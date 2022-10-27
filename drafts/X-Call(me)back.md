@@ -10,6 +10,8 @@ Updated `10222022-212348`
 
 ---
 
+# X-Call(me)back
+
 ## Lamenting a needless (and very inconvenient) deprecation.
 
 <!--more-->
@@ -29,4 +31,10 @@ The very prompt [response](https://app.sparkmailapp.com/web-share/EWr1BnP9WN29W3
 > Götz Fabian  
 > Developer
 
-Regretfully, I have yet to respond, but perhaps this finished post will provide a comprehensive answer, Gourd willing. Perhaps it 'twas a bit uncouth, but instead, I immediately published the entirety of what was sent as [a GitHub Repository](https://github.com/softwarehistorysociety/UlyssesX-Callback-URL "Ulysses X-Callback-URL Documentation GitHub Repository").
+Unfortunately, I have yet to respond, but hopefully this finished post will provide a comprehensive answer, Gourd willing. Perhaps it 'twas a bit uncouth, but instead, I immediately published the entirety of what was sent as [a GitHub Repository](https://github.com/softwarehistorysociety/UlyssesX-Callback-URL "Ulysses X-Callback-URL Documentation GitHub Repository"). As far as I can tell - though its creators may consider Ulysses' X-callback-url support *deprecated* - all of its (quite unique!) actions continue to function.
+
+## Context
+
+Though I now ruefully describe myself as an *iPhone Poweruser*, I have also spent the past several years realizing the severity of my lack of knowledge regarding *automation* on iPhone and iPad, specifically. An ongoing subscription to [*Club MacStories*](https://club.macstories.net/ "Club MacStories") has certainly contributed to this, throughout a period of [general newfound detail-oriented life](https://bilge.world/2021 "The Psalms' 2021"). 
+
+<!--comment-->

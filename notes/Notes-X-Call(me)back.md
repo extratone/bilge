@@ -30,6 +30,7 @@ Updated `10222022-212357`
 - [softwarehistorysociety x Repository](drafts://open?uuid=9117CA00-72B5-46AE-AA82-38C6CBA73F35)
 - [Shared Ulysses Callback URL Support ZIP (iCloud Drive)](https://www.icloud.com/iclouddrive/0ed4T2Hs_z0GfexdbWG6fW5hg#UlyssesX-Callback-URL)
 - [Speed Up Your Ulysses Workflows: Shortcuts | Ulysses Help](https://help.ulysses.app/kb/guide/en/speed-up-your-ulysses-workflows-shortcuts-led3pp0jPo)
+- [Using Bear with Drafts](https://forums.getdrafts.com/t/using-bear-with-drafts/79) - Draft Forums
 
 ## Reading
 
