@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10242022-135801`
+Updated `10282022-103125`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -178,6 +178,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/rowdyhitler**](https://davidblue.wtf/rowdyhitler), Redirects to the TikTok re-upload of my classic Joke Video, *Flight of The Joke Numbers*.
 - [**/rreading**](https://davidblue.wtf/rreading), Redirects to the invite URL for my Shared Apple Reminders Reading List.
 - [**/rtfarah**](https://davidblue.wtf/rtfarah), Redirects to a WTF index page of all work by Matt Farah for Road & Track.
+- [**/runestonetheme**](https://davidblue.wtf/runestonetheme), Redirects to the WTF documentation page for The Psalms' Runestone Theme.
 - [**/scarysummaries**](https://davidblue.wtf/scarysummaries), Redirects to the WTF documentation page for my Scary Summaries OpenAI Experimentation with the Toolbox Pro Beta.
 - [**/screw**](https://davidblue.wtf/screw), Redirects to the WTF documentation for my DJ Screw Discography Raindrop Collection - an Index of the DJ Screw Discography Collection on Archive.org.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
