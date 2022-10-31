@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10282022-103125`
+Updated `10292022-082158`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -195,6 +195,8 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/socialdrop**](https://davidblue.wtf/socialdrop), Redirects to my Social Directory Raindrop collection.
 - [**/sophiesell**](https://davidblue.wtf/sophiesell), Redirects to my Facebook Marketplace listing for my Microsoft Surface Laptop 2.
 - [**/sourcetool**](https://davidblue.wtf/sourcetool), Redirects to the WTF documentation page the ongoing development of the Batch Source Tool Custom Siri Shortcut.
+- [**/springtheme**](https://davidblue.wtf/springtheme), Redirects to the WTF documentation page for The Psalms Theme for Spring for Twitter.
+- [**/springx**](https://davidblue.wtf/springx), Redirects to the WTF documentation page for Spring for Twitter's URL Scheme.
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
 - [**/stripe**](https://davidblue.wtf/stripe), Redirects to a Stripe pay link to tip me directly.
 - [**/swang**](https://davidblue.wtf/swang), Redirects to the WTF vocabulary entry I authored for "swang."
@@ -223,6 +225,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
 - [**/wiki**](https://davidblue.wtf/wiki), Redirects to my (Failed) Personal Wiki experiment on Fucking Notion.
 - [**/wikipedia**](https://davidblue.wtf/wikipedia), Redirects to my personal user page on Wikipedia.
+- [**/wishlist**](https://davidblue.wtf/wishlist), Redirects to my HELP Amazon wishlist.
 - [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
 - [**/woofs**](https://davidblue.wtf/woofs), Redirects to the live video stream of my local Yuppie Pet Daycare.
 - [**/xspec**](https://davidblue.wtf/xspec), Redirects to the WTF archive page for the original x-callback-url Specification.
