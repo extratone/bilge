@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10292022-082158`
+Updated `10302022-234903`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -213,6 +213,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/tuskerx**](https://davidblue.wtf/tuskerx), Redirects to the WTF documentation page for my email thread with Tusker Developer shadowfacts on the future of X-Callback-URL.
 - [**/tweetdecklists**](https://davidblue.wtf/tweetdecklists), Redirects to the WTF documentation for my "Backup/Export Twitter Lists with TweetDeck" guide.
 - [**/twitter**](https://davidblue.wtf/twitter), Redirects to my Twitter profile.
+- [**/ulysseshelp**](https://davidblue.wtf/ulysseshelp), Redirects to the WTF documentation page concatenating all the default, in-app Ulysses help notes.
 - [**/ulyssesx**](https://davidblue.wtf/ulyssesx), Redirects to Ulysses' X-Callback Support page, revived!
 - [**/usage**](https://davidblue.wtf/usage), Redirects to the WTF documentation page for my ongoing cellular data usage log.
 - [**/userguide**](https://davidblue.wtf/userguide), Redirects to Apple's official "iPhone User Guide" in the Apple Books store.
