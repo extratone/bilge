@@ -1,4 +1,4 @@
-# Spring for Twitter
+# Spring for Twitter 4 Review
 Updated `10282022-203611`
 
 - [**Notes**](drafts://open?uuid=78636308-C732-4450-8661-179B576A97B5)
@@ -16,5 +16,7 @@ Updated `10282022-203611`
 ---
 
 <!--more-->
+
+Good morning, it's your token critic of social media clients on Apple Platforms. The Roger Ebert of the idea, if you will.
 
 <!--comment-->
