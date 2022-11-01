@@ -2187,6 +2187,10 @@
 
 > With the current version of iPadOS, some apps can use up to 12GB of memory on the top-spec iPad Pro. With iPadOS 16, iPad apps have access to up to 16GB of memory thanks to virtual memory swap, allowing the device to tap into its storage to expand the available memory for all apps.
 
+> With the current version of iPadOS, some apps can use up to 12GB of memory on the top-spec iPad Pro. With iPadOS 16, iPad apps have access to up to 16GB of memory thanks to virtual memory swap, allowing the device to tap into its storage to expand the available memory for all apps.
+
+> Following the beta testing period, Apple officially released iPadOS 16 on Monday, October 24.
+
 # [explore/styleguide.md at main · github/explore](https://github.com/github/explore/blob/main/docs/styleguide.md)
 
 > **Repository:** Never abbreviate "repository." "Repository" is always lowercase unless it's starting a sentence.
@@ -2482,3 +2486,43 @@
 # [The new iPad makes no sense - The Verge](https://www.theverge.com/23412645/apple-ipad-10th-gen-magic-keyboard-price-ipados)
 
 > As much as Apple may want it to be, the iPad is not a computer. It’s just not. This is not a complicated philosophical discussion — an iPad is not a computer because it runs a tablet operating system, not a computer operating system. Take your finger off that DM button because I will not debate you on this. It’s not a computer.
+
+# [iOS 16.1 and Apps with Live Activities: The MacStories Roundup, Part 1 - MacStories](https://www.macstories.net/reviews/ios-16-1-and-apps-with-live-activities-the-macstories-roundup-part-1/)
+
+> Drafts, Greg Pierce’s writing and note-taking app, includes a feature I’d love to see come to similar apps. The app lets you use a Live Activity as a sort of bookmark to get back to a specific document. Drafts has an existing feature that lets users pin a document, making it easy to return to quickly. With the latest update, you can optionally start a Live Activity when you pin a document. Tapping the Dynamic Island reopens the document, and expanding it or going to the Lock Screen view reveals an excerpt of the text of your document. As with the Dynamic Island, a tap takes you back to your pinned note, so you can continue writing.
+
+# [MacStories Weekly: Issue 342](https://club.macstories.net/posts/macstories-weekly-issue-342)
+
+> keyboard shortcuts
+
+> it’s the most powerful and customizable Twitter client you can find on Apple platforms right now.
+
+> in the upcoming version 4.0 of Spring, you’ll be able to open any view as a custom, in-app split-screen mode that works in tandem with multi-windowing on iPad but is also supported on the iPhone.
+
+> You can select text on images with Live Text.
+
+> Spring is the only third-party Twitter client I’ve found that tries to “complete” threads in the main timeline just like the Twitter official app and website do, meaning that you’ll always see the original tweet alongside a reply to it in your timeline for additional context.
+
+> Spring has added support for viewing edited tweets and their edited history as well as tweets containing mixed media.
+
+> anything can become a custom view in the app and turned into a permanent tab for future access.
+
+# [Twitter Users Flock to Other Platforms as the Elon Musk Era Begins | WIRED](https://www.wired.com/story/twitter-users-flock-to-other-platforms-as-the-elon-musk-era-begins/)
+
+> Some 18,000 people signed up for Mastodon accounts between October 20 and 27, says Eugen Rochko, the platform’s CEO. As of October 28, it had 381,113 active users. Mastodon’s Twitter handle is also being used a lot across Twitter by people announcing new Mastodon accounts, Rochko says.
+
+# [List of Apple codenames - Wikipedia](https://en.wikipedia.org/wiki/List_of_Apple_codenames#iPad)
+
+> [Reminders](/wiki/Reminders_(Apple) "Reminders (Apple)") – _Tantor_
+
+# [List of Apple codenames - Wikipedia](https://en.wikipedia.org/wiki/List_of_Apple_codenames#Other)
+
+> 16
+> 
+> Sydney
+
+> The codename convention for iOS are ski resorts.
+
+# [Monthly Log: October 2022](https://club.macstories.net/posts/monthly-log-october-2022)
+
+> if you need a microphone in a pinch to use with your Mac, you can use the audio part of Continuity Camera without activating the camera. Just go to the Sound section of System Settings. If your iPhone is nearby, you’ll see it as an input source. Select it, and regardless of whether your iPhone is unlocked, you’ll hear the Continuity Camera chime indicating that its microphone is live and ready to use.
