@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10312022-132707`
+Updated `11022022-072906`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -77,6 +77,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/capture**](https://davidblue.wtf/capture), Redirects to the WTF documentation page for my Comprehensive Capture Shortcut.
 - [**/casenet**](https://davidblue.wtf/casenet), Look me up on Case.net!
 - [**/church**](https://davidblue.wtf/church), Redirects to the WTF documentation page for my *If you scared, go to church* Apple Music playlist.
+- [**/codenames**](https://davidblue.wtf/codenames), Redirects to the WTF index page of iPhone OS/iOS Development Codenames.
 - [**/columbiamobot**](https://davidblue.wtf/columbiamobot), Redirects to the WTF documentation page for the Columbia MO Telegram Bot.
 - [**/community**](https://davidblue.wtf/community), Redirects to the WTF documentation page for my Drafts Twitter Community experiment.
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
@@ -145,6 +146,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
 - [**/matrix**](https://davidblue.wtf/matrix), Redirects to a matrix.to preview link of my main Matrix profile on matrix.org.
+- [**/mdx**](https://davidblue.wtf/mdx), Redirects to the WTF snippets page of the MDX Specification.
 - [**/meme**](https://davidblue.wtf/meme), Redirects to the WTF vocabulary page for *meme*.
 - [**/microblog**](https://davidblue.wtf/microblog), Redirects to the WTF documentation page for my micro.blog trial experiment.
 - [**/middlenames**](https://davidblue.wtf/middlenames), Redirects to the WTF aggregation/documentation page for my ancient Middle Name Candidates list.
