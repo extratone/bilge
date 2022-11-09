@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `11052022-022543`
+Updated `11092022-045833`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -123,6 +123,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/htmlcomment**](https://davidblue.wtf/htmlcomment), Redirects to the WTF Documentation page for my HTML Comment Drafts Action.
 - [**/hypnagogic**](https://davidblue.wtf/hypnagogic), Redirects to the WTF vocabulary page for *hypnagogic*.
 - [**/information**](https://davidblue.wtf/information), Redirects to my subscriber friend invite code URL for *The Information*. (30 days free.)
+- [**/instance**](https://davidblue.wtf/instance), Redirects to a pre-filled instances.social search for English-speaking servers with greater than 2000 members that do not allow links to illegal content or pornographic content without proper tagging.
 - [**/ipadpros**](https://davidblue.wtf/ipadpros), Redirects to the WTF index page for Tim Chaten's *iPad Pros* Podcast.
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
 - [**/issuedraft**](https://davidblue.wtf/issuedraft), Redirects to the WTF documentation page for my GitHub Issue ⇨ Draft Siri Shortcut.
@@ -152,6 +153,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/middlenames**](https://davidblue.wtf/middlenames), Redirects to the WTF aggregation/documentation page for my ancient Middle Name Candidates list.
 - [**/musicapps**](https://davidblue.wtf/musicapps), Redirects to "iPhone and Music - For Artists, Curators, and Enthusiasts" on *The Psalms*.
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
+- [**/neeva**](https://davidblue.wtf/neeva), Redirects to the public URL for my *Reading* Neeva Space.
 - [**/neopress**](https://davidblue.wtf/neopress), Redirects to my (updated) index of [the NeoCities Press page](https://neocities.org/press).
 - [**/netflix**](https://davidblue.wtf/netflix), Redirects to a record of David Blue's Netflix Activity in full (and a bit of a guide on how to retrieve yours.)
 - [**/npm**](https://davidblue.wtf/npm), Redirects to my list of npm packages.
@@ -200,6 +202,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/sophiesell**](https://davidblue.wtf/sophiesell), Redirects to my Facebook Marketplace listing for my Microsoft Surface Laptop 2.
 - [**/sourcetool**](https://davidblue.wtf/sourcetool), Redirects to the WTF documentation page the ongoing development of the Batch Source Tool Custom Siri Shortcut.
 - [**/springtheme**](https://davidblue.wtf/springtheme), Redirects to the WTF documentation page for The Psalms Theme for Spring for Twitter.
+- [**/springtweetcapture**](https://davidblue.wtf/springtweetcapture), Redirects to the WTF documentation page for my Spring Tweet Capture Siri Shortcut.
 - [**/springx**](https://davidblue.wtf/springx), Redirects to the WTF documentation page for Spring for Twitter's URL Scheme.
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
 - [**/stern**](https://davidblue.wtf/stern), Redirects to *The Wall Street Journal*'s author page for Joanna Stern, Senior Personal Technology Columnist.
