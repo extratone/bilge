@@ -1,5 +1,5 @@
 # Notes-Essential Mastodon Resources
-Updated `11112022-193155`
+Updated `11122022-130934`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/373)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/E8D50F05-FEC0-4B30-8E34-3E9F262E1FD8.md)
@@ -26,6 +26,14 @@ Updated `11112022-193155`
 - [Sarah Jeong and the Gay Furry Communists](https://twitter.com/sarahjeong/status/852818263599849474)
 
 ### Important Posts
+
+<iframe src="https://vis.social/@Luca/109253908218072543/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
+
+- [FediFinder share thread](https://vis.social/@Luca/109253908218072543)
+
+<iframe src="https://mastodon.social/@Gargron/109330358838921654/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
+
+- [One Million more Users since October 27th](https://mastodon.social/@Gargron/109330358838921654)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">give me my accounts back mother fucker <a href="https://twitter.com/elmo?ref_src=twsrc%5Etfw">@elmo</a></p>&mdash; LeVar Burzum (@weadhitter) <a href="https://twitter.com/weadhitter/status/1590736202205777920?ref_src=twsrc%5Etfw">November 10, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
