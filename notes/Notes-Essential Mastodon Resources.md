@@ -1,5 +1,5 @@
 # Notes-Essential Mastodon Resources
-Updated `11122022-130934`
+Updated `11182022-025359`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/373)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/E8D50F05-FEC0-4B30-8E34-3E9F262E1FD8.md)
@@ -20,10 +20,23 @@ Updated `11122022-130934`
 
 ---
 
+## General 
+
+- [Don't spend any money](https://twitter.com/NeoYokel/status/1593282382886744064)! for gosh sakes!
+
 ## Social
+
+<blockquote class="twitter-tweet"><p lang="hu" dir="ltr">A PROPHET. <a href="https://t.co/TeSh9PYU6A">https://t.co/TeSh9PYU6A</a> <a href="https://t.co/9sdwkd3MtT">pic.twitter.com/9sdwkd3MtT</a></p>&mdash; 𝗗 𝗔 𝗩 𝗢 𝗗 (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1590892649208127488?ref_src=twsrc%5Etfw">November 11, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 - [The Timely Mastodon Primer Thread](drafts://open?uuid=6D0765CA-FF35-4487-B154-B37C2D27C94C)
 - [Sarah Jeong and the Gay Furry Communists](https://twitter.com/sarahjeong/status/852818263599849474)
+- [Futureland Prophecy](https://twitter.com/NeoYokel/status/1590892649208127488)
+- [joinmastodon.org domain blocked on Twitter](https://twitter.com/mattbirchler/status/1593388379739414529)
+- [r/Mastodon - Comment by u/jgillich on ”joinmastodon.org domain blocked on Twitter”](https://www.reddit.com/r/Mastodon/comments/yv69r0/psa_for_newbies_mastodon_is_to_twitter_as_email/)
+- [Profile search for "mastodon"](https://twitter.com/search?q=%22mastodon%22%20%40neoyokel&src=typed_query&f=live)
+- [Unverified](https://mastodon.social/@DavidBlue/108269167322049078)
+
+<iframe id="reddit-embed" src="https://www.redditmedia.com/r/Mastodon/comments/yv69r0/psa_for_newbies_mastodon_is_to_twitter_as_email/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="296" width="640" scrolling="no"></iframe>
 
 ### Important Posts
 
@@ -58,6 +71,7 @@ Updated `11122022-130934`
 - [joinmastodon.org's new(?) servers tool](https://joinmastodon.org/servers)
 - [instances.social](https://instances.social)
 - [English-speaking Instances with greater than 2000 members](https://instances.social/list/advanced#lang=en&allowed=&prohibited=&min-users=2000&max-users=) - `https://davidblue.wtf/instance`
+- [Press Check](https://www.presscheck.org)
 
 ## Reference
 
@@ -65,4 +79,17 @@ Updated `11122022-130934`
 
 ## Reading
 
-- [How to Find Your Twitter Friends on Mastodon](https://www.wired.com/story/how-to-find-twitter-friends-on-mastodon/)Updated `11102022-111820`
+- [How to Find Your Twitter Friends on Mastodon](https://www.wired.com/story/how-to-find-twitter-friends-on-mastodon/)
+- [Scaling Mastodon is Impossible](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/)
+- [Joanna Stern's quick guide](https://tilde.town/~extratone/misc/sternmastodon)
+
+## Audio
+
+<iframe src="https://www.listennotes.com/podcasts/extratone-radio/federated-stigmoidoscopy-6koE2Lj7MpS/embed/" height="170px" width="100%" style="width: 1px; min-width: 100%;" loading="lazy" frameborder="0" scrolling="no"></iframe>
+
+<audio controls>
+  <source src="https://www.davidblue.bio/uploads/2022/526e532c62.m4a">
+</audio>
+
+- [Topolsky on Mastodon](https://www.davidblue.bio/uploads/2022/526e532c62.m4a)
+- [Futureland Episode 26](https://www.listennotes.com/podcasts/extratone-radio/federated-stigmoidoscopy-6koE2Lj7MpS/) - [Starting at 3:42](https://lnns.co/JURfmbkEZgX/222) - [Clip](https://www.listennotes.com/podcast-clips/federated-stigmoidoscopy-futureland-episode-26-5bRYa_UNVSG/)
