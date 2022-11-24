@@ -1,5 +1,5 @@
 # Notes-Essential Mastodon Resources
-Updated `11182022-025359`
+Updated `11182022-150926`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/373)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/E8D50F05-FEC0-4B30-8E34-3E9F262E1FD8.md)
@@ -23,6 +23,7 @@ Updated `11182022-025359`
 ## General 
 
 - [Don't spend any money](https://twitter.com/NeoYokel/status/1593282382886744064)! for gosh sakes!
+- [David Blue on Mastodon - Itty](https://bit.ly/ittymasto)
 
 ## Social
 
@@ -39,6 +40,8 @@ Updated `11182022-025359`
 <iframe id="reddit-embed" src="https://www.redditmedia.com/r/Mastodon/comments/yv69r0/psa_for_newbies_mastodon_is_to_twitter_as_email/?ref_source=embed&amp;ref=share&amp;embed=true" sandbox="allow-scripts allow-same-origin allow-popups" style="border: none;" height="296" width="640" scrolling="no"></iframe>
 
 ### Important Posts
+
+- [Turning up with 1 million people in the tiny, rural village...](https://mastodon.social/@Richard_Littler/109364310000292806)
 
 <iframe src="https://vis.social/@Luca/109253908218072543/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
 
@@ -65,23 +68,29 @@ Updated `11182022-025359`
 - [iOS App Footprint Size comparison Tweet](https://twitter.com/NeoYokel/status/1421468316368052232)
 
 - [Jeremy Renner Official](https://twitter.com/bitethehan/status/1590926507777855488)
+- [Monetization Thread](https://mastodon.social/@atomicpoet/109400148388785814)
 
-## Onboarding Resources
+## Resources
 
 - [joinmastodon.org's new(?) servers tool](https://joinmastodon.org/servers)
 - [instances.social](https://instances.social)
 - [English-speaking Instances with greater than 2000 members](https://instances.social/list/advanced#lang=en&allowed=&prohibited=&min-users=2000&max-users=) - `https://davidblue.wtf/instance`
 - [Press Check](https://www.presscheck.org)
+- [Mastodon Search - API Tester](https://apitester.org/ieJxzZGD0ZHBKTSxKLVKozk0sLslPAnNqZXxBnJT8PAXHAE8FXYVgoHByhox6RklJQbGVvn4uVFqvOD85MzFHP7EgU7:MSL8YrMy.0DYppzRVLSczN7PE1thSLS0:Jye:PDMv3TYtMac4VR0Aetkpkg)
+- [Twitter is Going Great!](https://twitterisgoinggreat.com/)
 
 ## Reference
 
 - [Eugen Rochko *Time* Interview](ulysses://x-callback-url/open?id=h4rmKpkeESdAM7Wei7HkAg)
+- [Google News Topic](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lKeV9DSkJoRUF4dWZ5QmJBMXRpZ0FQAQ) - [WTF Shortlink](https://davidblue.wtf/gnmasto) - `https://davidblue.wtf/gnmasto`
 
 ## Reading
 
 - [How to Find Your Twitter Friends on Mastodon](https://www.wired.com/story/how-to-find-twitter-friends-on-mastodon/)
 - [Scaling Mastodon is Impossible](https://lucumr.pocoo.org/2022/11/14/scaling-mastodon/)
 - [Joanna Stern's quick guide](https://tilde.town/~extratone/misc/sternmastodon)
+- *Garbage Day*'s "[A Eulogy for Twitter](https://www.davidblue.bio/2022/11/18/a-eulogy-for.html)"
+- "[Journalists want to re-create Twitter on Mastodon. Mastodon is not into it.](https://www.cjr.org/analysis/journalists-want-to-recreate-twitter-on-mastodon-mastodon-is-not-into-it.php)" - *Columbia Journalism Review* - [Ulysses](ulysses://x-callback-url/open?id=XwN9fuk3vumZ3ayn4Xm5xw)
 
 ## Audio
 
