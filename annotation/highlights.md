@@ -2526,3 +2526,154 @@
 # [Monthly Log: October 2022](https://club.macstories.net/posts/monthly-log-october-2022)
 
 > if you need a microphone in a pinch to use with your Mac, you can use the audio part of Continuity Camera without activating the camera. Just go to the Sound section of System Settings. If your iPhone is nearby, you’ll see it as an input source. Select it, and regardless of whether your iPhone is unlocked, you’ll hear the Continuity Camera chime indicating that its microphone is live and ready to use.
+
+# [Weekly Musings 181 — Weekly Musings](https://weeklymusings.net/weekly-musings-181)
+
+> How many times have you encountered someone (or been that someone) who, when confronted with a discrepancy between what's on the screen and what's literally in front of them, muttered _This can't be right ..._ at the reality before them?
+
+# [Setting up a custom domain – Craft](https://support.craft.do/hc/en-us/articles/6370606195101-Setting-up-a-custom-domain)
+
+> *   Select **Domain List** from the left sidebar.
+> *   Click the **Manage** button next to your domain.![NameCheapImage.png](/hc/article_attachments/6417138402461/NameCheapImage.png)
+> *   Click **Advanced DNS**.
+> *   Click **Add New Record**.
+> *   Copy and past in the CNAME records provided in the admin panel
+> *   Repeat steps 4 and 5 but for the TXT records also shown in the admin panel
+> *   Once you've saved your records in NameCheap, click I've added my DNS record in Craft and your DNS will begin to propagate. This usually takes a few minutes, but in some cases, propagation can take up to 24 hours. Once the DNS is verified the flashing amber dot will turn green and your domain is ready to use.
+
+# [App Debuts](https://club.macstories.net/posts/app-debuts-127)
+
+> [Micro.blog](https://micro.blog) is designed to allow third-party developers to hook into the service with their own apps. One of the first of those to be launched is Icro, by Martin Hartl. I’ve only tried the app for a short time, but was immediately struck by its clean design. Looking much like a tab bar-based Twitter client, Icro uses round avatars and accents of orange and salmon that create a calm, pleasing look. Micro.blog users should give this free alternative Micro.blog client a look.
+
+# [iPhone 12 Lineup Enables Personal Hotspot Over Faster 5GHz Wi-Fi - MacRumors](https://www.macrumors.com/2020/10/26/iphone-12-personal-hotspot-over-5ghz-wifi/)
+
+> Personal Hotspot over 5GHz Wi-Fi is enabled by default on all iPhone 12 models. In the Settings > Personal Hotspot menu on these devices, there is a new "Maximize Compatibility" toggle that reverts Personal Hotspot to 2.4GHz Wi-Fi when enabled, with Apple noting that this may reduce internet performance on devices that are connected to the hotspot.
+
+# [For Education - iboss](https://www.iboss.com/education/)
+
+> The National Institute for Standards and Technology (NIST) Urges Schools to Implement a Zero Trust Architecture to Protect Against Cyber Attacks.
+
+# [About Us | Ars Technica](https://arstechnica.com/about-us/)
+
+> Ars longa, vita brevis, occasio praeceps, experimentum periculosum, iudicium difficile.
+
+# [Joe Hribar – Blog](http://www.joehribar.com/blog/)
+
+> This app is great for when I need to jot down a quick note. From there, I can decide what to do with it later or immediately perform an action or set of actions on the text and send it somewhere else like a message, a tweet, or elsewhere with a URL scheme.
+
+# [Timery 1.5 Update Released with Lock Screen Widgets, Live Activities, New Shortcuts Actions, and More - MacStories](https://www.macstories.net/reviews/timery-1-5-updated-with-lock-screen-widgets-live-activities-new-shortcuts-actions-and-more/)
+
+> Timery’s Shortcuts integration has gotten a boost with the latest update too. There are two new actions:
+> 
+> *   Find Saved Timer
+> *   Find Time Entries
+> 
+> The actions do what their names suggest, but what makes them so powerful is predicate filtering, a new Shortcuts feature introduced with the OS updates this fall. Predicate filtering allows you to search based on keywords and to narrow your search by project, start time, workspace, and more. These new actions are an excellent example of just how powerful predicate filtering is.
+
+# [Topics in Groups, Collectible Usernames, Voice-to-Text for Video Messages and More](https://telegram.org/blog/topics-in-groups-collectible-usernames)
+
+> This update adds the same functionality to **video messages**, allowing Premium users to get an **instant text transcript**.
+
+> ### Topics in Groups
+> 
+> Telegram groups can support huge communities with hundreds of thousands of users. To keep these chats easy to read, groups with **over 200 members** can now **enable topics** and create separate spaces for any subject.
+> 
+> Topics function as **individual chats** within the group – supporting their own **shared media** and **notification settings**. Members are free to chat in any topic from _Anime_ to _Zoology_, using all their favorite features like [polls](https://t.me/TelegramTips/207), [pinned messages](https://t.me/TelegramTips/302) and [bots](https://t.me/telegram/195).
+> 
+> This feature is intended specifically for **large groups**, adding new ways to customize their chats and promote discussion. Later this year, we expect to introduce a different set of tools, tailored to **small groups**. If you want to give topics a test drive, try them out in this [public group](https://t.me/TheForum).
+> 
+> > Group admins can enable topics in their _Group Settings_, and can control who is allowed to **create and manage topics** in _Permissions_.
+> 
+> As with anything on Telegram, further updates will bring more powerful tools for both admins and users of this feature.
+
+# [The Bias Magazine - The Institute for Christian Socialism](https://christiansocialism.com/the-bias-magazine/)
+
+> in the face of capitalist destruction, Christian theology and ecclesiology must "slant" to the left.
+
+# [Shortcuts Support in Acorn 7.2](https://shapeof.com/archives/2022/7/shortcuts_support_in_acorn_7.2.html)
+
+> there is a new option in Layer Export where you can crop a layer's bounds to the canvas size.
+
+# [A Trusted System - MacStories](https://www.macstories.net/stories/a-trusted-system/)
+
+> there’s an important difference between caring about new apps and trusting only a few selected ones for my work
+
+# [Telegram Bot Features](https://core.telegram.org/bots/features#commands)
+
+> #### [](#commands)Commands
+> 
+> A command is a simple `/keyword` that tells the bot what to do. Telegram apps will:
+> 
+> *   **Highlight** commands in messages. When the user taps a highlighted command, that command is immediately sent again.
+> *   Suggest a **list of supported commands** with descriptions when the user enters a `/` (for this to work, you need to have provided a list of commands to [@BotFather](https://t.me/botfather) or via the [appropriate API method](/bots/api#setmycommands)). Selecting a command from the list immediately sends it.
+> *   Show a [menu button](#menu-button) containing all or some of a bot’s commands (which you set via [@BotFather](https://t.me/botfather)).
+> 
+> Commands must always start with the `/` symbol and contain **up to 32 characters**. They can use **Latin letters**, **numbers** and **underscores**, though simple lowercase text is recommended for a cleaner look.
+> 
+> Here are a few examples:
+> 
+> *   /next
+> *   /cancel
+> *   /newlocation
+> *   /newrule
+> 
+> Commands should be **as specific as possible** – for example `/newlocation` or `/newrule` **is better** than a `/new` command that then requires an additional parameter from the user like "_location_“ or ”_rule_".
+
+# [iOS & iPadOS 16.2 Beta 2 Release Notes | Apple Developer Documentation](https://developer.apple.com/documentation/ios-ipados-release-notes/ios-ipados-16_2-release-notes)
+
+> While using Stage Manager with an External Display, dragging a second window to the workspace incorrectly hides the Recent Apps list—shifting all windows in the workspace to the right. (98540114)
+
+# [The State of Mastodon iOS Apps — The Psalms](https://bilge.world/mastodon-ios-apps)
+
+> what the fuck is Awoo Mode???
+
+# [Neil Gaiman's Journal](https://journal.neilgaiman.com/?m=1)
+
+> Also, I'm now on Mastodon. Follow me at _@neilhimself@mastodon.social_ -- and there's an invitation waiting for you at [https://mastodon.social/invite/kP5BRV9s](https://mastodon.social/invite/kP5BRV9s). My first ever Mastodon post has a Good Omens photo from yesterday. Expect more mysterious backstage photos there -- and here -- for a while...
+
+# [X-Callback-URL API and Other URL Schemes — Textastic 9.8 documentation](https://www.textasticapp.com/v9/manual/integration_other_apps/x-callback-url.html#download-using-the-textastic-scheme)
+
+> Download using the textastic:// scheme[](#download-using-the-textastic-scheme "Permalink to this headline")
+> ------------------------------------------------------------------------------------------------------------
+> 
+> In addition to _x-callback-url_ support, the `textastic://` scheme can be used to easily download the server response of HTTP URLs.
+> 
+> You can use this feature to **view the source code of a website** or download files into Textastic.
+> 
+> This is what you need to do:
+> 
+> *   Make sure your iPad or iPhone has an active internet connection
+>     
+> *   Open a website in **Safari** or another browser app like **Chrome**
+>     
+> *   Tap on the address bar
+>     
+> *   **Replace** `http://` **with** `textastic://`
+>     
+> *   Tap Go on the on-screen keyboard
+>     
+> *   Textastic will open and start to download the file at the URL. It will be saved to the root directory in the local file system. When the file is downloaded, it will be opened in the editor.
+
+# [Using Pythonista — Python 3.6.1 documentation](https://omz-software.com/pythonista/docs/ios/pythonista.html)
+
+> Tap and hold the `^` button to clear the console’s history.
+
+# [An Incomplete List of Things That Twitter Was](https://griefbacon.substack.com/p/an-incomplete-list-of-things-that?utm_source=substack&utm_medium=email)
+
+> **What people who didn’t have friends in middle school think having friends in middle school was like.**
+
+> **The JFK assassination episode of** _**Mad Men**_**.** In one long single shot near the beginning of the episode, a character arrives late to his job and finds the office in disarray, desks empty and scattered with suddenly-abandoned papers, and every phone ringing unanswered. Down the hallway at the end of the room, where a TV is blaring just out of sight, we can make out a rising chatter of worried voices, and someone starting to cry. It is— we suddenly remember— a November morning in 1963. The bustling office has collapsed into one anxious body, huddled together around a TV, ignoring the ringing phones, to share in a collective crisis.
+
+> Adderall.
+
+# [What's New in Shortcuts - Issue #51 | Revue](https://www.getrevue.co/profile/matthewcassinelli/issues/what-s-new-in-shortcuts-issue-51-1460218)
+
+> **_Note:_** _Before anyone dives into these streams, I also wanted to be up front and set expectations that I got pretty frustrated during these streams. You can clearly see Shortcuts break for me many, many times in a row, where I run into the same bugs repeatedly for hours on end._
+> 
+> _I really don’t enjoy losing my cool on-camera, and I don’t want to be putting negative energy out — but this is the real experience of what it’s like for me working in the Shortcuts app._
+> 
+> _Hopefully seeing it in action clarifies the issues to folks at Apple, and for me, this process is necessary for me to get this kind of deep work finished._
+> 
+> _You can see multiple times where I almost give up, but streaming this and having the support from chat kept me going — and I made significant progress in the face of these challenges._
+> 
+> _Thanks for tuning in if you want, but there’s no expectation that you should rewatch these — time to move forward and work with what we’ve built so far._
