@@ -1,5 +1,5 @@
 # Notes-Essential Mastodon Resources
-Updated `11182022-150926`
+Updated `11292022-173128`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/373)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/E8D50F05-FEC0-4B30-8E34-3E9F262E1FD8.md)
@@ -7,6 +7,7 @@ Updated `11182022-150926`
 - [bilge Repo](working-copy://open?repo=bilge)
 - [WTF](https://davidblue.wtf/drafts/E8D50F05-FEC0-4B30-8E34-3E9F262E1FD8.html)
 - [Things Project](things:///show?id=PySxdkqHqDMdkgSk9EaTHz)
+- [End User Melon Man Emergency](drafts://open?uuid=3194DC99-4B17-4D4C-BA48-93509A25D248)
 - [Things](things:///show?id=4KQBNsP8q2VtfDoYf8xtPa)
 
 ---
@@ -69,6 +70,8 @@ Updated `11182022-150926`
 
 - [Jeremy Renner Official](https://twitter.com/bitethehan/status/1590926507777855488)
 - [Monetization Thread](https://mastodon.social/@atomicpoet/109400148388785814)
+- [No Algorithmic Incentives](https://mastodon.social/@tuckerteague/109410848797847195)
+- [Quasim's First Month on Mastodon](https://mastodon.social/@QasimRashid/109429122828101442)
 
 ## Resources
 
