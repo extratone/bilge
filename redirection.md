@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `11112022-114732`
+Updated `11302022-202355`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -87,6 +87,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
 - [**/dd**](https://davidblue.wtf/dd), Redirects to the WTF documentation page for my Drafts configurables.
 - [**/dddiscourse**](https://davidblue.wtf/dddiscourse), Redirects to the WTF documentation page for my Raw Discourse Thread ⇨ Drafts Siri Shortcut.
+- [**/detailspro**](https://davidblue.wtf/detailspro), Redirects to my user profile on the DetailsPro shared community library.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to a WTF index for my Distributed iCloud Drive folder.
 - [**/documentation**](https://davidblue.wtf/documentation), Redirects to my Documentation Raindrop collection.
@@ -114,12 +115,14 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/gerogerigegege**](https://davidblue.wtf/gerogerigegege), Redirects to my main music Raindrop collection.
 - [**/github**](https://davidblue.wtf/github), Redirects to my GitHub profile.
 - [**/globe**](https://davidblue.wtf/globe), Redirects to my collected documentation page on WTF for iPad's Globe Keyboard Shortcuts.
+- [**/gnmasto**](https://davidblue.wtf/gnmasto), Redirects to a Google News Topic link for "Twitter Users are Switching to Mastodon."
 - [**/googlegod**](https://davidblue.wtf/googlegod), Redirects to my post on Hacker News for "Google Is Not God of The Web."
 - [**/greyhound**](https://davidblue.wtf/greyhound), Redirects to the WTF documentation page for my Greyhound Drafts Theme.
 - [**/gt7**](https://davidblue.wtf/gt7), Redirects to a mirrored Apple Music playlist I created of the official Gran Turismo 7 playlist on Spotify.
 - [**/gt7spotify**](https://davidblue.wtf/gt7spotify), Redirects to the official Gran Turismo 7 playlist on Spotify.
 - [**/highlights**](https://davidblue.wtf/highlights), Redirects to the markdown file containing the sum of my annotation via Finn Voorhees' [Highlights for iOS](https://testflight.apple.com/join/OONmU0Z2) (Beta.)
 - [**/hire**](https://davidblue.wtf/hire), Redirects to my “General Consultation” Fantastical Openings page.
+- [**/homebrew**](https://davidblue.wtf/homebrew), Redirects to the WTF documentation page for my preferred Homebrew packages list on macOS installations.
 - [**/honk**](https://davidblue.wtf/honk), Redirects to the YouTube playlist for the legacy Drywall car show, *Honk*.
 - [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
 - [**/htmlcomment**](https://davidblue.wtf/htmlcomment), Redirects to the WTF Documentation page for my HTML Comment Drafts Action.
