@@ -1,5 +1,5 @@
 # Notes-Essential Mastodon Resources
-Updated `11292022-173128`
+Updated `12072022-133645`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/373)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/E8D50F05-FEC0-4B30-8E34-3E9F262E1FD8.md)
@@ -86,6 +86,7 @@ Updated `11292022-173128`
 
 - [Eugen Rochko *Time* Interview](ulysses://x-callback-url/open?id=h4rmKpkeESdAM7Wei7HkAg)
 - [Google News Topic](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lKeV9DSkJoRUF4dWZ5QmJBMXRpZ0FQAQ) - [WTF Shortlink](https://davidblue.wtf/gnmasto) - `https://davidblue.wtf/gnmasto`
+- "[Using Mastodon with Drafts](https://forums.getdrafts.com/t/using-mastodon-with-drafts/13766/1)" - Drafts Forums
 
 ## Reading
 
