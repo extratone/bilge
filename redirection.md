@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `12092022-052252`
+Updated `12132022-163440`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -77,6 +77,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/call**](https://davidblue.wtf/call), Redirects to an itty.bitty link that serves a `tel:` URL to my personal phone number.
 - [**/capture**](https://davidblue.wtf/capture), Redirects to the WTF documentation page for my Comprehensive Capture Shortcut.
 - [**/casenet**](https://davidblue.wtf/casenet), Look me up on Case.net!
+- [**/checklist**](https://davidblue.wtf/checklist), Redirects to the WTF documentation page for my conversion of FedEx Virtual's Live Aircraft Checklist.
 - [**/church**](https://davidblue.wtf/church), Redirects to the WTF documentation page for my *If you scared, go to church* Apple Music playlist.
 - [**/codenames**](https://davidblue.wtf/codenames), Redirects to the WTF index page of iPhone OS/iOS Development Codenames.
 - [**/columbiamobot**](https://davidblue.wtf/columbiamobot), Redirects to the WTF documentation page for the Columbia MO Telegram Bot.
@@ -137,6 +138,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
 - [**/jortsnum**](https://davidblue.wtf/jortsnum), Redirects to the shared Numbers spreadsheet containing my ongoing cellular data usage log.
 - [**/juke**](https://davidblue.wtf/juke), Redirects to the fifth episode of my old car show, *Honk*, regarding the Nissan Juke NISMO.
+- [**/k2keys**](https://davidblue.wtf/k2keys), Redirects to the WTF documentation page for the Keychron K2's key combinations.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
 - [**/latte**](https://davidblue.wtf/latte), Redirects to the WTF documentation page for my GitHub Repository Template.
