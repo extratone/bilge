@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `12132022-163440`
+Updated `12222022-234629`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -56,6 +56,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/apogee**](https://davidblue.wtf/apogee), Redirects to the WTF vocabulary page for *apogee*.
 - [**/applenotes**](https://davidblue.wtf/applenotes), Redirects to an index file of all my Apple Notes.
 - [**/applet**](https://davidblue.wtf/applet), Redirects to the WTF documentation page for my iOS Contacts to Gists IFTTT Applet.
+- [**/appreviews**](https://davidblue.wtf/appreviews), Redirects to the WTF index page for my App Store Reviews project.
 - [**/apps**](https://davidblue.wtf/apps), Redirects to the WTF Documentation page for my AppWish curation.
 - [**/artists**](https://davidblue.wtf/artists), Redirects to my MusicHarbor artists list.
 - [**/aschat**](https://davidblue.wtf/aschat), Redirects to "Chat with David Blue" on the Write.as Community Blog.l
