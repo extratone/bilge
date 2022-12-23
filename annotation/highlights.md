@@ -2677,3 +2677,87 @@
 > _You can see multiple times where I almost give up, but streaming this and having the support from chat kept me going — and I made significant progress in the face of these challenges._
 > 
 > _Thanks for tuning in if you want, but there’s no expectation that you should rewatch these — time to move forward and work with what we’ve built so far._
+
+# [MacStories Weekly: Issue 346](https://club.macstories.net/posts/macstories-weekly-issue-346)
+
+> Toot! Is an iPhone and iPad client for Mastodon. The app has been around for quite sometime, but until this week, hadn’t received an update in nearly two years. With the surging popularity of Mastodon, though, the developer has begun updating Toot! with the social network’s newest features, including administrator notifications, plus support for the latest versions of iOS and iPadOS.
+
+# [Ferrite User’s Guide](http://service.wooji-juice.com/ferrite/user-guide/ferrite-user-guide-2.6.html#chap_mouseAndTrackpad)
+
+> ### Strip Silence
+> 
+> The “Strip Silence…” command slices out silent (or nearly-silent) parts of an audio clip. If you’re familiar with a “noise gate”, it’s similar, but the quiet portions are removed from the project altogether, not just silenced.
+> 
+> Strip Silence splits a single clip up into several clips, one for each continuous section of sound. For example, if you have a recording of someone “speaking… with… long… pauses… between… each… word… like… Shatner… or… Walken…” then apply Strip Silence to it, you will end up with one clip for each word, with empty space in the project where the pauses used to be.
+> 
+> When you select the command, the Strip Silence control panel appears at the bottom of the screen. As you adjust the controls, blue shading will mark the regions that will be cut out (for very long pieces of audio, the Strip Silence command may take a little time to update when you change the controls. You’ll see a progress bar below them while this happens).
+> 
+> There are three Strip Silence controls:
+> 
+> Threshold
+> 
+> Sections of audio are only removed if they’re quieter than this level.
+> 
+> Edge Fade
+> 
+> With this switched off, you’ll get hard cuts between the sound and silent sections. Increase the fading, and the Strip Silence command will fade in just before the start of each piece of audio, then fade out when it returns to silence.
+> 
+> Minimum Silence
+> 
+> This is the minimum duration of silence between two sections of audio. If you’re working with very long audio, you should probably turn this up so your timeline doesn’t resemble the aftermath of a hailstorm. This can be particularly useful for projects such as interviews, if you have a separate recording for each participant.
+> 
+> Once you tap the Done button to confirm the command, the sections marked in blue are deleted from the timeline. Note that the audio left behind is not moved to fill the gaps — the timing of your project is unchanged. You can use the [Tighten Audio](#sec_tightenAudio) command afterwards if you want to “ripple” all the deleted sections.
+> 
+> **Tip:** Like all edits in Ferrite, Strip Silence is non-destructive: the silent parts of the audio are removed from the project, but they are not removed from your device, and can be restored either by tapping Undo, by dragging the edges of the pieces to “uncover” more of the audio, or even simply adding the audio back into the project.
+> 
+> **Note:** While the panel is open, you can zoom in and out of your project, pan around, and listen to it, but you can’t make edits until you either confirm or cancel the Strip Silence command.
+
+# [iPadOS 16 review: Stage Manager is not the future of multitasking - The Verge](https://www.theverge.com/23420280/ipados-16-stage-manager-review)
+
+> opening three iPhone-sized apps side by side simultaneously.
+
+# [Toward a Complex, Realistic, and Moral Tech Criticism - The Atlantic](https://www.theatlantic.com/technology/archive/2013/03/toward-a-complex-realistic-and-moral-tech-criticism/273996/)
+
+> This courageous act was possible because the bus and the sociotechnological system in which it operated were terribly inefficient.
+
+# [Elon Musk says he lost transgender daughter because of 'neo-Marxists'](https://www.mercurynews.com/2022/10/10/elon-musk-says-he-lost-transgender-daughter-because-of-neo-marxists/)
+
+> 2
+
+# [How do I tell Lion to disable the LCD scr… - Apple Community](https://discussions.apple.com/thread/3190417?answerId=16059565022#16059565022)
+
+> Here's the command to make your laptop behave like it did Pre-Lion (courtesy of my friend):
+> 
+>   
+> 
+> sudo nvram boot-args="iog=0x0"
+> 
+>   
+> 
+> Works perfectly for me. If it screws up your system, just zap the PRAM next boot (cmd-opt-p-r) and you'll be back to the default Lion state. Or if you can still get into terminal, this command will get you back to Lion's default state as well:
+> 
+>   
+> 
+> sudo nvram -d boot-args
+
+# [Connect a mouse to iPad - Apple Support](https://support.apple.com/guide/ipad/connect-a-mouse-ipad10939edf/ipados)
+
+> With the appropriate cable or adapters, you can connect various third-party mouse devices with iPad using USB and USB-based receivers. Refer to the device manufacturer’s instructions.
+
+# [Connect a game controller to iPad - Apple Support](https://support.apple.com/guide/ipad/connect-a-game-controller-ipad4c38c119/16.0/ipados/16.0)
+
+> With Buddy Controller, iPad combines two controllers to drive a single player in a game so a friend can help you get to the next level. Buddy Controller is compatible with any game that supports game controllers.
+> 
+> 1.  Connect two compatible game controllers to iPad through Bluetooth or the Lightning or USB-C connector.
+>     
+> 2.  Go to Settings ![](https://help.apple.com/assets/625460FE538BF8375A6A771F/62546100538BF8375A6A7742/en_US/88b2400e45bcf521514b7252cbb2d959.png) > General > Game Controller > Buddy Controller.
+>     
+> 3.  Choose the primary controller, then choose the secondary controller.
+
+# [Things Shortcuts Actions (Draft) - Things Support](https://culturedcode.com/things/support/articles/9619461/#xstjr)
+
+> Results are limited to a maximum of 500 items.
+
+# [The year journalism and capitalism finally divorce » Nieman Journalism Lab](https://www.niemanlab.org/2022/12/the-year-journalism-and-capitalism-finally-divorce/)
+
+> By now, it should be commonsensical that the interests of profit-driven media firms and democratic societies will never fully align.
