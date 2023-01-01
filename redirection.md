@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `12222022-234629`
+Updated `12232022-063434`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -89,6 +89,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
 - [**/dd**](https://davidblue.wtf/dd), Redirects to the WTF documentation page for my Drafts configurables.
 - [**/dddiscourse**](https://davidblue.wtf/dddiscourse), Redirects to the WTF documentation page for my Raw Discourse Thread ⇨ Drafts Siri Shortcut.
+- [**/ddmastobed**](https://davidblue.wtf/ddmastobed), Redirects to the local installation link for my Mastodon Embed Constructor Drafts Autocomplete.
 - [**/detailspro**](https://davidblue.wtf/detailspro), Redirects to my user profile on the DetailsPro shared community library.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to a WTF index for my Distributed iCloud Drive folder.
@@ -193,6 +194,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/rowdyhitler**](https://davidblue.wtf/rowdyhitler), Redirects to the TikTok re-upload of my classic Joke Video, *Flight of The Joke Numbers*.
 - [**/rreading**](https://davidblue.wtf/rreading), Redirects to the invite URL for my Shared Apple Reminders Reading List.
 - [**/rtfarah**](https://davidblue.wtf/rtfarah), Redirects to a WTF index page of all work by Matt Farah for Road & Track.
+- [**/rufus**](https://davidblue.wtf/rufus), Redirects to download the latest version of the Rufus Bootable Utility (portable.)
 - [**/runestonetheme**](https://davidblue.wtf/runestonetheme), Redirects to the WTF documentation page for The Psalms' Runestone Theme.
 - [**/scarysummaries**](https://davidblue.wtf/scarysummaries), Redirects to the WTF documentation page for my Scary Summaries OpenAI Experimentation with the Toolbox Pro Beta.
 - [**/scdl**](https://davidblue.wtf/scdl), Redirects to the WTF documentation page for the Soundcloud Music Downloader (scdl).
@@ -213,7 +215,11 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/socialdrop**](https://davidblue.wtf/socialdrop), Redirects to my Social Directory Raindrop collection.
 - [**/sophiesell**](https://davidblue.wtf/sophiesell), Redirects to my Facebook Marketplace listing for my Microsoft Surface Laptop 2.
 - [**/sourcetool**](https://davidblue.wtf/sourcetool), Redirects to the WTF documentation page the ongoing development of the Batch Source Tool Custom Siri Shortcut.
+- [**/springbepia**](https://davidblue.wtf/springbepia), Redirects to the local installation link for my Bepia Theme for Spring for Twitter.
+- [**/springeternal**](https://davidblue.wtf/springeternal), Redirects to the local installation link for my Windows Eternal Theme for Spring for Twitter.
+- [**/springshaft**](https://davidblue.wtf/springshaft), Redirects to the local installation link for my Mineshaft Gold theme for Spring for Twitter.
 - [**/springtheme**](https://davidblue.wtf/springtheme), Redirects to the WTF documentation page for The Psalms Theme for Spring for Twitter.
+- [**/springthings**](https://davidblue.wtf/springthings), Redirects to the local installation link for my Things 3 Theme for Spring for Twitter.
 - [**/springtweetcapture**](https://davidblue.wtf/springtweetcapture), Redirects to the WTF documentation page for my Spring Tweet Capture Siri Shortcut.
 - [**/springx**](https://davidblue.wtf/springx), Redirects to the WTF documentation page for Spring for Twitter's URL Scheme.
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
