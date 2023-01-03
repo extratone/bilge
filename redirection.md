@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `12232022-063434`
+Updated `01032023-124224`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -82,6 +82,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/church**](https://davidblue.wtf/church), Redirects to the WTF documentation page for my *If you scared, go to church* Apple Music playlist.
 - [**/codenames**](https://davidblue.wtf/codenames), Redirects to the WTF index page of iPhone OS/iOS Development Codenames.
 - [**/columbiamobot**](https://davidblue.wtf/columbiamobot), Redirects to the WTF documentation page for the Columbia MO Telegram Bot.
+- [**/command**](https://davidblue.wtf/command), Redirects to a ... page... in my Notion workspace containing my synced annotation via Command Browser.
 - [**/community**](https://davidblue.wtf/community), Redirects to the WTF documentation page for my Drafts Twitter Community experiment.
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
 - [**/cpsam**](https://davidblue.wtf/cpsam), Redirects to the Apple Maps share link for the Columbia Public Schools main building.
@@ -130,6 +131,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
 - [**/htmlcomment**](https://davidblue.wtf/htmlcomment), Redirects to the WTF Documentation page for my HTML Comment Drafts Action.
 - [**/hypnagogic**](https://davidblue.wtf/hypnagogic), Redirects to the WTF vocabulary page for *hypnagogic*.
+- [**/ifroadmap**](https://davidblue.wtf/ifroadmap), Redirects to the WTF documentation page (and markdown index) for the Infinite Flight API Roadmap.
 - [**/information**](https://davidblue.wtf/information), Redirects to my subscriber friend invite code URL for *The Information*. (30 days free.)
 - [**/instance**](https://davidblue.wtf/instance), Redirects to a pre-filled instances.social search for English-speaking servers with greater than 2000 members that do not allow links to illegal content or pornographic content without proper tagging.
 - [**/ipadpros**](https://davidblue.wtf/ipadpros), Redirects to the WTF index page for Tim Chaten's *iPad Pros* Podcast.
