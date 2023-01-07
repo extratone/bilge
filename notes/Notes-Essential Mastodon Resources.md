@@ -1,5 +1,5 @@
 # Notes-Essential Mastodon Resources
-Updated `12072022-133645`
+Updated `01072023-153015`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/373)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/E8D50F05-FEC0-4B30-8E34-3E9F262E1FD8.md)
@@ -43,6 +43,7 @@ Updated `12072022-133645`
 ### Important Posts
 
 - [Turning up with 1 million people in the tiny, rural village...](https://mastodon.social/@Richard_Littler/109364310000292806)
+- [Eugen Pondering "Quotes"](https://mastodon.social/@Gargron/109623891328707089)
 
 <iframe src="https://vis.social/@Luca/109253908218072543/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
 
@@ -66,6 +67,10 @@ Updated `12072022-133645`
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">while we’re comparing them…<br><br>Twitter for iOS (8.75.1): 128.8 MB<br><br>Mastodon for iOS (Initial release): 38.5 MB<br><br>~30% the size, if I still know how division works. <br><br>Twitter is more than 3 times larger!<br><br>(also note: ALL of the *third-party* Mastodon apps are &lt;40 MB)</p>&mdash; 𝗗 𝗔 𝗩 𝗢 𝗗 (@NeoYokel) <a href="https://twitter.com/NeoYokel/status/1421468316368052232?ref_src=twsrc%5Etfw">July 31, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+- [The gosh darned CovidFollows hashtag](https://infosec.exchange/@cremevax/109649999953716015)
+
+<iframe src="https://infosec.exchange/@cremevax/109649999953716015/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
+
 - [iOS App Footprint Size comparison Tweet](https://twitter.com/NeoYokel/status/1421468316368052232)
 
 - [Jeremy Renner Official](https://twitter.com/bitethehan/status/1590926507777855488)
@@ -87,6 +92,7 @@ Updated `12072022-133645`
 - [Eugen Rochko *Time* Interview](ulysses://x-callback-url/open?id=h4rmKpkeESdAM7Wei7HkAg)
 - [Google News Topic](https://news.google.com/stories/CAAqNggKIjBDQklTSGpvSmMzUnZjbmt0TXpZd1NoRUtEd2lKeV9DSkJoRUF4dWZ5QmJBMXRpZ0FQAQ) - [WTF Shortlink](https://davidblue.wtf/gnmasto) - `https://davidblue.wtf/gnmasto`
 - "[Using Mastodon with Drafts](https://forums.getdrafts.com/t/using-mastodon-with-drafts/13766/1)" - Drafts Forums
+- [MacStories is now on Mastodon](https://www.macstories.net/news/macstories-is-on-mastodon-with-its-own-server/)
 
 ## Reading
 
@@ -95,6 +101,8 @@ Updated `12072022-133645`
 - [Joanna Stern's quick guide](https://tilde.town/~extratone/misc/sternmastodon)
 - *Garbage Day*'s "[A Eulogy for Twitter](https://www.davidblue.bio/2022/11/18/a-eulogy-for.html)"
 - "[Journalists want to re-create Twitter on Mastodon. Mastodon is not into it.](https://www.cjr.org/analysis/journalists-want-to-recreate-twitter-on-mastodon-mastodon-is-not-into-it.php)" - *Columbia Journalism Review* - [Ulysses](ulysses://x-callback-url/open?id=XwN9fuk3vumZ3ayn4Xm5xw)
+- [Tumblr to add support for ActivityPub, the social protocol powering Mastodon and other apps](https://techcrunch.com/2022/11/21/tumblr-to-add-support-for-activitypub-the-social-protocol-powering-mastodon-and-other-apps/)
+- [Mastodon Is Hurtling Toward a Tipping Point](https://www.wired.com/story/mastodon-legal-issues-tipping-point/#intcid=_wired-right-rail_d760d833-d21b-4284-92a1-35e25d10ff30_popular4-1-reranked-by-vidi)
 
 ## Audio
 
