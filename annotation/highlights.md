@@ -2761,3 +2761,11 @@
 # [The year journalism and capitalism finally divorce » Nieman Journalism Lab](https://www.niemanlab.org/2022/12/the-year-journalism-and-capitalism-finally-divorce/)
 
 > By now, it should be commonsensical that the interests of profit-driven media firms and democratic societies will never fully align.
+
+# [Using an old Apple iPad keyboard dock with your iPhone 5 - The Gadgeteer](https://the-gadgeteer.com/2012/10/20/using-an-old-apple-ipad-keyboard-dock-with-your-iphone-5/)
+
+> I’m a dock kind of person.
+
+# [MacStories Weekly: Issue 350](https://club.macstories.net/posts/macstories-weekly-issue-350)
+
+> Timery has adopted Toggl’s new API, which has enabled some great new features. First, the time tracking app for the Toggl time-tracking service now includes three weeks of recent time entries, making it easy to restart previously-used timers. The app’s summary reports allow grouping by projects, tasks, descriptions, tags, and clients. Shortcuts for Mac gets a new Timery action that starts a saved timer from a list of saved timers and includes an optional start time parameter. Timery’s duration interval now includes an option to simplify its format for timers that last less than an hour, and paid Toggl users can set a custom project color and more.
