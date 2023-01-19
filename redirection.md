@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `01032023-124224`
+Updated `01192023-084119`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -138,6 +138,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/ipod**](https://davidblue.wtf/ipod), Redirects to an anecdote about my iPod First Generation.
 - [**/issuedraft**](https://davidblue.wtf/issuedraft), Redirects to the WTF documentation page for my GitHub Issue ⇨ Draft Siri Shortcut.
 - [**/itch**](https://davidblue.wtf/itch), Redirects to the page I have on itch.io for no justifiable reason.
+- [**/ivory**](https://davidblue.wtf/ivory), Redirects to an itty.bitty.site bounceoff that opens a very special Post in Tapbots' upcoming Mastodon client, Ivory.
 - [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
 - [**/jortsnum**](https://davidblue.wtf/jortsnum), Redirects to the shared Numbers spreadsheet containing my ongoing cellular data usage log.
@@ -159,6 +160,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
 - [**/matrix**](https://davidblue.wtf/matrix), Redirects to a matrix.to preview link of my main Matrix profile on matrix.org.
 - [**/mdx**](https://davidblue.wtf/mdx), Redirects to the WTF snippets page of the MDX Specification.
+- [**/mediumapi**](https://davidblue.wtf/mediumapi), Redirects to the WTF documentation page for Medium's API.
 - [**/meme**](https://davidblue.wtf/meme), Redirects to the WTF vocabulary page for *meme*.
 - [**/microblog**](https://davidblue.wtf/microblog), Redirects to the WTF documentation page for my micro.blog trial experiment.
 - [**/microdrop**](https://davidblue.wtf/microdrop), Redirects to my Micro.Blog Raindrop collection.
@@ -232,6 +234,8 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/taiokeys**](https://davidblue.wtf/taiokeys), Redirects to a shared Numbers spreadsheet on iCloud documenting keyboard shortcuts within the iOS/iPadOS/macOS, Markdown-based writing application, Taio.
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/telegraph**](https://davidblue.wtf/telegraph), Redirects to the WTF index page for my posts on Telegra.ph.
+- [**/thingschrome**](https://davidblue.wtf/thingschrome), Redirects to the WTF documentation page for my Things Chrome Theme.
+- [**/thingsnoir**](https://davidblue.wtf/thingsnoir), Redirects to the installation URL for my Things Dark Noir theme.
 - [**/thingsupdate**](https://davidblue.wtf/thingsupdate), Redirects to the WTF documentation page for my Things Update Drafts action.
 - [**/tildedrop**](https://davidblue.wtf/tildedrop), Redirects to my tilde Raindrop collection.
 - [**/timmy**](https://davidblue.wtf/timmy), Redirects to the WTF documentation page for Timmy's Pool Party.
