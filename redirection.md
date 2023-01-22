@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `01192023-084119`
+Updated `01222023-140406`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -92,7 +92,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/dddiscourse**](https://davidblue.wtf/dddiscourse), Redirects to the WTF documentation page for my Raw Discourse Thread ⇨ Drafts Siri Shortcut.
 - [**/ddmastobed**](https://davidblue.wtf/ddmastobed), Redirects to the local installation link for my Mastodon Embed Constructor Drafts Autocomplete.
 - [**/detailspro**](https://davidblue.wtf/detailspro), Redirects to my user profile on the DetailsPro shared community library.
-- [**/discord**](https://davidblue.wtf/discord), Redirects to the Extratone Discord channel.
+- [**/discord**](https://davidblue.wtf/discord), Redirects to my Discord User profile - `David Blue#1917`.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to a WTF index for my Distributed iCloud Drive folder.
 - [**/documentation**](https://davidblue.wtf/documentation), Redirects to my Documentation Raindrop collection.
 - [**/dolt**](https://davidblue.wtf/dolt), Redirects to the WTF vocabulary page for "dolt."
@@ -144,6 +144,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/jortsnum**](https://davidblue.wtf/jortsnum), Redirects to the shared Numbers spreadsheet containing my ongoing cellular data usage log.
 - [**/juke**](https://davidblue.wtf/juke), Redirects to the fifth episode of my old car show, *Honk*, regarding the Nissan Juke NISMO.
 - [**/k2keys**](https://davidblue.wtf/k2keys), Redirects to the WTF documentation page for the Keychron K2's key combinations.
+- [**/kb43**](https://davidblue.wtf/kb43), Redirects to the iCloud Drive share URL to my packaged (Ken Block) KB43 Word Mark.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
 - [**/latte**](https://davidblue.wtf/latte), Redirects to the WTF documentation page for my GitHub Repository Template.
