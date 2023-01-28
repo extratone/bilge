@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `01222023-140406`
+Updated `01282023-030622`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -131,7 +131,9 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
 - [**/htmlcomment**](https://davidblue.wtf/htmlcomment), Redirects to the WTF Documentation page for my HTML Comment Drafts Action.
 - [**/hypnagogic**](https://davidblue.wtf/hypnagogic), Redirects to the WTF vocabulary page for *hypnagogic*.
+- [**/iflauncher**](https://davidblue.wtf/iflauncher), Redirects to the WTF documentation page for my Infinite Launcher Siri Shortcut.
 - [**/ifroadmap**](https://davidblue.wtf/ifroadmap), Redirects to the WTF documentation page (and markdown index) for the Infinite Flight API Roadmap.
+- [**/ifwt23**](https://davidblue.wtf/ifwt23), Redirects to my Craft index for all documentation regarding Infinite Flight World Tour 2023.
 - [**/information**](https://davidblue.wtf/information), Redirects to my subscriber friend invite code URL for *The Information*. (30 days free.)
 - [**/instance**](https://davidblue.wtf/instance), Redirects to a pre-filled instances.social search for English-speaking servers with greater than 2000 members that do not allow links to illegal content or pornographic content without proper tagging.
 - [**/ipadpros**](https://davidblue.wtf/ipadpros), Redirects to the WTF index page for Tim Chaten's *iPad Pros* Podcast.
@@ -187,6 +189,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/prairiehome**](https://davidblue.wtf/prairiehome), Redirects to a Google Photos album filled with a handful of very mediocre photographs I captured at a particularly return-to-origin Nearby Evening I had years ago.
 - [**/preview**](https://davidblue.wtf/preview), Redirects to the WTF documentation page for my primary HTML preview template for Drafts.
 - [**/pro**](https://davidblue.wtf/pro), *Also* redirects to my *iPad Professional* Shared iCloud Photos Album.
+- [**/propagation**](https://davidblue.wtf/propagation), Redirects to the WTF index page for my *propagation* Apple Music Playlist.
 - [**/pungle**](https://davidblue.wtf/pungle), Redirects to the WTF vocabulary page for *pungle*.
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/reading**](https://davidblue.wtf/reading), Redirects to my Reading List Raindrop collection.
