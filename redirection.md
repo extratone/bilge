@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `01282023-030622`
+Updated `01282023-055826`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -17,7 +17,7 @@ Updated `01282023-030622`
 - [Simplenote Publish](http://simp.ly/publish/7G1cRt)
 - [Simplenote Local](simplenote://note/8a3aa299b90242f6984b8e11515fb1e7)
 - [Ulysses](ulysses://x-callback-url/open?id=GLpllyiGdzyanGc5tV1F8g)
-- [Things](things:///show?id=7XT2wYEW2DqerFBER35zvC)
+- [Things]([Things](things:///show?id=4ACkCyj5WAMdCW2RUz5Wm7))
 
 ---
 <script src="https://gist.github.com/extratone/1dcfb669e7f366ea32abcd0468e8c0d5.js"></script>
@@ -236,6 +236,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/swang**](https://davidblue.wtf/swang), Redirects to the WTF vocabulary entry I authored for "swang."
 - [**/tabs**](https://davidblue.wtf/tabs),  Redirects to an invite to join my *Reading* Shared Safari Tab Group.
 - [**/taiokeys**](https://davidblue.wtf/taiokeys), Redirects to a shared Numbers spreadsheet on iCloud documenting keyboard shortcuts within the iOS/iPadOS/macOS, Markdown-based writing application, Taio.
+- [**/teaviation**](https://davidblue.wtf/teaviation), Redirects to the WTF documentation page for my Aviation TextExpander Snippet Group.
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/telegraph**](https://davidblue.wtf/telegraph), Redirects to the WTF index page for my posts on Telegra.ph.
 - [**/thingschrome**](https://davidblue.wtf/thingschrome), Redirects to the WTF documentation page for my Things Chrome Theme.
