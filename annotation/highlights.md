@@ -2769,3 +2769,65 @@
 # [MacStories Weekly: Issue 350](https://club.macstories.net/posts/macstories-weekly-issue-350)
 
 > Timery has adopted Toggl’s new API, which has enabled some great new features. First, the time tracking app for the Toggl time-tracking service now includes three weeks of recent time entries, making it easy to restart previously-used timers. The app’s summary reports allow grouping by projects, tasks, descriptions, tags, and clients. Shortcuts for Mac gets a new Timery action that starts a saved timer from a list of saved timers and includes an optional start time parameter. Timery’s duration interval now includes an option to simplify its format for timers that last less than an hour, and paid Toggl users can set a custom project color and more.
+
+# [Retiring Pinafore | Read the Tea Leaves](https://nolanlawson.com/2023/01/09/retiring-pinafore/)
+
+> Try to beat Pinafore on performance and accessibility! I think that would be a great outcome.
+
+# [Welcome to the Fediverse — "Steve's Place"](https://wf.r8z.us/stwhite/welcome-to-the-fediverse)
+
+> The Fediverse – for folks who don’t already know – is what folks call the constellation of applications that use the ActivityPub protocol. This makes ‘em interoperable in ways the big platforms are not. There are dozens – hundreds – of apps that use the protocol. Personally, I use Pixelfed (think instagram), Mastodon & Pleroma (think twitter-ish), and WriteFreely ( a blogging platform – this one, in fact). What that means is that you can follow _all of those activities_ – photos on Pixelfed, posts on Mastodon and Pleroma, and blog posts on writefreely – all from your e.g. Mastodon account.
+
+# [Discovering Ken Block's real legacy – DirtFish](https://dirtfish.com/rally/ara/discovering-ken-blocks-real-legacy/)
+
+> “Try to inspire people, don’t take life too seriously, lead a fun life. And don’t be an asshole.”
+
+# [Back to the future: how Mastodon is restoring the lost art of online conversation | John Naughton | The Guardian](https://www.theguardian.com/commentisfree/2023/jan/21/back-to-the-future-how-mastodon-is-restoring-the-lost-art-of-online-conversation)
+
+> Mastodon seems to be more about conversation rather than shouting
+
+# [Web Archive Inspector - Apps - George Garside](https://georgegarside.com/apps/web-archive-inspector/)
+
+> The only way to **run JavaScript offline from a web archive**.
+
+# [Hexbear](https://www.hexbear.net/)
+
+> Hexbear is a leftist social platform centered around community building through discussion, shitposting memes, and sharing content.
+
+# [Creating diagrams - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/creating-diagrams)
+
+> Diagram rendering is available in GitHub Issues, GitHub Discussions, pull requests, wikis, and Markdown files.
+
+# [Ivory for Mastodon Review: Tapbots Reborn - MacStories](https://www.macstories.net/reviews/ivory-for-mastodon-review-tapbots-reborn/)
+
+> even though Mastodon [has been around for a few years](https://time.com/6229230/mastodon-eugen-rochko-interview/), many of us (myself included) are only realizing now that we should have paid attention to this kind of technology years ago.
+
+# [Aggressive Accessibility – Ultranormal](https://lawver.net/2023/01/aggressive-accessibility/)
+
+> *   Offering to help when you see an opportunity to offer it.
+> *   Looking for opportunities to provide help, even if it’s outside your normal duties.
+> *   Making things better because they need to be made better.
+> *   Volunteering for special projects.
+> *   Showing up places you think you might be useful.
+
+# [Things Shortcuts Actions - Things Support](https://culturedcode.com/things/support/articles/9596775/#delete)
+
+> You will receive a warning each time this action attempts to delete more than 99 items at once. This warning can be turned off in Things’ Settings.
+
+# [Mastodon: A New Hope for Social Networking - TidBITS](https://tidbits.com/2023/01/27/mastodon-a-new-hope-for-social-networking/)
+
+> As a Mastodon user, your perception is that everything is unified. Admins and protocols manage the ugly business of ensuring communications move seamlessly across federated instances.
+
+# [Last week in the fediverse, ep 3: 🍎 — The Fediverse Report](https://fediversereport.com/last-week-in-the-fediverse-ep-3)
+
+> Mammoth, an open source app by [a new startup](https://write.as/mammoth/launching-our-server-and-growing-the-mammoth-team), that comes with it’s own instance [moth.social](https://moth.social/) launched in beta.
+
+# [The Practicality of Art in Software - MacStories](https://www.macstories.net/stories/the-practicality-of-art-in-software/)
+
+> an iPad, at least for people like me, isn’t supposed to be a companion to work that happens somewhere else. It is **the work**.
+
+> What’s worse? Being begrudgingly productive or happily inefficient?
+
+# [Last Week in the Fediverse, ep 4: ⚡ — The Fediverse Report](https://fediversereport.com/last-week-in-the-fediverse-ep-4)
+
+> This DDoS attack brings this discussion to the foreground again, and illustrates a practical drawback of centralization: it creates vulnerability.
