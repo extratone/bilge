@@ -14,11 +14,11 @@ I signed up for [**mastodon.social**](http://mastodon.social) in the February of
 - [**Mastodon.Technology**](http://mastodon.technology/@DavidBlue)
 - [**FOSStodon**](https://fosstodon.org/@DavidBlue)
 - [**Toot.Cafe**](http://toot.cafe/@DavidBlue)
-- [**Radical.Town**](http://radical.town/@DavidBlue) — perhaps the loudest-looking property in the Fediverse.
-- [**Experience Shift**](https://expshift.com/@b), from our friends.
+- ~~[**Radical.Town**](http://radical.town/@DavidBlue) — perhaps the loudest-looking property in the Fediverse.~~
+- ~~[**Experience Shift**](https://expshift.com/@b), from our friends.~~
 - [**LinuxRocks.Online**](https://linuxrocks.online/@blue)
 - [**Mastodon Racing**](https://mastd.racing/@blue)
-- [**Tilde Pleroma**](https://pleroma.tilde.zone/b)
+- ~~[**Tilde Pleroma**](https://pleroma.tilde.zone/b)~~
 - [**Tilde Mastodon**](https://tilde.zone/@b)
 
 ## PixelFed

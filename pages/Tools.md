@@ -1,16 +1,27 @@
 # Tools - The Psalms
-Updated `11172022-235132`
+Updated `11252022-172353`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/375)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/66C1E86E-4688-4EFA-84CA-8F2742145AE3.md)
 - [Drafts](drafts://open?uuid=66C1E86E-4688-4EFA-84CA-8F2742145AE3)
 - [bilge Repo](working-copy://open?repo=bilge)
 - [WTF](https://davidblue.wtf/drafts/66C1E86E-4688-4EFA-84CA-8F2742145AE3.html)
+- [**Taio**](taio://editor?action=open&path=%2Fbilge%2Fpages%2FTools.md&location=2)
 - [Things](things:///show?id=2upWkG3qBDC28avz2r9LsF)
 
 ---
 
-## RoutineHub
+# Tools
+
+![Tools Header](https://i.snap.as/vasoQflk.png)
+
+If you hadn't noticed, *The Psalms* has shifted quite significantly [of late](https://bilge.world/2021) in focus. Nearly all of my recent posts in [the software category](https://bilge.world/tag:software) have been guides/showoff posts regarding some iOS/iPadOS configurables. I have spent a *lot* of time trying to externally aggregate these and many more at various other web destinations, like my Raindrop collections
+
+### [Define: `configurables`](https://davidblue.wtf/drafts/68195526-3BF9-409F-87EA-EE4AB0507201.html)
+
+## Siri Shortcuts
+
+### RoutineHub
 
 - [@blue's RoutineHub Shortcuts (Library)](https://routinehub.co/shortcut/10984)
 - [Accessibility Defaults (All Off)](https://routinehub.co/shortcut/11130)
