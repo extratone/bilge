@@ -157,3 +157,29 @@
 </div>
 
 _Created using Dino Bansigan's [**Write.as Archive Page Generator**](https://apps.dinobansigan.com/WriteAsArchivePageGenerator). Thanks, Dino! :)_
+
+## Data
+
+Depending on your interest/experience, *The Psalms* is available in a whole bunch of formats.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Appreciate the kind words — thanks!</p>&mdash; John Gruber (@gruber) <a href="https://twitter.com/gruber/status/1388328996513804292?ref\_src=twsrc%5Etfw">May 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+### Markdown
+
+Perhaps the single most important discovery of my writing life, Markdown is a method of marking up HTML style within human-readable plain text. Because my CMS is Markdown-native to the core, any specific content URL (like [this page](https://bilge.world/archive.md), for example) can be appended with either `.md` or `.json` to see its source.
+
+### eBook
+
+Thanks to [Write.as' brilliant eBook generation feature](https://discuss.write.as/t/ebook-add-on/1271), you can tell this (and any) Write.as blog to generate a `.epub`-formatted archive of its live contents by appending `.epub` to the end of its url [*like this*](https://bilge.world/.epub).
+
+I turned this process into [a Siri Shortcut](https://routinehub.co/shortcut/14273) (mostly for the novelty) if you've got an iOS/iPadOS/macOS-running device.
+
+### API
+
+I'm proud to say that [Write.as' API](https://developers.write.as/docs/api) was the target of my very first Big Boy API call, not so long ago. If you're new to the concept and curious, try running the command below in just about any command line:
+
+`curl -v -X GET https://write.as/api/collections/bilge/posts`
+
+...or you could just view [the response from my last time around](https://davidblue.wtf/data/bilge.json).
+
+https://gist.github.com/extratone/3811b19465a80da6e60fd1563ed2e3e8
