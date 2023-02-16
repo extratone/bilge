@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `01282023-055826`
+Updated `02152023-204401`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -168,6 +168,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/microblog**](https://davidblue.wtf/microblog), Redirects to the WTF documentation page for my micro.blog trial experiment.
 - [**/microdrop**](https://davidblue.wtf/microdrop), Redirects to my Micro.Blog Raindrop collection.
 - [**/middlenames**](https://davidblue.wtf/middlenames), Redirects to the WTF aggregation/documentation page for my ancient Middle Name Candidates list.
+- [**/moment**](https://davidblue.wtf/moment), David Blue.
 - [**/musicapps**](https://davidblue.wtf/musicapps), Redirects to "iPhone and Music - For Artists, Curators, and Enthusiasts" on *The Psalms*.
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
 - [**/neeva**](https://davidblue.wtf/neeva), Redirects to the public URL for my *Reading* Neeva Space.
@@ -236,6 +237,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/swang**](https://davidblue.wtf/swang), Redirects to the WTF vocabulary entry I authored for "swang."
 - [**/tabs**](https://davidblue.wtf/tabs),  Redirects to an invite to join my *Reading* Shared Safari Tab Group.
 - [**/taiokeys**](https://davidblue.wtf/taiokeys), Redirects to a shared Numbers spreadsheet on iCloud documenting keyboard shortcuts within the iOS/iPadOS/macOS, Markdown-based writing application, Taio.
+- [**/targetffmpeg**](https://davidblue.wtf/targetffmpeg), Redirects to the WTF documentation page for my Resize Video to Target Size Shortcut.
 - [**/teaviation**](https://davidblue.wtf/teaviation), Redirects to the WTF documentation page for my Aviation TextExpander Snippet Group.
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/telegraph**](https://davidblue.wtf/telegraph), Redirects to the WTF index page for my posts on Telegra.ph.
