@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `02152023-204401`
+Updated `02202023-062039`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -111,6 +111,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/escort**](https://davidblue.wtf/escort), Redirects to Pro-Choice Missouri's Clinic Escort signup form.
 - [**/extratext**](https://davidblue.wtf/extratext), Redirects to the WTF documentation page for my Extratext TextExpander Snippet Group.
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
+- [**/fdxlog**](https://davidblue.wtf/fdxlog), Redirects to the Craft Publish page of my Flight Log for FedEx Virtual.
 - [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
 - [**/following**](https://davidblue.wtf/following), Redirects to the WTF documentation page for my followed Mastodon accounts index.
@@ -232,6 +233,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/springtweetcapture**](https://davidblue.wtf/springtweetcapture), Redirects to the WTF documentation page for my Spring Tweet Capture Siri Shortcut.
 - [**/springx**](https://davidblue.wtf/springx), Redirects to the WTF documentation page for Spring for Twitter's URL Scheme.
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
+- [**/sswiki**](https://davidblue.wtf/sswiki), Redirects to an index of my writing on Social Web Software and Services in *The Psalms* GitHub Wiki.
 - [**/stern**](https://davidblue.wtf/stern), Redirects to *The Wall Street Journal*'s author page for Joanna Stern, Senior Personal Technology Columnist.
 - [**/stripe**](https://davidblue.wtf/stripe), Redirects to a Stripe pay link to tip me directly.
 - [**/swang**](https://davidblue.wtf/swang), Redirects to the WTF vocabulary entry I authored for "swang."
