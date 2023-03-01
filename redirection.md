@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `02202023-062039`
+Updated `03012023-161327`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -91,6 +91,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/dd**](https://davidblue.wtf/dd), Redirects to the WTF documentation page for my Drafts configurables.
 - [**/dddiscourse**](https://davidblue.wtf/dddiscourse), Redirects to the WTF documentation page for my Raw Discourse Thread ⇨ Drafts Siri Shortcut.
 - [**/ddmastobed**](https://davidblue.wtf/ddmastobed), Redirects to the local installation link for my Mastodon Embed Constructor Drafts Autocomplete.
+- [**/ddmastopost**](https://davidblue.wtf/ddmastopost), Redirects to the WTF documentation page for my Selection to Mastodon Drafts Action.
 - [**/detailspro**](https://davidblue.wtf/detailspro), Redirects to my user profile on the DetailsPro shared community library.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to my Discord User profile - `David Blue#1917`.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to a WTF index for my Distributed iCloud Drive folder.
