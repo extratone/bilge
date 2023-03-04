@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `03012023-161327`
+Updated `03012023-174627`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -47,6 +47,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 ---
 
 - [**/~**](https://davidblue.wtf/~), Redirects to the plain HTML version of my Tilde.Town directory.
+- [**/~radio**](https://davidblue.wtf/~radio), Redirects to an ITTY URI redirect that opens Tilde Radio's stream in VLC, locally.
 - [**/affect-effect**](https://davidblue.wtf/affect-effect), Redirects to a capture/republished page of "'Affect' vs. 'Effect'" from *Merriam-Webster*.
 - [**/amandabat**](https://davidblue.wtf/amandabat), Redirects to the WTF documentation page for my efforts to log my iPad Pro's battery consumption.
 - [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my *iPad Professional* Shared iCloud Photos Album.
@@ -116,6 +117,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
 - [**/following**](https://davidblue.wtf/following), Redirects to the WTF documentation page for my followed Mastodon accounts index.
+- [**/freeform**](https://davidblue.wtf/freeform), Redirects to a public invitation link to my single test Freeform document.
 - [**/furryblimp**](https://davidblue.wtf/furryblimp), Redirects to the WTF documentation page for the *He Makes Witch House in His Furry Blimp* *Drycast* Excerpt.
 - [**/gallery**](https://davidblue.wtf/gallery), Redirects to the public page of my *Distributed* Shared iCloud Photos Album.
 - [**/gerogerigegege**](https://davidblue.wtf/gerogerigegege), Redirects to my main music Raindrop collection.
