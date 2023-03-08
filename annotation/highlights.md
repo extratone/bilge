@@ -2831,3 +2831,89 @@
 # [Last Week in the Fediverse, ep 4: ⚡ — The Fediverse Report](https://fediversereport.com/last-week-in-the-fediverse-ep-4)
 
 > This DDoS attack brings this discussion to the foreground again, and illustrates a practical drawback of centralization: it creates vulnerability.
+
+# [Adderall shortage: Other ADHD drugs affected. When will it end?](https://www.nbcnews.com/health/health-news/adderall-shortage-adhd-drugs-affected-will-end-rcna66766)
+
+> Adderall prescriptions for adults rose 15.1% during 2020
+
+# [Posting to your profile - Mastodon documentation](https://docs.joinmastodon.org/user/posting/#attachments)
+
+> **Videos** (MP4, M4V, MOV, WebM) **up to 40MB**. Video will be transcoded to H.264 MP4 with a maximum bitrate of 1300kbps and framerate of 60fps.
+
+# [iOS and iPadOS 16.4 Betas Are Out with New Emoji, Loads of Safari Updates, Apple Podcasts Enhancements, Shortcuts Actions, and More - MacStories](https://www.macstories.net/news/ios-and-ipados-16-4-betas-are-out-with-new-emoji-loads-of-safari-updates-apple-podcasts-enhancements-shortcuts-actions-and-more/)
+
+> *   Anyone with a paid developer account can now install the betas without first installing a developer profile on their iPhone or iPad.
+
+# [Mark Denton - FlightCast](https://flightcast.audio/your-hosts/mark-denton/)
+
+> Mark Denton (aka Skyhawk Heavy) is the Infinite Flight Pilot Community Manager, as well as a real world pilot. He grew up around aviation with his father flying on C-130’s in the US Coast Guard. He currently lives in Mobile, AL. Whether he’s flying in a 172, driving IFATC controllers crazy with his tight Spitfire patterns, or just plane spotting, he has an undying love and passion for aviation and of course for his son, Wake Turbulence.
+
+# [Jefferson City Memorial Airport](https://www.jeffersoncitymo.gov/government/airport.php)
+
+> In 1947-48 the Jefferson City Memorial Airport was built on 238 acres of farmland located in the Missouri River bottoms directly across from the State Capitol Building.  The original construction consisted of one paved runway that was 2,500 feet long, and two grass strips, each of which were also 2,500 feet long.  Improvements were made to the runways in 1956, 1963, 1972, and 1985, resulting in the configuration that we have today.  Currently, the main runway (12-30) is 6,000 feet long by 100 feet wide with a concrete surface.  It is equipped with high-intensity runway lighting and several instrument approach procedures.  The crosswind runway (9-27) is 3,400 feet long by 75 feet wide.  It has a concrete surface and medium-intensity runway lighting.  Both runways have parallel taxiways.  Additional facilities include the Airport Terminal Building, which was constructed in 1966, and the Air Traffic Control Tower which was commissioned in 1973.  Air traffic control services are available from 6:00 a.m. to 9:30 p.m., daily.  Control Tower staffing is provided by Midwest Air Traffic Services, Inc., through a contract with the FAA.  Radar approach control services are provided 24-hours per day by Mizzu Approach, which is located in Springfield, Missouri.
+
+> Available Services: Aviation Fuel (Jet-A and 100LL), Line Service and Aircraft Parking, Hangars, Flight Training, Aircraft Rental, Maintenance, Parts, and Avionics.
+
+# [New Jefferson City airport manager turns interest in aviation into career](https://www.newstribune.com/news/2020/nov/08/New-Jefferson-City-airport-manager-turns-interest-/)
+
+> In spring 2019, a year before Bowers came on, the airport was hit by flooding that damaged buildings and runway lighting, culminating in the demolition of the airport terminal, which is currently being rebuilt.
+
+# [The Public and Broadcasting | Federal Communications Commission](https://www.fcc.gov/media/radio/public-and-broadcasting#Subliminal)
+
+> ****Subliminal Programming.****  The Commission sometimes receives complaints regarding the alleged use of subliminal perception techniques in broadcast programming.  Subliminal programming is designed to be perceived on a subconscious level only.  Regardless of whether it is effective, the broadcast of subliminal material is inconsistent with a station's obligation to serve the public interest because it is designed to be deceptive.
+
+# [Wind chill is a terrible, misleading metric. So why do we still use it? - Vox](https://www.vox.com/2016/1/19/10788306/wind-chill-meaning)
+
+> Siple and Passel expressed it in units of kilocalories per hour per square meter
+
+# [Apple Frames 3.1: Extending Screenshot Automation with the New Apple Frames API - MacStories](https://www.macstories.net/stories/apple-frames-3-1-extending-screenshot-automation-with-the-new-apple-frames-api/)
+
+> you can create an Apple Frames automation to get the most recent screenshot, frame it, and save it to the Photos app with no manual interactions; or you can automate Apple Frames to get the 10 most recent screenshots from your library, frame them individually without merging them, and save the results in a folder of the Files app.
+
+# [google translate - iOS translation apps url schemes - Stack Overflow](https://stackoverflow.com/questions/34310509/ios-translation-apps-url-schemes#comment129764815_72179087)
+
+> googletranslate://?sl=en&tl=tr&text=hello%20world
+>     
+> 
+> You can change the parameters
+> 
+> *   sl = source language
+> *   tl = translation language
+> *   text = the thing you want to translate
+
+> Update: I found that setting `sl=auto` sets the source language to "Detect Language", and that the language values are [ISO 639 codes](https://github.com/haliaeetus/iso-639/tree/750b7e72d245964ebc9a272137d68d8572e81e02/data). [This discussion](https://github.com/ssut/py-googletrans/issues/268#issuecomment-767490197) has some other potentially useful parameters.
+
+# [MacStories Weekly: Issue 358](https://club.macstories.net/posts/macstories-weekly-issue-358)
+
+> [Tusker](https://apps.apple.com/us/app/tusker/id1498334597?uo=4)
+> ----------------------------------------------------------------
+> 
+> The versatile Mastodon client Tusker, which we covered [a few weeks ago on AppStories](https://appstories.net/episodes/314), was updated this week with a lot of enhancements and nice quality-of-life improvements. Some of the highlights include: you can now pin specific public timelines to the Home tab of the app; you can choose to hide rich link preview cards; the Bookmarks screen now supports infinite scrolling to load large sets of bookmarked posts; there is proper state restoration for more screens in the app; and, my favorite, you can now choose to sync your timeline position using the Mastodon API rather than iCloud. In my early tests, I haven’t been able to sync my Home timeline with the Home tab in the Mastodon web interface, but the Tusker developers mention in the app’s settings that it’s a known limitation. The Mastodon sync API seems to be a relatively new and barebones option that’s not widely supported yet, so I hope to see more work from the Mastodon team put into this feature soon. Eventually, I’d love to seamlessly switch between iOS and web clients for Mastodon and always keep my timeline position.
+
+# [Medium's quality standards: how we review stories for distribution – Medium Help Center](https://help.medium.com/hc/en-us/articles/360006362473-Medium-s-Distribution-Standards-What-Writers-and-Publications-Need-to-Know)
+
+> *   AI-generated content without a disclosure — We welcome the responsible use of AI-assistive technology on Medium. To promote transparency, and help set reader expectations, we require that any story created with AI assistance be clearly labeled as such.
+
+# [Bruno Philipe | Noto](https://bruno.ph/project/1/)
+
+> A plain-text editor for macOS with a focus on a minimalistic user interface, pretty and customizable themes, and useful features.
+> 
+> I enjoy having a small text editor for plain text files. Many editor apps try to do too much, or try to be portable and then sacrifice functionality instead. I decided I wanted to build something simple and targeted to macOS only so that I could use all of the cool features of macOS.
+> 
+> This project was inspired by a previous project of mine, [TipTyper](/software/tiptyper), which was also a plain-text editor, but written in Objective-C. That was _the_ project that taught me Cocoa programming. Now that I feel I have an improved level of knowledge of Cocoa, I felt it would be appropriate to re-do that project, but now using the fantastic Swift programming language.
+> 
+> And because some people prefer light text on dark background, others dark text on white backgrounds, some others enjoy sepia tones, and others something completely different, I felt it was important to have a capable theme engine to allow the user to pick whichever colors they want for the entire document interface.
+> 
+> Work in this project is still ongoing, albeit a bit slow.
+
+# [Bruno Philipe | Mastonaut](https://bruno.ph/project/3/)
+
+> astonaut is a client for Mastodon, the distributed social network with over 2 million users worldwide.
+> 
+> I enjoyed using Mastodon a lot in the past already, but I felt that the experience could be better if I were using it from a desktop app instead of a web browser.
+> 
+> So I started this project back in December 2018, and six months later it made its way to the Mac App Store. Mastonaut has already gathered a significant user base, and I've since updated the app several times to add more features. It is an ongoing project that I work on during my spare time.
+> 
+> It is a Cocoa app written mostly in Swift, with some logic that's bound to strings and attributed strings processing in Objective-C for performance. No third party libraries are used, with the exception of MastodonKit (a library for the Mastodon API) and SVGKit, to render SVGs on the fly.
+> 
+> A lot of technical effort was placed on making Mastodon's custom animated emoji look good in the app, since most other clients (including for iOS) simply display their static versions. This is a whimsical feature that is technically difficult to implement well in Cocoa/AppKit, but I deemed it a worthwhile one, and in the end it looks great.
