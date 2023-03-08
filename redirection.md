@@ -93,6 +93,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/dddiscourse**](https://davidblue.wtf/dddiscourse), Redirects to the WTF documentation page for my Raw Discourse Thread ⇨ Drafts Siri Shortcut.
 - [**/ddmastobed**](https://davidblue.wtf/ddmastobed), Redirects to the local installation link for my Mastodon Embed Constructor Drafts Autocomplete.
 - [**/ddmastopost**](https://davidblue.wtf/ddmastopost), Redirects to the WTF documentation page for my Selection to Mastodon Drafts Action.
+- [**/ddtranslate**](https://davidblue.wtf/ddtranslate), Redirects to the WTF documentation page for my Google Translate Drafts Action.
 - [**/detailspro**](https://davidblue.wtf/detailspro), Redirects to my user profile on the DetailsPro shared community library.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to my Discord User profile - `David Blue#1917`.
 - [**/distributed**](https://davidblue.wtf/distributed), Redirects to a WTF index for my Distributed iCloud Drive folder.
