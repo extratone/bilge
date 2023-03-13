@@ -1,5 +1,5 @@
 # Tools - The Psalms
-Updated `11252022-172353`
+Updated `03132023-093032`
 
 - [**GitHub Issue**](https://github.com/extratone/bilge/issues/375)
 - [Local](shareddocuments:///private/var/mobile/Library/Mobile%20Documents/com~apple~CloudDocs/Written/66C1E86E-4688-4EFA-84CA-8F2742145AE3.md)
@@ -7,169 +7,77 @@ Updated `11252022-172353`
 - [bilge Repo](working-copy://open?repo=bilge)
 - [WTF](https://davidblue.wtf/drafts/66C1E86E-4688-4EFA-84CA-8F2742145AE3.html)
 - [**Taio**](taio://editor?action=open&path=%2Fbilge%2Fpages%2FTools.md&location=2)
+- [MicroBlog](https://www.davidblue.bio/tools/)
 - [Things](things:///show?id=2upWkG3qBDC28avz2r9LsF)
 
 ---
 
+## Social
+
+<iframe src="https://mastodon.social/@DavidBlue/110016457587495873/embed" class="mastodon-embed" style="max-width: 100%; border: 0" width="400" allowfullscreen="allowfullscreen"></iframe><script src="https://static-cdn.mastodon.social/embed.js" async="async"></script>
+
+working on a Whole New Page as a more appropriate replacement for the Podcast page on my blog.
+
+trying to collect the most useful tools I've created for other users in a single Markdown document. any suggestions?? :) https://davidblue.wtf/drafts/66C1E86E-4688-4EFA-84CA-8F2742145AE3.html
+- [Mastodon](https://mastodon.social/@DavidBlue/110016457587495873)
+
+--- 
+
 # Tools
 
-![Tools Header](https://i.snap.as/vasoQflk.png)
+![Tools Banner](https://i.snap.as/JHT2AkR1.png)
 
-If you hadn't noticed, *The Psalms* has shifted quite significantly [of late](https://bilge.world/2021) in focus. Nearly all of my recent posts in [the software category](https://bilge.world/tag:software) have been guides/showoff posts regarding some iOS/iPadOS configurables. I have spent a *lot* of time trying to externally aggregate these and many more at various other web destinations, like my Raindrop collections
+If you hadn't noticed, *The Psalms* has shifted quite significantly [of late](https://bilge.world/2021) in focus. Nearly all of my recent posts in [the software category](https://bilge.world/tag:software) have been guides/showoff posts regarding some iOS/iPadOS configurables. I have spent a *lot* of time trying to externally aggregate and present these and many more within various other mediums, like my [Raindrop collections](https://raindrop.io/davidblue).
+
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/embed/me/no-header=true"></iframe>
 
 ### [Define: `configurables`](https://davidblue.wtf/drafts/68195526-3BF9-409F-87EA-EE4AB0507201.html)
 
-## Siri Shortcuts
+## Automation on Apple Platfoms
+
+- [**My RoutineHub Profile**](https://routinehub.co/user/blue) 
+- [Siri Shortcuts for Scrubs](https://davidblue.wtf/scrubs) (A very haphazard library)
+- [The Shortcuts folder in my primary iOS/iPadOS GitHub Repository](https://github.com/extratone/i/tree/main/shortcuts)
+- [A YouTube Playlist collecting my videos demonstrating Siri Shortcuts](https://youtube.com/playlist?list=PLC1ONWRxWOksbvaCjXnm-SbFd2wLG3612)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?controls=0&amp;list=PLC1ONWRxWOksbvaCjXnm-SbFd2wLG3612" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Writing on iOS/iPadOS Automation
+
+- [Automating Write.as Posts on macOS](https://bilge.world/automating-writeas-posts)
+- [How I Maintain a Vocabulary List in Drafts with Terminology](https://bilge.world/drafts-terminology-vocabulary)
+- [Quick Key Command Formatting with ksc and Siri Shortcuts](https://bilge.world/ksc-shortcut)
+- [Retrieve Live NPR Program Information with Siri Shortcuts](https://bilge.world/npr-siri-shortcuts)
+- [Run Siri Shortcuts with Hyperlinks](https://bilge.world/run-siri-shortcuts-with-hyperlinks)
+- [Siri Shortcuts and the DJ Screw Discography](https://bilge.world/dj-screw-shortcuts)
+- [Siri Speech Synthesis in iOS 15](https://bilge.world/siri-tts)
+- [Speedy Frames](https://bilge.world/speedy-frames)
+- [Text Replacement](https://bilge.world/text-replacement)
+- [The Fastest Route to Twitter Jail](https://bilge.world/twitter-jail)
+- [Zalgo Text in a Keyboard Shortcut](https://bilge.world/drafts-zalgo-action)
 
 ### RoutineHub
 
-- [@blue's RoutineHub Shortcuts (Library)](https://routinehub.co/shortcut/10984)
-- [Accessibility Defaults (All Off)](https://routinehub.co/shortcut/11130)
-- [Action Directory](https://routinehub.co/shortcut/10921)
-- [AMEN](https://routinehub.co/shortcut/11097)
-- [App Store ⇨ Market Tools](https://routinehub.co/shortcut/12346)
-- [App Store Marketing Tools](https://routinehub.co/shortcut/9821)
-- [App Store Reviews](https://routinehub.co/shortcut/12644)
-- [Apple Design Resources](https://routinehub.co/shortcut/12779)
-- [Apple News ⇨ Safari](https://routinehub.co/shortcut/8690)
-- [audio Element Embed](https://routinehub.co/shortcut/9948)
-- [Audio file ⇨ Base64 Text](https://routinehub.co/shortcut/8914)
-- [Authenticate with Write.as API](https://routinehub.co/shortcut/11589)
-- [Batch Shortcuts Signer (iOS)](https://routinehub.co/shortcut/11467)
-- [Batch Shortcuts Signer (macOS)](https://routinehub.co/shortcut/11401)
-- [Bible API](https://routinehub.co/shortcut/12335)
-- [BIG WORDLE 𝘗𝘙𝘖](https://routinehub.co/shortcut/10918)
-- [BIG WORDLE](https://routinehub.co/shortcut/10871)
-- [Bookmarked Folder Index](https://routinehub.co/shortcut/12853)
-- [Bulk Background Removal](https://routinehub.co/shortcut/12553)
-- [Capture Web Page in Markdown](https://routinehub.co/shortcut/9549)
-- [Capture Web Page to Drafts](https://routinehub.co/shortcut/8994)
-- [Capture Webpage to Drafts (macOS)](https://routinehub.co/shortcut/11078)
-- [Clean URLs](https://routinehub.co/shortcut/11081)
-- [Clear Dot](https://routinehub.co/shortcut/11540)
-- [Clipboard ⇨ Mastodon](https://routinehub.co/shortcut/10980)
-- [Clipboard ⇨ Telegram Message](https://routinehub.co/shortcut/10929)
-- [Collect References](https://routinehub.co/shortcut/8913)
-- [Contacts Photo Grid](https://routinehub.co/shortcut/12621)
-- [cowsay](https://routinehub.co/shortcut/11087)
-- [Current Song ⇨ Song.Link ⇨ Clipboard ⇨ Safari](https://routinehub.co/shortcut/8940)
-- [Custom Text Image](https://routinehub.co/shortcut/9284)
-- [Data Jar List](https://routinehub.co/shortcut/10730)
-- [David Blue](https://routinehub.co/shortcut/9282)
-- [DavodTime Conversion](https://routinehub.co/shortcut/12603)
-- [DavodTime](https://routinehub.co/shortcut/10872)
-- [Dev Community Article ⇨ Drafts](https://routinehub.co/shortcut/13238)
-- [Disable All Alarms](https://routinehub.co/shortcut/12902)
-- [DJ Screw Discography](https://routinehub.co/shortcut/12618)
-- [Dot ⇨ New Draft](https://routinehub.co/shortcut/11541)
-- [Dot Info](https://routinehub.co/shortcut/11459)
-- [Dots Summary](https://routinehub.co/shortcut/11542)
-- [Download Random Screw Tape](https://routinehub.co/shortcut/12610)
-- [Drafts Workspace ⇨ Apple Notes](https://routinehub.co/shortcut/11622)
-- [Drafts Workspace ⇨ Gists](https://routinehub.co/shortcut/12921)
-- [Extratone Ebook](https://routinehub.co/shortcut/11146)
-- [File/App Icon Extractor (macOS)](https://routinehub.co/shortcut/10982)
-- [Flagged Drafts ⇨ Tot Dot](https://routinehub.co/shortcut/12938)
-- [Generate Shortcuts Run Links List](https://routinehub.co/shortcut/11143)
-- [Get Write.as Post Text](https://routinehub.co/shortcut/12340)
-- [GitHub Issue ⇨ Draft](https://routinehub.co/shortcut/13090)
-- [Hex Extractor](https://routinehub.co/shortcut/13017/)
-- [Holy Bible Spam (macOS)](https://routinehub.co/shortcut/10924)
-- [Holy Bible Spam](https://routinehub.co/shortcut/10925)
-- [Hot Tot Dot Swap](https://routinehub.co/shortcut/11457)
-- [Hypothes.is Markdown](https://routinehub.co/shortcut/13074)
-- [Index Drafts Workspace](https://routinehub.co/shortcut/11397)
-- [Instant Alpha Selfie](https://routinehub.co/shortcut/12554)
-- [JavaScript Helper (Toolbox Pro Beta)](https://routinehub.co/shortcut/12761)
-- [JSON Speedtest](https://routinehub.co/shortcut/12901)
-- [JSONize Image Colors](https://routinehub.co/shortcut/11132)
-- [Key Command Formatting (ksc)](https://routinehub.co/shortcut/12442)
-- [Last Trip Average Speed (mph)](https://routinehub.co/shortcut/10953)
-- [LinkGopher (macOS)](https://routinehub.co/shortcut/11852)
-- [Links List to Bear Notes](https://routinehub.co/shortcut/11091)
-- [List .md Drafts Open Links by Tag](https://routinehub.co/shortcut/11085)
-- [Logger Local Purge](https://routinehub.co/shortcut/12856)
-- [LookUp Collection ⇨ Clipboard](https://routinehub.co/shortcut/11076)
-- [LookUp Liked Words ⇨ Drafts](https://routinehub.co/shortcut/12336)
-- [LookUp URL](https://routinehub.co/shortcut/13065)
-- [Make Audio from Article Body (Siri Speech Synthesis)](https://routinehub.co/shortcut/9953)
-- [Make Audio from Document Text](https://routinehub.co/shortcut/10028)
-- [Make Bear Notes from RSS Feed](https://routinehub.co/shortcut/11089)
-- [Make Spoken Audio of Selected Text](https://routinehub.co/shortcut/12439)
-- [Marco!](https://routinehub.co/shortcut/8987)
-- [Markdown Capture ⇨Day One](https://routinehub.co/shortcut/11904)
-- [Markdown Link ⇨ Tot Dot](https://routinehub.co/shortcut/11504)
-- [Mastgur](https://routinehub.co/shortcut/9781)
-- [Mastodon Bookmark](https://routinehub.co/shortcut/11967)
-- [Mastodon Bookmarks Index](https://routinehub.co/shortcut/13218)
-- [Mastodon Post (API)](https://routinehub.co/shortcut/11865)
-- [Mastodon Post Embed](https://routinehub.co/shortcut/12647)
-- [Mastodon Share](https://routinehub.co/shortcut/9776)
-- [MusicHarbor Artist List](https://routinehub.co/shortcut/8935)
-- [Noir Configuration Utility](https://routinehub.co/shortcut/10917)
-- [Original Wikimedia Commons File](https://routinehub.co/shortcut/12436)
-- [Overcast Show Notes ⇨ Bear](https://routinehub.co/shortcut/8942)
-- [Overcast Show Notes ⇨ Drafts](https://routinehub.co/shortcut/8944)
-- [Overcast Show Notes ⇨ Markdown](https://routinehub.co/shortcut/8943)
-- [Paste to Apple Note](https://routinehub.co/shortcut/11079)
-- [Paste to Clipboard](https://routinehub.co/shortcut/11077)
-- [Paste to Jar](https://routinehub.co/shortcut/11049)
-- [Paul](https://routinehub.co/shortcut/10941)
-- [Post to Write.as Blog (macOS)](https://routinehub.co/shortcut/10981)
-- [Query Snap.as Library](https://routinehub.co/shortcut/11543)
-- [Quick App Icon](https://routinehub.co/shortcut/12777)
-- [Raw Discourse Thread ⇨ Clipboard](https://routinehub.co/shortcut/11187)
-- [Raw Discourse Thread ⇨ Drafts](https://routinehub.co/shortcut/13143)
-- [Reminders Backup](https://routinehub.co/shortcut/10118)
-- [Reminders List ⇨ Tot](https://routinehub.co/shortcut/11539)
-- [Restore Safari Tabs](https://routinehub.co/shortcut/10869)
-- [Safari Bookmarks Export](https://routinehub.co/shortcut/12981)
-- [Safari Reading List ⇨ Raindrop](https://routinehub.co/shortcut/12764)
-- [Safari Tabs ⇨ Apple Note](https://routinehub.co/shortcut/12975/)
-- [Safari Tabs ⇨ Reminders](https://routinehub.co/shortcut/12990/)
-- [Safari Tabs Archive](https://routinehub.co/shortcut/10774)
-- [Safari Tabs Jar](https://routinehub.co/shortcut/10868)
-- [Safari Tabs List to Drafts](https://routinehub.co/shortcut/11024)
-- [Scrub URL](https://routinehub.co/shortcut/8783)
-- [Search iCloud Keychain](https://routinehub.co/shortcut/11801)
-- [Seek Telegram Message by ID](https://routinehub.co/shortcut/10930)
-- [Siri Shortcuts for Scrubs (Library Links)](https://routinehub.co/shortcut/10978)
-- [Siri Speech Synthesis (MacOS)](https://routinehub.co/shortcut/10583)
-- [Sleep Now (macOS)](https://routinehub.co/shortcut/10867)
-- [Snap.as Upload](https://routinehub.co/shortcut/11616)
-- [Speak Word Count](https://routinehub.co/shortcut/11094)
-- [Speedy Frames](https://routinehub.co/shortcut/10775)
-- [Spy Kids 3 Spam (macOS)](https://routinehub.co/shortcut/10873)
-- [Spy Kids 3 Spam](https://routinehub.co/shortcut/10919)
-- [T A R](https://routinehub.co/shortcut/12564)
-- [Tab Group ⇨ Apple Note](https://routinehub.co/shortcut/12525)
-- [Telegram Bot Post](https://routinehub.co/shortcut/11860)
-- [Telegram Message Embed](https://routinehub.co/shortcut/12622)
-- [Telegra.ph Index](https://routinehub.co/shortcut/12979)
-- [They/Them](https://routinehub.co/shortcut/10511)
-- [Tiny](https://routinehub.co/shortcut/11697)
-- [Title Case](https://routinehub.co/shortcut/10866)
-- [Tot ⇨ Apple Notes](https://routinehub.co/shortcut/11500)
-- [Tot Git](https://routinehub.co/shortcut/11565)
-- [Tot Jar](https://routinehub.co/shortcut/11456)
-- [Tot Markdown Backup](https://routinehub.co/shortcut/11458)
-- [TrippleTap Reminders](https://routinehub.co/shortcut/11038)
-- [ttm.sh (macOS)](https://routinehub.co/shortcut/11377)
-- [ttm.sh File](https://routinehub.co/shortcut/12854)
-- [Twitter Jail (macOS)](https://routinehub.co/shortcut/11135)
-- [Twitter Jail](https://routinehub.co/shortcut/11086)
-- [Twitter Spaces Downloader](https://routinehub.co/shortcut/12865)
-- [Ulysses Index](https://routinehub.co/shortcut/13063)
-- [URL List ⇨ Telegram](https://routinehub.co/shortcut/10926)
-- [Uses This Interview ⇨ Draft](https://routinehub.co/shortcut/13032)
-- [View Source in Textastic](https://routinehub.co/shortcut/13388)
-- [Visualize Latest Colornames](https://routinehub.co/shortcut/12841)
-- [Wake Up Weather Spoken Aloud](https://routinehub.co/shortcut/8387)
-- [What’s on NPR?](https://routinehub.co/shortcut/12143)
-- [What’s wrong with Spotify?](https://routinehub.co/shortcut/10402)
-- [Write.as Post](https://routinehub.co/shortcut/11698)
-
+<script src="https://gist.github.com/extratone/5bbd865703e98eeaa654ea7e5c36a776.js"></script>
 
 ### Blessed Web Utilities Raindrop Collection
 
 <iframe style="border: 0; width: 100%; height: 650px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/blessed-web-utilities-13380122/embed/sort=-created&hide=header%2C+excerpt%2C+info%2C+add"></iframe>
+
+[![TextExpander Banner](https://gitlab.com/DavidBlue/taio/uploads/cc086c39bdaa1b71f5a86b76ba1802b5/Ekc6TT.png)](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb)
+
+### TextExpander Snippet Groups
+
+TextExpander has proven invaluable even for a haphazard rube like myself. I've invested quite a bit of time into curating/developing my own snippet groups, and have shared a few.
+
+*Download an archive of actual `.textexpander` format files [here](https://www.icloud.com/iclouddrive/0b9jM8N0HwZUlB3t9lIqnEGzA#TextExpander_Files).*
+
+1. [**Extratext**](https://app.textexpander.com/public/14093096578d4f40eeea15649f5cefbb) is my main snippet group, but it's awfully personalized. 
+2. [Tot](https://app.textexpander.com/public/4cef7d32b411c6686d50c7eaff75a7a7) is a snippet group for interacting with Iconfactory's [handy little app](https://apps.apple.com/us/app/tot/id1491071483) via scripting.
+3. [Telegram](https://app.textexpander.com/public/de52c54ef169a96393d50cb4752706ce) is a snippet group with utilities specifically to aid Telegram Group/Channel administration.
+
+---
+
+## Themeing
+
+Details about this blog's theme can be found on [**the Colophon**](https://bilge.world/colophon).
