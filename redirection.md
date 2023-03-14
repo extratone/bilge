@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `03082023-214156`
+Updated `03142023-162829`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -93,6 +93,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/dddiscourse**](https://davidblue.wtf/dddiscourse), Redirects to the WTF documentation page for my Raw Discourse Thread ⇨ Drafts Siri Shortcut.
 - [**/ddmastobed**](https://davidblue.wtf/ddmastobed), Redirects to the local installation link for my Mastodon Embed Constructor Drafts Autocomplete.
 - [**/ddmastopost**](https://davidblue.wtf/ddmastopost), Redirects to the WTF documentation page for my Selection to Mastodon Drafts Action.
+- [**/ddstuff**](https://davidblue.wtf/ddstuff), Redirects to the WTF documentation page for my Stuff Drafts Theme.
 - [**/ddtranslate**](https://davidblue.wtf/ddtranslate), Redirects to the WTF documentation page for my Google Translate Drafts Action.
 - [**/detailspro**](https://davidblue.wtf/detailspro), Redirects to my user profile on the DetailsPro shared community library.
 - [**/discord**](https://davidblue.wtf/discord), Redirects to my Discord User profile - `David Blue#1917`.
@@ -167,6 +168,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
 - [**/matrix**](https://davidblue.wtf/matrix), Redirects to a matrix.to preview link of my main Matrix profile on matrix.org.
+- [**/mdtest**](https://davidblue.wtf/mdtest), Redirects to the WTF documentation page for my personal Markdown test document.
 - [**/mdx**](https://davidblue.wtf/mdx), Redirects to the WTF snippets page of the MDX Specification.
 - [**/mediumapi**](https://davidblue.wtf/mediumapi), Redirects to the WTF documentation page for Medium's API.
 - [**/meme**](https://davidblue.wtf/meme), Redirects to the WTF vocabulary page for *meme*.
@@ -276,3 +278,4 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
 - [**/woofs**](https://davidblue.wtf/woofs), Redirects to the live video stream of my local Yuppie Pet Daycare.
 - [**/xspec**](https://davidblue.wtf/xspec), Redirects to the WTF archive page for the original x-callback-url Specification.
+- [**/zariah**](https://davidblue.wtf/zariah),  Redirects to the Craft Publish page for my primary aircraft in Infinite Flight.
