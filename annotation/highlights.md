@@ -2866,6 +2866,10 @@
 
 > Siple and Passel expressed it in units of kilocalories per hour per square meter
 
+# [MacStories Weekly: Issue 357](https://club.macstories.net/posts/macstories-weekly-issue-357)
+
+> The final app in my Home Screen’s third row is ReleaseBot, an app by my son Finn. The app isn’t available on the App Store because it’s specific to the work Federico and I do at MacStories, but it’s a great way to stay current on app releases. We’ve each compiled personal lists of hundreds of apps we want to monitor, and ReleaseBot pings the App Store regularly to see if an update has been released for any of them. When an app gets updated, we get a notification with its release notes in copyable form, which isn’t possible on the App Store, plus a button to open the full App Store entry inline.
+
 # [Apple Frames 3.1: Extending Screenshot Automation with the New Apple Frames API - MacStories](https://www.macstories.net/stories/apple-frames-3-1-extending-screenshot-automation-with-the-new-apple-frames-api/)
 
 > you can create an Apple Frames automation to get the most recent screenshot, frame it, and save it to the Photos app with no manual interactions; or you can automate Apple Frames to get the 10 most recent screenshots from your library, frame them individually without merging them, and save the results in a folder of the Files app.
@@ -2917,3 +2921,67 @@
 > It is a Cocoa app written mostly in Swift, with some logic that's bound to strings and attributed strings processing in Objective-C for performance. No third party libraries are used, with the exception of MastodonKit (a library for the Mastodon API) and SVGKit, to render SVGs on the fly.
 > 
 > A lot of technical effort was placed on making Mastodon's custom animated emoji look good in the app, since most other clients (including for iOS) simply display their static versions. This is a whimsical feature that is technically difficult to implement well in Cocoa/AppKit, but I deemed it a worthwhile one, and in the end it looks great.
+
+# [1Password for Mac | 1Password Releases](https://releases.1password.com/mac/8.10/#changelog)
+
+> [March 7 2023
+> 
+> ###### 1Password for Mac 8.10.1
+> 
+> ](#1password-for-mac-8.10.1)
+> 
+> *   We’ve made several under-the-hood improvements related to copying information from item fields. #5218,#17651
+> *   We’ve fixed an issue where you couldn’t enter your new Secret Key in the app if prompted. #18081
+> *   We’ve fixed an issue where pressing the Escape key would close multiple pop-ups in the app instead of just the visible pop-up. !16280
+> *   We’ve improved the LastPass importer to import items even if it contained data that couldn’t be decrypted. We now tag them with `!-repair-items-lastpass`, so that customers can review the items manually and compare it to their LastPass counterpart. #20076
+> *   We’ve fixed an issue where the list of accounts in the pop-up to create a new vault wasn’t updated when another account was unlocked. #19982,#18880
+> *   We’ve fixed a visual issue where some tooltips in the app would adjust in size after being displayed. !16239
+> *   We’ve fixed a small visual issue related to the tooltip for the Reveal Password button on the lock screen when using a keyboard to navigate. !16239
+> *   Search filters like `=untagged` can now be used without keywords. #19917
+> *   1Password will now automatically lock in more specific conditions, like when you log out of your current user or the screensaver is activated. !16221
+> *   We’ve fixed an issue that caused the New Vault and Collections screens to not update after unlocking another account. #19982,#18880
+> *   We’ve fixed an issue where deauthorizing a specific device and updating your sign-in details at the same time wouldn’t remove the local copy of the data on that device. (_Thanks, Michael Rops!_)
+
+# [How to use applescript to save an email as a txt file - Stack Overflow](https://stackoverflow.com/questions/72655448/how-to-use-applescript-to-save-an-email-as-a-txt-file)
+
+> The Mail.app doesn't export selected message to TXT programatically. You can use GUI scripting, but GUI scripting is bad solution in this case. Exists other way, described here.
+> 
+> The script assumes the message is selected in the Mail.app and creates text file on the desktop, but you can indicate other folder.
+
+# [ChatGPT Is Nothing Like a Human, Says Linguist Emily Bender](https://nymag.com/intelligencer/article/ai-artificial-intelligence-chatbots-emily-m-bender.html)
+
+> Bullshitters, Frankfurt argued, are worse than liars. They don’t care whether something is true or false. They care only about rhetorical power — if a listener or reader is persuaded.
+
+> Say that A and B, both fluent speakers of English, are independently stranded on two uninhabited islands. They soon discover that previous visitors to these islands have left behind telegraphs and that they can communicate with each other via an underwater cable. A and B start happily typing messages to each other.
+> 
+> Meanwhile, O, a hyperintelligent deep-sea octopus who is unable to visit or observe the two islands, discovers a way to tap into the underwater cable and listen in on A and B’s conversations. O knows nothing about English initially but is very good at detecting statistical patterns. Over time, O learns to predict with great accuracy how B will respond to each of A’s utterances.
+> 
+> Soon, the octopus enters the conversation and starts impersonating B and replying to A. This ruse works for a while, and A believes that O communicates as both she and B do — with meaning and intent. Then one day A calls out: “I’m being attacked by an angry bear. Help me figure out how to defend myself. I’ve got some sticks.” The octopus, impersonating B, fails to help. How could it succeed? The octopus has no referents, no idea what bears or sticks are. No way to give relevant instructions, like to go grab some coconuts and rope and build a catapult. A is in trouble and feels duped. The octopus is exposed as a fraud.
+
+# [Spotify Asks What Would Happen if Artists Controlled TikTok - Bloomberg](https://www.bloomberg.com/news/newsletters/2023-03-09/spotify-asks-what-would-happen-if-artists-controlled-tiktok)
+
+> Podcasts will soon auto-play on Spotify, meaning as one ends, another will begin.
+
+# [Levee, or *CAPTAIN VIDEO*!](http://www.pell.portland.or.us/~orc/Code/levee/)
+
+> fix a _39 year old_ bug where changing the last line in a file wouldn’t refresh properly.
+
+# [A new generation of airships is taking to the skies | CNN](https://www.cnn.com/travel/article/flying-whales-airships-hnk-spc-intl/index.html)
+
+> With low carbon emissions, and no requirement for expensive ground infrastructure like airports or roads, because they can load and unload cargo while hovering, airships could be a sustainable solution for logistics across the globe.
+
+# [Development Timeline](https://infiniteflight.com/timeline)
+
+> As many Infinite Flight users anticipate our first release of the year, we'd like to give you a quick update as to where things are headed. We have some UI changes and a great new feature to help curate a more interesting experience using our simulator. With this, our multiplayer server updates, and a lot of behind-the-scenes improvements comes the potential for more troubleshooting. During this time, our airport editing team keeps cranking out new 3D airports!
+> 
+> As a result we're gearing up for 23.1 which will include a huge list of new airports, a collection of new liveries across several aircraft, and many bug fixes and performance improvements. Our goal will be to deliver our new secret feature with UI updates, even more 3D airports, and the Challenger 350 starting in 23.2, and onward. In the mean time, our 3D artists are underway working on the mighty A380!
+> 
+> Stay tuned for more information on the release of 23.1.
+
+# [The incredible $300 PC – Advisorator](https://advisorator.com/members/2023/03/14/the-incredible-300-pc/)
+
+> the required compute power for getting things done might be a lot less than you think.
+
+# [Rhoneisms](https://www.patrickrhone.net/9577-2/)
+
+> Saying “No” is the most effective and least expensive productivity and time management tool anyone has.
