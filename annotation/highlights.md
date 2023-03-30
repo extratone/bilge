@@ -2985,3 +2985,82 @@
 # [Rhoneisms](https://www.patrickrhone.net/9577-2/)
 
 > Saying “No” is the most effective and least expensive productivity and time management tool anyone has.
+
+# [Homecoming for Mastodon now does the opposite](https://underpassapp.com/news/2023-2-16.html)
+
+> when you're viewing a Mastodon page in another instance, clicking the extension icon in Safari's toolbar opens that page in your own instance. On the other hand, when you're viewing a Mastodon page in your own instance, clicking the extension icon in Safari's toolbar opens that page in the original instance.
+
+# [Michael Tsai - Blog - Homecoming for Mastodon 2.0](https://mjtsai.com/blog/2023/02/17/homecoming-for-mastodon-2-0/)
+
+> there is no way to assign keyboard shortcuts to extension buttons in Safari.
+
+# [Gall's Law — Gordon Brander](https://gordonbrander.com/pattern/galls-law/)
+
+> Simple rules produce complex behavior. Complex rules produce stupid behavior.
+
+# [Top Gear Tesla Roadster Road Test - YouTube](https://www.youtube.com/watch?v=JKtK493sGAk)
+
+> When I heard that Tesla sued for this review I assumed it was because Clarkson did the whole review by making jokes about the roadster not even being able to finish a lap, and then ending it by pretending that the battery spontaneously exploded. But this is actually really level headed and any gripes don’t look exaggerated or made up.
+
+# [Object storage misconfiguration – Incident details - mastodon.social Status](https://status.mastodon.social/clfbpfo8q3523hvoc4dsjl2v3)
+
+> Resolved after less than a minute
+
+# [Introducing iA Presenter, the story-based presentation app](https://ia.net/topics/introducing-ia-presenter-the-text-first-presentation-app)
+
+> most of the time, we’ve already worked out much of what we need to say in another text document.
+
+# [BBEdit 14.0 arrives with Notes and LSP support – Six Colors](https://sixcolors.com/post/2021/07/bbedit-14-0-arrives-with-notes-and-lsp-support/)
+
+> Dragging an HTML file or an image into BBEdit will now generate appropriately formatted Markdown.
+
+# [Bare Bones Software | BBEdit 13.5 Release Notes](https://www.barebones.com/support/bbedit/notes-13.5.html)
+
+> "Process Duplicate Lines" provides a new option: "Ignore empty lines". When _not_ using a pattern match, turning this option on will leave any empty lines (i.e. lines which contain _no_ characters other than the line break) alone, even if there are multiple lines in sequence. This option has no effect when "Match using pattern" is turned on.
+
+# [Coyote Cartography - BBEdit 14, and why you should care](https://micro.coyotetracks.org/2021/07/19/bbedit-and-why.html)
+
+> BBEdit keeps a history of find/replace searches, and lets you save complex grep patterns with names for easy recall.
+
+# [Bear 2.0: the beta strikes back - Updates - Bear Beta](https://beta.bear.app/t/bear-2-0-the-beta-strikes-back/9010)
+
+> Hey everyone! We started testing the beta and we are close to getting it into your hands.
+> 
+> The good news is that the beta has cleared Apple’s review process, so we should be able to push updates a little faster now.
+> 
+> A few newly discovered bugs are important enough to spend the next few days squashing them before we go to a broader release. We also don’t want to release it on a Friday as we’d prefer to be around to address feedback quickly.
+> 
+> If all goes well, we hope to give you both the Mac + iOS beta with sync next week. Stay tuned!
+
+# [Dashboard – 512 Pixels](https://512pixels.net/2016/12/dashboard/)
+
+> Flight Tracker
+
+# [Make it easier to see what’s on the screen of your Mac - Apple Support](https://support.apple.com/guide/mac-help/make-it-easier-to-see-whats-on-the-screen-mchld786f2cd/13.0/mac/13.0)
+
+> _Make the desktop less transparent:_ Choose Apple menu ![](https://help.apple.com/assets/6377D86D46F1EA1456299EB0/6377D87646F1EA1456299EE4/en_US/2f77cc85238452e25cb517130188bf99.png) > System Settings, click Accessibility ![](https://help.apple.com/assets/6377D86D46F1EA1456299EB0/6377D87646F1EA1456299EE4/en_US/c3fdc62492cd63e79f2554926d6fbef0.png) in the sidebar, click Display on the right, then turn on “Reduce transparency.” (You may need to scroll down.) The transparent areas of the desktop and app windows become gray.
+
+# [folivora.ai - Great Tools for your Mac!](https://folivora.ai/keyboardcleantool)
+
+> I have also heard of people who use it to let their toddlers pretend they work on a computer.  
+> Also people with cats.
+
+# [Asobo Studio - Stage Programmer Backend H/F (Flight Sim)](https://jobs.eu.lever.co/asobostudio/3cd73efd-380d-477c-9d28-fe411b588efc)
+
+> Your mission will be to improve the simulation's in-game content management tool.
+
+# [Differences between NotePlan 2 and NotePlan 3 - NotePlan Knowledge Base](https://help.noteplan.co/article/84-differences-between-noteplan-2-and-noteplan-3)
+
+> CloudKit is faster than iCloud Drive, which sometimes doesn't sync at all until you open the Files app (iOS) or iCloud Drive folder (macOS).
+
+# [De Havilland Canada DHC-8 Dash 8 | BAE Systems](https://www.baesystems.com/en/heritage/de-havilland-canada-dhc-8-dash-8)
+
+> The Dash 8 is in widespread service and the Q400 variant remains in production.
+
+# [Acknowledgements](https://gspe21-ssl.ls.apple.com/html/attribution-250.html)
+
+> Unless specifically identified as such, Apple Maps' use of any third party trademarks does not indicate any relationship, sponsorship, or endorsement between Apple Maps and the owners of such trademarks.
+
+# [Apple Releases iOS and iPadOS 16.4 with New Emoji, Notifications for Web Apps on the Home Screen, Voice Isolation for Cellular Calls, New Shortcuts Actions, and More - MacStories](https://www.macstories.net/news/ios-16-4-overview-emoji-notifications-web-shortcuts/)
+
+> the Ask for Input action now lets you enter multi-line text instead of one line at a time only. As an advanced user of the app, I’m glad I can now – _checks notes_ – enter multi-line text in a dialog.
