@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `03302023-204246`
+Updated `04012023-012511`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -273,6 +273,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/waterminder**](https://davidblue.wtf/waterminder), Redirects to my fucking shared WaterMinder data.
 - [**/wayback**](https://davidblue.wtf/wayback), Redirects to the WTF Documentation page for the wayback_machine_downloader.
 - [**/wcindex**](https://davidblue.wtf/wcindex), Redirects to the WTF documentation page for my index of local repositories in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807).
+- [**/whatsnew**](https://davidblue.wtf/whatsnew), Redirects to the "What's new in Shortcuts" Apple Support page.
 - [**/whirl**](https://davidblue.wtf/whirl), Redirects to dozens’ Tilde Whirl podcast!
 - [**/wiki**](https://davidblue.wtf/wiki), Redirects to my (Failed) Personal Wiki experiment on Fucking Notion.
 - [**/wikipedia**](https://davidblue.wtf/wikipedia), Redirects to my personal user page on Wikipedia.
