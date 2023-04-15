@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `04012023-012511`
+Updated `04152023-001850`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -281,4 +281,5 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
 - [**/woofs**](https://davidblue.wtf/woofs), Redirects to the live video stream of my local Yuppie Pet Daycare.
 - [**/xspec**](https://davidblue.wtf/xspec), Redirects to the WTF archive page for the original x-callback-url Specification.
+- [**/ytfeed**](https://davidblue.wtf/ytfeed), Redirects to an XML/RSS feed of Extratone's YouTube channel.
 - [**/zariah**](https://davidblue.wtf/zariah),  Redirects to the Craft Publish page for my primary aircraft in Infinite Flight.
