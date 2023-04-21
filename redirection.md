@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `04202023-194740`
+Updated `04212023-022858`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -251,6 +251,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/teaviation**](https://davidblue.wtf/teaviation), Redirects to the WTF documentation page for my Aviation TextExpander Snippet Group.
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/telegraph**](https://davidblue.wtf/telegraph), Redirects to the WTF index page for my posts on Telegra.ph.
+- [**/terminology**](https://davidblue.wtf/terminology), Redirects to the WTF copy of my Terminology Dictionary App Store Review.
 - [**/thingschrome**](https://davidblue.wtf/thingschrome), Redirects to the WTF documentation page for my Things Chrome Theme.
 - [**/thingsnoir**](https://davidblue.wtf/thingsnoir), Redirects to the installation URL for my Things Dark Noir theme.
 - [**/thingsupdate**](https://davidblue.wtf/thingsupdate), Redirects to the WTF documentation page for my Things Update Drafts action.
