@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `04152023-001850`
+Updated `04202023-194740`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -155,6 +155,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/kb43**](https://davidblue.wtf/kb43), Redirects to the iCloud Drive share URL to my packaged (Ken Block) KB43 Word Mark.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
+- [**/knowledge**](https://davidblue.wtf/knowledge), Redirects to my profile on KnowledgeHub.
 - [**/latte**](https://davidblue.wtf/latte), Redirects to the WTF documentation page for my GitHub Repository Template.
 - [**/ledger**](https://davidblue.wtf/ledger), Redirects to the WTF documentation page for my Siri Shortcuts Ledger.
 - [**/legacyredirects**](https://davidblue.wtf/legacyredirects), Redirects to an archive of the original *Extranet Redirection* document - the inspiration for this thing!
@@ -271,6 +272,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/vr**](https://davidblue.wtf/vr), Redirects to "Virtual Reality Virginity, Lost" on *The Psalms*.
 - [**/wallpaper**](https://davidblue.wtf/wallpaper), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/waterminder**](https://davidblue.wtf/waterminder), Redirects to my fucking shared WaterMinder data.
+- [**/waterminderx**](https://davidblue.wtf/waterminderx), Redirects to the WTF reference page for WaterMinder's X-Callback-URL support.
 - [**/wayback**](https://davidblue.wtf/wayback), Redirects to the WTF Documentation page for the wayback_machine_downloader.
 - [**/wcindex**](https://davidblue.wtf/wcindex), Redirects to the WTF documentation page for my index of local repositories in [Working Copy](https://apps.apple.com/us/app/working-copy-git-client/id896694807).
 - [**/whatsnew**](https://davidblue.wtf/whatsnew), Redirects to the "What's new in Shortcuts" Apple Support page.
