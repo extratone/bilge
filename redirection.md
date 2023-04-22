@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `04212023-022858`
+Updated `04222023-011136`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -200,6 +200,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/preview**](https://davidblue.wtf/preview), Redirects to the WTF documentation page for my primary HTML preview template for Drafts.
 - [**/pro**](https://davidblue.wtf/pro), *Also* redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/propagation**](https://davidblue.wtf/propagation), Redirects to the WTF index page for my *propagation* Apple Music Playlist.
+- [**/pun**](https://davidblue.wtf/pun), Redirects to a Facebook Life Event page documenting the authorship of my very first pun.
 - [**/pungle**](https://davidblue.wtf/pungle), Redirects to the WTF vocabulary page for *pungle*.
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/reading**](https://davidblue.wtf/reading), Redirects to my Reading List Raindrop collection.
