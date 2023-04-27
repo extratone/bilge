@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `04272023-063702`
+Updated `04272023-152111`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -258,6 +258,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/thingsupdate**](https://davidblue.wtf/thingsupdate), Redirects to the WTF documentation page for my Things Update Drafts action.
 - [**/tildedrop**](https://davidblue.wtf/tildedrop), Redirects to my tilde Raindrop collection.
 - [**/timmy**](https://davidblue.wtf/timmy), Redirects to the WTF documentation page for Timmy's Pool Party.
+- [**/toot**](https://davidblue.wtf/toot), Redirects to a Mastodon thread by Eugen Rochko explaining the origin of the term "toot."
 - [**/trent**](https://davidblue.wtf/trent), Redirect to the timecoded YouTube moment we discovered His Name...
 - [**/tripod**](https://davidblue.wtf/tripod), Redirects to some brief documentation I attempted to explain the hellish contraption I use to suspend my phone in front of my face when keyboarding.
 - [**/truck**](https://davidblue.wtf/truck), Redirects to my *Gran Turismo 6* gameplay demo video.
