@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `04272023-152111`
+Updated `05132023-021201`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -54,6 +54,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/amandanotes**](https://davidblue.wtf/amandanotes), Redirects to my in-progress master notes file regarding the *iPad Professional.*
 - [**/amandanum**](https://davidblue.wtf/amandanum), Redirects to the live-updated shared Numbers spreadsheet logging my iPad Pro's battery consumption.
 - [**/amazon**](https://davidblue.wtf/amazon), Redirects to my *ACQUIRE* Wish(?) List on Amazon.
+- [**/amiss**](https://davidblue.wtf/amiss), Redirects to my favorite Cher Tweet.
 - [**/apogee**](https://davidblue.wtf/apogee), Redirects to the WTF vocabulary page for *apogee*.
 - [**/applenotes**](https://davidblue.wtf/applenotes), Redirects to an index file of all my Apple Notes.
 - [**/applet**](https://davidblue.wtf/applet), Redirects to the WTF documentation page for my iOS Contacts to Gists IFTTT Applet.
@@ -156,6 +157,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
 - [**/knowledge**](https://davidblue.wtf/knowledge), Redirects to my profile on KnowledgeHub.
+- [**/l**](https://davidblue.wtf/l), Redirects to Martha Stewart's most important Tweet.
 - [**/latte**](https://davidblue.wtf/latte), Redirects to the WTF documentation page for my GitHub Repository Template.
 - [**/ledger**](https://davidblue.wtf/ledger), Redirects to the WTF documentation page for my Siri Shortcuts Ledger.
 - [**/legacyredirects**](https://davidblue.wtf/legacyredirects), Redirects to an archive of the original *Extranet Redirection* document - the inspiration for this thing!
