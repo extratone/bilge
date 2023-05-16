@@ -1,36 +1,41 @@
 # MusicHarbor Artist List
-Updated '102942022-194425'
+Updated '051352023-192155'
 
 ((( O )))
 (G)I-DLE
 1-800 GIRLS
-1200 Techniques
-18 Carat Affair
-1990
-1991
-20-2-Life
-21 Savage
-2814
+2 Unlimited
 2Pac
 3 2 6
-47SOUL
-50 Cent
+3DaHardWay
 5eya
 5th Ward Boyz
 8Ball & MJG
 8stops7
+18 Carat Affair
+20-2-Life
+21 Savage
+47SOUL
+50 Cent
 92Jelani
+808 State
+1200 Techniques
+1990
+1991
+2814
 A Day to Remember
 a i r s p o r t s
 A L E X
 A Number Of Names
 A Tribe Called Quest
-A$AP Rocky
 A-Sirr
 A. G. Cook
 A.B.N.
+A.k.Adrix
+A$AP Rocky
 Aaliyah
 Ab-Soul
+Abdul Raeva
 Abelardo Retamoza
 Above the Law
 AC/DC
@@ -39,12 +44,14 @@ Ace
 Ace Deuce
 AceMo
 Acidbrain
+Acre
 Across the Atlantic
 Action Bronson
 Action Jackson
 Active Child
 AD
 Adam Freeland
+Adam X
 adamlondon
 Adonis
 Adriana Lopez
@@ -53,6 +60,7 @@ Aero Manyelo
 Aesop Rock
 Afar
 Afrikan Boy
+AFRODEUTSCHE
 After Eating
 Against The Time
 Ahero
@@ -72,6 +80,7 @@ Albert Hammond Jr.
 ALEPH
 ALEX
 Alex Banks
+Alex Coulton
 Alex Metric
 Alexander Harre
 Alexandra Stréliski
@@ -87,22 +96,25 @@ All Time Low
 Alloapm
 Alper Atrek
 AlterEgo
+altrice
 AlucarD
 ALVY
 Amelie Lens
+Amélie Paul
+Amélie Paul
+AMÉMÉ
 Amherst
 Amida
 Amina Buddafly
 Aminova
 Amon Tobin
 Amy Dickson
-Amélie Paul
-Amélie Paul
-AMÉMÉ
 Anastasia Kristensen
+AnD
 Anderson .Paak
 Andre Obin
 Andy Hunter
+Andy Stott
 Angel Olsen
 Ango
 Anile
@@ -114,6 +126,7 @@ Antonio Aguilar
 Anz
 Aphex Twin
 Apollo 440
+Apparat
 Arabic Piano
 Architecture In Helsinki
 architecture in tokyo
@@ -139,7 +152,9 @@ Atomic Kitten
 ATRIP
 Atu
 Audiosynthes
+Audra McDonald
 Augustus Wright
+Autechre
 Autolaser
 Aux 88
 Average White Band
@@ -148,9 +163,12 @@ Avion Roe
 AVV
 AWEN
 aya
+Azari & III
 Azymuth
 B-Legit
 B.Traits
+B•R•A•U•N
+baaskaT
 Baauer
 Baby Sleep Sounds
 BACKWHEN
@@ -169,14 +187,18 @@ Baltra
 Bambooman
 Band of Skulls
 Banda Lamento Show de Durango
+Barbara Tucker
 Barretso
 Bart Skils
 Barto
+Basement Jaxx
 Basenji
 Basic Channel
 Basic Perspective
 Basic Rhythm
 Bass Drum Of Death
+Bassti
+Bastian Bux
 Bat Fangs
 Bazanji
 bdrmm
@@ -201,6 +223,7 @@ Ben Helbach
 Beneath
 Benedek
 Benny Benassi
+Bergsonist
 Betamaxx
 Beverly Girl
 Bewilderbeast
@@ -233,7 +256,10 @@ Black Merlin
 Black Rave Culture
 Black Rebel Motorcycle Club
 Black Sherif
+Black Star
 Blackalicious
+Blackhaine
+Blackout
 Bladee
 Blake Baxter
 Blanco White
@@ -242,6 +268,7 @@ Blank Body
 Blank Goofee
 Blanka Mazimela
 Blawan
+Bleachers
 blink-182
 BLK SMK
 Bloc Party
@@ -261,6 +288,8 @@ Boddika
 Body Language
 Body-San
 BoDyLiNe
+Bola
+Bolam
 Bombay Bicycle Club
 Bon Accord
 Bone Thugs-n-Harmony
@@ -300,12 +329,14 @@ Bwana
 C-Bo
 C-Note
 Cabaret Voltaire
+Café del Mar
 Cage the Elephant
 Caiiro
 Cailin
 Cajmere
 Calvin Harris
 Camino 84
+Can
 Candice Ivory
 Capa
 Capa
@@ -321,6 +352,7 @@ Carpenter Brut
 Carrie Underwood
 Casting
 Casting Crowns
+Caterina Barbieri
 Catherine Wheel
 Celldweller
 CFCF
@@ -346,6 +378,7 @@ Chick Corea
 Chief Keef
 Childhood
 Childish Gambino
+chilltrap
 Chip E.
 Choongum
 Chris Brown
@@ -354,6 +387,7 @@ Christine
 Chrome Sparks
 Chromeo
 Chronic Future
+Chronixx
 Chuck Person
 Chungo
 CHVRCHES
@@ -365,21 +399,23 @@ Cirrus
 Citizen Deep
 Clams Casino
 Clara La San
+Claro Intelecto
 Class Actress
 Claude Debussy
 Claude Young
 Claus Schöning
 Cleanfield
 Clinton Affair
+Cløtur
 Cloud Nothings
 Clu
 CLUBKELLY
-Cløtur
 CMW
 Co Cash
 Cobalt Road
 CocoRosie
 Coffintexts
+Coil
 Collarbones
 Com Truise
 Come and Hell
@@ -413,6 +449,7 @@ Cunninlynguists
 Curve
 Cut Copy
 CVLTVRΣ
+Cyantific
 CYBEREALITYライフ
 Cybotron
 Cyndi Lauper
@@ -424,6 +461,7 @@ Da Capo
 Da Vosk Docta
 Daft Punk
 Dajae
+DāM FunK
 Damian Avila
 Dan Mason ダン·メイソン
 Dan Terminus
@@ -439,7 +477,10 @@ Dark0
 Darondo
 Darryl Pandy
 Dave Audé
+Davi
 David Blue
+David Lanz
+Daz Dillinger
 DB THA GENERAL
 deadmau5
 Deap Vally
@@ -451,11 +492,15 @@ Deb Never
 Deceiver
 Dee Cee
 Deep Xcape
+Degs
+Del the Funky Homosapien
+Delano Smith
 Delorean
 DeLorean
 Delroy Edwards
 Delta Heavy
 Deltron 3030
+Demdike Stare
 Demian Licht
 Denham Audio
 Deniece Williams
@@ -493,12 +538,14 @@ DJ DMD
 DJ Earl
 DJ Flavours
 DJ Funk
+DJ Girl
 DJ Hell
 DJ Hyperactive
 DJ Ice
 DJ Icey
 DJ Isaac
 DJ Koze
+DJ Krust
 DJ Lesh SA
 DJ LeSoul
 DJ Manny
@@ -506,9 +553,12 @@ DJ Mastercard
 DJ Orange Julius
 DJ P
 DJ Pantha
+DJ Paul
+DJ Paulette
 DJ Paypal
 DJ Pierre
 DJ Premier
+DJ Python
 DJ Rashad
 DJ Rush
 DJ Sabrina The Teenage DJ
@@ -523,8 +573,9 @@ DJ Squeeky
 DJ Swisha
 DJ T-1000
 DJ Warlord
-DJ.Fresh
+DJ Wawa
 DJ_Dave
+DJ.Fresh
 Djeff
 Dlala Thukzin
 DMX
@@ -550,6 +601,7 @@ Dripz
 Druid Cloak
 DRUNKEN KONG
 Drvg Cvltvre
+DRWNDSPDR
 Drywall
 Dua Lipa
 Dual Echo Side Effect
@@ -565,19 +617,20 @@ DWN
 Dwson
 Dynatron
 DZ Deathrays
-DāM FunK
 E-40
 E-Dancer
 E.S.G.
 Eagles of Death Metal
 Earl St. Clair
 East End Dubs
+Echium
 Echo De LaLuna
 Echo Deep
 Ed Hodge
 Ed Lee
 edapollo
 Eddie Flashin' Fowlkes
+eevee
 Effe
 Ehallz
 Eight and a Half
@@ -588,6 +641,7 @@ El Guincho
 El Mukuka
 Electric chair orchestra
 Electric Guest
+Electronic
 Elina Goto
 Elite Force
 Elite Gymnastics
@@ -598,6 +652,7 @@ Emika
 Emil Baghino
 Empire of the Sun
 En.Uma
+Enter the Haggis
 Enui
 Epic Rap Battles of History
 Eptic
@@ -610,6 +665,7 @@ Erika de Casier
 Escaflowne
 Espen Lauritzen
 ESPRIT 空想
+ESTA.
 Esther Phillips
 Eternal Bliss
 Etherwood
@@ -624,7 +680,9 @@ Exca
 Exco Levi
 Exeter
 Eyes Set to Kill
+Ezra Collective
 Faber
+Fallow
 Fancy Mike
 Fantasy Camp
 Fanzo
@@ -635,6 +693,7 @@ Fat Pat
 Fat Pat
 Fat Tony
 Fatboy Slim
+Father
 Fatherhood
 Fatima Al Qadiri
 FC Kahuna
@@ -643,12 +702,14 @@ Feater
 Feed Me
 Feeder
 FEELS
+Felipe Gordon
 Felix Fleer
 Felsmann + Tiley
 Fenech-Soler
 Ferdk
 Fifth Harmony
 Fifty Grand
+Finn
 First Serve
 Fischerspooner
 FISHER
@@ -679,7 +740,9 @@ Fort Romeau
 Foster the People
 Four Horsemen Of The Apocalypse
 Four Tet
+Four Tops
 Four Year Strong
+Fox
 Foxes In Fiction
 Francesca Lombardo
 Frank Biazzi
@@ -692,6 +755,7 @@ Frcln
 Fred again..
 Fred V & Grafix
 Freddie Gibbs
+Free Hugs
 Friendly Fires
 Friendzone
 Frigid Armadillo
@@ -713,6 +777,7 @@ Galantis
 Galapagos
 Galaxian
 Galaxy 2 Galaxy
+Galcher Lustwerk
 Gangsta Blac
 Gangsta Boo
 Gangsta Pat
@@ -731,6 +796,7 @@ Genesis
 Gent Mason
 George Clanton
 George Riley
+Gescom
 Geto Boys
 Ghetto Twiinz
 Ghost
@@ -746,6 +812,7 @@ Glenn Underground
 GlimmerXP
 Gnarls Barkley
 Gnothi Seauton
+Go2
 Gobby
 Golan Globus
 Golden Living Room
@@ -771,8 +838,10 @@ Green Velvet
 Gremly
 Greta Van Fleet
 GreyscaleSound
+Grimes
 Grinspoon
 GRMLN
+Groove Armada
 Groundislava
 Gru Var
 Grupo Galé
@@ -790,15 +859,18 @@ Gumz
 GUNSHIP
 Guy
 Gwen Stefani
+GZA
 H.A.W.K.
 HAAi
 Haleek Maul
 Handbook
 Hannah Montana
 Hantasi
+Happy Mondays
 Hard Driver
 Hard Mix
 Hard-FI
+Hardrive
 Harmony
 Harrison BDP
 Harrison Whitford
@@ -816,6 +888,8 @@ Heinz E. Klockhaus
 Hellcome!
 Helsinki 78-82
 Henrik the Artist
+Henry Mancini
+Henzo
 Hercules
 Hermitude
 Hieroglyphic Being
@@ -830,6 +904,7 @@ Holly Humberstone
 Holy Ghost!
 Holy Other
 Home
+Homura Records
 Honey Dijon
 Hooray For Earth
 Hoover1
@@ -840,6 +915,7 @@ Hot Chip
 Hot Hot Heat
 Hot Since 82
 Hot Snakes
+Hotel Costes
 Hotwax
 HOVR
 How to Dress Well
@@ -847,6 +923,7 @@ Howler
 Howlings
 Huerco S.
 Hugh Hardie
+Hugo Massien
 Hundred Waters
 Hunter/Game
 HVL
@@ -857,6 +934,7 @@ Hyetal
 HyperGanesh
 HyperSOUL-X
 Hypnotic Brass Ensemble
+Hypnotize Camp Posse
 I Am the Cosmos
 I Don't Want To Be In Love
 I Prevail
@@ -865,24 +943,29 @@ Ice Choir
 Ice Cream Social
 Ice Cube
 Ice-T
+Iceboy Violet
 ID
 ID Chief
 Idle
 Idle
 Iglooghost
 iLL BLU
+Illum Sphere
 IMANU
 Imploded View
 In Love With a Ghost
 Indigo De Souza
 Indo G
 Infadels
+Infant Annihilator
 Inner City
 Instinct
 Instupendo
 Intergalactic Quartet
 Internal Affairs
+Interplanetary Criminal
 Isaac Galvez
+Israel Kamakawiwo'ole
 Ivy Hollivana
 J Dilla
 J. Worra
@@ -928,6 +1011,7 @@ Jessie Reyez
 Jessie Ware
 Jessy Lanza
 Jet
+Jimmy D Psalmist
 Jimmy Eat World
 Jiro Vega
 jjjacob
@@ -952,6 +1036,7 @@ JPEGMAFIA
 JRMS
 Judas Priest
 Juice WRLD
+Julia Govor
 Jump5
 Jungle
 Jungle Wonz
@@ -960,7 +1045,9 @@ Junkie XL
 Jurassic 5
 Just Kiddin
 Justice
+Justice For The Damned
 Justin Bieber
+Justin Cudmore
 Juvenile
 K CAMP
 K Motionz
@@ -975,6 +1062,7 @@ Kalax
 kalupke
 Kamyar Ring
 Kanine
+Kanyon
 Karenn
 Karima F
 Karma Kid
@@ -986,6 +1074,7 @@ Kaskade
 Katy B
 KAVARI
 Kazuma Jinnouchi
+KC and the Sunshine Band
 Keeno
 Keeno18
 Keep Shelly In Athens
@@ -1002,6 +1091,7 @@ Kenny Larkin
 Kenny Maness
 Kenton Slash Demon
 Kerri Chandler
+Kerrie
 Kesha
 KETAURI
 Kevin Irving
@@ -1015,7 +1105,10 @@ KI Creighton
 Kid Cudi
 Kidnap
 Kidricc James
+Kilig
 Kill Memory Crash
+Kim Anh
+Kim Ann Foxman
 King Quartz
 KINGDOM
 Kingpin Skinny Pimp
@@ -1023,9 +1116,11 @@ Kings Of The Rollers
 Kink
 Kirko Bangz
 Klimeks
+Klint
 Klondike Kat
 Kobosil
 Kode9
+Koji Kondo
 Kona Triangle
 Konx-Om-Pax
 Koopsta Knicca
@@ -1048,6 +1143,7 @@ KYONGPAUL
 Kyross
 L.A.D.S.
 La Chat
+Lack
 LADS
 Ladyhawke
 LAIRE
@@ -1061,6 +1157,7 @@ Lapti
 Laserdisc Visions
 Lasha Chapel
 lau.ra
+Laura Taylor, C&P Condoli, Red Holloway, Joe Lano, Jack Sheldon
 Lauren Flax
 Lawrence Hart
 LAY BAC
@@ -1089,6 +1186,7 @@ Lil Corb
 Lil Debbie
 Lil James
 Lil James
+Lil Noid
 Lil Soda Boi
 Lil Texas
 Lil Ugly Mane
@@ -1103,6 +1201,7 @@ Lily Allen
 Lin-Manuel Miranda
 Lindsheaven Virtual Plaza
 Lindstrøm
+Lisa Lee
 Little Dragon
 Lizzo
 LL Cool J
@@ -1124,6 +1223,7 @@ Long Island Sound
 Loraine James
 Lorca
 Lorca
+Lord Infamous
 Lorenzo
 Lorn
 Los Ángeles de Charly
@@ -1135,8 +1235,8 @@ Lucca
 Luciano
 Luciano
 Lucius
-LUCY
 Lucy
+LUCY
 Lucy In Disguise
 Lui Mafuta
 Luigi Sambuy
@@ -1148,6 +1248,8 @@ Lusine
 Luude
 Luviia
 Luxar
+LUXE
+LUXE
 luxury elite
 LUXXURY
 Luz1e
@@ -1156,8 +1258,11 @@ Lykke Li
 Lyrics Born
 LYZZA
 M-High
+M.A.N.D.Y. vs. Booka Shade
+M.A.N.D.Y. vs. Booka Shade
 M.C. Mack
 M83
+Maceo & All the King's Men
 Machine Girl
 Machinedrum
 Macintosh Plus
@@ -1175,6 +1280,7 @@ Main Attrakionz
 Maitro
 Majid Jordan
 Major Lazer
+Majorettes
 Makeup and Vanity Set
 Makoto
 Mall Grab
@@ -1182,12 +1288,16 @@ Mam
 Mambo Brothers
 MAN POWER
 Manitee
+Manizha
 Manyelo Dafro
 Marabou
 Marcia Hadjimarkos
+Marcos Cabral
 Marcus Mixx
+Margaret Whiting
 Margot
 Margot
+Mariah Carey
 Maribou State
 Marie Davidson
 MARINA
@@ -1199,15 +1309,18 @@ Marshmello
 Martin Roth
 Martyn Bootyspoon
 Mary Lou Williams
+Masayoshi Takanaka
 Mase
 Maserati Skrill
 Mash
 Mashupheadz
+Masšh
 MASTER BOOT RECORD
 Master P
-Masšh
+Masters At Work
 Mat Zo
 Mathbonus
+Mathis Ruffing
 Matroda
 Matthew Bourne
 Matthew Dear
@@ -1231,6 +1344,7 @@ Medsound
 Mefjus
 Mega Drive
 Megan Thee Stallion
+Melted Milk
 Menahan Street Band
 Menzii
 Mesmé
@@ -1245,6 +1359,7 @@ Miami Wicked
 MIAMIGO
 Mic-Lo The Dreamer
 Michael Cassette
+Michael J. Blood
 Michel Chion
 Michele Mausi
 Michelle Branch
@@ -1264,6 +1379,7 @@ MIMIDEATH
 Mind Against
 Mini Mansions
 Minks
+Minnie Riperton
 Mint Royale
 Mirror Kisses
 Miss Red
@@ -1279,10 +1395,15 @@ Modern Baseball
 Modestep
 Modulaw
 ModVo
+MoMa Ready
 MONA
 MondreMAN
 Moneybagg Yo
+Mono Junk
+Monobox
+Monovision
 Montparnasse Musique
+Mood II Swing
 Moodblanc
 Moodymann
 Moonkay
@@ -1290,6 +1411,7 @@ Mord Fustang
 Morgan Geist
 MORRI$
 Moses Sumney
+Mötley Crüe
 Motor
 Mount Kimbie
 Moussa Diakite
@@ -1314,7 +1436,6 @@ Mux Mool
 my bloody valentine
 My Chemical Romance
 My Electric Love Affair
-Mötley Crüe
 N.E.R.D
 N.W.A.
 Namco Sounds
@@ -1346,6 +1467,7 @@ NIKE7UP
 Nikki Nair
 Nikolai Lugansky
 Nina Simone
+Nine Days
 Nine Inch Nails
 Ninja Sex Party
 Ninze
@@ -1370,6 +1492,7 @@ NUAGE
 Nujabes
 Null Object
 Numas
+nuphory
 Nutia
 NVOY
 NxxxxxS
@@ -1378,6 +1501,7 @@ Obey The Brave
 Objekt
 Octave One
 Octo Octa
+Odd Future
 Odd Squad
 Oddisee
 Oddxperienc
@@ -1399,12 +1523,14 @@ Onipa
 Onon
 Onra
 ONTHE88
+Open
 Orbital
 Orienta-Rhythm
 Origami Girl
 Orlando Voorn
 Oscar Mulero
 OSCOB
+Osheyack
 Otik
 Outasight
 Outer Limitz
@@ -1420,10 +1546,12 @@ Oxynucid
 P A T H S パス
 P.O.D.
 Paisan
+Pal Joey
 Palinoia
 Palma Violets
 Palmistry
 Palms
+Palms (AU)
 Panama
 Papa Roach
 Paperclip People
@@ -1442,6 +1570,7 @@ Pegasus
 Peggy Gou
 Pendulum
 Pennywise
+Pépe
 Pepe Aguilar
 Peppino Gagliardi
 Percee P
@@ -1461,6 +1590,7 @@ Phoenix #2772
 Phonat
 Photon Inc.
 Phuture
+Physical Therapy
 Physics
 Pictureplane
 Pierce Fulton
@@ -1502,6 +1632,7 @@ Porsches
 Porter Robinson
 Postiljonen
 Powder
+Powder
 Power Cut
 Power Glove
 Powercut
@@ -1527,7 +1658,6 @@ Pusher
 Pymp Tyte
 Pyravid
 Pza
-Pépe
 Qrauer
 Qrion
 QRTR
@@ -1547,12 +1677,16 @@ Rancid
 Ravenna Golden
 Raw
 Rawtekk
+Raze
 Real Cosby
 Recondite
 Red Sun Rising
+Red Tape Resistance
 Reece Cox
+Reflection Eternal
 REFLEX
 Regret Will Come
+Relaxer
 Remcord
 Renga Weh
 Reso
@@ -1562,6 +1696,7 @@ Ricco Harver
 Rich Brian
 Richard Alfaro
 Rick Ross
+Rico Nasty
 Riff Raff
 Rifts
 Rimar
@@ -1572,6 +1707,7 @@ Riton
 Rival Consoles
 River Moon
 Riverwave 川の波
+Rizzla
 RL Grime
 Roachford
 Rob Dickinson
@@ -1585,32 +1721,37 @@ Robert Leiner
 Robert Owens
 Robyn
 Rock 'n' Roll Soldiers
+Rødhåd
 Rodney O & Joe Cooley
 Rollergirl
 Romare
 Romeo Santos
 Romy
 Ron Hardy
+Ron Morelli
 Ron Shepard
 Ron Trent
 Ronnie Spencer
 Roosevelt
 Rosa Anschütz
 ROSALÍA
+Ross from Friends
 Roy Davis Jr.
 Royalston
+Röyksopp
 RP Boo
 RPT MCK
 Rrose
+Ruf Dug
 Rufige Kru
+RÜFÜS DU SOL
 Run The Jewels
 Run-DMC
 Runners Club 95
 Rusko
 Ryan Hemsworth
+Ryo Fukui
 ryuei kotoge
-Rødhåd
-RÜFÜS DU SOL
 S.H.E
 S.P.Y
 S3RL
@@ -1640,6 +1781,7 @@ Sasac
 Sascha Funke
 Sasha
 Sassy 009
+Satoshi Bandoh
 Savages
 Saves The Day
 Savon
@@ -1669,12 +1811,14 @@ SelloRekt LA Dreams
 Sepalcure
 Serge Gainsbourg
 Sergei Levitin
+Setaoc Mass
 Sewerslvt
 Shade of Rhythm
 Shades
 Shakira
 Shameboy
 Shania Twain
+Shanti Celeste
 Shao
 Shawty Pimp
 she
@@ -1692,10 +1836,12 @@ Shy Child
 Shygirl
 Si Begg
 Sieren
+Significant Other
 Silent Gloves
 Silversun Pickups
 Simon Hinter
 Simone Vitullo
+Sister Zo
 Sivey
 Skai Nine
 SKATERS
@@ -1716,10 +1862,12 @@ Slum Science
 Sly and Lovechild
 slyly
 Small Black
+Smokey Robinson & The Miracles
 Snail Mail
 Snavs
 Snootie Wild
 Snow Patrol
+Sobolik
 Sobrenadar
 Sofi Tukker
 Soft Lighting
@@ -1731,11 +1879,13 @@ Solicit
 Sololo
 Soosh
 SOPHIE
+Söriös
 Soul Coughing
 Soul Ipsum
 Soundbwoy Killah
 Source Direct
 Southern Shores
+Space Afrika
 Spacetime Continuum
 Spada
 Spank Rock
@@ -1754,6 +1904,7 @@ Squarepusher
 Stacy Kidd
 Star Slinger
 Starcat
+Stardust
 Starfawn
 STARSET
 Stekke
@@ -1779,6 +1930,7 @@ Subaeris
 Submerge
 Subtact
 Suburban Knight
+SUCHI
 Sugar God
 Suicideyear
 Suka
@@ -1799,12 +1951,15 @@ Supreme Cuts
 Surfing
 Surgeon
 Suzanne Vega
+Sven Väth
 Svengali
 Swami Sound
 Sweater Beats
 Sweatson Klank
 Sweet Trip
 Sweet Valley
+Swing Ting
+Switch
 Switch
 Syllabus
 Symbols and Instruments
@@ -1812,8 +1967,9 @@ Synkro
 System Of A Down
 System ST91
 SZA
-Söriös
+Szare
 t e l e p a t h テレパシー能力者
+Taio Cruz
 Taku Yabuki
 Talib Kweli
 Tamon Hamilton Beach
@@ -1843,11 +1999,13 @@ Tela
 Telequanta
 Temples
 Ten City
+Tendencias
 Tendencies
 Tenille Townes
 Teno Afrika
 Tensnake
 Tenzella
+Terekke
 Tesla Boy
 Tha Eastsidaz
 Thaiboy Digital
@@ -1883,6 +2041,7 @@ The Fratellis
 The Future Sound of London
 The Get Up Kids
 The Gift Music World Wide
+The Grace
 The Grid
 The Hacker
 The Heavy
@@ -1913,9 +2072,11 @@ The Other People Place
 The Other Side
 The Party
 The Pinker Tones
+The Pipes and Drums of the New York City Police Department Emera
 The Prodigy
 The Qemists
 The Renaissance
+The Rogue Element
 The Roots
 The Samps
 The Smashing Pumpkins
@@ -1928,6 +2089,7 @@ The Time
 The Trashmen
 The True Underground Sound of Rome
 The Vernon Spring
+The Vision
 The War on Drugs
 The Weeknd
 The Whip
@@ -1942,10 +2104,11 @@ Thrice
 Throwing Snow
 Thug Dirt
 Thundercat
+Tibasko
 Ticklish
+Tiësto
 Tiger Stripes
 Timecop1983
-Tiësto
 Tkay Maidza
 Toby Gale
 Todd Terje
@@ -1954,8 +2117,8 @@ Tokamak
 Toky
 Tokyo Hands
 Tokyo Jetz
-TOKYO ROSE
 Tokyo Rose
+TOKYO ROSE
 Tom Cloud
 Tom Jarmey
 Tom Vek
@@ -1986,6 +2149,7 @@ Travis Scott
 Traxell
 Traxman
 Treach
+Trevino
 Trian Kayhatu
 Triple 6 Mafia
 Trippie Redd
@@ -1998,6 +2162,7 @@ Turbonegro
 Twin Shadow
 Two Door Cinema Club
 Two Full Minds
+Two Shell
 Twos
 Ty Segall
 Tycho
@@ -2009,7 +2174,9 @@ Ultra Naté
 Ultrademon
 Ulwhednar
 Uman Therma
+UMFANG
 Underground Resistance
+Underground Solution
 Underoath
 Underwater Seacreatures
 UNIIQU3
@@ -2036,6 +2203,7 @@ Venture X
 Vercetti
 Vertrauen
 Vessels
+VHOOR
 VHS Head
 VHS LOGOS
 Vibe Chemistry
@@ -2057,6 +2225,7 @@ Waajeed
 Wafia
 Waka Flocka Flame
 WALK THE MOON
+Walton
 War
 Warm Ghost
 Warren G
@@ -2103,8 +2272,10 @@ Worakls
 Workers
 World Champion
 Woss Ness
+WTCHCRFT
 Wu-Tang Clan
 Wylde Bunch
+X-101
 X3SR
 Xavier Wulf
 Xo
@@ -2116,6 +2287,7 @@ Xyla
 Y U QT
 Yaeji
 Yaw Appiah
+Yazzus
 Yeah Yeah Yeahs
 Yello
 Yeong Die
@@ -2123,6 +2295,7 @@ Yetsuby
 Yo Gotti
 Yo-Yo
 Yo-Yo Ma
+Yosh
 Yoshinori Sunahara
 You Me At Six
 Young Dolph
@@ -2136,6 +2309,7 @@ Your Strength, My Weakness
 Yppah
 Yuck
 YUME
+Yung L.A. & Mr. E of RPS Fam
 Yung Lean
 Yung Satan
 Yung Sherman
@@ -2146,6 +2320,8 @@ Z6b3r
 Zach Foty Music
 Zakes Bantwini
 Zakladki
+Zed Bias
+Zero 7
 Zerox
 Zerox
 ZIDDO
@@ -2153,10 +2329,10 @@ Zimmer
 Zombie Nation
 Zxz
 µ-Ziq
+회사AUTO
 サイバー '98
 ブギーアイドル
 ロフト tapes
 死夢VANITY
 河辺千恵子
 音 LIGHT システム
-회사AUTO
