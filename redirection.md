@@ -225,6 +225,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/scud**](https://davidblue.wtf/scud), Redirects to the WTF vocabulary page for "scud."
 - [**/services**](https://davidblue.wtf/services), Redirects to my "Services I Offer" page.
 - [**/sessionize**](https://davidblue.wtf/sessionize), Redirects to my speaker profile on Sessionize.
+- [**/shazam**](https://davidblue.wtf/shazam), Redirects to the Apple Music share URL for my automatically-generated "My Shazam List" playlist.
 - [**/shellfishkeys**](https://davidblue.wtf/shellfishkeys), Redirects to the WTF documentation page for Secure ShellFish's Keyboard Shortcuts.
 - [**/shortcutsdrop**](https://davidblue.wtf/shortcutsdrop), Redirects to my Siri Shortcuts Raindrop collection.
 - [**/shortcutsfb**](https://davidblue.wtf/shortcutsfb), Redirects to the (Siri) Shortcuts Facebook Group.
