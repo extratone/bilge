@@ -49,6 +49,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/~**](https://davidblue.wtf/~), Redirects to the plain HTML version of my Tilde.Town directory.
 - [**/~radio**](https://davidblue.wtf/~radio), Redirects to an ITTY URI redirect that opens Tilde Radio's stream in VLC, locally.
 - [**/affect-effect**](https://davidblue.wtf/affect-effect), Redirects to a capture/republished page of "'Affect' vs. 'Effect'" from *Merriam-Webster*.
+- [**/airbag**](https://davidblue.wtf/airbag), *Can I turn your airbag off?*
 - [**/amandabat**](https://davidblue.wtf/amandabat), Redirects to the WTF documentation page for my efforts to log my iPad Pro's battery consumption.
 - [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/amandanotes**](https://davidblue.wtf/amandanotes), Redirects to my in-progress master notes file regarding the *iPad Professional.*
@@ -89,6 +90,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
 - [**/cpsam**](https://davidblue.wtf/cpsam), Redirects to the Apple Maps share link for the Columbia Public Schools main building.
 - [**/craftx**](https://davidblue.wtf/craftx), Redirects to a published Craft note containing the documentation for Craft's URL scheme support.
+- [**/cruze**](https://davidblue.wtf/cruze), Redirects to *HONK* episode 3 - the Chevrolet Cruze review - on YouTube.
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
 - [**/dd**](https://davidblue.wtf/dd), Redirects to the WTF documentation page for my Drafts configurables.
 - [**/dddiscourse**](https://davidblue.wtf/dddiscourse), Redirects to the WTF documentation page for my Raw Discourse Thread ⇨ Drafts Siri Shortcut.
@@ -157,6 +159,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
 - [**/knowledge**](https://davidblue.wtf/knowledge), Redirects to my profile on KnowledgeHub.
+- [**/kudzubat**](https://davidblue.wtf/kudzubat), Redirects to a shared Numbers spreadsheet containing "live", semi-automated battery logging data from my second iPad 13,9.
 - [**/l**](https://davidblue.wtf/l), Redirects to Martha Stewart's most important Tweet.
 - [**/latte**](https://davidblue.wtf/latte), Redirects to the WTF documentation page for my GitHub Repository Template.
 - [**/ledger**](https://davidblue.wtf/ledger), Redirects to the WTF documentation page for my Siri Shortcuts Ledger.
