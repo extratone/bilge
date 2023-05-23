@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `05132023-021201`
+Updated `05232023-171830`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -143,6 +143,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/iflauncher**](https://davidblue.wtf/iflauncher), Redirects to the WTF documentation page for my Infinite Launcher Siri Shortcut.
 - [**/ifroadmap**](https://davidblue.wtf/ifroadmap), Redirects to the WTF documentation page (and markdown index) for the Infinite Flight API Roadmap.
 - [**/ifwt23**](https://davidblue.wtf/ifwt23), Redirects to my Craft index for all documentation regarding Infinite Flight World Tour 2023.
+- [**/imasto**](https://davidblue.wtf/imasto), Redirects to "The State of Mastodon iOS Apps" on *The Psalms*.
 - [**/information**](https://davidblue.wtf/information), Redirects to my subscriber friend invite code URL for *The Information*. (30 days free.)
 - [**/instance**](https://davidblue.wtf/instance), Redirects to a pre-filled instances.social search for English-speaking servers with greater than 2000 members that do not allow links to illegal content or pornographic content without proper tagging.
 - [**/ipadpros**](https://davidblue.wtf/ipadpros), Redirects to the WTF index page for Tim Chaten's *iPad Pros* Podcast.
