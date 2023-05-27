@@ -4,6 +4,8 @@
 
 ## The genius of one Chuck continues to perform to the refreshing benefit of scholars in American culture.
 
+<!--more-->
+
 <audio controls>
   <source src="https://github.com/extratone/bilge/raw/main/audio/TTS/chuck.m4a">
 </audio>
@@ -88,6 +90,6 @@ I’ve never before written a book review of any sort – nor am I defensibly qu
 
 Reading Chuck Klosterman is going to be perturbing, but true sincerity is almost always uncomfortable. Comprehensively, his nonfiction represents perhaps the most important possible behavior to encourage from both the critic and his readership because it incubates and exudes **sincere curiosity** and a **genuine interest in learning to listen**. From the perspective of quantified societal contribution, I’d argue that Klosterman’s craft is a significantly more honorable and worthwhile pursuit than greater academic literature in its unique and entertaining treatment of subjects the establishment tends to pulverize into minutia. Unless he’s broke and/or bookish, buy *X* as a gift for your Dad and at least give it a try when he’s done. If nothing else, *at least* **read the Taylor Swift interview**, okay? If he doesn’t enjoy the book, I’m always available if one or both of you need to blow off some steam: **give me a call at (573) 823-4380**. (*Normal text messaging / talktime rates will apply*.)
 
-🗎 [**PRINT/PDF**](https://eileenlong-my.sharepoint.com/:b:/g/personal/david_eileenlonglcsw_com/ERGpy2Rlfv1CsXzXcmUAZRsBTSeSTE2Q7nj3muE-9J0Szw)
+#media #spectacle
 
-#media
+<!--comment-->
