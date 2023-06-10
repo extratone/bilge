@@ -202,6 +202,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/plurk**](https://davidblue.wtf/plurk), Redirects to my profile page on Plurk.
 - [**/pocketcasts**](https://davidblue.wtf/pocketcasts), Redirects to my most current Pocket Casts lists export.
 - [**/podcast**](https://davidblue.wtf/podcast), Redirects to *End Users* pods.link page.
+- [**/polywork**](https://davidblue.wtf/polywork), Redirects to my profile on Polywork.p
 - [**/prairiehome**](https://davidblue.wtf/prairiehome), Redirects to a Google Photos album filled with a handful of very mediocre photographs I captured at a particularly return-to-origin Nearby Evening I had years ago.
 - [**/preview**](https://davidblue.wtf/preview), Redirects to the WTF documentation page for my primary HTML preview template for Drafts.
 - [**/pro**](https://davidblue.wtf/pro), *Also* redirects to my *iPad Professional* Shared iCloud Photos Album.
@@ -270,6 +271,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/tripod**](https://davidblue.wtf/tripod), Redirects to some brief documentation I attempted to explain the hellish contraption I use to suspend my phone in front of my face when keyboarding.
 - [**/truck**](https://davidblue.wtf/truck), Redirects to my *Gran Turismo 6* gameplay demo video.
 - [**/tuskerx**](https://davidblue.wtf/tuskerx), Redirects to the WTF documentation page for my email thread with Tusker Developer shadowfacts on the future of X-Callback-URL.
+- [**/tweetdeck2023**](https://davidblue.wtf/tweetdeck2023), Redirects to the WTF documentation page for my video on Reverting to and Installing Legacy TweetDeck as a PWA in 2023.
 - [**/tweetdecklists**](https://davidblue.wtf/tweetdecklists), Redirects to the WTF documentation for my "Backup/Export Twitter Lists with TweetDeck" guide.
 - [**/twitter**](https://davidblue.wtf/twitter), Redirects to my Twitter profile.
 - [**/ulysseshelp**](https://davidblue.wtf/ulysseshelp), Redirects to the WTF documentation page concatenating all the default, in-app Ulysses help notes.
