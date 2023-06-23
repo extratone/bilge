@@ -77,6 +77,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/blue**](https://davidblue.wtf/blue), Redirects to the *Colornames* web page for *David Blue* (#00006b.)
 - [**/bookmarks**](https://davidblue.wtf/bookmarks), Redirects to the WTF documentation page for my various Mastodon bookmarking efforts.
 - [**/books**](https://davidblue.wtf/books), Redirects to the "artist page" for "David Blue" on the Apple Books store.
+- [**/brew**](https://davidblue.wtf/brew), Redirects to a custom *Add to Mailbrew* URL for *The Psalms* primary feed.
 - [**/brewindex**](https://davidblue.wtf/brewindex), Redirects to the WTF documentation page for the Top Brew Packages Index.
 - [**/call**](https://davidblue.wtf/call), Redirects to an itty.bitty link that serves a `tel:` URL to my personal phone number.
 - [**/capture**](https://davidblue.wtf/capture), Redirects to the WTF documentation page for my Comprehensive Capture Shortcut.
@@ -227,7 +228,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/screw**](https://davidblue.wtf/screw), Redirects to the WTF documentation for my DJ Screw Discography Raindrop Collection - an Index of the DJ Screw Discography Collection on Archive.org.
 - [**/screwball**](https://davidblue.wtf/screwball), Redirects to the WTF vocabulary page for *screwball*.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
-- [**/scud**](https://davidblue.wtf/scud), Redirects to the WTF vocabulary page for "scud."
+- [**/scud**](https://davidblue.wtf/scud), Redirects to the WTF vocabulary page for "scud.
 - [**/services**](https://davidblue.wtf/services), Redirects to my "Services I Offer" page.
 - [**/sessionize**](https://davidblue.wtf/sessionize), Redirects to my speaker profile on Sessionize.
 - [**/shazam**](https://davidblue.wtf/shazam), Redirects to the Apple Music share URL for my automatically-generated "My Shazam List" playlist.
@@ -235,6 +236,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/shortcutsdrop**](https://davidblue.wtf/shortcutsdrop), Redirects to my Siri Shortcuts Raindrop collection.
 - [**/shortcutsfb**](https://davidblue.wtf/shortcutsfb), Redirects to the (Siri) Shortcuts Facebook Group.
 - [**/shortcutsguide**](https://davidblue.wtf/shortcutsguide), Redirects to the official Shortcuts User Guide published by Apple.
+- [**/shrek**](https://davidblue.wtf/shrek), Redirects to Roger Ebert's review of the original *Shrek* film.
 - [**/signal**](https://davidblue.wtf/signal), Redirects to Extratone's Signal group invite code.
 - [**/skype**](https://davidblue.wtf/skype), Redirects to David Blue's personal *Skype* invite link. Yes, Skype, in 2022.
 - [**/sms**](https://davidblue.wtf/sms), Redirects to an itty.bitty link that serves a `sms:` URL to my personal phone number.
@@ -261,6 +263,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/telegram**](https://davidblue.wtf/telegram), Redirects to the *Extratone* Telegram channel.
 - [**/telegraph**](https://davidblue.wtf/telegraph), Redirects to the WTF index page for my posts on Telegra.ph.
 - [**/terminology**](https://davidblue.wtf/terminology), Redirects to the WTF copy of my Terminology Dictionary App Store Review.
+- [**/terms**](https://davidblue.wtf/terms), Redirects to a GitHub Gist containing the Privacy Policy and Working Terms of Service for All Extratone Media Properties.
 - [**/thingschrome**](https://davidblue.wtf/thingschrome), Redirects to the WTF documentation page for my Things Chrome Theme.
 - [**/thingsnoir**](https://davidblue.wtf/thingsnoir), Redirects to the installation URL for my Things Dark Noir theme.
 - [**/thingsupdate**](https://davidblue.wtf/thingsupdate), Redirects to the WTF documentation page for my Things Update Drafts action.
