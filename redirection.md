@@ -154,6 +154,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/ivory**](https://davidblue.wtf/ivory), Redirects to an itty.bitty.site bounceoff that opens a very special Post in Tapbots' upcoming Mastodon client, Ivory.
 - [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
+- [**/jimmy**](https://davidblue.wtf/jimmy), Redirects to my iconic first Tweet.
 - [**/jortsnum**](https://davidblue.wtf/jortsnum), Redirects to the shared Numbers spreadsheet containing my ongoing cellular data usage log.
 - [**/juke**](https://davidblue.wtf/juke), Redirects to the fifth episode of my old car show, *Honk*, regarding the Nissan Juke NISMO.
 - [**/k2keys**](https://davidblue.wtf/k2keys), Redirects to the WTF documentation page for the Keychron K2's key combinations.
