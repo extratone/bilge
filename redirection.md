@@ -280,6 +280,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/twitter**](https://davidblue.wtf/twitter), Redirects to my Twitter profile.
 - [**/ulysseshelp**](https://davidblue.wtf/ulysseshelp), Redirects to the WTF documentation page concatenating all the default, in-app Ulysses help notes.
 - [**/ulyssesx**](https://davidblue.wtf/ulyssesx), Redirects to Ulysses' X-Callback Support page, revived!
+- [**/unsolicited**](https://davidblue.wtf/unsolicited), Redirects to the official webpage for Apple, Inc.'s "Unsolicited Idea Submission Policy."
 - [**/usage**](https://davidblue.wtf/usage), Redirects to the WTF documentation page for my ongoing cellular data usage log.
 - [**/userguide**](https://davidblue.wtf/userguide), Redirects to Apple's official "iPhone User Guide" in the Apple Books store.
 - [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
