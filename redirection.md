@@ -217,6 +217,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/reminderstemplates**](https://davidblue.wtf/reminderstemplates), Redirects to the WTF documentation/index page for my Apple Reminders Templates.
 - [**/rhbest**](https://davidblue.wtf/rhbest), Redirects to the WTF Documentation Page for my "Best of RoutineHub" (Work in Progress) list.
 - [**/rhshare**](https://davidblue.wtf/rhshare), Redirects to an immortal Discord invite link to the RoutineHub server's #share-a-shortcut channel.
+- [**/rideology**](https://davidblue.wtf/rideology), Redirects to my profile page on Rideology.
 - [**/ringtones**](https://davidblue.wtf/ringtones), Redirects to a page with all of my custom iPhone/iOS ringtones (embeds and links to download the ringtone files.)
 - [**/routinehub**](https://davidblue.wtf/routinehub), Redirects to the WTF documentation page for my RoutineHub Library.
 - [**/rowdyhitler**](https://davidblue.wtf/rowdyhitler), Redirects to the TikTok re-upload of my classic Joke Video, *Flight of The Joke Numbers*.
