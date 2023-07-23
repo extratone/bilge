@@ -79,6 +79,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/books**](https://davidblue.wtf/books), Redirects to the "artist page" for "David Blue" on the Apple Books store.
 - [**/brew**](https://davidblue.wtf/brew), Redirects to a custom *Add to Mailbrew* URL for *The Psalms* primary feed.
 - [**/brewindex**](https://davidblue.wtf/brewindex), Redirects to the WTF documentation page for the Top Brew Packages Index.
+- [**/bsky**](https://davidblue.wtf/bsky), Redirects to my profile (@extratone) on bsky.social.
 - [**/call**](https://davidblue.wtf/call), Redirects to an itty.bitty link that serves a `tel:` URL to my personal phone number.
 - [**/capture**](https://davidblue.wtf/capture), Redirects to the WTF documentation page for my Comprehensive Capture Shortcut.
 - [**/casenet**](https://davidblue.wtf/casenet), Look me up on Case.net!
