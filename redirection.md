@@ -135,6 +135,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/greyhound**](https://davidblue.wtf/greyhound), Redirects to the WTF documentation page for my Greyhound Drafts Theme.
 - [**/gt7**](https://davidblue.wtf/gt7), Redirects to a mirrored Apple Music playlist I created of the official Gran Turismo 7 playlist on Spotify.
 - [**/gt7spotify**](https://davidblue.wtf/gt7spotify), Redirects to the official Gran Turismo 7 playlist on Spotify.
+- [**/guide**](https://davidblue.wtf/guide), Redirects to my Guide profile on Google Guides.
 - [**/highlights**](https://davidblue.wtf/highlights), Redirects to the markdown file containing the sum of my annotation via Finn Voorhees' [Highlights for iOS](https://testflight.apple.com/join/OONmU0Z2) (Beta.)
 - [**/hire**](https://davidblue.wtf/hire), Redirects to my “General Consultation” Fantastical Openings page.
 - [**/homebrew**](https://davidblue.wtf/homebrew), Redirects to the WTF documentation page for my preferred Homebrew packages list on macOS installations.
