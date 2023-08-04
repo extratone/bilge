@@ -143,6 +143,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/honking**](https://davidblue.wtf/honking), Redirects to Extratone's Honking playlist.
 - [**/htmlcomment**](https://davidblue.wtf/htmlcomment), Redirects to the WTF Documentation page for my HTML Comment Drafts Action.
 - [**/hypnagogic**](https://davidblue.wtf/hypnagogic), Redirects to the WTF vocabulary page for *hypnagogic*.
+- [**/idiot**](https://davidblue.wtf/idiot), Redirects to "Throwback: Elon Musk With First 2008 Tesla Roadster" on the Jay Leno's Garage YouTube Channel.
 - [**/iflauncher**](https://davidblue.wtf/iflauncher), Redirects to the WTF documentation page for my Infinite Launcher Siri Shortcut.
 - [**/ifroadmap**](https://davidblue.wtf/ifroadmap), Redirects to the WTF documentation page (and markdown index) for the Infinite Flight API Roadmap.
 - [**/ifwt23**](https://davidblue.wtf/ifwt23), Redirects to my Craft index for all documentation regarding Infinite Flight World Tour 2023.
@@ -284,6 +285,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/ulysseshelp**](https://davidblue.wtf/ulysseshelp), Redirects to the WTF documentation page concatenating all the default, in-app Ulysses help notes.
 - [**/ulyssesx**](https://davidblue.wtf/ulyssesx), Redirects to Ulysses' X-Callback Support page, revived!
 - [**/unsolicited**](https://davidblue.wtf/unsolicited), Redirects to the official webpage for Apple, Inc.'s "Unsolicited Idea Submission Policy."
+- [**/up**](https://davidblue.wtf/up), Redirects to a standard Extranet (up) Status utility for most of my web properties.
 - [**/usage**](https://davidblue.wtf/usage), Redirects to the WTF documentation page for my ongoing cellular data usage log.
 - [**/userguide**](https://davidblue.wtf/userguide), Redirects to Apple's official "iPhone User Guide" in the Apple Books store.
 - [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
