@@ -1,5 +1,5 @@
 # MusicHarbor Artist List
-Updated '051352023-192155'
+Updated '082222023-132041'
 
 ((( O )))
 (G)I-DLE
@@ -731,7 +731,6 @@ Flume
 FM-84
 Fo'tay
 Foamek
-Foo Fighters
 For Those I Love
 Ford & Lopatin
 Foreign Beggars
