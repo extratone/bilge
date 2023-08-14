@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08102023-152412`
+Updated `08142023-141016`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -179,6 +179,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/mastodon**](https://davidblue.wtf/mastodon), Redirects to my profile on mastodon.social.
 - [**/mastodonbookmarks**](https://davidblue.wtf/mastodonbookmarks), Redirects to a CSV file of all my mastodon.social bookmarks.
 - [**/mastodonlists**](https://davidblue.wtf/mastodonlists), Redirects to a CSV file of all my mastodon.social lists.
+- [**/mastodonpostreminder**](https://davidblue.wtf/mastodonpostreminder), Redirects to the WTF documentation page for my Mastodon Post Reminder Siri Shortcut.
 - [**/matrix**](https://davidblue.wtf/matrix), Redirects to a matrix.to preview link of my main Matrix profile on matrix.org.
 - [**/mdtest**](https://davidblue.wtf/mdtest), Redirects to the WTF documentation page for my personal Markdown test document.
 - [**/mdx**](https://davidblue.wtf/mdx), Redirects to the WTF snippets page of the MDX Specification.
