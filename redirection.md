@@ -77,6 +77,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/blue**](https://davidblue.wtf/blue), Redirects to the *Colornames* web page for *David Blue* (#00006b.)
 - [**/bookmarks**](https://davidblue.wtf/bookmarks), Redirects to the WTF documentation page for my various Mastodon bookmarking efforts.
 - [**/books**](https://davidblue.wtf/books), Redirects to the "artist page" for "David Blue" on the Apple Books store.
+- [**/brettreviews**](https://davidblue.wtf/brettreviews), An Index of Brett Terpstra Posts tagged "appreview."
 - [**/brew**](https://davidblue.wtf/brew), Redirects to a custom *Add to Mailbrew* URL for *The Psalms* primary feed.
 - [**/brewindex**](https://davidblue.wtf/brewindex), Redirects to the WTF documentation page for the Top Brew Packages Index.
 - [**/bsky**](https://davidblue.wtf/bsky), Redirects to my profile (@extratone) on bsky.social.
@@ -156,6 +157,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/itch**](https://davidblue.wtf/itch), Redirects to the page I have on itch.io for no justifiable reason.
 - [**/ivory**](https://davidblue.wtf/ivory), Redirects to an itty.bitty.site bounceoff that opens a very special Post in Tapbots' upcoming Mastodon client, Ivory.
 - [**/iwallpapers**](https://davidblue.wtf/iwallpapers), Redirects to my shared Wallpapers iCloud Photos album.
+- [**/jab**](https://davidblue.wtf/jab), Redirects to Jab50Yen's Linktree.
 - [**/jia**](https://davidblue.wtf/jia), Redirects to Jia Tolentino's author feed on *The New Yorker*'s website.
 - [**/jimmy**](https://davidblue.wtf/jimmy), Redirects to my iconic first Tweet.
 - [**/jortsnum**](https://davidblue.wtf/jortsnum), Redirects to the shared Numbers spreadsheet containing my ongoing cellular data usage log.
@@ -171,6 +173,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/ledger**](https://davidblue.wtf/ledger), Redirects to the WTF documentation page for my Siri Shortcuts Ledger.
 - [**/legacyredirects**](https://davidblue.wtf/legacyredirects), Redirects to an archive of the original *Extranet Redirection* document - the inspiration for this thing!
 - [**/leverage**](https://davidblue.wtf/leverage), Redirects to a very funny internet video I posted ~~on the Twitter website~~ (actually changed it to the same video posted on TikTok for now.)
+- [**/lexilist**](https://davidblue.wtf/lexilist), Redirects to my girlfriend's (who is a third grade teacher) school supply Amazon wishlist.
 - [**/live**](https://davidblue.wtf/live), A dynamic redirect I use whenever I go live on YouTube/Twitter/Twitch, etc.
 - [**/lund**](https://davidblue.wtf/lund), Redirects to my page documenting a student pilot's (well-handled) emergency landing that resulted in a very hilarious photograph.
 - [**/mac6k**](https://davidblue.wtf/mac6k), Redirects to my mirror of *512 Pixels*' "Every Default macOS Wallpaper – in Glorious 6K Resolution."
