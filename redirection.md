@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08142023-141016`
+Updated `09022023-172926`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -191,6 +191,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/microblog**](https://davidblue.wtf/microblog), Redirects to the WTF documentation page for my micro.blog trial experiment.
 - [**/microdrop**](https://davidblue.wtf/microdrop), Redirects to my Micro.Blog Raindrop collection.
 - [**/middlenames**](https://davidblue.wtf/middlenames), Redirects to the WTF aggregation/documentation page for my ancient Middle Name Candidates list.
+- [**/miffed**](https://davidblue.wtf/miffed), Redirects to the WTF Vocabulary entry for *miffed*.
 - [**/moment**](https://davidblue.wtf/moment), David Blue.
 - [**/monsanto**](https://davidblue.wtf/monsanto), Redirects to my legacy Monsanto Merch Redbubble product page.
 - [**/musicapps**](https://davidblue.wtf/musicapps), Redirects to "iPhone and Music - For Artists, Curators, and Enthusiasts" on *The Psalms*.
