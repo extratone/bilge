@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09022023-172926`
+Updated `09232023-104320`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -195,6 +195,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/miffed**](https://davidblue.wtf/miffed), Redirects to the WTF Vocabulary entry for *miffed*.
 - [**/moment**](https://davidblue.wtf/moment), David Blue.
 - [**/monsanto**](https://davidblue.wtf/monsanto), Redirects to my legacy Monsanto Merch Redbubble product page.
+- [**/murano**](https://davidblue.wtf/murano), Redirects to the WTF documentation page for "Nissan Murano CrossCabriolet - The Ego Divide."
 - [**/musicapps**](https://davidblue.wtf/musicapps), Redirects to "iPhone and Music - For Artists, Curators, and Enthusiasts" on *The Psalms*.
 - [**/nascar**](https://davidblue.wtf/nascar), Redirects to "Gender, NASCAR, and Sentient Appliances," newly re-published on Whyp.
 - [**/neeva**](https://davidblue.wtf/neeva), Redirects to the public URL for my *Reading* Neeva Space.
@@ -220,6 +221,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/propagation**](https://davidblue.wtf/propagation), Redirects to the WTF index page for my *propagation* Apple Music Playlist.
 - [**/pun**](https://davidblue.wtf/pun), Redirects to a Facebook Life Event page documenting the authorship of my very first pun.
 - [**/pungle**](https://davidblue.wtf/pungle), Redirects to the WTF vocabulary page for *pungle*.
+- [**/quit**](https://davidblue.wtf/quit), Redirects to "I Can't Quit You, Baby" - *This American Life* Episode 806.
 - [**/raindrop**](https://davidblue.wtf/raindrop), Redirects to my main Raindrop profile.
 - [**/reading**](https://davidblue.wtf/reading), Redirects to my Reading List Raindrop collection.
 - [**/redirection**](https://davidblue.wtf/redirection), Redirects to this document!
