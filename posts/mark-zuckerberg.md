@@ -4,6 +4,10 @@
 
 ## The monumental amount of unsubstantiated gossip and conjecture enabled every day by Facebook is lethal to the human intellect. Can fire be fought with fire?
 
+<!--more-->
+
+<iframe src="https://whyp.it/tracks/embed?id=126463&token=dT7Bl" width="100%" height="200" scrolling="no" frameborder="0"></iframe>
+
 Today, after positing on whether or not a pastry was in fact the namesake of the battleship *Bismarck*, I was told by its owner - a local woman of a far-from-excusable age - that "[I] should be on that big bang show." Upon such fuckery, I looked her in her eyes and informed her that she'd just changed my plans for the night: I was now going to go home, wrap my lips around the barrel of my Beretta, and blow my brains out. I should've known better than to so jest with a boomer immediately after receiving such glaring indicators of minimal intellectual function, but I fell for the hope - as I often do, to no avail - that such a jarring reaction would encourage reflection on her foul, tragically misled sentiments regarding the general state of youth, and perhaps even spare a peer or two from future tribulation.
 
 Instead, she called the police.
@@ -72,7 +76,7 @@ Just to be clear, **he is not** ***The Antikhristos***.
 He'd better not be, anyway.
 I'd be absolutely Livid with Lucifer if his choice of a figurehead for his Big Plan was such a Fucking dork.
 
-I mean... if Fuck wanted to spend his time crafting 6000-word essays, why the Fuck didn't he just build a Fucking CMS back in his Jesse Eisenberg era instead of *the actual* weekly-updated tower of digital Babylon? Surely, Satan would know better than to waste resources and pulverize creativity by ordering his Demonic Dev team to release regular builds for build's sake rather than on a per-need basis, but that'd be because The Tempter is an authority on *incentive* s as thoroughly as Fuck isn't.
+I mean... if Fuck wanted to spend his time crafting 6000-word essays, why the Fuck didn't he just build a Fucking CMS back in his Jesse Eisenberg era instead of *the actual* weekly-updated tower of digital Babylon? Surely, Satan would know better than to waste resources and pulverize creativity by ordering his Demonic Dev team to release regular builds for build's sake rather than on a per-need basis, but that'd be because The Tempter is an authority on *incentive* as thoroughly as Fuck isn't.
 
 If you’re equipped with the privilege of literacy, you’ve been reading a lot about Fuckbook’s political consequences, recently. Frankly, *it’s about Fucking time*, but I’m compelled to emphasize that the most significant motor driving the politik is fueled by the eldest, fossilized portions of our thought meat. According to Manjoo, "the News Feed team’s ultimate mission is to figure out what users want," dipping in Facebook's ocean of action data, searching for a soul.
 
@@ -120,4 +124,6 @@ Fuck is too powerful to be exempted from responsibility for what Fuckbook's done
 
 *I Refuse to Die Clicking*
 
-#media
+#media #spectacle
+
+<!--comment-->
