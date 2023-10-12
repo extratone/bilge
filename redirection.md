@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09232023-104320`
+Updated `10122023-125813`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -257,6 +257,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/socialdrop**](https://davidblue.wtf/socialdrop), Redirects to my Social Directory Raindrop collection.
 - [**/sophiesell**](https://davidblue.wtf/sophiesell), Redirects to my Facebook Marketplace listing for my Microsoft Surface Laptop 2.
 - [**/sourcetool**](https://davidblue.wtf/sourcetool), Redirects to the WTF documentation page the ongoing development of the Batch Source Tool Custom Siri Shortcut.
+- [**/spotify**](https://davidblue.wtf/spotify), Redirects to my personal profile on Spotify.
 - [**/springbepia**](https://davidblue.wtf/springbepia), Redirects to the local installation link for my Bepia Theme for Spring for Twitter.
 - [**/springeternal**](https://davidblue.wtf/springeternal), Redirects to the local installation link for my Windows Eternal Theme for Spring for Twitter.
 - [**/springshaft**](https://davidblue.wtf/springshaft), Redirects to the local installation link for my Mineshaft Gold theme for Spring for Twitter.
