@@ -4,6 +4,8 @@
 
 ## Gargantuan, ridiculously avoidable misses in Little Blue’s Blue.
 
+<!--more-->
+
 <audio controls>
   <source src="https://davidblue.wtf/audio/TwitterBlueTTS.mp3">
 </audio>
@@ -164,7 +166,7 @@ https://open.spotify.com/episode/0ImyC2Twm5qyx9lxmcKmkP
 
 The episode of *End User* embedded above is one of the only podcast episodes I’ve ever made which I actually find *too painful* to listen back to[^2], but I still think it’s valuable. There’s a specific bit of the conversation between [@alisonbuki](https://twitter.com/alisonbuki) and I in which the term “Poweruser” is actually thrown around regarding my own use of Twitter Lists, Tweetbot, and a few other *Hax* to consume content *deliberately*. I think I failed somewhere in my portrayal of this curation and miscommunicated the nature of what I was trying to get at by “making use of the tools available to you.” Regarding the actual manhours involved in the configuration I was trying to evangelize, I think I’ve spent more time trying to describe the effort than I have actually configuring my own content intake. 
 
-Long before I was [follow-limited](https://bit.ly/dbfollow) in 2017, I lived entirely in my [Twitter Lists]()https://twitter.com/NeoYokel/lists), the largest of which I built up “organically” over time, by adding appropriate accounts one by one as I came across them. Thanks to Tweetbot, my equivalent of the native apps’s Home timeline is a private List of ~200 accounts whose users represent the actual entirety of my adult social life, past to present. Then, there’s [The New](https://twitter.com/NeoYokel/lists/the-new), which - I must admit - has grown beyond its original scope and sortof become my follow list, with enough exceptions that I consider it worthwhile to keep public. Then, there’s the newest - [my Meta-Media List](https://twitter.com/i/lists/768458273141907456) - and the very oldest: my dear, weathered [Rolodex of Automotive Twitter](https://twitter.com/i/lists/43457439). I keep Tweetbot in my dock and the native app on my device just for notifications, Spaces, and now Communities. That’s it! Yet, using this configuration, I *never* see content that seriously disturbs, shames, triggers, or otherwise upsets me beyond reason or expectation[^5], but am regularly exposed to a relatively diverse palette of perspectives, and just generally find my consumption/engagement time on the service meaningfully spent. 
+Long before I was [follow-limited](https://bit.ly/dbfollow) in 2017, I lived entirely in my [Twitter Lists](https://twitter.com/NeoYokel/lists), the largest of which I built up “organically” over time, by adding appropriate accounts one by one as I came across them. Thanks to Tweetbot, my equivalent of the native apps’s Home timeline is a private List of ~200 accounts whose users represent the actual entirety of my adult social life, past to present. Then, there’s [The New](https://twitter.com/NeoYokel/lists/the-new), which - I must admit - has grown beyond its original scope and sortof become my follow list, with enough exceptions that I consider it worthwhile to keep public. Then, there’s the newest - [my Meta-Media List](https://twitter.com/i/lists/768458273141907456) - and the very oldest: my dear, weathered [Rolodex of Automotive Twitter](https://twitter.com/i/lists/43457439). I keep Tweetbot in my dock and the native app on my device just for notifications, Spaces, and now Communities. That’s it! Yet, using this configuration, I *never* see content that seriously disturbs, shames, triggers, or otherwise upsets me beyond reason or expectation[^5], but am regularly exposed to a relatively diverse palette of perspectives, and just generally find my consumption/engagement time on the service meaningfully spent. 
 
 The particular amalgamation of truly half-assed user experience features offered in Twitter Blue lend toward a narrative about this company which we collectively have continued to fall for literally *dozens* of times - often in immediate succession - throughout the fewer years of its history: that it *finally* has a morsel of what *might just become* a cohesive vision. Clearly, I am as susceptible to this as anyone considering how quickly I jumped to celebrating the fact that *finally*, Twitter had seen the humongous value to be imparted to its userbase by simply adding basic configurables like custom navigation and especially refining the essential curatorial tool that is Lists. 
 
@@ -181,5 +183,7 @@ Hey Twitter! If you ever find yourself genuinely interested in selling a subscri
 [5] An obligatory note that I am of the most privileged sort of human there ever has been, or that one can be.
 
 #software #media
+
+<!--comment-->
 
 <iframe style="border: 0; width: 100%; height: 900px;" allowfullscreen frameborder="0" src="https://raindrop.io/davidblue/reading-list-13380406/embed/search=%23TwitterBlue&sort=-created"></iframe>
