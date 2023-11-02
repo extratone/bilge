@@ -1,10 +1,12 @@
-# How to Fuck Text
-
 ![Fuck Banner](https://i.snap.as/zeOD3AWR.png)
 
 ## A guide to digital text fuckery (largely on Apple Platforms) from one of the world’s foremost authorities.
 
 <!--more-->
+
+<audio controls>
+  <source src="https://davidblue.wtf/audio/text-fuck.mp3">
+</audio>
 
 My [project to properly document Bluetooth keyboard support on iPhone](https://uikeycommand.com) has given me a new reverence for accessibility, generally, which might come as a hypocritical statement at the beginning of such a piece, but I *did* [explicitly ask you](https://mastodon.social/@DavidBlue/107589034582138302) if you felt this subject was anti-accessibility before I officially embarked upon writing This Post. I don't consider the answer - a very weak "no" - to be an all-encompassing excuse, whatsoever. If you feel this post's existence has the potential to do real harm, [contact me](https://davidblue.wtf/db.vcf) and I *will* straight up take it down. I dare you. Since I consider myself a genuine authority on Text Fucking, however, I am going to do my best to main unapologetic language when expressing opinions in orbit of the matter. You can trust me, I think.
 
@@ -232,6 +234,8 @@ I originally intended to thoroughly test some of the results found when searchin
 <!--comment-->
 
 ---
+
+#software #spectacle
 
 [1] Whaddya think‽‽‽ [Should I write a book](https://twitter.com/NeoYokel/status/1492589668843634692)‽‽‽
 [2] I say “new” here because of how many users genuinely have never encountered the concept, whatsoever, even going on five years since Workflow was made native.
