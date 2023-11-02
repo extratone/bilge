@@ -6,6 +6,10 @@
 
 <!--more-->
 
+<audio controls>
+  <source src="https://davidblue.wtf/audio/volkswagen-jetta-sportwagen-tdi-review.mp3">
+</audio>
+
 Though I grew up on a farm surrounded by (and loving) diesel equipment, owning a diesel-powered automobile somehow never occurred to me. This is especially puzzling given the overwhelmingly positive experience I was privileged to have with one 2014 Volkswagen Jetta TDI Sportwagen over the past year. It would find me signing up to Facebook groups, using real Fast Boy terms, revisiting long-lost roads of home, and returning to my local community in an extremely intimate ridesharing stint. Throughout it all, the Jetta made me smile much *much* more than I would’ve thought. I found a real love for this relatively simpleton form of transportation that I *should* have seen coming, but did not at all. There is something delightfully indulgent about a manual-equipped diesel wagon. Even [*The New York Times*](https://www.nytimes.com/2013/10/20/automobiles/autoreviews/diesel-wagon-whatll-they-think-of-next.html) knows this:
 
 > Auto writers have long tooted the horn about the benefits of diesel engines, and a bunch of them have also argued that the old-school station wagon is a far more efficient way to haul things around than a bloated high-set S.U.V.
