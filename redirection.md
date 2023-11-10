@@ -68,6 +68,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/autocompletes**](https://davidblue.wtf/autocompletes), Redirects to the reference page for my Drafts Autocompletes.
 - [**/baseball**](https://davidblue.wtf/baseball), Redirects to MySpace Tom’s baseball Twitter List.
 - [**/beams**](https://davidblue.wtf/beams), Temporarily redirects to Issue #248 on *The Psalms*' GitHub Repository until I finally write my post about Beams.
+- [**/bereal**](https://davidblue.wtf/bereal), Redirects to my invitation(?)/profile on BeReal.
 - [**/bezels**](https://davidblue.wtf/bezels), Redirects to the WTF documentation page for my shared Apple Design Resources project.
 - [**/bigboy**](https://davidblue.wtf/bigboy), Redirects to my *Big Boy, Big Phone* shared iCloud Photos album.
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
@@ -249,7 +250,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/shortcutsdrop**](https://davidblue.wtf/shortcutsdrop), Redirects to my Siri Shortcuts Raindrop collection.
 - [**/shortcutsfb**](https://davidblue.wtf/shortcutsfb), Redirects to the (Siri) Shortcuts Facebook Group.
 - [**/shortcutsguide**](https://davidblue.wtf/shortcutsguide), Redirects to the official Shortcuts User Guide published by Apple.
-- [**/shrek**](https://davidblue.wtf/shrek), Redirects to Roger Ebert's review of the original *Shrek* film.
+	- [**/shrek**](https://davidblue.wtf/shrek), Redirects to Roger Ebert's review of the original *Shrek* film.
 - [**/signal**](https://davidblue.wtf/signal), Redirects to Extratone's Signal group invite code.
 - [**/skype**](https://davidblue.wtf/skype), Redirects to David Blue's personal *Skype* invite link. Yes, Skype, in 2022.
 - [**/sms**](https://davidblue.wtf/sms), Redirects to an itty.bitty link that serves a `sms:` URL to my personal phone number.
