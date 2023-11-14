@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10122023-125813`
+Updated `11142023-091043`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -48,6 +48,8 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 
 - [**/~**](https://davidblue.wtf/~), Redirects to the plain HTML version of my Tilde.Town directory.
 - [**/~radio**](https://davidblue.wtf/~radio), Redirects to an ITTY URI redirect that opens Tilde Radio's stream in VLC, locally.
+- [**/3025**](https://davidblue.wtf/3025), Redirects to my gas station's page on Gas Buddy.
+- [**/3025reviews**](https://davidblue.wtf/3025reviews), Redirects to the reviews section of my gas station's GasBuddy page.
 - [**/affect-effect**](https://davidblue.wtf/affect-effect), Redirects to a capture/republished page of "'Affect' vs. 'Effect'" from *Merriam-Webster*.
 - [**/airbag**](https://davidblue.wtf/airbag), *Can I turn your airbag off?*
 - [**/amandabat**](https://davidblue.wtf/amandabat), Redirects to the WTF documentation page for my efforts to log my iPad Pro's battery consumption.
@@ -250,7 +252,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/shortcutsdrop**](https://davidblue.wtf/shortcutsdrop), Redirects to my Siri Shortcuts Raindrop collection.
 - [**/shortcutsfb**](https://davidblue.wtf/shortcutsfb), Redirects to the (Siri) Shortcuts Facebook Group.
 - [**/shortcutsguide**](https://davidblue.wtf/shortcutsguide), Redirects to the official Shortcuts User Guide published by Apple.
-	- [**/shrek**](https://davidblue.wtf/shrek), Redirects to Roger Ebert's review of the original *Shrek* film.
+- [**/shrek**](https://davidblue.wtf/shrek), Redirects to Roger Ebert's review of the original *Shrek* film.
 - [**/signal**](https://davidblue.wtf/signal), Redirects to Extratone's Signal group invite code.
 - [**/skype**](https://davidblue.wtf/skype), Redirects to David Blue's personal *Skype* invite link. Yes, Skype, in 2022.
 - [**/sms**](https://davidblue.wtf/sms), Redirects to an itty.bitty link that serves a `sms:` URL to my personal phone number.
