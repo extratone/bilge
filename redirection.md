@@ -117,6 +117,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/draftsdrop**](https://davidblue.wtf/draftsdrop), Redirects to my Drafts-specific Raindrop collection.
 - [**/draws**](https://davidblue.wtf/draws), Redirects to the main WTF page for the *David Blue Draws* Collection.
 - [**/dropthings**](https://davidblue.wtf/dropthings), Redirects to my Things-specific Raindrop collection.
+- [**/duck**](https://davidblue.wtf/duck), Redirects to d u c k.
 - [**/eat**](https://davidblue.wtf/eat), Redirects to the Studio Eat Raindrop Collection.
 - [**/editorial**](https://davidblue.wtf/editorial), Redirects to my main page for Editorial for iOS.
 - [**/editorialdrop**](https://davidblue.wtf/editorialdrop), Redirects to my Editorial-specific Raindrop collection.
@@ -272,6 +273,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/sswiki**](https://davidblue.wtf/sswiki), Redirects to an index of my writing on Social Web Software and Services in *The Psalms* GitHub Wiki.
 - [**/stern**](https://davidblue.wtf/stern), Redirects to *The Wall Street Journal*'s author page for Joanna Stern, Senior Personal Technology Columnist.
 - [**/stripe**](https://davidblue.wtf/stripe), Redirects to a Stripe pay link to tip me directly.
+- [**/superlocal**](https://davidblue.wtf/superlocal), Redirects to my personal Superlocal profile.
 - [**/swang**](https://davidblue.wtf/swang), Redirects to the WTF vocabulary entry I authored for "swang."
 - [**/tabs**](https://davidblue.wtf/tabs),  Redirects to an invite to join my *Reading* Shared Safari Tab Group.
 - [**/taiokeys**](https://davidblue.wtf/taiokeys), Redirects to a shared Numbers spreadsheet on iCloud documenting keyboard shortcuts within the iOS/iPadOS/macOS, Markdown-based writing application, Taio.
