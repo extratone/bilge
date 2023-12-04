@@ -52,7 +52,9 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/3025reviews**](https://davidblue.wtf/3025reviews), Redirects to the reviews section of my gas station's GasBuddy page.
 - [**/affect-effect**](https://davidblue.wtf/affect-effect), Redirects to a capture/republished page of "'Affect' vs. 'Effect'" from *Merriam-Webster*.
 - [**/airbag**](https://davidblue.wtf/airbag), *Can I turn your airbag off?*
+- [**/alltrails**](https://davidblue.wtf/alltrails), Redirects to my profile on AllTrails.
 - [**/amandabat**](https://davidblue.wtf/amandabat), Redirects to the WTF documentation page for my efforts to log my iPad Pro's battery consumption.
+- [**/am23**](https://davidblue.wtf/am23), Redirects to the Apple Music share url of my Replay 2023 playlist.
 - [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/amandanotes**](https://davidblue.wtf/amandanotes), Redirects to my in-progress master notes file regarding the *iPad Professional.*
 - [**/amandanum**](https://davidblue.wtf/amandanum), Redirects to the live-updated shared Numbers spreadsheet logging my iPad Pro's battery consumption.
