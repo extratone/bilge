@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `11142023-091043`
+Updated `12262023-050147`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -93,6 +93,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/church**](https://davidblue.wtf/church), Redirects to the WTF documentation page for my *If you scared, go to church* Apple Music playlist.
 - [**/codenames**](https://davidblue.wtf/codenames), Redirects to the WTF index page of iPhone OS/iOS Development Codenames.
 - [**/columbiamobot**](https://davidblue.wtf/columbiamobot), Redirects to the WTF documentation page for the Columbia MO Telegram Bot.
+- [**/coolpix**](https://davidblue.wtf/coolpix), Redirects to my collected WTF documentation index for the Nikon COOLPIX E990 digicam.
 - [**/command**](https://davidblue.wtf/command), Redirects to a ... page... in my Notion workspace containing my synced annotation via Command Browser.
 - [**/community**](https://davidblue.wtf/community), Redirects to the WTF documentation page for my Drafts Twitter Community experiment.
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
