@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `02212024-174729`
+Updated `03012024-203552`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -296,6 +296,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/trent**](https://davidblue.wtf/trent), Redirect to the timecoded YouTube moment we discovered His Name...
 - [**/tripod**](https://davidblue.wtf/tripod), Redirects to some brief documentation I attempted to explain the hellish contraption I use to suspend my phone in front of my face when keyboarding.
 - [**/truck**](https://davidblue.wtf/truck), Redirects to my *Gran Turismo 6* gameplay demo video.
+- [**/tupgeer**](https://davidblue.wtf/tupgeer), Redirects to roobie phawls' "tup geer" on YouTube.
 - [**/tuskerx**](https://davidblue.wtf/tuskerx), Redirects to the WTF documentation page for my email thread with Tusker Developer shadowfacts on the future of X-Callback-URL.
 - [**/tweetdeck2023**](https://davidblue.wtf/tweetdeck2023), Redirects to the WTF documentation page for my video on Reverting to and Installing Legacy TweetDeck as a PWA in 2023.
 - [**/tweetdecklists**](https://davidblue.wtf/tweetdecklists), Redirects to the WTF documentation for my "Backup/Export Twitter Lists with TweetDeck" guide.
