@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `03012024-203552`
+Updated `03192024-161241`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -72,6 +72,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/autocompletes**](https://davidblue.wtf/autocompletes), Redirects to the reference page for my Drafts Autocompletes.
 - [**/baseball**](https://davidblue.wtf/baseball), Redirects to MySpace Tom’s baseball Twitter List.
 - [**/beams**](https://davidblue.wtf/beams), Temporarily redirects to Issue #248 on *The Psalms*' GitHub Repository until I finally write my post about Beams.
+- [**/benedict**](https://davidblue.wtf/benedict), Redirects to a schemed URL to open an favorite route - "Nevermore's Benedict" in Apple Maps.
 - [**/bereal**](https://davidblue.wtf/bereal), Redirects to my invitation(?)/profile on BeReal.
 - [**/bezels**](https://davidblue.wtf/bezels), Redirects to the WTF documentation page for my shared Apple Design Resources project.
 - [**/bigboy**](https://davidblue.wtf/bigboy), Redirects to my *Big Boy, Big Phone* shared iCloud Photos album.
