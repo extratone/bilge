@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `03192024-161241`
+Updated `04192024-154103`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -102,7 +102,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/craftx**](https://davidblue.wtf/craftx), Redirects to a published Craft note containing the documentation for Craft's URL scheme support.
 - [**/cruze**](https://davidblue.wtf/cruze), Redirects to *HONK* episode 3 - the Chevrolet Cruze review - on YouTube.
 - [**/davodtime**](https://davidblue.wtf/davodtime), Redirects to a wee description page for my personal standard time reference format, DavodTime.
-- [**/dd**](https://davidblue.wtf/dd), Redirects to the WTF documentation page for my Drafts configurables.
+- [**/dd**](https://davidblue.wtf/dd), Redirects to a search of the Drafts Action Directory for my personal contributions.
 - [**/dddiscourse**](https://davidblue.wtf/dddiscourse), Redirects to the WTF documentation page for my Raw Discourse Thread ⇨ Drafts Siri Shortcut.
 - [**/ddmastobed**](https://davidblue.wtf/ddmastobed), Redirects to the local installation link for my Mastodon Embed Constructor Drafts Autocomplete.
 - [**/ddmastopost**](https://davidblue.wtf/ddmastopost), Redirects to the WTF documentation page for my Selection to Mastodon Drafts Action.
@@ -314,6 +314,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/vr**](https://davidblue.wtf/vr), Redirects to "Virtual Reality Virginity, Lost" on *The Psalms*.
 - [**/wallpaper**](https://davidblue.wtf/wallpaper), Redirects to my shared Wallpapers iCloud Photos album.
 - [**/warranty**](https://davidblue.wtf/warranty), Redirects to the WTF documentation page for my GTI's warranty.
+- [**/warzone**](https://davidblue.wtf/warzone), Redirects to my invite link in Call of Duty: Warzone Mobile.
 - [**/waterminder**](https://davidblue.wtf/waterminder), Redirects to my fucking shared WaterMinder data.
 - [**/waterminderx**](https://davidblue.wtf/waterminderx), Redirects to the WTF reference page for WaterMinder's X-Callback-URL support.
 - [**/wayback**](https://davidblue.wtf/wayback), Redirects to the WTF Documentation page for the wayback_machine_downloader.
