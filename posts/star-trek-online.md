@@ -4,6 +4,8 @@
 
 ## The ancient IP’s MMO is still Online, albeit with some disappointing discontinuations.
 
+<!--more-->
+
 I entertained fantasies about a *Star Trek* MMO since first experiencing the genre through *Eve Online* and *World of Warcraft* in early adolescence. The idea of commanding my own starship in a universe of other “captains” alongside a hand-picked bridge crew was a beguiling one to myself and many others. This year, the game celebrated its [ten-year anniversary](https://trekmovie.com/2020/01/29/star-trek-online-legacy-celebrate-10-years-of-sto-with-jeri-ryan-and-sonequa-martin-green/) (aligning well with the [continued involuntary beat](https://bilge.world/about) of this blog.) I’m currently in the midst of my annual check-in with STO and thought an exploration of this most-consequential video game of my life’s history would be an appropriate undertaking.
 
 The execution of today’s final, Arc Games-owned and maintained product is a particularly long and interesting one. As [Justin Olivetti chronicled for *Engadget*](https://www.engadget.com/2014-11-22-the-game-archaeologist-perpetuals-star-trek-online.html), the license for *Star Trek Online* was originally [bought](https://www.gamesindustry.biz/articles/perpetual-entertainment-to-develop-and-publish-star-trek-massively-multiplayer-online-game) and developed on by Perpetual Entertainment, which was assaulted by [a lawsuit](https://web.archive.org/web/20150127173934/http:/massively.joystiq.com/2007/12/12/perpetual-plot-thickens-lawsuit-filed) and extensive layoffs in December, 2006. The company was sued by Kohnke Communications for allegedly selling "valuable assets like the Star Trek Online license" to an affiliated entity called P2 entertainment. Clever. A quote from the complaint as [reported by *Ten Ton Hammer*](https://web.archive.org/web/20150128203353/http:/www.tentonhammer.com/node/15616):
@@ -100,8 +102,10 @@ Compared to what I experienced all those years ago in Closed and Open Beta, *Sta
 
 If you’re a ship junkie who’s entirely unfamiliar with the property, know that *Star Trek*’s ships are *fucking cute*. The [Nebula Class](https://www.startrek.com/article/inside-the-nebula-class-starship), especially, inspires real affection. In my opinion, it alone is worth giving this free-to-play game a shot. My two point eight pound [Surface Laptop 2](https://extratone.com/microsoft-surface-laptop-2-review-windows-future) is enough to run it fairly well at medium-high settings, which is an absurdly low barrier-to-entry. You shouldn’t be worried about investing your time, either – *Star Trek* doesn’t appear to be dying anytime soon.
 
+<!--comment-->
+
 *View more screenshots in [this gallery](https://snap.as/extratone/star-trek-online).*
 
-🗎 [**PRINT/PDF**](https://eileenlong-my.sharepoint.com/:b:/g/personal/david_eileenlonglcsw_com/EXpysApLgutGv5Dl_I1TZOoB_gkj5DeLdeIu4xO0BY45Og)
+🗎 [**PRINT/PDF**](https://acrobat.adobe.com/id/urn:aaid:sc:US:edef724f-301b-4ded-8aca-8aa199c5ad65)
 
-#software
+#software #juegos
