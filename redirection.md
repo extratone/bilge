@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `04192024-154103`
+Updated `06082024-111058`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -146,6 +146,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/gt7**](https://davidblue.wtf/gt7), Redirects to a mirrored Apple Music playlist I created of the official Gran Turismo 7 playlist on Spotify.
 - [**/gt7spotify**](https://davidblue.wtf/gt7spotify), Redirects to the official Gran Turismo 7 playlist on Spotify.
 - [**/guide**](https://davidblue.wtf/guide), Redirects to my Guide profile on Google Guides.
+- [**/guru179**](https://davidblue.wtf/guru179), Redirects to an Itty Bitty Site bounce to open "Introduction to Route 179" in Guru Maps via URL scheme.
 - [**/highlights**](https://davidblue.wtf/highlights), Redirects to the markdown file containing the sum of my annotation via Finn Voorhees' [Highlights for iOS](https://testflight.apple.com/join/OONmU0Z2) (Beta.)
 - [**/hire**](https://davidblue.wtf/hire), Redirects to my “General Consultation” Fantastical Openings page.
 - [**/homebrew**](https://davidblue.wtf/homebrew), Redirects to the WTF documentation page for my preferred Homebrew packages list on macOS installations.
@@ -228,6 +229,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/preview**](https://davidblue.wtf/preview), Redirects to the WTF documentation page for my primary HTML preview template for Drafts.
 - [**/pro**](https://davidblue.wtf/pro), *Also* redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/propagation**](https://davidblue.wtf/propagation), Redirects to the WTF index page for my *propagation* Apple Music Playlist.
+- [**/psn**](https://davidblue.wtf/psn), Redirects to my PlayStation Profiles page.
 - [**/pun**](https://davidblue.wtf/pun), Redirects to a Facebook Life Event page documenting the authorship of my very first pun.
 - [**/pungle**](https://davidblue.wtf/pungle), Redirects to the WTF vocabulary page for *pungle*.
 - [**/quit**](https://davidblue.wtf/quit), Redirects to "I Can't Quit You, Baby" - *This American Life* Episode 806.
