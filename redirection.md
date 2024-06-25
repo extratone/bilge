@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `06082024-111058`
+Updated `06252024-015316`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -308,6 +308,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/ulyssesx**](https://davidblue.wtf/ulyssesx), Redirects to Ulysses' X-Callback Support page, revived!
 - [**/unsolicited**](https://davidblue.wtf/unsolicited), Redirects to the official webpage for Apple, Inc.'s "Unsolicited Idea Submission Policy."
 - [**/up**](https://davidblue.wtf/up), Redirects to a standard Extranet (up) Status utility for most of my web properties.
+- [**/upsv**](https://davidblue.wtf/upsv), Redirects to the IFARB Infinite Flight live map filtered by UPS Virtual flights.
 - [**/usage**](https://davidblue.wtf/usage), Redirects to the WTF documentation page for my ongoing cellular data usage log.
 - [**/userguide**](https://davidblue.wtf/userguide), Redirects to Apple's official "iPhone User Guide" in the Apple Books store.
 - [**/val2021**](https://davidblue.wtf/val2021), Redirects to the main page for the 2021 film *Val* on Amazon Prime Video.
@@ -329,6 +330,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/wishlist**](https://davidblue.wtf/wishlist), Redirects to my HELP Amazon wishlist.
 - [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
 - [**/woofs**](https://davidblue.wtf/woofs), Redirects to the live video stream of my local Yuppie Pet Daycare.
+- [**/xcrun**](https://davidblue.wtf/xcrun), Redirects to the WTF documentation mirror of the original Safari Extension conversion documentation.
 - [**/xspec**](https://davidblue.wtf/xspec), Redirects to the WTF archive page for the original x-callback-url Specification.
 - [**/ytfeed**](https://davidblue.wtf/ytfeed), Redirects to an XML/RSS feed of Extratone's YouTube channel.
 - [**/zariah**](https://davidblue.wtf/zariah),  Redirects to the Craft Publish page for my primary aircraft in Infinite Flight.
