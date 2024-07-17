@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `06252024-015316`
+Updated `07172024-174838`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -53,8 +53,8 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/affect-effect**](https://davidblue.wtf/affect-effect), Redirects to a capture/republished page of "'Affect' vs. 'Effect'" from *Merriam-Webster*.
 - [**/airbag**](https://davidblue.wtf/airbag), *Can I turn your airbag off?*
 - [**/alltrails**](https://davidblue.wtf/alltrails), Redirects to my profile on AllTrails.
-- [**/amandabat**](https://davidblue.wtf/amandabat), Redirects to the WTF documentation page for my efforts to log my iPad Pro's battery consumption.
 - [**/am23**](https://davidblue.wtf/am23), Redirects to the Apple Music share url of my Replay 2023 playlist.
+- [**/amandabat**](https://davidblue.wtf/amandabat), Redirects to the WTF documentation page for my efforts to log my iPad Pro's battery consumption.
 - [**/amandaframes**](https://davidblue.wtf/amandaframes), Redirects to my *iPad Professional* Shared iCloud Photos Album.
 - [**/amandanotes**](https://davidblue.wtf/amandanotes), Redirects to my in-progress master notes file regarding the *iPad Professional.*
 - [**/amandanum**](https://davidblue.wtf/amandanum), Redirects to the live-updated shared Numbers spreadsheet logging my iPad Pro's battery consumption.
@@ -94,9 +94,10 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/church**](https://davidblue.wtf/church), Redirects to the WTF documentation page for my *If you scared, go to church* Apple Music playlist.
 - [**/codenames**](https://davidblue.wtf/codenames), Redirects to the WTF index page of iPhone OS/iOS Development Codenames.
 - [**/columbiamobot**](https://davidblue.wtf/columbiamobot), Redirects to the WTF documentation page for the Columbia MO Telegram Bot.
-- [**/coolpix**](https://davidblue.wtf/coolpix), Redirects to my collected WTF documentation index for the Nikon COOLPIX E990 digicam.
 - [**/command**](https://davidblue.wtf/command), Redirects to a ... page... in my Notion workspace containing my synced annotation via Command Browser.
 - [**/community**](https://davidblue.wtf/community), Redirects to the WTF documentation page for my Drafts Twitter Community experiment.
+- [**/como**](https://davidblue.wtf/como), Redirects to the absurd, all data encoded-inline URL required to open render my "Columbia Area Essentials" Apple Maps Guide for locals.
+- [**/coolpix**](https://davidblue.wtf/coolpix), Redirects to my collected WTF documentation index for the Nikon COOLPIX E990 digicam.
 - [**/costar**](https://davidblue.wtf/costar), Redirects to my Co-Star page - a beautifully-rendered representation of my astrological chart.
 - [**/cpsam**](https://davidblue.wtf/cpsam), Redirects to the Apple Maps share link for the Columbia Public Schools main building.
 - [**/craftx**](https://davidblue.wtf/craftx), Redirects to a published Craft note containing the documentation for Craft's URL scheme support.
