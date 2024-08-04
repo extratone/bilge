@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `07172024-174838`
+Updated `08032024-211523`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -175,6 +175,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/juke**](https://davidblue.wtf/juke), Redirects to the fifth episode of my old car show, *Honk*, regarding the Nissan Juke NISMO.
 - [**/k2keys**](https://davidblue.wtf/k2keys), Redirects to the WTF documentation page for the Keychron K2's key combinations.
 - [**/kb43**](https://davidblue.wtf/kb43), Redirects to the iCloud Drive share URL to my packaged (Ken Block) KB43 Word Mark.
+- [**/kcou**](https://davidblue.wtf/kcou), Redirects to a schemed [Broadcasts](https://apps.apple.com/us/app/broadcasts/id1469995354) URL that creates a station for the University of Missouri's student radio station, KCOU 88.1FM.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
 - [**/knowledge**](https://davidblue.wtf/knowledge), Redirects to my profile on KnowledgeHub.
