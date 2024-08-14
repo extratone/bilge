@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08032024-211523`
+Updated `08142024-075904`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -318,6 +318,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/vocabulary**](https://davidblue.wtf/vocabulary), Redirects internally to the WTF vocabulary index.
 - [**/vr**](https://davidblue.wtf/vr), Redirects to "Virtual Reality Virginity, Lost" on *The Psalms*.
 - [**/wallpaper**](https://davidblue.wtf/wallpaper), Redirects to my shared Wallpapers iCloud Photos album.
+- [**/wargaming**](https://davidblue.wtf/wargaming), Redirects to my platform-wide, *10 fucking year old* Wargaming.net profile page.
 - [**/warranty**](https://davidblue.wtf/warranty), Redirects to the WTF documentation page for my GTI's warranty.
 - [**/warzone**](https://davidblue.wtf/warzone), Redirects to my invite link in Call of Duty: Warzone Mobile.
 - [**/waterminder**](https://davidblue.wtf/waterminder), Redirects to my fucking shared WaterMinder data.
