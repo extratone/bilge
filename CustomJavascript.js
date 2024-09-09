@@ -1,23 +1,32 @@
-var topP = document.createElement("p");
+let script = document.createElement("script");
+script.type = "text/javascript";
+script.defer = true;
+script.src = "https://tinylytics.app/embed/es7bhjhkDCy3YXWaMChz.js";
+document.body.appendChild(script);
+
+// "This code creates a new <p> element with the div "custom-nav" and it's content. The following code looks for a element with the wrapper id and adds the new <p> element. If the element with the wrapper id is not present, then the <p> element is added after the post-body element. There is then code which sets a hypothesis config which sets the sidebar to stay closed and sets custom colors. The last part of the code looks into the post-body element, finds any footnote reference and then changes them into a clickable link."
+
 //topP.style.textAlign = "center";
-topP.innerHTML = '<hr><div class="custom-nav"><a rel="me" href="https://tiny.write.as/bilge">Tiny</a> ※ <a href="https://twitter.com/NeoYokel">Twitter</a> ※ <a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://gist.github.com/extratone/140a11428b5dd1dda500b3928e0438b1">License</a></div>';
+
+var topP = document.createElement("p");
+topP.innerHTML = `<hr><div class="custom-nav"><a rel="me" href="https://tiny.write.as/bilge/${location.pathname}">Tiny</a> ※ <a href="https://davidblue.wtf/sms">SMS</a> ※ <a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://write.as/bilge/archive">Archive</a></div>`;
 var cont = document.getElementById("wrapper");
 if (cont !== null) {
-    // Add to blog index and tag pages
-    cont.appendChild(topP);
+	// Add to blog index and tag pages
+	cont.appendChild(topP);
 } else {
-    // Add to individual blog post page
-    cont = document.getElementById("post-body");
-    cont.insertAdjacentHTML("afterend", topP.outerHTML);
+	// Add to individual blog post page
+	cont = document.getElementById("post-body");
+	cont.insertAdjacentHTML("afterend", topP.outerHTML);
 }
 
 // src: https://platform.twitter.com/widgets.js
 
-.= src: https://hypothes.is/embed.js
+src: https://hypothes.is/embed.js
 
 window.hypothesisConfig = function () {
   return {
-    "openSidebar": false, 
+    "openSidebar": true, 
     "theme": "clean",
     branding: {
       appBackgroundColor: '#e6f7ff',
@@ -38,5 +47,5 @@ var refText = "<a name=\"fnref$1\"></a><sup><a class=\"footnote-ref\" href=\"#fn
 
 var postContent = document.getElementById("post-body").innerHTML;
 postContent = postContent.replace(notePattern, noteText);
-postContent = postContent.replace(refPattern#, refText);
+postContent = postContent.replace(refPattern, refText);
 document.getElementById("post-body").innerHTML = postContent;
