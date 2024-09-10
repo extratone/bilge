@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `08142024-075904`
+Updated `09102024-112719`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -216,8 +216,10 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/obsidian**](https://davidblue.wtf/obsidian), Redirects to my Obsidian-specific Raindrop collection.
 - [**/onamp**](https://davidblue.wtf/onamp), Redirects to my (@extratone) profile on Amazon's new social audio app/network.
 - [**/openaireply**](https://davidblue.wtf/openaireply), Redirects to a Shared Numbers spreadsheet full of live-updated OpenAI Foolery Responses.
+- [**/operators**](https://davidblue.wtf/operators), Redirects to the WTF reference page for Google Search Operators.
 - [**/pain**](https://davidblue.wtf/pain), Redirects to Frankie Muniz's iconic Tweet.
 - [**/panicurine**](https://davidblue.wtf/panicurine), Redirects to the *Colornames* web page for *Panic Urine* (#f7ff85.)
+- [**/pay**](https://davidblue.wtf/pay), Redirects to Extratone's Cash App payment link.
 - [**/pendictionary**](https://davidblue.wtf/pendictionary), Redirects to the WTF documentation page for Goulet Pens' *Glossary of Fountain Pen Terminology*.
 - [**/periscope**](https://davidblue.wtf/periscope). Redirects to the “Periscope” playlist on *Extratone*’s YouTube channel.
 - [**/pfchangs**](https://davidblue.wtf/pfchangs), Redirects to the native Twitter URL of the PF Changs Joke Sports Tweet.
@@ -295,6 +297,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/thingschrome**](https://davidblue.wtf/thingschrome), Redirects to the WTF documentation page for my Things Chrome Theme.
 - [**/thingsnoir**](https://davidblue.wtf/thingsnoir), Redirects to the installation URL for my Things Dark Noir theme.
 - [**/thingsupdate**](https://davidblue.wtf/thingsupdate), Redirects to the WTF documentation page for my Things Update Drafts action.
+- [**/tiktok**](https://davidblue.wtf/tiktok), Redirects to my TikTok profile.
 - [**/tildedrop**](https://davidblue.wtf/tildedrop), Redirects to my tilde Raindrop collection.
 - [**/timmy**](https://davidblue.wtf/timmy), Redirects to the WTF documentation page for Timmy's Pool Party.
 - [**/toot**](https://davidblue.wtf/toot), Redirects to a Mastodon thread by Eugen Rochko explaining the origin of the term "toot."
