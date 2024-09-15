@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09102024-112719`
+Updated `09152024-001742`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -256,7 +256,8 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/screw**](https://davidblue.wtf/screw), Redirects to the WTF documentation for my DJ Screw Discography Raindrop Collection - an Index of the DJ Screw Discography Collection on Archive.org.
 - [**/screwball**](https://davidblue.wtf/screwball), Redirects to the WTF vocabulary page for *screwball*.
 - [**/scrubs**](https://davidblue.wtf/scrubs), Redirects to the WTF-local “Siri Shortcuts for Scrubs” library.
-- [**/scud**](https://davidblue.wtf/scud), Redirects to the WTF vocabulary page for "scud.
+- [**/scud**](https://davidblue.wtf/scud), Redirects to the WTF vocabulary page for "scud."
+- [**/seal**](https://davidblue.wtf/seal), Redirects to the WTF documentation page for The Navy SEAL Copypasta.
 - [**/services**](https://davidblue.wtf/services), Redirects to my "Services I Offer" page.
 - [**/sessionize**](https://davidblue.wtf/sessionize), Redirects to my speaker profile on Sessionize.
 - [**/shazam**](https://davidblue.wtf/shazam), Redirects to the Apple Music share URL for my automatically-generated "My Shazam List" playlist.
