@@ -2,7 +2,15 @@
 
 ![Fin from The Star War](https://i.snap.as/WZE6gzb.jpeg)
 
-'Twas was the night after Christmas (I think,) and I was in the same scroogy mood I must maintain for consistency of appearances *&* equilibrium of family dynamics every year. Everywhere, there were words on the newest Stair Wiggling…everywhere THEY were wiggling… And I was being wit-bitter on the TL. For you, I’d planned on continuing in the usual way, so as not to startle your precious Hans Zimmer-embossed heart.
+## The Agony and The Great Greasy Ecstasy of Eternal Reboot
+
+<!--more-->
+
+<audio controls>
+  <source src="https://davidblue.wtf/audio/stairswiggling.m4a">
+</audio>
+
+'Twas the night after Christmas (I think,) and I was in the same scroogy mood I must maintain for consistency of appearances *&* equilibrium of family dynamics every year. Everywhere, there were words on the newest Stair Wiggling…everywhere THEY were wiggling… And I was being wit-bitter on the TL. For you, I’d planned on continuing in the usual way, so as not to startle your precious Hans Zimmer-embossed heart.
 
 I’m sure you’re a tolerable being, and there’s nothing you’d rather read less at this hour (whatever hour it may be,) but I really despise going to the movies. I always end up getting sick from the popcorn, which I buy every outing because I have grown weary and weathered, and cannot sit for two straight hours without consuming something, so troubled is my stomach now with Big Boy woes.
 
@@ -18,8 +26,7 @@ To children, chocolate is like water [insert dystopian, but probably more metaph
 
 Metatots aside, it’s important to recognize how integral the IP’s illusion of limitlessness is to its appeal. It is not contained within the future of humanity, near or distant. The stories, characters, species, cultures, and conflicts come from *a long time ago, in a galaxy far, far away*… There is no more perfectly concise introductory sentence to unshackle us from our history and our planet, sparing us from the ridiculously irrational instinct to make comparisons between fictional realities and our own that so plagues and defines the consumption of science fiction.
 
-These processes are often welcome, of course, but they tether us to ourselves and our familiars, which tends to hinder the complete manifestation of the *ultimate* sense of adventure.
-Even to the most petty plot ponderers, the time and effort it requires to arrive in *Star Wars* with externally-acquired foreknowledge is not a worthwhile investment. This is why so many (including myself) look upon *A New Hope* with such fondness and favoritism — the premier of the universe was at its potential apogee from the start.
+These processes are often welcome, of course, but they tether us to ourselves and our familiars, which tends to hinder the complete manifestation of the *ultimate* sense of adventure. Even to the most petty plot ponderers, the time and effort it requires to arrive in *Star Wars* with externally-acquired foreknowledge is not a worthwhile investment. This is why so many (including myself) look upon *A New Hope* with such fondness and favoritism — the premier of the universe was at its potential apogee from the start.
 
 Though it is inviting with its ellipses and cooling hue, that title card is actually saying “you don’t know shit about what you’re about to see. Don’t make the mistake of trying to be the first one to dissect it, because you’ll fail, regardless of how cultured or analytically superior you are. From this moment until you see credits, every one of you is an ignorant little child…”
 
@@ -39,8 +46,6 @@ Um.
 
 I mean… the Smug Cowards in their big taxation balloon!
 
-<iframe width="100%" height="250" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/657334106&color=%231125aa&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-
 I must confess that I did feel something huge when the lights dimmed, the aforementioned disclaimer appeared, and the theme’s jarring introductory chord hit me in the face, beginning the opening crawl. I actually smiled *involuntarily*, which is tremendously embarrassing to admit because the warmth I felt was exactly the sensation that defined my childhood experiences with the franchise. I even had a gigantic model of the *Moderate Fashion*, which would now be worth a lot of money (or so I’m told,) had it not been so damaged in my frivolous storage.
 
 Unfortunately, that frisky feeling of adventure promptly wisped through the screen’s grasp after the “obligatory” scrolling yellow text -> “there’s a big spaceship moving slowly” transition. Aside from the adorably entrancing romantic tension between Timid Traitor and Sentimental Squatter, there was nothing very *Star Wars* about anything I saw. The cards were a deceiving gate into a world that was distinctly NOT *Star Wars*. There’s no need to mess about; it’s clearly an alternate reality from the one we’ve known. J.J.‘s *Star Trek*was in such a way, too, but it was explicitly identified as such by the production. Traditionally, Lucas’ IP wouldn’t necessarily allow for this exemption, but nobody’s been all that vocal in confronting it, to my knowledge.
@@ -52,4 +57,6 @@ Despite millions of dollars worth of polish, they’ve still ended up feeling li
 
 Your son is **DEAD**, Georgino. There are some things man would do better by leaving alone and moving on. Imagine all that cash and creative talent spent on *new ideas* instead of desperate attempts to charm and cultivate the shallowest part of moviegoers’ spectrum. *So much sweat* shed trying to recreate the *new franchise* bewitchment is embarrassingly cowardly when one could just *create a new franchise*.
 
-#film
+<!--comment-->
+
+#film #spectacle
