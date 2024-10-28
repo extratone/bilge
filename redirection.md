@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `09152024-001742`
+Updated `10282024-134528`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -16,6 +16,7 @@ Updated `09152024-001742`
 - [Medium](https://extratone.medium.com/3685289b398d)
 - [Simplenote Publish](http://simp.ly/publish/7G1cRt)
 - [Simplenote Local](simplenote://note/8a3aa299b90242f6984b8e11515fb1e7)
+- [Micro Note](https://davidblue.blog/notes/0c4b37bd0bacd1c03ff44c354d1422.html)
 - [Ulysses](ulysses://x-callback-url/open?id=GLpllyiGdzyanGc5tV1F8g)
 - [Things]([Things](things:///show?id=4ACkCyj5WAMdCW2RUz5Wm7))
 
@@ -92,6 +93,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/casenet**](https://davidblue.wtf/casenet), Look me up on Case.net!
 - [**/checklist**](https://davidblue.wtf/checklist), Redirects to the WTF documentation page for my conversion of FedEx Virtual's Live Aircraft Checklist.
 - [**/church**](https://davidblue.wtf/church), Redirects to the WTF documentation page for my *If you scared, go to church* Apple Music playlist.
+- [**/clearcut**](https://davidblue.wtf/clearcut), Redirects to my "Witnessed Clearcutting" Google Map.
 - [**/codenames**](https://davidblue.wtf/codenames), Redirects to the WTF index page of iPhone OS/iOS Development Codenames.
 - [**/columbiamobot**](https://davidblue.wtf/columbiamobot), Redirects to the WTF documentation page for the Columbia MO Telegram Bot.
 - [**/command**](https://davidblue.wtf/command), Redirects to a ... page... in my Notion workspace containing my synced annotation via Command Browser.
@@ -180,7 +182,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
 - [**/knowledge**](https://davidblue.wtf/knowledge), Redirects to my profile on KnowledgeHub.
 - [**/kudzubat**](https://davidblue.wtf/kudzubat), Redirects to a shared Numbers spreadsheet containing "live", semi-automated battery logging data from my second iPad 13,9.
-- [**/l**](https://davidblue.wtf/l), Redirects to Martha Stewart's most important Tweet.
+- [**/l**](https://davidblue.wtf/l), Redirects to an archive.is capture of Martha Stewart's best Tweet.
 - [**/latte**](https://davidblue.wtf/latte), Redirects to the WTF documentation page for my GitHub Repository Template.
 - [**/ledger**](https://davidblue.wtf/ledger), Redirects to the WTF documentation page for my Siri Shortcuts Ledger.
 - [**/legacyredirects**](https://davidblue.wtf/legacyredirects), Redirects to an archive of the original *Extranet Redirection* document - the inspiration for this thing!
@@ -200,6 +202,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/mdx**](https://davidblue.wtf/mdx), Redirects to the WTF snippets page of the MDX Specification.
 - [**/mediumapi**](https://davidblue.wtf/mediumapi), Redirects to the WTF documentation page for Medium's API.
 - [**/meme**](https://davidblue.wtf/meme), Redirects to the WTF vocabulary page for *meme*.
+- [**/micro**](https://davidblue.wtf/micro), Redirects to my Micro.blog profile page.
 - [**/microblog**](https://davidblue.wtf/microblog), Redirects to the WTF documentation page for my micro.blog trial experiment.
 - [**/microdrop**](https://davidblue.wtf/microdrop), Redirects to my Micro.Blog Raindrop collection.
 - [**/middlenames**](https://davidblue.wtf/middlenames), Redirects to the WTF aggregation/documentation page for my ancient Middle Name Candidates list.
