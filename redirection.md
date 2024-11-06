@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `10282024-134528`
+Updated `11052024-233230`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -285,6 +285,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/springtweetcapture**](https://davidblue.wtf/springtweetcapture), Redirects to the WTF documentation page for my Spring Tweet Capture Siri Shortcut.
 - [**/springx**](https://davidblue.wtf/springx), Redirects to the WTF documentation page for Spring for Twitter's URL Scheme.
 - [**/spykids3spam**](https://davidblue.wtf/spykids3spam), Redirects to the WTF documentation page for my SpyKids3Spam Siri Shortcut.
+- [**/squares**](https://davidblue.wtf/squares), Redirects to the WTF documentation page for `squares` - my Python-based command line application for finding square numbers.
 - [**/sswiki**](https://davidblue.wtf/sswiki), Redirects to an index of my writing on Social Web Software and Services in *The Psalms* GitHub Wiki.
 - [**/stern**](https://davidblue.wtf/stern), Redirects to *The Wall Street Journal*'s author page for Joanna Stern, Senior Personal Technology Columnist.
 - [**/stripe**](https://davidblue.wtf/stripe), Redirects to a Stripe pay link to tip me directly.
