@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `11052024-233230`
+Updated `12012024-210458`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -131,6 +131,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/electriccar**](https://davidblue.wtf/electriccar), Redirects to an excerpt from *The Gasoline Automobile* regarding EVs.
 - [**/escort**](https://davidblue.wtf/escort), Redirects to Pro-Choice Missouri's Clinic Escort signup form.
 - [**/evo**](https://davidblue.wtf/evo), Redirects to what I was able to finish of the *HONK* episode reviewing the Mitsubishi Lancer Evo X.
+- [**/extensions**](https://davidblue.wtf/extensions), Redirects to the WTF documentation page for my installed/recommended Safari Extensions.
 - [**/extratext**](https://davidblue.wtf/extratext), Redirects to the WTF documentation page for my Extratext TextExpander Snippet Group.
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
 - [**/fdxlog**](https://davidblue.wtf/fdxlog), Redirects to the Craft Publish page of my Flight Log for FedEx Virtual.
