@@ -60,6 +60,14 @@ Emailing [**davidblue@extratone.com**](mailto:davidblue@extratone.com) and/or en
 
 <!--emailsub-->
 
+#### NotebookLM
+
+<audio controls>
+  <source src="https://davidblue.wtf/audio/notebookllm-psalms.wav">
+</audio>
+
+# Google's new-ish NotebookLM project allows one to upload documents (like the entirety of *The Psalms* in a single PDF, in this case) as source files from which their LLM will draw in content of various mediums. The audio file above is the (once again, "AI-generated") result of selecting "Audio Overview." If you're brave enough, you should be able to chat directly with the *corpus* using [this share link](https://notebooklm.google.com/notebook/264a55d1-44b6-4754-9364-2ffe61021b30?pli=1&authuser=4).
+
 *Technical details about this blog and the best CMS/hosting service to ever grace the web can be found on [the Colophon](https://bilge.world/colophon).*
 
 
