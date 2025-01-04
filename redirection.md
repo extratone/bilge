@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `12012024-210458`
+Updated `01042025-021448`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -181,6 +181,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/kcou**](https://davidblue.wtf/kcou), Redirects to a schemed [Broadcasts](https://apps.apple.com/us/app/broadcasts/id1469995354) URL that creates a station for the University of Missouri's student radio station, KCOU 88.1FM.
 - [**/keep**](https://davidblue.wtf/keep), Redirects to a private gist of all my saved terminal commands.
 - [**/keysdrop**](https://davidblue.wtf/keysdrop), Redirects to my iPhone Keyboarding-specific Raindrop collection.
+- [**/kick**](https://davidblue.wtf/kick), Redirects to my Kick channel.
 - [**/knowledge**](https://davidblue.wtf/knowledge), Redirects to my profile on KnowledgeHub.
 - [**/kudzubat**](https://davidblue.wtf/kudzubat), Redirects to a shared Numbers spreadsheet containing "live", semi-automated battery logging data from my second iPad 13,9.
 - [**/l**](https://davidblue.wtf/l), Redirects to an archive.is capture of Martha Stewart's best Tweet.
