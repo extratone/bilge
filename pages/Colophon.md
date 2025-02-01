@@ -1,5 +1,3 @@
-# Colophon
-
 ![Editorial Git - Wood](https://i.snap.as/ocT2o2B3.png)
 
 ## *The Psalms* is proudly hosted by [Write.as](http://write.as/about) - a new sort of blogging content management system built atop [Markdown](https://daringfireball.net/projects/markdown/) and maintained by a company which [explicitly shares](https://write.as/principles) my commitment to a better, Open web.
@@ -38,9 +36,13 @@ A somewhat-outdated version of this site's theme is [listed among others](https:
 
 ## Code
 
-[_The Psalms’_ GitHub Repository](https://github.com/extratone/bilge) also hosts the technical documentation for its Write.as theme. Download the latest "release," [**here**](https://github.com/extratone/bilge/releases) and/or view the raw CSS [here](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css).
+[_The Psalms’_ GitHub Repository](https://github.com/extratone/bilge) also hosts the technical documentation for its Write.as theme. Download the latest “release,” [**here**](https://github.com/extratone/bilge/releases) and/or view the raw CSS [here](https://github.com/extratone/bilge/blob/main/Custom%20CSS.css).
 
 ![The Psalms Refreshed](https://user-images.githubusercontent.com/43663476/156899034-ee1121fb-b883-4bd1-ab83-e5aa6e43e08d.png)
+
+## Analytics
+
+View [**Tinylytics' basic page view analysis**](https://dub.sh/bilgestats) for *The Psalms*' last 30 days.
 
 ### Drafts Theme
 
