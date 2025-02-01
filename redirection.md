@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `01042025-021448`
+Updated `02012025-025645`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -77,6 +77,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/bereal**](https://davidblue.wtf/bereal), Redirects to my invitation(?)/profile on BeReal.
 - [**/bezels**](https://davidblue.wtf/bezels), Redirects to the WTF documentation page for my shared Apple Design Resources project.
 - [**/bigboy**](https://davidblue.wtf/bigboy), Redirects to my *Big Boy, Big Phone* shared iCloud Photos album.
+- [**/bilgestats**](https://davidblue.wtf/bilgestats), Redirects to *The Psalms* public Tinylytics stats page.
 - [**/birthday**](https://davidblue.wtf/birthday), Redirects to the Drywall birthday joke video.
 - [**/blessed**](https://davidblue.wtf/blessed), Redirects to my Blessed Web Utilities Raindrop collection.
 - [**/blinkgreyhound**](https://davidblue.wtf/blinkgreyhound), WTF documentation page for my Greyhound Blink Shell theme.
