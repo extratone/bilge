@@ -137,6 +137,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/facebook**](https://davidblue.wtf/facebook), Redirects to my Facebook profile.
 - [**/fdxlog**](https://davidblue.wtf/fdxlog), Redirects to the Craft Publish page of my Flight Log for FedEx Virtual.
 - [**/film**](https://davidblue.wtf/film), Redirects to "David Blue on Film and Cinema."
+- [**/finalblow**](https://davidblue.wtf/finalblow), Redirects to my primary *Eve Echoes* character's statistics on the third-party service FinalBlow.
 - [**/follow**](https://davidblue.wtf/follow), Redirects to the master “Why I Didn’t Follow You Back” WTF page.
 - [**/following**](https://davidblue.wtf/following), Redirects to the WTF documentation page for my followed Mastodon accounts index.
 - [**/freeform**](https://davidblue.wtf/freeform), Redirects to a public invitation link to my single test Freeform document.
@@ -210,6 +211,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/microdrop**](https://davidblue.wtf/microdrop), Redirects to my Micro.Blog Raindrop collection.
 - [**/middlenames**](https://davidblue.wtf/middlenames), Redirects to the WTF aggregation/documentation page for my ancient Middle Name Candidates list.
 - [**/miffed**](https://davidblue.wtf/miffed), Redirects to the WTF Vocabulary entry for *miffed*.
+- [**/mistakes**](https://davidblue.wtf/mistakes), Redirects to my favorite Reddit image of all time.
 - [**/moment**](https://davidblue.wtf/moment), David Blue.
 - [**/monsanto**](https://davidblue.wtf/monsanto), Redirects to my legacy Monsanto Merch Redbubble product page.
 - [**/murano**](https://davidblue.wtf/murano), Redirects to the WTF documentation page for "Nissan Murano CrossCabriolet - The Ego Divide."
