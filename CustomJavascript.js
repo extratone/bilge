@@ -9,7 +9,7 @@ document.body.appendChild(script);
 //topP.style.textAlign = "center";
 
 var topP = document.createElement("p");
-topP.innerHTML = `<hr><div class="custom-nav"><a rel="me" href="https://tiny.write.as/bilge/${location.pathname}">Tiny</a> ※ <a href="https://davidblue.wtf/sms">SMS</a> ※ <a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://write.as/bilge/archive">Archive</a></div>`;
+topP.innerHTML = `<hr><div class="custom-nav"><a rel="me" href="https://_tiny.write.as/bilge/${location.pathname}">Tiny</a> ※ <a href="https://davidblue.wtf/sms">SMS</a> ※ <a rel="me" href="https://mastodon.social/@DavidBlue">Mastodon</a> ※ <a href="https://github.com/extratone/bilge">GitHub</a> ※ <a href="https://write.as/bilge/archive">Archive</a></div>`;
 var cont = document.getElementById("wrapper");
 if (cont !== null) {
 	// Add to blog index and tag pages
