@@ -1,5 +1,5 @@
 # WTF Redirection
-Updated `02012025-025645`
+Updated `07142025-105520`
 
 [**WTF Redirection Update**](shortcuts://run-shortcut?name=WTF%20Redirection%20Update)
 
@@ -304,6 +304,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/telegraph**](https://davidblue.wtf/telegraph), Redirects to the WTF index page for my posts on Telegra.ph.
 - [**/terminology**](https://davidblue.wtf/terminology), Redirects to the WTF copy of my Terminology Dictionary App Store Review.
 - [**/terms**](https://davidblue.wtf/terms), Redirects to a GitHub Gist containing the Privacy Policy and Working Terms of Service for All Extratone Media Properties.
+- [**/testrudel**](https://davidblue.wtf/testrudel), Redirects to a shared Numbers spreadsheet documenting my TidalCycles/Strudel TextExpander snippet group.
 - [**/thingschrome**](https://davidblue.wtf/thingschrome), Redirects to the WTF documentation page for my Things Chrome Theme.
 - [**/thingsnoir**](https://davidblue.wtf/thingsnoir), Redirects to the installation URL for my Things Dark Noir theme.
 - [**/thingsupdate**](https://davidblue.wtf/thingsupdate), Redirects to the WTF documentation page for my Things Update Drafts action.
@@ -346,6 +347,7 @@ If you happen to have/be interested in trying [GizmoPack for iOS/iPadOS](https:/
 - [**/wishlist**](https://davidblue.wtf/wishlist), Redirects to my HELP Amazon wishlist.
 - [**/withlove**](https://davidblue.wtf/withlove), Redirects to my "remix" of Hilary Duff's *With Love* on Whyp.
 - [**/woofs**](https://davidblue.wtf/woofs), Redirects to the live video stream of my local Yuppie Pet Daycare.
+- [**/wstar**](https://davidblue.wtf/wstar), Redirects to the WeatherStar 4000+ display for Columbia, MO.
 - [**/xcrun**](https://davidblue.wtf/xcrun), Redirects to the WTF documentation mirror of the original Safari Extension conversion documentation.
 - [**/xspec**](https://davidblue.wtf/xspec), Redirects to the WTF archive page for the original x-callback-url Specification.
 - [**/ytfeed**](https://davidblue.wtf/ytfeed), Redirects to an XML/RSS feed of Extratone's YouTube channel.
